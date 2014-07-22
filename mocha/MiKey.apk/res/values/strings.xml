@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_capture_video">录制视频</string>
+  <string name="action_clear_call_list">清空通话记录</string>
+  <string name="action_clear_memory">清除内存</string>
+  <string name="action_clear_sms_inbox">清空收件箱</string>
+  <string name="action_close">关闭</string>
+  <string name="action_home">HOME键</string>
+  <string name="action_lock_screen">锁屏键</string>
+  <string name="action_open_camera">拍照</string>
+  <string name="action_open_camera2">闪拍</string>
+  <string name="action_open_camera360_capture">Camera360 特效相机</string>
+  <string name="action_open_camera360_edit">Camera360 图片编辑</string>
+  <string name="action_open_flashlight">手电</string>
+  <string name="action_open_mi_route">智能设备列表</string>
+  <string name="action_open_or_close_motion">屏幕旋转锁定</string>
+  <string name="action_open_other_app">打开程序</string>
+  <string name="action_open_sound_recorder">录音</string>
+  <string name="action_open_wechat">微信聊天</string>
+  <string name="action_phone">打电话</string>
+  <string name="action_qrcode">扫描二维码</string>
+  <string name="action_screen_shot">截屏</string>
+  <string name="action_send_text_message">发短信</string>
+  <string name="action_share_to_miliao">米聊</string>
+  <string name="action_share_to_miliao_wall">米聊广播</string>
+  <string name="action_share_to_moment">微信朋友圈</string>
+  <string name="action_share_to_wechat">微信</string>
+  <string name="action_share_to_weibo">新浪微博</string>
+  <string name="action_toolbox">工具箱</string>
+  <string name="action_zero_volume">静音</string>
+  <string name="add">添加</string>
+  <string name="add_to_contacts">Add to contact</string>
+  <string name="address">Address:</string>
+  <string name="app_name">米键</string>
+  <string name="app_not_installed">应用未安装</string>
+  <string name="back_camera">后置</string>
+  <string name="birthday">Birthday:</string>
+  <string name="call_to">打电话给</string>
+  <string name="cancel">取消</string>
+  <string name="category_app">程序应用</string>
+  <string name="category_system_settings">系统设置</string>
+  <string name="clean_memory">成功清理当前内存</string>
+  <string name="click_to_open">点击打开</string>
+  <string name="close_all">关闭之前操作</string>
+  <string name="close_flash_error">Fail to turn off the flash</string>
+  <string name="close_recorder">你有一条新录音</string>
+  <string name="cn_0">零</string>
+  <string name="cn_1">一</string>
+  <string name="cn_10">十</string>
+  <string name="cn_100">百</string>
+  <string name="cn_1000">千</string>
+  <string name="cn_10000">万</string>
+  <string name="cn_100000000">亿</string>
+  <string name="cn_2">二</string>
+  <string name="cn_3">三</string>
+  <string name="cn_4">四</string>
+  <string name="cn_5">五</string>
+  <string name="cn_6">六</string>
+  <string name="cn_7">七</string>
+  <string name="cn_8">八</string>
+  <string name="cn_9">九</string>
+  <string name="company">Company:</string>
+  <string name="confirm">确定</string>
+  <string name="copy">Copy</string>
+  <string name="copy_succeed">Copy successfully</string>
+  <string name="default_action_title">这是一个基本动作</string>
+  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
+  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
+  <string name="delete">删除</string>
+  <string name="delete_confirm">删除该选项?</string>
+  <string name="delete_gesture">删除该按键配置?</string>
+  <string name="device_not_recognized">识别错误了，请重新插入米键</string>
+  <string name="earphone">耳机</string>
+  <string name="email">Email:</string>
+  <string name="fail_generate_barcode">Fail to generate a barcode or QR code</string>
+  <string name="faq_comp_text">除小米1代之外的小米手机都能够使用。因为1代小米上有一个更牛X的米键。 米键目前仅支持MIUI-V5系统，同时需要下载米键App才能使用。</string>
+  <string name="faq_comp_title">哪些手机能用米键？</string>
+  <string name="faq_focus_text">闪拍对焦是默认开启的，对焦与测光会使得闪拍变慢，但能够得到清晰的影像。希望速度更快可以尝试关闭闪拍对焦，这会导致图片模糊曝光错误。</string>
+  <string name="faq_focus_title">闪拍模糊？太慢？</string>
+  <string name="faq_misreq_text">锁屏下按键短暂失灵是因为手机休眠所致。 未锁屏下变成了音乐等第三方软件的控制，是因为米键被劫持，请关闭音乐，清除内存和通知栏，在米键App中插入米键，选择米键就好。 这一问题工程师正在解决，由于比较复杂，一两个更新迭代无法完成，请各位米粉见谅，我们仍在不懈的努力。</string>
+  <string name="faq_misreq_title">失灵了怎么办？</string>
+  <string name="faq_plug_text">按此方法插入米键可以有效避免识别错误的问题。按住边缘插入，避免按到按键。</string>
+  <string name="faq_plug_title">识别总是错误？</string>
+  <string name="faq_quni_text">能够承受大于30000次的点击，想怎么按就怎么按。</string>
+  <string name="faq_quni_title">米键能用多久？</string>
+  <string name="faq_slow_text">可以将设置中的“点击速度”调整为“0”，这样能够给你想要的感觉～</string>
+  <string name="faq_slow_title">单击反应慢？</string>
+  <string name="faq_speed_text">由于手机差异，导致响应速度不同，可以在设置中调节点击速度，找到适合自己手机的节奏。</string>
+  <string name="faq_speed_title">连击不成功？</string>
+  <string name="faq_stat_text">排名每晚零时会清零，当你醒来又是一个新的开始。</string>
+  <string name="faq_stat_title">点击次数怎么变成了“0”？</string>
+  <string name="faq_title">米键问答</string>
+  <string name="faq_voice_text">把米键重新插入一次，确保选择了“米键”</string>
+  <string name="faq_voice_title">打电话没有声音？</string>
+  <string name="faq_vsm_text">确保在取下手机后盖前，先将米键拔出！</string>
+  <string name="faq_vsm_title">使用注意事项</string>
+  <string name="file_delimiter">／</string>
+  <string name="flash_lable">Flash</string>
+  <string name="front_camera">前置</string>
+  <string name="goto_update">更新</string>
+  <string name="input_phone">请输入电话号码</string>
+  <string name="long_click">长按</string>
+  <string name="message_photo_end">照片已保存</string>
+  <string name="name">Name:</string>
+  <string name="nickname">Nickname:</string>
+  <string name="no_usage">...</string>
+  <string name="note">Note:</string>
+  <string name="notification_control_play">播放</string>
+  <string name="notification_control_stop">停止</string>
+  <string name="notification_recorder_file_location">录音存放在：</string>
+  <string name="notification_recorder_start">正在录音...</string>
+  <string name="open_flash_error">Fail to turn on the flash</string>
+  <string name="phone">Phone:</string>
+  <string name="picker_lable">Gallery</string>
+  <string name="place_barcode_into_rectangle">Place QR code or bar code inside the viewfinder rectangle</string>
+  <string name="rank_prefix">全球排名: 第</string>
+  <string name="rank_suffix">位</string>
+  <string name="recognize">Recognize</string>
+  <string name="recommend">工程师推荐</string>
+  <string name="running_notification">米键正在运行</string>
+  <string name="scan_fail">Fail to scan</string>
+  <string name="scan_result">Scan result</string>
+  <string name="sdcard">存储卡</string>
+  <string name="select_camera">请选择摄像头</string>
+  <string name="select_device">你插入的设备是?</string>
+  <string name="setting_buy">购买米键</string>
+  <string name="setting_feedback">吐槽米键</string>
+  <string name="setting_instant_photo_desc">"闪拍对焦会影响到闪拍的速度，开启能够得到
+锐利的图像,但拍摄的时间会稍微变长。"</string>
+  <string name="setting_instant_photo_text">闪拍对焦</string>
+  <string name="setting_keeplive_desc">"实时待命模式下,米键会一直保持快速响应的状态。
+但这会比较的耗电,请根据使用场景酌情开启。"</string>
+  <string name="setting_keeplive_text">实时待命模式</string>
+  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
+  <string name="setting_key_mode_silent_open">key_silent_default</string>
+  <string name="setting_key_silent">key_silent</string>
+  <string name="setting_silent_mode">禁用米键</string>
+  <string name="setting_silent_mode_default">耳机模式 (拔出米键)</string>
+  <string name="setting_silent_mode_desc">"选择耳机模式后请务必拔出米键，否则会导致没有声音。
+
+选择防尘塞模式
+启动手机仍然需要对耳机孔内的设备做出选择，
+因为手机是无法识别的。
+如果你在一段时间中经常使用耳机，选择耳机模式手机会默认将耳机孔内设备识别为耳机，而不再弹出设备选择窗口。"</string>
+  <string name="setting_silent_mode_dust_cap">防尘塞模式 (不拔出米键)</string>
+  <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”
+的成功率下降。
+速度调慢,优点是“连击”的成功率会提高,缺点是“单击”
+的反应速度会变慢。"</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
+  <string name="setting_speed_quick">快</string>
+  <string name="setting_speed_slow">慢</string>
+  <string name="setting_speed_text">连击速度</string>
+  <string name="setting_toolbar">工具栏</string>
+  <string name="setting_toolbar_desc">"工具栏功能可以在通知栏中快速的使用米健的功能。
+它能带来更多便利。"</string>
+  <string name="setting_toolbar_tip">"点击加号添加新功能,点击已有功能可以更换。
+长按可删除。
+如果你喜欢就来组合属于自己的工具栏吧!
+
+开启工具栏,在任何情况下,
+从手机的上端听筒处向下滑动就能使用它!"</string>
+  <string name="setting_vibrate_desc">"能够感受到执行情况的功能，不再重复给予振动反馈
+而无法传递反馈的功能，如“闪拍”“静音”则会通过振动
+反馈执行情况。
+用户可以通过此开关，彻底关闭振动反馈。"</string>
+  <string name="setting_vibrate_text">闪拍、静音功能的振动反馈</string>
+  <string name="settings">设置</string>
+  <string name="short_click_1">单击</string>
+  <string name="short_click_10">神之指 十连击</string>
+  <string name="short_click_2">双击</string>
+  <string name="short_click_3">三连击</string>
+  <string name="short_click_4">四连击</string>
+  <string name="short_click_5">五连击</string>
+  <string name="short_click_6">惊人 六连击</string>
+  <string name="short_click_7">恐怖 七连击</string>
+  <string name="short_click_8">BT 八连击</string>
+  <string name="short_click_9">不可能的 九连击</string>
+  <string name="showSlip">下拉查看</string>
+  <string name="silent_mode_tip_main">米键已禁用</string>
+  <string name="silent_mode_tip_sub">请在设置中开启</string>
+  <string name="sms_sent_done">短信发送成功</string>
+  <string name="sms_template">短信内容</string>
+  <string name="sms_to">发短信给</string>
+  <string name="splash_tip">请快速插入米键</string>
+  <string name="task_title_prefix">第N步：</string>
+  <string name="test_user_entry">顾问团招募</string>
+  <string name="times">次</string>
+  <string name="title">Title:</string>
+  <string name="toolbox_outer_desc">"点击加号或已有功能
+组合属于自己的工具箱"</string>
+  <string name="update_message">有更新！</string>
+  <string name="vcard_prompt">Can not add to contact because the name is missing</string>
+  <string name="web">Web:</string>
+  <string name="write_pic_fail">保存照片出错</string>
+</resources>

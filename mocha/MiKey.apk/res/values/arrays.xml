@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_actions">
+        <item>.ToolboxAction</item>
+        <item>.CapturePhotoAction</item>
+        <item>.CapturePhotoInstantAction</item>
+        <item>.VideoRecorderAction</item>
+        <item>.FlashlightAction</item>
+        <item>.AudioRecorderAction</item>
+        <item>.QRCodeAction</item>
+        <item>.Camera360CaptureAction</item>
+        <item>.Camera360EditAction</item>
+        <item>.MiliaoComposeShareAction</item>
+        <item>.MiliaoWallShareAction</item>
+        <item>.WeChatFriendShareAction</item>
+        <item>.WeChatTimeLineShareAction</item>
+        <item>.WeiboShareAction</item>
+        <item>.CallAction</item>
+        <item>.SMSAction</item>
+        <item>.OpenAppAction</item>
+        <item>.ScreenShotAction</item>
+        <item>.TurnOnOrOffAutoMotionAction</item>
+        <item>.CleanMemoryAction</item>
+        <item>.LockScreenAction</item>
+        <item>.HomeAction</item>
+        <item>.AudioSilentAction</item>
+    </string-array>
+    <string-array name="setting_infos">
+        <item>.Speed</item>
+        <item>com.xiaomi.miclick.dispatcher.action.CapturePhotoInstantAction</item>
+        <item>.Vibrate</item>
+        <item>.KeepAlive</item>
+        <item>.Toolbar</item>
+        <item>.Faq</item>
+        <item>.Feedback</item>
+        <item>.TestUser</item>
+        <item>.About</item>
+        <item>.SilentMode</item>
+    </string-array>
+</resources>
