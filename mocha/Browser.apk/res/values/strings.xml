@@ -89,7 +89,7 @@
   <string name="bookmark_needs_title">Bookmark must have a name.</string>
   <string name="bookmark_needs_url">Bookmark must has URL</string>
   <string name="bookmark_not_saved">"Couldn't save bookmark."</string>
-  <string name="bookmark_page">Bookmark last-viewed page</string>
+  <string name="bookmark_page">Bookmark last viewed page</string>
   <string name="bookmark_saved">Saved to bookmarks.</string>
   <string name="bookmark_this_page">Bookmark this page</string>
   <string name="bookmark_this_page_to_readmodelist">Add page to reading list</string>
@@ -346,7 +346,7 @@
   <string name="pref_content_auto_light_mode">Auto-brightness</string>
   <string name="pref_content_autofit">Auto-fit pages</string>
   <string name="pref_content_autofit_summary">Format webpages to fit the screen</string>
-  <string name="pref_content_block_popups">Block pop-ups</string>
+  <string name="pref_content_block_popups">Block popups</string>
   <string name="pref_content_fontsize_setting">Font settings</string>
   <string name="pref_content_homepage">Set start page</string>
   <string name="pref_content_javascript">Enable JavaScript</string>
@@ -356,7 +356,7 @@
   <string name="pref_content_load_page_summary">Show overview of newly-opened pages</string>
   <string name="pref_content_open_in_background">Open in background</string>
   <string name="pref_content_open_in_background_summary">Open new tabs behind the current tab</string>
-  <string name="pref_content_plugins">Enable plug-ins</string>
+  <string name="pref_content_plugins">Enable plugins</string>
   <string name="pref_content_search_engine">Set search engine for title bar</string>
   <string name="pref_content_search_engine_summary">Choose a search engine</string>
   <string name="pref_content_title">Page content</string>
@@ -432,8 +432,8 @@
   <string name="pref_privacy_clear_geolocation_access_summary">Clear location access for all websites</string>
   <string name="pref_privacy_clear_history">Clear history</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Have you want to delete the browser history in this day?</string>
-  <string name="pref_privacy_clear_history_dlg">Delete the browser navigation history?</string>
-  <string name="pref_privacy_clear_history_summary">Clear the browser navigation history</string>
+  <string name="pref_privacy_clear_history_dlg">Delete the browser history?</string>
+  <string name="pref_privacy_clear_history_summary">Clear the browser history</string>
   <string name="pref_privacy_clear_passwords">Clear passwords</string>
   <string name="pref_privacy_clear_passwords_dlg">Delete all saved passwords?</string>
   <string name="pref_privacy_clear_passwords_summary">Clear all saved passwords</string>
@@ -585,7 +585,7 @@
   <string name="up_to_loading_tips">Release to refresh</string>
   <string name="uploads_disabled">File uploads are disabled.</string>
   <string name="url_copy_done">This URL has been copied</string>
-  <string name="url_hint">Type url or search text</string>
+  <string name="url_hint">Enter URL or search text</string>
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>

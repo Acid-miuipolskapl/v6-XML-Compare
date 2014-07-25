@@ -492,6 +492,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
+  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
   <string name="pref_scan_qrcode_default">on</string>
   <string name="pref_scan_qrcode_entry_off">Off</string>
   <string name="pref_scan_qrcode_entry_on">On</string>

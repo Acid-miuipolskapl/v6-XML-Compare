@@ -153,7 +153,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="click_close">Click screen to close</string>
   <string name="close_dial_pad">Close dial pad</string>
   <string name="cloud_antispam_mark">Label as spam</string>
-  <string name="cloud_antispam_title">Indentify unknown numbers</string>
+  <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="cold_dews">寒露</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your tablet, some data providers may not allow the contacts to be exported from the tablet.</string>

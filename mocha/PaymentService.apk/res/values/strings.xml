@@ -3,8 +3,6 @@
   <string name="account_detail">"Xiaomi account:
 %1$s"</string>
   <string name="app_name">Payment service</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s-MiCredit gift card)</string>
-  <string name="balance_no_giftcard_payment">%1$s MiCredits (cannot use MiCredit gift card for this order)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="balance_title">Balance</string>
   <string name="bankcall_bank_account">Bank card</string>
@@ -112,11 +110,13 @@ Please contact Xiaomi customer service."</string>
   <string name="giftcard_empty">No gift cards.</string>
   <string name="giftcard_expire">%1$s expired</string>
   <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
+  <string name="giftcard_payment">%1$s MiCredits</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
   <string name="giftcard_record">My gift cards</string>
   <string name="giftcard_value">(%1$s-MiCredit gift card)</string>
   <string name="label_balance">Balance:</string>
+  <string name="label_giftcard">Giftcard:</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Price:</string>
   <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
@@ -168,6 +168,7 @@ Please contact Xiaomi customer service."</string>
   <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
   <string name="order_price">%1$s MiCredits</string>
+  <string name="partner_giftcard_payment">%1$sMiCredits（Only for %2$s）</string>
   <string name="password_error">Password incorrect.</string>
   <string name="password_forget">forgot?</string>
   <string name="password_hint">Enter account password</string>
