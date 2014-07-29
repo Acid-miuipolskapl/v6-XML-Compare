@@ -27,7 +27,7 @@
     </string-array>
     <string-array name="setting_infos">
         <item>.Speed</item>
-        <item>com.xiaomi.miclick.dispatcher.action.CapturePhotoInstantAction</item>
+        <item>.CaptureInstant</item>
         <item>.Vibrate</item>
         <item>.KeepAlive</item>
         <item>.Toolbar</item>
