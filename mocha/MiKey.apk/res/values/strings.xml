@@ -172,7 +172,7 @@ From the top of the screen slide downwards to use it."</string>
   <string name="sms_template">Message text</string>
   <string name="sms_to">SMS</string>
   <string name="splash_tip">Connect MiKey</string>
-  <string name="task_title_prefix">Action %1$s: %2$s</string>
+  <string name="task_title_prefix">"Action %1$s: %2$s"</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>
   <string name="title">Title:</string>
