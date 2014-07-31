@@ -265,6 +265,7 @@
   <string name="vp_select_ep">Select ep</string>
   <string name="vp_select_function">Select function</string>
   <string name="vp_select_source">Select source</string>
+  <string name="vp_select_video_source">Select source</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
   <string name="vp_using_16_9">Force 16:9</string>
