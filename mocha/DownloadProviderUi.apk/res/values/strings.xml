@@ -57,6 +57,7 @@
   <string name="package_filter">PACKAGE</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused manually</string>
+  <string name="paused_insufficient_space">Waiting for sufficient space</string>
   <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
   <string name="paused_unknown">Paused for unknown reasons</string>
   <string name="paused_waiting_for_network">Waiting for network connection</string>

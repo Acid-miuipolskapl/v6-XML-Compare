@@ -1610,6 +1610,10 @@ and run the software."</string>
   <string name="print_service_security_warning_title">Use %1$s?</string>
   <string name="print_settings">Printing</string>
   <string name="print_settings_title">Print services</string>
+  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls from user</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
