@@ -6,6 +6,7 @@
   <string name="action_clear_sms_inbox">Delete messages</string>
   <string name="action_close">Exit</string>
   <string name="action_home">Back</string>
+  <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
   <string name="action_open_camera2">Gallery</string>
@@ -39,7 +40,7 @@
   <string name="cancel">Cancel</string>
   <string name="category_app">Application</string>
   <string name="category_system_settings">System settings</string>
-  <string name="chooser_dust_cap">MiKey (Dust plug mode)</string>
+  <string name="chooser_dust_cap">Mikey (dust plug mode)</string>
   <string name="clean_memory">Memory cleared</string>
   <string name="click_to_open">Open</string>
   <string name="close_all">Exit</string>
@@ -99,6 +100,7 @@
   <string name="flash_lable">Flash</string>
   <string name="front_camera">Front camera</string>
   <string name="goto_update">Update</string>
+  <string name="hint_long_press_del">Long press to remove</string>
   <string name="input_phone">Input phone number</string>
   <string name="long_click">Long press</string>
   <string name="message_photo_end">Picture saved</string>
@@ -172,11 +174,11 @@ From the top of the screen slide downwards to use it."</string>
   <string name="sms_template">Message text</string>
   <string name="sms_to">SMS</string>
   <string name="splash_tip">Connect MiKey</string>
-  <string name="task_title_prefix">"Action %1$s: %2$s"</string>
+  <string name="task_title_prefix">Action %1$s: %2$s</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>
   <string name="title">Title:</string>
-  <string name="toast_close">Close</string>
+  <string name="toast_close">Closed</string>
   <string name="toast_open">Open</string>
   <string name="toggle_bluetooth">Bluetooth</string>
   <string name="toggle_bright">Brightness</string>
