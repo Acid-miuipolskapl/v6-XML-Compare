@@ -43,6 +43,10 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
+  <string name="error_not_acceptable">Sync has been disabled.</string>
+  <string name="error_title">"Couldn't sync"</string>
+  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="fail_to_play">Fail to play</string>
   <string name="favorite_canceled">Favorite canceled</string>
   <string name="favorite_playlist">My Favorite</string>
@@ -94,7 +98,6 @@
   <string name="track_list_control_download">Download</string>
   <string name="track_list_control_edit_add_tracks">Add Songs</string>
   <string name="track_list_control_edit_delete_playlist">Delete</string>
-  <string name="track_list_control_edit_rename_playlist">Rename</string>
   <string name="track_list_control_play">Play</string>
   <string name="track_list_descript_cover">Cover</string>
   <string name="track_search_title">Track</string>
