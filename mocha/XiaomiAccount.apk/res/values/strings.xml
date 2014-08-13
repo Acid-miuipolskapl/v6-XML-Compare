@@ -88,6 +88,7 @@
   <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_dup_phone">This number is already associated with another account</string>
   <string name="error_invalid_dev_id">Invalid device ID</string>
+  <string name="error_login">"Couldn't sign in"</string>
   <string name="error_network">Network error</string>
   <string name="error_no_sms_service">Text message service unavailable</string>
   <string name="error_server">Server error</string>
@@ -196,6 +197,7 @@
   <string name="register_account_goto_email">Go to mailbox</string>
   <string name="register_account_verified_confirm">Already activated</string>
   <string name="relogin">Sign in again</string>
+  <string name="relogin_notice">You need to sign in again</string>
   <string name="remove_account_notice">What would you like to do with the synced contacts, and notes on this device?</string>
   <string name="remove_confirm">Sign out</string>
   <string name="remove_unactivated_account_notice">"Your account hasn't been activated."</string>
