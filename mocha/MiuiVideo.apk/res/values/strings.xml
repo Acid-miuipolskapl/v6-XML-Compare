@@ -228,7 +228,7 @@
   <string name="use_cellular_network">use cellular network</string>
   <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
   <string name="video">Video</string>
-  <string name="video_info_audio_bitrate_label">Audio bitrate:</string>
+  <string name="video_info_audio_bitrate_label">Samplerate:</string>
   <string name="video_info_audio_coding_label">Audio encoding format:</string>
   <string name="video_info_audio_null">None</string>
   <string name="video_info_frame_rate_label">Framerate:</string>
