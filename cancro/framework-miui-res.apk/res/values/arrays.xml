@@ -6,6 +6,7 @@
     <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
     <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
     <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
+    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <string-array name="miui_font_scale">
         <item>1.0</item>
         <item>1.0</item>
@@ -20,7 +21,7 @@
     </string-array>
     <string-array name="screen_key_long_press_default_action">
         <item>voice_assistant</item>
-        <item>recent_panel</item>
+        <item>none</item>
         <item>none</item>
         <item>show_menu</item>
     </string-array>
@@ -113,4 +114,231 @@
         <item>壬戌</item>
         <item>癸亥</item>
     </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
+        <item>46007</item>
+        <item>46009</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+        <item>45416</item>
+        <item>45419</item>
+        <item>45403</item>
+        <item>45404</item>
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>FarEasTone</item>
+        <item>Asia Pacific</item>
+        <item>Vibo</item>
+        <item>Chunghwa</item>
+        <item>Taiwan Mobile</item>
+        <item>PCCW-HKT</item>
+        <item>PCCW-HKT</item>
+        <item>3</item>
+        <item>3(2G)</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46003</item>
+        <item>46003</item>
+        <item>46001</item>
+        <item>46000</item>
+        <item>46003</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+        <item>45416</item>
+        <item>45419</item>
+        <item>45403</item>
+        <item>45404</item>
+    </string-array>
+    <array name="vibration_virtual_key_up" />
+    <integer-array name="vibration_recorder_minor_action">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_major_action">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>25</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>35</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>40</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>30</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_rewind">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_slider">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_torch_on">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>90</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_torch_off">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <array name="boot_msg_text" />
 </resources>

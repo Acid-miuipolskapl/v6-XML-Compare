@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
-    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacts with phone numbers</item>
         <item quantity="one">1 contact with phone number</item>
@@ -13,6 +9,10 @@
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listFoundAllContacts">
+        <item quantity="other">%d found</item>
+        <item quantity="one">1 found</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
         <item quantity="other">%d found</item>
         <item quantity="one">1 found</item>
     </plurals>
@@ -41,7 +41,52 @@
         <item quantity="one">Voicemail</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d items selected</item>
-        <item quantity="one">%1$d item selected</item>
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favorites</item>
+        <item quantity="one">%1$d favorite</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d recent contacts</item>
+        <item quantity="one">1 recent contact</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d contacts</item>
+        <item quantity="one">%1$d contact</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numbers</item>
+        <item quantity="one">%1$d number</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d contact emails</item>
+        <item quantity="one">1 contact email</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favorites</item>
+        <item quantity="one">%1$d favorite</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d recent contacts</item>
+        <item quantity="one">%1$d recent contact</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  contacts added"</item>
+        <item quantity="one">%1$d contact added</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d people</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d contacts imported</item>
+        <item quantity="one">%1$d contact imported</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
     </plurals>
 </resources>

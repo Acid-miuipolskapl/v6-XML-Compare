@@ -13,12 +13,12 @@
   <string name="debug_tool_email_subject">Calendar Db attached</string>
   <string name="debug_tool_message">You are about to 1) make a copy of your calendar database to the SD card/USB storage, which is readable by any app, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
   <string name="debug_tool_start_button">Start</string>
-  <string name="holiday_data_no_network">No network, please try again later</string>
-  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-  <string name="holiday_data_update_succeed">Check for completed update</string>
-  <string name="holiday_data_updating">Updating...</string>
-  <string name="holiday_update_summary">Click check updates</string>
-  <string name="holiday_update_title">Work days data need connect network and update</string>
+  <string name="holiday_data_no_network">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="holiday_data_update_failed">"Couldn't update. Check your data connection and try again."</string>
+  <string name="holiday_data_update_succeed">Update finished</string>
+  <string name="holiday_data_updating">Updating…</string>
+  <string name="holiday_update_summary">Tap to update calendar info.</string>
+  <string name="holiday_update_title">Update available</string>
   <string name="provider_label">Calendar</string>
   <string name="upgrade_msg">Upgrading Calendar database.</string>
 </resources>

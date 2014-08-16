@@ -2,16 +2,22 @@
 <resources>
     <plurals name="editing_mode_title">
         <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
         <item quantity="one">%1$d selected</item>
+        <item quantity="two">%1$d selected</item>
+        <item quantity="few">%1$d selected</item>
+        <item quantity="many">%1$d selected</item>
     </plurals>
     <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Uninstall %1$s and %2$d other apps?</item>
         <item quantity="one">Uninstall %s</item>
-        <item quantity="two">Uninstall %s and 1 other app?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
         <item quantity="other">%1$d apps uninstalled</item>
+        <item quantity="zero">%1$d apps uninstalled</item>
         <item quantity="one">App uninstalled</item>
+        <item quantity="two">%1$d apps uninstalled</item>
+        <item quantity="many">%1$d apps uninstalled</item>
     </plurals>
     <plurals name="uninstall_result_failed">
         <item quantity="other">"Can't uninstall %1$s and %2$d other apps"</item>

@@ -158,9 +158,9 @@
         <item>auto</item>
     </string-array>
     <array name="camera_flashmode_icons">
-        <item>@drawable/v6_flash_button_off_bg</item>
-        <item>@drawable/v6_flash_button_on_bg</item>
-        <item>@drawable/v6_flash_button_auto_bg</item>
+        <item>@drawable/v6_ic_flash_button_off</item>
+        <item>@drawable/v6_ic_flash_button_on</item>
+        <item>@drawable/v6_ic_flash_button_auto</item>
     </array>
     <array name="camera_skin_beautify_icons">
         <item>@drawable/ic_camera_skin_beatify_close</item>
@@ -183,8 +183,8 @@
         <item>off</item>
     </string-array>
     <array name="video_flashmode_icons">
-        <item>@drawable/v6_flash_button_on_bg</item>
-        <item>@drawable/v6_flash_button_off_bg</item>
+        <item>@drawable/v6_ic_flash_button_on</item>
+        <item>@drawable/v6_ic_flash_button_off</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
         <item>on</item>
@@ -715,5 +715,9 @@
     <string-array name="pref_camera_multiple_face_beauty_entryvalues">
         <item>@string/pref_camera_multiple_face_beauty_values_off</item>
         <item>@string/pref_camera_multiple_face_beauty_values_on</item>
+    </string-array>
+    <string-array name="pref_camera_setting_switch_entryvalues">
+        <item>@string/pref_camera_setting_switch_entryvalue_off</item>
+        <item>@string/pref_camera_setting_switch_entryvalue_on</item>
     </string-array>
 </resources>

@@ -136,10 +136,32 @@
         <item>中文 (简体)</item>
         <item>中文 (繁體)</item>
     </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
+        <item>46007</item>
+        <item>46009</item>
+    </string-array>
+    <string-array name="mobile_operator_display_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+    </string-array>
     <string-array name="config_statusBarIcons">
         <item>headset</item>
         <item>call_record</item>
         <item>privacy_mode</item>
+        <item>ble_unlock_mode</item>
+        <item>quiet</item>
         <item>ime</item>
         <item>sync_failing</item>
         <item>sync_active</item>
@@ -167,8 +189,16 @@
         <item>5</item>
     </integer-array>
     <string-array name="networkAttributes">
-        <item>wifi,1,1,2,-1,true</item>
-        <item>bluetooth,7,7,1,-1,true</item>
+        <item>wifi,1,1,1,-1,true</item>
+        <item>mobile,0,0,0,-1,true</item>
+        <item>mobile_mms,2,0,2,60000,true</item>
+        <item>mobile_supl,3,0,2,300000,true</item>
+        <item>mobile_dun,4,0,2,300000,true</item>
+        <item>mobile_hipri,5,0,3,300000,true</item>
+        <item>mobile_fota,10,0,2,300000,true</item>
+        <item>mobile_ims,11,0,2,300000,true</item>
+        <item>mobile_cbs,12,0,2,300000,true</item>
+        <item>bluetooth,7,7,2,-1,true</item>
         <item>ethernet,9,9,4,-1,true</item>
     </string-array>
     <integer-array name="config_protectedNetworks">
@@ -291,12 +321,12 @@
         <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
     </integer-array>
     <integer-array name="config_autoBrightnessKeyboardBacklightValues">
         <item>0</item>
@@ -352,6 +382,58 @@
         <item>330</item>
         <item>333</item>
         <item>353</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Trying to access location</item>
+        <item>Trying to access location</item>
+        <item>Trying to access location</item>
+        <item>Trying to use vibrate</item>
+        <item>Trying to read contacts</item>
+        <item>Trying to modify contacts</item>
+        <item>Trying to read call log</item>
+        <item>Trying to modify call log</item>
+        <item>Trying to read calendar</item>
+        <item>Trying to modify calendar</item>
+        <item>Trying to access location</item>
+        <item>Trying to post notification</item>
+        <item>Trying to access location</item>
+        <item>Trying to make phone call</item>
+        <item>Trying to read SMS</item>
+        <item>Trying to write/modify SMS</item>
+        <item>Trying to receive SMS</item>
+        <item>Trying to receive SMS</item>
+        <item>Trying to receive SMS</item>
+        <item>Trying to receive SMS</item>
+        <item>Trying to send SMS</item>
+        <item>Trying to read SMS</item>
+        <item>Trying to write/modify SMS</item>
+        <item>Trying to modify settings</item>
+        <item>Trying to draw on top</item>
+        <item>Trying to access notifications</item>
+        <item>Trying to access Camera</item>
+        <item>Trying to record audio</item>
+        <item>Trying to play audio</item>
+        <item>Trying to read clipboard</item>
+        <item>Trying to modify clipboard</item>
+        <item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>Trying to use ring volume</item>
+        <item>Trying to use media volume</item>
+        <item>Trying to use alarm volume</item>
+        <item>Trying to use notification volume</item>
+        <item>Trying to use bluetooth volume</item>
+        <item>Trying to Keep device awake</item>
+        <item>Trying to access location</item>
+        <item>Trying to access location</item>
+        <item>Trying to turn on/off Wifi</item>
+        <item>Trying to turn on/off bluetooth</item>
+        <item>Trying to turn on/off mobile data</item>
+        <item>Trying to send MMS</item>
+        <item>Trying to read MMS</item>
+        <item>Trying to write MMS</item>
+        <item>Trying to start at bootup</item>
     </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>

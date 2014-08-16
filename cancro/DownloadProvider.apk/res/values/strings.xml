@@ -32,9 +32,9 @@
   <string name="permlab_downloadManager">Access download manager.</string>
   <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
   <string name="permlab_downloadWithoutNotification">download files without notification</string>
-  <string name="permlab_seeAllExternal">See all downloads to SD card</string>
+  <string name="permlab_seeAllExternal">See all downloads to USB storage</string>
   <string name="root_downloads">Downloads</string>
-  <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+  <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
  Touch %s to start this download the next time you're connected to a WLAN network."</string>
   <string name="wifi_recommended_title">Queue for download later?</string>

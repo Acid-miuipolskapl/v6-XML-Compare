@@ -179,19 +179,22 @@ Do you want to close it?"</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
   <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
+  <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
   <string name="config_customResolverActivity"/>
   <string name="config_datause_iface">rmnet0</string>
   <string name="config_default_dns_server">8.8.8.8</string>
   <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
-  <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
+  <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
   <string name="config_geocoderProviderPackageName">@null</string>
   <string name="config_geofenceProviderPackageName">@null</string>
+  <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
   <string name="config_isoImagePath"/>
-  <string name="config_mms_user_agent">Tegra Note 8</string>
-  <string name="config_mms_user_agent_profile_url">http://www.nvidia.com</string>
-  <string name="config_networkLocationProviderPackageName">@null</string>
+  <string name="config_mms_user_agent">Android-Mms/2.0</string>
+  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
   <string name="config_ntpServer">2.android.pool.ntp.org</string>
+  <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
   <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
@@ -245,7 +248,7 @@ using %s"</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="default_audio_route_category_name">System</string>
-  <string name="default_audio_route_name">Tablet</string>
+  <string name="default_audio_route_name">Phone</string>
   <string name="default_audio_route_name_dock_speakers">Dock speakers</string>
   <string name="default_audio_route_name_headphones">Headphones</string>
   <string name="default_media_route_name_hdmi">HDMI</string>
@@ -279,9 +282,6 @@ using %s"</string>
   <string name="dlg_ok">OK</string>
   <string name="double_tap_toast">Tip: Double-tap to zoom in and out.</string>
   <string name="editTextMenuTitle">Text actions</string>
-  <string name="edp_brightness_limited">Brightness Limited</string>
-  <string name="edp_camera_flash_limited">Camera Flash Limited</string>
-  <string name="edp_volume_limited">Volume Limited</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
@@ -296,7 +296,7 @@ using %s"</string>
   <string name="emptyPhoneNumber">(No phone number)</string>
   <string name="enablePin">Unsuccessful, enable SIM/RUIM Lock.</string>
   <string name="enable_accessibility_canceled">Accessibility canceled.</string>
-  <string name="enable_explore_by_touch_warning_message">"%1$s wants to enable Explore by Touch. When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger or perform gestures to interact with the tablet."</string>
+  <string name="enable_explore_by_touch_warning_message">"%1$s wants to enable Explore by Touch. When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger or perform gestures to interact with the phone."</string>
   <string name="enable_explore_by_touch_warning_title">Enable Explore by Touch?</string>
   <string name="error_message_title">Error</string>
   <string name="eventTypeAnniversary">Anniversary</string>
@@ -304,21 +304,21 @@ using %s"</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="eventTypeOther">Other</string>
   <string name="expires_on">Expires on:</string>
-  <string name="ext_media_badremoval_notification_message">Unmount SD card before removing to avoid data loss.</string>
-  <string name="ext_media_badremoval_notification_title">SD card unexpectedly removed</string>
+  <string name="ext_media_badremoval_notification_message">Unmount USB storage before removing to avoid data loss.</string>
+  <string name="ext_media_badremoval_notification_title">USB storage unexpectedly removed</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
-  <string name="ext_media_checking_notification_title">Preparing SD card</string>
-  <string name="ext_media_nofs_notification_message">SD card is blank or has unsupported filesystem.</string>
-  <string name="ext_media_nofs_notification_title">Blank SD card</string>
-  <string name="ext_media_nomedia_notification_message">SD card removed. Insert a new one.</string>
-  <string name="ext_media_nomedia_notification_title">Removed SD card</string>
-  <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card.</string>
-  <string name="ext_media_safe_unmount_notification_title">SD card safe to remove</string>
-  <string name="ext_media_unmountable_notification_message">SD card is damaged. Try reformatting it.</string>
-  <string name="ext_media_unmountable_notification_title">Damaged SD card</string>
+  <string name="ext_media_checking_notification_title">Preparing USB storage</string>
+  <string name="ext_media_nofs_notification_message">USB storage is blank or has unsupported filesystem.</string>
+  <string name="ext_media_nofs_notification_title">Blank USB storage</string>
+  <string name="ext_media_nomedia_notification_message">USB storage removed. Insert new media.</string>
+  <string name="ext_media_nomedia_notification_title">Removed USB storage</string>
+  <string name="ext_media_safe_unmount_notification_message">You can safely remove USB storage.</string>
+  <string name="ext_media_safe_unmount_notification_title">USB storage safe to remove</string>
+  <string name="ext_media_unmountable_notification_message">USB storage is damaged. Try reformatting it.</string>
+  <string name="ext_media_unmountable_notification_title">Damaged USB storage</string>
   <string name="extmedia_format_button_format">Format</string>
-  <string name="extmedia_format_message">All data on your card will be lost.</string>
-  <string name="extmedia_format_title">Format SD card?</string>
+  <string name="extmedia_format_message">"All files stored in your USB storage will be erased. This action can't be reversed!"</string>
+  <string name="extmedia_format_title">Format USB storage?</string>
   <string name="extract_edit_menu_button">Edit</string>
   <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
   <string name="factorytest_failed">Factory test failed</string>
@@ -336,7 +336,7 @@ using %s"</string>
   <string name="find_previous">Find previous</string>
   <string name="fingerprints">Fingerprints:</string>
   <string name="force_close">OK</string>
-  <string name="format_error">"Couldn't erase SD card."</string>
+  <string name="format_error">"Couldn't erase USB storage."</string>
   <string name="gadget_host_error_inflating">"Couldn't add widget."</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_bug_report">Bug report</string>
@@ -344,25 +344,11 @@ using %s"</string>
   <string name="global_action_power_off">Power off</string>
   <string name="global_action_silent_mode_off_status">Sound is ON</string>
   <string name="global_action_silent_mode_on_status">Sound is OFF</string>
-  <string name="global_action_sleep">Sleep</string>
   <string name="global_action_toggle_silent_mode">Silent mode</string>
-  <string name="global_actions">Tablet options</string>
+  <string name="global_actions">Phone options</string>
   <string name="global_actions_airplane_mode_off_status">Airplane mode is OFF</string>
   <string name="global_actions_airplane_mode_on_status">Airplane mode is ON</string>
-  <string name="global_actions_miracast_connection_failed_status">Connection failed.</string>
-  <string name="global_actions_miracast_connection_progress_status">Connecting to the display...</string>
-  <string name="global_actions_miracast_mode_airplane_on_status">Unavailable because Airplane mode is on</string>
-  <string name="global_actions_miracast_mode_cancel_connection_status">Cancel connection</string>
-  <string name="global_actions_miracast_mode_off_status_many_paired">Connect to previously paired display</string>
-  <string name="global_actions_miracast_mode_off_status_no_paired">Connect to display</string>
-  <string name="global_actions_miracast_mode_off_status_single_paired">"Connect to "</string>
-  <string name="global_actions_miracast_mode_on_status">Stop streaming</string>
-  <string name="global_actions_miracast_mode_pc2thor_on_status">Unavailable due to PC streaming to SHIELD</string>
-  <string name="global_actions_miracast_mode_wifi_off_status">Unavailable because WLAN is turned off</string>
-  <string name="global_actions_miracast_sink_not_found_status">Could not find the display.</string>
-  <string name="global_actions_miracast_sink_search_status">Searching for the display...</string>
   <string name="global_actions_toggle_airplane_mode">Airplane mode</string>
-  <string name="global_actions_toggle_miracast_mode">Miracast wireless display</string>
   <string name="gpsNotifMessage">Requested by %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Location request from %s</string>
   <string name="gpsNotifTitle">Location request</string>
@@ -481,16 +467,16 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
   <string name="kg_emergency_call_label">Emergency call</string>
   <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
 
  Try again in %d seconds."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the tablet will be reset to factory default and all user data will be lost.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. The tablet will now be reset to factory default.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
   <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
   <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
   <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers.</string>
   <string name="kg_login_account_recovery_hint">"Forgot your username or password?
 Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Checking account…</string>
@@ -537,15 +523,16 @@ Try again in %d seconds."</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
+  <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_carrier_default">No service.</string>
+  <string name="lockscreen_carrier_default">No service</string>
   <string name="lockscreen_charged">Charged</string>
   <string name="lockscreen_emergency_call">Emergency call</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the tablet will be reset to factory default and all user data will be lost.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using your Google signin.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google signin.
 
  Try again in %d seconds."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. The tablet will now be reset to factory default.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
   <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Forgot your username or password?
 Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
@@ -562,7 +549,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_low_battery">Connect your charger.</string>
   <string name="lockscreen_missing_sim_instructions">Insert a SIM card.</string>
   <string name="lockscreen_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
-  <string name="lockscreen_missing_sim_message">No SIM card in tablet.</string>
+  <string name="lockscreen_missing_sim_message">No SIM card in phone.</string>
   <string name="lockscreen_missing_sim_message_short">No SIM card</string>
   <string name="lockscreen_network_locked_message">Network locked</string>
   <string name="lockscreen_password_wrong">Try again</string>
@@ -575,8 +562,11 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_plugged_in">Charging, %d%%</string>
   <string name="lockscreen_return_to_call">Return to call</string>
   <string name="lockscreen_screen_locked">Screen locked.</string>
-  <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">See the User Guide or contact Customer Care.</string>
+  <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+  <string name="lockscreen_sim_locked_message">SIM/RUIM card is locked.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">"PIN1 Blocked. Enter PUK1
+or
+Please see the User Guide or contact Customer Care."</string>
   <string name="lockscreen_sim_puk_locked_message">SIM card is PUK-locked.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
   <string name="lockscreen_sound_off_label">Sound off</string>
@@ -599,10 +589,10 @@ Try again in %d seconds."</string>
   <string name="lockscreen_unlock_label">Unlock</string>
   <string name="low_internal_storage_view_text">Some system functions may not work</string>
   <string name="low_internal_storage_view_title">Storage space running out</string>
-  <string name="low_memory">Tablet storage is full. Delete some files to free space.</string>
+  <string name="low_memory">Phone storage is full. Delete some files to free space.</string>
   <string name="me">Me</string>
   <string name="media_bad_removal">SD card was removed before being unmounted.</string>
-  <string name="media_checking">SD card is currently being checked.</string>
+  <string name="media_checking">USB storage is currently being checked.</string>
   <string name="media_removed">SD card has been removed.</string>
   <string name="media_route_button_content_description">Media output</string>
   <string name="media_route_chooser_extended_settings">Settings</string>
@@ -615,7 +605,7 @@ Try again in %d seconds."</string>
   <string name="media_route_status_in_use">In use</string>
   <string name="media_route_status_not_available">Not available</string>
   <string name="media_route_status_scanning">Scanning...</string>
-  <string name="media_shared">SD card is currently in use by a computer.</string>
+  <string name="media_shared">USB storage is currently in use by a computer.</string>
   <string name="media_unknown_state">External media in unknown state.</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
   <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
@@ -750,7 +740,6 @@ Try again in %d seconds."</string>
   <string name="org_name">Organization:</string>
   <string name="org_unit">Organizational unit:</string>
   <string name="owner_name">Owner</string>
-  <string name="p2p_wifi_frequency_conflict_message">WLAN Direct connection will disconnect. Do you wish to continue?</string>
   <string name="passwordIncorrect">Incorrect password.</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
@@ -796,13 +785,13 @@ Try again in %d seconds."</string>
   <string name="permdesc_bindVpnService">Allows the holder to bind to the top-level interface of a Vpn service. Should never be needed for normal apps.</string>
   <string name="permdesc_bindWallpaper">Allows the holder to bind to the top-level interface of a wallpaper. Should never be needed for normal apps.</string>
   <string name="permdesc_bind_call_service">Allows the app to control when and how the user sees the in-call screen.</string>
-  <string name="permdesc_bluetooth">Allows the app to view the configuration of Bluetooth on the tablet, and to make and accept connections with paired devices.</string>
-  <string name="permdesc_bluetoothAdmin">Allows the app to configure the local Bluetooth tablet, and to discover and pair with remote devices.</string>
+  <string name="permdesc_bluetooth">Allows the app to view the configuration of the Bluetooth on the phone, and to make and accept connections with paired devices.</string>
+  <string name="permdesc_bluetoothAdmin">Allows the app to configure the local Bluetooth phone, and to discover and pair with remote devices.</string>
   <string name="permdesc_bluetoothPriv">Allows the app to pair with remote devices without user interaction.</string>
-  <string name="permdesc_brick">Allows the app to disable the entire tablet permanently. This is very dangerous.</string>
+  <string name="permdesc_brick">Allows the app to disable the entire phone permanently. This is very dangerous.</string>
   <string name="permdesc_broadcastPackageRemoved">Allows the app to broadcast a notification that an app package has been removed. Malicious apps may use this to kill any other running app.</string>
   <string name="permdesc_broadcastSmsReceived">Allows the app to broadcast a notification that an SMS message has been received. Malicious apps may use this to forge incoming SMS messages.</string>
-  <string name="permdesc_broadcastSticky">Allows the app to send sticky broadcasts, which remain after the broadcast ends. Excessive use may make the tablet slow or unstable by causing it to use too much memory.</string>
+  <string name="permdesc_broadcastSticky">Allows the app to send sticky broadcasts, which remain after the broadcast ends. Excessive use may make the phone slow or unstable by causing it to use too much memory.</string>
   <string name="permdesc_broadcastWapPush">Allows the app to broadcast a notification that a WAP PUSH message has been received. Malicious apps may use this to forge MMS message receipt or to silently replace the content of any webpage with malicious variants.</string>
   <string name="permdesc_cache_filesystem">Allows the app to read and write the cache filesystem.</string>
   <string name="permdesc_callPhone">"Allows the app to call phone numbers without your intervention. This may result in unexpected charges or calls. Note that this doesn't allow the app to call emergency numbers. Malicious apps may cost you money by making calls without your confirmation."</string>
@@ -814,15 +803,15 @@ Try again in %d seconds."</string>
   <string name="permdesc_captureSecureVideoOutput">Allows the app to capture and redirect secure video output.</string>
   <string name="permdesc_captureVideoOutput">Allows the app to capture and redirect video output.</string>
   <string name="permdesc_changeBackgroundDataSetting">Allows the app to change the background data usage setting.</string>
-  <string name="permdesc_changeComponentState">Allows the app to change whether a component of another app is enabled or not. Malicious apps may use this to disable important tablet capabilities. Care must be used with this permission, as it is possible to get app components into an unusable, inconsistent, or unstable state.</string>
+  <string name="permdesc_changeComponentState">Allows the app to change whether a component of another app is enabled or not. Malicious apps may use this to disable important phone capabilities. Care must be used with this permission, as it is possible to get app components into an unusable, inconsistent, or unstable state.</string>
   <string name="permdesc_changeConfiguration">Allows the app to change the current configuration, such as the locale or overall font size.</string>
   <string name="permdesc_changeNetworkState">Allows the app to change the state of network connectivity.</string>
   <string name="permdesc_changeTetherState">Allows the app to change the state of tethered network connectivity.</string>
-  <string name="permdesc_changeWifiMulticastState">Allows the app to receive packets sent to all devices on a WLAN network using multicast addresses, not just your tablet. It uses more power than the non-multicast mode.</string>
+  <string name="permdesc_changeWifiMulticastState">Allows the app to receive packets sent to all devices on a WLAN network using multicast addresses, not just your phone. It uses more power than the non-multicast mode.</string>
   <string name="permdesc_changeWifiState">Allows the app to connect to and disconnect from WLAN access points and to make changes to device configuration for WLAN networks.</string>
-  <string name="permdesc_changeWimaxState">Allows the app to connect the tablet to and disconnect the tablet from WiMAX networks.</string>
+  <string name="permdesc_changeWimaxState">Allows the app to connect the phone to and disconnect the phone from WiMAX networks.</string>
   <string name="permdesc_checkinProperties">Allows the app read/write access to properties uploaded by the checkin service. Not for use by normal apps.</string>
-  <string name="permdesc_clearAppCache">Allows the app to free tablet storage by deleting files in the cache directories of other applications. This may cause other applications to start up more slowly as they need to re-retrieve their data.</string>
+  <string name="permdesc_clearAppCache">Allows the app to free phone storage by deleting files in the cache directories of other applications. This may cause other applications to start up more slowly as they need to re-retrieve their data.</string>
   <string name="permdesc_clearAppUserData">Allows the app to clear user data.</string>
   <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
   <string name="permdesc_confirm_full_backup">Allows the app to launch the full backup confirmation UI. Not to be used by any app.</string>
@@ -832,19 +821,19 @@ Try again in %d seconds."</string>
   <string name="permdesc_createNetworkSockets">Allows the app to create network sockets and use custom network protocols. The browser and other applications provide means to send data to the internet, so this permission is not required to send data to the internet.</string>
   <string name="permdesc_deleteCacheFiles">Allows the app to delete cache files.</string>
   <string name="permdesc_deletePackages">Allows the app to delete Android packages. Malicious apps may use this to delete important apps.</string>
-  <string name="permdesc_devicePower">Allows the app to turn the tablet on or off.</string>
+  <string name="permdesc_devicePower">Allows the app to turn the phone on or off.</string>
   <string name="permdesc_diagnostic">Allows the app to read and write to any resource owned by the diag group; for example, files in /dev. This could potentially affect system stability and security. This should be ONLY be used for hardware-specific diagnostics by the manufacturer or operator.</string>
   <string name="permdesc_disableKeyguard">Allows the app to disable the keylock and any associated password security. For example, the phone disables the keylock when receiving an incoming phone call, then re-enables the keylock when the call is finished.</string>
   <string name="permdesc_dump">Allows the app to retrieve internal state of the system. Malicious apps may retrieve a wide variety of private and secure information that they should never normally need.</string>
   <string name="permdesc_enableCarMode">Allows the app to enable the car mode.</string>
   <string name="permdesc_expandStatusBar">Allows the app to expand or collapse the status bar.</string>
-  <string name="permdesc_factoryTest">Run as a low-level manufacturer test, allowing complete access to the tablet hardware. Only available when a tablet is running in manufacturer test mode.</string>
+  <string name="permdesc_factoryTest">Run as a low-level manufacturer test, allowing complete access to the phone hardware. Only available when a phone is running in manufacturer test mode.</string>
   <string name="permdesc_filter_events">Allows an application to register an input filter which filters the stream of all user events before they are dispatched. Malicious app may control the system UI whtout user intervention.</string>
   <string name="permdesc_flashlight">Allows the app to control the flashlight.</string>
   <string name="permdesc_forceBack">Allows the app to force any activity that is in the foreground to close and go back. Should never be needed for normal apps.</string>
   <string name="permdesc_forceStopPackages">Allows the app to forcibly stop other apps.</string>
   <string name="permdesc_freezeScreen">Allows the application to temporarily freeze the screen for a full-screen transition.</string>
-  <string name="permdesc_getAccounts">Allows the app to get the list of accounts known by the tablet. This may include any accounts created by applications you have installed.</string>
+  <string name="permdesc_getAccounts">Allows the app to get the list of accounts known by the phone. This may include any accounts created by applications you have installed.</string>
   <string name="permdesc_getAppOpsStats">Allows the app to retrieve collected application operation statistics. Not for use by normal apps.</string>
   <string name="permdesc_getDetailedTasks">Allows the app to retrieve detailed information about currently and recently running tasks. Malicious apps may discover private information about other apps.</string>
   <string name="permdesc_getPackageSize">Allows the app to retrieve its code, data, and cache sizes</string>
@@ -852,7 +841,7 @@ Try again in %d seconds."</string>
   <string name="permdesc_getTopActivityInfo">Allows the holder to retrieve private information about the current application in the foreground of the screen.</string>
   <string name="permdesc_grantRevokePermissions">Allows an application to grant or revoke specific permissions for it or other applications. Malicious applications may use this to access features you have not granted them.</string>
   <string name="permdesc_hardware_test">Allows the app to control various peripherals for the purpose of hardware testing.</string>
-  <string name="permdesc_injectEvents">Allows the app to deliver its own input events (key presses, etc.) to other apps. Malicious apps may use this to take over the tablet.</string>
+  <string name="permdesc_injectEvents">Allows the app to deliver its own input events (key presses, etc.) to other apps. Malicious apps may use this to take over the phone.</string>
   <string name="permdesc_installLocationProvider">Create mock location sources for testing or install a new location provider. This allows the app to override the location and/or status returned by other location sources such as GPS or location providers.</string>
   <string name="permdesc_installPackages">Allows the app to install new or updated Android packages. Malicious apps may use this to add new apps with arbitrarily powerful permissions.</string>
   <string name="permdesc_install_shortcut">Allows an application to add Homescreen shortcuts without user intervention.</string>
@@ -883,30 +872,29 @@ Try again in %d seconds."</string>
   <string name="permdesc_mount_unmount_filesystems">Allows the app to mount and unmount filesystems for removable storage.</string>
   <string name="permdesc_movePackage">Allows the app to move app resources from internal to external media and vice versa.</string>
   <string name="permdesc_nfc">Allows the app to communicate with Near Field Communication (NFC) tags, cards, and readers.</string>
-  <string name="permdesc_nvidiaCPUPower">Allows the application to adjust parameters of the NVIDA Tegra CPU. This may consume extra power.</string>
   <string name="permdesc_packageVerificationAgent">Allows the app to verify a package is installable.</string>
   <string name="permdesc_performCdmaProvisioning">Allows the app to start CDMA provisioning. Malicious apps may unnecessarily start CDMA provisioning.</string>
-  <string name="permdesc_persistentActivity">Allows the app to make parts of itself persistent in memory. This can limit memory available to other apps slowing down the tablet.</string>
+  <string name="permdesc_persistentActivity">Allows the app to make parts of itself persistent in memory. This can limit memory available to other apps slowing down the phone.</string>
   <string name="permdesc_pkgUsageStats">Allows the app to modify collected component usage statistics. Not for use by normal apps.</string>
   <string name="permdesc_processOutgoingCalls">Allows the app to see the number being dialed during an outgoing call with the option to redirect the call to a different number or abort the call altogether.</string>
-  <string name="permdesc_readCalendar">Allows the app to read all calendar events stored on your tablet, including those of friends or co-workers. This may allow the app to share or save your calendar data, regardless of confidentiality or sensitivity.</string>
-  <string name="permdesc_readCallLog">"Allows the app to read your tablet's call log, including data about incoming and outgoing calls. This permission allows apps to save your call log data, and malicious apps may share call log data without your knowledge."</string>
+  <string name="permdesc_readCalendar">Allows the app to read all calendar events stored on your phone, including those of friends or co-workers. This may allow the app to share or save your calendar data, regardless of confidentiality or sensitivity.</string>
+  <string name="permdesc_readCallLog">"Allows the app to read your phone's call log, including data about incoming and outgoing calls. This permission allows apps to save your call log data, and malicious apps may share call log data without your knowledge."</string>
   <string name="permdesc_readCellBroadcasts">Allows the app to read cell broadcast messages received by your device. Cell broadcast alerts are delivered in some locations to warn you of emergency situations. Malicious apps may interfere with the performance or operation of your device when an emergency cell broadcast is received.</string>
-  <string name="permdesc_readContacts">"Allows the app to read data about your contacts stored on your tablet, including the frequency with which you've called, emailed, or communicated in other ways with specific individuals. This permission allows apps to save your contact data, and malicious apps may share contact data without your knowledge."</string>
+  <string name="permdesc_readContacts">"Allows the app to read data about your contacts stored on your phone, including the frequency with which you've called, emailed, or communicated in other ways with specific individuals. This permission allows apps to save your contact data, and malicious apps may share contact data without your knowledge."</string>
   <string name="permdesc_readDictionary">Allows the app to read all words, names and phrases that the user may have stored in the user dictionary.</string>
   <string name="permdesc_readFrameBuffer">Allows the app to read the content of the frame buffer.</string>
   <string name="permdesc_readHistoryBookmarks">"Allows the app to read the history of all URLs that the Browser has visited, and all of the Browser's bookmarks. Note: this permission may not be enforced by third-party browsers or other applications with web browsing capabilities."</string>
   <string name="permdesc_readInputState">Allows the app to watch the keys you press even when interacting with another app (such as typing a password). Should never be needed for normal apps.</string>
-  <string name="permdesc_readLogs">"Allows the app to read from the system's various log files. This allows it to discover general information about what you are doing with the tablet, potentially including personal or private information."</string>
+  <string name="permdesc_readLogs">"Allows the app to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information."</string>
   <string name="permdesc_readNetworkUsageHistory">Allows the app to read historical network usage for specific networks and apps.</string>
   <string name="permdesc_readPhoneState">Allows the app to access the phone features of the device. This permission allows the app to determine the phone number and device IDs, whether a call is active, and the remote number connected by a call.</string>
   <string name="permdesc_readProfile">Allows the app to read personal profile information stored on your device, such as your name and contact information. This means the app can identify you and may send your profile information to others.</string>
-  <string name="permdesc_readSms">Allows the app to read SMS messages stored on your tablet or SIM card. This allows the app to read all SMS messages, regardless of content or confidentiality.</string>
+  <string name="permdesc_readSms">Allows the app to read SMS messages stored on your phone or SIM card. This allows the app to read all SMS messages, regardless of content or confidentiality.</string>
   <string name="permdesc_readSocialStream">Allows the app to access and sync social updates from you and your friends. Be careful when sharing information -- this allows the app to read communications between you and your friends on social networks, regardless of confidentiality. Note: this permission may not be enforced on all social networks.</string>
   <string name="permdesc_readSyncSettings">Allows the app to read the sync settings for an account. For example, this can determine whether the People app is synced with an account.</string>
   <string name="permdesc_readSyncStats">Allows an app to read the sync stats for an account, including the history of sync events and how much data is synced.</string>
-  <string name="permdesc_reboot">Allows the app to force the tablet to reboot.</string>
-  <string name="permdesc_receiveBootCompleted">Allows the app to have itself started as soon as the system has finished booting. This can make it take longer to start the tablet and allow the app to slow down the overall tablet by always running.</string>
+  <string name="permdesc_reboot">Allows the app to force the phone to reboot.</string>
+  <string name="permdesc_receiveBootCompleted">Allows the app to have itself started as soon as the system has finished booting. This can make it take longer to start the phone and allow the app to slow down the overall phone by always running.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Allows the app to receive and process emergency broadcast messages. This permission is only available to system apps.</string>
   <string name="permdesc_receiveMms">Allows the app to receive and process MMS messages. This means the app could monitor or delete messages sent to your device without showing them to you.</string>
   <string name="permdesc_receiveSms">Allows the app to receive and process SMS messages. This means the app could monitor or delete messages sent to your device without showing them to you.</string>
@@ -919,8 +907,8 @@ Try again in %d seconds."</string>
   <string name="permdesc_route_media_output">Allows an application to route media output to other external devices.</string>
   <string name="permdesc_runSetActivityWatcher">Allows the app to monitor and control how the system launches activities. Malicious apps may completely compromise the system. This permission is only needed for development, never for normal use.</string>
   <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
-  <string name="permdesc_sdcardRead">Allows the app to read the contents of your SD card.</string>
-  <string name="permdesc_sdcardWrite">Allows the app to write to the SD card.</string>
+  <string name="permdesc_sdcardRead">Allows the app to read the contents of your USB storage.</string>
+  <string name="permdesc_sdcardWrite">Allows the app to write to the USB storage.</string>
   <string name="permdesc_sendRespondViaMessageRequest">Allows the app to send requests to other messaging apps to handle respond-via-message events for incoming calls.</string>
   <string name="permdesc_sendSms">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
   <string name="permdesc_serialPort">Allows the holder to access serial ports using the SerialManager API.</string>
@@ -934,8 +922,8 @@ Try again in %d seconds."</string>
   <string name="permdesc_setPreferredApplications">Allows the app to modify your preferred apps. Malicious apps may silently change the apps that are run, spoofing your existing apps to collect private data from you.</string>
   <string name="permdesc_setProcessLimit">Allows the app to control the maximum number of processes that will run. Never needed for normal apps.</string>
   <string name="permdesc_setScreenCompatibility">Allows the app to control the screen compatibility mode of other applications. Malicious applications may break the behavior of other applications.</string>
-  <string name="permdesc_setTime">"Allows the app to change the tablet's clock time."</string>
-  <string name="permdesc_setTimeZone">"Allows the app to change the tablet's time zone."</string>
+  <string name="permdesc_setTime">"Allows the app to change the phone's clock time."</string>
+  <string name="permdesc_setTimeZone">"Allows the app to change the phone's time zone."</string>
   <string name="permdesc_setWallpaper">Allows the app to set the system wallpaper.</string>
   <string name="permdesc_setWallpaperHints">Allows the app to set the system wallpaper size hints.</string>
   <string name="permdesc_shutdown">Puts the activity manager into a shutdown state. Does not perform a complete shutdown.</string>
@@ -948,7 +936,7 @@ Try again in %d seconds."</string>
   <string name="permdesc_subscribedFeedsWrite">Allows the app to modify your currently synced feeds. Malicious apps may change your synced feeds.</string>
   <string name="permdesc_systemAlertWindow">Allows the app to draw on top of other applications or parts of the user interface. They may interfere with your use of the interface in any application, or change what you think you are seeing in other applications.</string>
   <string name="permdesc_temporary_enable_accessibility">Allows an application to temporarily enable accessibility on the device. Malicious apps may enable accessibility without user consent.</string>
-  <string name="permdesc_transmitIr">"Allows the app to use the tablet's infrared transmitter."</string>
+  <string name="permdesc_transmitIr">"Allows the app to use the phone's infrared transmitter."</string>
   <string name="permdesc_uninstall_shortcut">Allows the application to remove Homescreen shortcuts without user intervention.</string>
   <string name="permdesc_updateAppOpsStats">Allows the app to modify collected application operation statistics. Not for use by normal apps.</string>
   <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
@@ -956,19 +944,19 @@ Try again in %d seconds."</string>
   <string name="permdesc_useCredentials">Allows the app to request authentication tokens.</string>
   <string name="permdesc_use_sip">Allows the app to use the SIP service to make/receive Internet calls.</string>
   <string name="permdesc_vibrate">Allows the app to control the vibrator.</string>
-  <string name="permdesc_wakeLock">Allows the app to prevent the tablet from going to sleep.</string>
+  <string name="permdesc_wakeLock">Allows the app to prevent the phone from going to sleep.</string>
   <string name="permdesc_writeApnSettings">Allows the app to change network settings and to intercept and inspect all network traffic, for example to change the proxy and port of any APN. Malicious apps may monitor, redirect, or modify network packets without your knowledge.</string>
-  <string name="permdesc_writeCalendar">"Allows the app to add, remove, change events that you can modify on your tablet, including those of friends or co-workers. This may allow the app to send messages that appear to come from calendar owners, or modify events without the owners' knowledge."</string>
-  <string name="permdesc_writeCallLog">"Allows the app to modify your tablet's call log, including data about incoming and outgoing calls. Malicious apps may use this to erase or modify your call log."</string>
-  <string name="permdesc_writeContacts">"Allows the app to modify the data about your contacts stored on your tablet, including the frequency with which you've called, emailed, or communicated in other ways with specific contacts. This permission allows apps to delete contact data."</string>
+  <string name="permdesc_writeCalendar">"Allows the app to add, remove, change events that you can modify on your phone, including those of friends or co-workers. This may allow the app to send messages that appear to come from calendar owners, or modify events without the owners' knowledge."</string>
+  <string name="permdesc_writeCallLog">"Allows the app to modify your phone's call log, including data about incoming and outgoing calls. Malicious apps may use this to erase or modify your call log."</string>
+  <string name="permdesc_writeContacts">"Allows the app to modify the data about your contacts stored on your phone, including the frequency with which you've called, emailed, or communicated in other ways with specific contacts. This permission allows apps to delete contact data."</string>
   <string name="permdesc_writeDictionary">Allows the app to write new words into the user dictionary.</string>
   <string name="permdesc_writeGeolocationPermissions">"Allows the app to modify the Browser's geolocation permissions. Malicious apps may use this to allow sending location information to arbitrary web sites."</string>
   <string name="permdesc_writeGservices">Allows the app to modify the Google services map. Not for use by normal apps.</string>
-  <string name="permdesc_writeHistoryBookmarks">"Allows the app to modify the Browser's history or bookmarks stored on your tablet. This may allow the app to erase or modify Browser data. Note: this permission may note be enforced by third-party browsers or other applications with web browsing capabilities."</string>
+  <string name="permdesc_writeHistoryBookmarks">"Allows the app to modify the Browser's history or bookmarks stored on your phone. This may allow the app to erase or modify Browser data. Note: this permission may note be enforced by third-party browsers or other applications with web browsing capabilities."</string>
   <string name="permdesc_writeProfile">Allows the app to change or add to personal profile information stored on your device, such as your name and contact information. This means the app can identify you and may send your profile information to others.</string>
   <string name="permdesc_writeSecureSettings">"Allows the app to modify the system's secure settings data. Not for use by normal apps."</string>
   <string name="permdesc_writeSettings">"Allows the app to modify the system's settings data. Malicious apps may corrupt your system's configuration."</string>
-  <string name="permdesc_writeSms">Allows the app to write to SMS messages stored on your tablet or SIM card. Malicious apps may delete your messages.</string>
+  <string name="permdesc_writeSms">Allows the app to write to SMS messages stored on your phone or SIM card. Malicious apps may delete your messages.</string>
   <string name="permdesc_writeSocialStream">Allows the app to display social updates from your friends. Be careful when sharing information -- this allows the app to produce messages that may appear to come from a friend. Note: this permission may not be enforced on all social networks.</string>
   <string name="permdesc_writeSyncSettings">Allows an app to modify the sync settings for an account. For example, this can be used to enable sync of the People app with an account.</string>
   <string name="permgroupdesc_accessibilityFeatures">Features that assistive technology can request.</string>
@@ -995,7 +983,7 @@ Try again in %d seconds."</string>
   <string name="permgroupdesc_screenlock">Ability to affect behavior of the lock screen on your device.</string>
   <string name="permgroupdesc_socialInfo">Direct access to information about your contacts and social connections.</string>
   <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
-  <string name="permgroupdesc_storage">Access the SD card.</string>
+  <string name="permgroupdesc_storage">Access the USB storage.</string>
   <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
   <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
   <string name="permgroupdesc_systemTools">Lower-level access and control of the system.</string>
@@ -1033,6 +1021,8 @@ Try again in %d seconds."</string>
   <string name="permgrouplab_voicemail">Voicemail</string>
   <string name="permgrouplab_wallpaper">Wallpaper</string>
   <string name="permgrouplab_writeDictionary">Write User Dictionary</string>
+  <string name="permission">Permission</string>
+  <string name="permission_remember_choice">Remember</string>
   <string name="permission_request_notification_title">Permission requested</string>
   <string name="permission_request_notification_with_subtitle">"Permission requested
 for account %s."</string>
@@ -1078,7 +1068,7 @@ for account %s."</string>
   <string name="permlab_bluetooth">pair with Bluetooth devices</string>
   <string name="permlab_bluetoothAdmin">access Bluetooth settings</string>
   <string name="permlab_bluetoothPriv">allow Bluetooth pairing by Application</string>
-  <string name="permlab_brick">permanently disable tablet</string>
+  <string name="permlab_brick">permanently disable phone</string>
   <string name="permlab_broadcastPackageRemoved">send package removed broadcast</string>
   <string name="permlab_broadcastSmsReceived">send SMS-received broadcast</string>
   <string name="permlab_broadcastSticky">send sticky broadcast</string>
@@ -1111,7 +1101,7 @@ for account %s."</string>
   <string name="permlab_createNetworkSockets">full network access</string>
   <string name="permlab_deleteCacheFiles">"delete other apps' caches"</string>
   <string name="permlab_deletePackages">delete apps</string>
-  <string name="permlab_devicePower">power tablet on or off</string>
+  <string name="permlab_devicePower">power phone on or off</string>
   <string name="permlab_diagnostic">read/write to resources owned by diag</string>
   <string name="permlab_disableKeyguard">disable your screen lock</string>
   <string name="permlab_dump">retrieve system internal state</string>
@@ -1158,13 +1148,12 @@ for account %s."</string>
   <string name="permlab_modifyAudioSettings">change your audio settings</string>
   <string name="permlab_modifyNetworkAccounting">modify network usage accounting</string>
   <string name="permlab_modifyPhoneState">modify phone state</string>
-  <string name="permlab_mount_format_filesystems">erase SD Card</string>
-  <string name="permlab_mount_unmount_filesystems">access SD Card filesystem</string>
+  <string name="permlab_mount_format_filesystems">erase USB storage</string>
+  <string name="permlab_mount_unmount_filesystems">access USB storage filesystem</string>
   <string name="permlab_movePackage">move app resources</string>
   <string name="permlab_nfc">control Near Field Communication</string>
-  <string name="permlab_nvidiaCPUPower">adjust NVIDIA Tegra CPU</string>
   <string name="permlab_packageVerificationAgent">verify packages</string>
-  <string name="permlab_performCdmaProvisioning">directly start CDMA tablet setup</string>
+  <string name="permlab_performCdmaProvisioning">directly start CDMA phone setup</string>
   <string name="permlab_persistentActivity">make app always run</string>
   <string name="permlab_pkgUsageStats">update component usage statistics</string>
   <string name="permlab_processOutgoingCalls">reroute outgoing calls</string>
@@ -1184,7 +1173,7 @@ for account %s."</string>
   <string name="permlab_readSocialStream">read your social stream</string>
   <string name="permlab_readSyncSettings">read sync settings</string>
   <string name="permlab_readSyncStats">read sync statistics</string>
-  <string name="permlab_reboot">force tablet reboot</string>
+  <string name="permlab_reboot">force phone reboot</string>
   <string name="permlab_receiveBootCompleted">run at startup</string>
   <string name="permlab_receiveEmergencyBroadcast">receive emergency broadcasts</string>
   <string name="permlab_receiveMms">receive text messages (MMS)</string>
@@ -1198,8 +1187,8 @@ for account %s."</string>
   <string name="permlab_route_media_output">Route media output</string>
   <string name="permlab_runSetActivityWatcher">monitor and control all app launching</string>
   <string name="permlab_sdcardAccessAll">access external storage of all users</string>
-  <string name="permlab_sdcardRead">read the contents of your SD card</string>
-  <string name="permlab_sdcardWrite">modify or delete the contents of your SD card</string>
+  <string name="permlab_sdcardRead">read the contents of your USB storage</string>
+  <string name="permlab_sdcardWrite">modify or delete the contents of your USB storage</string>
   <string name="permlab_sendRespondViaMessageRequest">send respond-via-message events</string>
   <string name="permlab_sendSms">send SMS messages</string>
   <string name="permlab_serialPort">access serial ports</string>
@@ -1235,7 +1224,7 @@ for account %s."</string>
   <string name="permlab_useCredentials">use accounts on the device</string>
   <string name="permlab_use_sip">make/receive Internet calls</string>
   <string name="permlab_vibrate">control vibration</string>
-  <string name="permlab_wakeLock">prevent tablet from sleeping</string>
+  <string name="permlab_wakeLock">prevent phone from sleeping</string>
   <string name="permlab_writeApnSettings">change/intercept network settings and traffic</string>
   <string name="permlab_writeCalendar">"add or modify calendar events and send email to guests without owners' knowledge"</string>
   <string name="permlab_writeCallLog">write call log</string>
@@ -1274,6 +1263,8 @@ for account %s."</string>
   <string name="phoneTypeWork">Work</string>
   <string name="phoneTypeWorkMobile">Work Mobile</string>
   <string name="phoneTypeWorkPager">Work Pager</string>
+  <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
   <string name="policydesc_disableCamera">Prevent use of all device cameras.</string>
   <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
   <string name="policydesc_encryptedStorage">Require that stored app data be encrypted.</string>
@@ -1282,8 +1273,8 @@ for account %s."</string>
   <string name="policydesc_limitPassword">Control the length and the characters allowed in screen-unlock passwords.</string>
   <string name="policydesc_resetPassword">Change the screen-unlock password.</string>
   <string name="policydesc_setGlobalProxy">Set the device global proxy to be used while policy is enabled. Only the first device admin sets the effective global proxy.</string>
-  <string name="policydesc_watchLogin">"Monitor the number of incorrect passwords typed when unlocking the screen, and lock the tablet or erase all the tablet's data if too many incorrect passwords are typed."</string>
-  <string name="policydesc_wipeData">"Erase the tablet's data without warning by performing a factory data reset."</string>
+  <string name="policydesc_watchLogin">"Monitor the number of incorrect passwords typed. when unlocking the screen, and lock the phone or erase all the phone's data if too many incorrect passwords are typed."</string>
+  <string name="policydesc_wipeData">"Erase the phone's data without warning by performing a factory data reset."</string>
   <string name="policylab_disableCamera">Disable cameras</string>
   <string name="policylab_disableKeyguardFeatures">Disable features in keyguard</string>
   <string name="policylab_encryptedStorage">Set storage encryption</string>
@@ -1298,7 +1289,7 @@ for account %s."</string>
   <string name="postalTypeHome">Home</string>
   <string name="postalTypeOther">Other</string>
   <string name="postalTypeWork">Work</string>
-  <string name="power_dialog">Tablet options</string>
+  <string name="power_dialog">Phone options</string>
   <string name="power_off">Power off</string>
   <string name="prepend_shortcut_label">Menu+</string>
   <string name="preposition_for_date">on %s</string>
@@ -1306,11 +1297,14 @@ for account %s."</string>
   <string name="preposition_for_year">in %s</string>
   <string name="print_service_installed_message">Tap to enable</string>
   <string name="print_service_installed_title">%s service installed</string>
-  <string name="progress_erasing">Erasing SD card…</string>
-  <string name="progress_unmounting">Unmounting SD card…</string>
+  <string name="progress_erasing">Erasing USB storage…</string>
+  <string name="progress_nomediapresent">No removable media present…</string>
+  <string name="progress_unmounting">Unmounting USB storage…</string>
   <string name="quick_contacts_not_available">No application found to view this contact.</string>
   <string name="reason_service_unavailable">Print service not enabled</string>
   <string name="reason_unknown">unknown</string>
+  <string name="reboot_confirm">Your phone will reboot.</string>
+  <string name="reboot_progress">Rebooting…</string>
   <string name="reboot_safemode_confirm">Do you want to reboot into safe mode? This will disable all third party applications you have installed. They will be restored when you reboot again.</string>
   <string name="reboot_safemode_title">Reboot to safe mode</string>
   <string name="recent_tasks_title">Recent</string>
@@ -1413,7 +1407,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="share_action_provider_share_with">Share with</string>
   <string name="shareactionprovider_share_with">Share with</string>
   <string name="shareactionprovider_share_with_application">Share with %s</string>
-  <string name="shutdown_confirm">Your tablet will shut down.</string>
+  <string name="shutdown_confirm">Your phone will shut down.</string>
   <string name="shutdown_confirm_question">Do you want to shut down?</string>
   <string name="shutdown_progress">Shutting down…</string>
   <string name="silent_mode">Silent mode</string>
@@ -1435,13 +1429,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sms_control_no">Deny</string>
   <string name="sms_control_title">Sending SMS messages</string>
   <string name="sms_control_yes">Allow</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;This will cause charges on your mobile account.&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">This will cause charges on your mobile account.</string>
   <string name="sms_short_code_confirm_allow">Send</string>
   <string name="sms_short_code_confirm_always_allow">Always Allow</string>
   <string name="sms_short_code_confirm_deny">Cancel</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; would like to send a message to &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Never Allow</string>
-  <string name="sms_short_code_details">This &lt;font fgcolor="#ffffb060"&gt;may cause charges&lt;/font&gt; on your mobile account.</string>
+  <string name="sms_short_code_details">This may cause charges on your mobile account.</string>
   <string name="sms_short_code_remember_choice">Remember my choice</string>
   <string name="sms_short_code_remember_undo_instruction">You can change this later in Settings &gt; Apps</string>
   <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced StrictMode policy.</string>
@@ -1452,8 +1446,15 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="ssl_certificate">Security certificate</string>
   <string name="ssl_certificate_is_valid">This certificate is valid.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
+  <string name="storage_uicc">UICC storage</string>
   <string name="storage_usb">USB storage</string>
   <string name="submit">Submit</string>
   <string name="sync_binding_label">Sync</string>
@@ -1480,6 +1481,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="time_picker_increment_hour_button">Increase hour</string>
   <string name="time_picker_increment_minute_button">Increase minute</string>
   <string name="time_picker_increment_set_pm_button">Set PM</string>
+  <string name="transient_navigation_confirmation_long">Swipe from edge of screen to reveal system bar</string>
   <string name="turn_off_radio">Turn off wireless</string>
   <string name="turn_on_radio">Turn on wireless</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Touch twice for zoom control</string>
@@ -1493,13 +1495,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="usb_ptp_notification_title">Connected as a camera</string>
   <string name="usb_storage_activity_title">USB mass storage</string>
   <string name="usb_storage_button_mount">Turn on USB storage</string>
-  <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
-  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's SD card."</string>
+  <string name="usb_storage_error_message">"There's a problem using your USB storage for USB mass storage."</string>
+  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's USB storage."</string>
   <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
   <string name="usb_storage_notification_title">USB connected</string>
   <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
   <string name="usb_storage_stop_error_message">"There was a problem turning off USB storage. Check that you've unmounted the USB host, then try again."</string>
-  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's SD card from your computer."</string>
+  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's USB storage from your computer."</string>
   <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB storage in use</string>
@@ -1608,7 +1610,7 @@ Do you want to close it?"</string>
   <string name="wifi_p2p_enabled_notification_title">WLAN Direct is on</string>
   <string name="wifi_p2p_enter_pin_message">Type the required PIN:</string>
   <string name="wifi_p2p_failed_message">"Couldn't start WLAN Direct."</string>
-  <string name="wifi_p2p_frequency_conflict_message">"The tablet will temporarily disconnect from WLAN while it's connected to %1$s"</string>
+  <string name="wifi_p2p_frequency_conflict_message">"The phone will temporarily disconnect from WLAN while it's connected to %1$s"</string>
   <string name="wifi_p2p_from_message">From:</string>
   <string name="wifi_p2p_invitation_sent_title">Invitation sent</string>
   <string name="wifi_p2p_invitation_to_connect_title">Invitation to connect</string>

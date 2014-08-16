@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="permission_grps">
-        <item>@string/all</item>
         <item>@string/safe_relative</item>
         <item>@string/privacy_relative</item>
         <item>@string/other_relative</item>

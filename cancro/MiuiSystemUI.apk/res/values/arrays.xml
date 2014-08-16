@@ -61,5 +61,18 @@
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
         <item>com.autonavi.xmgd.navigator</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.navi</item>
+        <item>com.baidu.bus</item>
+        <item>com.mapbar.android.mapbarmap1</item>
+        <item>com.mapbar.android.trybuynavi</item>
+        <item>com.mapbar.android.gpsnavi</item>
+        <item>com.tencent.map</item>
+        <item>com.tencent.navsns</item>
+        <item>com.uu.uunavi</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tigerknows</item>
+        <item>com.autonavi.cmccmap</item>
+        <item>brut.googlemaps</item>
     </string-array>
 </resources>

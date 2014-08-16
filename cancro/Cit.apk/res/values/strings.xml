@@ -11,20 +11,36 @@
   <string name="cit_accelermeter_sensor_check_summary">"Move the device quickly in one direction. X，Y，Z coordinate values are displayed below. (when phone is in motion: X is represents left/right, y represents front/back, z represents up and down).
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
-  <string name="cit_audio_loopback_check_one_title">Main microphone left speaker feedback test</string>
-  <string name="cit_audio_loopback_check_summary_first">"Main microphone left speaker feedback test.
+  <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+  <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
-Turn the device so that the headphone input is facing downward. Speak into the microphone. You should hear your voice played through the left speaker."</string>
-  <string name="cit_audio_loopback_check_summary_second">"Secondary microphone right speaker feedback test.
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
-Turn the device so that the headphone input is facing downward. Speak into the microphone. You should hear your voice played through the right speaker."</string>
-  <string name="cit_audio_loopback_check_two_title">Secondary microphone right speaker feedback test</string>
-  <string name="cit_audio_loopback_dualmic_title">Ambient noise reduction test</string>
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+  <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
+
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
+
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+  <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
+  <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+
+Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
+  <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+
+Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+  <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
+  <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
   <string name="cit_audio_loopback_next">Next</string>
   <string name="cit_audio_loopback_previous">Previous</string>
-  <string name="cit_audio_loopback_summary_dualmic">"Ambient noise reduction test
+  <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
 
-Turn the device so that the headphone input is facing downward. Speak in to the microphone. You should hear your voice with reduced noise in the background played through the speaker."</string>
+Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
   <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
   <string name="cit_battery_temp_pass">Battery temperature is normal</string>
   <string name="cit_batterylight_blue">Blue</string>
@@ -142,6 +158,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_notificationlight_on">Notification light on</string>
   <string name="cit_otg_not_supported">"This device doesn't support OTG testing"</string>
   <string name="cit_pass">Pass</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
   <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
   <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
   <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
@@ -161,10 +179,10 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_sd_mount_sucess">SD card mounted</string>
   <string name="cit_sd_mp3_not_existed">"There is no file on the SD card called \"music.mp3\"
 After you place \"music.mp3\" in the SD card's directory, tap the display to play."</string>
-  <string name="cit_sd_plug_check_summary">The test will detect SD card status, please plug in and pull out SD card one time</string>
-  <string name="cit_sd_plug_check_title">SD card (detection)</string>
   <string name="cit_sd_plugged_in">SD card detected, remove SD card now</string>
   <string name="cit_sd_plugged_out">SD card has been removed, insert SD card now</string>
+  <string name="cit_sd_plugin_check_summary">The text \"SD card detected, remove SD card now\" should be displayed below.</string>
+  <string name="cit_sd_plugin_check_title">SD card (detection)</string>
   <string name="cit_sd_plugout_check_summary">When you remove the SD card, the text \"SD card has been removed, insert SD card now\" should be displayed below.</string>
   <string name="cit_sd_plugout_check_title">SD card (removal)</string>
   <string name="cit_sd_unmount">Unmount SD card</string>
@@ -198,6 +216,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_bluetooth_on">Enable Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+  <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_log">Get logs</string>
   <string name="cit_tool_log_bugreport">Bug report</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -212,10 +231,13 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_log_toast_generate_bugreport">Creating bug report… (this takes about 1 minute)</string>
   <string name="cit_tool_modem">MODEM test tools</string>
   <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
-  <string name="cit_tool_modem_cta_test">Open/Close protocol conformance test</string>
+  <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
-  <string name="cit_tool_modem_pcap_switch">Open/Close DATA output</string>
-  <string name="cit_tool_modem_pcm_switch">Open/Close PCM output</string>
+  <string name="cit_tool_nfc">NFC test tools</string>
+  <string name="cit_tool_nfc_st">Nfc ST:</string>
+  <string name="cit_tool_nfc_st_confreq">freq:</string>
+  <string name="cit_tool_nfc_st_run">Run</string>
+  <string name="cit_tool_nfc_st_stop">Stop</string>
   <string name="cit_tool_wifi">WLAN test tool</string>
   <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
   <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
@@ -236,9 +258,6 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_band_24">band: 2.4G</string>
   <string name="cit_tool_wifi_band_5">band: 5G</string>
   <string name="cit_tool_wifi_band_change">Next</string>
-  <string name="cit_tool_wifi_chain_1">1</string>
-  <string name="cit_tool_wifi_chain_1_2">1+2</string>
-  <string name="cit_tool_wifi_chain_2">2</string>
   <string name="cit_tool_wifi_exit">Exit</string>
   <string name="cit_tool_wifi_g_13a">Tx:13/6M/13dBm</string>
   <string name="cit_tool_wifi_g_13b">Tx:13/54M/13dBm</string>
@@ -254,7 +273,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_rx_165">Rx:165</string>
   <string name="cit_tool_wifi_rx_36">Rx:36</string>
   <string name="cit_tool_wifi_rx_7">Rx:7</string>
-  <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
+  <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_ap_not_null">"AP name or type can't be empty"</string>
   <string name="cit_tool_wifi_rx_ap_type">bss</string>
@@ -267,25 +286,23 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_rx_run">Run</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
   <string name="cit_tool_wifi_rx_total_format">Total transmitted %s</string>
-  <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
-  <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
-  <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
-  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
-  <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
+  <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+  <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+  <string name="cit_tool_wifi_tx_bg">Tx:B/G</string>
   <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
-  <string name="cit_tool_wifi_tx_n">Tx: n</string>
+  <string name="cit_tool_wifi_tx_n">Tx:N</string>
   <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_chan">channel:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">channel:</string>
-  <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
   <string name="cit_torch_off">Turn off flash light</string>
   <string name="cit_torch_on">Turn on flash light</string>
   <string name="cit_touch_calib_fail">Touch Calibration failed, Please retry</string>
