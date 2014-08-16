@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="AD_COUNT">
+        <item quantity="other">%d ad plugins</item>
+        <item quantity="one">1 ad plugin</item>
+    </plurals>
+    <plurals name="AD_TITLE_COUNT">
+        <item quantity="other">%d apps contain adware</item>
+        <item quantity="one">1 app contains adware</item>
+    </plurals>
+</resources>
