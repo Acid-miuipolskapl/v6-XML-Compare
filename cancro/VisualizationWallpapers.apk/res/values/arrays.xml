@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="points">
+        <item>-400 -400 -400</item>
+        <item>400 -400 -400</item>
+        <item>400 400 -400</item>
+        <item>-400 400 -400</item>
+        <item>-400 -400 400</item>
+        <item>400 -400 400</item>
+        <item>400 400 400</item>
+        <item>-400 400 400</item>
+    </string-array>
+    <string-array name="lines">
+        <item>0 1</item>
+        <item>1 2</item>
+        <item>2 3</item>
+        <item>3 0</item>
+        <item>4 5</item>
+        <item>5 6</item>
+        <item>6 7</item>
+        <item>7 4</item>
+        <item>0 4</item>
+        <item>1 5</item>
+        <item>2 6</item>
+        <item>3 7</item>
+    </string-array>
+</resources>
