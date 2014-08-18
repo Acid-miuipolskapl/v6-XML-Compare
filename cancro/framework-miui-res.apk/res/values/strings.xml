@@ -172,6 +172,8 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="sim_added_reboot_title">SIM card will activate after you reboot your device.</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
+  <string name="softap_notifif_summary">%d connected</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" enabled</string>
   <string name="solar_calendar">公历</string>
   <string name="spring_begins">立春</string>
   <string name="stopping_the_heat">处暑</string>

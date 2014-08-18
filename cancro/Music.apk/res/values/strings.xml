@@ -14,7 +14,6 @@
   <string name="all_tracks_short">All</string>
   <string name="artist_search_title">Artist</string>
   <string name="artist_view">Artist</string>
-  <string name="audio_effect_settings">Audio effect settings</string>
   <string name="audio_picker_title">Choose a song</string>
   <string name="auto_download_in_wifi">No internet connection detected</string>
   <string name="available_playlist_name_format">New playlist %d</string>
@@ -45,14 +44,6 @@
   <string name="dialog_title_name_playlist">Playlist name</string>
   <string name="dialog_title_remove_tracks">Remove</string>
   <string name="dialog_title_track_picker">Select songs</string>
-  <string name="dirac_mode_earbuds">Mi earbuds</string>
-  <string name="dirac_mode_general">General</string>
-  <string name="dirac_mode_general_earbuds">General earbuds</string>
-  <string name="dirac_mode_general_inear">General inear</string>
-  <string name="dirac_mode_in_ear">Mi in-ear headphones</string>
-  <string name="dirac_mode_piston_100">Mi piston-1</string>
-  <string name="dirac_mode_piston_2">Mi piston-2</string>
-  <string name="dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="dislike">Dislike</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
@@ -121,7 +112,6 @@
   <string name="fragment_title_recommend">Recommended</string>
   <string name="function_error">"Well, this is embarrassing! This feature isn't ready yet (we're working on it)."</string>
   <string name="go_to_add_music">Add songs~</string>
-  <string name="headphone_settings">Headphone type settings</string>
   <string name="high_quality">Higher</string>
   <string name="higher_quality_music">High quality music</string>
   <string name="higher_quality_music_summary">Stream and download music at higher bitrates</string>
@@ -152,8 +142,6 @@
   <string name="metered_disallow">Cancel</string>
   <string name="metered_play_toast">Streaming via data connection</string>
   <string name="mi_effect">Audio settings</string>
-  <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
-  <string name="mi_effect_title">Use MiSound enhancer</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Music</string>
   <string name="music_picker_title">Select track</string>
@@ -200,13 +188,13 @@
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_summary">Use the slider below to set a time</string>
   <string name="sleep_mode_title">Stop player after elapsed time</string>
-  <string name="song_not_find">"Network is not allowed or song isn't on shelf. Unable to get resources currently"</string>
+  <string name="song_not_find">"Couldn't find song. Check your network connection and try again."</string>
   <string name="source_from">Source: %1$s</string>
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist_list">Artist</string>
   <string name="tab_local_folder_list">Folder</string>
-  <string name="tab_local_track_list">Song List</string>
+  <string name="tab_local_track_list">Songs</string>
   <string name="tab_track_list">Track</string>
   <string name="take_effect_afater_restart">You need to restart the Music app for this setting to take effect.</string>
   <string name="track_list_control_download">Download</string>

@@ -177,7 +177,7 @@
   <string name="date_time_picker_dialog_title">Set date and time</string>
   <string name="delete">Delete</string>
   <string name="delete_bookmark">unbookmark</string>
-  <string name="delete_bookmark_group_warning">Delete \"%s\"? All the bookmarks in this group will be deteled.</string>
+  <string name="delete_bookmark_group_warning">Delete \"%s\"? All bookmarks in this group will be deleted.</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
   <string name="delete_multi_bookmarks_alert_title">Delete %1$s items?</string>

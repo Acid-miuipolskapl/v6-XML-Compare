@@ -192,7 +192,7 @@
   <string name="hints_handle_item_text_risk">Risks: %d</string>
   <string name="hints_handle_item_text_safe">Safe</string>
   <string name="hints_handle_item_text_virus">Viruses: %d</string>
-  <string name="hints_install_apps_interval">used %d days age</string>
+  <string name="hints_install_apps_interval">used %d days ago</string>
   <string name="hints_install_apps_new">never used</string>
   <string name="hints_install_apps_risk">risk detected</string>
   <string name="hints_install_apps_today">used today</string>
@@ -295,8 +295,8 @@
   <string name="menu_text_garbage_cleanup">Cleaner</string>
   <string name="menu_text_license_manager">Permissions</string>
   <string name="menu_text_networkassistants">Data usage</string>
-  <string name="menu_text_networkassistants_danger">Data usage</string>
-  <string name="menu_text_networkassistants_remain">Data usage</string>
+  <string name="menu_text_networkassistants_danger">%s over</string>
+  <string name="menu_text_networkassistants_remain">%s left</string>
   <string name="menu_text_power_manager">Power management</string>
   <string name="menu_text_power_percent">%s battery</string>
   <string name="msg_cleanup_db_update_checking">Checking…</string>

@@ -8,11 +8,11 @@
   <string name="about_version_label">Version code</string>
   <string name="actor_colon">Actor:</string>
   <string name="add_favorite_success">Starred</string>
-  <string name="add_more_addons">add more specials</string>
+  <string name="add_more_addons">Add more</string>
   <string name="addon"/>
-  <string name="addon_category">Hot Specials</string>
-  <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
-  <string name="addon_update_desc">New version found, update mow?</string>
+  <string name="addon_category">Featured</string>
+  <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
+  <string name="addon_update_desc">New version found. Update now?</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>
   <string name="airkan_control_device_des">To control playback, touch the bar at the bottom</string>
@@ -52,8 +52,8 @@
   <string name="click_to_login">Touch image to sign in</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comments</string>
-  <string name="comment_count_less_tip">Comment must be at least d% characters</string>
-  <string name="comment_count_much_tip">"Comment can't exceed d% characters"</string>
+  <string name="comment_count_less_tip">Comment must be at least %d characters</string>
+  <string name="comment_count_much_tip">"Comment can't exceed %d characters"</string>
   <string name="comment_edit_blog_hint">Post to Weibo</string>
   <string name="comment_edit_et_hint">Enter a comment</string>
   <string name="comment_edit_start_hint">Touch stars to rate</string>
@@ -113,7 +113,7 @@
   <string name="filter_media">Filter media</string>
   <string name="filter_program">Filter</string>
   <string name="forecast">Forecast</string>
-  <string name="forecast_empty_hint">No programes</string>
+  <string name="forecast_empty_hint">No programs</string>
   <string name="forecasts">Forecast</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
@@ -125,7 +125,7 @@
   <string name="icntv">iCNTV</string>
   <string name="imports">Import</string>
   <string name="init">Init</string>
-  <string name="install_comfirm">click to install</string>
+  <string name="install_comfirm">Install</string>
   <string name="introduce">Summary</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
   <string name="lekan">Lekan</string>
@@ -161,7 +161,7 @@
   <string name="myfavorite_onlylocal">Starred</string>
   <string name="negative_comment">Negative</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
+  <string name="no_login_xiaomi_account">To comment, sign in with your Mi Account</string>
   <string name="not_login">Not signed in</string>
   <string name="nowifi_alert_dialog_continue">Stream</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
@@ -180,7 +180,7 @@
   <string name="other_setting">Other</string>
   <string name="pause">Pause</string>
   <string name="percent_status">%.1f%%</string>
-  <string name="pick_addon_to_delete">choose items</string>
+  <string name="pick_addon_to_delete">Select items to delete</string>
   <string name="play">Play</string>
   <string name="play_count_ci">%d played</string>
   <string name="play_his_empty_hint">Empty</string>
@@ -225,7 +225,7 @@
   <string name="star3">3 stars</string>
   <string name="star4">4 stars</string>
   <string name="star5">5 stars</string>
-  <string name="start_addon">start addon</string>
+  <string name="start_addon">Activate addon</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">Date:</string>

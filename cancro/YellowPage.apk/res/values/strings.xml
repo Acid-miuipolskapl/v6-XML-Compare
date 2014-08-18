@@ -100,6 +100,8 @@
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_history">History</string>
+  <string name="express_inquiry_history_remark">Remark</string>
+  <string name="express_inquiry_history_remark_hint">Remark</string>
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
   <string name="express_inquiry_logistics_indication">Delivery company</string>

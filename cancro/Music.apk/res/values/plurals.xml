@@ -33,7 +33,7 @@
         <item quantity="one">1 song will be sent</item>
     </plurals>
     <plurals name="folder_songs_count">
-        <item quantity="other">%d Songs</item>
-        <item quantity="one">1 Song</item>
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
     </plurals>
 </resources>

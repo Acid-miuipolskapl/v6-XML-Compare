@@ -122,11 +122,11 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="main_toolbar_purchase">Top-up</string>
   <string name="main_toolbar_saving">Data Saver</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
-  <string name="main_traffic_overlimit_text">" over"</string>
-  <string name="main_traffic_remian_text">" remaining"</string>
+  <string name="main_traffic_overlimit_text">over</string>
+  <string name="main_traffic_remian_text">remaining</string>
   <string name="main_traffic_used">%s used</string>
   <string name="main_traffic_used_only">%s used</string>
-  <string name="main_traffic_used_text">" used"</string>
+  <string name="main_traffic_used_text">used</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
   <string name="mi_service_app_detail">Data usage details</string>
