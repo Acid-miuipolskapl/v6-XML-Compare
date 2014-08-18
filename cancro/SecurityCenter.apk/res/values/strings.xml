@@ -186,6 +186,7 @@
   <string name="hints_garbage_cleanup_result_risk">Risky</string>
   <string name="hints_garbage_cleanup_result_safe">Safe</string>
   <string name="hints_garbage_handle_item_content">%1$d items，%2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">0 item</string>
   <string name="hints_get_root_disable_title">Disable %d apps get root</string>
   <string name="hints_get_root_enable_title">Enable %d apps get root</string>
   <string name="hints_handle_item_text_risk">Risks: %d</string>
@@ -232,6 +233,7 @@
   <string name="hints_scan_result_virus">Viruses detected</string>
   <string name="hints_scanning_virus_by_cloud">Ongoing cloud scanning…</string>
   <string name="hints_storage_free">Free</string>
+  <string name="hints_title_garbage">Trash</string>
   <string name="hints_unknown_virus_name">Unknown</string>
   <string name="hints_virus_apk_list_item_summary">Virus（apk）</string>
   <string name="hints_virus_apk_summary">%s（apk）</string>

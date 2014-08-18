@@ -635,8 +635,8 @@
         <item>@drawable/ic_camera_exposure_plus3</item>
     </array>
     <string-array name="pref_camera_movie_solid_entries">
-        <item>@string/pref_camera_movie_solid_entry_on</item>
-        <item>@string/pref_camera_movie_solid_entry_off</item>
+        <item>@string/APKTOOL_DUMMY_0282</item>
+        <item>@string/APKTOOL_DUMMY_0281</item>
     </string-array>
     <string-array name="pref_camera_movie_solid_entryvalues">
         <item>@string/pref_camera_movie_solid_value_on</item>
