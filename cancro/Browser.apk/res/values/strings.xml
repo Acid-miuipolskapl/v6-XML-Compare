@@ -167,8 +167,8 @@
   <string name="contextmenu_view_image">View image</string>
   <string name="copy_link">copy link</string>
   <string name="copy_to_clipboard_failure_message">"Couldn't copy to clipboard"</string>
-  <string name="copy_url">copy url</string>
-  <string name="create_qr_code">qr code</string>
+  <string name="copy_url">Copy URL</string>
+  <string name="create_qr_code">QR code</string>
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
@@ -417,7 +417,7 @@
   <string name="pref_development_trace">Enable tracing</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_enable_adblock_notification">Ad Blocker</string>
+  <string name="pref_enable_adblock_notification">Ad Blocker notifications</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Close app with last tab</string>
   <string name="pref_extras_reset_default">Reset to default</string>
   <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
@@ -586,11 +586,11 @@
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
   <string name="save_to_bookmarks">Save to bookmarks</string>
-  <string name="save_to_camera">save to camera</string>
-  <string name="save_to_camera_failed">save picture failed</string>
-  <string name="save_to_camera_success">have saved to camera</string>
+  <string name="save_to_camera">Save to camera</string>
+  <string name="save_to_camera_failed">"Can't save picture"</string>
+  <string name="save_to_camera_success">Saved to camera</string>
   <string name="saving_snapshot">Saving…</string>
-  <string name="sdcard_error">please check sdcard status</string>
+  <string name="sdcard_error">Check your SD card</string>
   <string name="search">Search</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>

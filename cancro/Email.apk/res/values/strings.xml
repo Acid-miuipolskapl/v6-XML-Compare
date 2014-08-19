@@ -260,7 +260,7 @@
   <string name="change_account_type">Change account type</string>
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
-  <string name="chat_type_name">Conversation</string>
+  <string name="chat_type_name">chat</string>
   <string name="check_setup_data">Validating server settings…</string>
   <string name="checking_for_mail">Checking for mail</string>
   <string name="choosertitle_sharevia">Share via</string>
@@ -336,7 +336,7 @@
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Xiaomi</string>
   <string name="delete">Delete</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s deleted</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s has been deleted</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Return To Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
@@ -563,7 +563,7 @@ CC: %4$s
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
-  <string name="message_type_name">Email</string>
+  <string name="message_type_name">message</string>
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
   <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d attachments</string>
