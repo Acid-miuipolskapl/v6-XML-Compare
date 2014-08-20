@@ -90,6 +90,7 @@
   <string name="effect_goofy_face_small_mouth">Small mouth</string>
   <string name="effect_goofy_face_squeeze">Squeeze</string>
   <string name="effect_none">None</string>
+  <string name="effect_setting_top_text">Camera Filters</string>
   <string name="effect_silly_faces">SILLY FACES</string>
   <string name="empty">" "</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>

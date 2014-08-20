@@ -267,7 +267,7 @@
   <string name="new_phrase_hint">Enter new response</string>
   <string name="nickname_placeholder">Nickname</string>
   <string name="no">Cancel</string>
-  <string name="no_block_button_msg">Unblock this number</string>
+  <string name="no_block_button_msg">Unblock</string>
   <string name="no_conversations">No conversations</string>
   <string name="no_subject">(No subject)</string>
   <string name="no_subject_view">(No subject)</string>
