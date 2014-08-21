@@ -17,6 +17,8 @@
   <string name="enable_micloud">Sign up or create an account</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
+  <string name="error_data_in_transfer">Your data is being transferred. Please wait %s hours.</string>
+  <string name="error_data_in_transfer_title">Cloud Service not avalable currently.</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_network">"Can't connect to network"</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>

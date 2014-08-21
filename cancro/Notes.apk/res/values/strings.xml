@@ -81,7 +81,7 @@
   <string name="sns_content_default">Share picture</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
-  <string name="sns_footer_text">Created with MIUI V6</string>
+  <string name="sns_footer_text">Created with Mi Notes</string>
   <string name="sns_hint_content">"What's on your mind?"</string>
   <string name="sns_hint_title">Subject (Optional)</string>
   <string name="sns_message_building">Creating post…</string>

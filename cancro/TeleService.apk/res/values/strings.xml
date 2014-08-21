@@ -440,6 +440,7 @@ Switch to the new provider anyway?"</string>
   <string name="name_hint_text">Name.</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
+  <string name="network_forbidden">%s (forbidden)</string>
   <string name="network_message">Network message</string>
   <string name="network_settings_auto_select_title">"Don't select networks automatically"</string>
   <string name="network_settings_automatically_option">Automatically select preferred carrier (%s)</string>

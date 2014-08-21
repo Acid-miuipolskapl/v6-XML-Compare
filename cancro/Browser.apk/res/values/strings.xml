@@ -197,6 +197,8 @@
   <string name="download_no_sdcard_dlg_msg">USB storage is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
   <string name="download_pending">Starting download…</string>
+  <string name="download_phone_tip">Phone</string>
+  <string name="download_router_tip">Mi router (Download to Mi router)</string>
   <string name="download_sdcard_busy_dlg_msg">The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
   <string name="download_sdcard_busy_dlg_title">USB storage unavailable</string>
   <string name="downloaded">Download finished</string>
@@ -576,6 +578,9 @@
   <string name="return_to_homepage">Go back to start page</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">None</string>
+  <string name="router_download_exist">This download file already exists</string>
+  <string name="router_download_failed">Download failed, please retry</string>
+  <string name="router_download_success">Downloading，please check the progress in Mi router App</string>
   <string name="same_bookmarks_warning">"You've already bookmarked this page"</string>
   <string name="same_folder_name_warning">A folder with the same name already exists</string>
   <string name="save">OK</string>
@@ -611,6 +616,7 @@
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Security warning</string>
   <string name="select_dot">Select text</string>
+  <string name="select_download_device">Select Device</string>
   <string name="send_bookmark_to_home_screen">Add to Home screen</string>
   <string name="send_to_popular">popular</string>
   <string name="set_as_homepage">Set as homepage</string>

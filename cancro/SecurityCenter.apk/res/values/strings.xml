@@ -12,6 +12,7 @@
   <string name="activity_title_apps_manager">Apps</string>
   <string name="activity_title_auto_start_manager">Autostart management</string>
   <string name="activity_title_cache">Cache</string>
+  <string name="activity_title_cache_data">Cache</string>
   <string name="activity_title_create_shortcut">Manage shortcuts</string>
   <string name="activity_title_deep_clean">Deep clean</string>
   <string name="activity_title_default_apps_manager">Default apps management</string>
@@ -597,6 +598,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="toast_shortcut_install">Shortcut installed</string>
   <string name="toast_shortcut_uninstall">Shortcut uninstalled</string>
   <string name="toast_uninstall_success">Uninstall complete</string>
+  <string name="toast_virus_in_cloud_scanning">Can not stop virus scan in cloud scanning</string>
   <string name="uninstall_confirm_title">Uninstall this apps</string>
   <string name="usage_type_audio">Audio</string>
   <string name="usage_type_cpu">CPU total</string>

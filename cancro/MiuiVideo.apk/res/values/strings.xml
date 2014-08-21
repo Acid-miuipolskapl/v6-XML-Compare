@@ -41,6 +41,7 @@
   <string name="cancel_favorite_success">Unstarred</string>
   <string name="channel_choice_empty_hint">Empty</string>
   <string name="channel_empty_hint">Empty</string>
+  <string name="check_network">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="choice">Hot</string>
   <string name="clarity_high">High</string>
   <string name="clarity_standard">Standard</string>
@@ -49,6 +50,7 @@
   <string name="clear_cache">Clear image cache</string>
   <string name="clear_cache_success">Cache cleared</string>
   <string name="clear_cache_summary">Clear cached images from Video browser</string>
+  <string name="click_star_rate">Click on the star rating</string>
   <string name="click_to_login">Touch image to sign in</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comments</string>
@@ -250,6 +252,9 @@
   <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">Use mobile data connection</string>
   <string name="use_cellular_network_summary">Use mobile data connection to download videos. This may increase your data usage.</string>
+  <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
+  <string name="userdata_alert_ok">Continue</string>
+  <string name="userdata_alert_title">Data usage</string>
   <string name="video">Video</string>
   <string name="video_info_audio_bitrate_label">Samplerate:</string>
   <string name="video_info_audio_coding_label">Audio encoding format:</string>
