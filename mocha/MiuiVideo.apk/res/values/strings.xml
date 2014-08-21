@@ -12,7 +12,7 @@
   <string name="addon"/>
   <string name="addon_category">Hot Specials</string>
   <string name="addon_empty_hint">Not Available</string>
-  <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+  <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
   <string name="addon_update_desc">New version found, update mow?</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>
