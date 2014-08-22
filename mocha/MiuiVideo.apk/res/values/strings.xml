@@ -28,8 +28,6 @@
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>
-  <string name="auto_play">Auto-play when ready</string>
-  <string name="auto_play_summary">Play video when buffering or downloading is finished</string>
   <string name="average_score">Average score</string>
   <string name="avg_score">%.1f</string>
   <string name="back">back</string>
@@ -47,6 +45,7 @@
   <string name="clarity_supper">Super</string>
   <string name="clarity_unknown">Unknown</string>
   <string name="clear_cache">Clear image cache</string>
+  <string name="clear_cache_success">Cache cleared</string>
   <string name="clear_cache_summary">Clear cached images from Video browser</string>
   <string name="click_star_rate">Click on the star rating</string>
   <string name="cnlive">cnlive</string>
@@ -58,8 +57,6 @@
   <string name="comment_edit_start_hint">Click the stars to rate:</string>
   <string name="comment_review_list_empty_hint">No comment</string>
   <string name="connect_error">Connect error</string>
-  <string name="continue_to_play_nextset">Play next episode automatically</string>
-  <string name="continue_to_play_nextset_summary">"When the episode that you're watching has finished the next one will begin automatically"</string>
   <string name="count_comment">%d ratings</string>
   <string name="count_comment_wan">%.2f0 thousand ratings</string>
   <string name="count_ge">%d items</string>
@@ -141,6 +138,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Enable auto-rotate</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Disable auto-rotate</string>
   <string name="menu_item_sub_title">Subtitles</string>
+  <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Month</string>
   <string name="more">More</string>
   <string name="my_favorite">Starred</string>
@@ -172,12 +170,13 @@
   <string name="play">Play</string>
   <string name="play_his_empty_hint">No history</string>
   <string name="play_history">Recently played</string>
-  <string name="play_setting">Playback</string>
   <string name="positive_comment">Favorable comment</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Rank</string>
+  <string name="receive_mipush">Receive xiaomi push</string>
+  <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
   <string name="recentplay">Recently played</string>
   <string name="recommend">Recommend</string>
   <string name="reloading_tip">"Couldn't connect to network"</string>
@@ -227,8 +226,8 @@
   <string name="update_to_count_ji">Updated to Ep. %d</string>
   <string name="updatedalready">Updated</string>
   <string name="upgrade">Upgrade</string>
-  <string name="use_cellular_network">use cellular network</string>
-  <string name="use_cellular_network_summary">use cellular network to download videos, this will cause the traffic cost.</string>
+  <string name="use_cellular_network">Use mobile data connection</string>
+  <string name="use_cellular_network_summary">Use mobile data connection to download videos. This may increase your data usage.</string>
   <string name="userdata_alert_content">You are currently using data network, may produce a lot of traffic fees, sure you want to continue?</string>
   <string name="userdata_alert_ok">Continue</string>
   <string name="userdata_alert_title">Data usage</string>
