@@ -898,6 +898,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_service_title">Use %1$s?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>

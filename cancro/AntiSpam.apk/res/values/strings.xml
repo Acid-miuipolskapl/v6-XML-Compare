@@ -131,7 +131,7 @@
   <string name="menu_mark">Report number</string>
   <string name="menu_no_block">Unblock</string>
   <string name="menu_remove">Remove</string>
-  <string name="menu_report_block">Mark as spam</string>
+  <string name="menu_report_block">Spam</string>
   <string name="menu_restore">Restore to inbox</string>
   <string name="menu_sms">Send message</string>
   <string name="menu_wh_remove">Remove from exceptions</string>

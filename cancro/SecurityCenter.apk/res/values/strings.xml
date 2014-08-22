@@ -245,6 +245,7 @@
   <string name="hints_virus_name_title">Virus name:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
   <string name="item_app_permission">App permissions</string>
+  <string name="item_dev_mode">Developer options</string>
   <string name="item_garbage_size_1000m">1G</string>
   <string name="item_garbage_size_100m">100M</string>
   <string name="item_garbage_size_300m">300M</string>
@@ -556,6 +557,7 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="st_title_mode_choose_group">Choose mode</string>
   <string name="suffix_virus_count_bottom">Total</string>
   <string name="suffix_virus_count_top">Risks</string>
+  <string name="summary_dev">Avoid applications stealing user data</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
   <string name="summary_permission">Protect my privacy from potentially malicious third-party apps</string>
@@ -568,6 +570,8 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="title_app_update_yes">All apps up to date!</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
+  <string name="title_dev_no">Developer options on</string>
+  <string name="title_dev_yes">Developer options off</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
   <string name="title_miui_update_no">Found MIUI update: %s</string>

@@ -89,6 +89,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="fools_day">愚人节</string>
   <string name="force_exit_message">Force quit %1$s</string>
+  <string name="force_exit_skip_message">%1$s is system key component, can not be force quited.</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
   <string name="global_actions_reboot">Reboot</string>
   <string name="global_actions_shutdown">Power off</string>

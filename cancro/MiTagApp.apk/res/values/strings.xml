@@ -75,6 +75,7 @@ touch it with the back of your phone"</string>
   <string name="err_nfc_off">Turn on NFC in Settings &gt; Wireless &amp; networks &gt; More &gt; NFC</string>
   <string name="err_no_enough_space">No enough space on tag</string>
   <string name="err_no_nfc">"Your phone doesn't support NFC. This app may not work."</string>
+  <string name="err_parse_external_data">This file type is not supported</string>
   <string name="err_tag_not_supported">"Your phone doesn't support tagging"</string>
   <string name="err_tag_protected">This tag is password protected. Please enter the correct password.</string>
   <string name="err_tag_read_only">"You can't write to this tag"</string>

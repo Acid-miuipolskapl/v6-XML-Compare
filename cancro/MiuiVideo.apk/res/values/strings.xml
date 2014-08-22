@@ -29,8 +29,6 @@
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>
-  <string name="auto_play">Auto-play when ready</string>
-  <string name="auto_play_summary">Play automatically after video has finished downloading</string>
   <string name="average_score">Average score</string>
   <string name="avg_score">%.1f</string>
   <string name="back">back</string>
@@ -62,8 +60,6 @@
   <string name="comment_review_list_empty_hint">No comment</string>
   <string name="connect_error">Connect error</string>
   <string name="connecting">Connecting</string>
-  <string name="continue_to_play_nextset">Play next episode automatically</string>
-  <string name="continue_to_play_nextset_summary">"When the episode that you're watching has finished the next one will begin automatically"</string>
   <string name="count_comment">%d ratings</string>
   <string name="count_comment_wan">%.2f0 ratings</string>
   <string name="count_ge">%d items</string>
@@ -153,6 +149,7 @@
   <string name="menu_item_orientation_auto_sensor_action">Enable auto-rotate</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Disable auto-rotate</string>
   <string name="menu_item_sub_title">Subtitles</string>
+  <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Month</string>
   <string name="more">More</string>
   <string name="my_favorite">Starred</string>
@@ -187,12 +184,13 @@
   <string name="play_count_ci">%d played</string>
   <string name="play_his_empty_hint">Empty</string>
   <string name="play_history">Recently played</string>
-  <string name="play_setting">Playback</string>
   <string name="positive_comment">Positive</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Rank</string>
+  <string name="receive_mipush">Receive xiaomi push</string>
+  <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
   <string name="recent_play">Recently played: Ep.%d</string>
   <string name="recentplay">Recently played</string>
   <string name="recommend">Recommended</string>

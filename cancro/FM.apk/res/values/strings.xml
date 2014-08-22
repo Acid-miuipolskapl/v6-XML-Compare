@@ -63,7 +63,7 @@
   <string name="menu_edit">Edit</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_headset">Switch to headset</string>
-  <string name="menu_new_station">Add new station</string>
+  <string name="menu_new_station">Add station</string>
   <string name="menu_play">Play</string>
   <string name="menu_record_list">Recordings</string>
   <string name="menu_record_start">Start recording</string>
