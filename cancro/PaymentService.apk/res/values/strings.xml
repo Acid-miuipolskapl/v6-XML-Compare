@@ -66,6 +66,7 @@
   <string name="cancel">Cancel</string>
   <string name="change_security_lock">More screen locks</string>
   <string name="colon">": "</string>
+  <string name="confirm_title">提示</string>
   <string name="denomination_unit">￥</string>
   <string name="detail_consume_account">Purchase ID</string>
   <string name="detail_consume_amount">Amount</string>
@@ -85,6 +86,7 @@
   <string name="detail_recharge_order">Top-up Order No.</string>
   <string name="detail_recharge_time">Time</string>
   <string name="detail_recharge_title">Top-up records</string>
+  <string name="ensure">确定</string>
   <string name="error_account_changed_summary">"Your account info has changed.
 Please log in again."</string>
   <string name="error_account_changed_title">Account has changed</string>
@@ -233,6 +235,7 @@ Please contact Xiaomi customer service."</string>
   <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="prepaid_picker_title_default">Select amount</string>
   <string name="prepaid_picker_title_selected">amount</string>
+  <string name="processing">加载中</string>
   <string name="progress_bankcall_card_creating">Generating order…</string>
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>

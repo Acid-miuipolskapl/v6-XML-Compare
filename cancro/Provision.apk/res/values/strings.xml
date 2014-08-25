@@ -10,8 +10,8 @@
   <string name="other_settings_location">Location access</string>
   <string name="other_settings_location_summary">Let apps pinpoint your location</string>
   <string name="other_settings_user_experience">User feedback</string>
-  <string name="other_settings_user_experience_summary">"Help improve MIUI by sending anonymous usage data, The whole process will adhere to our "</string>
-  <string name="other_settings_user_experience_summary1">privacy policy</string>
+  <string name="other_settings_user_experience_summary">"Help improve MIUI by sending anonymous usage data. "</string>
+  <string name="other_settings_user_experience_summary1">(View privacy policy)</string>
   <string name="shut_down">Shut down</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
   <string name="sim_card_detection">SIM card not detected</string>
