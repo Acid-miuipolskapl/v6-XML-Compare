@@ -4,7 +4,7 @@
   <string name="alarm_alert">Default ringtone</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
-  <string name="alarm_ascending_mode_summary">Alarm volume rises gradually</string>
+  <string name="alarm_ascending_mode_summary">Alarm volume rises gradually to selected level</string>
   <string name="alarm_ascending_mode_title">Ascending volume</string>
   <string name="alarm_disabled">Disabled</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
@@ -56,7 +56,7 @@
   <string name="hours">%s hours</string>
   <string name="keep_screen_on">Keep screen on</string>
   <string name="label">Set label</string>
-  <string name="label_pref_summary">Label this alarm clock</string>
+  <string name="label_pref_summary">Label of this alarm clock</string>
   <string name="lap">Lap</string>
   <string name="lap_num">Lap</string>
   <string name="legal_workday">Legal workday</string>
@@ -82,12 +82,12 @@
   <string name="shutdown_alarm_enable_summary">Shutdown alarm is on</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">Silent</string>
-  <string name="slider_text">Slide up to close</string>
+  <string name="slider_text">slide up to close</string>
   <string name="snooze_confirm_cancel">Cancel snooze</string>
   <string name="snooze_duration_title">Snooze duration</string>
-  <string name="snooze_message">Snooze for %d mins</string>
+  <string name="snooze_message">Snooze for %d min</string>
   <string name="start">Start</string>
-  <string name="start_up">Start</string>
+  <string name="start_up">Start up</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Settings</string>
@@ -96,7 +96,7 @@
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
-  <string name="timer_item_label_hint">Timer label</string>
+  <string name="timer_item_label_hint">Timer Label</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sec</string>
   <string name="timer_message">%1$d minutes</string>
@@ -106,7 +106,7 @@
   <string name="timer_start_alarm">"Time's up!"</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>
-  <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
+  <string name="vibrate_pref_summary">Vibrate while alarming</string>
   <string name="vibrate_when_ringing">Vibrate when ringing</string>
   <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>
   <string name="volume_button_setting_title">Volume buttons</string>

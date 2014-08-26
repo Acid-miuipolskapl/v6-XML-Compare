@@ -104,13 +104,9 @@
   <string name="express_inquiry_history_remark_hint">Remark</string>
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
-  <string name="express_inquiry_logistics_empty">Please select logistics.</string>
   <string name="express_inquiry_logistics_indication">Delivery company</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results</string>
-  <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
-  <string name="express_inquiry_number_invalid">"Your input is invalid.
-Please check your tracking number."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Number: "</string>

@@ -1076,8 +1076,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search for Steve Wozniak</string>
-  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search for Steve Wozniak</string>
+  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search Steve Wozniak</string>
+  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search Steve Wozniak</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>

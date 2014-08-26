@@ -68,11 +68,11 @@
 • Back up your events securely"</string>
   <string name="creating_event">Event created</string>
   <string name="creating_event_with_guest">Invitations will be sent</string>
-  <string name="cta_notice_checkbox">"Don't show again"</string>
-  <string name="cta_notice_message">The birthday reminders feature needs to access your contacts to function normally.</string>
+  <string name="cta_notice_checkbox">"Don't show me this again"</string>
+  <string name="cta_notice_message">\"Birthday reminding\" in Calendar will remind you the birthday of your contacts ahead of time, but it will access your contacts, agree?</string>
   <string name="cta_notice_ok">Agree</string>
-  <string name="cta_notice_title">Access to contacts</string>
-  <string name="cta_notify_settings">Prompt when accessing contacts</string>
+  <string name="cta_notice_title">Remind</string>
+  <string name="cta_notify_settings">Remind when accessing contacts</string>
   <string name="custom">"Custom (can't customize on phone)"</string>
   <string name="daily">Daily</string>
   <string name="data_notice_change_settings">更改设置</string>

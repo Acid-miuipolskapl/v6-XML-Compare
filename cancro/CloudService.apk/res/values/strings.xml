@@ -48,7 +48,7 @@ If you switch SIM cards, a new activation SMS must be sent ."</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will remain backed up in the cloud. 
+  <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will be backed up in the cloud. 
 
 This way, if you lose or damage your device, your data will still be safe. 
 
@@ -66,13 +66,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
-  <string name="micloud_title_dspt" formatted="false">"%s total
- %s used | %s remaining"</string>
+  <string name="micloud_title_dspt" formatted="false">"Total space %s 
+ used %s | remaining %s"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
   <string name="micloud_upgrade_space">Get more storage space</string>
   <string name="micloud_user_space_title">Storage space</string>
-  <string name="micloud_user_space_usage">Storage space</string>
+  <string name="micloud_user_space_usage">Space used</string>
   <string name="micloud_warn_full_sum">"New items won't be synced with Mi Cloud."</string>
   <string name="micloud_warn_full_title">Out of space</string>
   <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
@@ -96,13 +96,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="sync_dspt">Enable sync</string>
-  <string name="sync_item_sms_summary">Sync your SMS sent and received on this phone</string>
+  <string name="sync_item_sms_summary">Sync your text messages sent and received on this phone</string>
   <string name="sync_item_sms_title">Sync messages</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_sub_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur charges from your carrier.</string>
+  <string name="sync_sub_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur the corresponding charges from your carrier.</string>
   <string name="sync_sub_1_sms">An SMS will be sent to bind your SIM card with this account. You will incur regular charges from your carrier.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur charges from your carrier.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">International and domestic SMS will be sent to bind your SIM cards with this account. You will incur the corresponding charges from your carrier.</string>
   <string name="sync_sub_2_intl_sms">International SMS will be sent to bind your SIM cards with this account. You will incur international charges from your carrier.</string>
   <string name="sync_sub_2_sms">SMS will be sent to bind your SIM cards with this account. You will incur regular charges from your carrier.</string>
   <string name="sync_sub_dspt">Activation text message is subject to regular data charges.</string>
