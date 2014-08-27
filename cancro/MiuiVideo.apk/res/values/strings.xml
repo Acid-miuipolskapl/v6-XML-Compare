@@ -10,8 +10,11 @@
   <string name="add_favorite_success">Starred</string>
   <string name="add_more_addons">Add more addons</string>
   <string name="addon">" plugins"</string>
+  <string name="addon_all">All</string>
   <string name="addon_category">Addons</string>
   <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
+  <string name="addon_installed_empty_hint">Empty</string>
+  <string name="addon_list_empty_hint">Empty</string>
   <string name="addon_update_desc">New version found, update now?</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>
@@ -118,6 +121,7 @@
   <string name="fullscreen">Fullscreen</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
+  <string name="gong_count_ge">%d total</string>
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
@@ -127,6 +131,8 @@
   <string name="imports">Import</string>
   <string name="init">Init</string>
   <string name="install_comfirm">Tap to install</string>
+  <string name="installed">Installed</string>
+  <string name="installed_count_ge">%d installed</string>
   <string name="introduce">Summary</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
   <string name="lekan">Lekan</string>
@@ -183,7 +189,7 @@
   <string name="other_setting">Other</string>
   <string name="pause">Pause</string>
   <string name="percent_status">%.1f%%</string>
-  <string name="pick_addon_to_delete">Choose items</string>
+  <string name="pick_addon_to_delete">choose items</string>
   <string name="play">Play</string>
   <string name="play_count_ci">%d played</string>
   <string name="play_his_empty_hint">Empty</string>
@@ -229,7 +235,7 @@
   <string name="star3">3 stars</string>
   <string name="star4">4 stars</string>
   <string name="star5">5 stars</string>
-  <string name="start_addon">Start addon</string>
+  <string name="start_addon">start addon</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">Date:</string>

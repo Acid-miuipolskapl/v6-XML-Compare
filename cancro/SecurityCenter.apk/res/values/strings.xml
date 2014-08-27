@@ -103,6 +103,8 @@
   <string name="button_text_view_power">View power</string>
   <string name="cache_check_content">%1$d apps, cache %2$s</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
+  <string name="cache_sort_type_item_name">Sort by name</string>
+  <string name="cache_sort_type_item_size">Sort by size</string>
   <string name="cache_title_empty_folder">Empty folder (%d)</string>
   <string name="cache_title_empty_folder2">Empty folder</string>
   <string name="cache_title_system_cache">System cache</string>

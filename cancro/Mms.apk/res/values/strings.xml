@@ -147,6 +147,9 @@
   <string name="feedback_description_hint">Write your message here</string>
   <string name="feedback_submit">Send feedback</string>
   <string name="festival">Quick responses</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+  <string name="festival_never_remind">"Don't show again."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -320,6 +323,7 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
+  <string name="pref_title_festival_networking">Connection notification</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_hide_festival">Hide \"Recommended\" tab</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
