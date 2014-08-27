@@ -63,7 +63,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
-  <string name="account_autostar_label">Auto running</string>
+  <string name="account_autostar_label">Auto-start management</string>
   <string name="account_list">All</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
@@ -77,6 +77,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
   <string name="add_account_label">Add account</string>
+  <string name="add_auto_startup_application">Add auto-start apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
   <string name="additional_system_update"/>
@@ -1429,7 +1430,7 @@ Select your operating system:"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Reboot to enable</string>
-  <string name="music_audio_effect_settings">Audio settings</string>
+  <string name="music_audio_effect_settings">Audio effect settings</string>
   <string name="music_dirac_mode_earbuds">Mi earbuds</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General earbuds</string>
@@ -1440,8 +1441,8 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_headphone_settings">Headphone type settings</string>
-  <string name="music_headset_button_settings">Assign remote buttons</string>
-  <string name="music_headset_calibrate">Assign headphones remote buttons</string>
+  <string name="music_headset_button_settings">Assign buttons</string>
+  <string name="music_headset_calibrate">Assign buttons</string>
   <string name="music_headset_calibrate_apply">Use</string>
   <string name="music_headset_calibrate_confirm">Apply these settings?</string>
   <string name="music_headset_calibrate_hint">Press the upper button</string>
@@ -1455,8 +1456,8 @@ Select your operating system:"</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones</string>
-  <string name="music_mi_effect_summary">Always enable Dirac HD Sound when using speakers</string>
-  <string name="music_mi_effect_title">Dirac HD Sound</string>
+  <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
+  <string name="music_mi_effect_title">Use MiSound enhancer</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -1559,6 +1560,8 @@ Select your operating system:"</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
+  <string name="power_autorun_apps_empty">No auto-start apps</string>
+  <string name="power_autorun_empty">No apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Phone idle</string>
