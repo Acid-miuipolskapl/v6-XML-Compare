@@ -33,7 +33,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="check_network">Network settings</string>
-  <string name="colon">:</string>
+  <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Delete all call logs?</string>
   <string name="confirm_delete_call_log_title">Delete call log?</string>
   <string name="confirm_to_add_blacklist">Block this number?</string>
@@ -91,6 +91,7 @@
   <string name="express_detailed_address">Address</string>
   <string name="express_field_empty">Empty</string>
   <string name="express_go_back">Back</string>
+  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Delivery company</string>
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
@@ -104,15 +105,19 @@
   <string name="express_inquiry_history_remark_hint">Remark</string>
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
+  <string name="express_inquiry_logistics_empty">Please select logistics.</string>
   <string name="express_inquiry_logistics_indication">Delivery company</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results</string>
+  <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
+  <string name="express_inquiry_number_invalid">"Your input is invalid.
+Please check your tracking number."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Number: "</string>
   <string name="express_no_address">Empty</string>
   <string name="express_no_order_info">No order info</string>
-  <string name="express_no_tracking_number">No related tracking number</string>
+  <string name="express_no_tracking_number">Pending</string>
   <string name="express_order_confirmation">Order confirmation</string>
   <string name="express_order_created_time">Created time</string>
   <string name="express_order_detail">Detail</string>

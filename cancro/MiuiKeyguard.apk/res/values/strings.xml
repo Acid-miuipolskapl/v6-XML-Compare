@@ -66,7 +66,7 @@ Please turn off airplane mode."</string>
   <string name="return_to_me_message">"If found please return to "</string>
   <string name="screen_on_proximity_sensor_hint">To disable this feature, press the Back and Volume up buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the top of the screen"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent Pocket Dials</string>
+  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="short_pincode_error_msg">Please enter 4–8 digits</string>
   <string name="short_pukcode_error_msg">You need to enter at least 8 digits.</string>
   <string name="starting_camera_string">Starting camera</string>

@@ -137,7 +137,7 @@ Use only the supplied charger."</string>
   <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
   <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
-  <string name="screenshot_saved_text">Touch to view your screenshot</string>
+  <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
