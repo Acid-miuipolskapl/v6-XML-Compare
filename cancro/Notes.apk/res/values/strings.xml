@@ -89,13 +89,14 @@
   <string name="sns_title_edit">Edit title</string>
   <string name="sns_title_send">Send message</string>
   <string name="sns_toast_empty">"Can't send empty post"</string>
-  <string name="sns_toast_over_limit">Send as picture for over text limit</string>
+  <string name="sns_toast_over_limit">Sent as image (over text limit)</string>
   <string name="toast_folder_privacy_mode">"Can't edit folder in Guest mode"</string>
   <string name="toast_message_add_image_fail">"Couldn't add image"</string>
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end to make it fit.</string>
   <string name="undo">Undo</string>
   <string name="unknown_source">Unknown source</string>
+  <string name="widget_content_loading">Loading…</string>
   <string name="widget_havenot_content">No associated note found. Touch to create an associated note. To resize it, hold &amp; drag an edge.</string>
   <string name="widget_under_visit_mode">"Can't view notes in Guest mode"</string>
 </resources>

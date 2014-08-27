@@ -223,6 +223,7 @@
   <string name="dial_related_setting_catory">Dial</string>
   <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="dialer_default_package">com.android.contacts</string>
+  <string name="dialog_network_priority_title">Priority</string>
   <string name="disable">Disable</string>
   <string name="disable_all_cf">Disable all call-forwarding features</string>
   <string name="disable_cfb_forbidden">"Your operator doesn't support disabling call forwarding when your phone is busy."</string>
@@ -325,6 +326,8 @@ Switch to the new provider anyway?"</string>
   <string name="get_pin2">Type PIN2</string>
   <string name="get_smsc_address_error">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
+  <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
   <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
   <string name="hac_mode_title">Hearing aids</string>
@@ -441,6 +444,7 @@ Switch to the new provider anyway?"</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="network_forbidden">%s (forbidden)</string>
+  <string name="network_id">Network ID</string>
   <string name="network_message">Network message</string>
   <string name="network_settings_auto_select_title">"Don't select networks automatically"</string>
   <string name="network_settings_automatically_option">Automatically select preferred carrier (%s)</string>
@@ -667,6 +671,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="saving_account">Saving the account…</string>
   <string name="selectContact">select contact</string>
   <string name="select_automatically">Choose automatically</string>
+  <string name="select_voice_call_sim">please select</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Send</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -799,6 +804,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="unlock_success">SIM Network unlock successful.</string>
   <string name="updating_fdn_contact">Updating fixed dialing number…</string>
   <string name="updating_settings">Updating settings…</string>
+  <string name="uplmn_list_setting_add_plmn">New PLMN</string>
+  <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="username">UserName</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>

@@ -482,6 +482,7 @@ Enable floating windows?"</string>
   <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
   <string name="bugreport_in_power">Power menu bug reports</string>
   <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
+  <string name="bugreport_tool_log">Capture Bugreport</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="build_number">Build number</string>
@@ -585,7 +586,7 @@ Enable floating windows?"</string>
   <string name="credential_storage_type">Storage type</string>
   <string name="credential_storage_type_hardware">Hardware-backed</string>
   <string name="credential_storage_type_software">Software only</string>
-  <string name="credentials_configure_lock_screen_hint">You need to set a screen lock before you can use credential storage</string>
+  <string name="credentials_configure_lock_screen_hint">You need to set a lock screen PIN or password before you can use credential storage.</string>
   <string name="credentials_enabled">Credential storage is enabled.</string>
   <string name="credentials_erased">Credential storage is erased.</string>
   <string name="credentials_install">Install from storage</string>
@@ -812,16 +813,16 @@ This setting affects all users on this phone."</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
-  <string name="dndm_auto_button_title">Recurring Do not disturb time</string>
+  <string name="dndm_auto_button_title">Recurring do not disturb time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
   <string name="dndm_auto_time_setting">Set time</string>
   <string name="dndm_auto_time_setting_summary">From %1$s to %2$s</string>
   <string name="dndm_auto_time_turn_off">To</string>
-  <string name="dndm_auto_time_turn_off_title">Automatically turn off Do not disturb</string>
+  <string name="dndm_auto_time_turn_off_title">Automatically turn off do not disturb</string>
   <string name="dndm_auto_time_turn_on">From</string>
-  <string name="dndm_auto_time_turn_on_title">Automatically turn on Do not disturb</string>
+  <string name="dndm_auto_time_turn_on_title">Automatically turn on do not disturb</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
-  <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when Do not disturb is on.</string>
+  <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when do not disturb is on.</string>
   <string name="dndm_menu_add_vip_custom">Add exception</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
@@ -1382,7 +1383,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="miui_screensaver_state_off">Off</string>
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">Pictures in the screensaver album will be displayed 5 seconds after the screen turns off.</string>
+  <string name="miui_screensaver_usage">Screensaver will begin 5 seconds after the display turns off</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
@@ -1390,6 +1391,11 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
   <string name="mobile_unknown_sim_operator">Uknown SIM operator</string>
   <string name="model_number">Model number</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Start Capturing</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Stop Capturing</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -1423,7 +1429,7 @@ Select your operating system:"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Reboot to enable</string>
-  <string name="music_audio_effect_settings">Audio effect settings</string>
+  <string name="music_audio_effect_settings">Audio settings</string>
   <string name="music_dirac_mode_earbuds">Mi earbuds</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General earbuds</string>
@@ -1434,8 +1440,8 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_headphone_settings">Headphone type settings</string>
-  <string name="music_headset_button_settings">Assign buttons</string>
-  <string name="music_headset_calibrate">Assign buttons</string>
+  <string name="music_headset_button_settings">Assign remote buttons</string>
+  <string name="music_headset_calibrate">Assign headphones remote buttons</string>
   <string name="music_headset_calibrate_apply">Use</string>
   <string name="music_headset_calibrate_confirm">Apply these settings?</string>
   <string name="music_headset_calibrate_hint">Press the upper button</string>
@@ -1449,8 +1455,8 @@ Select your operating system:"</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones</string>
-  <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
-  <string name="music_mi_effect_title">Use MiSound enhancer</string>
+  <string name="music_mi_effect_summary">Always enable Dirac HD Sound when using speakers</string>
+  <string name="music_mi_effect_title">Dirac HD Sound</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -1824,7 +1830,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_long_press_timeout">Define long press time</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">"Lock phone automatically when it's placed in a pocket"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent Pocket Dials</string>
+  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_saturation">Color saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
@@ -2175,7 +2181,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Turn off Prevent Pocket Dials as well?</string>
+  <string name="touch_sensitive_turn_off_summary">Turn off prevent pocket dials as well?</string>
   <string name="touch_sensitive_turn_off_title">Glove mode is off</string>
   <string name="touch_title">Touch</string>
   <string name="track_frame_time">Profile GPU rendering</string>
