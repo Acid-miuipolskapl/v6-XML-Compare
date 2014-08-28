@@ -29,7 +29,7 @@
   <string name="add_account">Add account</string>
   <string name="add_calendar">订阅</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
-  <string name="adding_calendar">订阅中</string>
+  <string name="adding_calendar">正在订阅...</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -88,7 +88,7 @@
   <string name="delete_this_event_title">Delete this event?</string>
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
-  <string name="deleting_calendar">退订中</string>
+  <string name="deleting_calendar">正在退订...</string>
   <string name="description_label">Description</string>
   <string name="directory_searching_fmt">Searching %s…</string>
   <string name="discard_label">Cancel</string>
