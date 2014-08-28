@@ -63,7 +63,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
-  <string name="account_autostar_label">Auto running</string>
+  <string name="account_autostar_label">Auto-start management</string>
   <string name="account_list">All</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
@@ -77,6 +77,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
   <string name="add_account_label">Add account</string>
+  <string name="add_auto_startup_application">Add auto-start apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
   <string name="additional_system_update"/>
@@ -490,6 +491,7 @@ Enable floating windows?"</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Button light settings</string>
+  <string name="button_text_login">Login</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
@@ -776,10 +778,12 @@ This setting affects all users on this phone."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
+  <string name="dialog_content_login">Update need Xiaomi account ,sure to login ?</string>
   <string name="dialog_no">No</string>
   <string name="dialog_title_color_calibration">Color Correction preset</string>
   <string name="dialog_title_font_size">Font size</string>
   <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+  <string name="dialog_title_login">Login Xiaomi account</string>
   <string name="dialog_yes">Yes</string>
   <string name="dirac_control">Optimize audio quality</string>
   <string name="dirac_mode_earbuds">Mi headphones</string>
@@ -1256,6 +1260,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Main process in use.</string>
+  <string name="make_sure_cancel_update">cancel update？</string>
   <string name="man_add_application">Add auto-start apps</string>
   <string name="manage_device_admin">Device administrators</string>
   <string name="manage_device_admin_summary">View or deactivate device administrators</string>
@@ -1455,8 +1460,8 @@ Select your operating system:"</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones</string>
-  <string name="music_mi_effect_summary">Always enable Dirac HD Sound when using speakers</string>
-  <string name="music_mi_effect_title">Dirac HD Sound</string>
+  <string name="music_mi_effect_summary">Use Mi Sound enhancer when using speakers</string>
+  <string name="music_mi_effect_title">Mi Sound enhancer</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -1559,6 +1564,8 @@ Select your operating system:"</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
+  <string name="power_autorun_apps_empty">No auto-start apps</string>
+  <string name="power_autorun_empty">No apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Phone idle</string>

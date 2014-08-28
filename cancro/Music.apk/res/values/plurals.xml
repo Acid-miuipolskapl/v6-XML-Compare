@@ -13,8 +13,8 @@
         <item quantity="one">1 song will be downloaded</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d Songs</item>
-        <item quantity="one">%d Song</item>
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d songs added to playlist</item>
