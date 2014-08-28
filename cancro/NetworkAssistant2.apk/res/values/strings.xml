@@ -38,6 +38,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="data_usage_restricted_title">Background data restricted</string>
   <string name="data_usage_warning_body">Touch to view data usage details.</string>
   <string name="data_usage_warning_title">Data usage warning</string>
+  <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="datausage_purchase_backto_ns">Back</string>
   <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
   <string name="datausage_purchase_buy">Buy</string>
@@ -174,6 +175,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_connect_settings_exceed_limit_hint">Cut off the data connection when peak data usage reaches limit</string>
   <string name="pref_daily_adjust">Set peak data limit</string>
   <string name="pref_daily_traffic">Peak data limit</string>
+  <string name="pref_data_usage_ignore_settings">Ignore data usage</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
   <string name="pref_data_usage_not_set">Set data usage limit</string>
   <string name="pref_free_adjust">Set off-peak data limit</string>
   <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>
