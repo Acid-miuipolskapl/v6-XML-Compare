@@ -891,7 +891,6 @@ To add a contact to your list of favorites:
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_failed_to_load_list">Failed to load list</string>
   <string name="resource_get_auth_checking">Checking authorization…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -928,7 +927,6 @@ To add a contact to your list of favorites:
   <string name="resource_ringtone_playing_error">playing error</string>
   <string name="resource_ringtone_volume_mute">Your ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_list_empty">"Coundn't find anything"</string>
   <string name="resource_see_more">See more</string>
   <string name="resource_select">Select</string>
   <string name="resource_selected">Featured</string>
@@ -951,6 +949,8 @@ To add a contact to your list of favorites:
   <string name="resource_trial_fail_message">Make sure your system clock is set to the correct time.</string>
   <string name="resource_trial_fail_title">"Couldn't set up trial session"</string>
   <string name="resource_trial_time">（trial session: %1$d minutes）</string>
+  <string name="resource_unable_to_access">"Unfortunately,
+the content you're looking for is not currently available in your region."</string>
   <string name="resource_unknow_error">An unknown error occurred</string>
   <string name="resource_update">Update</string>
   <string name="resource_user_know">OK</string>
@@ -1076,8 +1076,8 @@ To add a contact to your list of favorites:
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search for Steve Wozniak</string>
-  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search for Steve Wozniak</string>
+  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search Steve Wozniak</string>
+  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search Steve Wozniak</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>

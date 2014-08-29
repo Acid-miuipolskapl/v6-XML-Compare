@@ -79,7 +79,6 @@
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore selected messages?</string>
   <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
-  <string name="context_menu_add_calendar">Show in Calendar</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_add_to_browser_favorite">Add to Browser bookmarks</string>
   <string name="context_menu_browse_web">Browse</string>
@@ -148,9 +147,6 @@
   <string name="feedback_description_hint">Write your message here</string>
   <string name="feedback_submit">Send feedback</string>
   <string name="festival">Quick responses</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
-  <string name="festival_never_remind">"Don't show again."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -324,7 +320,6 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
-  <string name="pref_title_festival_networking">Connection notification</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_hide_festival">Hide \"Recommended\" tab</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
