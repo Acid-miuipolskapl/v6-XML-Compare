@@ -15,4 +15,10 @@
   <string name="def_low_battery_sound">/system/media/audio/ui/LowBattery.ogg</string>
   <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
   <string name="def_wireless_charging_started_sound">/system/media/audio/ui/WirelessChargingStarted.ogg</string>
+  <string name="mi_rtsp_max_udp_port">65535</string>
+  <string name="mi_rtsp_min_udp_port">1024</string>
+  <string name="mi_rtsp_name">Streaming</string>
+  <string name="mi_rtsp_netinfo">EGPRS,10,100</string>
+  <string name="mi_rtsp_to_napid">CMCC WAP</string>
+  <string name="mi_rtsp_to_proxy">10.0.0.172</string>
 </resources>
