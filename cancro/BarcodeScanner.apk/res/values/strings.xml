@@ -50,6 +50,7 @@
   <string name="scan_result">Scan result</string>
   <string name="secure_access_web_url">Secure access</string>
   <string name="see_app_details">View app details</string>
+  <string name="settings">Settings</string>
   <string name="success_message_import_from_account">Imported</string>
   <string name="tips_message">"You need to connect to the internet to check if the website you're about to visit is safe."</string>
   <string name="tips_title">Internet connection</string>
