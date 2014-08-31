@@ -112,7 +112,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Inbox</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_headline">Incoming server settings</string>
@@ -318,7 +318,7 @@
   <string name="custom_from_account_label">Send mail as:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Date: "</string>
-  <string name="date_message_received">%1$s, %2$s</string>
+  <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Today, %1$s</string>
   <string name="date_message_received_yesterday">Yesterday, %1$s</string>
   <string name="debug_clear_webview_cache">Clear WebView cache</string>
@@ -392,6 +392,7 @@
   <string name="failed">"Couldn't load image"</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Feedback information</string>
+  <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
   <string name="fetching_attachment">Fetching attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Can't find file"</string>
