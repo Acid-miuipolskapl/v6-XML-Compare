@@ -2,27 +2,21 @@
 <resources>
   <string name="congratulation_label">Enjoy your new phone :)</string>
   <string name="congratulation_next">Start using MIUI</string>
-  <string name="input_method_category">"Choose the default input method that you'll use when writing emails, notes, and everywhere else. Note that you can install other third-party keyboards later."</string>
+  <string name="input_method_category">"Choose the default input method that you'll use when writing emails, notes, and everywhere else. Note that you can install third-party keyboards later."</string>
   <string name="input_method_setting">Choose input method</string>
   <string name="logo_congratulation">"You're all set!"</string>
-  <string name="multisim_settings_category">Preferred SIM settings</string>
-  <string name="multisim_settings_title">2 SIM cards detected</string>
   <string name="next">Next</string>
   <string name="other_settings">Additional settings</string>
   <string name="other_settings_location">Location access</string>
   <string name="other_settings_location_summary">Let apps pinpoint your location</string>
   <string name="other_settings_user_experience">User feedback</string>
-  <string name="other_settings_user_experience_summary">"Help improve MIUI by sending anonymous usage data. "</string>
-  <string name="other_settings_user_experience_summary1">(View privacy policy)</string>
-  <string name="pref_title_data_slot">Preferred data SIM card</string>
-  <string name="pref_title_voice_slot">Preferred voice SIM card</string>
+  <string name="other_settings_user_experience_summary">"Help improve MIUI by sending anonymous usage data, The whole process will adhere to our "</string>
+  <string name="other_settings_user_experience_summary1">privacy policy</string>
   <string name="shut_down">Shut down</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
-  <string name="sim_card_detection">No SIM card detected</string>
+  <string name="sim_card_detection">SIM card not detected</string>
   <string name="sim_card_detection_info">You need a SIM card to set up a Mi Account.</string>
   <string name="sim_dectection_next">Continue</string>
   <string name="sim_redetection">Check for SIM card again</string>
-  <string name="summary_not_set">Not set</string>
-  <string name="summary_sim_card">Card %1$d%2$s</string>
   <string name="welcome">Welcome to</string>
 </resources>
