@@ -260,10 +260,6 @@ touch the Shutter button"</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_exposuretime_title">Exposure time</string>
-  <string name="pref_camera_facedetection_default">on</string>
-  <string name="pref_camera_facedetection_entry_off">Off</string>
-  <string name="pref_camera_facedetection_entry_on">On</string>
-  <string name="pref_camera_facedetection_title">Face detection</string>
   <string name="pref_camera_flashmode_default">auto</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Off</string>

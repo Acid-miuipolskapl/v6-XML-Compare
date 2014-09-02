@@ -2,8 +2,8 @@
 <resources>
   <string name="congratulation_label">Enjoy your new phone :)</string>
   <string name="congratulation_next">Start using MIUI</string>
-  <string name="input_method_category">"Choose the default input method that you'll use when writing emails, notes, and everywhere else. Note that you can install third-party keyboards later."</string>
-  <string name="input_method_setting">Choose input method</string>
+  <string name="input_method_category">"Choose the default keyboard that you'll use when writing emails, notes, and just about everywhere else. Note that you can install third-party keyboards later."</string>
+  <string name="input_method_setting">Choose default keyboard</string>
   <string name="logo_congratulation">"You're all set!"</string>
   <string name="next">Next</string>
   <string name="other_settings">Additional settings</string>

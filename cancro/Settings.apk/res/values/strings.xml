@@ -2464,7 +2464,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">Reset levels</string>
-  <string name="volume_restore_alert">"You're current volume level settings will be erased."</string>
+  <string name="volume_restore_alert">All volume levels will be reset.</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">Camera shutter, lock screen, and other system notifications</string>

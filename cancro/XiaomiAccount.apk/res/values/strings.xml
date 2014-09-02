@@ -7,7 +7,7 @@
   <string name="account_bind_devices">Signed-in devices</string>
   <string name="account_bind_settings">Bind account</string>
   <string name="account_dspt">One account for everything Xiaomi</string>
-  <string name="account_dspt_provision">One account for everything Xiaomi.</string>
+  <string name="account_dspt_provision">One account for everything Mi.</string>
   <string name="account_hint_text">Email or phone number</string>
   <string name="account_name">Account: %1$s</string>
   <string name="account_not_activated">"Account hasn't been activated"</string>
@@ -111,7 +111,7 @@
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Checking password…</string>
   <string name="checking_input">Checking input…</string>
-  <string name="cloud_messaging">Cloud Messaging</string>
+  <string name="cloud_messaging">Mi Message</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Finish</string>
   <string name="confirm">Confirm</string>
@@ -210,9 +210,9 @@ To activate your account, follow the
   <string name="micloud_password_req_notice">Password must be 8-16 characters in length and include both numbers and letters (case sensitive).</string>
   <string name="micloud_reg_new">Create an account</string>
   <string name="micloud_resend_active_email">Resend activation email</string>
-  <string name="micloud_space_info">Remain:%s</string>
-  <string name="micloud_sync_info">There are %d items to be synced</string>
-  <string name="micloud_sync_info_synced">All items are up to date</string>
+  <string name="micloud_space_info">%s remaining</string>
+  <string name="micloud_sync_info">"%d items haven't been synced"</string>
+  <string name="micloud_sync_info_synced">"Everything's up-to-date"</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
   <string name="micloud_user_id">Mi Account ID</string>
@@ -257,7 +257,7 @@ To activate your account, follow the
   <string name="reg_via_sms_alert">Activation SMS is subject to regular data charges from your carrier.</string>
   <string name="reging">Creating account…</string>
   <string name="register">Create an account</string>
-  <string name="register_account_goto_email">Go to your inbox</string>
+  <string name="register_account_goto_email">Go to inbox</string>
   <string name="register_account_verified_confirm">"You've already verified your account"</string>
   <string name="register_by_email">&lt;u&gt;Register with email&lt;/u&gt;</string>
   <string name="relogin">Sign in again</string>
@@ -266,7 +266,7 @@ To activate your account, follow the
   <string name="remove_confirm">Sign out</string>
   <string name="remove_unactivated_account_notice">"Your account hasn't been activated."</string>
   <string name="removing_account">Signing out…</string>
-  <string name="scan_barcode_title">Login safely Xiaomi Account, by scanning the QR code from the web page or TV</string>
+  <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="seperator_forget_and_foreign">" | "</string>
   <string name="service_error">Service error</string>
   <string name="show_password">Show password</string>

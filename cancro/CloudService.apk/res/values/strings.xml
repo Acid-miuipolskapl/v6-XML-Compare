@@ -57,7 +57,7 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_intro_01_part_01">Conserve data usage</string>
-  <string name="micloud_intro_01_part_02">Cloud Messaging lets you send messages back and forth with other MIUI users using WLAN.</string>
+  <string name="micloud_intro_01_part_02">Mi Message lets you send messages back and forth with other MIUI users using WLAN.</string>
   <string name="micloud_intro_02_part_01">Migrate effortlessly</string>
   <string name="micloud_intro_02_part_02">Sync contacts, messages, photos, and more across devices.</string>
   <string name="micloud_intro_03_part_01">"Secure your phone's contents from anywhere."</string>
