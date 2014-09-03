@@ -47,6 +47,10 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="datausage_purchase_get_captcha_again">Send a new code</string>
   <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
   <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
+  <string name="datausage_purchase_none_history">Empty</string>
+  <string name="datausage_purchase_order_failure">Purchase failed</string>
+  <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
+  <string name="datausage_purchase_order_history">History</string>
   <string name="datausage_purchase_ordering">Purchasing…</string>
   <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
   <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code will is only valid for 10 minutes.</string>
@@ -59,6 +63,7 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
   <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
   <string name="datausage_purchase_result_ok">"You bought %s
 For more info check the message you received from your service provider"</string>
+  <string name="datausage_purchase_time_in">" on "</string>
   <string name="datausage_purchase_title_confirm">Purchase details</string>
   <string name="datausage_purchase_title_order">Purchase additional data</string>
   <string name="datausage_purchase_title_pkglist">Purchase data</string>
