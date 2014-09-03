@@ -23,9 +23,12 @@
   <string name="app_manager_no_data">未查询到安装应用</string>
   <string name="app_name">XMRemoteController</string>
   <string name="app_open">打开</string>
+  <string name="app_open_inbox">在盒子上打开</string>
+  <string name="app_open_intv">在电视上打开</string>
   <string name="app_size">大小: %1$s</string>
   <string name="app_uninstall">卸载</string>
   <string name="app_update">更新</string>
+  <string name="app_user_used">%1$s人在使用</string>
   <string name="app_version">版本: V%1$s</string>
   <string name="back">back</string>
   <string name="brand_search_box_hint">请选择或输入您要添加设备的品牌</string>
@@ -39,6 +42,7 @@
   <string name="carrier_data">运营商数据</string>
   <string name="circlepad_slide_tips">转圈调节音量</string>
   <string name="confirm">确定</string>
+  <string name="connected">已连接</string>
   <string name="continue_to_add_other_rc">继续添加其他遥控器</string>
   <string name="di">第</string>
   <string name="dpad_down">down</string>
@@ -63,6 +67,8 @@
   <string name="home">home</string>
   <string name="hot_apps">大家都在用</string>
   <string name="hot_videos">大家都在看</string>
+  <string name="input_complete">完成</string>
+  <string name="input_speech_button">按住输入语音</string>
   <string name="ir_device_add">添加新设备</string>
   <string name="ir_device_air_cleaner">空气净化器</string>
   <string name="ir_device_air_condition">空调</string>
@@ -80,6 +86,10 @@
   <string name="loading_get">正在获取</string>
   <string name="loading_hint">加载中</string>
   <string name="loading_ir_data">正在获取设备红外数据</string>
+  <string name="management_app_management">应用管理</string>
+  <string name="management_settings">设置</string>
+  <string name="management_video_favor">历史与收藏</string>
+  <string name="management_video_recent_watch">最近观看</string>
   <string name="match_brand_selection_des">共%1$s种品牌</string>
   <string name="match_data">匹配数据</string>
   <string name="match_fail_model_hint">请输入您的遥控器型号</string>
@@ -95,9 +105,15 @@
   <string name="mi_rc">小米遥控器</string>
   <string name="mibox">小米盒子</string>
   <string name="mitv">小米电视</string>
+  <string name="mitv_assistant_setting_version">小米电视助手 V%1$s</string>
   <string name="no_data">无数据</string>
   <string name="not_respond">无响应</string>
   <string name="power">on/off</string>
+  <string name="privacy_agree">同意</string>
+  <string name="privacy_content">您将使用小米提供的遥控服务，请阅读&lt;u&gt;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&lt;/u&gt;&amp;#21644;&lt;u&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/u&gt;&amp;#12290;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#30340;&amp;#36807;&amp;#31243;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#21644;&amp;#20301;&amp;#32622;&amp;#20449;&amp;#24687;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;</string>
+  <string name="privacy_disagree">取消</string>
+  <string name="privacy_nohit">不再提示</string>
+  <string name="privacy_title">声明与条款</string>
   <string name="projection_failed_for_disconnect">未连接设备</string>
   <string name="rc">遥控器</string>
   <string name="respond">有响应</string>
@@ -139,6 +155,7 @@
   <string name="share_title_to_mitalk_ellipsis">等</string>
   <string name="share_title_to_sina_weibo">转发到新浪微博</string>
   <string name="sorry">抱歉 :(</string>
+  <string name="speech_init_failed">未检测到科大讯飞语音服务，可点击这里下载...</string>
   <string name="splash_add_device_des">开始添加第一个遥控器吧!</string>
   <string name="splash_desc">如今,小米手机还可以代替家里的遥控器.</string>
   <string name="stb">机顶盒</string>
