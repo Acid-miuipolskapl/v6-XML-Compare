@@ -283,6 +283,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_usb_charger_out">USB charger disconnected</string>
   <string name="cit_version_check_summary">Below is OS version info. Confirm that the info highlighted in green is correct.</string>
   <string name="cit_version_check_title">Check version info</string>
+  <string name="cit_vga_camera_calibration">Calibration</string>
   <string name="cit_vga_camera_capture">Camera</string>
   <string name="cit_vga_camera_capture_fail">Failed to take picture</string>
   <string name="cit_vga_camera_delete">Delete</string>

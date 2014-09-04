@@ -206,6 +206,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_audioencoder_default">aac</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Off</string>
   <string name="pref_camera_auto_focus_title_entry_on">On</string>
   <string name="pref_camera_autoexposure_default">center-weighted</string>
@@ -276,6 +277,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
+  <string name="pref_camera_front_fb_title">Enhance skin tones</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Live</string>
@@ -497,7 +499,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
-  <string name="pref_priority_storage_title">Save to external SD card</string>
+  <string name="pref_priority_storage_title">Save to SD card</string>
   <string name="pref_scan_qrcode_default">true</string>
   <string name="pref_scan_qrcode_title">Scan QR code</string>
   <string name="pref_setting_title">Settings</string>
