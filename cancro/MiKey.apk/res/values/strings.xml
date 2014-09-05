@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
@@ -133,6 +134,8 @@
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
   <string name="sdcard">SD card</string>
+  <string name="select_baidusearch">Baidu search</string>
+  <string name="select_baiduvoicesearch">Baidu voice search</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
   <string name="setting_buy">Buy MiKeys</string>
