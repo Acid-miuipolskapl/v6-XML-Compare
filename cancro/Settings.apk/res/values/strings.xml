@@ -178,6 +178,7 @@ Enable floating windows?"</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_update_fail">System update failed.</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
   <string name="ask_compatibility">Ask when launched</string>
@@ -880,6 +881,7 @@ This setting affects all users on this phone."</string>
   <string name="dolby_roomsize_summary">Surround sound settings only available for headphones</string>
   <string name="dolby_roomsize_title">Surround:</string>
   <string name="done_button">Done</string>
+  <string name="download_current_rom">Get latest version of MIUI</string>
   <string name="downloading_description">Downloading…</string>
   <string name="drive_mode">Car mode</string>
   <string name="drive_mode_auto_reply">Quick response</string>
@@ -1096,6 +1098,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
+  <string name="install_whole_rom">Download ROM (standard)</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1136,6 +1139,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="language_settings_category">Language settings</string>
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
+  <string name="later">Reboot later</string>
   <string name="launch_count_label">Count</string>
   <string name="launcher_settings_title">Launcher</string>
   <string name="launching_cit">Launching cit, please wait.</string>
@@ -1351,6 +1355,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="menu_use_uss">Use Uss</string>
+  <string name="mione_update_success_title">Update complete</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
   <string name="miracast_cancelconnect_dialog">Cancel connection</string>
   <string name="miracast_connection_failed_generic">The connection was not successful</string>
@@ -1511,6 +1516,7 @@ Select your operating system:"</string>
   <string name="notification_sound_dialog_title">Default notification sound</string>
   <string name="notification_sound_title">Default notification sound</string>
   <string name="notification_volume_title">Notification</string>
+  <string name="now">Reboot now</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
@@ -2418,6 +2424,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
+  <string name="view_install_log">View error log</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
