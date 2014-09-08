@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="one">1 match</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Last %d days</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+</resources>

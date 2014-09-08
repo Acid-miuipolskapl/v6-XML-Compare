@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">UniPlay Service</string>
+  <string name="app_pkg_name">com.milink.service</string>
+  <string name="app_ver_code">1</string>
+  <string name="app_ver_name">1.0</string>
+  <string name="notification_rc_desc">You can use Xiaomi remote controller controlling your Xiaomi box and TV</string>
+  <string name="notification_rc_title">Xiaomi remote controller</string>
+  <string name="service_name">UniPlay Service</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_infos">
+        <item>.Speed</item>
+        <item>.CaptureInstant</item>
+        <item>.Vibrate</item>
+        <item>.KeepAlive</item>
+        <item>.Toolbar</item>
+        <item>.Faq</item>
+        <item>.Feedback</item>
+        <item>.TestUser</item>
+        <item>.About</item>
+        <item>.SilentMode</item>
+    </string-array>
+</resources>
