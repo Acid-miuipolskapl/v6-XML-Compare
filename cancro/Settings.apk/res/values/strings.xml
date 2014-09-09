@@ -1182,7 +1182,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_mode_title">Mode</string>
   <string name="location_neighborhood_level">Let apps use data from WLAN and mobile networks to estimate your location</string>
   <string name="location_neighborhood_level_wifi">Location determined by WLAN</string>
-  <string name="location_network_based">WLAN &amp; mobile network location</string>
+  <string name="location_network_based">WLAN &amp; mobile network</string>
   <string name="location_no_recent_apps">No apps have requested location recently</string>
   <string name="location_settings_title">Location</string>
   <string name="location_sources_heading">Location sources</string>
@@ -1530,7 +1530,7 @@ Select your operating system:"</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
-  <string name="only_when_charging">Only while charging</string>
+  <string name="only_when_charging">Only when plugged in</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>

@@ -46,9 +46,9 @@
   <string name="confirm_change_mode_title">Switch mode</string>
   <string name="confirm_change_to_expert_mode_message">Switch to advanced mode?</string>
   <string name="confirm_change_to_simple_mode_message">Switch to simple mode?</string>
-  <string name="confirm_location_message">Do you want to save location info in your photos?</string>
-  <string name="confirm_restore_message">Restore Camera default settings?</string>
-  <string name="confirm_restore_title">Restore defaults</string>
+  <string name="confirm_location_message">Tag your pictures and videos with the locations where they where taken?</string>
+  <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
+  <string name="confirm_restore_title">Restore default settings</string>
   <string name="connect_wifi">Connect to this network</string>
   <string name="contact_address">Address</string>
   <string name="contact_birthday">Birthday</string>
@@ -90,7 +90,7 @@
   <string name="effect_goofy_face_small_mouth">Small mouth</string>
   <string name="effect_goofy_face_squeeze">Squeeze</string>
   <string name="effect_none">None</string>
-  <string name="effect_setting_top_text">Camera Filters</string>
+  <string name="effect_setting_top_text">Filters</string>
   <string name="effect_silly_faces">SILLY FACES</string>
   <string name="empty">" "</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
@@ -165,7 +165,7 @@
   <string name="measure_whitebalance_text">"Place a sheet of white paper 6 inches away from the rear camera's lens and take a photo."</string>
   <string name="mimetype">MIME type</string>
   <string name="model">Model</string>
-  <string name="no_save">"Don't save"</string>
+  <string name="no_save">No thanks</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_enough_space">Internal storage is full</string>
@@ -185,7 +185,7 @@ touch the Shutter button"</string>
   <string name="pano_too_fast_prompt">Too fast</string>
   <string name="path">Path</string>
   <string name="people">People</string>
-  <string name="pref_advance_settings">Advance Setting</string>
+  <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_advanced_functions">Advanced settings</string>
   <string name="pref_advanced_settings">Advanced</string>
   <string name="pref_audio_indicator_entry_off">Audio off</string>
@@ -193,7 +193,7 @@ touch the Shutter button"</string>
   <string name="pref_audio_indicator_entryvalue_default">off</string>
   <string name="pref_audio_indicator_entryvalue_off">off</string>
   <string name="pref_audio_indicator_entryvalue_on">on</string>
-  <string name="pref_camcorder_settings">Camcorder Setting</string>
+  <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Camera settings</string>
   <string name="pref_camera_ae_bracket_hdr_default">Off</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -207,7 +207,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_audioencoder_default">aac</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto-capture when stable</string>
-  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Off</string>
   <string name="pref_camera_auto_focus_title_entry_on">On</string>
   <string name="pref_camera_autoexposure_default">center-weighted</string>
@@ -242,7 +242,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_title">Contrast</string>
-  <string name="pref_camera_countdown_title">CountDown</string>
+  <string name="pref_camera_countdown_title">Countdown</string>
   <string name="pref_camera_current_k_value">Current value</string>
   <string name="pref_camera_default_suffix">(Default)</string>
   <string name="pref_camera_denoise_default">denoise-on</string>
@@ -416,7 +416,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_setting_switch_default">off</string>
   <string name="pref_camera_setting_switch_entryvalue_off">off</string>
   <string name="pref_camera_setting_switch_entryvalue_on">on</string>
-  <string name="pref_camera_settings">Device Setting</string>
+  <string name="pref_camera_settings">Device</string>
   <string name="pref_camera_settings_category">Camera settings</string>
   <string name="pref_camera_settings_title">Settings</string>
   <string name="pref_camera_shader_coloreffect_default">10</string>
@@ -460,7 +460,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
   <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
   <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
-  <string name="pref_camera_volumekey_function_title">Volume key functions</string>
+  <string name="pref_camera_volumekey_function_title">Volume button functions</string>
   <string name="pref_camera_watermark_title">Time watermark</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -485,7 +485,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_zsl_title">ZSL</string>
   <string name="pref_camera_zsl_value_off">off</string>
   <string name="pref_camera_zsl_value_on">on</string>
-  <string name="pref_capture_settings">Camera Setting</string>
+  <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_face_beauty_default">i:0</string>
@@ -558,7 +558,7 @@ touch the Shutter button"</string>
   <string name="review_cancel">Cancel</string>
   <string name="rotate_left">Rotate left</string>
   <string name="rotate_right">Rotate right</string>
-  <string name="save">Save</string>
+  <string name="save">Yes</string>
   <string name="scan_qrcode">Scan QR code</string>
   <string name="secure_access_web_url">Secure access</string>
   <string name="see_app_details">See app details</string>
@@ -581,7 +581,7 @@ touch the Shutter button"</string>
   <string name="show_videos_only">Videos only</string>
   <string name="simple_mode_button_text_audio_capture">Close audio capture</string>
   <string name="simple_mode_button_text_color_effect">Close filter</string>
-  <string name="simple_mode_button_text_countdown">Close count down</string>
+  <string name="simple_mode_button_text_countdown">Close countdown</string>
   <string name="simple_mode_button_text_face_beauty">Close enhance skin tones</string>
   <string name="simple_mode_button_text_fast_video">Close slow-motion camera</string>
   <string name="simple_mode_button_text_hand_night">Close Handheld twilight</string>

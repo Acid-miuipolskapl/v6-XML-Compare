@@ -38,7 +38,7 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Attention</string>
-  <string name="alert_init_merged_message">"Now, photos on your device and photos you've stored in Mi Cloud will be displayed together."</string>
+  <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to enable sync first.</string>
   <string name="already_apply_album">Open %1$s?</string>
@@ -460,7 +460,7 @@
   <string name="clear_thumbnail_cache_confirm">All thumbnails cached in Gallery will be cleared.</string>
   <string name="clear_thumbnail_cache_summary">Clear thumbnails cached in Gallery</string>
   <string name="click_to_add_picture">Tap to add images</string>
-  <string name="click_top_right">Tap the icon on the top-right</string>
+  <string name="click_top_right">Tap this icon</string>
   <string name="close">Close</string>
   <string name="cloud_album_more_settings">Sync with Mi Cloud</string>
   <string name="cloud_album_set_create">New</string>
@@ -472,10 +472,10 @@
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
   <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at i.mi.com.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
-  <string name="cloud_media_set_set">Cloud albums</string>
+  <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">Share this album with friends</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
-  <string name="cloud_share_guide_message">"Share your cloud albums with 
+  <string name="cloud_share_guide_message">"Share your photos with 
 friends. View and update your 
 albums from anywhere.
 "</string>
@@ -565,7 +565,7 @@ albums from anywhere.
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
-  <string name="error_cloud_not_active">Cloud album not in use</string>
+  <string name="error_cloud_not_active">No photos in cloud</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
@@ -574,7 +574,7 @@ albums from anywhere.
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>
   <string name="error_socket_timeout">Network connection timed out</string>
-  <string name="error_title">"Couldn't sync"</string>
+  <string name="error_title">"Can't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown_host">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="exit">Exit</string>
@@ -617,7 +617,7 @@ albums from anywhere.
   <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">White</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
-  <string name="gallery_cloud_provider_name">Cloud album</string>
+  <string name="gallery_cloud_provider_name">Cloud photos</string>
   <string name="gallery_setting">Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="global_setting">Settings</string>
@@ -650,7 +650,7 @@ albums from anywhere.
   <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
   <string name="input_cloudfolder_name">Folder name</string>
-  <string name="internal_camera_folder_display_name">Internal camera Photos</string>
+  <string name="internal_camera_folder_display_name">Internal camera photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>
   <string name="internal_sd_card_hm">Phone storage</string>
@@ -727,8 +727,8 @@ albums from anywhere.
   <string name="none_picture">No images</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
-  <string name="only_show_camera_in_first_page">Only show the photos of the camera album in the first page</string>
-  <string name="only_show_camera_in_first_page_summary">When turned off, the photos of all the cloud albums will be shown in the first page.</string>
+  <string name="only_show_camera_in_first_page">Only show camera roll</string>
+  <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
   <string name="open">Enable</string>
   <string name="open_public_message">Create a URL to share with your friends</string>
   <string name="open_public_title">Share</string>
@@ -775,8 +775,8 @@ albums from anywhere.
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
   <string name="priority_storage">Save to SD card</string>
-  <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically.</string>
-  <string name="projection">Projection</string>
+  <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically</string>
+  <string name="projection">Project</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
@@ -835,8 +835,8 @@ albums from anywhere.
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hidden album</string>
   <string name="set_image">Set picture as</string>
-  <string name="set_label_all_albums">All albums</string>
-  <string name="set_label_local_albums">Local albums</string>
+  <string name="set_label_all_albums">All</string>
+  <string name="set_label_local_albums">Local</string>
   <string name="set_label_mtp_devices">MTP devices</string>
   <string name="set_lock_and_wallpaper">Setting as wallpaper…</string>
   <string name="set_lock_or_wallpaper">Set as wallpaper</string>
@@ -883,7 +883,7 @@ albums from anywhere.
   <string name="start_slide_show">Start slide show</string>
   <string name="storage_all_volumes">All storage devices</string>
   <string name="storage_no_space">Not enough space</string>
-  <string name="straighten">Straighten</string>
+  <string name="straighten">Adjust</string>
   <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Drag photo to straighten</string>
   <string name="sync_album">Sync albums</string>
@@ -893,9 +893,9 @@ albums from anywhere.
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Syncing…</string>
-  <string name="sync_only_in_wifi">Upload via WLAN only</string>
+  <string name="sync_only_in_wifi">Only use Wi‑Fi to upload photos</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
-  <string name="sync_only_in_wifi_summary">Gallery will use your mobile network to upload images when this feature is switched off</string>
+  <string name="sync_only_in_wifi_summary">Prevent Gallery from uploading photos over your mobile data connection</string>
   <string name="system_album">System album</string>
   <string name="tab_all_text">Set both</string>
   <string name="tab_lockscreen_text">Lock screen</string>
