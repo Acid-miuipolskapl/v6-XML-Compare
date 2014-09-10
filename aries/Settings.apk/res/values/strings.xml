@@ -63,7 +63,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
-  <string name="account_autostar_label">Auto-start management</string>
+  <string name="account_autostar_label">Auto running</string>
   <string name="account_list">All</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
@@ -77,7 +77,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
   <string name="add_account_label">Add account</string>
-  <string name="add_auto_startup_application">Add auto-start apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
   <string name="additional_system_update"/>
@@ -178,7 +177,6 @@ Enable floating windows?"</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_update_fail">System update failed.</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
   <string name="ask_compatibility">Ask when launched</string>
@@ -484,7 +482,6 @@ Enable floating windows?"</string>
   <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
   <string name="bugreport_in_power">Power menu bug reports</string>
   <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
-  <string name="bugreport_tool_log">Capture Bugreport</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="build_number">Build number</string>
@@ -492,7 +489,6 @@ Enable floating windows?"</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Button light settings</string>
-  <string name="button_text_login">Login</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
@@ -589,7 +585,7 @@ Enable floating windows?"</string>
   <string name="credential_storage_type">Storage type</string>
   <string name="credential_storage_type_hardware">Hardware-backed</string>
   <string name="credential_storage_type_software">Software only</string>
-  <string name="credentials_configure_lock_screen_hint">You need to set a lock screen PIN or password before you can use credential storage.</string>
+  <string name="credentials_configure_lock_screen_hint">You need to set a screen lock before you can use credential storage</string>
   <string name="credentials_enabled">Credential storage is enabled.</string>
   <string name="credentials_erased">Credential storage is erased.</string>
   <string name="credentials_install">Install from storage</string>
@@ -779,12 +775,10 @@ This setting affects all users on this phone."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
-  <string name="dialog_content_login">Update need Xiaomi account ,sure to login ?</string>
   <string name="dialog_no">No</string>
   <string name="dialog_title_color_calibration">Color Correction preset</string>
   <string name="dialog_title_font_size">Font size</string>
   <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
-  <string name="dialog_title_login">Login Xiaomi account</string>
   <string name="dialog_yes">Yes</string>
   <string name="dirac_control">Optimize audio quality</string>
   <string name="dirac_mode_earbuds">Mi headphones</string>
@@ -818,16 +812,16 @@ This setting affects all users on this phone."</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
-  <string name="dndm_auto_button_title">Recurring do not disturb time</string>
+  <string name="dndm_auto_button_title">Recurring Do not disturb time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
   <string name="dndm_auto_time_setting">Set time</string>
   <string name="dndm_auto_time_setting_summary">From %1$s to %2$s</string>
   <string name="dndm_auto_time_turn_off">To</string>
-  <string name="dndm_auto_time_turn_off_title">Automatically turn off do not disturb</string>
+  <string name="dndm_auto_time_turn_off_title">Automatically turn off Do not disturb</string>
   <string name="dndm_auto_time_turn_on">From</string>
-  <string name="dndm_auto_time_turn_on_title">Automatically turn on do not disturb</string>
+  <string name="dndm_auto_time_turn_on_title">Automatically turn on Do not disturb</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
-  <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when do not disturb is on.</string>
+  <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when Do not disturb is on.</string>
   <string name="dndm_menu_add_vip_custom">Add exception</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
@@ -881,7 +875,6 @@ This setting affects all users on this phone."</string>
   <string name="dolby_roomsize_summary">Surround sound settings only available for headphones</string>
   <string name="dolby_roomsize_title">Surround:</string>
   <string name="done_button">Done</string>
-  <string name="download_current_rom">Get latest version of MIUI</string>
   <string name="downloading_description">Downloading…</string>
   <string name="drive_mode">Car mode</string>
   <string name="drive_mode_auto_reply">Quick response</string>
@@ -905,7 +898,6 @@ This setting affects all users on this phone."</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_service_title">Use %1$s?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
@@ -1098,7 +1090,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
-  <string name="install_whole_rom">Download ROM (standard)</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
   <string name="intent_sender_action_label">Action:</string>
@@ -1139,7 +1130,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="language_settings_category">Language settings</string>
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
-  <string name="later">Reboot later</string>
   <string name="launch_count_label">Count</string>
   <string name="launcher_settings_title">Launcher</string>
   <string name="launching_cit">Launching cit, please wait.</string>
@@ -1264,7 +1254,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Main process in use.</string>
-  <string name="make_sure_cancel_update">cancel update？</string>
   <string name="man_add_application">Add auto-start apps</string>
   <string name="manage_device_admin">Device administrators</string>
   <string name="manage_device_admin_summary">View or deactivate device administrators</string>
@@ -1355,7 +1344,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="menu_use_uss">Use Uss</string>
-  <string name="mione_update_success_title">Update complete</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
   <string name="miracast_cancelconnect_dialog">Cancel connection</string>
   <string name="miracast_connection_failed_generic">The connection was not successful</string>
@@ -1393,7 +1381,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="miui_screensaver_state_off">Off</string>
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">Screensaver will begin 5 seconds after the display turns off</string>
+  <string name="miui_screensaver_usage">Pictures in the screensaver album will be displayed 5 seconds after the screen turns off.</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
@@ -1401,11 +1389,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
   <string name="mobile_unknown_sim_operator">Uknown SIM operator</string>
   <string name="model_number">Model number</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Start Capturing</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Stop Capturing</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -1439,7 +1422,7 @@ Select your operating system:"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Reboot to enable</string>
-  <string name="music_audio_effect_settings">Audio settings</string>
+  <string name="music_audio_effect_settings">Audio effect settings</string>
   <string name="music_dirac_mode_earbuds">Mi earbuds</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General earbuds</string>
@@ -1450,8 +1433,8 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_headphone_settings">Headphone type settings</string>
-  <string name="music_headset_button_settings">Assign remote buttons</string>
-  <string name="music_headset_calibrate">Assign headphones remote buttons</string>
+  <string name="music_headset_button_settings">Assign buttons</string>
+  <string name="music_headset_calibrate">Assign buttons</string>
   <string name="music_headset_calibrate_apply">Use</string>
   <string name="music_headset_calibrate_confirm">Apply these settings?</string>
   <string name="music_headset_calibrate_hint">Press the upper button</string>
@@ -1465,8 +1448,8 @@ Select your operating system:"</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones</string>
-  <string name="music_mi_effect_summary">Use Mi Sound enhancer when using speakers</string>
-  <string name="music_mi_effect_title">Mi Sound enhancer</string>
+  <string name="music_mi_effect_summary">Always use MiSound enhancer when using speakers</string>
+  <string name="music_mi_effect_title">Use MiSound enhancer</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -1516,7 +1499,6 @@ Select your operating system:"</string>
   <string name="notification_sound_dialog_title">Default notification sound</string>
   <string name="notification_sound_title">Default notification sound</string>
   <string name="notification_volume_title">Notification</string>
-  <string name="now">Reboot now</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
@@ -1570,8 +1552,6 @@ Select your operating system:"</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
-  <string name="power_autorun_apps_empty">No auto-start apps</string>
-  <string name="power_autorun_empty">No apps</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Phone idle</string>
@@ -1843,7 +1823,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_long_press_timeout">Define long press time</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">"Lock phone automatically when it's placed in a pocket"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_on_proximity_sensor_title">Prevent Pocket Dials</string>
   <string name="screen_saturation">Color saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
@@ -2194,7 +2174,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
-  <string name="touch_sensitive_turn_off_summary">Turn off prevent pocket dials as well?</string>
+  <string name="touch_sensitive_turn_off_summary">Turn off Prevent Pocket Dials as well?</string>
   <string name="touch_sensitive_turn_off_title">Glove mode is off</string>
   <string name="touch_title">Touch</string>
   <string name="track_frame_time">Profile GPU rendering</string>
@@ -2424,7 +2404,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
-  <string name="view_install_log">View error log</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
@@ -2471,7 +2450,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">Reset levels</string>
-  <string name="volume_restore_alert">All volume levels will be reset.</string>
+  <string name="volume_restore_alert">"You're current volume level settings will be erased."</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">Camera shutter, lock screen, and other system notifications</string>
