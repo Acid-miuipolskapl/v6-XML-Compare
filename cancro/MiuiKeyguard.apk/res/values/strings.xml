@@ -54,6 +54,7 @@ Please turn off airplane mode."</string>
   <string name="lockscreen_transport_play_description">Play button</string>
   <string name="lockscreen_transport_prev_description">Previous</string>
   <string name="login_website_in_case_forget_password">To reset your password, go to i.mi.com</string>
+  <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
   <string name="miui_unlockscreen_password_wrong">Try again:</string>
   <string name="open_wifi_settings">Open network connection</string>
@@ -76,4 +77,5 @@ Please turn off airplane mode."</string>
   <string name="unlockscreen_low_battery">Connect your charger.</string>
   <string name="unlockscreen_recharge_completed">Battery full</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
+  <string name="wrong_password">Incorrect password</string>
 </resources>

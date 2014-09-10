@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_video_quality_entries">
+        <item>@string/pref_video_quality_entry_4kuhd</item>
         <item>@string/pref_video_quality_entry_1080p</item>
         <item>@string/pref_video_quality_entry_720p</item>
         <item>@string/pref_video_quality_entry_480p</item>
     </string-array>
     <string-array name="pref_video_quality_entryvalues">
+        <item>12</item>
         <item>6</item>
         <item>5</item>
         <item>4</item>
     </string-array>
     <string-array name="pref_mtk_video_quality_entryvalues">
+        <item>12</item>
         <item>11</item>
         <item>10</item>
         <item>9</item>
@@ -20,11 +23,13 @@
         <item>@string/pref_mtk_video_quality_default</item>
     </string-array>
     <array name="video_quality_largeicons">
+        <item>@drawable/bg_indicator_quality_4kuhd</item>
         <item>@drawable/bg_indicator_quality_1080p</item>
         <item>@drawable/bg_indicator_quality_720p</item>
         <item>@drawable/bg_indicator_quality_480p</item>
     </array>
     <array name="video_quality_icons">
+        <item>@drawable/bg_quality_4kuhd</item>
         <item>@drawable/bg_quality_1080p</item>
         <item>@drawable/bg_quality_720p</item>
         <item>@drawable/bg_quality_480p</item>

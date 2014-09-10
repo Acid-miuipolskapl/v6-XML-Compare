@@ -1806,8 +1806,10 @@ Select your operating system:"</string>
   <string name="retry">Retry</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
+  <string name="ringtone_slot_setting_title">Single card settings</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Phone ringtone</string>
+  <string name="ringtone_uniform_setting_title">Dual card settings</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
@@ -2014,7 +2016,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings">SIM lock settings</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
-  <string name="sim_management_title">SIM management</string>
+  <string name="sim_management_title">SIM cards and mobile networks</string>
   <string name="sim_pin_change">Change SIM PIN</string>
   <string name="sim_pin_toggle">Lock SIM card</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
@@ -2087,6 +2089,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
   <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>

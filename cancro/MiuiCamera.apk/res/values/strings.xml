@@ -514,6 +514,7 @@ touch the Shutter button"</string>
   <string name="pref_video_quality_default">5</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
+  <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_entry_vga">VGA</string>

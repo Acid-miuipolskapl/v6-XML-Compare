@@ -3,7 +3,7 @@
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
-  <string name="already_signin_description">"You've already signed in."</string>
+  <string name="already_signin_description">"You've already checked in today."</string>
   <string name="app_name">Explorer</string>
   <string name="background">Hide</string>
   <string name="big5_summary">Traditional Chinese Windows default encoding</string>
@@ -226,9 +226,9 @@
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Phone</string>
-  <string name="pull_to_signin">Swipe down to sign in.</string>
+  <string name="pull_to_signin">Swipe down to check in.</string>
   <string name="query_bind_state">Connecting with KuaiPan…</string>
-  <string name="release_to_signin">Release to sign in</string>
+  <string name="release_to_signin">Release to check in</string>
   <string name="rename_description">Renaming…</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
   <string name="sd_card_available">Available: %1$s</string>
@@ -248,7 +248,7 @@
   <string name="show_message">You need to download this file before you can open it.</string>
   <string name="sign_description">Signing in…</string>
   <string name="signin_error">"Can't connect to the server. Check your network connection."</string>
-  <string name="signin_success">"Welcome!
+  <string name="signin_success">"You checked in!
 Free space added %1$s"</string>
   <string name="space_info">KuaiPan: %1$s available, %2$s in total</string>
   <string name="space_usage">Space used</string>
@@ -280,7 +280,7 @@ Free space added %1$s"</string>
   <string name="trash_box_message2">Empty the recycle bin to free up space.</string>
   <string name="ui_filechange_btn_download">Download file?</string>
   <string name="ui_filechange_btn_upload">Upload files</string>
-  <string name="ui_main_menu_option_sign_in">Sign in</string>
+  <string name="ui_main_menu_option_sign_in">Check in</string>
   <string name="ui_main_menu_option_task_manage">Manage transfers</string>
   <string name="ui_main_progress_txt_open_file">Downloading…</string>
   <string name="ui_main_toast_favorite_removed">Unstarred</string>
