@@ -36,4 +36,14 @@
         <item>Strong</item>
         <item>Strongest</item>
     </string-array>
+    <string-array name="wind_direction">
+        <item>Wind N</item>
+        <item>Wind NE</item>
+        <item>Wind E</item>
+        <item>Wind SE</item>
+        <item>Wind S</item>
+        <item>Wind SW</item>
+        <item>Wind W</item>
+        <item>Wind NW</item>
+    </string-array>
 </resources>

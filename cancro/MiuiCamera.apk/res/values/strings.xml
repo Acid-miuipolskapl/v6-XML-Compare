@@ -40,6 +40,7 @@
   <string name="cancel">Cancel</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
+  <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
   <string name="clear_effects">Clear effects</string>
   <string name="close">Close</string>
   <string name="cloud_album_details">Cloud album details:</string>
@@ -170,6 +171,7 @@
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_enough_space">Internal storage is full</string>
   <string name="not_selectable_in_scene_mode">Not selectable in scene mode</string>
+  <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
@@ -443,6 +445,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_touchafaec_entry_off">Off</string>
   <string name="pref_camera_touchafaec_entry_on">On</string>
   <string name="pref_camera_touchafaec_title">Touch AF/AEC</string>
+  <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_video_duration_default">10</string>
   <string name="pref_camera_video_duration_entry_10">10 minutes</string>
   <string name="pref_camera_video_duration_entry_120">No limit</string>
@@ -589,6 +592,7 @@ touch the Shutter button"</string>
   <string name="simple_mode_button_text_hdr">Close HDR mode</string>
   <string name="simple_mode_button_text_panorama">Close panorama</string>
   <string name="simple_mode_button_text_slow_video">Close fast-motion camera</string>
+  <string name="simple_mode_button_text_ubifocus">Close Refocus Mode</string>
   <string name="simple_mode_title">Simple mode</string>
   <string name="slideshow">Slideshow</string>
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
@@ -611,6 +615,8 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
+  <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
+  <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Video camera</string>
