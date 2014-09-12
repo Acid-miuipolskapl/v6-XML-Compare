@@ -98,6 +98,7 @@
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="not_recommend">"Wouldn't recommend"</string>
   <string name="now">Reboot now</string>
+  <string name="particular_build">Particular</string>
   <string name="paused_queued_for_network">Waiting for network connection</string>
   <string name="paused_queued_for_wifi">Waiting for WLAN connection</string>
   <string name="previous">Previous</string>

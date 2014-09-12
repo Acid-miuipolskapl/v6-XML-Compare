@@ -486,8 +486,8 @@ albums from anywhere.
   <string name="cloudfolder_already_exists">A folder with the same name already exists</string>
   <string name="cloudfolder_cannot_start_with">"Folder name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Folder name can't contain '%s'"</string>
-  <string name="cloudfolder_fail_to_load_data">Failed to load data for unknown reason, please retry</string>
-  <string name="cloudfolder_loading_data">(Loading data...)</string>
+  <string name="cloudfolder_fail_to_load_data">"Couldn't load data. Wait a minute or two and try again."</string>
+  <string name="cloudfolder_loading_data">(Loading…)</string>
   <string name="cloudfolder_name_cannot_empty">Enter a folder name</string>
   <string name="cloudfolder_name_reserved">Folder name is reserved</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
@@ -694,14 +694,14 @@ albums from anywhere.
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
-  <string name="message_no_delete_access_with_count">"You don't have permission these %d files."</string>
+  <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
   <string name="miliao_saved">MiTalk</string>
-  <string name="miliao_saved_folder_display_name">MiTalk saved</string>
+  <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">MIME type</string>
-  <string name="mishop_saved_folder_display_name">MiStore saved</string>
+  <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="modified_time">Modified</string>
   <string name="more">More</string>
@@ -765,7 +765,7 @@ albums from anywhere.
   <string name="photos">Photos</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="pick_too_much_tips">"Can't pick that many items (maximum %d items)."</string>
-  <string name="picker_no_album_selected">No album selected</string>
+  <string name="picker_no_album_selected">No albums selected</string>
   <string name="picker_no_items_selected">No items selected</string>
   <string name="picker_select_album_title_empty">Select an album</string>
   <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
@@ -796,7 +796,7 @@ albums from anywhere.
   <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">"Couldn't get QR code"</string>
-  <string name="request_sms_url_failed">"Cloudn't get info"</string>
+  <string name="request_sms_url_failed">"Couldn't get info"</string>
   <string name="request_sms_url_msg">Requesting info…</string>
   <string name="request_sms_url_title">Hint</string>
   <string name="retry_to_create_album">Retry</string>
@@ -903,7 +903,7 @@ albums from anywhere.
   <string name="tags">Tags</string>
   <string name="taken_time">Taken on</string>
   <string name="temperature">Hue</string>
-  <string name="tencent_mobile_qq_img_save">QQ 2012</string>
+  <string name="tencent_mobile_qq_img_save">QQ</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
   <string name="there_is_no_image">No images in this file</string>

@@ -369,6 +369,8 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
+  <string name="eas_hotmail_email">hotmail.com</string>
+  <string name="eas_outlook_email">outlook.com</string>
   <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Quick response</string>
   <string name="elided_padding_token"> </string>
@@ -818,6 +820,7 @@ CC: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="tryrefreshing">Try to Refreshing…</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
