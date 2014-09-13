@@ -6,13 +6,21 @@
   <string name="activating">Activating…</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
   <string name="app_name">Mi Cloud</string>
+  <string name="app_sync_off">App sync off</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
   <string name="cloud_find_device">Find Device</string>
+  <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
+  <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
+  <string name="contact">Contacts</string>
+  <string name="current">Current</string>
+  <string name="data_syncing">Always sync</string>
+  <string name="detail">Details</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="enableAll">Sync all</string>
+  <string name="enable_cloud_service_notification">"You haven't enabled Mi Cloud"</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_micloud">Sign up or create an account</string>
   <string name="enable_sync">Turn on</string>
@@ -41,13 +49,22 @@
 If you switch SIM cards, a new activation SMS must be sent ."</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
+  <string name="finish">Finish</string>
+  <string name="flight_mode">Airplane mode</string>
+  <string name="full_space">Not enough space</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="i_know">OK</string>
+  <string name="internet">Internet</string>
+  <string name="internet_disconnected">No data connection</string>
+  <string name="less_flow_mode">Data saver</string>
   <string name="master_alert_notif_dspt_add">"%s haven't been synced."</string>
   <string name="master_alert_notif_dspt_no">"Everything's up to date."</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
+  <string name="micloud">Mi Cloud</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="micloud_first_login_summary"/>
+  <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"All your photos, video, notes, and apps will remain backed up in the cloud. 
 
 This way, if you lose or damage your device, your data will still be safe. 
@@ -56,14 +73,25 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
+  <string name="micloud_main_data_unsynced">%d not synced</string>
+  <string name="micloud_main_last_sync_time">Last sync</string>
+  <string name="micloud_main_network_error">"Can't connect to the network. Check your network settings and try again."</string>
+  <string name="micloud_main_stop_sync">Stop sync</string>
+  <string name="micloud_main_suggest_sync">Some items need to be synced with your Mi Cloud.</string>
+  <string name="micloud_main_sync_now">Sync now</string>
+  <string name="micloud_main_sync_on_wifi">Use WLAN</string>
+  <string name="micloud_main_sync_stop">Stop sync</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
+  <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
+  <string name="micloud_unlogin_for_time_summary"/>
+  <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
   <string name="micloud_upgrade_space">Get more storage space</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_user_space_usage">Storage space</string>
@@ -76,24 +104,37 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
+  <string name="normal">Normal</string>
+  <string name="only_in_wlan">Only use WLAN to sync</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
+  <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
   <string name="pref_title_sync_my_profile_title">Sync profile</string>
+  <string name="remind_later">Remind me later</string>
   <string name="restoreSync">Sync now</string>
+  <string name="setting">Settings</string>
+  <string name="sms">SMS</string>
+  <string name="space">Storage</string>
   <string name="start_micloud">Start</string>
+  <string name="storage">Storage</string>
   <string name="sub_alert_notif_dspt_add">"%s haven't been synced."</string>
   <string name="sub_alert_notif_dspt_no">"Everything's up to date."</string>
   <string name="sub_alert_notif_title">Not syncing</string>
   <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
+  <string name="sync">Sync</string>
   <string name="sync_dspt">Enable sync</string>
+  <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
+  <string name="sync_item_calllog_title">Sync call logs</string>
   <string name="sync_item_sms_summary">Sync your SMS sent and received on this phone</string>
   <string name="sync_item_sms_title">Sync messages</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
+  <string name="sync_setting">Sync settings</string>
+  <string name="sync_standard">Sync the small stuff</string>
   <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
@@ -102,10 +143,14 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sync_sub_dspt">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_dspt_provision">Get to your your data from anywhere</string>
   <string name="sync_sub_int_dspt">Your carrier may charge for an international SMS message used to activate this service.</string>
+  <string name="system_sync_off">System sync off</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="unactivated_user">Deactivated</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
+  <string name="wifi">WLAN</string>
+  <string name="wifi_disconnected">No WLAN</string>
+  <string name="wifi_sync">Wait for WLAN</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
