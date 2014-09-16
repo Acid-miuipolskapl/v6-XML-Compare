@@ -76,7 +76,6 @@
   <string name="express_addressee_name">Addressee name</string>
   <string name="express_addressee_region">Addressee region</string>
   <string name="express_cancel_order">Cancel</string>
-  <string name="express_company_empty">No companies</string>
   <string name="express_company_list_empty">No companies</string>
   <string name="express_company_phone_prefix">Contact:</string>
   <string name="express_company_pricing_details">Pricing detail</string>
@@ -189,7 +188,7 @@ Please check your tracking number."</string>
   <string name="menu_about_yellow_page">About</string>
   <string name="menu_add_black_list">Add to blocklist</string>
   <string name="menu_add_to_favorite">Add to favorites</string>
-  <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
+  <string name="menu_call_ip_number">Dial IP call</string>
   <string name="menu_copy_text">Copy to clipboard</string>
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Delete call logs</string>
@@ -206,6 +205,7 @@ Please check your tracking number."</string>
   <string name="navigation_search_no_city_list">"Didn't find anything"</string>
   <string name="navigation_search_positioning">Locating…</string>
   <string name="navigation_search_positioning_failed">Select a city</string>
+  <string name="nearby_average_price">Average %d RMB</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -280,14 +280,13 @@ Total: RMB %3$s"</string>
   <string name="remind_user_suspect_number_message">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="remind_user_suspect_number_title">Suspicious number</string>
   <string name="scan">Scan</string>
-  <string name="select">Select</string>
   <string name="select_package_before_buy">Select package</string>
   <string name="selected_category_format">Labeled by %2$d people as %1$s.</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
   <string name="sending_shortcut">Sending…</string>
   <string name="service_unavailiable">Service unavailable</string>
-  <string name="shop_recommendation_format" formatted="false">%s: %s</string>
+  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Failed to send</string>

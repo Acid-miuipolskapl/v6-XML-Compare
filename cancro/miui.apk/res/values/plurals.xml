@@ -13,25 +13,25 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">1 hour ago</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="a_hour_ago">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">1 hour ago</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In one hour</item>
+        <item quantity="other">In 1 hour</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In half an hour</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">In one hour</item>
+        <item quantity="other">In 1 hour</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">In half an hour</item>

@@ -45,7 +45,9 @@
   <string name="compress_title">Compress</string>
   <string name="confirm">Confirm</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Remind when accessing network</string>
   <string name="copy_failed">"Can't copy"</string>
+  <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Place on Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
   <string name="create_new_folder_failed">Failed to create folder.</string>
@@ -72,10 +74,11 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty</string>
   <string name="dlg_error_unmount_text">Failed to unmount USB storage.</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Download failed</string>
   <string name="download_link_completed">%1$s shared via KuaiPan. Touch the link below to view:</string>
   <string name="downloading">Downloading</string>
+  <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
@@ -87,6 +90,7 @@
   <string name="favorite_ringtone">Ringtones</string>
   <string name="favorite_screen_cap">Screenshots</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
   <string name="file_info_canread">Readable:</string>
   <string name="file_info_canwrite">Writable:</string>
   <string name="file_info_ishidden">Hidden:</string>
@@ -111,6 +115,8 @@
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
+  <string name="image_download">Download</string>
+  <string name="image_share">Share</string>
   <string name="instruction">Enter the following address into an FTP client:</string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="kilobyteShort">KB</string>
@@ -172,6 +178,8 @@
   <string name="name_illegal">You must enter a name.</string>
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
+  <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
+  <string name="never_notify_network_connect">"Don't show me this again"</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="no">No</string>
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
@@ -188,7 +196,9 @@
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied.</string>
   <string name="open_file_failed">open failed</string>
+  <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
+  <string name="operation_agree">Agree</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing…</string>
@@ -219,6 +229,7 @@
   <string name="operation_rename_message">Rename folder</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Resume all</string>
+  <string name="operation_save">Save</string>
   <string name="operation_send">Send</string>
   <string name="operation_show_sys">Show hidden files</string>
   <string name="operation_unfavorite">Unstar</string>
@@ -262,10 +273,12 @@ Free space added %1$s"</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
   <string name="sys_size_enable">Enable</string>
+  <string name="system_alert">Remind</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
   <string name="tab_networkdisk">KuaiPan</string>
+  <string name="tab_path">Path</string>
   <string name="tab_phone">List view</string>
   <string name="tab_sys_size">Total Storage</string>
   <string name="terabyteShort">TB</string>
@@ -297,6 +310,7 @@ Free space added %1$s"</string>
   <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
   <string name="user_guide_other_version">Download in mi.kuaipan.cn.Login with your account(%1$s)</string>
   <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
+  <string name="user_guide_summary">A brief overview</string>
   <string name="user_guide_upload_to_kuaipan">Store items on Kuaipan from your phone</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>

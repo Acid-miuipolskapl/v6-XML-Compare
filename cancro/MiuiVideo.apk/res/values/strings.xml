@@ -49,12 +49,12 @@
   <string name="clear_cache">Clear image cache</string>
   <string name="clear_cache_success">Cache cleared</string>
   <string name="clear_cache_summary">Clear cached images from Video browser</string>
-  <string name="click_star_rate">Click on the star rating</string>
+  <string name="click_star_rate">Tap to review</string>
   <string name="click_to_login">Touch image to sign in</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comments</string>
-  <string name="comment_count_less_tip">Comment must be at least d% characters</string>
-  <string name="comment_count_much_tip">"Comment can't exceed d% characters"</string>
+  <string name="comment_count_less_tip">Comment must be at least %d characters long</string>
+  <string name="comment_count_much_tip">"Comment can't exceed %d characters"</string>
   <string name="comment_edit_blog_hint">Post to Weibo</string>
   <string name="comment_edit_et_hint">Enter a comment</string>
   <string name="comment_edit_start_hint">Touch stars to rate</string>

@@ -79,6 +79,7 @@
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore selected messages?</string>
   <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
+  <string name="context_menu_add_calendar">Show in Calendar</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_add_to_browser_favorite">Add to Browser bookmarks</string>
   <string name="context_menu_browse_web">Browse</string>
@@ -232,9 +233,9 @@
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
-  <string name="mx_activate_error_server">"Cloudn't activate"</string>
+  <string name="mx_activate_error_server">"Couldn't activate"</string>
   <string name="mx_activate_error_sim_change">"Looks like you've swapped SIM cards. You need to reactivate Mi Message."</string>
-  <string name="mx_activate_error_title">"Cloudn't activate"</string>
+  <string name="mx_activate_error_title">"Couldn't activate"</string>
   <string name="mx_activate_hint_malformed_info">Your carrier may charge for an SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_hint_server">Your carrier may charge for an SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_hint_sim_change">Your carrier may charge for an SMS message used to reactivate Mi Message.</string>

@@ -368,6 +368,8 @@
   <string name="pref_autologin_progress_in_background">Signing into Google sites using %s in the background</string>
   <string name="pref_autologin_title">Automatic Google sign-in</string>
   <string name="pref_category_title_version">Version</string>
+  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
+  <string name="pref_check_security_url_title">Check URL security</string>
   <string name="pref_clear_adblock_statistics">Clear Ad blocker history</string>
   <string name="pref_clear_adblock_statistics_dlg">Clear blocked ad count?</string>
   <string name="pref_clear_all_data_dlg">Delete all saved data above?</string>
@@ -623,6 +625,8 @@
   <string name="share_link">share link</string>
   <string name="share_page">share page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
   <string name="snapshot_go_live">Go live</string>

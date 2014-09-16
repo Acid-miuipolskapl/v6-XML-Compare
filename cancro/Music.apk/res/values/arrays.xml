@@ -26,6 +26,16 @@
         <item>@string/eq_dance</item>
         <item>@string/eq_metal</item>
     </string-array>
+    <string-array name="music_quality">
+        <item>@string/ultra_high_quality</item>
+        <item>@string/high_quality</item>
+        <item>@string/normal_quality</item>
+    </string-array>
+    <string-array name="search_item_type_name">
+        <item>@string/search_title_singer</item>
+        <item>@string/search_title_album</item>
+        <item>@string/search_title_song</item>
+    </string-array>
     <string-array name="number_key_entries">
         <item>0</item>
         <item>1</item>
@@ -62,14 +72,4 @@
         <item>@drawable/theme_dark_number_8</item>
         <item>@drawable/theme_dark_number_9</item>
     </array>
-    <string-array name="music_quality">
-        <item>@string/ultra_high_quality</item>
-        <item>@string/high_quality</item>
-        <item>@string/normal_quality</item>
-    </string-array>
-    <string-array name="search_item_type_name">
-        <item>@string/search_title_singer</item>
-        <item>@string/search_title_album</item>
-        <item>@string/search_title_song</item>
-    </string-array>
 </resources>
