@@ -1274,6 +1274,8 @@ for account %s."</string>
   <string name="phoneTypeWork">Work</string>
   <string name="phoneTypeWorkMobile">Work Mobile</string>
   <string name="phoneTypeWorkPager">Work Pager</string>
+  <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
   <string name="policydesc_disableCamera">Prevent use of all device cameras.</string>
   <string name="policydesc_disableKeyguardFeatures">Prevent use of some features in keyguard.</string>
   <string name="policydesc_encryptedStorage">Require that stored app data be encrypted.</string>
@@ -1311,6 +1313,8 @@ for account %s."</string>
   <string name="quick_contacts_not_available">No application found to view this contact.</string>
   <string name="reason_service_unavailable">Print service not enabled</string>
   <string name="reason_unknown">unknown</string>
+  <string name="reboot_confirm">Your tablet will reboot.</string>
+  <string name="reboot_progress">Rebooting…</string>
   <string name="reboot_safemode_confirm">Do you want to reboot into safe mode? This will disable all third party applications you have installed. They will be restored when you reboot again.</string>
   <string name="reboot_safemode_title">Reboot to safe mode</string>
   <string name="recent_tasks_title">Recent</string>
@@ -1452,6 +1456,12 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="ssl_certificate">Security certificate</string>
   <string name="ssl_certificate_is_valid">This certificate is valid.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+  <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+  <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+  <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
@@ -1510,11 +1520,11 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="volume_alarm">Alarm volume</string>
   <string name="volume_bluetooth_call">Bluetooth in-call volume</string>
   <string name="volume_call">In-call volume</string>
-  <string name="volume_icon_description_bluetooth">Bluetooth volume</string>
-  <string name="volume_icon_description_incall">Call volume</string>
-  <string name="volume_icon_description_media">Media volume</string>
-  <string name="volume_icon_description_notification">Notification volume</string>
-  <string name="volume_icon_description_ringer">Ringtone volume</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth</string>
+  <string name="volume_icon_description_incall">Call</string>
+  <string name="volume_icon_description_media">Media</string>
+  <string name="volume_icon_description_notification">Notification</string>
+  <string name="volume_icon_description_ringer">Ringer</string>
   <string name="volume_music">Media volume</string>
   <string name="volume_music_hint_playing_through_bluetooth">Playing through Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Silent ringtone set</string>

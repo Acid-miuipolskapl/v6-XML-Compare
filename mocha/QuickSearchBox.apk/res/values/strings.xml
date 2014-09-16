@@ -10,7 +10,7 @@
 
 To clear your Browser history, use the Browser's settings."</string>
   <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
-  <string name="corpus_description_apps">Names of installed applications</string>
+  <string name="corpus_description_apps">Installed applications</string>
   <string name="corpus_description_web">Bookmarks</string>
   <string name="corpus_hint_apps">Search apps</string>
   <string name="corpus_label_apps">Apps</string>
@@ -32,8 +32,8 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="menu_settings">Search settings</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
-  <string name="search_in_app_store">Search in market</string>
-  <string name="search_in_web">Search in web</string>
+  <string name="search_in_app_store">Search app market</string>
+  <string name="search_in_web">Search internet</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
@@ -9,7 +10,7 @@
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
-  <string name="action_open_camera2">Gallery</string>
+  <string name="action_open_camera2">Take Picture</string>
   <string name="action_open_camera360_capture">Camera360 camera effects</string>
   <string name="action_open_camera360_edit">Camera360 picture editing</string>
   <string name="action_open_flashlight">Flashlight</string>
@@ -72,8 +73,11 @@
   <string name="delete_confirm">Are you sure you would like to delete this action?</string>
   <string name="delete_gesture">Delete button guestures for MiKey?</string>
   <string name="device_not_recognized">Connected device is not recognized, please try again.</string>
+  <string name="dialog_title_disable_mikey_sprite">Disable MiKey wizard?</string>
+  <string name="disable_mikey_sprite">Disable MiKey wizard</string>
   <string name="earphone">Headphones</string>
   <string name="email">E-mail:</string>
+  <string name="enable_mikey_sprite">Enable MiKey wizard</string>
   <string name="fail_generate_barcode">Failed to generate QR code</string>
   <string name="faq_comp_text">For MIUI and Xiaomi phones. The current version of MiKey is available at &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Supported devices</string>
@@ -101,6 +105,9 @@
   <string name="front_camera">Front camera</string>
   <string name="goto_update">Update</string>
   <string name="hint_long_press_del">Long press to remove</string>
+  <string name="hint_mikey_sprite">"点击米键就是点击屏幕
+发语音、拍照片、打游戏…
+使用米键精灵无法使用米键其它功能"</string>
   <string name="input_phone">Input phone number</string>
   <string name="long_click">Long press</string>
   <string name="message_photo_end">Picture saved</string>
@@ -112,6 +119,9 @@
   <string name="notification_control_stop">Stop</string>
   <string name="notification_recorder_file_location">Saved to:</string>
   <string name="notification_recorder_start">Recording...</string>
+  <string name="notify_content_sprite">点击右侧叉号可以关闭</string>
+  <string name="notify_ticker_sprite">MiKey wizard is running</string>
+  <string name="notify_title_sprite">MiKey Wizard</string>
   <string name="open_flash_error">Turn on of flash failed</string>
   <string name="phone">Phone:</string>
   <string name="picker_lable">Gallery</string>
@@ -124,6 +134,8 @@
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
   <string name="sdcard">SD card</string>
+  <string name="select_baidusearch">Baidu search</string>
+  <string name="select_baiduvoicesearch">Baidu voice search</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
   <string name="setting_buy">Buy MiKeys</string>
@@ -173,7 +185,11 @@ From the top of the screen slide downwards to use it."</string>
   <string name="sms_sent_done">SMS sent</string>
   <string name="sms_template">Message text</string>
   <string name="sms_to">SMS</string>
+  <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
+点击米键就是点击小白点儿下的屏幕"</string>
   <string name="splash_tip">Connect MiKey</string>
+  <string name="tab_mikey">MiKey</string>
+  <string name="tab_mikey_sprite">MiKey Wizard</string>
   <string name="task_title_prefix">Action %1$s: %2$s</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>

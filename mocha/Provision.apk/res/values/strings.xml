@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="input_method_category">"Choose the default input method that you'll use when writing text in emails, notes, and everywhere else. Note that you can install third party keyboards later."</string>
-  <string name="input_method_setting">Choose input method</string>
-  <string name="other_settings">Additional settings</string>
+  <string name="input_method_category">There are a variety of input methods to choose from by default, you can select the appropriate input method based on your usage, if you are a novice recommended that you use the default input method</string>
+  <string name="input_method_setting">Select input method</string>
+  <string name="other_settings">Other settings</string>
   <string name="other_settings_location">Location access</string>
-  <string name="other_settings_location_summary">Let apps pinpoint your location</string>
-  <string name="other_settings_user_experience">User feedback</string>
-  <string name="other_settings_user_experience_summary">Help improve MIUI by sending anonymous usage data</string>
+  <string name="other_settings_location_summary">Let map and other apps pinpoint your location</string>
+  <string name="other_settings_user_experience">User experience program</string>
+  <string name="other_settings_user_experience_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
   <string name="welcome">Welcome</string>
 </resources>

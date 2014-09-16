@@ -151,7 +151,7 @@
   <string name="import_contact">Import contact</string>
   <string name="import_fail">Import failed</string>
   <string name="iso">ISO</string>
-  <string name="launch_market">Launch Mi App Market</string>
+  <string name="launch_market">Launch Xiaomi App Market</string>
   <string name="launch_qq">Launch QQ in Browser</string>
   <string name="launch_wechat">Launch WeChat</string>
   <string name="loading">Loading…</string>
@@ -214,7 +214,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
   <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
   <string name="pref_camera_coloreffect_default">none</string>
-  <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
+  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Dawn</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Autumn</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
@@ -224,16 +224,16 @@ touch the Shutter button"</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-  <string name="pref_camera_coloreffect_entry_negative">Negative</string>
+  <string name="pref_camera_coloreffect_entry_negative"/>
   <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_planet">Small world</string>
-  <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
-  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+  <string name="pref_camera_coloreffect_entry_posterize"/>
+  <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
   <string name="pref_camera_coloreffect_entry_sketch">Sketch</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
-  <string name="pref_camera_coloreffect_entry_yesteryear">Vintage</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
   <string name="pref_camera_coloreffect_title">Filters</string>
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_title">Contrast</string>
@@ -492,7 +492,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
-  <string name="pref_priority_storage_title">Save to external SD card</string>
+  <string name="pref_priority_storage_title">Priority saved to external SD card</string>
   <string name="pref_scan_qrcode_default">on</string>
   <string name="pref_scan_qrcode_entry_off">Off</string>
   <string name="pref_scan_qrcode_entry_on">On</string>
@@ -600,7 +600,7 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst shooting is not supported when enhance skin tones is enabled</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot is not supported when HDR is ON</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Cannot view image or video when screen is locked</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>

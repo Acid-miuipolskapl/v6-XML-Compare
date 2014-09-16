@@ -209,9 +209,6 @@
   <string name="response_maybe">Maybe</string>
   <string name="response_no">No</string>
   <string name="response_yes">Yes</string>
-  <string name="rsvp_accepted">Responded yes.</string>
-  <string name="rsvp_declined">Responded no.</string>
-  <string name="rsvp_tentative">Responded maybe.</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_label">Done</string>
   <string name="saving_event">Event saved.</string>

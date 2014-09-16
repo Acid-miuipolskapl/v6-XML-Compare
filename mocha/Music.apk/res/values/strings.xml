@@ -43,6 +43,26 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="eq_auto">Custom</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Classical</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Remove</string>
+  <string name="eq_delete_success">Done</string>
+  <string name="eq_electronic">Electronic</string>
+  <string name="eq_flat">Flat</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Create</string>
+  <string name="eq_preset_format">User preset %d</string>
+  <string name="eq_preset_hint">Preset name</string>
+  <string name="eq_preset_rename">Rename</string>
+  <string name="eq_preset_select">Choose a preset</string>
+  <string name="eq_rock">Rock</string>
+  <string name="equalizer">Equalizer</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_title">"Couldn't sync"</string>
@@ -107,4 +127,5 @@
   <string name="trigger_to_scan_media_library_start">Refreshing…</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
+  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
 </resources>

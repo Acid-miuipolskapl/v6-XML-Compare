@@ -55,11 +55,40 @@
         <item>@drawable/clock_colon</item>
     </array>
     <string-array name="system_foreground_notification_whitelist">
-        <item>com.miui.fmradio</item>
-        <item>com.android.soundrecorder</item>
+        <item>com.android.settings</item>
+        <item>com.miui.home</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.updater</item>
+        <item>com.miui.backup</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.player</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.cloudappbackup</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
         <item>com.autonavi.xmgd.navigator</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.navi</item>
+        <item>com.baidu.bus</item>
+        <item>com.mapbar.android.mapbarmap1</item>
+        <item>com.mapbar.android.trybuynavi</item>
+        <item>com.mapbar.android.gpsnavi</item>
+        <item>com.tencent.map</item>
+        <item>com.tencent.navsns</item>
+        <item>com.uu.uunavi</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tigerknows</item>
+        <item>com.autonavi.cmccmap</item>
+        <item>brut.googlemaps</item>
+    </string-array>
+    <string-array name="carrier_name">
+        <item>SmarToneVodafone</item>
+        <item>SmarToneVodafone 3G</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>SMC HK</item>
+        <item>SMC HK 3G</item>
     </string-array>
 </resources>

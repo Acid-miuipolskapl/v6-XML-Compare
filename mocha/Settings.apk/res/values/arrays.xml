@@ -938,6 +938,14 @@
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
     </string-array>
+    <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
         <item>Show recent apps tray</item>
@@ -1034,22 +1042,21 @@
         <item>24,14,-20,6,12,16,8</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Device connected, creating session…</item>
-        <item>Session created.</item>
-        <item>Session tearing down…</item>
-        <item>Session failed.</item>
-        <item>Timed out, retrying…</item>
+        <item>Starting session…</item>
+        <item>Session started</item>
+        <item>Tearing down…</item>
+        <item>"Can't start session"</item>
+        <item>Timed out. Retrying…</item>
         <item>Device connected</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>High performance</item>
-        <item>Balance</item>
-        <item>Battery saving</item>
+        <item>Performance</item>
+        <item>Balanced</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP and older versions of Windows</item>
-        <item>Windows Vista and newer versions of Windows</item>
-        <item>Mac OS</item>
+        <item>Windows XP and older</item>
+        <item>Windows Vista and newer</item>
+        <item>OSX</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_download_summary">
@@ -1059,8 +1066,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
-        <item>"2.Setup wizard will appear when install, 
-Please follow"</item>
+        <item>2.Follow the onscreen instructions</item>
         <item></item>
         <item></item>
         <item></item>
@@ -1068,7 +1074,7 @@ Please follow"</item>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>Usb mass storage will open automatically when connected to a computer.</item>
+        <item>USB mass storage will open automatically when connected to a computer.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -1084,13 +1090,13 @@ Please follow"</item>
         <item>@string/msd_install_retry_reinstall</item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Use installation tool \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
-        <item>Create a directory \"mkdir\" /media/mtp</item>
+        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Create a directory: mkdir /media/mtp</item>
         <item>Confirm user group permissions in the current fuse user group</item>
         <item>Sign in again</item>
-        <item>Access mounted device mtpfs /media/mtp via File explorer; same as local directory</item>
-        <item>"Uninstall device fusermount -u /media/mtp
- Note: For ubuntu 8.04 environment"</item>
+        <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
+        <item>"Uninstall device: fusermount -u /media/mtp
+Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Warm</item>

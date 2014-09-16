@@ -89,7 +89,7 @@
   <string name="bookmark_needs_title">Bookmark must have a name.</string>
   <string name="bookmark_needs_url">Bookmark must has URL</string>
   <string name="bookmark_not_saved">"Couldn't save bookmark."</string>
-  <string name="bookmark_page">Bookmark last viewed page</string>
+  <string name="bookmark_page">Bookmark last-viewed page</string>
   <string name="bookmark_saved">Saved to bookmarks.</string>
   <string name="bookmark_this_page">Bookmark this page</string>
   <string name="bookmark_this_page_to_readmodelist">Add page to reading list</string>
@@ -121,9 +121,12 @@
   <string name="clear_history">Clear history</string>
   <string name="clear_history_group">Delete %s browsing history</string>
   <string name="clear_search_history">Clear history</string>
+  <string name="close_cloud_tab_tip">Close cloud tabs on %s ?</string>
   <string name="close_other_tabs">Close other tabs</string>
   <string name="cloud_loading_tips">Pull down to sync</string>
-  <string name="cloud_no_new_data_toast">No new data, please retry later</string>
+  <string name="cloud_no_new_data_toast">Data is the latest</string>
+  <string name="cloud_sync_closed_toast">Cloud sync is switched off, unable to update</string>
+  <string name="cloud_sync_failed_toast">Update failed, please retry later</string>
   <string name="cloud_tab">Cloud Tab</string>
   <string name="cloud_time_tips">Last sync time</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
@@ -180,6 +183,7 @@
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="do_not_save">Cancel</string>
   <string name="done">Done</string>
+  <string name="dont_remind_again">"don't remind again"</string>
   <string name="download_complete">File download complete</string>
   <string name="download_failed">Download failed</string>
   <string name="download_no_sdcard_dlg_msg">An SD card is required to download %s.</string>
@@ -343,10 +347,13 @@
   <string name="pref_autofill_profile_editor_summary">Set up text to auto-fill in web forms</string>
   <string name="pref_autologin_progress">Signing into Google sites using %s</string>
   <string name="pref_autologin_title">Automatic Google signin</string>
+  <string name="pref_check_security_url">Security URL</string>
+  <string name="pref_check_security_url_summary">Submit current URL when accessing a Web site to the server detects its security</string>
+  <string name="pref_check_security_url_title">Security URL check</string>
   <string name="pref_content_auto_light_mode">Auto-brightness</string>
   <string name="pref_content_autofit">Auto-fit pages</string>
   <string name="pref_content_autofit_summary">Format webpages to fit the screen</string>
-  <string name="pref_content_block_popups">Block popups</string>
+  <string name="pref_content_block_popups">Block pop-ups</string>
   <string name="pref_content_fontsize_setting">Font settings</string>
   <string name="pref_content_homepage">Set start page</string>
   <string name="pref_content_javascript">Enable JavaScript</string>
@@ -356,7 +363,7 @@
   <string name="pref_content_load_page_summary">Show overview of newly-opened pages</string>
   <string name="pref_content_open_in_background">Open in background</string>
   <string name="pref_content_open_in_background_summary">Open new tabs behind the current tab</string>
-  <string name="pref_content_plugins">Enable plugins</string>
+  <string name="pref_content_plugins">Enable plug-ins</string>
   <string name="pref_content_search_engine">Set search engine for title bar</string>
   <string name="pref_content_search_engine_summary">Choose a search engine</string>
   <string name="pref_content_title">Page content</string>
@@ -432,8 +439,8 @@
   <string name="pref_privacy_clear_geolocation_access_summary">Clear location access for all websites</string>
   <string name="pref_privacy_clear_history">Clear history</string>
   <string name="pref_privacy_clear_history_by_group_dlg">Have you want to delete the browser history in this day?</string>
-  <string name="pref_privacy_clear_history_dlg">Delete the browser history?</string>
-  <string name="pref_privacy_clear_history_summary">Clear the browser history</string>
+  <string name="pref_privacy_clear_history_dlg">Delete the browser navigation history?</string>
+  <string name="pref_privacy_clear_history_summary">Clear the browser navigation history</string>
   <string name="pref_privacy_clear_passwords">Clear passwords</string>
   <string name="pref_privacy_clear_passwords_dlg">Delete all saved passwords?</string>
   <string name="pref_privacy_clear_passwords_summary">Clear all saved passwords</string>
@@ -542,6 +549,8 @@
   <string name="share_page">Share page</string>
   <string name="shortcut_bookmark">Bookmark</string>
   <string name="shortcut_bookmark_title">Choose a bookmark</string>
+  <string name="show_check_security_url_check_tip_dialog_description">In order to protect the security of your Internet browser to access the site, the current URL will be submit to the server to detects its security, If you do not need this feature, turn off the Security URL check in the settings can be</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Security URL check tip</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading."</string>
   <string name="snapshot_go_live">Go live</string>
@@ -585,7 +594,7 @@
   <string name="up_to_loading_tips">Release to refresh</string>
   <string name="uploads_disabled">File uploads are disabled.</string>
   <string name="url_copy_done">This URL has been copied</string>
-  <string name="url_hint">Enter URL or search text</string>
+  <string name="url_hint">Type url or search text</string>
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>

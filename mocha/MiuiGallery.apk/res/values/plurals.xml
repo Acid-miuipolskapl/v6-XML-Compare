@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Delete %s photos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s photo in &amp;lt;b>cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Delete %s photos?</item>
+        <item quantity="one">Delete %s photo?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Delete %s videos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s videos in &amp;lt;b>cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Delete %s videos?</item>
+        <item quantity="one">Delete %s video?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Delete %s photos in both &amp;lt;b>local and cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s photo in both &amp;lt;b>local and cloud&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Delete %s videos in both &amp;lt;b>local and cloud&amp;lt;/b>?</item>
+        <item quantity="one">Delete %s video in both &amp;lt;b>local and cloud&amp;lt;/b>?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selected</item>
         <item quantity="zero">%1$d selected</item>

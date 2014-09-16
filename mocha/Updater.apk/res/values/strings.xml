@@ -37,6 +37,7 @@
   <string name="dialog_yes">Yes</string>
   <string name="download_current_rom">Get latest version of MIUI</string>
   <string name="download_ota_rom">Update (%s)</string>
+  <string name="download_rom_update_timer">device will download rom %d seconds</string>
   <string name="download_whole_rom">Update (%s)</string>
   <string name="downloading_description">Downloading…</string>
   <string name="emegency_build">Build:</string>
