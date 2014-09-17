@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth device is too far away to unlock.</string>
-  <string name="contact_carrier_message">Contact your mobile carrier if you have any additional questions.</string>
   <string name="default_lockscreen_unlock_hint_text">Slide up to unlock</string>
   <string name="delete">Delete</string>
   <string name="emergency_call_string">Emergency</string>
@@ -13,10 +11,7 @@
   <string name="experimental_validate_thanks">Thank you!</string>
   <string name="experimental_validate_username">Username</string>
   <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
-  <string name="find_device_check_sim">Checking SIM…</string>
   <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
-  <string name="find_device_turn_off_flight_mode_instructions">"Your device has been locked.
-Please turn off airplane mode."</string>
   <string name="forget_password_string">Forgot password</string>
   <string name="incorrect_pincode">Incorrect PIN code</string>
   <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
@@ -24,55 +19,30 @@ Please turn off airplane mode."</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
   <string name="input_password_hint_text">Input password</string>
   <string name="input_pin_code">Enter PIN</string>
-  <string name="input_pin_code_to_unlock">Enter PIN code to unlock device</string>
   <string name="input_puk_code">Input PUK</string>
-  <string name="input_puk_code_to_unlock">Input PUK code to unlock device</string>
   <string name="lock_screen_date">MM/dd E</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_charging_msg">Charging</string>
-  <string name="lockscreen_emergency_call">Emergency call</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly entered your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account signin.
 
  Try again in %d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-  <string name="lockscreen_forgot_pattern_button_text">Forgot</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
-  <string name="lockscreen_glogin_forgot_pattern">Account unlock</string>
-  <string name="lockscreen_glogin_instructions">To unlock, sign in to your Mi Account</string>
   <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
-  <string name="lockscreen_glogin_too_many_attempts">Too many pattern attempts</string>
-  <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
-  <string name="lockscreen_pattern_wrong">Try again:</string>
-  <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-  <string name="lockscreen_transport_next_description">Next</string>
-  <string name="lockscreen_transport_play_description">Play button</string>
-  <string name="lockscreen_transport_prev_description">Previous</string>
   <string name="login_website_in_case_forget_password">To reset your password, go to i.mi.com</string>
   <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
-  <string name="miui_unlockscreen_password_wrong">Try again:</string>
   <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_string">Phone has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
   <string name="phone_locked_timeout_seconds_string">Try again in %s seconds</string>
-  <string name="pin_operation_failed">PIN operation failed.</string>
-  <string name="pincode_set_to_default_msg">PIN code is set to 1234, you can change it here:</string>
-  <string name="puk_operation_failed">PUK operation failed.</string>
-  <string name="return_to_me_message">"If found please return to "</string>
-  <string name="screen_on_proximity_sensor_hint">To disable this feature, press the Back and Volume up buttons simultaneously.</string>
-  <string name="screen_on_proximity_sensor_summary">"Don't cover the top of the screen"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-  <string name="short_pincode_error_msg">Please enter 4–8 digits</string>
-  <string name="short_pukcode_error_msg">You need to enter at least 8 digits.</string>
-  <string name="starting_camera_string">Starting camera</string>
   <string name="unlock_sim_string">Unlock SIM</string>
-  <string name="unlock_string">OK</string>
   <string name="unlocking_sim_card">Unlocking SIM card</string>
   <string name="unlockscreen_low_battery">Connect your charger.</string>
   <string name="unlockscreen_recharge_completed">Battery full</string>

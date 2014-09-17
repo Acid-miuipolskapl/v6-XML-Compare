@@ -290,6 +290,7 @@ Total: RMB %3$s"</string>
   <string name="sim1">Sim 1</string>
   <string name="sim2">Sim 2</string>
   <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>

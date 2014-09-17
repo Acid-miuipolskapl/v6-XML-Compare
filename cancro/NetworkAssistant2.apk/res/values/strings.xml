@@ -245,6 +245,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Received data usage report SMS</string>
   <string name="tc_sms_report_geting_sms">Getting data usage report SMS</string>
+  <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
+  <string name="tc_sms_report_notify_correction_failure_title">"Can't update data usage info"</string>
   <string name="tc_sms_report_notify_get_failure_body">"Your carrier doesn't offer this service."</string>
   <string name="tc_sms_report_notify_get_failure_title">"Can't get data usage report"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Process timed out. Confirm with your carrier that the SMS enquiry code you entered is correct.</string>

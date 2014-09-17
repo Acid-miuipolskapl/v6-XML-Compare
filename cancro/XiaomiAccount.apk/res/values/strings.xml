@@ -83,6 +83,7 @@
   <string name="internet_comm">Messaging services</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
+  <string name="loading_mili_center">Loading Mi Credit</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
   <string name="login_instead_reg">Use this number</string>

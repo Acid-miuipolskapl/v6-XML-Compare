@@ -130,6 +130,7 @@ Over %2$s users have already checked in to MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Update status: %1$s
 Over %2$s users have already checked in to MIUI %3$s"</string>
   <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
