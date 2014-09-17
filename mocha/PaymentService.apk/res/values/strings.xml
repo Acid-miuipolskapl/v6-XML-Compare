@@ -287,7 +287,7 @@ Customer service center：400-100-5678"</string>
   <string name="scan_prompt_password">Scan %1$s prepaid card password</string>
   <string name="scan_prompt_retry">Keep the code steady</string>
   <string name="scan_prompt_voucher">Scan Mi Credit password</string>
-  <string name="security_setting">Security settings</string>
+  <string name="security_setting">Settings</string>
   <string name="sms_code_error">Mobile phone verification code error, please get again</string>
   <string name="sms_code_hint">Mobile phone verification code</string>
   <string name="summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>

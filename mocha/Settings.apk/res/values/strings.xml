@@ -1139,7 +1139,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="later">Reboot later</string>
   <string name="launch_count_label">Count</string>
-  <string name="launcher_settings_title">Launcher</string>
   <string name="launching_cit">Launching cit, please wait.</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
@@ -1647,7 +1646,6 @@ Select your operating system:"</string>
   <string name="preferred_application_warning_replace">Replace</string>
   <string name="preferred_application_warning_title">Replace default %s</string>
   <string name="preferred_application_warning_use_system">Use %s</string>
-  <string name="preferred_launcher_title">Preferred launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
   <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
   <string name="preferred_sms_title">Default messaging app</string>
@@ -1948,7 +1946,6 @@ This setting affects all users on this tablet."</string>
   <string name="search_key">key</string>
   <string name="search_label">Settings</string>
   <string name="search_language">language</string>
-  <string name="search_launcher">launcher</string>
   <string name="search_led">led</string>
   <string name="search_network">network</string>
   <string name="search_power_mode">power mode</string>
