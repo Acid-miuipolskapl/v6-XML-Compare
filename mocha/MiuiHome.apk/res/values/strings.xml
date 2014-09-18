@@ -26,9 +26,6 @@
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_name">Default</string>
-  <string name="disable">Disable</string>
-  <string name="disable_auto_start_format">Disable %s auto start</string>
-  <string name="disable_auto_start_message">Disable auto start on boot.</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

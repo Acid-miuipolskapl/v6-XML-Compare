@@ -22,7 +22,6 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Starred</string>
   <string name="category_log">Logs</string>
-  <string name="category_mirouter">Router</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
   <string name="category_picture">Images</string>
@@ -39,7 +38,6 @@
   <string name="clean_trash_box">Empty trash</string>
   <string name="cleaning">Cleaning…</string>
   <string name="close">Close</string>
-  <string name="colon">": "</string>
   <string name="compress_fail">Compression failed: a file with the same name already exists.</string>
   <string name="compress_message">Compress to…</string>
   <string name="compress_title">Compress</string>
@@ -102,7 +100,7 @@
   <string name="file_too_large">File is too big to upload</string>
   <string name="finished">Complete</string>
   <string name="folder_exist">The folder already exists.</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to Recycle bin</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
   <string name="ftp_account_req_notice">4-16 chars, letters and digits, case sensitive</string>
   <string name="ftp_anonymous_login">Anonymous login</string>
   <string name="ftp_invalid_username_or_password">Invalid username or password.</string>
@@ -115,8 +113,6 @@
   <string name="gbk_summary">Simplified Chinese Windows default encoding</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
-  <string name="image_download">Download</string>
-  <string name="image_share">Share</string>
   <string name="instruction">Enter the following address into an FTP client:</string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="kilobyteShort">KB</string>
@@ -129,7 +125,6 @@
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
   <string name="load_err">"Can't load"</string>
   <string name="loading">Loading…</string>
-  <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use Kuaipan from anywhere.</string>
   <string name="megabyteShort">MB</string>
@@ -238,7 +233,6 @@
   <string name="petabyteShort">PB</string>
   <string name="phone">Phone</string>
   <string name="pull_to_signin">Swipe down to check in.</string>
-  <string name="query_bind_state">Connecting with KuaiPan…</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="rename_description">Renaming…</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
@@ -277,15 +271,11 @@ Free space added %1$s"</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
-  <string name="tab_networkdisk">KuaiPan</string>
   <string name="tab_path">Path</string>
-  <string name="tab_phone">List view</string>
-  <string name="tab_sys_size">Total Storage</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Network transfer</string>
-  <string name="trans_task_delete_confirm_message">Delete the selected %1$d tasks?</string>
   <string name="transing">Sending</string>
   <string name="trash_box_capacity">Recycle bin %1$s</string>
   <string name="trash_box_link">To empty your trash, visit &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
