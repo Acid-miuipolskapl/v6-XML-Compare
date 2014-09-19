@@ -198,7 +198,7 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s via %3$s</string>
   <string name="all_folders_heading">All folders</string>
-  <string name="allread">All Readed</string>
+  <string name="allread">All Read</string>
   <string name="always_bcc_myself">Always Bcc myself</string>
   <string name="always_show_images">Always show pictures from this sender</string>
   <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
@@ -585,6 +585,7 @@ CC: %4$s
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app can open this attachment for viewing.</string>
+  <string name="no_contacts">Empty</string>
   <string name="no_conversations">No messages</string>
   <string name="no_mails">Empty</string>
   <string name="no_matched_attachment">Nothing matched your search</string>

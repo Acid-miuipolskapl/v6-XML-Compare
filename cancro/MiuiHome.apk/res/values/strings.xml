@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your phone"</string>
+  <string name="app_being_backup_message">App is being backed up.</string>
   <string name="application_name">System launcher</string>
   <string name="apply_as_lock_wallpaper">Apply</string>
   <string name="apply_as_lock_wallpaper_message">Apply this wallpaper to your lock screen too?</string>
