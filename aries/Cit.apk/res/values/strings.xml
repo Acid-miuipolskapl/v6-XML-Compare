@@ -62,6 +62,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_button_light_on">Buttons light on</string>
   <string name="cit_calibration_fail">Calibration failed</string>
   <string name="cit_calibration_pass">Calibration passed</string>
+  <string name="cit_camera_calibration_summary">"Test instructions:
+
+1.Tap the calibration button below to enter Camera interface
+2.Press Back button to exit the camera interface
+3.There will be a calibration pass label to indicate the ois has been calibrated"</string>
   <string name="cit_camera_sdcard_error">"Can't take photo. SD card is full."</string>
   <string name="cit_charger_plugin_check_summary">When USB charger is connected the text \"Charging via USB/AC\" should be displayed below.</string>
   <string name="cit_charger_plugin_check_title">Charger (connect)</string>
@@ -216,6 +221,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_bluetooth_on">Enable Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
   <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+  <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_log">Get logs</string>
   <string name="cit_tool_log_bugreport">Bug report</string>

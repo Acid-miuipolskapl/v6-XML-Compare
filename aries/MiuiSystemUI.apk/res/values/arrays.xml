@@ -83,4 +83,12 @@
         <item>com.autonavi.cmccmap</item>
         <item>brut.googlemaps</item>
     </string-array>
+    <string-array name="carrier_name">
+        <item>SmarToneVodafone</item>
+        <item>SmarToneVodafone 3G</item>
+    </string-array>
+    <string-array name="carrier_simple_name">
+        <item>SMC HK</item>
+        <item>SMC HK 3G</item>
+    </string-array>
 </resources>

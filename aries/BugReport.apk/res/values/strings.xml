@@ -32,6 +32,7 @@
   <string name="err_type_systemapp">MIUI apps</string>
   <string name="err_type_wifi">WLAN</string>
   <string name="hot_problem">View common bugs</string>
+  <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Creating list…</string>
   <string name="loading_hot_problem">Loading…</string>
   <string name="menu_attach_screenshot">Attach screenshot</string>

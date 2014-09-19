@@ -94,6 +94,9 @@
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add + button</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
+  <string name="call_record_off_summary">Auto record is disabled</string>
+  <string name="call_record_on_summary">Auto record is enabled</string>
+  <string name="call_record_setting">Call record settings</string>
   <string name="call_record_whitelist_custom">Custom list</string>
   <string name="call_recording_notification_message">Touch to view %s.</string>
   <string name="call_recording_notification_message_low_storage">Recording has stopped: Not enough space.</string>
@@ -169,6 +172,7 @@
   <string name="clir_choices_show_number">Show number</string>
   <string name="close_dialog">OK</string>
   <string name="close_profile">Close</string>
+  <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirm_password_label">Confirm new password</string>
@@ -223,6 +227,7 @@
   <string name="dial_related_setting_catory">Dial</string>
   <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="dialer_default_package">com.android.contacts</string>
+  <string name="dialog_network_priority_title">Priority</string>
   <string name="disable">Disable</string>
   <string name="disable_all_cf">Disable all call-forwarding features</string>
   <string name="disable_cfb_forbidden">"Your operator doesn't support disabling call forwarding when your phone is busy."</string>
@@ -246,7 +251,7 @@
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Edit</string>
   <string name="edit_fdn_contact">Edit fixed dialing number</string>
-  <string name="emergencyDialerIconLabel">Emergency Dialer</string>
+  <string name="emergencyDialerIconLabel">Emergency dialer</string>
   <string name="emergency_broadcast_disable">Emergency Broadcast disabled</string>
   <string name="emergency_broadcast_enable">Emergency Broadcast enabled</string>
   <string name="emergency_call_area_code_edit_dialog_button">Call</string>
@@ -322,9 +327,12 @@ Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
 Switch to the new provider anyway?"</string>
   <string name="general_news_settings">General News</string>
+  <string name="general_setting">Settings</string>
   <string name="get_pin2">Type PIN2</string>
   <string name="get_smsc_address_error">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
+  <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
   <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
   <string name="hac_mode_title">Hearing aids</string>
@@ -434,6 +442,27 @@ Switch to the new provider anyway?"</string>
   <string name="mmiStarted">MMI code started</string>
   <string name="mo_call_type_title">MO Call Type</string>
   <string name="mobile_networks">Mobile network settings</string>
+  <string name="msim_apn_not_set">Not set</string>
+  <string name="msim_default_setting">Default settings</string>
+  <string name="msim_enable_sim">Enable</string>
+  <string name="msim_general_setting">Settings</string>
+  <string name="msim_info_editor_name">Edit SIM card name</string>
+  <string name="msim_info_editor_number">Edit SIM card number</string>
+  <string name="msim_info_editor_set_name_error">"Can't save name. Something went wrong…"</string>
+  <string name="msim_mode_progress_activating_message">Enabling</string>
+  <string name="msim_mode_progress_deactivating_message">Disabling</string>
+  <string name="msim_not_set_summary">Not set</string>
+  <string name="msim_pref_title_data">Internet</string>
+  <string name="msim_pref_title_voice">Dial</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">"Can't set during call"</string>
+  <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
+  <string name="msim_setting_categery_title">SIM card info</string>
+  <string name="msim_setting_no_sim_indicator">No SIM card</string>
+  <string name="msim_setting_operator_network_title">Carrier network</string>
+  <string name="msim_setting_screen_title">SIM cards and mobile networks</string>
+  <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
+  <string name="msim_sim_lock">Locked</string>
+  <string name="msim_sim_radio_off">Disabled</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
   <string name="name">Name</string>
@@ -441,6 +470,7 @@ Switch to the new provider anyway?"</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="network_forbidden">%s (forbidden)</string>
+  <string name="network_id">Network ID</string>
   <string name="network_message">Network message</string>
   <string name="network_settings_auto_select_title">"Don't select networks automatically"</string>
   <string name="network_settings_automatically_option">Automatically select preferred carrier (%s)</string>
@@ -561,7 +591,16 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
+  <string name="preference_auto_ip_summary_disable">Disabled</string>
   <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
+  <string name="preference_dial_pad_touch_tone_default">Default</string>
+  <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
+  <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
+  <string name="preference_telocation_summary_countrycode_off">"Don't auto-dial country code"</string>
+  <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
+  <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
+  <string name="preference_telocation_summary_teloc_on">Show contact location</string>
+  <string name="preference_telocation_title">Location</string>
   <string name="preferred_network_mode_dialogtitle">Preferred network type</string>
   <string name="preferred_network_mode_summary">Change the network operating mode</string>
   <string name="preferred_network_mode_title">Preferred network type</string>
@@ -667,6 +706,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="saving_account">Saving the account…</string>
   <string name="selectContact">select contact</string>
   <string name="select_automatically">Choose automatically</string>
+  <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="sendSms">Send SMS</string>
   <string name="send_button">Send</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -752,6 +792,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
+  <string name="telephony_setting">Call settings</string>
   <string name="telocation_auto_country_code">Add country code</string>
   <string name="telocation_auto_country_code_summary">Automatically add country code before dialing contacts</string>
   <string name="telocation_call_assistant">Dialing assistant</string>
@@ -799,6 +840,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="unlock_success">SIM Network unlock successful.</string>
   <string name="updating_fdn_contact">Updating fixed dialing number…</string>
   <string name="updating_settings">Updating settings…</string>
+  <string name="uplmn_list_setting_add_plmn">New PLMN</string>
+  <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="username">UserName</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>

@@ -60,6 +60,13 @@
   <string name="call_delete_hint">Delete all blocked calls from selected number?</string>
   <string name="cancle">Cancel</string>
   <string name="close_callwait">Off</string>
+  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
+  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
+  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
+  <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
+  <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
+  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
   <string name="customizer_mode_user_define_name">My rules</string>
   <string name="dlg_add_blacklist">Block this number?</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$sand %2$sother contacts are already on your exceptions list.</string>
@@ -100,8 +107,7 @@
   <string name="dlg_white_antispam_message">Add this number to exceptions?</string>
   <string name="fw_blocked">Blocklist</string>
   <string name="fw_blocked_count">"Blocked "</string>
-  <string name="fw_blocked_count_call">%d calls</string>
-  <string name="fw_blocked_count_sms">" and %d messages"</string>
+  <string name="fw_blocked_join">" and "</string>
   <string name="hint_antispam_mode_edit">Custom mode</string>
   <string name="info_antispam_phone">Block calls</string>
   <string name="info_antispam_phone_sms">Block messages and calls</string>
@@ -142,6 +148,7 @@
   <string name="note_sms_none">Empty</string>
   <string name="one_address_choose_hint">%s1 location</string>
   <string name="open_callwait">On</string>
+  <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked messages sent from selected number?</string>
   <string name="st_advanced_setting_group">Advanced</string>
   <string name="st_antispam_black_adress_add">Choose a location</string>
@@ -243,9 +250,11 @@
   <string name="st_title_man_head_addblacklist">Add phone number prefix to blocklist</string>
   <string name="st_title_man_head_addwhitelist">Add phone number prefix to exceptions</string>
   <string name="st_title_mode_choose_group">Blocklist rules</string>
+  <string name="st_title_not_sim">Empty</string>
   <string name="st_title_open_antispam">Blocklist</string>
   <string name="st_title_settings_other_group">Additional settings</string>
   <string name="st_title_show_antispamnotification">Notification for blocked calls</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Exceptions</string>
   <string name="sure">Confirm</string>
   <string name="tab_blacklist">Blocklist</string>

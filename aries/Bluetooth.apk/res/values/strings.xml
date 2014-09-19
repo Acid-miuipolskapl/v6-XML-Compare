@@ -64,6 +64,9 @@
   <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
   <string name="insert_record">Insert record</string>
   <string name="localPhoneName">My name</string>
+  <string name="miui_transfer_history_title">Bluetooth transfers</string>
+  <string name="miui_transfer_inbound_title">Inbound</string>
+  <string name="miui_transfer_outbound_title">Outbound</string>
   <string name="no_transfers">Transfer history is empty.</string>
   <string name="not_exist_file">No file</string>
   <string name="not_exist_file_desc">"The file doesn't exist. 

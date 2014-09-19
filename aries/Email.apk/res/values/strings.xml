@@ -112,7 +112,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Inbox</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_label">Delete email from server</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_headline">Incoming server settings</string>
@@ -198,7 +198,7 @@
   <string name="address_display_format">%1$s | %2$s</string>
   <string name="address_display_format_with_via_domain">%1$s%2$s via %3$s</string>
   <string name="all_folders_heading">All folders</string>
-  <string name="allread">All Readed</string>
+  <string name="allread">All Read</string>
   <string name="always_bcc_myself">Always Bcc myself</string>
   <string name="always_show_images">Always show pictures from this sender</string>
   <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
@@ -318,7 +318,7 @@
   <string name="custom_from_account_label">Send mail as:</string>
   <string name="date">2888/88/88</string>
   <string name="date_heading">"Date: "</string>
-  <string name="date_message_received">%1$s, %2$s</string>
+  <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Today, %1$s</string>
   <string name="date_message_received_yesterday">Yesterday, %1$s</string>
   <string name="debug_clear_webview_cache">Clear WebView cache</string>
@@ -369,6 +369,8 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
+  <string name="eas_hotmail_email">hotmail.com</string>
+  <string name="eas_outlook_email">outlook.com</string>
   <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Quick response</string>
   <string name="elided_padding_token"> </string>
@@ -392,6 +394,7 @@
   <string name="failed">"Couldn't load image"</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Feedback information</string>
+  <string name="feedback_sent">"Thanks for your feedback. We'll keep on improving for you"</string>
   <string name="fetching_attachment">Fetching attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Can't find file"</string>
@@ -556,9 +559,9 @@ CC: %4$s
   <string name="message_decode_error">"Can't decode the message"</string>
   <string name="message_details_title">Message details</string>
   <string name="message_discarded">Message discarded.</string>
-  <string name="message_invite_accept">Yes</string>
+  <string name="message_invite_accept">attend</string>
   <string name="message_invite_calendar_view">View in Calendar</string>
-  <string name="message_invite_decline">No</string>
+  <string name="message_invite_decline">nonparticipator</string>
   <string name="message_invite_label_attending">Going?</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
@@ -582,6 +585,7 @@ CC: %4$s
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app can open this attachment for viewing.</string>
+  <string name="no_contacts">Empty</string>
   <string name="no_conversations">No messages</string>
   <string name="no_mails">Empty</string>
   <string name="no_matched_attachment">Nothing matched your search</string>
@@ -629,8 +633,8 @@ CC: %4$s
   <string name="phone">phone</string>
   <string name="photo_load_failed">"Couldn't load image"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
-  <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
-  <string name="please_fill_in_your_mailbox_information2">Please fill in your mailbox-related information:</string>
+  <string name="please_fill_in_your_mailbox_information">Fill in your %s mailbox-related information:</string>
+  <string name="please_fill_in_your_mailbox_information2">Fill in your mailbox-related information:</string>
   <string name="please_wait">Please wait…</string>
   <string name="policy_app_blacklist">Disallow specified apps</string>
   <string name="policy_app_whitelist">Allow only specified apps</string>
@@ -817,6 +821,7 @@ CC: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="tryrefreshing">Try to Refreshing…</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>

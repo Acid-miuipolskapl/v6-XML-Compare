@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Only_the_wifi">Only effective under the wifi</string>
+  <string name="Only_the_wifi">Only use WLAN</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
   <string name="all_downloads">All downloads</string>
   <string name="all_fileter">All</string>
   <string name="all_the_internet">All network</string>
@@ -33,6 +36,7 @@
   <string name="dialog_title_not_available">Download Failed</string>
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="disable">Disable</string>
+  <string name="display_expire_netiv1">Month Owner</string>
   <string name="doc_filter">DOCUMENT</string>
   <string name="download_complete">Complete</string>
   <string name="download_error">Failed</string>
@@ -71,9 +75,9 @@
   <string name="experience_xunlei_account_speed">Xunlei members to accelerate service experience</string>
   <string name="free_high_speed_channel">Free Highspeed channel</string>
   <string name="free_speedup_exp">Free Xunlei Highspeed service</string>
-  <string name="get_account_dialog_msg">Getting Account Info</string>
-  <string name="get_order_dialog_msg">Getting Order Info</string>
-  <string name="get_order_fail_msg">Get Order Fail</string>
+  <string name="get_account_dialog_msg">Getting account info</string>
+  <string name="get_order_dialog_msg">Getting order info</string>
+  <string name="get_order_fail_msg">"Can't get order info…"</string>
   <string name="high_speed_channel">Highspeed channel</string>
   <string name="immediately_a_renewal">Immediately a renewal</string>
   <string name="keep_queued_download">Keep</string>
@@ -83,6 +87,9 @@
   <string name="menu_all_task_start">Start all</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Downloads settings</string>
+  <string name="menu_title_pause_all">Pause all</string>
+  <string name="menu_title_resume_all">Start all</string>
+  <string name="menu_title_settings">settings</string>
   <string name="mi_money">Mi money</string>
   <string name="mi_money_">mi_money)</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
@@ -96,7 +103,7 @@
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_insufficient_space">Waiting for sufficient space</string>
-  <string name="paused_queued_for_wifi">Waiting for WLAN</string>
+  <string name="paused_queued_for_wifi">Waiting for network</string>
   <string name="paused_unknown">Paused</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="paused_waiting_to_retry">Waiting to retry</string>

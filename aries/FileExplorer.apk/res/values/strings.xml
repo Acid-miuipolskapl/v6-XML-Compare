@@ -3,7 +3,7 @@
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
-  <string name="already_signin_description">"You've already signed in."</string>
+  <string name="already_signin_description">"You've already checked in today."</string>
   <string name="app_name">Explorer</string>
   <string name="background">Hide</string>
   <string name="big5_summary">Traditional Chinese Windows default encoding</string>
@@ -22,7 +22,6 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Starred</string>
   <string name="category_log">Logs</string>
-  <string name="category_mirouter">Router</string>
   <string name="category_music">Music</string>
   <string name="category_other">Other</string>
   <string name="category_picture">Images</string>
@@ -39,13 +38,14 @@
   <string name="clean_trash_box">Empty trash</string>
   <string name="cleaning">Cleaning…</string>
   <string name="close">Close</string>
-  <string name="colon">": "</string>
   <string name="compress_fail">Compression failed: a file with the same name already exists.</string>
   <string name="compress_message">Compress to…</string>
   <string name="compress_title">Compress</string>
   <string name="confirm">Confirm</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Remind when accessing network</string>
   <string name="copy_failed">"Can't copy"</string>
+  <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Place on Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
   <string name="create_new_folder_failed">Failed to create folder.</string>
@@ -72,10 +72,11 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty</string>
   <string name="dlg_error_unmount_text">Failed to unmount USB storage.</string>
-  <string name="download_current_progress">%1$d/100</string>
+  <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Download failed</string>
   <string name="download_link_completed">%1$s shared via KuaiPan. Touch the link below to view:</string>
   <string name="downloading">Downloading</string>
+  <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
@@ -87,6 +88,7 @@
   <string name="favorite_ringtone">Ringtones</string>
   <string name="favorite_screen_cap">Screenshots</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
   <string name="file_info_canread">Readable:</string>
   <string name="file_info_canwrite">Writable:</string>
   <string name="file_info_ishidden">Hidden:</string>
@@ -98,7 +100,7 @@
   <string name="file_too_large">File is too big to upload</string>
   <string name="finished">Complete</string>
   <string name="folder_exist">The folder already exists.</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to Recycle bin</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
   <string name="ftp_account_req_notice">4-16 chars, letters and digits, case sensitive</string>
   <string name="ftp_anonymous_login">Anonymous login</string>
   <string name="ftp_invalid_username_or_password">Invalid username or password.</string>
@@ -123,7 +125,6 @@
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
   <string name="load_err">"Can't load"</string>
   <string name="loading">Loading…</string>
-  <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use Kuaipan from anywhere.</string>
   <string name="megabyteShort">MB</string>
@@ -172,6 +173,8 @@
   <string name="name_illegal">You must enter a name.</string>
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
+  <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
+  <string name="never_notify_network_connect">"Don't show me this again"</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="no">No</string>
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
@@ -188,7 +191,9 @@
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied.</string>
   <string name="open_file_failed">open failed</string>
+  <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
+  <string name="operation_agree">Agree</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing…</string>
@@ -219,6 +224,7 @@
   <string name="operation_rename_message">Rename folder</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Resume all</string>
+  <string name="operation_save">Save</string>
   <string name="operation_send">Send</string>
   <string name="operation_show_sys">Show hidden files</string>
   <string name="operation_unfavorite">Unstar</string>
@@ -226,9 +232,8 @@
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Phone</string>
-  <string name="pull_to_signin">Swipe down to sign in.</string>
-  <string name="query_bind_state">Connecting with KuaiPan…</string>
-  <string name="release_to_signin">Release to sign in</string>
+  <string name="pull_to_signin">Swipe down to check in.</string>
+  <string name="release_to_signin">Release to check in</string>
   <string name="rename_description">Renaming…</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
   <string name="sd_card_available">Available: %1$s</string>
@@ -248,7 +253,7 @@
   <string name="show_message">You need to download this file before you can open it.</string>
   <string name="sign_description">Signing in…</string>
   <string name="signin_error">"Can't connect to the server. Check your network connection."</string>
-  <string name="signin_success">"Welcome!
+  <string name="signin_success">"You checked in!
 Free space added %1$s"</string>
   <string name="space_info">KuaiPan: %1$s available, %2$s in total</string>
   <string name="space_usage">Space used</string>
@@ -262,17 +267,15 @@ Free space added %1$s"</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
   <string name="sys_size_enable">Enable</string>
+  <string name="system_alert">Remind</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
-  <string name="tab_networkdisk">KuaiPan</string>
-  <string name="tab_phone">List view</string>
-  <string name="tab_sys_size">Total Storage</string>
+  <string name="tab_path">Path</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">Tools</string>
   <string name="trans_task">Network transfer</string>
-  <string name="trans_task_delete_confirm_message">Delete the selected %1$d tasks?</string>
   <string name="transing">Sending</string>
   <string name="trash_box_capacity">Recycle bin %1$s</string>
   <string name="trash_box_link">To empty your trash, visit &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -280,7 +283,7 @@ Free space added %1$s"</string>
   <string name="trash_box_message2">Empty the recycle bin to free up space.</string>
   <string name="ui_filechange_btn_download">Download file?</string>
   <string name="ui_filechange_btn_upload">Upload files</string>
-  <string name="ui_main_menu_option_sign_in">Sign in</string>
+  <string name="ui_main_menu_option_sign_in">Check in</string>
   <string name="ui_main_menu_option_task_manage">Manage transfers</string>
   <string name="ui_main_progress_txt_open_file">Downloading…</string>
   <string name="ui_main_toast_favorite_removed">Unstarred</string>
@@ -297,6 +300,7 @@ Free space added %1$s"</string>
   <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
   <string name="user_guide_other_version">Download in mi.kuaipan.cn.Login with your account(%1$s)</string>
   <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
+  <string name="user_guide_summary">A brief overview</string>
   <string name="user_guide_upload_to_kuaipan">Store items on Kuaipan from your phone</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>

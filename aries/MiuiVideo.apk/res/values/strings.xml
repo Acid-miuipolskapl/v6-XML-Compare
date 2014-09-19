@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">Player</string>
-  <string name="about_developer_label">Developer</string>
-  <string name="about_developer_name">Xiaomi Inc.</string>
+  <string name="about_app_name">Video Player</string>
   <string name="about_title">About</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Version code</string>
   <string name="actor_colon">Actor:</string>
+  <string name="ad_moredetail">more detail</string>
   <string name="add_favorite_success">Starred</string>
   <string name="add_more_addons">Add more addons</string>
   <string name="addon">" plugins"</string>
@@ -19,10 +18,9 @@
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>
   <string name="airkan_control_device_des">To control playback, touch the bar at the bottom</string>
-  <string name="airkan_device_xiaomi_phone">Mi Phone</string>
-  <string name="airkan_tips">Tap to cast the video to TV</string>
-  <string name="airkan_video_playing">playing</string>
-  <string name="airkan_video_playing_in">"Video is "</string>
+  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_tips">Tap to cast video to TV.</string>
+  <string name="airkan_video_playing_in">Video is</string>
   <string name="all">All</string>
   <string name="all_comment">All comments</string>
   <string name="all_ep">All ep</string>
@@ -150,14 +148,8 @@
   <string name="manage">Manage</string>
   <string name="manage_offline_media">Manage downloads</string>
   <string name="media_name_comment">%s comment</string>
-  <string name="menu_item_about_label">About</string>
-  <string name="menu_item_disable_3d_mode">Disable 3D</string>
   <string name="menu_item_disable_audio_enhance">Disable audio enhancer</string>
-  <string name="menu_item_enable_3d_mode">Enable 3D</string>
   <string name="menu_item_enable_audio_enhance">Enable audio enhancer</string>
-  <string name="menu_item_orientation_auto_sensor_action">Enable auto-rotate</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Disable auto-rotate</string>
-  <string name="menu_item_sub_title">Subtitles</string>
   <string name="mipush_setting">Xiaomi push</string>
   <string name="month">Month</string>
   <string name="more">More</string>
@@ -172,9 +164,9 @@
   <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
   <string name="no_longer_tips">"Don't show again"</string>
   <string name="not_login">Not signed in</string>
-  <string name="nowifi_alert_dialog_continue">Stream</string>
+  <string name="nowifi_alert_dialog_continue">Got it</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
-  <string name="nowifi_alert_dialog_message">Streaming video with your mobile data connection can result in steep increases in data usage.</string>
+  <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. Exceeding your carrier plan's data limits can result in steep overage charges."</string>
   <string name="nowifi_alert_dialog_title">Data usage warning</string>
   <string name="offline">Offline</string>
   <string name="offline_alert_title">Data usage</string>
@@ -197,6 +189,7 @@
   <string name="positive_comment">Positive</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prefix_countdown">advertisement left:</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Rank</string>
   <string name="receive_mipush">Receive xiaomi push</string>
@@ -236,6 +229,7 @@
   <string name="star4">4 stars</string>
   <string name="star5">5 stars</string>
   <string name="start_addon">start addon</string>
+  <string name="suffix_countdown">seconds</string>
   <string name="temp_play_history_button_label">History</string>
   <string name="tencent">Tencent</string>
   <string name="time_colon">Date:</string>
@@ -245,7 +239,6 @@
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
   <string name="toast_message_continue_play_second_and_play">s</string>
-  <string name="toast_message_set_misound">Configure audio now</string>
   <string name="today">Today</string>
   <string name="top_status_local_media">Local</string>
   <string name="top_status_online_media">Online</string>
@@ -264,12 +257,12 @@
   <string name="userdata_alert_ok">Continue</string>
   <string name="userdata_alert_title">Data usage</string>
   <string name="video">Video</string>
-  <string name="video_info_audio_bitrate_label">Samplerate:</string>
+  <string name="video_info_audio_bitrate_label">Audio bitrate:</string>
   <string name="video_info_audio_coding_label">Audio encoding format:</string>
   <string name="video_info_audio_null">None</string>
   <string name="video_info_frame_rate_label">Framerate:</string>
   <string name="video_info_length_label">Length:</string>
-  <string name="video_info_resolution_label">Resolution:</string>
+  <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Couldn't connect to network"</string>
@@ -282,7 +275,6 @@
   <string name="vp_back">Back</string>
   <string name="vp_content_description">Content description</string>
   <string name="vp_device_list">Devices</string>
-  <string name="vp_error_get_play_url_back_to_continue">"Can't find URL for this video."</string>
   <string name="vp_exit">Exit</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Full screen playback</string>
@@ -293,6 +285,7 @@
   <string name="vp_loading">Loading…</string>
   <string name="vp_media_info">View video info</string>
   <string name="vp_milink">MiLink</string>
+  <string name="vp_newest_ep">Newest now</string>
   <string name="vp_next_ci">Next</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_scale_screen">Switch aspect ratio</string>
@@ -303,7 +296,7 @@
   <string name="vp_select_source">Select source</string>
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_standard_definition">SD</string>
-  <string name="vp_super_definition">Super HD</string>
+  <string name="vp_super_definition">Super</string>
   <string name="vp_using_16_9">Force 16:9</string>
   <string name="vp_using_4_3">Force 4:3</string>
   <string name="waiting_to_download">Waiting</string>

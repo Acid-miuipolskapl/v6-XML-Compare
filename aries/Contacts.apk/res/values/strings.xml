@@ -271,7 +271,7 @@
   <string name="description_view_contact_detail">View contact</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">Deselect all</string>
-  <string name="device_bluetooth_title">Transfer contancts</string>
+  <string name="device_bluetooth_title">Transfer contacts</string>
   <string name="device_brand_title">Choose a brand</string>
   <string name="device_import_account_dialog_title">Choose an account</string>
   <string name="device_import_account_dialog_title_suffix">"
@@ -652,7 +652,7 @@ To add a contact to your list of favorites:
 • Access from any web browser.
 • Back up your contacts securely."</string>
   <string name="no_contact_details">No additional information for this contact.</string>
-  <string name="no_contact_in_other_phone">No contacts dectected</string>
+  <string name="no_contact_in_other_phone">No contacts detected</string>
   <string name="no_contacts_dialog_message">"Contacts may be stored on your SIM card. Try importing them from your SIM card to your phone's internal storage and then try again."</string>
   <string name="no_contacts_dialog_title">"Can't find contacts"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
@@ -1076,8 +1076,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search Steve Wozniak</string>
-  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search Steve Wozniak</string>
+  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search for Steve Wozniak</string>
+  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search for Steve Wozniak</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>

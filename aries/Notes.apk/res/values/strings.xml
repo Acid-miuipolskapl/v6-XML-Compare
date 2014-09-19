@@ -71,6 +71,7 @@
   <string name="search_setting_description">Text in your notes</string>
   <string name="select_account_prompt">Sync notes</string>
   <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Sending…</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
@@ -96,6 +97,7 @@
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end to make it fit.</string>
   <string name="undo">Undo</string>
   <string name="unknown_source">Unknown source</string>
+  <string name="widget_content_loading">Loading…</string>
   <string name="widget_havenot_content">No associated note found. Touch to create an associated note. To resize it, hold &amp; drag an edge.</string>
   <string name="widget_under_visit_mode">"Can't view notes in Guest mode"</string>
 </resources>

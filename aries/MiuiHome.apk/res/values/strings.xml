@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your phone"</string>
+  <string name="app_being_backup_message">App is being backed up.</string>
   <string name="application_name">System launcher</string>
   <string name="apply_as_lock_wallpaper">Apply</string>
   <string name="apply_as_lock_wallpaper_message">Apply this wallpaper to your lock screen too?</string>
@@ -168,7 +169,7 @@
   <string name="status_bar_toggle_brightness">Brightness</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
+  <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
   <string name="status_bar_toggle_divider">More</string>
   <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
   <string name="status_bar_toggle_drive_mode">Car</string>
