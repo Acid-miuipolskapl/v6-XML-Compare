@@ -7,6 +7,21 @@
   <string name="action_clear_sms_inbox">清空收件箱</string>
   <string name="action_close">关闭</string>
   <string name="action_home">HOME键</string>
+  <string name="action_key_back">返回键</string>
+  <string name="action_key_back_long">返回键（长按）</string>
+  <string name="action_key_call">拨打键</string>
+  <string name="action_key_direction">方向键</string>
+  <string name="action_key_end_call">挂断键</string>
+  <string name="action_key_enter">回车键</string>
+  <string name="action_key_home">Home键</string>
+  <string name="action_key_home_long">Home键（长按）</string>
+  <string name="action_key_menu">菜单键</string>
+  <string name="action_key_menu_long">菜单键（长按）</string>
+  <string name="action_key_play_next">下一曲键</string>
+  <string name="action_key_play_pause">播放/暂停</string>
+  <string name="action_key_play_prev">上一曲键</string>
+  <string name="action_key_power">电源键</string>
+  <string name="action_key_power_long">电源键（长按）</string>
   <string name="action_kuaidi">快的打车</string>
   <string name="action_lock_screen">锁屏键</string>
   <string name="action_open_camera">拍照</string>
@@ -39,11 +54,24 @@
   <string name="birthday">Birthday:</string>
   <string name="call_to">打电话给</string>
   <string name="cancel">取消</string>
-  <string name="category_app">程序应用</string>
-  <string name="category_system_settings">系统设置</string>
+  <string name="category_0">程序应用</string>
+  <string name="category_1">系统设置</string>
+  <string name="category_2">按键模拟</string>
   <string name="chooser_dust_cap">米键（防尘塞模式）</string>
   <string name="clean_memory">成功清理当前内存</string>
+  <string name="click_count_union">次</string>
   <string name="click_to_open">点击打开</string>
+  <string name="click_type_0">长按</string>
+  <string name="click_type_1">单击</string>
+  <string name="click_type_10">神之指 十连击</string>
+  <string name="click_type_2">双击</string>
+  <string name="click_type_3">三连击</string>
+  <string name="click_type_4">四连击</string>
+  <string name="click_type_5">五连击</string>
+  <string name="click_type_6">惊人 六连击</string>
+  <string name="click_type_7">恐怖 七连击</string>
+  <string name="click_type_8">BT 八连击</string>
+  <string name="click_type_9">不可能的 九连击</string>
   <string name="close_all">关闭之前操作</string>
   <string name="close_flash_error">Fail to turn off the flash</string>
   <string name="close_recorder">你有一条新录音</string>
@@ -109,7 +137,10 @@
 发语音、拍照片、打游戏…
 使用米键精灵无法使用米键其它功能"</string>
   <string name="input_phone">请输入电话号码 (可选)</string>
-  <string name="long_click">长按</string>
+  <string name="key_direction_down">方向键下</string>
+  <string name="key_direction_left">方向键左</string>
+  <string name="key_direction_right">方向键右</string>
+  <string name="key_direction_up">方向键上</string>
   <string name="message_photo_end">照片已保存</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
@@ -126,7 +157,7 @@
   <string name="phone">Phone:</string>
   <string name="picker_lable">Gallery</string>
   <string name="place_barcode_into_rectangle">Place QR code or bar code inside the viewfinder rectangle</string>
-  <string name="rank_prefix">全球排名: 第</string>
+  <string name="rank_prefix">全球排名</string>
   <string name="rank_suffix">位</string>
   <string name="recognize">Recognize</string>
   <string name="recommend">工程师推荐</string>
@@ -138,10 +169,10 @@
   <string name="select_baiduvoicesearch">百度语音搜索</string>
   <string name="select_camera">请选择摄像头</string>
   <string name="select_device">你插入的设备是?</string>
+  <string name="select_direction">请选择方向</string>
   <string name="setting_buy">购买米键</string>
   <string name="setting_feedback">吐槽米键</string>
-  <string name="setting_instant_photo_desc">"闪拍对焦会影响到闪拍的速度，开启能够得到
-锐利的图像,但拍摄的时间会稍微变长。"</string>
+  <string name="setting_instant_photo_desc">闪拍对焦会影响到闪拍的速度，开启能够得到锐利的图像,但拍摄的时间会稍微变长。</string>
   <string name="setting_instant_photo_text">闪拍对焦</string>
   <string name="setting_keeplive_desc">"实时待命模式下,米键会一直保持快速响应的状态。
 但这会比较的耗电,请根据使用场景酌情开启。"</string>
@@ -158,10 +189,8 @@
 因为手机是无法识别的。
 如果你在一段时间中经常使用耳机，选择耳机模式手机会默认将耳机孔内设备识别为耳机，而不再弹出设备选择窗口。"</string>
   <string name="setting_silent_mode_dust_cap">防尘塞模式 (不拔出米键)</string>
-  <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”
-的成功率下降。
-速度调慢,优点是“连击”的成功率会提高,缺点是“单击”
-的反应速度会变慢。"</string>
+  <string name="setting_speed_desc">"速度调快,优点是“单击”的反应速度更快,缺点是“连击”的成功率下降。
+速度调慢,优点是“连击”的成功率会提高,缺点是“单击”的反应速度会变慢。"</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
   <string name="setting_speed_min_time">0</string>
@@ -177,22 +206,10 @@
 
 开启工具栏,在任何情况下,
 从手机的上端听筒处向下滑动就能使用它!"</string>
-  <string name="setting_vibrate_desc">"能够感受到执行情况的功能，不再重复给予振动反馈
-而无法传递反馈的功能，如“闪拍”“静音”则会通过振动
-反馈执行情况。
+  <string name="setting_vibrate_desc">"能够感受到执行情况的功能，不再重复给予振动反馈而无法传递反馈的功能，如“闪拍”“静音”则会通过振动反馈执行情况。
 用户可以通过此开关，彻底关闭振动反馈。"</string>
   <string name="setting_vibrate_text">智能振动反馈</string>
   <string name="settings">设置</string>
-  <string name="short_click_1">单击</string>
-  <string name="short_click_10">神之指 十连击</string>
-  <string name="short_click_2">双击</string>
-  <string name="short_click_3">三连击</string>
-  <string name="short_click_4">四连击</string>
-  <string name="short_click_5">五连击</string>
-  <string name="short_click_6">惊人 六连击</string>
-  <string name="short_click_7">恐怖 七连击</string>
-  <string name="short_click_8">BT 八连击</string>
-  <string name="short_click_9">不可能的 九连击</string>
   <string name="showSlip">下拉查看</string>
   <string name="silent_mode_tip_main">米键已禁用</string>
   <string name="silent_mode_tip_sub">请在设置中开启</string>
@@ -202,11 +219,12 @@
   <string name="splash_mikey_sprite">"可以拖动小白点儿到屏幕的任何地方
 点击米键就是点击小白点儿下的屏幕"</string>
   <string name="splash_tip">请快速插入米键</string>
+  <string name="super_difficult_click">高难度点击</string>
   <string name="tab_mikey">米键</string>
   <string name="tab_mikey_sprite">米键精灵</string>
   <string name="task_title_prefix">第%1$s步：%2$s</string>
   <string name="test_user_entry">顾问团招募</string>
-  <string name="times">次</string>
+  <string name="times">次点击</string>
   <string name="title">Title:</string>
   <string name="toast_close">关闭</string>
   <string name="toast_open">开启</string>
@@ -222,6 +240,8 @@
   <string name="toggle_wifi">WiFi</string>
   <string name="toolbox_outer_desc">"点击加号或已有功能
 组合属于自己的工具箱"</string>
+  <string name="unsupport_content">请升级到官方发布的最新“开发版MIUI”获取此项功能的支持！！！</string>
+  <string name="unsupport_title">不支持此功能</string>
   <string name="update_message">有更新！</string>
   <string name="vcard_prompt">Can not add to contact because the name is missing</string>
   <string name="web">Web:</string>
