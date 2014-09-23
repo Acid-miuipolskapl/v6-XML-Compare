@@ -505,7 +505,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">Save to SD card</string>
   <string name="pref_scan_qrcode_default">true</string>
-  <string name="pref_scan_qrcode_title">Scan QR code</string>
+  <string name="pref_scan_qrcode_title">Scan QR codes</string>
   <string name="pref_setting_title">Settings</string>
   <string name="pref_settings_mode">Camera mode</string>
   <string name="pref_video_captrue_ability_title">Capture ability</string>

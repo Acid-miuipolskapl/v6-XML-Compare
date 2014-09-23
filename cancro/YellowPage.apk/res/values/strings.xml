@@ -99,13 +99,14 @@
   <string name="express_inquiry_delete_warning_multiple">Delete %d entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
+  <string name="express_inquiry_edit_logistics">Courier</string>
   <string name="express_inquiry_history">History</string>
   <string name="express_inquiry_history_remark">Remark</string>
   <string name="express_inquiry_history_remark_hint">Remark</string>
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
-  <string name="express_inquiry_logistics_empty">Please select logistics.</string>
-  <string name="express_inquiry_logistics_indication">Delivery company</string>
+  <string name="express_inquiry_logistics">Select a courier service</string>
+  <string name="express_inquiry_logistics_select_others_indication">Other</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results</string>
   <string name="express_inquiry_number_empty">Please enter your tracking number.</string>
@@ -155,6 +156,7 @@ Please check your tracking number."</string>
   <string name="express_sender_region">Sender region</string>
   <string name="express_submit_order">Submit</string>
   <string name="express_tracking_number">Tracking number</string>
+  <string name="express_urge_order">Urge</string>
   <string name="express_view_order">View orders</string>
   <string name="express_view_status">Track</string>
   <string name="expresss_inquiry_all_logistics">All</string>

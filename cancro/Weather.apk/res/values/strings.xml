@@ -48,8 +48,8 @@
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-  <string name="view_aqi_pubtime">Updated at %1$s</string>
-  <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
+  <string name="view_aqi_pubtime">Updated: %1$s</string>
+  <string name="view_aqi_pubtime_format">HH:mm, MMM dd</string>
   <string name="view_aqi_source">China National Environmental Monitoring Center</string>
   <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
   <string name="view_aqi_title">Air quality</string>
