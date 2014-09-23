@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_info">My account</string>
+  <string name="account_info">Mi Account</string>
   <string name="account_unactivated">Account not activated</string>
   <string name="all_resources">All</string>
   <string name="all_ringtone_resource">All</string>
@@ -15,7 +15,7 @@
   <string name="backup_theme_dialog_ok">Back up</string>
   <string name="backup_theme_name">Theme backup</string>
   <string name="backup_theme_progress_message">Backing up…</string>
-  <string name="backup_theme_success_message">Finished backing up theme.</string>
+  <string name="backup_theme_success_message">Your current theme settings have been backed up.</string>
   <string name="basic_info">Account info</string>
   <string name="change_wallpaper">Wallpaper</string>
   <string name="close">Close</string>
@@ -219,7 +219,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="theme_batch_updating_text">Updating (%1$d)…</string>
   <string name="theme_changed_failed_message">"Can't apply theme"</string>
   <string name="theme_changed_message">Theme applied</string>
-  <string name="theme_changing_dialog_title">Applying…</string>
+  <string name="theme_changing_dialog_title">"Applying "</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">Themes</string>
@@ -263,8 +263,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="theme_user_agreement_title">Terms of Use</string>
   <string name="theme_yes">Yes</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
-  <string name="title_component">Edit theme</string>
-  <string name="title_system_resource">Local resources</string>
+  <string name="title_component">Customize theme</string>
+  <string name="title_system_resource">Local</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>

@@ -201,7 +201,7 @@ Enable floating windows?"</string>
   <string name="auto_restore_summary">When reinstalling an app, restore backed up settings and data</string>
   <string name="auto_restore_title">Automatic restore</string>
   <string name="auto_startup_application_manage">Autostart</string>
-  <string name="auto_startup_count">%d apps are currently allowed to autostart</string>
+  <string name="auto_startup_count">%d apps are allowed to autostart</string>
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s available</string>
   <string name="awake">Device awake time</string>
@@ -474,8 +474,8 @@ Enable floating windows?"</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
   <string name="breathing_light_freq_title">LED flash frequency</string>
   <string name="brightness">Brightness</string>
-  <string name="brightness_auto_adjust_off">Screen brightness will remain constant in all surroundings</string>
-  <string name="brightness_auto_adjust_on">Screen brightness will vary in relation to the light in your surroundings</string>
+  <string name="brightness_auto_adjust_off">Screen brightness will remain constant</string>
+  <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="brightness_summary">Adjust the brightness of the screen</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
@@ -771,7 +771,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't to save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_usage_point">This name will be visible to other Bluetooth devices in your area</string>
+  <string name="device_name_usage_point">This name will be visible to other Bluetooth devices nearby.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_status">Status</string>
@@ -883,11 +883,11 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="downloading_description">Downloading…</string>
   <string name="drive_mode">Car mode</string>
   <string name="drive_mode_auto_reply">Quick response</string>
-  <string name="drive_mode_auto_sms_reply_content">"Can't talk right now... I'll call you later"</string>
+  <string name="drive_mode_auto_sms_reply_content">"Driving now... I'll call you later"</string>
   <string name="drive_mode_auto_sms_reply_content_title">Quick response</string>
   <string name="drive_mode_calling_auto_sms_reply">Reply to calls</string>
   <string name="drive_mode_invert_stop_report">Turn phone over to silence</string>
-  <string name="drive_mode_only_contact_reply">Only reply to contacts</string>
+  <string name="drive_mode_only_contact_reply">Only reply to Contacts</string>
   <string name="drive_mode_phone_report">Incoming call info</string>
   <string name="drive_mode_settings">Car mode settings</string>
   <string name="drive_mode_sms_auto_sms_reply">Reply to SMS</string>
@@ -948,7 +948,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
-  <string name="finish_application">End</string>
+  <string name="finish_application">OK</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Enable floating windows</string>
@@ -973,6 +973,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Your tablet will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
+  <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
   <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
@@ -989,6 +990,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
   <string name="free_wifi_speed_title">Slow connection?</string>
   <string name="free_wifi_summary">Tap to connect to %1$s.</string>
+  <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
+  <string name="free_wifi_user_agreement_allow">Agree</string>
+  <string name="free_wifi_user_agreement_title">Terms of Use</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
@@ -1069,7 +1073,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
-  <string name="ime_security_warning">%1$sThis input method can record everything you type, including passwords, credit card numbers, and other personal data. Do you want to use this input method?</string>
+  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -1262,7 +1266,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="macaddr_label">MAC addr:</string>
   <string name="main_running_process_description">Main process in use.</string>
   <string name="make_sure_cancel_update">Cancel update?</string>
-  <string name="man_add_application">Add auto-start apps</string>
+  <string name="man_add_application">Add autostart apps</string>
   <string name="manage_device_admin">Device administrators</string>
   <string name="manage_device_admin_summary">View or deactivate device administrators</string>
   <string name="manage_mobile_plan_title">Mobile plan</string>
@@ -1428,7 +1432,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miui_screensaver_state_off">Off</string>
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">Screensaver will begin 5 seconds after the display turns off</string>
+  <string name="miui_screensaver_usage">Screensaver begins 5 seconds after display turns off</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
@@ -1578,7 +1582,7 @@ Select your operating system:"</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
-  <string name="other_relative">Other permissions</string>
+  <string name="other_relative">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
   <string name="owner_info_settings_summary"/>
@@ -1587,11 +1591,11 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
-  <string name="permission_detail_info">Permission details</string>
+  <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">Security: %1$d | Privacy: %2$d | Other: %3$d</string>
   <string name="permission_manage">Manage permissions</string>
-  <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
-  <string name="permission_manage_title">%s permission details</string>
+  <string name="permission_manage_summary">Manage autostart, root access, and other app permissions</string>
+  <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Permissions</string>
   <string name="permission_mgr">Permissions</string>
   <string name="permissions_label">Permissions</string>
@@ -1614,8 +1618,8 @@ Select your operating system:"</string>
   <string name="pointer_location_summary">Show touch coordinates</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
-  <string name="power_autorun_apps_empty">No auto-start apps</string>
-  <string name="power_autorun_empty">No apps</string>
+  <string name="power_autorun_apps_empty">Empty</string>
+  <string name="power_autorun_empty">Empty</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Tablet idle</string>
@@ -1678,16 +1682,16 @@ Select your operating system:"</string>
   <string name="print_service_security_warning_title">Use %1$s?</string>
   <string name="print_settings">Printing</string>
   <string name="print_settings_title">Print services</string>
-  <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
-  <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
-  <string name="priority_storage_summary">Choose the default location to save userdata</string>
+  <string name="priority_storage_app_settings">Data will be saved to %1$s</string>
+  <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
+  <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
   <string name="privacy_mode_dialog_message">Calls, notes, pictures, messages, and launcher settings will be hidden from user</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_protect_title">Privacy protection</string>
-  <string name="privacy_relative">Privacy related</string>
+  <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
   <string name="privacy_settings_title">Backup &amp; reset</string>
   <string name="private_gallery_need_to_unlock">Password required:</string>
@@ -1849,10 +1853,10 @@ Select your operating system:"</string>
   <string name="retry">Retry</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
-  <string name="ringtone_slot_setting_title">Single card settings</string>
+  <string name="ringtone_slot_setting_title">Single SIM settings</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Phone ringtone</string>
-  <string name="ringtone_uniform_setting_title">Dual card settings</string>
+  <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
@@ -1879,8 +1883,8 @@ This setting affects all users on this tablet."</string>
   <string name="runningservices_settings_title">Running services</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
-  <string name="screen_color_temperature">Color temperature</string>
-  <string name="screen_color_temperature_and_saturation">Color temperature &amp; saturation</string>
+  <string name="screen_color_temperature">Colors</string>
+  <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
   <string name="screen_key_long_press">Long press navigation buttons</string>
@@ -1889,7 +1893,7 @@ This setting affects all users on this tablet."</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">"Lock tablet automatically when it's placed in a bag"</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-  <string name="screen_saturation">Color saturation</string>
+  <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
   <string name="screen_timeout_title">Sleep mode</string>
@@ -1969,7 +1973,7 @@ This setting affects all users on this tablet."</string>
   <string name="security_password_category_name">Password</string>
   <string name="security_passwords_title">Passwords</string>
   <string name="security_privacy_settings_title">Security</string>
-  <string name="security_relative">Security related</string>
+  <string name="security_relative">Security</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">This app can access the following on your tablet:</string>
   <string name="security_settings_desc_multi">This app can access the following on your tablet. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
@@ -2067,7 +2071,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_status_title">SIM status</string>
   <string name="skip_label">Skip</string>
   <string name="skip_step">Skip this step</string>
-  <string name="slot_status_title">IMEI information</string>
+  <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text" formatted="false">Use %s instead of %s as your SMS app?</string>
@@ -2249,6 +2253,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
+  <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Contributors</string>
   <string name="trusted_credentials">Trusted credentials</string>
   <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
@@ -2809,9 +2814,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_login_summary">If this is a public network, you can share it with other MIUI users.</string>
   <string name="wifi_share_notification_summary">MIUI has connected you to a public WLAN network.</string>
   <string name="wifi_share_other_network">Other networks</string>
-  <string name="wifi_share_qrcode_finish">Finish</string>
-  <string name="wifi_share_qrcode_summary">Use Camera to scan QR Code</string>
-  <string name="wifi_share_qrcode_title">Share WLAN</string>
+  <string name="wifi_share_qrcode_finish">OK</string>
+  <string name="wifi_share_qrcode_summary">To share, scan the QR code above.</string>
+  <string name="wifi_share_qrcode_title">Share WLAN network</string>
   <string name="wifi_share_show_network">Show networks</string>
   <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafes, restaurants, hotels, etc.) with one another.</string>
   <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without using a password.</string>
