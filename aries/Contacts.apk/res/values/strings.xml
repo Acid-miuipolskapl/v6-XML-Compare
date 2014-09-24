@@ -203,6 +203,7 @@
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen</string>
   <string name="create_group_dialog_title">Create new group</string>
   <string name="create_group_item_label">Create new group</string>
+  <string name="create_qrcode_fail_message">Create QR Code failed</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
@@ -770,6 +771,8 @@ To add a contact to your list of favorites:
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Me</string>
+  <string name="qr_card_card">My QR Code</string>
+  <string name="qrcode_card_title">QR code card</string>
   <string name="quickcontact_missing_app">No app was found to handle this action</string>
   <string name="quit_dialog_confirm_title">"You haven't merged any contacts"</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
@@ -966,6 +969,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">Searching for duplicate contacts…</string>
+  <string name="scan_qrcode_card_hint1">Scan QR Code</string>
+  <string name="scan_qrcode_card_hint2">Add my information to your contacts</string>
   <string name="scanning">Scanning…</string>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
