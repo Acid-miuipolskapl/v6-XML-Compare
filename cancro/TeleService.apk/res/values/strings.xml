@@ -454,6 +454,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_not_set_summary">Not set</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Dial</string>
+  <string name="msim_set_icc_card_error">ICC card error</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Can't set during call"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
   <string name="msim_setting_categery_title">SIM card info</string>
