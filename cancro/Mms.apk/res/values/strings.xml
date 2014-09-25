@@ -226,7 +226,7 @@
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
-  <string name="msg_type_hint_mx">Cloud message</string>
+  <string name="msg_type_hint_mx">Mi message</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
   <string name="msglist_more_refreshing">Refreshing…</string>
@@ -244,9 +244,6 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
-  <string name="mx_activate_int_popup_msg">"Mi Message lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply unless you're connected to WLAN."</string>
-  <string name="mx_activate_popup_msg">"Mi Message lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply unless you're connected to WLAN."</string>
-  <string name="mx_activation_done">Mi Message enabled</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
   <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to WLAN (regular data usage charges apply)."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
@@ -257,15 +254,14 @@
   <string name="mx_current_status">Status: online</string>
   <string name="mx_dspt">Mi Message lets you send messages back and forth with anyone else using MIUI</string>
   <string name="mx_enable">Mi Message</string>
-  <string name="mx_enable_int_popup_msg">"Mi Message lets you send messages back and forth with anyone else using MIUI. Normal data usage charges apply unless you're connected to WLAN."</string>
-  <string name="mx_enable_popup_msg">Send messages to other MIUI users for free.</string>
-  <string name="mx_int_warning_notice">Your carrier may charge for an international SMS message used to activate Mi Message.</string>
+  <string name="mx_enable_popup_msg">Mi Messaging lets you send messages back and forth for fre e with other users also using this feature.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
+  <string name="mx_on_sim_1">Mi Messaging with SIM slot %s</string>
+  <string name="mx_on_sim_2">Mi Messaging with SIM slot %s</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to enable Mi Message.</string>
-  <string name="mx_warning_notice">Your carrier may charge for an SMS message used to activate Mi Message.</string>
   <string name="need_download">Syncing…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">You have a new message</string>

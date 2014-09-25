@@ -5,6 +5,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Version code</string>
   <string name="actor_colon">Actor: </string>
+  <string name="ad_countdown">广告剩余: %s 秒</string>
   <string name="ad_moredetail">more detail</string>
   <string name="add_favorite_success">Starred</string>
   <string name="add_more_addons">Add more addons</string>

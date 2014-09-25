@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">About phone</string>
+  <string name="active_xiaomi_account">Active</string>
+  <string name="active_xiaomi_account_msg">To activate your Mi Account, go to https://account.xiaomi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_title">Activate Mi Account</string>
   <string name="app_name">Updater</string>
   <string name="apply_later_button_text">Later</string>
   <string name="apply_now_button_text">Update now</string>
@@ -9,7 +12,9 @@
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_upload_info_message">Your device will reboot and install the update immediately.</string>
   <string name="auto_update">Update automatically</string>
+  <string name="auto_update_sum">Automatically choose the best times to download updates</string>
   <string name="autosetmode">Update settings</string>
+  <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Reboot to Recovery mode</string>
   <string name="button_text_check">Check</string>
   <string name="button_text_later_reboot">Reboot later</string>
@@ -20,6 +25,14 @@
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Only check for updates when connected to WLAN</string>
+  <string name="check_update_when_wifi_available_sum">Only use WLAN to check for updates</string>
+  <string name="comment_invalid">Rate this update (touch the stars)</string>
+  <string name="comment_publish">Submit</string>
+  <string name="comment_sending">Sending…</string>
+  <string name="comment_upload_failed">Failed to send comment</string>
+  <string name="comment_upload_hint">Thank you for your feedback!</string>
+  <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
+  <string name="comment_upload_success">Sent</string>
   <string name="daily_build">Nightly</string>
   <string name="dialog_no">Cancel</string>
   <string name="dialog_ok">OK</string>
@@ -35,11 +48,20 @@
   <string name="download_title_first">Getting update info…</string>
   <string name="download_title_full_download">Getting package info…</string>
   <string name="downloading_description">Downloading…</string>
+  <string name="edit_comment">Add comments</string>
+  <string name="edit_comment_title">Edit comment</string>
+  <string name="edit_text_default">Write a comment</string>
   <string name="emegency_build">Build:</string>
+  <string name="expect">Expectations</string>
   <string name="experimental_build">Experimental</string>
   <string name="file_not_found_error_message">"Can't access this file. Try downloading it again."</string>
+  <string name="finish">Finish</string>
+  <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+  <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
+  <string name="fourgrid_notificaiont">Show in status bar</string>
   <string name="get_auto">Get Auto Mode</string>
   <string name="get_current">Get current</string>
+  <string name="get_update_error">Failed to get update info</string>
   <string name="go_on_download">Continue</string>
   <string name="install">Install</string>
   <string name="install_failed">Update failed</string>
@@ -59,9 +81,14 @@
   <string name="miui_summary_no_new_version">No updates available</string>
   <string name="miui_summary_now_version">"Current version "</string>
   <string name="monthly_build">Monthly</string>
+  <string name="my_best_update">Best update</string>
+  <string name="my_expect_update">Expectations</string>
   <string name="my_rank">Update status:</string>
+  <string name="my_update_feel">My feedback</string>
+  <string name="my_worst_update">Worst update</string>
   <string name="network_error">A network error occurred</string>
   <string name="new_updates_found_notification_title">Update available</string>
+  <string name="next">Next</string>
   <string name="no_log">No summary available</string>
   <string name="no_proper_updates">No updates available</string>
   <string name="no_wifi_msg">"You're no longer connect to WLAN. Continuing to download over your mobile data connection will increase your data usage."</string>
@@ -81,6 +108,7 @@
   <string name="on_checking">Checking update</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
+  <string name="previous">Previous</string>
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="reboot">Reboot</string>
   <string name="reboot_to_new_system">Reboot to new system image</string>
@@ -108,12 +136,27 @@
   <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
   <string name="space_not_enough_title">Not enough space</string>
   <string name="stable_build">Stable</string>
+  <string name="submit">Submit</string>
+  <string name="submit_fail">Submit fail</string>
+  <string name="submit_progress">Submiting</string>
+  <string name="submit_success">Submit success</string>
   <string name="test">Test</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="unkown_error_title">Something went wrong…</string>
   <string name="unstable_build">Unstable</string>
+  <string name="update_comment_hint"/>
+  <string name="update_comment_title">Comment</string>
+  <string name="update_feedback">Update feedback</string>
+  <string name="update_feedback_end">"You missed this week's four-grid"</string>
+  <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
+  <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
+But you can take part next Tuesday"</string>
+  <string name="update_feel">What do you think?</string>
+  <string name="update_general">So-so</string>
+  <string name="update_happy">Awesome!</string>
   <string name="update_monthly_build_only">Only update for monthly builds</string>
+  <string name="update_sad">Meh (not good)</string>
   <string name="update_success">Update complete</string>
   <string name="update_success_body">Current version: %s</string>
   <string name="update_success_title">Update complete!</string>
@@ -128,4 +171,5 @@
   <string name="validate_pkg_failed_title">"Can't verify update"</string>
   <string name="view_upgrade_tutorial">View</string>
   <string name="weekly_build">Weekly</string>
+  <string name="worst_update">Worst update so far</string>
 </resources>

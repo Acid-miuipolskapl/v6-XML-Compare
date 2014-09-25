@@ -161,6 +161,7 @@
   <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
   <string name="cfb_title">Forward when busy</string>
   <string name="cfnrc_title">Forward when unreachable</string>
+  <string name="cfnrc_title_cta">Forward when unreachable</string>
   <string name="cfnry_title">Forward when unanswered</string>
   <string name="cfu_title">Always forward</string>
   <string name="change_num">Update</string>
