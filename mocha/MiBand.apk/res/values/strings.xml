@@ -302,6 +302,17 @@ Don't stop yourself, move forward."</string>
   <string name="noti_bracelet_low_battery_content_none">Connect to power</string>
   <string name="noti_bracelet_low_battery_title">Low power</string>
   <string name="noti_bracelet_low_battery_title_none">Mi Band has turned off.</string>
+  <string name="notify_status_motor">手环震动</string>
+  <string name="notify_status_motor_alarm">原因：普通闹钟</string>
+  <string name="notify_status_motor_auth">原因：敲击配对</string>
+  <string name="notify_status_motor_auth_success">原因：认证成功</string>
+  <string name="notify_status_motor_call">原因：来电提醒</string>
+  <string name="notify_status_motor_disconnect">原因：断开连接</string>
+  <string name="notify_status_motor_goal">原因：目标达成</string>
+  <string name="notify_status_motor_notify">原因：查找手环</string>
+  <string name="notify_status_motor_shut_down">原因：手环关机</string>
+  <string name="notify_status_motor_smart_alarm">原因：智能闹钟</string>
+  <string name="notify_status_motor_test">原因：马达测试</string>
   <string name="odo">Total distance</string>
   <string name="one_min">1 min. ago</string>
   <string name="one_week">During this week, </string>

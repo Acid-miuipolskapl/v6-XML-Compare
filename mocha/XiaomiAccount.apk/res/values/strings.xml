@@ -5,26 +5,31 @@
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
   <string name="account">Account</string>
   <string name="account_bind_devices">Active devices</string>
-  <string name="account_bind_settings">Email &amp; phone</string>
+  <string name="account_bind_settings">Accounts</string>
   <string name="account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="account_dspt_provision"/>
   <string name="account_hint_text">Email address or phone number</string>
   <string name="account_name">Account: %1$s</string>
   <string name="account_not_activated">"Account hasn't been activated"</string>
-  <string name="account_sec_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
+  <string name="account_sec_dspt"/>
   <string name="account_sec_dspt2"/>
   <string name="account_settings">Account settings</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="activating">Activating…</string>
-  <string name="add_weibo_account">Add account</string>
+  <string name="add_account">Add account</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
-  <string name="bind_settings">Email &amp; phone</string>
+  <string name="bind_facebook">Add your Facebook Account</string>
+  <string name="bind_qq">Add your QQ Account</string>
+  <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Add Sina Weibo Account</string>
+  <string name="bind_sns_description">Complete your profile using the personal information across %s.</string>
   <string name="bind_weibo_description">Find and sync your friends from Sina Weibo.</string>
   <string name="binded">Account added</string>
+  <string name="binded_description" formatted="false">"Has bound %s successfully 
+ Complete your profile using the personal information across %s."</string>
   <string name="btn_activate">Activate</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
@@ -39,6 +44,7 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Finish</string>
   <string name="confirm">OK</string>
+  <string name="confirm_unbind">confirm unbind?</string>
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="dirty_contacts_count">%d contacts</string>
@@ -46,7 +52,7 @@
   <string name="dirty_mms_count">%d messages</string>
   <string name="dirty_note_count">%d notes</string>
   <string name="email_already_be_used">This email address is already associated with another account.</string>
-  <string name="email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="email_reg_success_summary">%1$s has been added to your Mi Account. You can use it to sign in or to reset your password.</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_device_id">"Can't get IMEI"</string>
@@ -59,10 +65,11 @@
   <string name="error_phone_error">Invalid phone number</string>
   <string name="error_server">Server error</string>
   <string name="error_sim_not_ready">"Can't find SIM card"</string>
-  <string name="error_ssl_hand_shake">Error with server connection. Try set your system date-time to current time.</string>
+  <string name="error_ssl_hand_shake">Your device had a problem talking to our servers. Try set your system date-time to current time.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="error_user_name">Invalid username</string>
   <string name="error_verify_code">The code you entered is incorrect</string>
+  <string name="facebook">facebook</string>
   <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="find_device_dspt">Lock or wipe this device remotely.</string>
   <string name="find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
@@ -102,7 +109,7 @@
   <string name="micloud_activate_retry_btn">Retry</string>
   <string name="micloud_activating_account_notify_info">Activating your Mi Account</string>
   <string name="micloud_activating_account_notify_title">Activating account…</string>
-  <string name="micloud_active_alert_title">Send SMS</string>
+  <string name="micloud_active_alert_title">Data usage warning</string>
   <string name="micloud_active_email_sent_1">"An activation link has been sent to "</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Check your inbox at %s</string>
@@ -148,7 +155,7 @@ To activate your account, follow the
   <string name="micloud_user_phone">Phone number</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_via_int_sms_alert">Activation SMS is subject to international data charges from your carrier.</string>
-  <string name="micloud_via_sms_alert">Activation SMS is subject to regular data charges from your carrier.</string>
+  <string name="micloud_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="micloud_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="micloud_welcome_skip_login_provision">&lt;u&gt;Skip&lt;/u&gt;</string>
   <string name="mili_center">Mi Credits</string>
@@ -164,6 +171,7 @@ To activate your account, follow the
   <string name="prev">Back</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="process_result">Sync details</string>
+  <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-step verification</string>
   <string name="quick_login_dialog_title">Verify password</string>
   <string name="quick_login_step2_title">2-step verification</string>
@@ -174,7 +182,7 @@ To activate your account, follow the
   <string name="reg_failed">"Can't set up account"</string>
   <string name="reg_sms_send_prompt">Send verification code to %s</string>
   <string name="reg_success">Account created</string>
-  <string name="reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="reg_success_summary">%1$s has been added to your Mi Account. You can use it to sign in or to reset your password.</string>
   <string name="reg_type_email">Create account using email</string>
   <string name="reg_type_other_ways">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="reg_type_other_ways_title">Create an account using email address</string>
@@ -182,7 +190,7 @@ To activate your account, follow the
   <string name="reg_using_other_phone">Create account using another phone number</string>
   <string name="reg_using_other_phone_number_prompt">Create account using another phone number</string>
   <string name="reg_using_phone_number_prompt">Create account using phone number</string>
-  <string name="reg_via_sms_alert">Activation SMS is subject to regular data charges from your carrier.</string>
+  <string name="reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="reging">Creating account…</string>
   <string name="register">Create Mi Account</string>
   <string name="register_account_goto_email">Go to inbox</string>
@@ -211,8 +219,10 @@ To activate your account, follow the
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
   <string name="unbind">Sign out</string>
+  <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
+  <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="update_contacts">Update address book</string>
-  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to your sync contacts accross platforms</string>
+  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to your sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">Updated</string>
   <string name="user_agreement">User Agreement</string>

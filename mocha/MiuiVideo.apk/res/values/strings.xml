@@ -255,6 +255,8 @@
   <string name="vp_back">Back</string>
   <string name="vp_content_description">Content description</string>
   <string name="vp_device_list">Device list</string>
+  <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
+  <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
   <string name="vp_error_get_play_url_back_to_continue">Failed to get play url, back to continue.</string>
   <string name="vp_exit">Exit</string>
   <string name="vp_full_high_definition">1080P</string>
@@ -277,6 +279,7 @@
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
+  <string name="vp_unknown_source">Unknown source</string>
   <string name="vp_using_16_9">Force 16:9</string>
   <string name="vp_using_4_3">Force 4:3</string>
   <string name="waiting_to_download">Waiting</string>
