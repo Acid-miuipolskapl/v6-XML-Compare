@@ -130,7 +130,7 @@
   <string name="card_title_calliswaiting">Call Waiting</string>
   <string name="card_title_callonhold">Put on Hold</string>
   <string name="card_title_callonhold_released">Call Released</string>
-  <string name="card_title_callretrieved">Call Retreived</string>
+  <string name="card_title_callretrieved">Call Retrieved</string>
   <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
   <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_cugcall">CUG Call</string>
@@ -161,6 +161,7 @@
   <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
   <string name="cfb_title">Forward when busy</string>
   <string name="cfnrc_title">Forward when unreachable</string>
+  <string name="cfnrc_title_cta">Forward when unreachable</string>
   <string name="cfnry_title">Forward when unanswered</string>
   <string name="cfu_title">Always forward</string>
   <string name="change_num">Update</string>

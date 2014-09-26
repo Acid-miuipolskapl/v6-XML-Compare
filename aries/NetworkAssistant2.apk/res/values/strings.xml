@@ -21,9 +21,7 @@
   <string name="daily_pkg_traffic">Set peak data usage limit</string>
   <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
-  <string name="data_usage_disabled_dialog">"You've reached your data usage limit. 
-
-Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
+  <string name="data_usage_disabled_dialog">"You've reached your data usage limit. If you go over your plan’s data usage limit, your carrier could charge you additional fees."</string>
   <string name="data_usage_disabled_dialog_enable">Enable data</string>
   <string name="data_usage_leisure_warning_body">Touch to view data usage details.</string>
   <string name="data_usage_leisure_warning_title">Data usage limit</string>
@@ -271,7 +269,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
 Update your data usage info?"</string>
   <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-Your carrer's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>
+Your carrier's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>
   <string name="traffic_config_alert_body_normal">"
 Your carrier's accounting shows you've used %1$s of your peak-time data this month, this is different from the %2$s you've set manually."</string>
   <string name="traffic_config_alert_cancel">Cancel</string>
@@ -327,7 +325,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button1_text">Cancel</string>
   <string name="traffic_setting_fragment_button2_text">Save</string>
-  <string name="traffic_setting_fragment_get_template_falure">Update get failure. Check your data connection and try again.</string>
+  <string name="traffic_setting_fragment_get_template_falure">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
   <string name="traffic_setting_fragment_no_network">"Can't connect to the network"</string>
   <string name="traffic_setting_fragment_null">Empty</string>

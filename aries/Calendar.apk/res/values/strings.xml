@@ -69,8 +69,8 @@
   <string name="creating_event">Event created</string>
   <string name="creating_event_with_guest">Invitations will be sent</string>
   <string name="cta_notice_checkbox">"Don't show again"</string>
-  <string name="cta_notice_message">The birthday reminders feature needs to access your contacts to function normally.</string>
-  <string name="cta_notice_ok">Agree</string>
+  <string name="cta_notice_message">We need to access your contacts for using the calendar birthday reminder function. Agree?</string>
+  <string name="cta_notice_ok">Agree &amp; Proceed</string>
   <string name="cta_notice_title">Access to contacts</string>
   <string name="cta_notify_settings">Prompt when accessing contacts</string>
   <string name="custom">"Custom (can't customize on phone)"</string>

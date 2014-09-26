@@ -15,6 +15,7 @@
   <string name="accessibility_more_ptions_closed">More options disabled</string>
   <string name="accessibility_more_ptions_opened">More options enabled</string>
   <string name="accessibility_open_more_ptions">Enable more options</string>
+  <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
   <string name="accessibility_setting_button">SettingButton</string>
@@ -23,6 +24,8 @@
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
   <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
+  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+  <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="accessibility_zoom_control">Zoom control</string>
   <string name="albums">Albums</string>
   <string name="aperture">Aperture</string>
@@ -117,7 +120,7 @@
   <string name="face_beauty_age_alias_male_8_17">Male 8-17</string>
   <string name="face_beauty_intelligent_level_0">Off</string>
   <string name="face_beauty_intelligent_level_1">Low</string>
-  <string name="face_beauty_intelligent_level_2">Mid</string>
+  <string name="face_beauty_intelligent_level_2">On</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="face_beauty_intelligent_title">Auto adjust</string>
   <string name="face_beauty_manual_title">Manual adjust</string>
@@ -280,7 +283,6 @@ touch the Shutter button"</string>
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-  <string name="pref_camera_front_fb_title">Enhance skin tones</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Live</string>
@@ -505,7 +507,7 @@ touch the Shutter button"</string>
   <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">Save to SD card</string>
   <string name="pref_scan_qrcode_default">true</string>
-  <string name="pref_scan_qrcode_title">Scan QR code</string>
+  <string name="pref_scan_qrcode_title">Scan QR codes</string>
   <string name="pref_setting_title">Settings</string>
   <string name="pref_settings_mode">Camera mode</string>
   <string name="pref_video_captrue_ability_title">Capture ability</string>
@@ -559,7 +561,6 @@ touch the Shutter button"</string>
   <string name="resume_playing_restart">Start over</string>
   <string name="resume_playing_resume">Resume playing</string>
   <string name="resume_playing_title">Resume video</string>
-  <string name="review_cancel">Cancel</string>
   <string name="rotate_left">Rotate left</string>
   <string name="rotate_right">Rotate right</string>
   <string name="save">Yes</string>

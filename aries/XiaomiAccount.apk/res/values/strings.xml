@@ -16,15 +16,20 @@
   <string name="account_settings">Account settings</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="activating">Activating…</string>
-  <string name="add_weibo_account">Add account</string>
+  <string name="add_account">Add account</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
+  <string name="bind_facebook">Add your Facebook Account</string>
+  <string name="bind_qq">Add your QQ Account</string>
   <string name="bind_settings">Accounts</string>
   <string name="bind_sina_weibo">Add Sina Weibo Account</string>
+  <string name="bind_sns_description">Complete your profile using the personal information across %s.</string>
   <string name="bind_weibo_description">Find and sync your friends from Sina Weibo.</string>
   <string name="binded">Account added</string>
+  <string name="binded_description" formatted="false">"Has bound %s successfully 
+ Complete your profile using the personal information across %s."</string>
   <string name="btn_activate">Activate</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
@@ -39,6 +44,7 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Finish</string>
   <string name="confirm">OK</string>
+  <string name="confirm_unbind">confirm unbind?</string>
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="dirty_contacts_count">%d contacts</string>
@@ -63,6 +69,7 @@
   <string name="error_unknown">"Can't sign in"</string>
   <string name="error_user_name">Invalid username</string>
   <string name="error_verify_code">The code you entered is incorrect</string>
+  <string name="facebook">facebook</string>
   <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="find_device_dspt">Lock or wipe this device remotely.</string>
   <string name="find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
@@ -164,6 +171,7 @@ To activate your account, follow the
   <string name="prev">Back</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="process_result">Sync details</string>
+  <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-step verification</string>
   <string name="quick_login_dialog_title">Verify password</string>
   <string name="quick_login_step2_title">2-step verification</string>
@@ -211,6 +219,8 @@ To activate your account, follow the
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
   <string name="unbind">Sign out</string>
+  <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
+  <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="update_contacts">Update address book</string>
   <string name="update_contacts_description">Let Sina Weibo use your Mi Account to your sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>
