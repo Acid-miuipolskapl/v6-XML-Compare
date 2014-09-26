@@ -67,6 +67,7 @@ touch it with the back of your phone"</string>
   <string name="email_to">To</string>
   <string name="empty_tag">This tag is blank</string>
   <string name="enable_wifi">WLAN</string>
+  <string name="erase_pon_pon_tile">Erase tag</string>
   <string name="erase_success">Erased</string>
   <string name="erasing">Erasing…</string>
   <string name="err_fail_to_erase">Failed to erase tag</string>

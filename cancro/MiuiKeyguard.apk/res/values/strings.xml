@@ -20,7 +20,8 @@
   <string name="input_password_hint_text">Input password</string>
   <string name="input_pin_code">Enter PIN</string>
   <string name="input_puk_code">Input PUK</string>
-  <string name="lock_screen_date">MM/dd E</string>
+  <string name="keyguard_torch_cover_text">To keep torch on, press the Power button</string>
+  <string name="lock_screen_date">E dd/MM</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>

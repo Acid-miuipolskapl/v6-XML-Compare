@@ -106,6 +106,8 @@
 (%s)"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
+  <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
+(%s)"</string>
   <string name="account_setup_failed_dlg_title">"Couldn't finish"</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
   <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
@@ -559,10 +561,9 @@ CC: %4$s
   <string name="message_decode_error">"Can't decode the message"</string>
   <string name="message_details_title">Message details</string>
   <string name="message_discarded">Message discarded.</string>
-  <string name="message_invite_accept">attend</string>
+  <string name="message_invite_accept">Yes</string>
   <string name="message_invite_calendar_view">View in Calendar</string>
-  <string name="message_invite_decline">nonparticipator</string>
-  <string name="message_invite_label_attending">Going?</string>
+  <string name="message_invite_decline">No</string>
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>

@@ -4,7 +4,7 @@
   <string name="configure_wallpaper">Settings…</string>
   <string name="live_wallpaper_empty">No live wallpapers.</string>
   <string name="live_wallpaper_loading">Loading live wallpaper…</string>
-  <string name="live_wallpaper_picker_label">Live Wallpapers</string>
+  <string name="live_wallpaper_picker_label">Live</string>
   <string name="live_wallpaper_picker_title">Select live wallpaper</string>
   <string name="live_wallpaper_preview_title">Live wallpaper preview</string>
   <string name="set_live_wallpaper">Set wallpaper</string>

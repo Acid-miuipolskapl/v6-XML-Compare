@@ -10,10 +10,15 @@
         <item>@string/ringer_silent</item>
         <item>@string/vibrate_on</item>
     </string-array>
+    <string-array name="brightness_mode_items">
+        <item>@string/toggle</item>
+        <item>@string/off</item>
+        <item>@string/on</item>
+    </string-array>
     <string-array name="vibrate_mode_items">
         <item>@string/toggle</item>
-        <item>@string/vibrate_on</item>
         <item>@string/vibrate_off</item>
+        <item>@string/vibrate_on</item>
     </string-array>
     <string-array name="miui_ringer_items">
         <item>@string/toggle</item>

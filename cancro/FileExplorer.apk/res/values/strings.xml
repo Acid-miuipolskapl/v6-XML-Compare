@@ -173,7 +173,7 @@
   <string name="name_illegal">You must enter a name.</string>
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
-  <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
+  <string name="network_connect_confirm_des">We will access network for using kuaipan, agree?</string>
   <string name="never_notify_network_connect">"Don't show me this again"</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="no">No</string>
@@ -193,7 +193,7 @@
   <string name="open_file_failed">open failed</string>
   <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
-  <string name="operation_agree">Agree</string>
+  <string name="operation_agree">Agree &amp; Proceed</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing…</string>
