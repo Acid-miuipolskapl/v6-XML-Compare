@@ -36,6 +36,8 @@
   <string name="add_quicklink_to_popular">Add to start page</string>
   <string name="add_quicklinks">Add</string>
   <string name="add_to_bookmark">Add to bookmarks</string>
+  <string name="add_to_desk">Add to Home screen</string>
+  <string name="add_to_desk_success">Added to Home screen</string>
   <string name="add_to_quicklink">Add to start page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
