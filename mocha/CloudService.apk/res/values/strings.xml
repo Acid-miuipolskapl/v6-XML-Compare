@@ -39,6 +39,11 @@
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
+  <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
+
+You can turn this feature on and off anytime in Settings."</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Something went wrong with our servers.</string>
@@ -47,6 +52,7 @@
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this service."</string>
+  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="finish">OK</string>
@@ -58,6 +64,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="internet">Internet</string>
   <string name="internet_disconnected">No data connection</string>
   <string name="less_flow_mode">Data saver</string>
+  <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
+  <string name="loading">Loading…</string>
   <string name="master_alert_notif_dspt_add">%s items to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
@@ -101,6 +109,11 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_warn_low_title">Almost out of space…</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
+  <string name="mx_dspt">Mi Message</string>
+  <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
+
+You can turn this feature on and off anytime in Settings."</string>
+  <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
@@ -113,6 +126,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
   <string name="pref_title_sync_my_profile_title">Sync profile</string>
+  <string name="privacy_policy">Privacy Policy</string>
   <string name="remind_later">Later</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
@@ -127,6 +141,12 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="sync">Sync</string>
   <string name="sync_dspt">Enable sync</string>
+  <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+You can turn this feature on and off anythime in Settings.
+"</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
   <string name="sync_item_calllog_title">Sync call logs</string>
   <string name="sync_item_sms_summary">Sync the SMS sent and received on this phone</string>
@@ -146,6 +166,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="system_sync_off">System sync off</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="unactivated_user">Deactivated</string>
+  <string name="user_agreement">User Agreement</string>
+  <string name="user_agreement_p6">"Your use of this feature is subject to "</string>
+  <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
+  <string name="user_agreement_p8">.</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
   <string name="wifi">WLAN</string>

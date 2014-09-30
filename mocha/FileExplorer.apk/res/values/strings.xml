@@ -139,7 +139,7 @@
   <string name="menu_list_name">Menu</string>
   <string name="migrate_announcement_msg">Sync your existing KuaiPan account with your Mi Account in KuaiPan settings.</string>
   <string name="migrate_announcement_title">Move complete</string>
-  <string name="mobile_photo">Phone photos</string>
+  <string name="mobile_photo">Tablet photos</string>
   <string name="mobile_photo_desc"/>
   <string name="move_failed">"Can't cut"</string>
   <string name="multi_select_title">%1$s selected</string>
@@ -147,7 +147,7 @@
   <string name="my_app_desc"/>
   <string name="my_bak">Backups</string>
   <string name="my_bak_desc"/>
-  <string name="my_bakup">Phone backups</string>
+  <string name="my_bakup">Tablet backups</string>
   <string name="my_bakup_app">Apps</string>
   <string name="my_bakup_app_desc"/>
   <string name="my_bakup_doc">Docs</string>
@@ -231,7 +231,7 @@
   <string name="pan_settting">KuaiPan settings</string>
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Phone</string>
+  <string name="phone">Tablet</string>
   <string name="pull_to_signin">Swipe down to check in.</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="rename_description">Renaming…</string>
@@ -296,12 +296,12 @@ Free space added %1$s"</string>
   <string name="user_guide">Learn more about KuaiPan</string>
   <string name="user_guide_continue_use">I know</string>
   <string name="user_guide_download_other_version">Upload files from computer</string>
-  <string name="user_guide_kuaipan_copy">Copy files from phone,Then paste to kuaipan</string>
+  <string name="user_guide_kuaipan_copy">Copy files from tablet,Then paste to KuaiPan</string>
   <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
   <string name="user_guide_other_version">Download in mi.kuaipan.cn.Login with your account(%1$s)</string>
-  <string name="user_guide_save_file">Saving your files and pictures in Kuaipan.</string>
+  <string name="user_guide_save_file">Saving your files and pictures in KuaiPan.</string>
   <string name="user_guide_summary">A brief overview</string>
-  <string name="user_guide_upload_to_kuaipan">Store items on Kuaipan from your phone</string>
+  <string name="user_guide_upload_to_kuaipan">Store items on KuaiPan from your tablet</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Waiting for the network</string>
