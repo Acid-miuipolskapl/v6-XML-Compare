@@ -33,6 +33,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="check_network">Network settings</string>
+  <string name="choose_upload">Choose file for upload</string>
   <string name="colon">": "</string>
   <string name="confirm_delete_all_call_log_title">Delete all call logs?</string>
   <string name="confirm_delete_call_log_title">Delete call log?</string>
@@ -115,6 +116,11 @@ Please check your tracking number."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Number: "</string>
+  <string name="express_inquiry_trace">Trace</string>
+  <string name="express_inquiry_trace_success">Traced</string>
+  <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
+  <string name="express_inquiry_untrace">Untrace</string>
+  <string name="express_inquiry_untrace_success">Unraced</string>
   <string name="express_no_address">Empty</string>
   <string name="express_no_order_info">No order info</string>
   <string name="express_no_tracking_number">Pending</string>
@@ -174,12 +180,15 @@ Please check your tracking number."</string>
   <string name="group_name_banner"/>
   <string name="group_name_basic"/>
   <string name="group_name_data_source">Source</string>
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Gallery</string>
+  <string name="group_name_management">Manage</string>
   <string name="group_name_more">Misc</string>
   <string name="group_name_service">Service</string>
   <string name="group_name_shop_info">Information</string>
   <string name="group_name_shop_recommendation">Nearby</string>
   <string name="group_name_title"/>
+  <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
@@ -187,7 +196,6 @@ Please check your tracking number."</string>
   <string name="mark_number_custom_dialog_maintitle">Confirm or correct label</string>
   <string name="mark_number_dialog_maintitle">Label number and upload</string>
   <string name="mark_title_null_hint">Enter a label</string>
-  <string name="menu_about_yellow_page">About</string>
   <string name="menu_add_black_list">Add to blocklist</string>
   <string name="menu_add_to_favorite">Add to favorites</string>
   <string name="menu_call_ip_number">Dial IP call</string>
@@ -195,6 +203,7 @@ Please check your tracking number."</string>
   <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Delete call logs</string>
   <string name="menu_delete_one">Remove from call log</string>
+  <string name="menu_enroll_in_yellow_page">Sign up for Mi Yellow Pages</string>
   <string name="menu_remove_black_list">Remove from blocklist</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
   <string name="minimum_price">From %d RMB</string>
@@ -308,6 +317,7 @@ Total: RMB %3$s"</string>
   <string name="turn_on_yellowpage_service_title">Use directory service</string>
   <string name="upload_and_verify_fraud_num_off">This feature has been closed</string>
   <string name="upload_and_verify_fraud_num_on">Share blocked telemarketer info</string>
+  <string name="uploads_disabled">File uploads are disabled</string>
   <string name="user_agreement2">" User agreement"</string>
   <string name="user_agreement4">Privacy policy</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By touching \"Agree\" you agree to Xiaomi's %1$s and %2$s."</string>

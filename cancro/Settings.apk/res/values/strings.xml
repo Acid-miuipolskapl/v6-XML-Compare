@@ -1845,6 +1845,8 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_long_press">Long press navigation buttons</string>
   <string name="screen_key_long_press_action">Trigger function</string>
   <string name="screen_key_long_press_timeout">Define long press time</string>
+  <string name="screen_key_press">Press navigation buttons</string>
+  <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">"Lock phone automatically when it's placed in a pocket"</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
@@ -2118,6 +2120,10 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_serialno">serial no</string>
   <string name="status_service_state">Service state</string>
   <string name="status_signal_strength">Signal strength</string>
+  <string name="status_sim">SIM Status</string>
+  <string name="status_sim_1">SIM1</string>
+  <string name="status_sim_2">SIM2</string>
+  <string name="status_summary">Tap to view details</string>
   <string name="status_unavailable">Unavailable</string>
   <string name="status_up_time">Up time</string>
   <string name="status_wifi_mac_address">WLAN MAC address</string>
@@ -2800,6 +2806,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">WLAN status</string>
   <string name="wifi_stopping">Turning off WLAN…</string>
+  <string name="wifi_subnet_mask">Subnet mask</string>
   <string name="wifi_suspend_optimizations">WLAN optimization</string>
   <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
   <string name="wifi_tether_checkbox_text">Portable hotspot</string>

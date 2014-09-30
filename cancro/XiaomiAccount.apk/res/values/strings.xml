@@ -70,6 +70,7 @@
   <string name="error_user_name">Invalid username</string>
   <string name="error_verify_code">The code you entered is incorrect</string>
   <string name="facebook">facebook</string>
+  <string name="failed_get_mibi_info">Failed to get the mi credit</string>
   <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="find_device_dspt">Lock or wipe this device remotely.</string>
   <string name="find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
@@ -79,6 +80,7 @@
   <string name="get_verify_code">Get code</string>
   <string name="getting_verify_code">Getting</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
+  <string name="hide_mibi_info">Mi credit info has been hidden</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter code</string>
   <string name="input_password_hint">Enter password</string>
@@ -98,6 +100,7 @@
   <string name="login_notice">Signing in…</string>
   <string name="login_step2_title">2-step verification</string>
   <string name="login_title">Sign in to your Mi Account</string>
+  <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account">Mi Account</string>
   <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>

@@ -91,6 +91,7 @@ For more info check the message you received from your service provider"</string
   <string name="input_aviable_traffic">Set data usage limit</string>
   <string name="input_traffic_pkg">Enter data usage</string>
   <string name="input_used_hint">Enter data usage</string>
+  <string name="input_used_max_hint">Enter data usage(less than %s)</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
   <string name="lock_screen_traffic_warn_title">Data usage warning</string>

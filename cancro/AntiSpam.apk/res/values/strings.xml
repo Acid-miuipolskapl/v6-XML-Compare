@@ -74,6 +74,10 @@
   <string name="dlg_add_keyword">Add keywords</string>
   <string name="dlg_add_manual_hint">Enter phone number</string>
   <string name="dlg_add_manual_ok">Add</string>
+  <string name="dlg_antispam_mode_delete_message">"You can't recover custom rules for blocklist after they've been deleted."</string>
+  <string name="dlg_antispam_mode_delete_title">Delete custom rules</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Delete the Blocklist profile you're currently using and switch to Blocklist's default profile? You can't reverse this action!"</string>
   <string name="dlg_bl_add_manual">Add number to blocklist</string>
   <string name="dlg_black_address_antispam_message">Add this location to blocklist?</string>
   <string name="dlg_black_antispam_hint">Blocklist</string>
@@ -109,6 +113,7 @@
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" and "</string>
   <string name="hint_antispam_mode_edit">Custom mode</string>
+  <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Block calls</string>
   <string name="info_antispam_phone_sms">Block messages and calls</string>
   <string name="info_antispam_sms">Block messages</string>

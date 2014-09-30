@@ -646,7 +646,7 @@ albums from anywhere.
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="impunity_declaration">Gallery may connect to network to provide service, including but not only Internet. Confirm to continue?</string>
+  <string name="impunity_declaration">Will you agree to connect the internet when you use gallery?</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_settings">Show network notice</string>
   <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>
