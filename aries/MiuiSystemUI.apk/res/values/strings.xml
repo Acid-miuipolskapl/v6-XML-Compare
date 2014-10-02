@@ -104,6 +104,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="headset_custom">Configure</string>
   <string name="headset_info">Tap to configure settings</string>
   <string name="headset_settings">Headphones connected</string>
+  <string name="hint_for_long_press_app_switch_key">Long pressing to show menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="label_view">View</string>
@@ -155,7 +156,8 @@ Use only the supplied charger."</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">No recent apps</string>
   <string name="status_bar_notification_inspect_item_title">App info</string>
-  <string name="status_bar_recent_guide_all">Slide up to close, slide down to lock</string>
+  <string name="status_bar_recent_guide_all">"Slide up to close
+Slide down to lock"</string>
   <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
   <string name="status_bar_recent_guide_top">Slide up to close</string>
   <string name="status_bar_recent_inspect_item_title">App info</string>

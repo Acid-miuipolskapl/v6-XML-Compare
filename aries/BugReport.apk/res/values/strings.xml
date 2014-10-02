@@ -16,6 +16,11 @@
   <string name="camera_problem3">Camera force quits</string>
   <string name="camera_problem4">"Can't switch between back and front cameras"</string>
   <string name="camera_problem5">Camera stops working</string>
+  <string name="cta_cancel">cancel</string>
+  <string name="cta_confirm">confirm</string>
+  <string name="cta_dialog_content">BugReport may connect to network to provide service, including but not only Internet. Confirm to continue?</string>
+  <string name="cta_dialog_title">Network notice</string>
+  <string name="cta_not_show_again">"Don't show again"</string>
   <string name="description">"If you don't see your issue in the common bugs, describe it here"</string>
   <string name="discard_draft_dialog_button_cancel">Stay here</string>
   <string name="discard_draft_dialog_button_discard">Discard</string>
@@ -66,6 +71,7 @@
   <string name="systemui">Notification shade</string>
   <string name="title_hot_problem">Common bugs</string>
   <string name="toast_description_required">You need write a description</string>
+  <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
   <string name="toast_feedback_pending_wlan">"Message will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>

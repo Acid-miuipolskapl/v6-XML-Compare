@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_baidusearch">Baidu search</string>
+  <string name="action_baidusearch">Baidu</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
@@ -37,6 +37,7 @@
   <string name="action_phone">Call</string>
   <string name="action_qrcode">QR code</string>
   <string name="action_screen_shot">Screenshot</string>
+  <string name="action_search">Search</string>
   <string name="action_send_text_message">SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
   <string name="action_share_to_miliao_wall">MiTalk</string>
@@ -168,8 +169,14 @@
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
   <string name="sdcard">SD card</string>
-  <string name="select_baidusearch">Baidu search</string>
-  <string name="select_baiduvoicesearch">Baidu voice search</string>
+  <string name="search_baidu_text">Baidu</string>
+  <string name="search_cancel_text">Cancel</string>
+  <string name="search_go_text">Text</string>
+  <string name="search_iciba_text">Iciba</string>
+  <string name="search_select_title">Search text</string>
+  <string name="search_taobao_text">TaoBao</string>
+  <string name="select_baidusearch">Baidu</string>
+  <string name="select_baiduvoicesearch">Baidu Voice</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
   <string name="select_direction">Directions</string>

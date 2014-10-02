@@ -946,6 +946,14 @@
         <item>SIM</item>
         <item>AKA</item>
     </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Show recent apps tray</item>
+        <item>Show menu</item>
+    </string-array>
+    <string-array name="screen_key_press_action_value">
+        <item>recent_panel</item>
+        <item>show_menu</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
         <item>Show recent apps tray</item>

@@ -19,6 +19,7 @@
   <string name="button_text_check">Check</string>
   <string name="button_text_later_reboot">Reboot later</string>
   <string name="button_text_reboot">Reboot now</string>
+  <string name="button_text_reboot_hm">After reboot</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading this update?</string>
   <string name="cancel_download_buton_text">Cancel</string>
@@ -147,6 +148,8 @@
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Comment</string>
+  <string name="update_downfull_no_info_sum">Unable to download,please check Update button.</string>
+  <string name="update_downfull_no_info_title">Unable to download</string>
   <string name="update_feedback">Update feedback</string>
   <string name="update_feedback_end">"You missed this week's four-grid"</string>
   <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
