@@ -1,4 +1,4 @@
-Tablet-XML-Compare
+v6-XML-Compare
 ==================
 
-Daily XML compare and diffs from MIUI Tablets version
+Daily XML compare and diffs for MIUI 6 Dev.
