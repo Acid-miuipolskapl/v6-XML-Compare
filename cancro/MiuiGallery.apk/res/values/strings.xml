@@ -473,7 +473,8 @@
   <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at i.mi.com.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
   <string name="cloud_media_set_set">Cloud</string>
-  <string name="cloud_owner_album_share_guide">Share this album with friends</string>
+  <string name="cloud_owner_album_share_guide">"Share this album
+with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_share_guide_message">"Share your photos with 
 friends. View and update your 
@@ -718,7 +719,8 @@ albums from anywhere.
   <string name="must_pick_file">Select an image</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="new_device_tips">Tap to view device</string>
+  <string name="new_device_tips">"Tap to view
+device"</string>
   <string name="no">No</string>
   <string name="no_albums_alert">No albums available</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems"</string>

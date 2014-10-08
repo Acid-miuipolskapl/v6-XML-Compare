@@ -41,9 +41,11 @@
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
   <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
 
-You can turn this feature on and off anytime in Settings."</string>
+You can turn this feature on and off anytime in Settings.
+"</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Something went wrong with our servers.</string>
@@ -144,6 +146,7 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="sync_dspt">Enable sync</string>
   <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, and more across all your Mi devices. You can also access them from any browser at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
 You can turn this feature on and off anythime in Settings.

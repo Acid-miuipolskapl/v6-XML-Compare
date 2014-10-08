@@ -52,7 +52,7 @@
   <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
   <string name="battery_desc_display">Battery used by the display and backlight</string>
   <string name="battery_desc_other_apps">Power consumed by other apps</string>
-  <string name="battery_desc_radio">Battery used by cell radio</string>
+  <string name="battery_desc_radio">Battery used by radio</string>
   <string name="battery_desc_standby">Battery used when phone is idle</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
   <string name="battery_desc_wifi">Battery used by Wi‑Fi</string>
@@ -220,7 +220,7 @@
   <string name="hints_need_quick_scan">Recommended quick scan</string>
   <string name="hints_no_info">No info</string>
   <string name="hints_permission_apps_count">%d apps</string>
-  <string name="hints_power_percent_title">Battery</string>
+  <string name="hints_power_percent_title">battery</string>
   <string name="hints_quick_cleanning">Cleaning…</string>
   <string name="hints_quick_cleanuping">Optimizing…</string>
   <string name="hints_quick_scanning">Scanning…</string>
@@ -310,7 +310,7 @@
   <string name="msg_update_error_code_no_newer_db">Up-to-date</string>
   <string name="msg_update_error_code_success">Update finished</string>
   <string name="msg_update_error_code_unknown_error">Unknown error</string>
-  <string name="never">Only once</string>
+  <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
   <string name="notification_summary_of_garbage_cleanup">Whoa there! Your trash is over %s.</string>
   <string name="notification_summary_of_low_memory">When memory is low, will not install new apps</string>
@@ -337,8 +337,8 @@
   <string name="power_cell">Cell standby</string>
   <string name="power_center_auto_shutdown">Schedule power on/off</string>
   <string name="power_center_auto_shutdown_summary">Power your device on or off at a scheduled time</string>
-  <string name="power_center_battery_full">Battery is fully charged</string>
-  <string name="power_center_charge_time">Charge will complete in %1$s</string>
+  <string name="power_center_battery_full">Battery fully charged</string>
+  <string name="power_center_charge_time">%1$suntil full</string>
   <string name="power_center_consume_rank">Battery use</string>
   <string name="power_center_consume_time">%1$sremaining</string>
   <string name="power_center_custom_summary_default">Improve battery life with custom profiles</string>
@@ -357,8 +357,8 @@
   <string name="power_center_time_to_boot">Power on time</string>
   <string name="power_center_time_to_shutdown">Power off time</string>
   <string name="power_center_title">Power</string>
-  <string name="power_chooser_check_box_summary">Apply a profile to improve battery life</string>
-  <string name="power_chooser_check_box_title">Apply profile</string>
+  <string name="power_chooser_check_box_summary">Choose a profile to improve battery life</string>
+  <string name="power_chooser_check_box_title">Choose profile</string>
   <string name="power_chooser_mine_summary">Add profile</string>
   <string name="power_chooser_mine_title">Custom</string>
   <string name="power_chooser_sleep_summary">Disable all network functions (calls, SMS, WLAN, and data services) except for alarm clock</string>
@@ -386,14 +386,14 @@
   <string name="power_customizer_smart_mode">Default</string>
   <string name="power_customizer_standby_mode">Marathon</string>
   <string name="power_customizer_user_define_mode">Name</string>
-  <string name="power_customizer_user_define_name">My battery profile</string>
+  <string name="power_customizer_user_define_name">My profile</string>
   <string name="power_customizer_user_define_summary">User defined settings</string>
   <string name="power_dialog_auto_clean_memory_summary">When device is locked, clear cached processes that are consuming power</string>
   <string name="power_dialog_auto_clean_memory_title">Clear cache when locked</string>
   <string name="power_dialog_cancel">Cancel</string>
   <string name="power_dialog_cpu_state_balance">Balance</string>
   <string name="power_dialog_cpu_state_balance_desc">Only increase CPU performance as needed</string>
-  <string name="power_dialog_cpu_state_performance">High performance</string>
+  <string name="power_dialog_cpu_state_performance">Performance</string>
   <string name="power_dialog_cpu_state_performance_desc">Make CPU performance a priority over battery life</string>
   <string name="power_dialog_cpu_state_save">Battery saving</string>
   <string name="power_dialog_cpu_state_save_desc">Make battery life a priority over CPU performance</string>
@@ -539,7 +539,7 @@
   <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-  <string name="process_kernel_label">Android OS</string>
+  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="protection_category_dangerous_title">Risks (%d)</string>
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
@@ -552,7 +552,7 @@
   <string name="root_apply_step_5">Grant %s root access?</string>
   <string name="root_apply_title">Important warning</string>
   <string name="score_pts">%</string>
-  <string name="st_title_mode_choose_group">Choose mode</string>
+  <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="suffix_virus_count_bottom">Total</string>
   <string name="suffix_virus_count_top">Risks</string>
   <string name="summary_dev">Prevent apps from accessing userdata</string>

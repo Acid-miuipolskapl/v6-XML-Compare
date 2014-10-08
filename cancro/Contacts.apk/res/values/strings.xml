@@ -700,7 +700,7 @@ To add a contact to your list of favorites:
   <string name="pickerNewContactText">Create new contact</string>
   <string name="picker_all_list_empty">No contacts</string>
   <string name="picker_contact_title">Choose a contact</string>
-  <string name="picker_email_title">Choose an email</string>
+  <string name="picker_email_title">Choose an email address</string>
   <string name="picker_favorites_list_empty">No favorites</string>
   <string name="picker_groups_list_empty">No groups</string>
   <string name="picker_join_title">Choose a contact to merge with %s</string>
@@ -792,7 +792,7 @@ To add a contact to your list of favorites:
   <string name="recentCalls_removeFromRecentList">Remove from call log</string>
   <string name="recentCalls_shareVoicemail">Share voicemail</string>
   <string name="recentCalls_trashVoicemail">Delete voicemail</string>
-  <string name="recent_contacts_label">Recent</string>
+  <string name="recent_contacts_label">Recents</string>
   <string name="recent_number">Recent</string>
   <string name="recent_updates">Recent updates</string>
   <string name="redirect_calls_to_vm_confirm_message">Before setting up your mailbox, check the terms and conditions of your contract with your mobile network provider.</string>
@@ -1001,7 +1001,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a contact shortcut</string>
   <string name="shortcutContact">Contact</string>
-  <string name="shortcutDialContact">Direct dial</string>
+  <string name="shortcutDialContact">"Direct dial "</string>
   <string name="shortcutMessageContact">Direct message</string>
   <string name="showAllContactsJoinItem">Show all contacts</string>
   <string name="simContacts_airplaneMode">To import contacts from SIM card, turn off Airplane mode</string>
