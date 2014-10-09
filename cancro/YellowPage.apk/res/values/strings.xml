@@ -171,6 +171,7 @@ Please check your tracking number."</string>
   <string name="gallery">Gallery</string>
   <string name="general_cancel_favorite_ok">Favorite removed</string>
   <string name="general_delete_recent_ok">Recently deleted</string>
+  <string name="general_favorite_ok">Favorite added</string>
   <string name="general_favorite_title">Favorites</string>
   <string name="general_menu_delete_recent">Delete recent</string>
   <string name="general_menu_unfavorite">Remove from favorites</string>
@@ -206,6 +207,7 @@ Please check your tracking number."</string>
   <string name="menu_enroll_in_yellow_page">Sign up for Mi Yellow Pages</string>
   <string name="menu_remove_black_list">Remove from blocklist</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
+  <string name="menu_save_contact">Save number to contact</string>
   <string name="minimum_price">From %d RMB</string>
   <string name="mishop_web_payment_title">Mi Store checkout</string>
   <string name="more_coupons">All coupons</string>

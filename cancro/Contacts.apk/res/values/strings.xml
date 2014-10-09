@@ -866,7 +866,7 @@ To add a contact to your list of favorites:
   <string name="resource_detail_comment_title">Comments</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
   <string name="resource_detail_jump_to_same_author_title">Same author</string>
-  <string name="resource_detail_recommend_desiner_other_themes">Other themes designed by %1$s</string>
+  <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s themes</string>
   <string name="resource_detail_recommend_other_themes">Users also liked</string>
   <string name="resource_detail_update_log_title">Updates</string>
@@ -1075,6 +1075,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>
   <string name="starred_contacts">Favorites</string>
+  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>

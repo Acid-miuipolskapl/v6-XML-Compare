@@ -227,7 +227,7 @@ To activate your account, follow the
   <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
   <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="update_contacts">Update address book</string>
-  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to your sync contacts across platforms</string>
+  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">Updated</string>
   <string name="user_agreement">User Agreement</string>

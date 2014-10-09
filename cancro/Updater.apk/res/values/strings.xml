@@ -138,9 +138,9 @@
   <string name="space_not_enough_title">Not enough space</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Submit</string>
-  <string name="submit_fail">Submit fail</string>
-  <string name="submit_progress">Submiting</string>
-  <string name="submit_success">Submit success</string>
+  <string name="submit_fail">"Couldn't send"</string>
+  <string name="submit_progress">Sending…</string>
+  <string name="submit_success">Sent</string>
   <string name="test">Test</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="top_secret_build">Top-secret</string>
