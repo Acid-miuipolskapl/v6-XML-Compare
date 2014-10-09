@@ -40,6 +40,7 @@
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Checking password…</string>
   <string name="checking_input">Checking…</string>
+  <string name="choose_which_one_sim">Choose a phone number</string>
   <string name="cloud_messaging">Mi Message</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="completed">Finish</string>
@@ -210,6 +211,7 @@ To activate your account, follow the
   <string name="service_error">Service error</string>
   <string name="show_password">Show password</string>
   <string name="sim_changed_notification_content">"SIM card hasn't been activated"</string>
+  <string name="sim_index_info">SIM card %1$d - %2$s</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip sign-in</string>
   <string name="skip_login_u">&lt;u&gt;Skip sign-in&lt;/u&gt;</string>
@@ -225,7 +227,7 @@ To activate your account, follow the
   <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
   <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="update_contacts">Update address book</string>
-  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to your sync contacts across platforms</string>
+  <string name="update_contacts_description">Let Sina Weibo use your Mi Account to sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">Updated</string>
   <string name="user_agreement">User Agreement</string>

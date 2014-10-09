@@ -104,8 +104,8 @@
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
   <string name="menu_patch_delete">Delete backups</string>
-  <string name="miliao_account_guide">"Create a Mi Account to enjoy all of Xiaomi's online services"</string>
-  <string name="miliao_account_login">Sign in with MiTalk</string>
+  <string name="miliao_account_guide">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
+  <string name="miliao_account_login">Sign in with Mi Talk</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="no_encrypt_password">No password</string>

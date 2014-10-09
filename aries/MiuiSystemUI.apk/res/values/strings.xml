@@ -87,14 +87,14 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="ext_media_badremoval_notification_title">USB storage removed unexpectedly</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
   <string name="ext_media_checking_notification_title">Preparing USB storage</string>
-  <string name="ext_media_mountable_notification_message">"Touch 'Go to Exlporer'"</string>
-  <string name="ext_media_mountable_notification_title">USB storage device is connected</string>
+  <string name="ext_media_mountable_notification_message">Touch to open in Explorer.</string>
+  <string name="ext_media_mountable_notification_title">USB storage device connected</string>
   <string name="ext_media_nofs_notification_message">USB storage blank or has unsupported filesystem.</string>
   <string name="ext_media_nofs_notification_title">Blank USB storage</string>
   <string name="ext_media_nomedia_notification_message">USB storage removed. Insert new media.</string>
   <string name="ext_media_nomedia_notification_title">Removed USB storage</string>
   <string name="ext_media_safe_remove">Safely remove</string>
-  <string name="ext_media_safe_unmount_notification_message">You can safely remove USB storage.</string>
+  <string name="ext_media_safe_unmount_notification_message">You can safely remove USB storage now.</string>
   <string name="ext_media_safe_unmount_notification_title">USB storage safe to remove</string>
   <string name="ext_media_unmountable_notification_message">USB storage damaged. You may have to reformat it.</string>
   <string name="ext_media_unmountable_notification_title">Damaged USB storage</string>
@@ -104,7 +104,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="headset_custom">Configure</string>
   <string name="headset_info">Tap to configure settings</string>
   <string name="headset_settings">Headphones connected</string>
-  <string name="hint_for_long_press_app_switch_key">Long pressing to show menu</string>
+  <string name="hint_for_long_press_app_switch_key">Long press to show menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="label_view">View</string>

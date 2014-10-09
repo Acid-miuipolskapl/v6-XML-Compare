@@ -591,7 +591,7 @@
   <string name="save_bookmark">bookmark</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file_already_exist_alert_message">A file with the same name already exists, do you want to overwrite it?</string>
-  <string name="save_file_already_exist_alert_title">Overwite file?</string>
+  <string name="save_file_already_exist_alert_title">Overwrite file?</string>
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
   <string name="save_to_bookmarks">Save to bookmarks</string>
