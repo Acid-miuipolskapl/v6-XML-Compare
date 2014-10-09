@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">Only use WLAN</string>
-  <string name="add_flow_fail_haveget_msg">Trial period has exipired.</string>
+  <string name="add_flow_fail_haveget_msg">Trial period has expired.</string>
   <string name="add_flow_fail_vip_msg">Xunlei download accelerator is on</string>
   <string name="add_flow_success_msg">%s added this month</string>
   <string name="all_downloads">All downloads</string>

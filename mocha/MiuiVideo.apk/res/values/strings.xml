@@ -8,7 +8,7 @@
   <string name="about_version_label">Version code</string>
   <string name="actor_colon">Actor: </string>
   <string name="add_favorite_success">Starred</string>
-  <string name="add_more_addons">Add more addons</string>
+  <string name="add_more_addons">Add addons</string>
   <string name="addon">" plugins"</string>
   <string name="addon_category">Addons</string>
   <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
@@ -41,7 +41,7 @@
   <string name="choice">"Editor's choice"</string>
   <string name="clarity_high">High</string>
   <string name="clarity_standard">Standard</string>
-  <string name="clarity_supper">Super</string>
+  <string name="clarity_supper">Higher</string>
   <string name="clarity_unknown">Unknown</string>
   <string name="clear_cache">Clear image cache</string>
   <string name="clear_cache_success">Cache cleared</string>
@@ -55,7 +55,7 @@
   <string name="comment_edit_et_hint">Enter a comment</string>
   <string name="comment_edit_start_hint">Touch stars to rate</string>
   <string name="comment_review_list_empty_hint">No comment</string>
-  <string name="connect_error">Connect error</string>
+  <string name="connect_error">"Can't connect to the network"</string>
   <string name="count_comment">%d ratings</string>
   <string name="count_comment_wan">%.2f0 thousand ratings</string>
   <string name="count_ge">%d items</string>
@@ -86,8 +86,8 @@
   <string name="dlna_name">Shared device</string>
   <string name="done">Done</string>
   <string name="download_add_success">Added to download queue</string>
-  <string name="download_error">Offline error</string>
-  <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
+  <string name="download_error">"Can't download file"</string>
+  <string name="download_file_fail">"Couldn't download file. Make sure there's enough space on your device's internal storage or SD card."</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
   <string name="download_is_in_tasklist">Download queue</string>
   <string name="download_is_success">Downloaded</string>
@@ -115,7 +115,7 @@
   <string name="hot_special">Specials</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">Import</string>
-  <string name="init">Init</string>
+  <string name="init">Starting…</string>
   <string name="install_comfirm">Tap to install</string>
   <string name="introduce">Summary</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
@@ -161,7 +161,7 @@
   <string name="offline">Offline</string>
   <string name="offline_alert_title">Optimize data usage</string>
   <string name="offline_alert_wifi">"To reduce your data usage, downloads have been paused and will resume when you're connected to WLAN."</string>
-  <string name="offline_max_promote">Waiting for cache, there are at most 2 caching tasks can be running at the same time.</string>
+  <string name="offline_max_promote">Waiting for other tasks to finish…</string>
   <string name="offline_no_source">"Can't view in offline mode"</string>
   <string name="offline_no_wifi">"You're not connected to WLAN. To download this video, enable \"Use mobile data connection\" in Settings."</string>
   <string name="offline_setting">Offline content</string>
@@ -171,7 +171,7 @@
   <string name="other_setting">Other</string>
   <string name="pause">Pause</string>
   <string name="percent_status">%.1f%%</string>
-  <string name="pick_addon_to_delete">choose items</string>
+  <string name="pick_addon_to_delete">Choose items</string>
   <string name="play">Play</string>
   <string name="play_his_empty_hint">Empty</string>
   <string name="play_history">Recently played</string>
@@ -207,7 +207,7 @@
   <string name="shared_devices">Shared devices</string>
   <string name="sina">Sina</string>
   <string name="souhu">Souhu</string>
-  <string name="source_error">Source get error</string>
+  <string name="source_error">"Can't find source"</string>
   <string name="start_addon">start addon</string>
   <string name="temp_play_history_button_label">Show Play history</string>
   <string name="tencent">Tencent</string>
@@ -256,7 +256,7 @@
   <string name="vp_content_description">Content description</string>
   <string name="vp_device_list">Device list</string>
   <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
-  <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
+  <string name="vp_download_file_fail">"Couldn't download file. Make sure there's enough space on your device's internal storage or SD card."</string>
   <string name="vp_error_get_play_url_back_to_continue">Failed to get play url, back to continue.</string>
   <string name="vp_exit">Exit</string>
   <string name="vp_full_high_definition">1080P</string>

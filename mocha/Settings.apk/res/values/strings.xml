@@ -1143,7 +1143,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="last_synced">Last synced %1$s</string>
   <string name="later">Reboot later</string>
   <string name="launch_count_label">Count</string>
-  <string name="launching_cit">Launching cit, please wait.</string>
+  <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
   <string name="led_colors_summary">Notifications</string>
