@@ -555,6 +555,9 @@ Enable floating windows?"</string>
   <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
+  <string name="cmcc_dm_settings_disable_summary">Disable auto boot</string>
+  <string name="cmcc_dm_settings_enable_summary">Enable auto boot</string>
+  <string name="cmcc_dm_settings_title">Device Management Permission</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
