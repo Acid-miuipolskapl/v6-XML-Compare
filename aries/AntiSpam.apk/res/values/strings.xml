@@ -44,7 +44,7 @@
   <string name="ad_update_time">Last update: %s</string>
   <string name="ad_update_time_unKnown">Last update: unknown</string>
   <string name="ad_update_title">Update automatically</string>
-  <string name="address_choose_hint">%1$s、%2$s and %3$d locations</string>
+  <string name="address_choose_hint">%1$s, %2$s, and %3$d</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="all_address_choose_hint">All locations</string>
   <string name="app_name">Blocklist</string>
@@ -151,7 +151,7 @@
   <string name="note_list_none">Empty</string>
   <string name="note_preference_delete">"Can't delete this rule while it's in use"</string>
   <string name="note_sms_none">Empty</string>
-  <string name="one_address_choose_hint">%s1 location</string>
+  <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked SMS sent from selected number?</string>
@@ -271,7 +271,7 @@
   <string name="toast_keyword_blank">You need to enter a keyword</string>
   <string name="toast_keyword_exist">Keyword added</string>
   <string name="toast_keyword_invalid">Invalid keyword</string>
-  <string name="two_address_choose_hint">%1$s, %2$s2 locations</string>
+  <string name="two_address_choose_hint">%1$s, %2$s</string>
   <string name="user_define_title">Add rules</string>
   <string name="whitelist_prefix_add_hint">Add all numbers with prefix to exceptions</string>
   <string name="wl_no_whitelist">No exceptions</string>

@@ -455,6 +455,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_not_set_summary">Not set</string>
   <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Dial</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">ICC card error</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Can't set during call"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
@@ -465,6 +466,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
   <string name="msim_sim_radio_off">Disabled</string>
+  <string name="msim_switch_data_conn_toast">Ensure the normal access to the Internet, network type has been changed to prefer 4G networks (prefer 3G networks), you can modify in the SIM info.</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
   <string name="name">Name</string>

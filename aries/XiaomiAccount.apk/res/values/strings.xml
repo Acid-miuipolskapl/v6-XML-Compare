@@ -7,8 +7,10 @@
   <string name="account_bind_devices">Active devices</string>
   <string name="account_bind_settings">Accounts</string>
   <string name="account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
-  <string name="account_dspt_provision"/>
+  <string name="account_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
+  <string name="account_dspt_provision2">Learn More</string>
   <string name="account_hint_text">Email address or phone number</string>
+  <string name="account_learn_more_title">Create a Mi Account</string>
   <string name="account_name">Account: %1$s</string>
   <string name="account_not_activated">"Account hasn't been activated"</string>
   <string name="account_sec_dspt"/>
@@ -43,6 +45,7 @@
   <string name="choose_which_one_sim">Choose a phone number</string>
   <string name="cloud_messaging">Mi Message</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
   <string name="completed">Finish</string>
   <string name="confirm">OK</string>
   <string name="confirm_unbind">confirm unbind?</string>
@@ -101,6 +104,7 @@
   <string name="login_notice">Signing in…</string>
   <string name="login_step2_title">2-step verification</string>
   <string name="login_title">Sign in to your Mi Account</string>
+  <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
   <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account">Mi Account</string>
   <string name="micloud_account_details">Account details</string>
@@ -220,6 +224,8 @@ To activate your account, follow the
   <string name="skip_setup_account_title">Skip setup</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
+  <string name="theme_store">MIUI Themes Store</string>
+  <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
   <string name="title_reg">Create an account</string>
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>

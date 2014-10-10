@@ -285,8 +285,8 @@ touch the Shutter button"</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hdr_type_entry_live">Live</string>
-  <string name="pref_camera_hdr_type_entry_normal">Normal</string>
+  <string name="pref_camera_hdr_type_entry_live">Live HDR</string>
+  <string name="pref_camera_hdr_type_entry_normal">Normal HDR</string>
   <string name="pref_camera_hdr_type_entryvalue_default">normal</string>
   <string name="pref_camera_hdr_type_entryvalue_live">live</string>
   <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
@@ -334,6 +334,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst shoot</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Long press Shutter button</string>
+  <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_movie_solid_default">true</string>
   <string name="pref_camera_movie_solid_title">Movie solid</string>
   <string name="pref_camera_movie_solid_value_off">false</string>
@@ -506,6 +507,8 @@ touch the Shutter button"</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
   <string name="pref_mtk_video_quality_default">10</string>
   <string name="pref_priority_storage_title">Save to SD card</string>
+  <string name="pref_qc_focus_position_title">Focus</string>
+  <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_scan_qrcode_default">true</string>
   <string name="pref_scan_qrcode_title">Scan QR codes</string>
   <string name="pref_setting_title">Settings</string>
@@ -591,6 +594,8 @@ touch the Shutter button"</string>
   <string name="simple_mode_button_text_fast_video">Close slow-motion camera</string>
   <string name="simple_mode_button_text_hand_night">Close Handheld twilight</string>
   <string name="simple_mode_button_text_hdr">Close HDR mode</string>
+  <string name="simple_mode_button_text_manual">Close Manual Mode</string>
+  <string name="simple_mode_button_text_manual_mode">Close manual</string>
   <string name="simple_mode_button_text_panorama">Close panorama</string>
   <string name="simple_mode_button_text_slow_video">Close fast-motion camera</string>
   <string name="simple_mode_button_text_ubifocus">Close Refocus Mode</string>
