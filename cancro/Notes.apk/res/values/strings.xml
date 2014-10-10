@@ -100,5 +100,5 @@
   <string name="unknown_source">Unknown source</string>
   <string name="widget_content_loading">Loading…</string>
   <string name="widget_havenot_content">No associated note found. Touch to create an associated note. To resize it, hold &amp; drag an edge.</string>
-  <string name="widget_under_visit_mode">"Can't view notes in Guest mode"</string>
+  <string name="widget_under_privacy_mode">"Can't view notes in Guest mode"</string>
 </resources>

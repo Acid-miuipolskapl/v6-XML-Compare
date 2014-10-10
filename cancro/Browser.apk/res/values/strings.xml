@@ -73,6 +73,10 @@
   <string name="autologin_bar_text">Sign in as</string>
   <string name="back">Back</string>
   <string name="block">Block</string>
+  <string name="block_ads_choice_block">Block</string>
+  <string name="block_ads_choice_continue">Continue</string>
+  <string name="block_ads_message">Do you want to block messages from this website?</string>
+  <string name="block_ads_title">Content may contain ads</string>
   <string name="bookmark_URL_already_exisit">"You've already bookmarked this URL"</string>
   <string name="bookmark_add_group_text_header">Add selected %1$d to group</string>
   <string name="bookmark_add_to">Add to</string>

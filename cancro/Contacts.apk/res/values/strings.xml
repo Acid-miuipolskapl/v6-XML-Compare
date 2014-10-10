@@ -355,6 +355,7 @@
   <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
+  <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
   <string name="export_to_sim_title">Exporting…</string>
   <string name="export_vcard_description">"Export vCard to phone's internal storage"</string>
@@ -428,6 +429,7 @@ Reason: \"%s\""</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
+  <string name="import_from_sim1">Import from SIM card 1</string>
   <string name="import_from_sim2">Import from SIM card 2</string>
   <string name="import_multiple_vcard_string">Import multiple vCard files</string>
   <string name="import_name">Name</string>
@@ -723,6 +725,7 @@ To add a contact to your list of favorites:
   <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
   <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
   <string name="pref_key_sim_manage">Configure SIM card</string>
+  <string name="pref_key_sim_manage1">Configure SIM card 1</string>
   <string name="pref_key_sim_manage2">Configure SIM card 2</string>
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import from account</string>
