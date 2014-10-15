@@ -716,4 +716,5 @@
         <item>@string/pref_camera_multiple_face_beauty_values_off</item>
         <item>@string/pref_camera_multiple_face_beauty_values_on</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_006c">false</item>
 </resources>
