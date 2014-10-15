@@ -103,6 +103,7 @@
   <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
   <string name="timer_message_with_seconds">%1$d seconds</string>
   <string name="timer_new_item">Customize</string>
+  <string name="timer_notify_text">Snooze or dismiss timer.</string>
   <string name="timer_start_alarm">"Time's up!"</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>

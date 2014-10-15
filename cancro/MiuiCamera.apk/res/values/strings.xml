@@ -33,6 +33,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Set your device on a stable surface,
  and step out of view for a moment"</string>
+  <string name="burst_shoot_exit_button_text">Close Burst Shoot</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
   <string name="camera_face_beauty_simple_mode_close">i:0</string>
@@ -51,6 +52,7 @@
   <string name="confirm_change_to_expert_mode_message">Switch to advanced mode?</string>
   <string name="confirm_change_to_simple_mode_message">Switch to simple mode?</string>
   <string name="confirm_location_message">Tag your pictures and videos with the locations where they where taken?</string>
+  <string name="confirm_location_title">Store location info</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="connect_wifi">Connect to this network</string>
@@ -174,7 +176,7 @@
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_enough_space">Internal storage is full</string>
   <string name="not_selectable_in_scene_mode">Not selectable in scene mode</string>
-  <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
+  <string name="object_track_enable_toast">Click on both ends of the object with two fingers to track it.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
@@ -198,6 +200,7 @@ touch the Shutter button"</string>
   <string name="pref_audio_indicator_entryvalue_default">off</string>
   <string name="pref_audio_indicator_entryvalue_off">off</string>
   <string name="pref_audio_indicator_entryvalue_on">on</string>
+  <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Camera settings</string>
   <string name="pref_camera_ae_bracket_hdr_default">Off</string>
@@ -496,6 +499,13 @@ touch the Shutter button"</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_face_beauty_default">i:0</string>
   <string name="pref_face_beauty_title">Skin tones</string>
+  <string name="pref_front_mirror_default">auto</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Off</string>
+  <string name="pref_front_mirror_entry_on">On</string>
+  <string name="pref_front_mirror_entryvalue_auto">auto</string>
+  <string name="pref_front_mirror_entryvalue_off">off</string>
+  <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_grp_advanced_settings">Advanced settings</string>
   <string name="pref_grp_capture_settings">Capture settings</string>
@@ -525,6 +535,7 @@ touch the Shutter button"</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
+  <string name="pref_video_quality_entry_value_4kuhd">12</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>

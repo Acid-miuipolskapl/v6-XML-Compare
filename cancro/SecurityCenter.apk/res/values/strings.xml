@@ -277,6 +277,8 @@
   <string name="menu_item_about_summary">Version: %s</string>
   <string name="menu_item_about_title">About</string>
   <string name="menu_item_app_details">Details</string>
+  <string name="menu_item_app_permissions_control">Permission manager</string>
+  <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">Force stop</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
@@ -324,11 +326,15 @@
   <string name="permission_action_accept">Accept</string>
   <string name="permission_action_prompt">Prompt</string>
   <string name="permission_action_reject">Deny</string>
+  <string name="permission_close_permission_control_dialog_msg">"When Permission manager is off, apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources."</string>
+  <string name="permission_close_permission_control_dialog_title">Disable Permission manager?</string>
   <string name="permission_group_title_charges_related">Charges</string>
   <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_others">Others</string>
   <string name="permission_group_title_privacy_related">Privacy</string>
   <string name="permission_group_title_settings_related">Settings</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
+  <string name="permission_permission_control_closed_desc_dialog_title">Permission manager is off</string>
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
   <string name="power_20s_enter_mode">At %1$ds battery switch to %2$s</string>
   <string name="power_apply_toast">Switched to %s</string>
@@ -509,8 +515,10 @@
   <string name="pref_title_garbage_cleanup_check_time">Trash alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Update now</string>
   <string name="preference_key_about_version">key_about_version</string>
+  <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
+  <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
@@ -524,6 +532,7 @@
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
   <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
   <string name="preference_key_module_network_assistant">key_network_assistant</string>
+  <string name="preference_key_module_permissions">key_module_permissions</string>
   <string name="preference_key_module_power_center">module_power_center</string>
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
@@ -552,6 +561,7 @@
   <string name="root_apply_step_5">Grant %s root access?</string>
   <string name="root_apply_title">Important warning</string>
   <string name="score_pts">%</string>
+  <string name="settings_title_permission">Permission settings</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="suffix_virus_count_bottom">Total</string>
   <string name="suffix_virus_count_top">Risks</string>

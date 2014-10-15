@@ -7,7 +7,7 @@
         <item>@string/pref_video_quality_entry_480p</item>
     </string-array>
     <string-array name="pref_video_quality_entryvalues">
-        <item>12</item>
+        <item>@string/pref_video_quality_entry_value_4kuhd</item>
         <item>6</item>
         <item>5</item>
         <item>4</item>
@@ -384,18 +384,18 @@
     </string-array>
     <array name="camera_scenemode_largeicons">
         <item>@android:color/transparent</item>
-        <item>@drawable/ic_camera_scenemode_auto</item>
-        <item>@drawable/ic_camera_scenemode_portrait</item>
-        <item>@drawable/ic_camera_scenemode_landscape</item>
-        <item>@drawable/ic_camera_scenemode_sports</item>
-        <item>@drawable/ic_camera_scenemode_night</item>
-        <item>@drawable/ic_camera_scenemode_night_portrait</item>
-        <item>@drawable/ic_camera_scenemode_beach</item>
-        <item>@drawable/ic_camera_scenemode_snow</item>
-        <item>@drawable/ic_camera_scenemode_sunset</item>
-        <item>@drawable/ic_camera_scenemode_firworks</item>
-        <item>@drawable/ic_camera_scenemode_backlight</item>
-        <item>@drawable/ic_camera_scenemode_flowers</item>
+        <item>@drawable/bg_scene_mode_auto</item>
+        <item>@drawable/bg_scene_mode_portrait</item>
+        <item>@drawable/bg_scene_mode_landscape</item>
+        <item>@drawable/bg_scene_mode_sports</item>
+        <item>@drawable/bg_scene_mode_night</item>
+        <item>@drawable/bg_scene_mode_night_portrait</item>
+        <item>@drawable/bg_scene_mode_beach</item>
+        <item>@drawable/bg_scene_mode_snow</item>
+        <item>@drawable/bg_scene_mode_sunset</item>
+        <item>@drawable/bg_scene_mode_fireworks</item>
+        <item>@drawable/bg_scene_mode_backlight</item>
+        <item>@drawable/bg_scene_mode_flowers</item>
     </array>
     <string-array name="pref_camera_iso_entries">
         <item>@string/pref_camera_iso_entry_auto</item>
@@ -439,14 +439,6 @@
         <item>800</item>
         <item>1600</item>
     </string-array>
-    <array name="frontcamera_iso_icons">
-        <item>@drawable/bg_iso_auto</item>
-        <item>@drawable/bg_iso_100</item>
-        <item>@drawable/bg_iso_200</item>
-        <item>@drawable/bg_iso_400</item>
-        <item>@drawable/bg_iso_800</item>
-        <item>@drawable/bg_iso_1600</item>
-    </array>
     <string-array name="pref_video_effect_entries">
         <item>@string/effect_none</item>
         <item>@string/effect_goofy_face_squeeze</item>
@@ -681,5 +673,15 @@
     <string-array name="pref_camera_setting_switch_entryvalues">
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
         <item>@string/pref_camera_setting_switch_entryvalue_on</item>
+    </string-array>
+    <string-array name="pref_front_mirror_entries">
+        <item>@string/pref_front_mirror_entry_auto</item>
+        <item>@string/pref_front_mirror_entry_on</item>
+        <item>@string/pref_front_mirror_entry_off</item>
+    </string-array>
+    <string-array name="pref_front_mirror_entryvalues">
+        <item>@string/pref_front_mirror_entryvalue_auto</item>
+        <item>@string/pref_front_mirror_entryvalue_on</item>
+        <item>@string/pref_front_mirror_entryvalue_off</item>
     </string-array>
 </resources>

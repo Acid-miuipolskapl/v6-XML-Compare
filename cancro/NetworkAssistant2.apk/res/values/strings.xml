@@ -146,7 +146,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="notification_title">%1$s-%2$s: about %3$s used</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
-  <string name="online_read">Reading</string>
+  <string name="online_read">News</string>
   <string name="online_songs">Music</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>

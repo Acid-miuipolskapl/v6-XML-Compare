@@ -175,6 +175,7 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
+  <string name="hms_add_image_progress_message">Processing. Please wait...</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="importing_progress_private_message">Importing messages…</string>
   <string name="in_sms">Message</string>
@@ -190,6 +191,8 @@
   <string name="loading_mms">Loading…</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="me">Me</string>
+  <string name="menu_add_black">Add Black</string>
+  <string name="menu_add_contact">Add Contact</string>
   <string name="menu_call">Call</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_contact">Contact</string>
@@ -197,7 +200,9 @@
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
   <string name="menu_lock">Lock</string>
+  <string name="menu_mark">Mark</string>
   <string name="menu_more">More</string>
+  <string name="menu_new_contact">New Contact</string>
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
@@ -507,6 +512,7 @@ Attempt made: %s."</string>
   <string name="user_agreement5">By touching OK, you agree to the terms outlined in these documents.</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>
+  <string name="view_hms_attachment_fail">Download image failed.</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
   <string name="wap_push_title">"[WAP Push] "</string>

@@ -55,6 +55,7 @@ In operator network, downloading will cost much."</string>
   <string name="preference_record_type_title">Recording type</string>
   <string name="preference_scenes">Setting for scenes</string>
   <string name="preference_silent_mode">Mute ring when recording</string>
+  <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="record_download">Download from Mi Cloud</string>
   <string name="record_download_activity">Recording downloader</string>
   <string name="record_download_complete">Complete</string>
