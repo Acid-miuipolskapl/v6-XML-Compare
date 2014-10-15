@@ -96,6 +96,7 @@
   <string name="internet_comm">Messaging services</string>
   <string name="license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="loading">Loading…</string>
+  <string name="loading_micloud_sync_data">Loading…</string>
   <string name="loading_mili_center">Loading…</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>

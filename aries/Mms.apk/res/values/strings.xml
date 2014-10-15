@@ -190,6 +190,8 @@
   <string name="loading_mms">Loading…</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="me">Me</string>
+  <string name="menu_add_black">Add Black</string>
+  <string name="menu_add_contact">Add Contact</string>
   <string name="menu_call">Call</string>
   <string name="menu_compose_new">Compose</string>
   <string name="menu_contact">Contact</string>
@@ -197,7 +199,9 @@
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
   <string name="menu_lock">Lock</string>
+  <string name="menu_mark">Mark</string>
   <string name="menu_more">More</string>
+  <string name="menu_new_contact">New Contact</string>
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>

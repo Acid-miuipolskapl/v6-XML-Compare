@@ -17,6 +17,7 @@
   <string name="mipay_bank_card_number_error">Please check your account number</string>
   <string name="mipay_bank_card_phone">Phone</string>
   <string name="mipay_bank_card_phone_hint">"Bank account's corresponding personal phone number"</string>
+  <string name="mipay_bank_card_quick_pass_alert">You can copy numbers from bank cards that support Instapay, by touching the card to the back of your device</string>
   <string name="mipay_bank_card_safe_info">This service is encrypted and authorized by Xiaomi and Bank</string>
   <string name="mipay_bank_card_support_list">Supported banks</string>
   <string name="mipay_bank_card_tail_number">Card no. %1$s</string>

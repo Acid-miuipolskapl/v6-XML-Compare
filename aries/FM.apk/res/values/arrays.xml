@@ -4,7 +4,7 @@
         <item>15 minutes</item>
         <item>30 minutes</item>
         <item>45 minutes</item>
-        <item>1 Hour</item>
+        <item>1 hour</item>
     </string-array>
     <string-array name="sleep_duration_values_seconds">
         <item>900</item>
@@ -140,7 +140,7 @@
     </string-array>
     <string-array name="presetlist_edit_category">
         <item>Rename</item>
-        <item>Auto-Select</item>
+        <item>Auto-select</item>
         <item>Delete</item>
     </string-array>
     <string-array name="regional_band_entries">
@@ -258,21 +258,21 @@
         <item>United States (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
     </string-array>
     <string-array name="rf_cfg">
-        <item>Get Current Station Parameters</item>
-        <item>Get Station Parameters Repeat 20 times</item>
+        <item>Get current station parameters</item>
+        <item>Get station parameters (repeat 20 times)</item>
         <item>Get Search station parameters</item>
-        <item>Get FM Band sweep parameters</item>
-        <item>Configure FM Search Parameters</item>
+        <item>Get FM band sweep parameters</item>
+        <item>Configure FM search parameters</item>
     </string-array>
     <string-array name="cfg_rf">
-        <item>Set FM RSSI Delta</item>
-        <item>Set Signal Threshold</item>
-        <item>RF Statistics</item>
+        <item>Set FM RSSI delta</item>
+        <item>Set signal threshold</item>
+        <item>RF statistics</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Select the option</item>
-        <item>Configure FM Search parameters</item>
-        <item>RF Statistics</item>
+        <item>Additional options</item>
+        <item>Configure FM search parameters</item>
+        <item>RF statistics</item>
     </string-array>
     <string-array name="freq_entries">
         <item>" "</item>

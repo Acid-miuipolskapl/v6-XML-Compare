@@ -114,6 +114,7 @@
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_recommend">"Editor's choice"</string>
   <string name="function_error">"Well, this is embarrassing! This feature isn't ready yet (we're working on it)."</string>
+  <string name="headset_settings">Headset settings</string>
   <string name="high_quality">Higher</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
@@ -142,7 +143,6 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Cancel</string>
   <string name="metered_play_toast">Using mobile data connection to stream</string>
-  <string name="mi_effect">Audio Settings</string>
   <string name="min_sleep_time">1</string>
   <string name="music_browser_label">Music</string>
   <string name="music_quality">Music quality</string>

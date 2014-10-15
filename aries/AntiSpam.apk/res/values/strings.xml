@@ -34,6 +34,7 @@
   <string name="SMS_MODENAME">Default blocklist</string>
   <string name="SMS_PREFIX">Prefix blocklist</string>
   <string name="SMSpass">Allow messages</string>
+  <string name="STRANGER_BLOCK">Stranger blocklist</string>
   <string name="ad_block_hint">%d blocked</string>
   <string name="ad_install_monitor">Inspect apps for adware</string>
   <string name="ad_install_monitor_hint">Check for adware when installing apps</string>
@@ -57,6 +58,7 @@
   <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
   <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Calls: %d</string>
+  <string name="button_to_setting">Settings</string>
   <string name="call_delete_hint">Delete all blocked calls from selected number?</string>
   <string name="cancle">Cancel</string>
   <string name="close_callwait">Off</string>
@@ -95,6 +97,7 @@
   <string name="dlg_import_blacklist">Adding to blocklist…</string>
   <string name="dlg_import_whitelist">Adding to exceptions…</string>
   <string name="dlg_keyword_ok">Save</string>
+  <string name="dlg_message_not_open_stranger_identify">You need to enable Identify unknown numbers in Phone &gt; Settings, before you can tag a number.</string>
   <string name="dlg_no_block">Unblock this number?</string>
   <string name="dlg_no_block_ok">Unblock</string>
   <string name="dlg_remove_address_blacklist">Remove this location from blocklist and restore related messages to inbox?</string>
@@ -106,6 +109,7 @@
   <string name="dlg_remove_whitelist_ing">Removing from exceptions…</string>
   <string name="dlg_retore">Restore to message inbox?</string>
   <string name="dlg_retore_ok">Restore</string>
+  <string name="dlg_title_not_open_stranger_identify">Enable Identify unknown numbers</string>
   <string name="dlg_white_address_antispam_message">Add this location to exceptions?</string>
   <string name="dlg_white_antispam_hint">Exceptions</string>
   <string name="dlg_white_antispam_message">Add this number to exceptions?</string>
@@ -122,6 +126,18 @@
   <string name="info_unantispam_sms">Allow messages</string>
   <string name="label_callwait">Call waiting</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Sales agent</string>
+  <string name="mark_agent_block">Marked as agent</string>
+  <string name="mark_express">Courier</string>
+  <string name="mark_express_block">Marked as courier</string>
+  <string name="mark_fraud">Fraud</string>
+  <string name="mark_fraud_block">Marked as fraud</string>
+  <string name="mark_meal">Food delivery</string>
+  <string name="mark_meal_block">Marked as food delivery</string>
+  <string name="mark_number_info">"
+Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_sell">Telemarketer</string>
+  <string name="mark_sell_block">Marked as telemarketer</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="menu_add">Add</string>
@@ -254,6 +270,7 @@
   <string name="st_title_man_editwhitelist">Choose an location code to add to exceptions</string>
   <string name="st_title_man_head_addblacklist">Add phone number prefix to blocklist</string>
   <string name="st_title_man_head_addwhitelist">Add phone number prefix to exceptions</string>
+  <string name="st_title_markednumber_group">Marked number blocklist</string>
   <string name="st_title_mode_choose_group">Blocklist rules</string>
   <string name="st_title_not_sim">Empty</string>
   <string name="st_title_open_antispam">Blocklist</string>

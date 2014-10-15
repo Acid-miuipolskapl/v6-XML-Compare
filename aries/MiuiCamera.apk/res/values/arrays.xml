@@ -678,4 +678,5 @@
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
         <item>@string/pref_camera_setting_switch_entryvalue_on</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_0065">false</item>
 </resources>
