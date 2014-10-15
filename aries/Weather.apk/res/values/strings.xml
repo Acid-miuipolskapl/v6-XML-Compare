@@ -22,6 +22,7 @@
   <string name="activity_main_update_time_right_now">Just Now</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Locating…</string>
+  <string name="activity_weathermain_locationg_error">Fail to locate</string>
   <string name="add_city">Add</string>
   <string name="app_label">Weather Provider</string>
   <string name="app_name">Weather</string>

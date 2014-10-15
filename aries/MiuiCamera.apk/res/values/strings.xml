@@ -51,6 +51,7 @@
   <string name="confirm_change_to_expert_mode_message">Switch to advanced mode?</string>
   <string name="confirm_change_to_simple_mode_message">Switch to simple mode?</string>
   <string name="confirm_location_message">Tag your pictures and videos with the locations where they where taken?</string>
+  <string name="confirm_location_title">Store location info</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="connect_wifi">Connect to this network</string>
@@ -496,6 +497,13 @@ touch the Shutter button"</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_face_beauty_default">i:0</string>
   <string name="pref_face_beauty_title">Skin tones</string>
+  <string name="pref_front_mirror_default">auto</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Off</string>
+  <string name="pref_front_mirror_entry_on">On</string>
+  <string name="pref_front_mirror_entryvalue_auto">auto</string>
+  <string name="pref_front_mirror_entryvalue_off">off</string>
+  <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_grp_advanced_settings">Advanced settings</string>
   <string name="pref_grp_capture_settings">Capture settings</string>

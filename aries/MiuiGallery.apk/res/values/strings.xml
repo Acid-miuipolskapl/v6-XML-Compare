@@ -709,6 +709,7 @@ albums from anywhere.
   <string name="mimetype">MIME type</string>
   <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
+  <string name="miui_wallpaper">Wallpaper</string>
   <string name="modified_time">Modified</string>
   <string name="more">More</string>
   <string name="move">Move</string>
@@ -942,6 +943,7 @@ device"</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
   <string name="wallpaper">Home screen wallpaper</string>
+  <string name="wandoujia">SnapPea</string>
   <string name="warn">Warning</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>

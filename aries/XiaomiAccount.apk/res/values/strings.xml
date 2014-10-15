@@ -4,7 +4,7 @@
   <string name="access_token_expired_warning">Weibo Account has expired</string>
   <string name="access_token_invalid_warning">Weibo Account is invalid</string>
   <string name="account">Account</string>
-  <string name="account_bind_devices">Active devices</string>
+  <string name="account_bind_devices">Devices</string>
   <string name="account_bind_settings">Accounts</string>
   <string name="account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="account_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
@@ -186,7 +186,7 @@ To activate your account, follow the
   <string name="quick_login_step2_title">2-step verification</string>
   <string name="quick_login_title">Enter your password</string>
   <string name="re_get_verify_code">Get code again</string>
-  <string name="re_register">Sign up again</string>
+  <string name="re_register">Create Mi Account</string>
   <string name="reg_by_email_failure">"Couldn't set up account %1$s"</string>
   <string name="reg_failed">"Can't set up account"</string>
   <string name="reg_sms_send_prompt">Send verification code to %s</string>
@@ -220,7 +220,7 @@ To activate your account, follow the
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip sign-in</string>
   <string name="skip_login_u">&lt;u&gt;Skip sign-in&lt;/u&gt;</string>
-  <string name="skip_register">Skip Sign-up</string>
+  <string name="skip_register">Skip</string>
   <string name="skip_setup_account_msg">You can set up a Mi Account later in Settings.</string>
   <string name="skip_setup_account_title">Skip setup</string>
   <string name="sync_off">Off</string>
@@ -256,6 +256,6 @@ To activate your account, follow the
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
   <string name="wrong_captcha">The code you entered is incorrect</string>
-  <string name="wrong_phone_number_format">The format of the phone number you entered is invalid</string>
+  <string name="wrong_phone_number_format">The phone number you entered is invalid</string>
   <string name="wrong_vcode">The verification code you entered is incorrect</string>
 </resources>

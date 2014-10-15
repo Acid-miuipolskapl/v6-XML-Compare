@@ -940,6 +940,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
+  <string name="experimental_build">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
