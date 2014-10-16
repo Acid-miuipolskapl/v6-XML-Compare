@@ -63,7 +63,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
-  <string name="account_autostar_label">Autostart management</string>
+  <string name="account_autostar_label">Autostart</string>
   <string name="account_list">All</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
@@ -145,10 +145,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
   <string name="app_feedback">Report bug</string>
-  <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
-Disable floating windows?"</string>
-  <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
-Enable floating windows?"</string>
+  <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
+  <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
@@ -871,7 +869,7 @@ This setting affects all users on this phone."</string>
   <string name="dolby_bassboost_normal">Normal</string>
   <string name="dolby_bassboost_title">Bass:</string>
   <string name="dolby_effects">Dolby effects</string>
-  <string name="dolby_eq_enter_alert_msg">You can only use the EQ in Dolby music mode. Enable it now?</string>
+  <string name="dolby_eq_enter_alert_msg">Turn on Dolby music mode to use EQ?</string>
   <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="dolby_mode_movie">Video</string>
   <string name="dolby_mode_music">Music</string>
@@ -908,7 +906,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_service_title">Use %1$s?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
@@ -957,8 +955,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="finish_application">OK</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
-  <string name="floating_window_switch_label">Enable floating windows</string>
-  <string name="floating_window_switch_label_disable">Disable floating windows</string>
+  <string name="floating_window_switch_label">Turn on floating windows</string>
+  <string name="floating_window_switch_label_disable">Turn off floating windows</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -997,8 +995,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_speed_title">Slow connection?</string>
   <string name="free_wifi_summary">Tap to connect to %1$s.</string>
   <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
-  <string name="free_wifi_user_agreement_allow">Agree</string>
-  <string name="free_wifi_user_agreement_title">Terms of Use</string>
+  <string name="free_wifi_user_agreement_allow">Allow</string>
+  <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
@@ -1445,18 +1443,18 @@ Select your operating system:"</string>
   <string name="msg_wlan_signal_found">Connect to %s?</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
-  <string name="multi_touch_points_preference">Reboot to enable</string>
-  <string name="music_audio_effect_settings">Audio effect settings</string>
-  <string name="music_dirac_mode_earbuds">Mi earbuds</string>
+  <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
+  <string name="music_audio_effect_settings">Effects settings</string>
+  <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">General</string>
-  <string name="music_dirac_mode_general_earbuds">General earbuds</string>
-  <string name="music_dirac_mode_general_inear">General inear</string>
-  <string name="music_dirac_mode_in_ear">Mi in-ear headphones</string>
-  <string name="music_dirac_mode_piston_100">Mi piston-1</string>
-  <string name="music_dirac_mode_piston_2">Mi piston-2</string>
-  <string name="music_dirac_mode_piston_youth">Mi piston-youth</string>
+  <string name="music_dirac_mode_general_earbuds">General</string>
+  <string name="music_dirac_mode_general_inear">General In-Ear</string>
+  <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_piston_100">Mi Piston-1</string>
+  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
+  <string name="music_dirac_mode_piston_youth">Mi Youth</string>
   <string name="music_equalizer">Equalizer</string>
-  <string name="music_headphone_settings">Headphone type settings</string>
+  <string name="music_headphone_settings">Choose headphone type</string>
   <string name="music_headset_button_settings">Assign buttons</string>
   <string name="music_headset_calibrate">Assign buttons</string>
   <string name="music_headset_calibrate_apply">Use</string>
@@ -1600,10 +1598,10 @@ Select your operating system:"</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
-  <string name="preferred_app_settings">Default apps</string>
+  <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
-  <string name="preferred_app_settings_reset">Restore default apps?</string>
-  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI presets.</string>
+  <string name="preferred_app_settings_reset">Restore defaults</string>
+  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI factory presets.</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put phone contents at risk. Use %2$s instead.</string>
   <string name="preferred_application_warning_replace">Replace</string>
@@ -2155,7 +2153,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="sync_calendar">Calendar</string>
   <string name="sync_contacts">Contacts</string>
   <string name="sync_disabled">Sync is OFF</string>
-  <string name="sync_enable">Enable auto sync</string>
+  <string name="sync_enable">Sync</string>
   <string name="sync_enabled">Sync is ON</string>
   <string name="sync_error">Sync error</string>
   <string name="sync_failed">Sync failed</string>
@@ -2675,7 +2673,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Avoid poor connections</string>
   <string name="wifi_poor_network_detection_summary">"Don't use a WLAN network unless it has a good connection"</string>
-  <string name="wifi_priority_changed" formatted="false">Old priority value = %s | New value = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Old value %s | New value %s</string>
   <string name="wifi_priority_label">Priority</string>
   <string name="wifi_priority_settings_label">Priority settings</string>
   <string name="wifi_priority_settings_summary">Tap to set priority for each access point</string>
