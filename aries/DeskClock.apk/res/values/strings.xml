@@ -82,7 +82,7 @@
   <string name="shutdown_alarm_enable_summary">Shutdown alarm is on</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">Silent</string>
-  <string name="slider_text">Slide up to close</string>
+  <string name="slider_text">Swipe up to silence</string>
   <string name="snooze_confirm_cancel">Cancel snooze</string>
   <string name="snooze_duration_title">Snooze duration</string>
   <string name="snooze_message">Snooze for %d mins</string>
@@ -95,14 +95,14 @@
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>
-  <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
-  <string name="timer_item_label_hint">Timer label</string>
+  <string name="timer_item_duration_display">%1$d min %2$d sec</string>
+  <string name="timer_item_label_hint">Timer name</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sec</string>
   <string name="timer_message">%1$d minutes</string>
   <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
   <string name="timer_message_with_seconds">%1$d seconds</string>
-  <string name="timer_new_item">Customize</string>
+  <string name="timer_new_item">Add timer</string>
   <string name="timer_notify_text">Snooze or dismiss timer.</string>
   <string name="timer_start_alarm">"Time's up!"</string>
   <string name="timer_title">Timer</string>

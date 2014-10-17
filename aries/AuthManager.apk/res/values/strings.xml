@@ -195,7 +195,7 @@ Note: Apps with the permission may cause system instability, even loss of person
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps can use WLAN to connect to the internet</string>
   <string name="HIPS_Perm_WIFI_Connectivity">WLAN</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">App can turn on WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s apps App can turn on WLAN</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s apps can turn on WLAN</string>
   <string name="HIPS_Perm_Wakelock">Sleep</string>
   <string name="HIPS_Perm_Wakelock_Desc">App can prevent device from going to sleep</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s app can prevent device from going to sleep</string>

@@ -37,6 +37,14 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+    </string-array>
     <array name="preloaded_drawables">
         <item>@drawable/btn_default_pressed_holo_light</item>
         <item>@drawable/btn_default_normal_holo_light</item>
@@ -128,14 +136,6 @@
         <item>@drawable/edit_text</item>
     </array>
     <array name="preloaded_color_state_lists" />
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
-    </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>46000</item>
         <item>46001</item>
