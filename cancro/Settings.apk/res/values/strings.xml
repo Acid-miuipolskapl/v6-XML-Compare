@@ -2085,7 +2085,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Enable on lock screen</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_show_carrier">Show service provider</string>
@@ -2094,8 +2094,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-  <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
+  <string name="status_bar_settings_show_statusBar_notification">Show on lock screen and in drop down</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Show notifications on lock screen and in drop down preview</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
