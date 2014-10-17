@@ -87,7 +87,7 @@
   <string name="favorite_photo">Photos</string>
   <string name="favorite_ringtone">Ringtones</string>
   <string name="favorite_screen_cap">Screenshots</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">File saved to \"%1$s\"</string>
   <string name="file_info_canread">Readable:</string>
   <string name="file_info_canwrite">Writable:</string>
@@ -266,15 +266,15 @@ Free space added %1$s"</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
-  <string name="sys_size_enable">Enable</string>
+  <string name="sys_size_enable">" available"</string>
   <string name="system_alert">Remind</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
-  <string name="tab_path">Path</string>
+  <string name="tab_path">FOLDERS</string>
   <string name="terabyteShort">TB</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
-  <string name="tools">Tools</string>
+  <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
   <string name="transing">Sending</string>
   <string name="trash_box_capacity">Recycle bin %1$s</string>

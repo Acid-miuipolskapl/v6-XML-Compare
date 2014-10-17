@@ -41,7 +41,7 @@ All user data will be saved."</string>
   <string name="perm_action_prompt">Ask</string>
   <string name="perm_action_reject">Deny</string>
   <string name="permission_warn_hint">该应用将获得如下权限：</string>
-  <string name="permission_warn_title">从非官方来源安装应用可能存在风险</string>
+  <string name="permission_warn_title">从小米非官方来源安装应用可能存在风险</string>
   <string name="privacy_relative">Privacy permissions</string>
   <string name="progress_verifying">正在进行安全检查…</string>
   <string name="safe_relative">Safety permissions</string>

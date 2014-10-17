@@ -63,7 +63,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
-  <string name="account_autostar_label">Autostart management</string>
+  <string name="account_autostar_label">Autostart</string>
   <string name="account_list">All</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
@@ -145,10 +145,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
   <string name="app_feedback">Report bug</string>
-  <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app.
-Disable floating windows?"</string>
-  <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires the app to restart. You can also stop running the app manually.
-Enable floating windows?"</string>
+  <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
+  <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
@@ -869,7 +867,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="dolby_bassboost_normal">Normal</string>
   <string name="dolby_bassboost_title">Bass:</string>
   <string name="dolby_effects">Dolby effects</string>
-  <string name="dolby_eq_enter_alert_msg">You can only use the EQ in Dolby music mode. Enable it now?</string>
+  <string name="dolby_eq_enter_alert_msg">Turn on Dolby music mode to use EQ?</string>
   <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="dolby_mode_movie">Video</string>
   <string name="dolby_mode_music">Music</string>
@@ -906,7 +904,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Car mode</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Enable mobile data connection too?</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_service_title">Use %1$s?</string>
   <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
@@ -938,6 +936,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
+  <string name="experimental_build">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">SD card</string>
   <string name="factory_reset_summary">"Erase all data from your tablet's internal storage"</string>
@@ -954,8 +953,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="finish_application">OK</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
-  <string name="floating_window_switch_label">Enable floating windows</string>
-  <string name="floating_window_switch_label_disable">Disable floating windows</string>
+  <string name="floating_window_switch_label">Turn on floating windows</string>
+  <string name="floating_window_switch_label_disable">Turn off floating windows</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -994,8 +993,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_speed_title">Slow connection?</string>
   <string name="free_wifi_summary">Tap to connect to %1$s.</string>
   <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
-  <string name="free_wifi_user_agreement_allow">Agree</string>
-  <string name="free_wifi_user_agreement_title">Terms of Use</string>
+  <string name="free_wifi_user_agreement_allow">Allow</string>
+  <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
@@ -1489,7 +1488,7 @@ Select your operating system:"</string>
   <string name="msg_wlan_signal_found">Connect to %s?</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
-  <string name="multi_touch_points_preference">Reboot to enable</string>
+  <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
   <string name="music_audio_effect_settings">Audio effect settings</string>
   <string name="music_dirac_mode_earbuds">Mi earbuds</string>
   <string name="music_dirac_mode_general">General</string>
@@ -1644,10 +1643,10 @@ Select your operating system:"</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
-  <string name="preferred_app_settings">Default apps</string>
+  <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
-  <string name="preferred_app_settings_reset">Restore default apps?</string>
-  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI presets.</string>
+  <string name="preferred_app_settings_reset">Restore defaults</string>
+  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI factory presets.</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put tablet contents at risk. Use %2$s instead.</string>
   <string name="preferred_application_warning_replace">Replace</string>
@@ -2075,7 +2074,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
   <string name="skip_label">Skip</string>
-  <string name="skip_step">Skip this step</string>
+  <string name="skip_step">Skip</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
   <string name="sms_application_title">Default SMS app</string>
@@ -2131,7 +2130,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Enable on lock screen</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_show_carrier">Show service provider</string>
@@ -2140,8 +2139,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-  <string name="status_bar_settings_show_statusBar_notification">Show in keyguard</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Notification will appear top of screen and automatically disappear</string>
+  <string name="status_bar_settings_show_statusBar_notification">Show on lock screen and in drop down</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Show notifications on lock screen and in drop down preview</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
@@ -2199,7 +2198,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="sync_calendar">Calendar</string>
   <string name="sync_contacts">Contacts</string>
   <string name="sync_disabled">Sync is OFF</string>
-  <string name="sync_enable">Enable auto sync</string>
+  <string name="sync_enable">Sync</string>
   <string name="sync_enabled">Sync is ON</string>
   <string name="sync_error">Sync error</string>
   <string name="sync_failed">Sync failed</string>
@@ -2588,16 +2587,16 @@ Add a word by touching the Add (+) button"</string>
   <string name="wallpaper_settings_title">Wallpaper</string>
   <string name="welcome">Welcome</string>
   <string name="wfd_available_devices">Available devices</string>
-  <string name="wfd_disconnect_diag_msg">If you stop the WLAN display session, your connection to %1$s will be terminated.</string>
-  <string name="wfd_disconnect_diag_title">Tear down session?</string>
-  <string name="wfd_disconnect_multiple_diag_message">If you stop the WLAN display session, your connection to %1$s and %2$s other devices will be terminated.</string>
-  <string name="wfd_enable_wifi_diag_title">You can only use WLAN Display when WLAN is enabled. Enable it now?</string>
-  <string name="wfd_enabler_title">Enable WLAN display</string>
+  <string name="wfd_disconnect_diag_msg">Your connection to %1$s will be terminated.</string>
+  <string name="wfd_disconnect_diag_title">Disconnect display?</string>
+  <string name="wfd_disconnect_multiple_diag_message">Your connection to %1$s and %2$s other devices will be terminated.</string>
+  <string name="wfd_enable_wifi_diag_title">Turn on WLAN?</string>
+  <string name="wfd_enabler_title">Enable Wireless display</string>
   <string name="wfd_menu_search">Search for devices</string>
   <string name="wfd_menu_searching">Searching…</string>
   <string name="wfd_menu_teardown">Stop</string>
-  <string name="wfd_settings_description">Connect to display via WLAN</string>
-  <string name="wfd_settings_title">WLAN display</string>
+  <string name="wfd_settings_description">Connect to a display using WLAN</string>
+  <string name="wfd_settings_title">Wireless display</string>
   <string name="wfd_wps_keypad">Push button preferred</string>
   <string name="wfd_wps_pbc">Prefer to input PIN</string>
   <string name="widget_picker_title">Choose widget</string>
@@ -2690,7 +2689,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_more_options">More options</string>
   <string name="wifi_menu_p2p">WLAN Direct</string>
   <string name="wifi_menu_scan">Scan</string>
-  <string name="wifi_menu_wfd">WLAN display</string>
+  <string name="wifi_menu_wfd">Wireless display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
   <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
   <string name="wifi_more">More</string>
@@ -2721,7 +2720,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Avoid poor connections</string>
   <string name="wifi_poor_network_detection_summary">"Don't use a WLAN network unless it has a good connection"</string>
-  <string name="wifi_priority_changed" formatted="false">Old priority value = %s | New value = %s</string>
+  <string name="wifi_priority_changed" formatted="false">Old value %s | New value %s</string>
   <string name="wifi_priority_label">Priority</string>
   <string name="wifi_priority_settings_label">Priority settings</string>
   <string name="wifi_priority_settings_summary">Tap to set priority for each access point</string>
