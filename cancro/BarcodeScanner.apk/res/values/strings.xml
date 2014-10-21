@@ -3,7 +3,7 @@
   <string name="accept">OK</string>
   <string name="add_to_contacts">Add to contacts</string>
   <string name="address">Address:</string>
-  <string name="allow_check_website_security">Make sure websites are safe before connecting</string>
+  <string name="allow_check_website_security">"Verify linked website's security"</string>
   <string name="app_details">App details:</string>
   <string name="app_name">Scanner</string>
   <string name="back">Back</string>

@@ -180,7 +180,6 @@
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
-  <string name="pano_dialog_prepare_preview">Preparing panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>

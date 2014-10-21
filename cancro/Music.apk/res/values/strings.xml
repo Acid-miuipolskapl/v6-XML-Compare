@@ -149,7 +149,7 @@
   <string name="music_settings">Music</string>
   <string name="my_account">Mi Account</string>
   <string name="my_music">Local</string>
-  <string name="my_music_empty">. Your playlist is empty! Add songs from the Online tab.</string>
+  <string name="my_music_empty">No songs in playlist</string>
   <string name="my_playlist">My playlist</string>
   <string name="network_error">"Can't connect to the network"</string>
   <string name="network_failure">"Can't connect to the network. Check your data connection and try again."</string>
