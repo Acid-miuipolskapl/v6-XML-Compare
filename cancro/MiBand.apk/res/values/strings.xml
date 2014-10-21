@@ -393,12 +393,12 @@ It is about 12000 steps of walk."</string>
   <string name="point">points</string>
   <string name="points_exchange">Reward credits</string>
   <string name="prev_step">Previous</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">加载更多</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
   <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-  <string name="pull_to_refresh_pull_label">下拉刷新</string>
-  <string name="pull_to_refresh_refreshing_label">正在加载…</string>
-  <string name="pull_to_refresh_release_label">松开加载</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh</string>
+  <string name="pull_to_refresh_refreshing_label">Refreshing...</string>
+  <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="ran">ran </string>
   <string name="red">Red</string>
   <string name="register">Sign up</string>
@@ -426,7 +426,8 @@ It is about 12000 steps of walk."</string>
   <string name="set_mili_name_ok">New name saved.</string>
   <string name="set_person_goal">Set Goal</string>
   <string name="set_sport_goal">Set Goal</string>
-  <string name="setting_about_app">App version </string>
+  <string name="setting_about_app">"App version: 
+ Tweaked by dezmen3"</string>
   <string name="setting_about_fw">Firmware version </string>
   <string name="setting_feedback_address">How can we reach you?</string>
   <string name="setting_feedback_hint">Thanks for your time. Your feedback is important to us.</string>
