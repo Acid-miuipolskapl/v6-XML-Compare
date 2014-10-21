@@ -47,6 +47,9 @@
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
   <string name="app_label">System UI</string>
+  <string name="audio_effect_custom">Configure</string>
+  <string name="audio_effect_info">Optimize audio</string>
+  <string name="audio_effect_settings">Set headphones type</string>
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_subtitle">The battery is getting low.</string>
   <string name="battery_low_title">Connect charger</string>
@@ -134,6 +137,10 @@ Use only the supplied charger."</string>
   <string name="notification_otg_trackball_out">Trackball disconnected</string>
   <string name="notification_otg_unknow_in">OTG device connected</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
+  <string name="oldman_airplane_mode_text">airplane</string>
+  <string name="oldman_incall_text">incall</string>
+  <string name="oldman_status_bar_time_format_12">h:mm</string>
+  <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Rejecting call</string>
   <string name="return_to_incall_screen">Return to call</string>
   <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>

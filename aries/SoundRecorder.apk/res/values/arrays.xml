@@ -63,8 +63,8 @@
         <item>AMR</item>
     </string-array>
     <string-array name="record_scenes_entries">
-        <item>For music</item>
-        <item>For human voice</item>
+        <item>Music</item>
+        <item>Voice</item>
     </string-array>
     <string-array name="record_scenes_values">
         <item>1</item>

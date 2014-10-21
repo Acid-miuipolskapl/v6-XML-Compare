@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_fraud_num_online_identification">About this feature</string>
+  <string name="about_fraud_num_online_identification">About block telemarketers</string>
   <string name="about_smart_antispam_summary">About this feature</string>
   <string name="about_telephone_fraud">Watch out for fraud</string>
   <string name="account_address">Addresses</string>

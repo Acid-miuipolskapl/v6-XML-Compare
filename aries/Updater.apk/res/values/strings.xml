@@ -97,10 +97,10 @@
   <string name="notification_downloading">Downloading update…</string>
   <string name="notification_new_version">Update to %s</string>
   <string name="notification_reboot_btn">Reboot</string>
-  <string name="notification_reboot_des">Reboot your device to update %s.</string>
+  <string name="notification_reboot_des">Reboot to update to %s.</string>
   <string name="notification_reboot_seccess_des">Tap to share update info.</string>
-  <string name="notification_reboot_seccess_title">Device updated!</string>
-  <string name="notification_reboot_title">Update complete</string>
+  <string name="notification_reboot_seccess_title">Device updated</string>
+  <string name="notification_reboot_title">Reboot to apply update</string>
   <string name="notification_share">Share</string>
   <string name="notification_update_new_version">Update available</string>
   <string name="notification_update_now">Update now</string>

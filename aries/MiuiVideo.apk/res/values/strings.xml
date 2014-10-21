@@ -73,9 +73,9 @@
   <string name="count_ge_result">%d results</string>
   <string name="count_ji_quan">All %d Eps</string>
   <string name="day">Day</string>
-  <string name="declaration">Terms of Use</string>
-  <string name="declaration_content">By using this service, you agree to the &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt; of Sohu Video, iQiyi, and other content providers.</string>
-  <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
+  <string name="declaration">Terms of Service</string>
+  <string name="declaration_content">"By using this service, you are agreeing to Sohu Video, iQiyi, and other content providers' "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt;.</string>
+  <string name="declaration_content_td_custom">"Some of this app's features require an internet connection to function normally."</string>
   <string name="defaults">Default</string>
   <string name="delete">Delete</string>
   <string name="delete_addon">Delete</string>
