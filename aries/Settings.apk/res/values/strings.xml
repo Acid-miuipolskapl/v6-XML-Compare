@@ -1174,9 +1174,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_high_battery_use">High battery use</string>
   <string name="location_loading_injected_setting">Retrieving…</string>
   <string name="location_low_battery_use">Low battery use</string>
-  <string name="location_mode_battery_saving_description">Use Wi‑Fi and mobile networks to determine location</string>
+  <string name="location_mode_battery_saving_description">Use WLAN and mobile networks to determine location</string>
   <string name="location_mode_battery_saving_title">Battery saving</string>
-  <string name="location_mode_high_accuracy_description">Use GPS, Wi‑Fi, and mobile networks to determine location</string>
+  <string name="location_mode_high_accuracy_description">Use GPS, WLAN, and mobile networks to determine location</string>
   <string name="location_mode_high_accuracy_title">High accuracy</string>
   <string name="location_mode_location_off_title">Location off</string>
   <string name="location_mode_screen_title">Location mode</string>
@@ -2063,6 +2063,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
+  <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
   <string name="status_bar_settings_show_statusBar_notification">Show on lock screen and in drop down</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Show notifications on lock screen and in drop down preview</string>
@@ -2292,8 +2293,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usage_type_cpu_foreground">CPU foreground</string>
   <string name="usage_type_data_recv">Mobile data received</string>
   <string name="usage_type_data_send">Mobile data sent</string>
-  <string name="usage_type_data_wifi_recv">Wi‑Fi data received</string>
-  <string name="usage_type_data_wifi_send">Wi‑Fi data sent</string>
+  <string name="usage_type_data_wifi_recv">WLAN data received</string>
+  <string name="usage_type_data_wifi_send">WLAN data sent</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
