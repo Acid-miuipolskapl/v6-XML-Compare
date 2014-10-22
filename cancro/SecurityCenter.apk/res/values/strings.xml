@@ -174,8 +174,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memory</string>
   <string name="handle_text_system">System</string>
-  <string name="header_antivirus">"By using this feature, you agree to Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Terms of Service&lt;/a&gt;</string>
-  <string name="header_optimizer">"By using this feature, you agree to Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Terms of Service&lt;/a&gt;</string>
+  <string name="header_antivirus">"By using this feature, you are agreeing to Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="header_optimizer">"By using this feature, you are agreeing to Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Ad files: %d</string>
   <string name="hints_apk_header_left">Install packages: %d</string>
   <string name="hints_apk_version">Version: %s</string>
@@ -572,11 +572,11 @@
   <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">risks</string>
-  <string name="summary_antivirus">Upload app names and scan using online virus definitions</string>
+  <string name="summary_antivirus">Upload and scan app names and details using online virus definitions</string>
   <string name="summary_dev">Prevent apps from accessing userdata</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
-  <string name="summary_optimizer">Upload and compare unknown app names and files with online definitions</string>
+  <string name="summary_optimizer">Upload and compare unknown folder names with online definitions</string>
   <string name="summary_permission">Protect my privacy from potentially malicious third-party apps</string>
   <string name="summary_usb">Avoid viruses spreading from other devices</string>
   <string name="summary_virus">Found %2$d viruses</string>
