@@ -22,7 +22,7 @@
   <string name="activity_main_update_time_right_now">Just Now</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Locating…</string>
-  <string name="activity_weathermain_locationg_error">Fail to locate</string>
+  <string name="activity_weathermain_locationg_error">"Can't locate"</string>
   <string name="add_city">Add</string>
   <string name="app_label">Weather Provider</string>
   <string name="app_name">Weather</string>
@@ -49,7 +49,7 @@
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
-  <string name="view_aqi_pubtime">Updated: %1$s</string>
+  <string name="view_aqi_pubtime">Updated %1$s</string>
   <string name="view_aqi_pubtime_format">HH:mm, MMM dd</string>
   <string name="view_aqi_source">China National Environmental Monitoring Center</string>
   <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>

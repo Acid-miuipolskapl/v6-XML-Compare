@@ -109,21 +109,6 @@
         <item>150</item>
         <item>200</item>
     </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
-    </string-array>
-    <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
-    </string-array>
     <string-array name="pre_webapp_text_sizes">
         <item>Larger</item>
         <item>Large</item>
@@ -509,15 +494,30 @@
         <item>EUC-JP</item>
         <item>EUC-KR</item>
     </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
     <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
     </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
     <string-array name="pref_link_prefetch_values">
         <item>@string/pref_link_prefetch_value_never</item>
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
     </string-array>
     <string-array name="pref_video_preload_values">
         <item>@string/pref_video_preload_value_never</item>

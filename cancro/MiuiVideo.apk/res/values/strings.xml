@@ -72,9 +72,18 @@
   <string name="count_ge_media">%d videos</string>
   <string name="count_ge_result">%d results</string>
   <string name="count_ji_quan">All %d Eps</string>
+  <string name="datastream_alert_download">You are download video with the 2G/3G/4G network, may result in higher flow cost</string>
+  <string name="datastream_alert_hint">You may be in the Settings-system application-Video, close the tip</string>
+  <string name="datastream_alert_negative_button">Cancel</string>
+  <string name="datastream_alert_positive_button">Continue</string>
+  <string name="datastream_alert_title">Traffic tips</string>
   <string name="day">Day</string>
   <string name="declaration">Terms of Use</string>
-  <string name="declaration_content">By using this service, you agree to the &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt; of Sohu Video, iQiyi, and other content providers.</string>
+  <string name="declaration_allow">Agree</string>
+  <string name="declaration_content">1.By using this service, you agree to the &lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt;" of Sohu Video, iQiyi, and other content providers.
+2.to improve user playback experience, part of the equipment and play data will be uploaded
+3.Enjoy HD audition, we will install HD plug-in for you
+4.Will you agree to connect the internet when you use video?"</string>
   <string name="declaration_content_td_custom">Will you agree to connect the internet when you use video?</string>
   <string name="defaults">Default</string>
   <string name="delete">Delete</string>
@@ -192,6 +201,8 @@
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="prefix_countdown">Ads remaining</string>
+  <string name="priority_storage">Use external SD card</string>
+  <string name="priority_storage_summary">Automatically save to external SD card if available</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank">Top videos</string>
   <string name="receive_mipush">Push notifications</string>
@@ -255,6 +266,8 @@
   <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">Use mobile data connection</string>
   <string name="use_cellular_network_summary">Use mobile data connection to download videos. This may increase your data usage.</string>
+  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
+  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
   <string name="userdata_alert_content">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
   <string name="userdata_alert_ok">Play</string>
   <string name="userdata_alert_title">Data usage warning</string>
@@ -280,6 +293,8 @@
   <string name="vp_closedialog">Install</string>
   <string name="vp_confirm">Install</string>
   <string name="vp_content_description">Description</string>
+  <string name="vp_datastream_alert_hint">You may be in the Settings-system application-Video, close the tip</string>
+  <string name="vp_datastream_alert_play">You are playing video with the 2G/3G/4G network, may result in higher flow cost</string>
   <string name="vp_device_list">Devices</string>
   <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
   <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>

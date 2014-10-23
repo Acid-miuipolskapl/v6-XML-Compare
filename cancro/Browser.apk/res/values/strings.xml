@@ -77,7 +77,6 @@
   <string name="block_ads_choice_continue">Continue</string>
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
-  <string name="bookmark_URL_already_exisit">"You've already bookmarked this URL"</string>
   <string name="bookmark_add_group_text_header">Add selected %1$d to group</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
@@ -87,7 +86,6 @@
   <string name="bookmark_needs_title">Bookmark must have a name.</string>
   <string name="bookmark_needs_url">Bookmark must have a location.</string>
   <string name="bookmark_not_saved">"Couldn't save bookmark"</string>
-  <string name="bookmark_page">Bookmark last-viewed page</string>
   <string name="bookmark_rename_group">Rename group</string>
   <string name="bookmark_saved">Saved to bookmarks</string>
   <string name="bookmark_this_page_to_readmodelist">Add page to reading list</string>
@@ -96,6 +94,7 @@
   <string name="bookmark_to_readmodelist_not_saved">"Can't save to reading list"</string>
   <string name="bookmark_to_readmodelist_saved">Saved to reading list</string>
   <string name="bookmark_url">URL http://</string>
+  <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
@@ -423,7 +422,6 @@
   <string name="pref_development_normal_rendering">Normal rendering</string>
   <string name="pref_development_reset_prelogin">Reset prelogin</string>
   <string name="pref_development_single_column_rendering">Single column rendering</string>
-  <string name="pref_development_title">Debug</string>
   <string name="pref_development_trace">Enable tracing</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
@@ -464,7 +462,6 @@
   <string name="pref_inverted">Inverted rendering</string>
   <string name="pref_inverted_category">Inverted screen rendering</string>
   <string name="pref_inverted_contrast">Contrast</string>
-  <string name="pref_inverted_summary">Black becomes white and vice versa</string>
   <string name="pref_key_gesture_title">Buttons &amp; gestures</string>
   <string name="pref_key_title">Button settings</string>
   <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
@@ -475,7 +472,6 @@
   <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_never_summary">Never preload linked webpages</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-  <string name="pref_min_font_size">Minimum font size</string>
   <string name="pref_min_font_size_value">%dpt</string>
   <string name="pref_other_title">Other</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
@@ -518,7 +514,6 @@
   <string name="pref_security_show_security_warning_summary">"Show warning if there's a problem with a site's certificate"</string>
   <string name="pref_set_homepage_to">Set to</string>
   <string name="pref_setting_title">Page settings</string>
-  <string name="pref_text_zoom">Text scaling</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
@@ -550,6 +545,7 @@
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
   <string name="qr_code_title">QR Code</string>
+  <string name="quicklink_bookmark_save">Save to</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>
   <string name="quicklink_saved">Added to start page</string>
   <string name="quicklink_saved_before">This site has already been added</string>
@@ -629,7 +625,7 @@
   <string name="send_to_popular">popular</string>
   <string name="set_as_homepage">Set as homepage</string>
   <string name="share_link">share link</string>
-  <string name="share_page">share page</string>
+  <string name="share_page">Share page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
   <string name="show_check_security_url_check_tip_dialog_title">URL security</string>

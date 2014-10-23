@@ -144,7 +144,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="app_feedback">Report bug</string>
   <string name="app_floating_window_dlg_disable">"Turning off %1$s's floating window settings requires the app to restart."</string>
   <string name="app_floating_window_dlg_enable">"Turning on %1$s's floating window settings requires the app to restart."</string>
   <string name="app_forward_locked">App is copy-protected.</string>
@@ -172,7 +171,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="application_item_permission">Allow</string>
   <string name="application_restrictions">Allow apps and content</string>
   <string name="application_size_label">App</string>
-  <string name="applications_settings">Installed apps</string>
+  <string name="applications_settings">Additional settings</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_now_button_text">Update</string>
@@ -1048,7 +1047,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="header_category_device">DEVICE</string>
   <string name="header_category_personal">PERSONAL</string>
   <string name="header_category_system">SYSTEM</string>
-  <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
+  <string name="header_category_wireless_networks">Network</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
   <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
   <string name="help_label">Help</string>
@@ -1145,7 +1144,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="language_settings_category">Language settings</string>
   <string name="large_font">Large</string>
   <string name="last_synced">Last synced %1$s</string>
-  <string name="later">Reboot later</string>
   <string name="launch_count_label">Count</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
@@ -1176,9 +1174,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_high_battery_use">High battery use</string>
   <string name="location_loading_injected_setting">Retrieving…</string>
   <string name="location_low_battery_use">Low battery use</string>
-  <string name="location_mode_battery_saving_description">Use Wi‑Fi and mobile networks to determine location</string>
+  <string name="location_mode_battery_saving_description">Use WLAN and mobile networks to determine location</string>
   <string name="location_mode_battery_saving_title">Battery saving</string>
-  <string name="location_mode_high_accuracy_description">Use GPS, Wi‑Fi, and mobile networks to determine location</string>
+  <string name="location_mode_high_accuracy_description">Use GPS, WLAN, and mobile networks to determine location</string>
   <string name="location_mode_high_accuracy_title">High accuracy</string>
   <string name="location_mode_location_off_title">Location off</string>
   <string name="location_mode_screen_title">Location mode</string>
@@ -1198,6 +1196,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_intro_message">Lock_intro_message</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
+  <string name="lock_settings">Lock screen</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
@@ -1360,7 +1359,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="menu_use_uss">Use Uss</string>
-  <string name="mione_update_success_title">Update complete</string>
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
@@ -1510,6 +1508,8 @@ Select your operating system:"</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
+  <string name="other_advanced_settings">Additional settings</string>
+  <string name="other_personal_settings">Additional settings</string>
   <string name="other_relative">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
@@ -1702,7 +1702,7 @@ Select your operating system:"</string>
   <string name="radioInfo_service_out">Out of service</string>
   <string name="radioInfo_unknown">unknown</string>
   <string name="radio_controls_summary">Manage WLAN, Bluetooth, Airplane mode, Mobile networks, &amp; VPNs</string>
-  <string name="radio_controls_title">More</string>
+  <string name="radio_controls_title">Additional settings</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>
@@ -2016,7 +2016,6 @@ Possibly incorrect PIN."</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
   <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
-  <string name="sound_category_calls_and_notification_title">Ringtone &amp; notifications</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>
@@ -2064,6 +2063,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
+  <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
   <string name="status_bar_settings_show_statusBar_notification">Show on lock screen and in drop down</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Show notifications on lock screen and in drop down preview</string>
@@ -2261,7 +2261,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_launch_picker_change_summary">Change or disable pattern, PIN, or password</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Change lock screen</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
-  <string name="unlock_set_unlock_launch_picker_title">Screen lock</string>
+  <string name="unlock_set_unlock_launch_picker_title">Lock screen</string>
   <string name="unlock_set_unlock_mode_biometric_weak">Face Unlock</string>
   <string name="unlock_set_unlock_mode_none">Slide</string>
   <string name="unlock_set_unlock_mode_off">None</string>
@@ -2293,8 +2293,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usage_type_cpu_foreground">CPU foreground</string>
   <string name="usage_type_data_recv">Mobile data received</string>
   <string name="usage_type_data_send">Mobile data sent</string>
-  <string name="usage_type_data_wifi_recv">Wi‑Fi data received</string>
-  <string name="usage_type_data_wifi_send">Wi‑Fi data sent</string>
+  <string name="usage_type_data_wifi_recv">WLAN data received</string>
+  <string name="usage_type_data_wifi_send">WLAN data sent</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
@@ -2409,7 +2409,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
-  <string name="view_install_log">View error log</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
@@ -2834,6 +2833,8 @@ Phone setup can require significant network activity."</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Window animation scale</string>
   <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
+  <string name="wireless_off">Off</string>
+  <string name="wireless_on">On</string>
   <string name="wizard_back">Back</string>
   <string name="wizard_finish">Finish</string>
   <string name="wizard_next">Next</string>

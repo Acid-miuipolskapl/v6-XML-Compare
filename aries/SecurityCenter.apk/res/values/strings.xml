@@ -63,8 +63,8 @@
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="brightness_auto_adjust_off">Screen brightness will remain constant in all surroundings</string>
-  <string name="brightness_auto_adjust_on">Screen brightness will vary in relation to the light in your surroundings</string>
+  <string name="brightness_auto_adjust_off">Brightness will remain constant in all surroundings</string>
+  <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="btn_text_cleanup_all">Clean up</string>
   <string name="btn_text_done">Done</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
@@ -73,6 +73,8 @@
   <string name="btn_text_start_check">Check</string>
   <string name="btn_text_stop">Stop</string>
   <string name="btn_text_virus_scan">Scan</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
   <string name="button_text_accept">Accept</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_add_to_white_list">Add to exceptions</string>
@@ -172,6 +174,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memory</string>
   <string name="handle_text_system">System</string>
+  <string name="header_antivirus">"By using this feature, you are agreeing to Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="header_optimizer">"By using this feature, you are agreeing to Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Ad files: %d</string>
   <string name="hints_apk_header_left">Install packages: %d</string>
   <string name="hints_apk_version">Version: %s</string>
@@ -236,7 +240,7 @@
   <string name="hints_scan_result_virus">Viruses detected</string>
   <string name="hints_scanning_virus_by_cloud">Ongoing cloud scanning…</string>
   <string name="hints_storage_free">Free</string>
-  <string name="hints_title_garbage">Trash</string>
+  <string name="hints_title_garbage">trash</string>
   <string name="hints_unknown_virus_name">Unknown</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -508,12 +512,14 @@
   <string name="pref_summary_expand_cache_group">Expand items in cache list automatically</string>
   <string name="pref_summary_garbage_cleanup_check_size">Show notification when your trash reaches a certain size</string>
   <string name="pref_summary_garbage_cleanup_check_time">Schedule a routine trash size notification</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
   <string name="pref_title_auto_update_cleanup_db">Update automatically</string>
   <string name="pref_title_cleanup_white_list">Exceptions</string>
   <string name="pref_title_expand_cache_group">Show cached items</string>
   <string name="pref_title_garbage_cleanup_check_size">Trash alarm size</string>
   <string name="pref_title_garbage_cleanup_check_time">Trash alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Update now</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
@@ -535,6 +541,7 @@
   <string name="preference_key_module_permissions">key_module_permissions</string>
   <string name="preference_key_module_power_center">module_power_center</string>
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
+  <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
   <string name="preference_key_permission_manager">key_permission_manager</string>
@@ -563,17 +570,22 @@
   <string name="score_pts">%</string>
   <string name="settings_title_permission">Permission settings</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
-  <string name="suffix_virus_count_bottom">Total</string>
-  <string name="suffix_virus_count_top">Risks</string>
+  <string name="suffix_virus_count_bottom">total</string>
+  <string name="suffix_virus_count_top">risks</string>
+  <string name="summary_antivirus">Upload and scan app names and details using online virus definitions</string>
   <string name="summary_dev">Prevent apps from accessing userdata</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
+  <string name="summary_optimizer">Upload and compare unknown folder names with online definitions</string>
   <string name="summary_permission">Protect my privacy from potentially malicious third-party apps</string>
   <string name="summary_usb">Avoid viruses spreading from other devices</string>
   <string name="summary_virus">Found %2$d viruses</string>
   <string name="summary_virus_update">Update virus definitions automatically when connected to WLAN</string>
   <string name="system_check_content">%1$d suspicious items</string>
   <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
+  <string name="text_antivirus">Use online virus definitions</string>
+  <string name="text_optimizer">Use online Cleaner engine</string>
+  <string name="title_antivirus">Virus scan</string>
   <string name="title_app_update_no">%d apps have updates pending</string>
   <string name="title_app_update_yes">All apps up-to-date!</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
@@ -586,6 +598,7 @@
   <string name="title_miui_update_yes">MIUI is up-to-date!</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
+  <string name="title_optimizer">Cleaner</string>
   <string name="title_permission_no">Permissions monitor off</string>
   <string name="title_permission_yes">Permissions monitor on</string>
   <string name="title_show_notification_no">"Don't show in notification shade"</string>

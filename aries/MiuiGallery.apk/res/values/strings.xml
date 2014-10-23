@@ -647,11 +647,11 @@ albums from anywhere.
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="impunity_declaration">Will you agree to connect the internet when you use gallery?</string>
+  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to function normally."</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
-  <string name="impunity_declaration_settings">Show network notice</string>
-  <string name="impunity_declaration_summary">Show network notice every time when launch Gallery app</string>
-  <string name="impunity_declaration_title">Network notice</string>
+  <string name="impunity_declaration_settings">Internet connection notification</string>
+  <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
+  <string name="impunity_declaration_title">Internet connection</string>
   <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>

@@ -180,7 +180,6 @@
   <string name="ok">OK</string>
   <string name="orientation">Orientation</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
-  <string name="pano_dialog_prepare_preview">Preparing panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
@@ -269,7 +268,6 @@ touch the Shutter button"</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
-  <string name="pref_camera_exposuretime_title">Exposure time</string>
   <string name="pref_camera_facedetection_default">true</string>
   <string name="pref_camera_facedetection_title">Face detection</string>
   <string name="pref_camera_flashmode_default">auto</string>
@@ -511,7 +509,7 @@ touch the Shutter button"</string>
   <string name="pref_grp_capture_settings">Capture settings</string>
   <string name="pref_grp_picture_settings">Picture settings</string>
   <string name="pref_grp_restore_settings">Restore settings</string>
-  <string name="pref_manual_exposure_title">Manual exposure</string>
+  <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mtk_camera_contrast_default">middle</string>
   <string name="pref_mtk_camera_saturation_default">middle</string>
   <string name="pref_mtk_camera_sharpness_default">middle</string>
