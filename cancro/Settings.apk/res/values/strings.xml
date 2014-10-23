@@ -951,7 +951,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
-  <string name="finish_application">OK</string>
+  <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
