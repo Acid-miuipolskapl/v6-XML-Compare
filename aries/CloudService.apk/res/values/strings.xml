@@ -14,16 +14,16 @@
   <string name="bad_authentication">Invalid username or password</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
-  <string name="buy_space_sulotion_auto_renew">Automatic renew</string>
-  <string name="buy_space_sulotion_message">You will buy %sGB Space</string>
-  <string name="buy_space_sulotion_not_auto_renew">Do not automatically renew</string>
+  <string name="buy_space_sulotion_auto_renew">Renew automatically</string>
+  <string name="buy_space_sulotion_message">Buy %sGB additional storage space</string>
+  <string name="buy_space_sulotion_not_auto_renew">"Don't renew automatically"</string>
   <string name="buy_space_sulotion_renew_message">Valid for %s</string>
-  <string name="buy_space_sulotion_renew_title">Select renewals way</string>
-  <string name="buy_space_sulotion_title">Cloud storage solution</string>
+  <string name="buy_space_sulotion_renew_title">Renew subscription</string>
+  <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="cloud_find_device">Find Device</string>
-  <string name="cloud_space_upgrade_message">Click to get %s GB free space this month</string>
-  <string name="cloud_space_upgrade_no_quota_info">Invalid data, please try again later</string>
-  <string name="cloud_space_upgrade_title">Get Free Cloud Space!</string>
+  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud</string>
+  <string name="cloud_space_upgrade_no_quota_info">Failed to load. Wait a minute or two and try again.</string>
+  <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
   <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
@@ -33,7 +33,7 @@
   <string name="detail">Details</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="enableAll">Sync all</string>
-  <string name="enable_cloud_service_notification">"You haven't enabled Mi Cloud"</string>
+  <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_micloud">Sign up or create an account</string>
   <string name="enable_sync">Turn on</string>
@@ -48,7 +48,7 @@
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_disabled_notice">You can turn this feature on and off anytime in Mi Cloud &gt; Settings.</string>
+  <string name="find_device_disabled_notice">You can turn this feature on and off any time in Mi Cloud &gt; Settings.</string>
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
@@ -57,7 +57,7 @@
   <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
 
-You can turn this feature on and off anytime in Settings.
+You can turn this feature on and off any time in Settings.
 "</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
@@ -72,17 +72,17 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_success_title">Find device</string>
   <string name="finish">OK</string>
   <string name="flight_mode">Airplane mode</string>
-  <string name="free_space_has_received">Free space has already received this month</string>
-  <string name="free_space_receive_fail">"Can't upgrade or have already upgraded"</string>
+  <string name="free_space_has_received">You already added free space this month</string>
+  <string name="free_space_receive_fail">"Can't upgrade"</string>
   <string name="full_space">Not enough space</string>
-  <string name="get_first_month_gb">Get %s free space for the first time</string>
-  <string name="get_this_month_gb">Get %s free space this month</string>
+  <string name="get_first_month_gb">Get %s of free space</string>
+  <string name="get_this_month_gb">Get %s of free space this month</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">About RMB 143 per year</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
-  <string name="header_other_settings">Others</string>
+  <string name="header_other_settings">Additional settings</string>
   <string name="i_know">OK</string>
   <string name="internet">Internet</string>
   <string name="internet_disconnected">No data connection</string>
@@ -114,7 +114,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_sync_stop">Stop sync</string>
   <string name="micloud_more">Learn more</string>
-  <string name="micloud_other_product_price">Other similar products Price:</string>
+  <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
@@ -124,7 +124,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
   <string name="micloud_unlogin_for_time_summary"/>
-  <string name="micloud_unlogin_for_time_title">Enable Mi Cloud</string>
+  <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_space">Buy storage space</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_user_space_usage">Storage space</string>
@@ -141,7 +141,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
-You can turn this feature on and off anytime in Settings."</string>
+You can turn this feature on and off any time in Settings."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
@@ -176,7 +176,7 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
 
-You can turn this feature on and off anytime in Settings.
+You can turn this feature on and off any time in Settings.
 "</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
   <string name="sync_item_calllog_title">Sync call logs</string>
@@ -197,12 +197,12 @@ You can turn this feature on and off anytime in Settings.
   <string name="system_sync_off">System sync off</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
-  <string name="unactivated_user">Deactivated</string>
+  <string name="unactivated_user">Signed out</string>
   <string name="upgrade_space">Add space</string>
   <string name="upgrade_space_gb">GB</string>
-  <string name="upgrade_space_mibipreyear">%s Mi Credit per Year</string>
-  <string name="upgrade_space_successful">upgrade successful %sGB</string>
-  <string name="upgrade_space_successful_total">Total space upgrade to %sGB</string>
+  <string name="upgrade_space_mibipreyear">%s Mi Credits per year</string>
+  <string name="upgrade_space_successful">Added %sGB</string>
+  <string name="upgrade_space_successful_total">%sGB available</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">User Agreement</string>
   <string name="user_agreement_p6">"Your use of this feature is subject to "</string>
@@ -210,7 +210,7 @@ You can turn this feature on and off anytime in Settings.
   <string name="user_agreement_p8">.</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
-  <string name="view_storage_title">View cloud space</string>
+  <string name="view_storage_title">Storage space</string>
   <string name="wifi">WLAN</string>
   <string name="wifi_disconnected">No WLAN</string>
   <string name="wifi_sync">Wait for WLAN</string>
