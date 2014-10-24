@@ -276,6 +276,9 @@
   <string name="last_checked_date2">Scanned %d days ago</string>
   <string name="last_checked_default">Scanned %s days ago</string>
   <string name="legal_workday">Holiday</string>
+  <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
+  <string name="legal_workday_invalidate_message">(Data expired,click to update interconnection)</string>
+  <string name="legal_workday_message">(Skip holidays smartly)</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="menu_item_about_content">Version: %s</string>
   <string name="menu_item_about_summary">Version: %s</string>

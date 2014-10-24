@@ -274,22 +274,6 @@
         <item>1800</item>
         <item>2500</item>
     </integer-array>
-    <integer-array name="config_manualBrightnessRemapIn">
-        <item>2</item>
-        <item>30</item>
-        <item>60</item>
-        <item>128</item>
-        <item>192</item>
-        <item>255</item>
-    </integer-array>
-    <integer-array name="config_manualBrightnessRemapOut">
-        <item>2</item>
-        <item>8</item>
-        <item>20</item>
-        <item>60</item>
-        <item>120</item>
-        <item>255</item>
-    </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>6</item>
         <item>20</item>
@@ -365,6 +349,21 @@
         <item>333</item>
         <item>353</item>
     </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+    <array name="common_nicknames" />
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <array name="carrier_properties" />
     <string-array name="app_ops_labels">
         <item>Trying to access location</item>
         <item>Trying to access location</item>
@@ -417,19 +416,20 @@
         <item>Trying to write MMS</item>
         <item>Trying to start at bootup</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
+    <integer-array name="config_manualBrightnessRemapIn">
+        <item>2</item>
+        <item>30</item>
+        <item>60</item>
+        <item>128</item>
+        <item>192</item>
+        <item>255</item>
     </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
+    <integer-array name="config_manualBrightnessRemapOut">
+        <item>2</item>
+        <item>8</item>
+        <item>20</item>
+        <item>60</item>
+        <item>120</item>
+        <item>255</item>
     </integer-array>
-    <array name="common_nicknames" />
-    <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
-    <array name="carrier_properties" />
 </resources>
