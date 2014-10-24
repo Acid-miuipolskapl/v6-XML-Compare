@@ -26,6 +26,7 @@
   <string name="default_folder_title_recommend">More Apps</string>
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_tools">Tools</string>
+  <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
