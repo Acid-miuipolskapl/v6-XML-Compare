@@ -129,13 +129,6 @@
   <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_dial_button">dial</string>
-  <string name="description_direction_down_left">Down Left</string>
-  <string name="description_direction_down_right">Down Right</string>
-  <string name="description_direction_left">Slide left for %s.</string>
-  <string name="description_direction_right">Slide right for %s.</string>
-  <string name="description_direction_up">Slide up for %s.</string>
-  <string name="description_direction_up_left">Up Left</string>
-  <string name="description_direction_up_right">Up Right</string>
   <string name="description_image_button_eight">eight</string>
   <string name="description_image_button_five">five</string>
   <string name="description_image_button_four">four</string>
@@ -148,12 +141,6 @@
   <string name="description_image_button_three">three</string>
   <string name="description_image_button_two">two</string>
   <string name="description_image_button_zero">zero</string>
-  <string name="description_target_answer">Answer</string>
-  <string name="description_target_answer_rx_video">Answer with RX Video</string>
-  <string name="description_target_answer_tx_video">Answer with TX Video</string>
-  <string name="description_target_answer_video">Answer with Video</string>
-  <string name="description_target_decline">Decline</string>
-  <string name="description_target_send_sms">Send SMS</string>
   <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
   <string name="dial_emergency_error">Call not sent. %s is not an emergency number!</string>
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
@@ -219,9 +206,6 @@
   <string name="eo_enable">Employment Opportunities enabled</string>
   <string name="error_updating_title">Call settings error</string>
   <string name="exception_error">Network or SIM card error.</string>
-  <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
-  <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-  <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
   <string name="fdn">Fixed Dialing Numbers</string>
   <string name="fdn_activation">FDN activation</string>
   <string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
@@ -267,7 +251,6 @@ Switch to the new provider anyway?"</string>
   <string name="incoming_call_forwarded_title">Forward incoming calls</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
-  <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
   <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
   <string name="invalidPuk2">Type a PUK2 that is 8 numbers.</string>
@@ -339,8 +322,6 @@ Switch to the new provider anyway?"</string>
   <string name="no_change">No changes were made.</string>
   <string name="no_internet_available">To place an Internet call, check your Internet connection first.</string>
   <string name="no_internet_available_title">No Internet connection</string>
-  <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Do you want to add one now?</string>
-  <string name="no_sip_account_found_title">No Internet calling account</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">Internet calling not supported</string>
@@ -447,8 +428,6 @@ Try again or call customer service for more options."</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_title">Emergency Callback Mode</string>
   <string name="phone_info_divider">" ｜ "</string>
-  <string name="pick_outgoing_call_phone_type">Place call</string>
-  <string name="pick_outgoing_sip_phone">Use Internet calling account:</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
   <string name="pin2_invalid">"FDN wasn't updated because you typed an incorrect PIN."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
@@ -481,7 +460,6 @@ Try again or call customer service for more options."</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Outbound proxy address</string>
-  <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. PUK2 requested.</string>
   <string name="puk_requested">Password incorrect, SIM is locked! PUK2 requested.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
@@ -503,11 +481,9 @@ Try again or call customer service for more options."</string>
   <string name="registration_status_registering">Registering…</string>
   <string name="registration_status_server_unreachable">Account registration unsuccessful: Check the server name.</string>
   <string name="registration_status_still_trying">Still trying…</string>
-  <string name="remember_my_choice">Always use to place Internet calls</string>
   <string name="remove_sip_account">Remove account</string>
   <string name="removing_account">Removing the account…</string>
   <string name="requesting_unlock">Requesting network unlock…</string>
-  <string name="reset_my_choice_hint">You can change which Internet calling account to use by default from the Phone &gt; Settings &gt; Internet call settings &gt; Accounts screen.</string>
   <string name="respond_via_sms_canned_response_1">"Can't talk now. What's up?"</string>
   <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
   <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
@@ -555,7 +531,6 @@ Try again or call customer service for more options."</string>
   <string name="sip_accounts_title">Accounts</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
   <string name="sip_always">SIP_ALWAYS</string>
-  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">For all calls when data network is available</string>
   <string name="sip_call_options_entry_2">Only for Internet calls</string>
@@ -571,7 +546,6 @@ Try again or call customer service for more options."</string>
   <string name="sip_receive_calls">Receive incoming calls</string>
   <string name="sip_receive_calls_summary">Reduces battery life</string>
   <string name="sip_settings">Internet call settings</string>
-  <string name="sip_system_decide">Automatic</string>
   <string name="sports_news_settings">Sports News</string>
   <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
   <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
@@ -649,7 +623,6 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_default">My carrier</string>
   <string name="voicemail_notification_ringtone_title">Sound</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
-  <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
   <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
   <string name="voicemail_provider">Service</string>

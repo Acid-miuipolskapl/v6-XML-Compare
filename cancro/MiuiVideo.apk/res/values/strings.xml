@@ -12,7 +12,7 @@
   <string name="addon">" plugins"</string>
   <string name="addon_all">All</string>
   <string name="addon_category">Addons</string>
-  <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
+  <string name="addon_install_complete_disc">%s addons installed. You can view them in \"My videos\".</string>
   <string name="addon_installed_empty_hint">Empty</string>
   <string name="addon_list_empty_hint">Empty</string>
   <string name="addon_update_desc">New version found, update now?</string>

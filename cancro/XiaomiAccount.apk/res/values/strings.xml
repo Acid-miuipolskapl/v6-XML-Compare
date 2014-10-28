@@ -30,8 +30,7 @@
   <string name="bind_sns_description">Complete your profile using the personal information across %s.</string>
   <string name="bind_weibo_description">Find and sync your friends from Sina Weibo.</string>
   <string name="binded">Account added</string>
-  <string name="binded_description" formatted="false">"Has bound %s successfully 
- Complete your profile using the personal information across %s."</string>
+  <string name="binded_description" formatted="false">%s has been added to your Mi Account. Your profile has been updated with info from your %s Account.</string>
   <string name="btn_activate">Activate</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
@@ -48,7 +47,7 @@
   <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
   <string name="completed">Finish</string>
   <string name="confirm">OK</string>
-  <string name="confirm_unbind">confirm unbind?</string>
+  <string name="confirm_unbind">Remove this account?</string>
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="dirty_contacts_count">%d contacts</string>
@@ -75,7 +74,7 @@
   <string name="error_user_name">Invalid username</string>
   <string name="error_verify_code">The code you entered is incorrect</string>
   <string name="facebook">facebook</string>
-  <string name="failed_get_mibi_info">Failed to get the mi credit</string>
+  <string name="failed_get_mibi_info">"Can't get balance"</string>
   <string name="failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="find_device_dspt">Lock or wipe this device remotely.</string>
   <string name="find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
@@ -84,7 +83,7 @@
   <string name="get_verify_code">Get code</string>
   <string name="getting_verify_code">Getting</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
-  <string name="hide_mibi_info">Mi credit info has been hidden</string>
+  <string name="hide_mibi_info">Mi Credit info has been hidden</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Enter code</string>
   <string name="input_password_hint">Enter password</string>
@@ -230,8 +229,8 @@ To activate your account, follow the
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
   <string name="unbind">Sign out</string>
-  <string name="unbind_sns_description">After unbinding，you will not log in your Mi Account using %s</string>
-  <string name="unbind_weibo_description">After unbinding，you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+  <string name="unbind_sns_description">"After you remove this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
+  <string name="unbind_weibo_description">"After you remove this account, you won't be able to sync your contacts from Weibo or use your Sina Weibo Account to sign in."</string>
   <string name="update_contacts">Update address book</string>
   <string name="update_contacts_description">Let Sina Weibo use your Mi Account to sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>

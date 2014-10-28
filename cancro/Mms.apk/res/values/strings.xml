@@ -262,8 +262,8 @@
   <string name="mx_enable_popup_msg">Send messages back and forth for free with other users also using this feature</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
-  <string name="mx_on_sim_1">Mi Messaging with SIM slot %s</string>
-  <string name="mx_on_sim_2">Mi Messaging with SIM slot %s</string>
+  <string name="mx_on_sim_1">Mi Messaging with SIM slot 1</string>
+  <string name="mx_on_sim_2">Mi Messaging with SIM slot 2</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
