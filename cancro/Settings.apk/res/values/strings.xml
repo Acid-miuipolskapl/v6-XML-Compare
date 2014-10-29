@@ -114,6 +114,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_auth_type_none">None</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
+  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
+  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="apn_edit">Edit access point</string>
   <string name="apn_general">General</string>
   <string name="apn_http_port">Port</string>
