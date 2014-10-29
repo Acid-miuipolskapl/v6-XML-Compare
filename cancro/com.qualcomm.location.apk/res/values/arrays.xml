@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tdscdma_operators">
+        <item>46000</item>
+        <item>46002</item>
+        <item>46007</item>
+        <item>26215</item>
+    </string-array>
+</resources>
