@@ -66,7 +66,6 @@
   <string name="cancel">Cancel</string>
   <string name="change_security_lock">More screen locks</string>
   <string name="colon">": "</string>
-  <string name="confirm_title">提示</string>
   <string name="denomination_unit">￥</string>
   <string name="detail_consume_account">Purchase ID</string>
   <string name="detail_consume_amount">Amount</string>
@@ -86,7 +85,6 @@
   <string name="detail_recharge_order">Top-up Order No.</string>
   <string name="detail_recharge_time">Time</string>
   <string name="detail_recharge_title">Top-up records</string>
-  <string name="ensure">确定</string>
   <string name="error_account_changed_summary">"Your account info has changed.
 Please log in again."</string>
   <string name="error_account_changed_title">Account has changed</string>
@@ -104,6 +102,9 @@ Please contact Xiaomi customer service."</string>
   <string name="error_server_summary">Server error. Please try again later</string>
   <string name="error_user_id_mismatch_summary">Please check and re-login your account</string>
   <string name="fee">%1$s Mi Credit</string>
+  <string name="fee_with_giftcard"> (Include%1$s)</string>
+  <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
+  <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
@@ -235,7 +236,7 @@ Please contact Xiaomi customer service."</string>
   <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="prepaid_picker_title_default">Select amount</string>
   <string name="prepaid_picker_title_selected">amount</string>
-  <string name="processing">加载中</string>
+  <string name="process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="progress_bankcall_card_creating">Generating order…</string>
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>

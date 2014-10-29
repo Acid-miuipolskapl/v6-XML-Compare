@@ -5,6 +5,7 @@
   <string name="altitude_unit">M</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_altitude">Calibrating…</string>
+  <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
   <string name="calibrate_failed_timeout">"Can't connect to the server"</string>
   <string name="calibrate_success">Calibrated</string>
@@ -39,4 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressure</string>
   <string name="pressure_unit">hPa</string>
+  <string name="using_camera_confirm_cancel">Exit</string>
+  <string name="using_camera_confirm_message">We are using camera device while in the Compass application.</string>
+  <string name="using_camera_confirm_ok">Agree and continue</string>
+  <string name="using_camera_confirm_title">Terms and Agreements</string>
 </resources>

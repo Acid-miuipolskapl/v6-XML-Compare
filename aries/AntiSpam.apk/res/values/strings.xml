@@ -105,7 +105,7 @@
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">Unblock this number?</string>
   <string name="dlg_remove_blacklist_ing">Removing from blocklist…</string>
-  <string name="dlg_remove_blacklist_ok">Unblock</string>
+  <string name="dlg_remove_blacklist_ok">Remove</string>
   <string name="dlg_remove_whitelist">Remove these numbers from exceptions?</string>
   <string name="dlg_remove_whitelist_ing">Removing from exceptions…</string>
   <string name="dlg_retore">Restore to message inbox?</string>

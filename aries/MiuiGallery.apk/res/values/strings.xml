@@ -897,7 +897,7 @@ device"</string>
   <string name="sync_album">Sync albums</string>
   <string name="sync_album_error">"Can't sync the photos in this album. Check your data connection and try again."</string>
   <string name="sync_album_in_proecess">Syncing album…</string>
-  <string name="sync_album_set_error">"Can't sync the these albums. Check your data connection and try again."</string>
+  <string name="sync_album_set_error">"Can't sync photos. Check your data connection and try again."</string>
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Syncing…</string>

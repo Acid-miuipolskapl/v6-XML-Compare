@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Settings_title_anti_spam">Antispam settings</string>
-  <string name="Settings_title_anti_virus">Antivirus settings</string>
-  <string name="Settings_title_garbage_cleanup">Garbage cleanup settings</string>
-  <string name="Settings_title_network_assistants">Network assistant settings</string>
-  <string name="Settings_title_power_center">Power settings</string>
+  <string name="Settings_title_anti_spam">Blocklist settings</string>
+  <string name="Settings_title_anti_virus">Virus scan settings</string>
+  <string name="Settings_title_garbage_cleanup">Cleaner settings</string>
+  <string name="Settings_title_network_assistants">Data usage settings</string>
+  <string name="Settings_title_power_center">Battery settings</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_antispam">Blocklist</string>
   <string name="activity_title_antivirus">Virus scan</string>
@@ -276,9 +276,9 @@
   <string name="last_checked_date2">Scanned %d days ago</string>
   <string name="last_checked_default">Scanned %s days ago</string>
   <string name="legal_workday">Holiday</string>
-  <string name="legal_workday_invalidate">Data expired(Currently ringing Moday to Friday)</string>
-  <string name="legal_workday_invalidate_message">(Data expired,click to update interconnection)</string>
-  <string name="legal_workday_message">(Skip holidays smartly)</string>
+  <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
+  <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
+  <string name="legal_workday_message">(Skip holidays)</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="menu_item_about_content">Version: %s</string>
   <string name="menu_item_about_summary">Version: %s</string>
@@ -571,7 +571,7 @@
   <string name="root_apply_step_5">Grant %s root access?</string>
   <string name="root_apply_title">Important warning</string>
   <string name="score_pts">%</string>
-  <string name="settings_title_permission">Permission settings</string>
+  <string name="settings_title_permission">Permissions settings</string>
   <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">risks</string>

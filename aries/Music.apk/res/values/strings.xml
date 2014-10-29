@@ -149,7 +149,8 @@
   <string name="music_settings">Music</string>
   <string name="my_account">Mi Account</string>
   <string name="my_music">Local</string>
-  <string name="my_music_empty">No songs in playlist</string>
+  <string name="my_music_empty">Your playlist is empty!</string>
+  <string name="my_music_empty_goto_online">Your playlist is empty! Add songs from the Online tab</string>
   <string name="my_playlist">My playlist</string>
   <string name="network_error">"Can't connect to the network"</string>
   <string name="network_failure">"Can't connect to the network. Check your data connection and try again."</string>
@@ -157,6 +158,7 @@
   <string name="no_favorites_songs">Empty</string>
   <string name="no_local_songs">Empty</string>
   <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
+  <string name="no_local_source_find">"Can't find local resource, send failed!"</string>
   <string name="no_online_song_selected">No songs selected</string>
   <string name="no_results_return">No search results</string>
   <string name="no_song_downloaded">"Couldn't connect to server"</string>

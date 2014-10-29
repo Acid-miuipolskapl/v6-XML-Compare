@@ -159,7 +159,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="partys_day">建党节</string>
   <string name="paste">Paste</string>
   <string name="peace_day">和平紀念</string>
-  <string name="perm_send_push_dspt">Allow Xiaomi push messages</string>
+  <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>
   <string name="presentation_payphone">Payphone</string>
   <string name="presentation_private">Private number</string>
@@ -173,9 +173,9 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
   <string name="screen_button_notification_text">To re-enable them, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons disabled</string>
-  <string name="screen_on_proximity_sensor_hint">To disable this feature, press the Back and Volume up buttons simultaneously.</string>
+  <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the orange area of the screen"</string>
-  <string name="screen_on_proximity_sensor_title">Prevent Pocket Dials</string>
+  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
@@ -186,7 +186,7 @@ To enable this function, go to Settings &gt; System &gt; Buttons"</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
   <string name="softap_notifif_summary">%d connected</string>
-  <string name="softap_notifif_title">Hotspot \"%s\" enabled</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="solar_calendar">公历</string>
   <string name="spring_begins">立春</string>
   <string name="status_bar_toggle_ac">Access</string>
