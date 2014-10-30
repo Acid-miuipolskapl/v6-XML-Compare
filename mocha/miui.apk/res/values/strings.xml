@@ -466,6 +466,8 @@
   <string name="organization">Organization</string>
   <string name="perm_payment_dspt">Allow app to pay through Mi Payment Service</string>
   <string name="perm_payment_lab">Mi Payment Service</string>
+  <string name="permdesc_sendSmsNoConfirmation">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
+  <string name="permlab_sendSmsNoConfirmation">send SMS messages with no confirmation</string>
   <string name="phone">Phone</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Privacy Policy</string>

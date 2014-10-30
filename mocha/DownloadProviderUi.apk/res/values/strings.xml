@@ -25,6 +25,9 @@
   <string name="deselect_all">Deselect All</string>
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
+  <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
   <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
   <string name="dialog_file_already_exists">Cannot download. The destination file already exists.</string>
   <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>

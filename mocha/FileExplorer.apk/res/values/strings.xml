@@ -294,12 +294,12 @@ Free space added %1$s"</string>
   <string name="uploading">Uploading</string>
   <string name="used">Used</string>
   <string name="user_guide">Learn more about KuaiPan</string>
-  <string name="user_guide_continue_use">I know</string>
+  <string name="user_guide_continue_use">OK</string>
   <string name="user_guide_download_other_version">Upload files from computer</string>
-  <string name="user_guide_kuaipan_copy">Copy files from tablet,Then paste to KuaiPan</string>
-  <string name="user_guide_kuaipan_lable">kuaipan owns to you</string>
-  <string name="user_guide_other_version">Download in mi.kuaipan.cn.Login with your account(%1$s)</string>
-  <string name="user_guide_save_file">Saving your files and pictures in KuaiPan.</string>
+  <string name="user_guide_kuaipan_copy">Copy files from your tablet, then paste to KuaiPan</string>
+  <string name="user_guide_kuaipan_lable">KuaiPan belongs to you</string>
+  <string name="user_guide_other_version">Sign in with your Mi Account (%1$s) and download at mi.kuaipan.cn.</string>
+  <string name="user_guide_save_file">Save your files using KuaiPan</string>
   <string name="user_guide_summary">A brief overview</string>
   <string name="user_guide_upload_to_kuaipan">Store items on KuaiPan from your tablet</string>
   <string name="utf8_summary">System FTP default encoding</string>

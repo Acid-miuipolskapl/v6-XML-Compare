@@ -11,7 +11,7 @@
   <string name="add_more_addons">Add more addons</string>
   <string name="addon">" plugins"</string>
   <string name="addon_category">Addons</string>
-  <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
+  <string name="addon_install_complete_disc">%s addons installed. You can view them in \"My videos\".</string>
   <string name="addon_update_desc">New version found, update now?</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Last</string>

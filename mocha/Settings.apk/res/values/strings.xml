@@ -114,6 +114,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_auth_type_none">None</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
+  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
+  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
   <string name="apn_edit">Edit access point</string>
   <string name="apn_general">General</string>
   <string name="apn_http_port">Port</string>
@@ -171,7 +173,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="application_item_permission">Allow</string>
   <string name="application_restrictions">Allow apps and content</string>
   <string name="application_size_label">App</string>
-  <string name="applications_settings">Additional settings</string>
+  <string name="applications_settings">Installed apps</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_now_button_text">Update</string>
@@ -1519,6 +1521,7 @@ Select your operating system:"</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
   <string name="nearby_wifi">Available networks</string>
+  <string name="need_reboot_now">Need reboot to complete update,please reboot now !</string>
   <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_error">Network error</string>
@@ -1594,9 +1597,9 @@ Select your operating system:"</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
   <string name="permission_detail_info">Details</string>
-  <string name="permission_detail_info_summary">Security: %1$d | Privacy: %2$d | Other: %3$d</string>
-  <string name="permission_manage">Manage permissions</string>
-  <string name="permission_manage_summary">Manage autostart, root access, and other app permissions</string>
+  <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
+  <string name="permission_manage">Permission manager</string>
+  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
   <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Permissions</string>
   <string name="permission_mgr">Permissions</string>
@@ -2048,7 +2051,7 @@ This setting affects all users on this tablet."</string>
   <string name="sim_bad_pin">Incorrect PIN</string>
   <string name="sim_change_failed">"Can't change PIN.
 Possibly incorrect PIN."</string>
-  <string name="sim_change_failed_enable_sim_lock">Enable SIM lock now</string>
+  <string name="sim_change_failed_enable_sim_lock">Turn SIM lock on now.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">SIM PIN changed successfully</string>
   <string name="sim_disable_sim_lock">Unlock SIM card</string>
@@ -2167,9 +2170,9 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_serialno">serial no</string>
   <string name="status_service_state">Service state</string>
   <string name="status_signal_strength">Signal strength</string>
-  <string name="status_sim">SIM Status</string>
-  <string name="status_sim_1">SIM1</string>
-  <string name="status_sim_2">SIM2</string>
+  <string name="status_sim">SIM status</string>
+  <string name="status_sim_1">SIM 1</string>
+  <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Tap to view details</string>
   <string name="status_unavailable">Unavailable</string>
   <string name="status_up_time">Up time</string>
@@ -2384,7 +2387,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usb_label_installer_cd">Install file-transfer tools</string>
   <string name="usb_msd_driver_installer_summary">Get drivers for Windows and OSX</string>
   <string name="usb_msd_driver_installer_title">Driver installer disk (MSD)</string>
-  <string name="usb_msd_summary">Transfer files via Windows or OSX</string>
+  <string name="usb_msd_summary">Transfer files using Windows or OSX</string>
   <string name="usb_msd_title">Mass storage device</string>
   <string name="usb_mtp_summary">Lets you transfer media files on Windows, or using Android File Transfer on Mac (see www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Media device (MTP)</string>
@@ -2867,7 +2870,7 @@ Tablet setup can require significant network activity."</string>
   <string name="wifi_tether_starting">Turning hotspot on…</string>
   <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="wifi_type_approval_title">Type approval</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
