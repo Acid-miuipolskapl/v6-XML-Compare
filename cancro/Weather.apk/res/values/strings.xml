@@ -19,7 +19,7 @@
   <string name="activity_main_refresh_time">Last updated %1$s</string>
   <string name="activity_main_refresh_timeout">Refresh timeout</string>
   <string name="activity_main_update_time">Updated %1$s</string>
-  <string name="activity_main_update_time_right_now">Just Now</string>
+  <string name="activity_main_update_time_right_now">Just now</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Locating…</string>
   <string name="activity_weathermain_locationg_error">"Can't locate"</string>
@@ -35,8 +35,8 @@
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="button_abandon">Abandon changes</string>
-  <string name="button_allow">Allow</string>
-  <string name="button_not_allow">Deny</string>
+  <string name="button_allow">OK</string>
+  <string name="button_not_allow">Cancel</string>
   <string name="edit_city">Edit</string>
   <string name="gps_hint">Current location</string>
   <string name="loading_weather">Loading…</string>

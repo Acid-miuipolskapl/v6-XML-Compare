@@ -158,8 +158,8 @@
   <string name="update_feedback_end">"You missed this week's four-grid"</string>
   <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
   <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
-But you can take part next Tuesday"</string>
-  <string name="update_feedback_need_update">Currently you are not using the latest development version n upgrade to the latest development version before voting</string>
+But you can take part next Tuesday."</string>
+  <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
   <string name="update_feel">What do you think?</string>
   <string name="update_general">So-so</string>
   <string name="update_happy">Awesome!</string>

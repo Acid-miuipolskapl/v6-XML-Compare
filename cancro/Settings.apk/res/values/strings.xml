@@ -1476,6 +1476,7 @@ Select your operating system:"</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
   <string name="nearby_wifi">Available networks</string>
+  <string name="need_reboot_now">Need reboot to complete update,please reboot now !</string>
   <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_error">Network error</string>

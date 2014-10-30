@@ -22,15 +22,15 @@
   <string name="direction_west">W</string>
   <string name="do_not_show_next_time">"Don't show again"</string>
   <string name="getting_location">Calibrating…</string>
-  <string name="guide_toast">To calibrate, move your phone in the motion shown below</string>
+  <string name="guide_toast">To calibrate, move your phone in the motion below.</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
-  <string name="location_enable">Enable</string>
-  <string name="location_enable_later">Not now</string>
-  <string name="location_enabled">Service is open, you could disable it in location settings</string>
+  <string name="location_enable">Allow</string>
+  <string name="location_enable_later">Later</string>
+  <string name="location_enabled">You can turn off location services any time in Settings.</string>
   <string name="location_north">NL</string>
-  <string name="location_not_enabled_summary">Directory needs to find your location to function properly.</string>
-  <string name="location_not_enabled_title">Enable location services</string>
+  <string name="location_not_enabled_summary">Directory needs your location info to work normally.</string>
+  <string name="location_not_enabled_title">Location services</string>
   <string name="location_south">SL</string>
   <string name="location_west">WL</string>
   <string name="longitude">LON</string>
@@ -40,8 +40,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressure</string>
   <string name="pressure_unit">hPa</string>
-  <string name="using_camera_confirm_cancel">Exit</string>
-  <string name="using_camera_confirm_message">We are using camera device while in the Compass application.</string>
-  <string name="using_camera_confirm_ok">Agree and continue</string>
-  <string name="using_camera_confirm_title">Terms and Agreements</string>
+  <string name="using_camera_confirm_cancel">Quit</string>
+  <string name="using_camera_confirm_message">"Compass needs to use your device's camera to work normally."</string>
+  <string name="using_camera_confirm_ok">Agree</string>
+  <string name="using_camera_confirm_title">Camera access</string>
 </resources>

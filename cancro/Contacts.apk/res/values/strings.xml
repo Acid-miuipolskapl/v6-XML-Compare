@@ -1000,6 +1000,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="set_default">Set default</string>
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
+  <string name="share_over_limit">"Over the limit, can't be shared"</string>
   <string name="share_via">Send</string>
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a contact shortcut</string>
