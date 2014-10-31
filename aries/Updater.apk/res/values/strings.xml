@@ -63,7 +63,7 @@
   <string name="get_auto">Use mobile network or WLAN</string>
   <string name="get_current">Get current</string>
   <string name="get_update_error">Failed to get update info</string>
-  <string name="go_on_download">Continue</string>
+  <string name="go_on_download">Download</string>
   <string name="install">Install</string>
   <string name="install_failed">Update failed</string>
   <string name="install_file_explorer">You need to install File Explorer</string>
@@ -92,11 +92,11 @@
   <string name="next">Next</string>
   <string name="no_log">No summary available</string>
   <string name="no_proper_updates">No updates available</string>
-  <string name="no_wifi_msg">"You're no longer connect to WLAN. Continuing to download over your mobile data connection will increase your data usage."</string>
+  <string name="no_wifi_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="no_wifi_title">Data usage warning</string>
   <string name="notification_downloading">Downloading update…</string>
-  <string name="notification_load_body_alpha">Sign in to your Mi Account to update your device.</string>
-  <string name="notification_load_body_dev">"Sign in to your Mi Account to make sure you're getting the right updates."</string>
+  <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
+  <string name="notification_load_body_dev">Get the latest updates for your device.</string>
   <string name="notification_load_title_alpha">Sign in to your Mi Account</string>
   <string name="notification_load_title_dev">Sign in to your Mi Account</string>
   <string name="notification_new_version">Update to %s</string>
@@ -120,7 +120,7 @@
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
-  <string name="set_installfail_msg">Downloading this update over your mobile data connection will increase your data usage.</string>
+  <string name="set_installfail_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">Update failed</string>
   <string name="set_network_msg">Connect to a WLAN network before downloading this update.</string>
@@ -138,7 +138,7 @@
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-  <string name="space_not_enough_msg">"There's not enough storage space on your device to download this update."</string>
+  <string name="space_not_enough_msg">"There's not enough storage space on your device."</string>
   <string name="space_not_enough_title">Not enough space</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Submit</string>
@@ -158,8 +158,8 @@
   <string name="update_feedback_end">"You missed this week's four-grid"</string>
   <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
   <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
-But you can take part next Tuesday"</string>
-  <string name="update_feedback_need_update">Currently you are not using the latest development version n upgrade to the latest development version before voting</string>
+But you can take part next Tuesday."</string>
+  <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
   <string name="update_feel">What do you think?</string>
   <string name="update_general">So-so</string>
   <string name="update_happy">Awesome!</string>

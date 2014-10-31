@@ -340,10 +340,10 @@
   <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
-  <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
-  <string name="error_not_acceptable">Sync has been disabled.</string>
+  <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
+  <string name="error_not_acceptable">Sync has been turned off.</string>
   <string name="error_title">"Couldn't sync"</string>
-  <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
+  <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
@@ -466,8 +466,8 @@
   <string name="organization">Organization</string>
   <string name="perm_payment_dspt">Allow app to pay through Mi Payment Service</string>
   <string name="perm_payment_lab">Mi Payment Service</string>
-  <string name="permdesc_sendSmsNoConfirmation">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
-  <string name="permlab_sendSmsNoConfirmation">send SMS messages with no confirmation</string>
+  <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking you first. This may result in unexpected charges from your carrier.</string>
+  <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
   <string name="phone">Phone</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Privacy Policy</string>

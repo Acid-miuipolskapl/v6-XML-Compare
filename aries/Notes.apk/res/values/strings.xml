@@ -79,6 +79,9 @@
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Image %1$s]</string>
   <string name="sns_action_send">Send</string>
+  <string name="sns_choose_quality_high">High (%1$s)</string>
+  <string name="sns_choose_quality_low">Low</string>
+  <string name="sns_choose_quality_title">Choose image quality</string>
   <string name="sns_content_default">Share picture</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>

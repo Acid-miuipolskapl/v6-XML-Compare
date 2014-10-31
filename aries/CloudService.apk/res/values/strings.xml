@@ -14,6 +14,8 @@
   <string name="bad_authentication">Invalid username or password</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
+  <string name="buy_space_expire">Purchased space will expire in %s</string>
+  <string name="buy_space_expire_concat">%1$s to %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Renew automatically</string>
   <string name="buy_space_sulotion_message">Buy %sGB additional storage space</string>
   <string name="buy_space_sulotion_not_auto_renew">"Don't renew automatically"</string>
@@ -89,6 +91,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="less_flow_mode">Data saver</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
+  <string name="loading_hint">Loading</string>
   <string name="master_alert_notif_dspt_add">%s items to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
@@ -166,7 +169,7 @@ You can turn this feature on and off any time in Settings."</string>
   <string name="sub_alert_notif_dspt_add">%s items to sync</string>
   <string name="sub_alert_notif_dspt_no">Synced</string>
   <string name="sub_alert_notif_title">Not syncing</string>
-  <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
+  <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync">Sync</string>
