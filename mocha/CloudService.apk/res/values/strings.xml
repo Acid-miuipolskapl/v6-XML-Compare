@@ -168,7 +168,7 @@ You can turn this feature on and off any time in Settings."</string>
   <string name="sub_alert_notif_dspt_add">%s items to sync</string>
   <string name="sub_alert_notif_dspt_no">Synced</string>
   <string name="sub_alert_notif_title">Not syncing</string>
-  <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're conntected to a WLAN network"</string>
+  <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync">Sync</string>

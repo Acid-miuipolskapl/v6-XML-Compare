@@ -211,6 +211,7 @@
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
+  <string name="att_file_not_exists">File %s is not found!</string>
   <string name="att_mgr_no_attachment">Empty</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Name</string>
@@ -223,8 +224,11 @@
   <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentation</string>
   <string name="attachment_audio">Audio</string>
+  <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
+  <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
   <string name="attachment_image">Image</string>
   <string name="attachment_mgr_name">Attachments</string>
+  <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_not_found">"Can't download attachment"</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -401,7 +405,7 @@
   <string name="fetching_attachment">Getting attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Can't find file"</string>
-  <string name="file_not_found_reDownload">"Can't find file"</string>
+  <string name="file_not_found_redownload">"Can't find file"</string>
   <string name="file_rar_not_support">"Can't open encrypted rar files"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_drafts_name_cn0">草稿</string>
@@ -547,6 +551,7 @@
   <string name="menu_search">Search</string>
   <string name="menu_settings">Settings</string>
   <string name="menu_show_original">Revert auto-sizing</string>
+  <string name="merged_mailbox_compose_select_account">Select Account</string>
   <string name="message_body_auto_download_complete">Downloaded mail using Wi-Fi</string>
   <string name="message_body_auto_download_tip">"Your mail will be downloaded automatically when you're connected to Wi-Fi."</string>
   <string name="message_body_download_failed">"Can't download mail. Connection timed out."</string>
@@ -618,7 +623,11 @@ CC: %4$s
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_sent_failed">"Attachment's size exceeds the recipient's limit."</string>
+  <string name="outbox_alert_duplicate_click">"Don't duplicate click, mail is synchronizing"</string>
+  <string name="outbox_alert_edit_resend">Edit and resend</string>
+  <string name="outbox_alert_failed_edit_resend">Send failed, please edit and resend</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
+  <string name="outbox_alert_select_operation">Please select operation</string>
   <string name="outbox_alert_title_sent_failed">"Can't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
@@ -715,6 +724,7 @@ CC: %4$s
   <string name="recent_folders_heading">Recent folders</string>
   <string name="recipient_error_dialog_title">Recipient error</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
+  <string name="recipient_null_dialog_title">Alert</string>
   <string name="refresh">Refresh</string>
   <string name="refreshing">Syncing…</string>
   <string name="refreshing_done">Done</string>
@@ -837,6 +847,7 @@ CC: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
+  <string name="unread_from_someone">Unread from [%s]</string>
   <string name="unread_string">conversation unread</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="updated_at">Last update: %1$s</string>
