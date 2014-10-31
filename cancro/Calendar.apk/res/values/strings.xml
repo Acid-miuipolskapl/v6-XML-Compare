@@ -48,7 +48,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until the %3$s (%4$s)</string>
-  <string name="birthday_notification_text_today">"Don't forget congratulations!"</string>
+  <string name="birthday_notification_text_today">"Don't forget to contact them."</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's %2$s is coming up"</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
