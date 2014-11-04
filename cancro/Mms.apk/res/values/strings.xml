@@ -267,6 +267,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="my_bookmark">Bookmarks</string>
   <string name="need_download">Syncing…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">You have a new message</string>
