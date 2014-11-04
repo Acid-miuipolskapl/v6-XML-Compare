@@ -5,7 +5,7 @@
   <string name="action_exit">Exit</string>
   <string name="action_local_ota">Choose update package</string>
   <string name="action_pop_about">About</string>
-  <string name="action_pop_lab">Fitness Center</string>
+  <string name="action_pop_lab">Lab Features</string>
   <string name="action_pop_my_bracelet">Settings</string>
   <string name="action_pop_person_info">Profile</string>
   <string name="action_pop_smart_alarms">Alarm</string>
@@ -41,7 +41,8 @@ Terms of Service: %2$s"</string>
   <string name="bind_bracelet">Band paired</string>
   <string name="bind_bracelet_ok">Band paired</string>
   <string name="bind_new_mili">Add new band</string>
-  <string name="bind_qq_health">Sync with QQ Health Center</string>
+  <string name="bind_qq">Sync with QQ</string>
+  <string name="bind_qq_health">Sync with QQ Health</string>
   <string name="bind_qq_health_tip">"Sync steps and sleep info to qq health platform,
 you need available network."</string>
   <string name="bind_qq_health_title">Add QQ Account</string>
@@ -82,6 +83,7 @@ Address: %2$s"</string>
   <string name="cm">cm</string>
   <string name="come_from_xiaomi_bracelet">Mi Band</string>
   <string name="confirm">OK</string>
+  <string name="confirm_lazy_day">Are you sure to confirm a lazy day?</string>
   <string name="connect_bracelet_now">Connecting…</string>
   <string name="content_too_short">Enter message content</string>
   <string name="continue_reach_goal"> goals</string>
@@ -196,8 +198,8 @@ Address: %2$s"</string>
   <string name="goals_push_ten">100% complete</string>
   <string name="gram">g</string>
   <string name="green">Green</string>
-  <string name="half_marathon_format_0">" about %1$s half-marathons."</string>
-  <string name="half_marathon_format_1">" over %1$s half-marathons."</string>
+  <string name="half_marathon_format_0">" is about %1$s half-marathons."</string>
+  <string name="half_marathon_format_1">" is over %1$s half-marathons."</string>
   <string name="help">Help</string>
   <string name="help_info_0">Make sure the band is close to your device throughout the entire pairing process.</string>
   <string name="help_info_1">"Make sure the band is charged and hasn't run out of power."</string>
@@ -230,14 +232,14 @@ your goal"</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string>
   <string name="lab_factory_cheat_toast">"Don't cheat on us~"</string>
-  <string name="lab_factory_disconnected_reminder">Disconnect reminder</string>
-  <string name="lab_factory_disconnected_reminder_disconnect">Before changing settings, connect bracelet</string>
-  <string name="lab_factory_disconnected_reminder_tips">When bracelet connection is lost, it will vibrate</string>
+  <string name="lab_factory_disconnected_reminder">蓝牙断开连接提醒</string>
+  <string name="lab_factory_disconnected_reminder_disconnect">请先连接手环,再进行提醒设置</string>
+  <string name="lab_factory_disconnected_reminder_tips">当手环与手机蓝牙连接断开时，手环会振动1次并且点亮白色指示灯进行提醒</string>
   <string name="lab_factory_exercise_state_paused">Pause</string>
   <string name="lab_factory_exercise_state_ready">GO</string>
   <string name="lab_factory_exercise_state_stopped">Stop</string>
   <string name="lab_factory_exit_press_again">Tap back key again to exit</string>
-  <string name="lab_factory_internal_test">Sport modes testing and analysis</string>
+  <string name="lab_factory_internal_test">运动模式分析测试</string>
   <string name="lab_factory_item_group_others">Others</string>
   <string name="lab_factory_item_group_social">Social</string>
   <string name="lab_factory_item_group_sport">Sports</string>
@@ -245,13 +247,15 @@ your goal"</string>
   <string name="lab_factory_share_photo_menu_camera">Camera</string>
   <string name="lab_factory_share_photo_menu_gallery">Gallery</string>
   <string name="lab_factory_share_photo_menu_title">Select photo from</string>
+  <string name="lab_factory_sport_accumulate">Accumulate %d time(s)</string>
   <string name="lab_factory_sport_analyser_activity_not_found">Failed to load UI</string>
-  <string name="lab_factory_sport_attention_punish_cheating">&lt;font color="#ff0000"&gt;No cheating! We are watching you...&lt;/font&gt;</string>
   <string name="lab_factory_sport_average_rate_per_minute">Velocity &lt;b&gt;%d&lt;/b&gt; time(s)/min</string>
   <string name="lab_factory_sport_best_record">Personal Best:</string>
   <string name="lab_factory_sport_button_restart">Restart</string>
   <string name="lab_factory_sport_button_stop">Stop</string>
   <string name="lab_factory_sport_come_on">Come on to create personal best</string>
+  <string name="lab_factory_sport_continuous_ropeskipping">Continuous</string>
+  <string name="lab_factory_sport_continuous_situp">Continuous</string>
   <string name="lab_factory_sport_device_preparing">Preparing</string>
   <string name="lab_factory_sport_finish_desc">Finish</string>
   <string name="lab_factory_sport_gb_count">Continuous PB %d time(s)</string>
@@ -293,16 +297,21 @@ your goal"</string>
   <string name="lab_factory_sport_type_pingpong">Ping Pong</string>
   <string name="lab_factory_sport_type_riding">Riding</string>
   <string name="lab_factory_sport_type_ropeskipping">Rope Skipping</string>
+  <string name="lab_factory_sport_type_running">Running</string>
   <string name="lab_factory_sport_type_situp">Sit-up</string>
   <string name="lab_factory_sport_type_skidding">Skidding</string>
-  <string name="lab_factory_sport_type_sliding">Sliding</string>
+  <string name="lab_factory_sport_type_sliding">Skateboard</string>
   <string name="lab_factory_sport_type_swimming">Swimming</string>
   <string name="lab_factory_sport_type_tennis">Tennis</string>
   <string name="lab_factory_sport_type_volleyball">Volleyball</string>
   <string name="lab_factory_sport_unit">Time(s)</string>
+  <string name="lab_factory_sport_vote_desc">Please vote for your most favorite sport</string>
   <string name="lab_factory_sport_vote_others_hint">Input your favorite sport here</string>
+  <string name="lab_factory_sport_vote_result_desc">Thanks for your vote</string>
+  <string name="lab_factory_sport_vote_result_sub_desc">You have voted for</string>
+  <string name="lab_factory_sport_vote_sub_desc">It is coming soon after next app upgrade</string>
   <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130&gt;%1$s&lt;/font&gt;</string>
-  <string name="lab_factory_title">Fitness Center</string>
+  <string name="lab_factory_title">Lab Features</string>
   <string name="left_hand">Left hand</string>
   <string name="light_color">Band light color</string>
   <string name="light_color_title">Light color that shows workout progress</string>
@@ -317,14 +326,14 @@ your goal"</string>
   <string name="main_ui_sleep_share_tips">"Light sleep: %1$s%2$s
 Fell asleep at %3$s | Woke up at %4$s"</string>
   <string name="male">Male</string>
-  <string name="marathon_format_0">" about %1$s marathons."</string>
-  <string name="marathon_format_1">" over %1$s marathons."</string>
+  <string name="marathon_format_0">" is about %1$s marathons."</string>
+  <string name="marathon_format_1">" is over %1$s marathons."</string>
   <string name="mili_exit_login_info">Sign out of your Mi Account?</string>
   <string name="mili_exit_login_info_continue">"Your most recent fitness data hasn't been synced with your Mi Account. If you sign out now, this data will be lost."</string>
   <string name="mili_exit_login_info_continue_tip">Sign out of your Mi Account?</string>
   <string name="mili_exit_login_info_exiting">Signing out…</string>
-  <string name="mili_exit_login_info_unbind">Signing out will unpair your band with this device.</string>
-  <string name="mili_exit_login_info_unlock">"You won't be able to unlock this device using your band after your sign out."</string>
+  <string name="mili_exit_login_info_unbind">Signing out will unpair your band with this device. </string>
+  <string name="mili_exit_login_info_unlock">"You won't be able to unlock this device using your band after your sign out. "</string>
   <string name="mili_name">Band name</string>
   <string name="mili_name_too_long">The name you entered is too long.</string>
   <string name="mili_rename_fail">"Couldn't change band name."</string>
@@ -356,10 +365,11 @@ Great work!"</string>
   <string name="no_network_connection">"Can't connect to the network"</string>
   <string name="no_wear_bracelet">"You didn't wear your band last night."</string>
   <string name="no_wear_user_modified">Add sleep details manually</string>
-  <string name="noti_bracelet_low_battery_content">Band has less than 5% power remaining.</string>
-  <string name="noti_bracelet_low_battery_content_none">You need to recharge your band.</string>
+  <string name="noti_bracelet_low_battery_content_high">Band has less than 5% power remaining.</string>
+  <string name="noti_bracelet_low_battery_content_low">Battery is very low, You need to recharge your band.</string>
+  <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
   <string name="noti_bracelet_low_battery_title">Low battery</string>
-  <string name="noti_bracelet_low_battery_title_none">Band has powered off</string>
+  <string name="noti_bracelet_low_battery_title_low">Band has powered off</string>
   <string name="notify_status_motor">Vibrating…</string>
   <string name="notify_status_motor_alarm">Alarm clock ringing…</string>
   <string name="notify_status_motor_auth">Pairing…</string>
@@ -377,9 +387,9 @@ Great work!"</string>
   <string name="orange">Orange</string>
   <string name="person_info_finished_info">"OK, you're all set!"</string>
   <string name="person_info_goal_info">"Experts recommend 40 minutes of exercise
-or about 8,000 steps a day for an active, healthy lifestyle."</string>
+or about 8,000 steps a day for a healthy lifestyle."</string>
   <string name="person_info_goal_info_young">"Experts recommend 60 minutes of exercise
-or about 12,000 steps a day for an active, healthy lifestyle."</string>
+or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="personal_info">Profile</string>
   <string name="please_input_age">Age</string>
   <string name="please_input_gender">Select a gender</string>
@@ -387,12 +397,12 @@ or about 12,000 steps a day for an active, healthy lifestyle."</string>
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
   <string name="prev_step">Back</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">加载更多</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
   <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-  <string name="pull_to_refresh_pull_label">Pull to refresh</string>
-  <string name="pull_to_refresh_refreshing_label">Refreshing...</string>
-  <string name="pull_to_refresh_release_label">Release to refresh</string>
+  <string name="pull_to_refresh_pull_label">下拉刷新</string>
+  <string name="pull_to_refresh_refreshing_label">正在加载…</string>
+  <string name="pull_to_refresh_release_label">松开加载</string>
   <string name="ran">ran </string>
   <string name="red">Red</string>
   <string name="register">Create Mi Account</string>
@@ -421,11 +431,10 @@ or about 12,000 steps a day for an active, healthy lifestyle."</string>
   <string name="set_mili_name_ok">Name saved</string>
   <string name="set_person_goal">Set goal</string>
   <string name="set_sport_goal">Set goal</string>
-  <string name="setting_about_app">"App version: 
- Tweaked by dezmen3"</string>
+  <string name="setting_about_app">App version </string>
   <string name="setting_about_fw">Version </string>
   <string name="setting_feedback_address">Contact info</string>
-  <string name="setting_feedback_hint">Thank you for your feedback.</string>
+  <string name="setting_feedback_hint">Tell us how we can do better.</string>
   <string name="setting_feedback_send">Send</string>
   <string name="share">Share</string>
   <string name="share_blog_cancel">Cancel</string>
@@ -487,10 +496,12 @@ Burned %3$s cal.Previous record was
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band</string>
   <string name="share_uninstall_client">"This app hasn't been installed."</string>
+  <string name="signal_strength">Signal strength: </string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
-  <string name="smart_wake_up">Alarm</string>
-  <string name="smart_wake_up_info">Wake me up 30 minutes before set time</string>
+  <string name="smart_wake_up">Early bird alarm</string>
+  <string name="smart_wake_up_info">"Wake me up 30 minutes before set time
+I'd like to get up in awake stage"</string>
   <string name="start">Start</string>
   <string name="start_download">Downloading…</string>
   <string name="start_weixin">Open WeChat</string>
@@ -558,7 +569,7 @@ Burned %3$s cal.Previous record was
   <string name="unbind_short">Unpair</string>
   <string name="unbinding">Unpairing…</string>
   <string name="unit_calorie">cal</string>
-  <string name="unit_hour">hrs</string>
+  <string name="unit_hour">h</string>
   <string name="unit_kilometer">km</string>
   <string name="unit_meter">m</string>
   <string name="unit_min">min</string>
