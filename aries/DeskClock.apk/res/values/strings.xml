@@ -48,6 +48,7 @@
   <string name="delete_timezone_title">Delete timezone</string>
   <string name="dialog_confirm_abort">Discard changes?</string>
   <string name="done">Done</string>
+  <string name="edit_systemtime">Edit system time</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Everyday</string>
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
@@ -66,7 +67,6 @@
   <string name="loading_ringtone">Loading ringtone…</string>
   <string name="menu_add_worldclock">Add clock</string>
   <string name="menu_desk_clock">Desk clock</string>
-  <string name="menu_edit_systemtime">System time</string>
   <string name="menu_edit_timer_item">Edit timer task</string>
   <string name="menu_item_dock_settings">Dock settings</string>
   <string name="minute">1 minute</string>

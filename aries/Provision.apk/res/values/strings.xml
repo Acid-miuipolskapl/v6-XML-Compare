@@ -8,6 +8,8 @@
   <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s</string>
   <string name="input_method_category">"Choose the default keyboard that you'll use when writing emails, notes, and just about everywhere else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">Choose default keyboard</string>
+  <string name="locale_picker_confirm_dialog_desc">Determine select %s as your location?</string>
+  <string name="locale_picker_confirm_dialog_title">Location Setting</string>
   <string name="locale_picker_desc">"If you want to change your location later on, you'll need to reset your device to its factory settings."</string>
   <string name="locale_picker_title">Choose your location</string>
   <string name="logo_congratulation">"You're all set!"</string>

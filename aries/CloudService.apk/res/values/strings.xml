@@ -121,6 +121,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
+  <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
+  <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>

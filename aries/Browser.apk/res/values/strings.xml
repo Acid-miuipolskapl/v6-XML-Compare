@@ -665,10 +665,10 @@
   <string name="sync_item_browser_summary">Sync data to your cloud, and make using browser on different devices easy</string>
   <string name="sync_item_browser_title">Sync browser</string>
   <string name="tab_history">History</string>
+  <string name="tab_hotpage">Trending</string>
   <string name="tab_most_visited">Most visited</string>
   <string name="tab_quicklinks">Useful</string>
   <string name="tab_snapshots">Saved pages</string>
-  <string name="tab_videopage">Video</string>
   <string name="tab_yellowpage">Popular</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>

@@ -5,7 +5,6 @@
   <string name="activity_not_found_uri">No app was found to handle this action</string>
   <string name="addBlackList">Add to blocklist</string>
   <string name="add_attachment">Add attachments</string>
-  <string name="add_bookmark">Starred</string>
   <string name="add_contact">Contact</string>
   <string name="add_festival">Quick responses</string>
   <string name="add_music">Add music</string>
@@ -231,7 +230,7 @@
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
-  <string name="msg_type_hint_mx">Mi message</string>
+  <string name="msg_type_hint_mx">Mi Message</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
   <string name="msglist_more_refreshing">Refreshing…</string>
@@ -256,14 +255,14 @@
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Turn on</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS"</string>
-  <string name="mx_current_status">Status: online</string>
+  <string name="mx_current_status">Online</string>
   <string name="mx_dspt">Mi Message lets you send messages back and forth with anyone else using MIUI</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_popup_msg">Send messages back and forth for free with other users also using this feature</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
-  <string name="mx_on_sim_1">Mi Messaging with SIM slot 1</string>
-  <string name="mx_on_sim_2">Mi Messaging with SIM slot 2</string>
+  <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
+  <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
