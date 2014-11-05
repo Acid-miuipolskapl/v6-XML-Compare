@@ -19,7 +19,7 @@
   <string name="button_text_check">Check</string>
   <string name="button_text_later_reboot">Reboot later</string>
   <string name="button_text_reboot">Reboot now</string>
-  <string name="button_text_reboot_hm">After reboot</string>
+  <string name="button_text_reboot_hm">Reboot now</string>
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading this update?</string>
   <string name="cancel_download_buton_text">Cancel</string>
