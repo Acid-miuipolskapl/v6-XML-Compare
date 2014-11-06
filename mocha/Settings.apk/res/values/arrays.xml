@@ -1281,4 +1281,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>150</item>
         <item>200</item>
     </string-array>
+    <string-array name="whetstone_level_entries">
+        <item>Off</item>
+        <item>Low</item>
+        <item>Middle</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
 </resources>

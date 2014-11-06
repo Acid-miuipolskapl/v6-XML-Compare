@@ -100,6 +100,7 @@
   <string name="file_too_large">File is too big to upload</string>
   <string name="finished">Complete</string>
   <string name="folder_exist">The folder already exists.</string>
+  <string name="folder_name_illegal">Invalid folder name</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
   <string name="ftp_account_req_notice">4-16 chars, letters and digits, case sensitive</string>
   <string name="ftp_anonymous_login">Anonymous login</string>

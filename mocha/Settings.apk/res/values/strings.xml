@@ -2601,6 +2601,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_settings_title">Wireless display</string>
   <string name="wfd_wps_keypad">Push button preferred</string>
   <string name="wfd_wps_pbc">Prefer to input PIN</string>
+  <string name="whetstone_level_reboot">This setting will take effect when you restart your device</string>
+  <string name="whetstone_level_reboot_OK">Reboot</string>
+  <string name="whetstone_level_title">System memory optimization</string>
   <string name="widget_picker_title">Choose widget</string>
   <string name="wifi_access_points">WLAN networks</string>
   <string name="wifi_add_network">Add network</string>
