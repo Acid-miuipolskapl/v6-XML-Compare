@@ -36,19 +36,19 @@
   <string name="account_set_up_notice">Set up your mailbox in just a few steps</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
-  <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Download attachments to recent messages using Wi-Fi</string>
   <string name="account_settings_data_usage">Data usage</string>
   <string name="account_settings_description_label">Account name</string>
   <string name="account_settings_edit_quick_responses_label">Quick responses</string>
-  <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing email</string>
-  <string name="account_settings_enforced_label">Policies enforced</string>
+  <string name="account_settings_edit_quick_responses_summary">Edit brief messages you can paste into your emails</string>
+  <string name="account_settings_enforced_label">Policies</string>
   <string name="account_settings_enforced_summary">None</string>
   <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
   <string name="account_settings_incoming_label">Incoming settings</string>
   <string name="account_settings_incoming_summary">Username, password, and other incoming server settings</string>
   <string name="account_settings_list_title">Choose your mail service provider:</string>
   <string name="account_settings_login_dialog_content_fmt">The username or password for %s is incorrect. Do you want to update them now?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Your login to %s failed; the server said: %s Do you want to update your username and/or password?</string>
+  <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
   <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
   <string name="account_settings_mail_check_frequency_label">Sync frequency</string>
   <string name="account_settings_name_label">Your name</string>
@@ -60,7 +60,7 @@
   <string name="account_settings_param">Account settings</string>
   <string name="account_settings_policies">Security policies</string>
   <string name="account_settings_retry_label">Attempt sync</string>
-  <string name="account_settings_retry_summary">Touch here to sync this account</string>
+  <string name="account_settings_retry_summary">Touch to sync account</string>
   <string name="account_settings_ringtone">Choose ringtone</string>
   <string name="account_settings_servers">Server settings</string>
   <string name="account_settings_summary">Sync frequency, notifications, etc.</string>
@@ -121,7 +121,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
   <string name="account_setup_incoming_mail_adress_label">Email address</string>
-  <string name="account_setup_incoming_mail_domain_hint">Can be empty</string>
+  <string name="account_setup_incoming_mail_domain_hint">This field can be empty</string>
   <string name="account_setup_incoming_mail_domain_label">Domain</string>
   <string name="account_setup_incoming_password_label">Password</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -168,7 +168,7 @@
   <string name="account_setup_outgoing_headline">Outgoing server settings</string>
   <string name="account_setup_outgoing_password_label">Password</string>
   <string name="account_setup_outgoing_port_label">Port</string>
-  <string name="account_setup_outgoing_require_login_label">Require signin</string>
+  <string name="account_setup_outgoing_require_login_label">Require sign-in</string>
   <string name="account_setup_outgoing_security_label">Security type</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
   <string name="account_setup_outgoing_title">Account setup</string>
@@ -212,7 +212,7 @@
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
   <string name="att_file_not_exists">File %s is not found!</string>
-  <string name="att_mgr_no_attachment">Empty</string>
+  <string name="att_mgr_no_attachment">No attachments.</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Name</string>
   <string name="att_mgr_title_order_rev_date">Date</string>
@@ -226,6 +226,7 @@
   <string name="attachment_audio">Audio</string>
   <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
   <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
+  <string name="attachment_download_all">Download all</string>
   <string name="attachment_image">Image</string>
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
@@ -262,7 +263,7 @@
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Cc: "</string>
-  <string name="change_account_confirm">The account \"%1$s\" will be removed from WPS Mail.</string>
+  <string name="change_account_confirm">The account \"%1$s\" will be removed from Mail.</string>
   <string name="change_account_type">Change account type</string>
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
@@ -274,6 +275,7 @@
   <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
   <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
+  <string name="click_download_all_content">[ Tap to download content ]</string>
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
@@ -283,7 +285,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete this email?</string>
   <string name="confirm_discard_text">Discard this message?</string>
-  <string name="confirm_response">Sending response…</string>
+  <string name="confirm_response">Sending…</string>
   <string name="confirm_save_message_no">Discard</string>
   <string name="confirm_save_message_title">Save as draft?</string>
   <string name="confirm_save_message_yes">Save</string>
@@ -342,7 +344,7 @@
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Mi phone</string>
   <string name="delete">Delete</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s have been deleted</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s deleted</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
@@ -365,14 +367,14 @@
   <string name="downlaod_confirm_download">Download</string>
   <string name="downlaod_nonWifi_confirm_message">Use your mobile data connection to download this attachment?</string>
   <string name="download_again">Download again</string>
-  <string name="download_before_sharing">" hasn't finished downloading yet"</string>
-  <string name="download_before_view">"It hasn't been downloaded yet, please download it firstly!"</string>
+  <string name="download_before_sharing">" hasn't finished downloading."</string>
+  <string name="download_before_view">"This message hasn't been downloaded."</string>
   <string name="download_cancel_confirm_title">Download will be stopped</string>
   <string name="download_complete_not_cancel">Download finished</string>
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_failed">"Couldn't download. Touch to retry."</string>
-  <string name="downloading_message_body">Downloading mail…</string>
+  <string name="downloading_message_body">Downloading…</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -384,7 +386,7 @@
   <string name="email_feedback_uri"/>
   <string name="email_package_name">com.android.email</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
-  <string name="empty_account_tip">"Can't find account"</string>
+  <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
   <string name="empty_spam">Empty Spam</string>
   <string name="empty_spam_dialog_title">Empty Spam?</string>
@@ -404,10 +406,15 @@
   <string name="feedback_sent">Thank you for your feedback</string>
   <string name="fetching_attachment">Getting attachment</string>
   <string name="file_deleted_success">File deleted</string>
-  <string name="file_not_found">"Can't find file"</string>
-  <string name="file_not_found_redownload">"Can't find file"</string>
+  <string name="file_not_found">"Couldn't find file"</string>
+  <string name="file_not_found_redownload">"Couldn't find file"</string>
   <string name="file_rar_not_support">"Can't open encrypted rar files"</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="flow_saved_dlg_do_not_show">"Don't show again"</string>
+  <string name="flow_saved_dlg_i_know">OK</string>
+  <string name="flow_saved_dlg_message">%1$d new messages. Saved %2$s (mobile data).</string>
+  <string name="flow_saved_dlg_title">Reduced your data usage</string>
+  <string name="flow_saved_preference_total">Saved %1$s.</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_en0">Drafts</string>
@@ -457,6 +464,7 @@
   <string name="header_category_other">Additional settings</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Help</string>
+  <string name="hide_atts_remaining">Hide %1$d attachments</string>
   <string name="hide_elided">▼ Hide quoted text</string>
   <string name="hide_folders">Hide folders</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -479,9 +487,9 @@
   <string name="load_more">Load more</string>
   <string name="loading_conversation">Loading…</string>
   <string name="loading_conversations">Loading…</string>
-  <string name="loading_from_remote">Searching on the server...</string>
+  <string name="loading_from_remote">Searching…</string>
   <string name="local_search">Local search</string>
-  <string name="local_search_result">%s emails found from all the local emails</string>
+  <string name="local_search_result">%s emails found on your device.</string>
   <string name="login">Sign in</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_title">"Can't sign in"</string>
@@ -489,6 +497,11 @@
   <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
+  <string name="mail_header_downloading_message_body">Downloading…</string>
+  <string name="mail_header_message_body_auto_download_complete">Downloaded email content using Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">Email content will be downloaded using Wi-Fi.</string>
+  <string name="mail_header_message_body_download_failed">Connection timed out.</string>
+  <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Combined inbox</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
@@ -554,7 +567,8 @@
   <string name="merged_mailbox_compose_select_account">Select Account</string>
   <string name="message_body_auto_download_complete">Downloaded mail using Wi-Fi</string>
   <string name="message_body_auto_download_tip">"Your mail will be downloaded automatically when you're connected to Wi-Fi."</string>
-  <string name="message_body_download_failed">"Can't download mail. Connection timed out."</string>
+  <string name="message_body_download_failed">"Couldn't download mail. Connection timed out."</string>
+  <string name="message_body_loading">[ Loading… ]</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Original Message --------
@@ -579,6 +593,7 @@ CC: %4$s
   <string name="message_type_name">messages</string>
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
   <string name="mock_content_provider">Mock Content Provider</string>
+  <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_atts_total">%1$d attachments</string>
   <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
@@ -595,10 +610,10 @@ CC: %4$s
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
-  <string name="no_contacts">Empty</string>
+  <string name="no_contacts">No contacts.</string>
   <string name="no_conversations">No messages</string>
-  <string name="no_mails">Empty</string>
-  <string name="no_matched_attachment">Nothing matched your search</string>
+  <string name="no_mails">No mail.</string>
+  <string name="no_matched_attachment">No results.</string>
   <string name="no_wifi_promot">"You're currently using your mobile data connection"</string>
   <string name="non_synced_folder_description">To view conversations, sync this folder.</string>
   <string name="not_subject">(No subject)</string>
@@ -622,13 +637,13 @@ CC: %4$s
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
-  <string name="outbox_alert_description_sent_failed">"Attachment's size exceeds the recipient's limit."</string>
-  <string name="outbox_alert_duplicate_click">"Don't duplicate click, mail is synchronizing"</string>
+  <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the recipient's limit."</string>
+  <string name="outbox_alert_duplicate_click">Still syncing…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
-  <string name="outbox_alert_failed_edit_resend">Send failed, please edit and resend</string>
+  <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
-  <string name="outbox_alert_select_operation">Please select operation</string>
-  <string name="outbox_alert_title_sent_failed">"Can't send mail"</string>
+  <string name="outbox_alert_select_operation">Choose an action</string>
+  <string name="outbox_alert_title_sent_failed">"Could't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_changed_prompt">"Can't sign in"</string>
@@ -640,9 +655,9 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
-  <string name="perference_change_pw">Update password</string>
-  <string name="perference_change_pw_notnull_tips">Password can not be empty</string>
-  <string name="perference_change_pw_ok_tips">Password update sucess</string>
+  <string name="perference_change_pw">Change password</string>
+  <string name="perference_change_pw_notnull_tips">Enter your password</string>
+  <string name="perference_change_pw_ok_tips">Password changed</string>
   <string name="permission_access_provider_desc">Allows app to access your email, usernames, and passwords</string>
   <string name="permission_access_provider_label">Access user data</string>
   <string name="permission_read_attachment_desc">"Allows app to read your emails' attachments"</string>
@@ -669,7 +684,7 @@ CC: %4$s
   <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
   <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
-  <string name="policy_dont_allow_wifi">"Don't allow WLAN"</string>
+  <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
   <string name="policy_email_age">Limit the number of emails synced</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
   <string name="policy_max_attachment_size">Restrict attachment size</string>
@@ -686,6 +701,8 @@ CC: %4$s
   <string name="prefDefault_autoAdvance">list</string>
   <string name="prefDialogTitle_conversationListIcon">Sender image</string>
   <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
+  <string name="preference_head_load_description">Download message titles only, when using mobile data.</string>
+  <string name="preference_head_load_title">Reduce data usage</string>
   <string name="preference_removal_action_title">Archive &amp; delete actions</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in your inbox"</string>
   <string name="preference_sender_image_title">Profile pictures</string>
@@ -697,7 +714,7 @@ CC: %4$s
   <string name="preferences_signature_dialog_title">Signature</string>
   <string name="preferences_signature_summary_not_set">Not set</string>
   <string name="preferences_signature_title">Signature</string>
-  <string name="prefetched_got_it">"I've got it"</string>
+  <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Preview</string>
   <string name="previous_action">Back</string>
   <string name="prompt_title">Prompt</string>
@@ -726,14 +743,14 @@ CC: %4$s
   <string name="recipient_needed">Add at least 1 recipient.</string>
   <string name="recipient_null_dialog_title">Alert</string>
   <string name="refresh">Refresh</string>
-  <string name="refreshing">Syncing…</string>
+  <string name="refreshing">Refreshing…</string>
   <string name="refreshing_done">Done</string>
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_folders_heading">Server Folders</string>
   <string name="remote_search">All the emails on the server</string>
-  <string name="remote_search_result">%s emails found from all the emails on the server</string>
+  <string name="remote_search_result">%s emails found on the server.</string>
   <string name="remove_account">Remove account</string>
-  <string name="remove_account_confirm">\"%1$s\" will be removed from WPS Mail.</string>
+  <string name="remove_account_confirm">\"%1$s\" will be removed from Mail.</string>
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
@@ -749,7 +766,7 @@ CC: %4$s
   <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Report spam</string>
   <string name="request_entity_large">File is too big</string>
-  <string name="require_manual_sync_message">Background sync for this account is disabled while roaming.</string>
+  <string name="require_manual_sync_message">Sync for this account is turned off while roaming.</string>
   <string name="respond_inline">Respond inline</string>
   <string name="resume_draft">Edit</string>
   <string name="retry">Retry</string>
@@ -784,11 +801,11 @@ CC: %4$s
   <string name="sending">Sending…</string>
   <string name="sending_message">Sending message…</string>
   <string name="sent_folder_selection_title">Select server sent items folder for %s</string>
-  <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
-\u0009 (Check the setting is 'Auto sync time' setting)"</string>
-  <string name="ser_resp_err_map_nouser">No such user</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
+\u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
+  <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
   <string name="ser_resp_err_map_or">or</string>
-  <string name="ser_resp_err_map_serclosed">Server closed</string>
+  <string name="ser_resp_err_map_serclosed">Server is closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
   <string name="settings_activity_title">Settings</string>
@@ -847,12 +864,12 @@ CC: %4$s
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
-  <string name="unread_from_someone">Unread from [%s]</string>
+  <string name="unread_from_someone">Unread mail from %s</string>
   <string name="unread_string">conversation unread</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
-  <string name="updated_at">Last update: %1$s</string>
-  <string name="updated_just_now">Updated just now</string>
-  <string name="validation_failed_prompt">Validation failed, check %s server settings</string>
+  <string name="updated_at">Refreshed at %1$s</string>
+  <string name="updated_just_now">Refreshed just now</string>
+  <string name="validation_failed_prompt">"Couldn't validate. Check %s's settings."</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
@@ -876,15 +893,6 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_other_views">Other</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Yes</string>
-  <string name="zip_viewer_no_file">Empty</string>
+  <string name="zip_viewer_no_file">No files.</string>
 </resources>

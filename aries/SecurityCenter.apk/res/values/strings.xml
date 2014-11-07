@@ -57,7 +57,7 @@
   <string name="battery_desc_radio">Battery used by radio</string>
   <string name="battery_desc_standby">Battery used when phone is idle</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
-  <string name="battery_desc_wifi">Battery used by Wi‑Fi</string>
+  <string name="battery_desc_wifi">Battery used by WLAN</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
   <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
@@ -510,7 +510,7 @@
   <string name="power_settings_top">Top bar</string>
   <string name="power_subtitle_lowbattery">Switched battery profiles to save power.</string>
   <string name="power_subtitle_ontime">Battery switched profiles as scheduled.</string>
-  <string name="power_wifi">Wi‑Fi</string>
+  <string name="power_wifi">WLAN</string>
   <string name="pref_category_title_auto_update_cleanup_db">Updates</string>
   <string name="pref_category_title_cleanup_white_list">Exceptions</string>
   <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
@@ -683,15 +683,15 @@
   <string name="usage_type_cpu_foreground">CPU foreground</string>
   <string name="usage_type_data_recv">Mobile data received</string>
   <string name="usage_type_data_send">Mobile data sent</string>
-  <string name="usage_type_data_wifi_recv">Wi‑Fi data received</string>
-  <string name="usage_type_data_wifi_send">Wi‑Fi data sent</string>
+  <string name="usage_type_data_wifi_recv">WLAN data received</string>
+  <string name="usage_type_data_wifi_send">WLAN data sent</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
   <string name="usage_type_phone">Phone</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
-  <string name="usage_type_wifi_running">Wi‑Fi running</string>
+  <string name="usage_type_wifi_running">WLAN running</string>
   <string name="virus_list_header_title">%d viruses detected</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
