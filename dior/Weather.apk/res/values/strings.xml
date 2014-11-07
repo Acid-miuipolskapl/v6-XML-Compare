@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accuweather_default_url">http://www.accuweather.com</string>
+  <string name="accuweather_tag">accu</string>
   <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
@@ -18,6 +20,7 @@
   <string name="activity_find_city_dialog_title">Location service</string>
   <string name="activity_main_refresh_time">Last updated %1$s</string>
   <string name="activity_main_refresh_timeout">Refresh timeout</string>
+  <string name="activity_main_time_format">MM/dd</string>
   <string name="activity_main_update_time">Updated %1$s</string>
   <string name="activity_main_update_time_right_now">Just now</string>
   <string name="activity_weather_main_null_data">- -</string>
@@ -37,6 +40,8 @@
   <string name="button_abandon">Abandon changes</string>
   <string name="button_allow">OK</string>
   <string name="button_not_allow">Cancel</string>
+  <string name="data_source_time_fromat">"yyyy-MM-dd'T'HH:mm:ss"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Edit</string>
   <string name="gps_hint">Current location</string>
   <string name="loading_weather">Loading…</string>
@@ -66,7 +71,10 @@
   <string name="view_indexes_title_wind">Wind power</string>
   <string name="view_indexes_wind_unit">km/h</string>
   <string name="view_sun_titile">Sunrise and sunset</string>
+  <string name="viewsun_time_format">HH:mm</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">℃</string>
+  <string name="weatherchina_default_url">http://weather.com.cn</string>
+  <string name="weatherchina_tag">weather.com.cn</string>
 </resources>

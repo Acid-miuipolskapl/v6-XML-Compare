@@ -160,7 +160,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Recorder_Video">App can record audio and video</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">App can record your calls</string>
   <string name="HIPS_Perm_RejectAll">Deny all</string>
-  <string name="HIPS_Perm_SMS">SMS</string>
+  <string name="HIPS_Perm_SMS">SMS and MMS</string>
   <string name="HIPS_Perm_SMS_Access">App can access your SMS data</string>
   <string name="HIPS_Perm_SMS_Desc">App can view your SMS and MMS conversations</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s apps can view your SMS and MMS conversations</string>

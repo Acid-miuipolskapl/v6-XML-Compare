@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Only_the_wifi">Only use WLAN</string>
-  <string name="add_flow_fail_haveget_msg">Trial period has expired.</string>
+  <string name="add_flow_fail_haveget_msg">Trial period has exipired.</string>
   <string name="add_flow_fail_vip_msg">Xunlei download accelerator is on</string>
   <string name="add_flow_success_msg">%s added this month</string>
   <string name="all_downloads">All downloads</string>
@@ -25,6 +25,9 @@
   <string name="deselect_all">Deselect All</string>
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
+  <string name="dialog_confirm_delete_downloads_message">Delete %d tasks?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Delete these tasks</string>
   <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
   <string name="dialog_file_already_exists">Cannot download. The destination file already exists.</string>
   <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>
@@ -133,8 +136,8 @@
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
-  <string name="xunlei_member_annual_fee">Annual</string>
-  <string name="xunlei_member_one_month">Monthly</string>
+  <string name="xunlei_member_annual_fee">1 year</string>
+  <string name="xunlei_member_one_month">1 month</string>
   <string name="xunlei_speed_service">Xunlei download accelerator</string>
   <string name="xunlei_switch">Xunlei download engine</string>
 </resources>

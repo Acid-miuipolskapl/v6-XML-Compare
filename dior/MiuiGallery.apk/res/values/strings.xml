@@ -798,7 +798,7 @@ device"</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
   <string name="refocus_data_downloading">Downloading refocusing data…</string>
-  <string name="remove_hidden_album">Unhide album</string>
+  <string name="remove_hidden_album">Unhide</string>
   <string name="remove_recent_album">Remove from favorites</string>
   <string name="rename_failed">"Couldn't rename"</string>
   <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
@@ -841,7 +841,7 @@ device"</string>
   <string name="send_multiple_files_hint_format">Send (%s)</string>
   <string name="send_public_url">Send album URL</string>
   <string name="sepia">Sepia</string>
-  <string name="set_hidden_album">Hidden album</string>
+  <string name="set_hidden_album">Hide</string>
   <string name="set_image">Set picture as</string>
   <string name="set_label_all_albums">All</string>
   <string name="set_label_local_albums">Local</string>
