@@ -24,6 +24,10 @@
         <item>@string/key_direction_left</item>
         <item>@string/key_direction_right</item>
     </string-array>
+    <string-array name="vol_array">
+        <item>@string/action_key_vol_up</item>
+        <item>@string/action_key_vol_down</item>
+    </string-array>
     <string-array name="setting_infos">
         <item>.Speed</item>
         <item>.CaptureInstant</item>
