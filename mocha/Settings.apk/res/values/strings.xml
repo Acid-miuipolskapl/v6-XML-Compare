@@ -2133,6 +2133,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
+  <string name="status_bar_settings_long_click_sort">Long click to sort</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_show_carrier">Show service provider</string>
@@ -2151,6 +2152,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Changing style…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Bar</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Page</string>
+  <string name="status_bar_settings_toggle_position">Toggle position</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bt_address">Bluetooth address</string>
   <string name="status_data_state">Mobile network state</string>
