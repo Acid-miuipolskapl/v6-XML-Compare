@@ -547,9 +547,6 @@ Try again or call customer service for more options."</string>
   <string name="sip_receive_calls_summary">Reduces battery life</string>
   <string name="sip_settings">Internet call settings</string>
   <string name="sports_news_settings">Sports News</string>
-  <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
-  <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
-  <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
   <string name="stock_quotes_disable">Stock Quotes disabled</string>
   <string name="stock_quotes_enable">Stock Quotes enabled</string>
   <string name="sub_1">SUB 1</string>

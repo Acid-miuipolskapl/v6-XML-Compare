@@ -261,8 +261,8 @@
   <string name="empty_alert">"%s is required and can't be left blank."</string>
   <string name="empty_networks_list">No networks found.</string>
   <string name="enable">Enable</string>
-  <string name="enable_antispam_strange_summary">Mute the first call from an unknown number</string>
-  <string name="enable_antispam_strange_title">Mute unknown numbers</string>
+  <string name="enable_antispam_strange_summary">Mute the first ring for calls from unknown numbers</string>
+  <string name="enable_antispam_strange_title">Mute first ring</string>
   <string name="enable_disable_administrative">Administrative</string>
   <string name="enable_disable_advertisements">Advertisements</string>
   <string name="enable_disable_atr">Area Traffic Reports</string>
@@ -656,7 +656,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="registration_status_server_unreachable">Account registration unsuccessful: Check the server name.</string>
   <string name="registration_status_still_trying">Still trying…</string>
   <string name="reject_via_sms">Quick responses</string>
-  <string name="reject_via_sms_summary">Edit pre-written text responses</string>
+  <string name="reject_via_sms_summary">Edit pre-written text messages</string>
   <string name="reject_via_sms_title">Quick responses</string>
   <string name="remember_my_choice">Always use to place Internet calls</string>
   <string name="remove">Delete</string>
@@ -848,6 +848,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="updating_settings">Updating settings…</string>
   <string name="uplmn_list_setting_add_plmn">New PLMN</string>
   <string name="uplmn_list_setting_title">Preferred networks</string>
+  <string name="uplmn_numeric_is_empty">Enter a network ID</string>
   <string name="username">UserName</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>

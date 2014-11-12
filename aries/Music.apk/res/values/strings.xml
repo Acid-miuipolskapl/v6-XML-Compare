@@ -124,7 +124,6 @@
   <string name="fragment_title_bill">PLAYLISTS</string>
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_recommend">FEATURED</string>
-  <string name="function_error">"Well, this is embarrassing! This feature isn't ready yet (we're working on it)."</string>
   <string name="headset_settings">Headset settings</string>
   <string name="high_quality">Higher</string>
   <string name="higher_quality_music">High quality audio</string>
