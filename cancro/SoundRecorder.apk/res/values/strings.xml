@@ -22,6 +22,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Check if another app is currently using the recording feature.</string>
   <string name="error_app_internal_title">Sound recorder error</string>
+  <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
   <string name="error_filename_illegal_char">Filename contains invalid characters.</string>
   <string name="error_filename_too_long">Filename is too long.</string>
   <string name="error_sdcard_access">"Can't access storage"</string>

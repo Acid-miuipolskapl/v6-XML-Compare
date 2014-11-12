@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screen_key_long_press_default_action">
-        <item>voice_assistant</item>
-        <item>none</item>
-        <item>none</item>
-        <item>show_menu</item>
-    </string-array>
     <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
     <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
@@ -24,6 +18,12 @@
         <item>1.0</item>
         <item>1.2</item>
         <item>1.21</item>
+    </string-array>
+    <string-array name="screen_key_long_press_default_action">
+        <item>voice_assistant</item>
+        <item>none</item>
+        <item>none</item>
+        <item>show_menu</item>
     </string-array>
     <array name="config_virtualKeyUpPattern" />
     <string-array name="tian_gan">
