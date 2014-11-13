@@ -97,6 +97,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
   <string name="allow_mock_location">Allow mock locations</string>
   <string name="allow_mock_location_summary">Allow mock locations</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
   <string name="android_beam_disabled_summary">NFC content sharing requires that NFC is enabled</string>
   <string name="android_beam_explained">You can beam a web page, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
@@ -752,6 +753,7 @@ This setting affects all users on this phone."</string>
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
   <string name="dev_settings_warning_title">Allow development settings?</string>
+  <string name="developer_build">" | Developer"</string>
   <string name="development_enable">Developer options</string>
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
@@ -939,7 +941,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
-  <string name="experimental_build">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
@@ -2071,6 +2072,7 @@ For more information, contact your administrator."</string>
   <string name="ssl_ca_cert_warning_message">"A third party is capable of monitoring your network activity, including emails, apps, and secure websites.
 
 A trusted credential installed on your device is making this possible."</string>
+  <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_filter_item_description">To configure notifications, go to General Settings &gt; Notifications &gt; Manage notifications</string>
