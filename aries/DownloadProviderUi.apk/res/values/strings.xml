@@ -85,7 +85,7 @@
   <string name="immediately_a_renewal">Renew now</string>
   <string name="keep_queued_download">Keep</string>
   <string name="media_filter">MEDIA</string>
-  <string name="member_cost">Year</string>
+  <string name="member_cost">Annual</string>
   <string name="menu_all_task_pause">Pause all</string>
   <string name="menu_all_task_start">Start all</string>
   <string name="menu_enter_edit_mode">Editor</string>
@@ -97,7 +97,7 @@
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="no_downloads">No downloads</string>
-  <string name="one_month">One month</string>
+  <string name="one_month">1 month</string>
   <string name="open_download">Open</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
   <string name="original_price">Price</string>
