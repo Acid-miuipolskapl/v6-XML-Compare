@@ -8,6 +8,7 @@
   <string name="auth_notif_message">Type session key for %1$s</string>
   <string name="auth_notif_ticker">Obex authentication request</string>
   <string name="auth_notif_title">Session Key</string>
+  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_enable_cancel">Cancel</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
@@ -64,6 +65,9 @@
   <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
   <string name="insert_record">Insert record</string>
   <string name="localPhoneName">My name</string>
+  <string name="miui_transfer_history_title">Bluetooth transfers</string>
+  <string name="miui_transfer_inbound_title">Inbound</string>
+  <string name="miui_transfer_outbound_title">Outbound</string>
   <string name="no_transfers">Transfer history is empty.</string>
   <string name="not_exist_file">No file</string>
   <string name="not_exist_file_desc">"The file doesn't exist. 
@@ -120,6 +124,7 @@
   <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
   <string name="upload_fail_line1_2">File: %1$s</string>
   <string name="upload_fail_ok">Try again</string>
+  <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
   <string name="upload_line1">To: \"%1$s\"</string>
   <string name="upload_line3">File type: %1$s (%2$s)</string>
   <string name="upload_line5">Sending file…</string>

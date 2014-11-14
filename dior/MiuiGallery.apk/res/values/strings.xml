@@ -571,6 +571,7 @@ albums from anywhere.
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
+  <string name="error_share_not_support">Joining shared album is not supported temporarily</string>
   <string name="error_share_with_creator">This album is already being shared with you</string>
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>

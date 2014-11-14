@@ -21,6 +21,7 @@
   <string name="add_account">Add account</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
+  <string name="authorize_title">Authorization</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Add your Facebook Account</string>
@@ -37,7 +38,7 @@
   <string name="button_unbind">Sign out</string>
   <string name="captcha">Enter code</string>
   <string name="change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
-  <string name="check_phone_error_title">"Couldn't enable sync"</string>
+  <string name="check_phone_error_title">"Couldn't turn on sync"</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Checking password…</string>
   <string name="checking_input">Checking…</string>
@@ -104,6 +105,7 @@
   <string name="login_step2_title">2-step verification</string>
   <string name="login_title">Sign in to your Mi Account</string>
   <string name="login_with_email_or_id">&lt;u&gt;Sign in with another account&lt;/u&gt;</string>
+  <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_dspt_provision">Sign in to Mi Cloud, MIUI Themes Store, and other Mi services with one account.</string>
   <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account">Mi Account</string>
@@ -191,19 +193,19 @@ To activate your account, follow the
   <string name="reg_sms_send_prompt">Send verification code to %s</string>
   <string name="reg_success">Account created</string>
   <string name="reg_success_summary">%1$s has been added to your Mi Account. You can use it to sign in or to reset your password.</string>
-  <string name="reg_type_email">Create account using email</string>
-  <string name="reg_type_other_ways">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
-  <string name="reg_type_other_ways_title">Create an account using email address</string>
+  <string name="reg_type_email">My email address</string>
+  <string name="reg_type_other_ways">&lt;u&gt;Use another method to create account&lt;/u&gt;</string>
+  <string name="reg_type_other_ways_title">Create Mi Account using</string>
   <string name="reg_type_phone">Create account using phone number</string>
-  <string name="reg_using_other_phone">Create account using another phone number</string>
-  <string name="reg_using_other_phone_number_prompt">Create account using another phone number</string>
+  <string name="reg_using_other_phone">"Another device's phone number"</string>
+  <string name="reg_using_other_phone_number_prompt">"Another device's phone number"</string>
   <string name="reg_using_phone_number_prompt">Create account using phone number</string>
   <string name="reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="reging">Creating account…</string>
   <string name="register">Create Mi Account</string>
   <string name="register_account_goto_email">Go to inbox</string>
   <string name="register_account_verified_confirm">"You've already verified your account"</string>
-  <string name="register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
+  <string name="register_by_email">&lt;u&gt;Use another method to create account&lt;/u&gt;</string>
   <string name="relogin">Sign in again</string>
   <string name="relogin_notice">You need to sign in again</string>
   <string name="remove_account_notice">What would you like to do with the messages, contacts, and other data that has been synced from your Mi Account?</string>
@@ -225,6 +227,7 @@ To activate your account, follow the
   <string name="sync_on">On</string>
   <string name="theme_store">MIUI Themes Store</string>
   <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
+  <string name="timeout_retry">Request timeout, please retry.</string>
   <string name="title_reg">Create an account</string>
   <string name="trust_device">Trust this device</string>
   <string name="unactivated_user">Almost there…</string>
@@ -235,10 +238,10 @@ To activate your account, follow the
   <string name="update_contacts_description">Let Sina Weibo use your Mi Account to sync contacts across platforms</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">Updated</string>
-  <string name="user_agreement">User Agreement</string>
+  <string name="user_agreement">Terms of Service</string>
   <string name="user_agreement_p1">"By signing in, you're agreeing to our
   "</string>
-  <string name="user_agreement_p2">User Agreement</string>
+  <string name="user_agreement_p2">Terms of Service</string>
   <string name="user_agreement_p3"> and  </string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By creating an account, you're agreeing to

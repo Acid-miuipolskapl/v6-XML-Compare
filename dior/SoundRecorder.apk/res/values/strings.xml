@@ -22,6 +22,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Check if another app is currently using the recording feature.</string>
   <string name="error_app_internal_title">Sound recorder error</string>
+  <string name="error_file_access">"File doesn't exist or has been corrupted"</string>
   <string name="error_filename_illegal_char">Filename contains invalid characters.</string>
   <string name="error_filename_too_long">Filename is too long.</string>
   <string name="error_sdcard_access">"Can't access storage"</string>
@@ -35,6 +36,7 @@
   <string name="menu_settings">Settings</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
   <string name="minute">%d minutes</string>
+  <string name="no_downloading_file">No files are downloading.</string>
   <string name="no_file">Empty</string>
   <string name="notification_message_all_paused">Waiting for WLAN connection.</string>
   <string name="notification_playback">Playing…</string>
@@ -56,7 +58,7 @@
   <string name="preference_silent_mode">Mute ringer when recording</string>
   <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
   <string name="record_download">Download from Mi Cloud</string>
-  <string name="record_download_activity">Downloader</string>
+  <string name="record_download_activity">Download list</string>
   <string name="record_download_complete">Complete</string>
   <string name="record_download_failed">Failed</string>
   <string name="record_download_manager">Download manager</string>
