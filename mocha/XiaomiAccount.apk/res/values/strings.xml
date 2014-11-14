@@ -21,6 +21,7 @@
   <string name="add_account">Add account</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
+  <string name="authorize_title">Authorization</string>
   <string name="bad_authentication">Invalid username or password</string>
   <string name="barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="bind_facebook">Add your Facebook Account</string>
