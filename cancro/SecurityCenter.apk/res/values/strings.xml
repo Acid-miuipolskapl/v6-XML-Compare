@@ -191,13 +191,13 @@
   <string name="hints_auto_start_warning_info">"If you restrict autostart, some apps and services won't be able to receive notifications."</string>
   <string name="hints_cache_header_left">Cache files: %d</string>
   <string name="hints_cleanning_text">Cleaning…</string>
-  <string name="hints_finish_quick_cleanup">Finish cleaning up</string>
-  <string name="hints_finish_quick_cleanup_title">Finish cleaning up %s trash</string>
-  <string name="hints_finish_quick_scan">Scan done</string>
-  <string name="hints_garbage_cleanup_result_danger">Dangerous</string>
-  <string name="hints_garbage_cleanup_result_risk">Risky</string>
-  <string name="hints_garbage_cleanup_result_safe">Safe</string>
-  <string name="hints_garbage_handle_item_content">%1$d items，%2$s</string>
+  <string name="hints_finish_quick_cleanup">View details</string>
+  <string name="hints_finish_quick_cleanup_title">Clean up %s trash</string>
+  <string name="hints_finish_quick_scan">Finished scanning</string>
+  <string name="hints_garbage_cleanup_result_danger">Clean up trash now</string>
+  <string name="hints_garbage_cleanup_result_risk">Clean up trash now</string>
+  <string name="hints_garbage_cleanup_result_safe">Everything looks good</string>
+  <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Empty</string>
   <string name="hints_handle_item_text_risk">Risks: %d</string>
   <string name="hints_handle_item_text_safe">Safe</string>
@@ -434,6 +434,7 @@
   <string name="power_dialog_screen_brightness_title">Brightness</string>
   <string name="power_dialog_sleep_title">Sleep</string>
   <string name="power_dialog_vibration_title">Vibrate</string>
+  <string name="power_dialog_wifi_title">WLAN</string>
   <string name="power_exitlowbattery_whencharge">Disable when plugged in</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mode_airplane_mode">Airplane mode</string>
@@ -455,6 +456,7 @@
   <string name="power_mode_cpu_state_save_desc">Make battery life a priority over performance</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Mobile networks</string>
+  <string name="power_mode_keep_state">Keep State</string>
   <string name="power_mode_my_mode">My profile</string>
   <string name="power_mode_my_mode_summary">Save your current battery settings</string>
   <string name="power_mode_screen_brightness">Brightness</string>
