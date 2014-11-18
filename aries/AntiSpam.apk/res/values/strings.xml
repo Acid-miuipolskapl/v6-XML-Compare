@@ -171,6 +171,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="note_sms_none">No messages</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
+  <string name="read_all_sms">Mark as read</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked SMS from this number?</string>
   <string name="st_advanced_setting_group">Advanced</string>

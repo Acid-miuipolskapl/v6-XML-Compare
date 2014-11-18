@@ -30,7 +30,7 @@
   <string name="privacy_policy">Privacy Policy</string>
   <string name="provision_inputmethod_policy_description">"View the selected keyboard's "</string>
   <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
-  <string name="setting_locale">Setting locale…</string>
+  <string name="setting_locale">Setting location…</string>
   <string name="shut_down">Shut down</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
   <string name="sim_card_detection">Insert SIM card</string>
