@@ -94,7 +94,7 @@
   <string name="no_proper_updates">No updates available</string>
   <string name="no_wifi_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="no_wifi_title">Data usage warning</string>
-  <string name="not_open">Off</string>
+  <string name="not_open">Not open</string>
   <string name="notification_downloading">Downloading update…</string>
   <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
   <string name="notification_load_body_dev">Get the latest updates for your device.</string>
@@ -112,7 +112,7 @@
   <string name="notification_updating">Updating…</string>
   <string name="now">Update now</string>
   <string name="on_checking">Checking for updates…</string>
-  <string name="open_now">On</string>
+  <string name="open_now">Open now</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
   <string name="previous">Previous</string>
@@ -121,8 +121,8 @@
   <string name="reboot_to_new_system">Reboot to new system image</string>
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
-  <string name="set_auto_msg">Download updates automatically over WLAN</string>
-  <string name="set_auto_update_title">Download updates automatically</string>
+  <string name="set_auto_msg">When a new version is that you do not need to manually update, smart updates in the case of a wireless network connection, select the appropriate time for the system to automatically update, no longer need to wait long to update.</string>
+  <string name="set_auto_update_title">Open download updates automatically</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
   <string name="set_installfail_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="set_installfail_title">Try to download update again?</string>
@@ -151,7 +151,7 @@
   <string name="submit_success">Sent</string>
   <string name="test">Test</string>
   <string name="timer_title">Device will reboot in %d seconds.</string>
-  <string name="title_toast_auto">Updates will download automatically</string>
+  <string name="title_toast_auto">Download updates automatically opened</string>
   <string name="top_secret_build">Top-secret</string>
   <string name="unkown_error_title">Something went wrong…</string>
   <string name="unstable_build">Unstable</string>
