@@ -29,12 +29,12 @@
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>High performance</item>
-        <item>Balance</item>
+        <item>Balanced</item>
     </string-array>
     <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Shutdown</item>
-        <item>Open</item>
-        <item>Keep State</item>
+        <item>Turn off</item>
+        <item>Turn on</item>
+        <item>"Don't change"</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Never vibrate</item>
