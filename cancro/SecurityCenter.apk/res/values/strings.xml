@@ -456,7 +456,7 @@
   <string name="power_mode_cpu_state_save_desc">Make battery life a priority over performance</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Mobile networks</string>
-  <string name="power_mode_keep_state">Keep State</string>
+  <string name="power_mode_keep_state">"Don't change"</string>
   <string name="power_mode_my_mode">My profile</string>
   <string name="power_mode_my_mode_summary">Save your current battery settings</string>
   <string name="power_mode_screen_brightness">Brightness</string>
