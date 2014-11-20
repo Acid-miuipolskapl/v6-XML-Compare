@@ -28,6 +28,10 @@
   <string name="actionbar_share">Share</string>
   <string name="actionbar_web_search">Web search</string>
   <string name="adblock_notification">%d ads blocked</string>
+  <string name="adblock_rules_number_text">%d items blocked</string>
+  <string name="adblock_rules_restore">Restore</string>
+  <string name="adblock_websites_settings_empyt_hint">Empty rules</string>
+  <string name="adblock_websites_settings_title">Custom rules</string>
   <string name="add_bookmark">Add bookmark</string>
   <string name="add_bookmark_group">Add group</string>
   <string name="add_folder">Add folder</string>
@@ -119,6 +123,10 @@
   <string name="clear_history_group">Clear history (%s pages)</string>
   <string name="clear_search_history">Clear history</string>
   <string name="clip_dialog_title">Open the copied URL?</string>
+  <string name="close_ads_choice_no">No</string>
+  <string name="close_ads_choice_yes">Yes</string>
+  <string name="close_ads_message">You will close this content。Block this content automatically later? The content that is blocked will be displayed in Settings &gt; Advanced &gt; Custom rules</string>
+  <string name="close_ads_title">Hint</string>
   <string name="close_all_tab_alert_message">Close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all tabs</string>
   <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
