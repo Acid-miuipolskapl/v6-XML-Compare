@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="confirm_pin_msg">Enter PIN again</string>
   <string name="default_lockscreen_unlock_hint_text">Slide up to unlock</string>
   <string name="delete">Delete</string>
   <string name="emergency_call_string">Emergency</string>
@@ -20,6 +21,7 @@
   <string name="input_password_hint_text">Input password</string>
   <string name="input_pin_code">Enter PIN</string>
   <string name="input_puk_code">Input PUK</string>
+  <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
   <string name="keyguard_torch_cover_text">To keep torch on, press the Power button</string>
   <string name="lock_screen_date">E dd/MM</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>

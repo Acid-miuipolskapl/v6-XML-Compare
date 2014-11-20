@@ -148,6 +148,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_warn_full_title">Out of space</string>
   <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
   <string name="micloud_warn_low_title">Almost out of space…</string>
+  <string name="micloud_web_discription">Sign in at i.mi.com to store and access your files from anywhere</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>

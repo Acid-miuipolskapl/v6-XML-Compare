@@ -27,6 +27,10 @@
   <string name="account_manager_type_legacy_imap">com.android.email</string>
   <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">An account with same name already exists</string>
+  <string name="account_options_acc_title">Account</string>
+  <string name="account_options_common_title">Common settings</string>
+  <string name="account_options_only_title">Download header only using mobile network</string>
+  <string name="account_options_sync_title">Sync settings</string>
   <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
   <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
   <string name="account_security_dialog_title">Security update</string>
@@ -47,7 +51,7 @@
   <string name="account_settings_enforced_summary">None</string>
   <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
   <string name="account_settings_incoming_label">Incoming settings</string>
-  <string name="account_settings_incoming_summary">Username, password, and other incoming server settings</string>
+  <string name="account_settings_incoming_summary">Username, password, and other server settings</string>
   <string name="account_settings_list_title">Choose your mail service provider:</string>
   <string name="account_settings_login_dialog_content_fmt">The username or password for %s is incorrect. Do you want to update them now?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
@@ -177,6 +181,7 @@
   <string name="account_setup_outgoing_username_label">Username</string>
   <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
   <string name="account_setup_security_required_title">Remote security administration</string>
+  <string name="account_setup_server_acc_manager_title">Account manager</string>
   <string name="account_setup_service_not_set">"Account hasn't been setup"</string>
   <string name="account_setup_username_password_toast">Type a valid email address and password.</string>
   <string name="account_setup_username_uneditable_error">"You can't change an account's username. To add an account with a different username, touch Add Account."</string>
@@ -481,6 +486,10 @@
   <string name="general_preference_text_zoom_small">Small</string>
   <string name="general_preference_text_zoom_tiny">Tiny</string>
   <string name="generic_attachment_problem">"Can't attach file."</string>
+  <string name="head_only_enable_dialog_message">Only the title (instead of the whole email) is downloaded without click under traffic.</string>
+  <string name="head_only_enable_dialog_nagative">Reject</string>
+  <string name="head_only_enable_dialog_positive">Accept</string>
+  <string name="head_only_enable_dialog_title">Traffic saver</string>
   <string name="header_category_account">Accounts</string>
   <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Additional settings</string>
@@ -688,6 +697,9 @@ CC: %4$s
   <string name="perference_change_pw">Change password</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
   <string name="perference_change_pw_ok_tips">Password changed</string>
+  <string name="perference_setup_pop_del">Remove mail from server</string>
+  <string name="perference_setup_recv_tag">Incoming mail server</string>
+  <string name="perference_setup_send_tag">Outgoing mail server</string>
   <string name="permission_access_provider_desc">Allows app to access your email, usernames, and passwords</string>
   <string name="permission_access_provider_label">Access user data</string>
   <string name="permission_read_attachment_desc">"Allows app to read your emails' attachments"</string>
@@ -731,8 +743,11 @@ CC: %4$s
   <string name="prefDefault_autoAdvance">list</string>
   <string name="prefDialogTitle_conversationListIcon">Sender image</string>
   <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
+  <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
   <string name="preference_head_load_description">Download message titles only, when using mobile data.</string>
   <string name="preference_head_load_title">Reduce data usage</string>
+  <string name="preference_imap_tips"/>
+  <string name="preference_pop_tips">Attachment(s) will be downloaded with email content since the POP3 protocol mandatorily request. Please take care to use in mobile data.</string>
   <string name="preference_removal_action_title">Archive &amp; delete actions</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in your inbox"</string>
   <string name="preference_sender_image_title">Profile pictures</string>

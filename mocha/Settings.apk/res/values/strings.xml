@@ -1584,7 +1584,7 @@ Select your operating system:"</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="other_advanced_settings">Additional settings</string>
-  <string name="other_personal_settings">Additional settings</string>
+  <string name="other_personal_settings">Personal settings</string>
   <string name="other_relative">Other</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
@@ -1777,7 +1777,7 @@ Select your operating system:"</string>
   <string name="radioInfo_service_out">Out of service</string>
   <string name="radioInfo_unknown">unknown</string>
   <string name="radio_controls_summary">Manage WLAN, Bluetooth, Airplane mode, Mobile networks, &amp; VPNs</string>
-  <string name="radio_controls_title">Additional settings</string>
+  <string name="radio_controls_title">More</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>
@@ -1977,7 +1977,7 @@ This setting affects all users on this tablet."</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Password</string>
   <string name="security_passwords_title">Passwords</string>
-  <string name="security_privacy_settings_title">Security</string>
+  <string name="security_privacy_settings_title">Privacy</string>
   <string name="security_relative">Security</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">This app can access the following on your tablet:</string>
