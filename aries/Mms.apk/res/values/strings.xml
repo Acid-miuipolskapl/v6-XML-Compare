@@ -6,7 +6,7 @@
   <string name="addBlackList">Add to blocklist</string>
   <string name="add_attachment">Add attachments</string>
   <string name="add_contact">Contact</string>
-  <string name="add_festival">Quick responses</string>
+  <string name="add_festival">Greetings</string>
   <string name="add_music">Add music</string>
   <string name="add_nickname">Nickname</string>
   <string name="add_nickname_title">Edit nickname</string>
@@ -146,7 +146,7 @@
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
   <string name="feedback_description_hint">Write your feedback here</string>
   <string name="feedback_submit">Send</string>
-  <string name="festival">Quick responses</string>
+  <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
   <string name="festival_never_remind">"Don't show again"</string>
@@ -266,6 +266,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
+  <string name="mx_type_guide">免费网络短信可以让MIUI用户之间通过WIFI或移动数据网络发送免费短信</string>
   <string name="need_download">Syncing…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">You have a new message</string>
@@ -308,7 +309,7 @@
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
   <string name="pref_summary_delivery_reports">Show delivery status for every message you send</string>
-  <string name="pref_summary_hide_festival">Hide greetings tab for non-Chinese languages</string>
+  <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mms_auto_retrieval">Automatically retrieve MMS</string>
   <string name="pref_summary_mms_read_reports">Request a read report for each message you send</string>
@@ -328,7 +329,7 @@
   <string name="pref_title_delivery_reports">Delivery status</string>
   <string name="pref_title_festival_networking">Internet connection</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
-  <string name="pref_title_hide_festival">Hide greetings tab</string>
+  <string name="pref_title_hide_festival">Hide Chinese language features</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
   <string name="pref_title_miui_card">Send via card</string>
   <string name="pref_title_mms_auto_retrieval">Auto-retrieve MMS</string>

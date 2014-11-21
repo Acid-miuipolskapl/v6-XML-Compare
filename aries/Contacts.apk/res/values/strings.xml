@@ -1157,6 +1157,7 @@ Choose one of the following options:"</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
   <string name="yellowpage_navigation_more_items">More</string>
+  <string name="yellowpage_navigation_more_items_title">More services</string>
   <string name="yellowpage_navigation_network_location_enable">Allow</string>
   <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
   <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
