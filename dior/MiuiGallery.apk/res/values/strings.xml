@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
+  <string name="abandon">Abandon</string>
   <string name="accept">Accept</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
-  <string name="action_fail_unknown_error">An unknown error occurred</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="add_account">Add account</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_cloud_album">Add to album</string>
   <string name="add_to_cloud_exceeded_the_size_message">File is too big</string>
-  <string name="add_to_cloud_fail_too_many_items">Too many items selected</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s items can't be added to cloud: %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in target album</string>
   <string name="add_to_cloud_folder">Add to folder</string>
@@ -19,7 +18,11 @@
   <string name="add_to_cloud_space_full_message">Cloud album is full</string>
   <string name="add_to_cloud_successfully_message">Added to cloud album</string>
   <string name="add_to_cloud_type_not_support_message">"This file type isn't supported"</string>
+  <string name="add_to_cloud_unfinished_message_with_count">%1$s items are not added to cloud</string>
   <string name="add_to_cloud_unknow_reasons">Unknown error</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to secret: %1$s."</string>
+  <string name="add_to_secret_successfully_message">Added to secret album</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
   <string name="adding_recipients">Adding recipients…</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">Album name</string>
@@ -41,6 +44,8 @@
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to enable sync first.</string>
+  <string name="alert_secret_album_message">You can scroll the cloud album into secret album.</string>
+  <string name="alert_secret_album_title">Secret Album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
@@ -52,6 +57,9 @@
   <string name="auto_create_recent_album">Create favorite albums automatically</string>
   <string name="auto_create_recent_album_confirm">"Gallery will clear Favorite album data. Albums you've favorited manually will not be affected."</string>
   <string name="auto_create_recent_album_over_ten_times">An album will be marked as a Favorite when you open it more than 10 times</string>
+  <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
+  <string name="auto_upload_tip">Album with the same name will be created after enabled. Existed album (including share album which you share to others) with the same name will be merged.</string>
+  <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
@@ -79,7 +87,7 @@
   <string name="cannot_remove_creator">"Can't remove creator"</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
-  <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album or it's being shared with other users."</string>
+  <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album."</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -483,7 +491,6 @@ albums from anywhere.
   <string name="cloud_share_guide_title">Sharing is easy</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">All</string>
-  <string name="cloud_tab_locations">Locations</string>
   <string name="cloudfolder_already_exists">A folder with the same name already exists</string>
   <string name="cloudfolder_cannot_start_with">"Folder name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Folder name can't contain '%s'"</string>
@@ -496,17 +503,12 @@ albums from anywhere.
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
-  <string name="confirm_delete_has_cloud_image_video">Delete %s items in &lt;b&gt;cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Delete %s items in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;local and cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
-  <string name="confirm_delete_home_merge_item">Delete %s pictures on device and in Mi Cloud?</string>
   <string name="confirm_delete_init_message">Picture will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the \"Local\" tab.</string>
   <string name="confirm_delete_init_title">Delete picture</string>
-  <string name="confirm_delete_pictures">Delete %s pictures?</string>
   <string name="confirm_delete_system_album">%s is a system album.</string>
-  <string name="confirm_delete_this_picture">Delete this picture?</string>
-  <string name="confirm_delete_this_video">Delete this video?</string>
-  <string name="confirm_delete_videos">Delete %s videos?</string>
   <string name="confirm_download">You need to download %s.</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -549,6 +551,7 @@ albums from anywhere.
   <string name="details_title">%1$d of %2$d items</string>
   <string name="device_model">Device</string>
   <string name="directory_info_divider">"  |  "</string>
+  <string name="do_not_save">Do not save</string>
   <string name="documentary">Documentary</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
@@ -563,6 +566,7 @@ albums from anywhere.
   <string name="edit">Edit</string>
   <string name="edited_photo_bucket_name">Edited</string>
   <string name="email_picker_title">Add shared Email</string>
+  <string name="enable">Turn on</string>
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
@@ -586,6 +590,7 @@ albums from anywhere.
   <string name="exit_share_successfully">Exited %1$s</string>
   <string name="exposure_time">Exposure time</string>
   <string name="external_sd_card">SD card</string>
+  <string name="external_sdcard_root">External SD card root directory</string>
   <string name="external_usb_device">USB storage</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="facelift">Face Glow</string>
@@ -619,6 +624,7 @@ albums from anywhere.
   <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">White</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
+  <string name="free">Free</string>
   <string name="gallery_cloud_provider_name">Cloud photos</string>
   <string name="gallery_setting">Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
@@ -631,7 +637,7 @@ albums from anywhere.
   <string name="group_by_location">By location</string>
   <string name="group_by_tags">By tags</string>
   <string name="group_by_time">By time</string>
-  <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Invalid recipients: ;%1$s&gt;</string>
   <string name="height">Height</string>
   <string name="highlight">Highlights</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -661,6 +667,7 @@ albums from anywhere.
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>
   <string name="internal_sd_card_hm">Phone storage</string>
+  <string name="internal_sdcard_root">Internal SD card root directory</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="iso">ISO</string>
@@ -705,7 +712,6 @@ albums from anywhere.
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
-  <string name="miliao_saved">MiTalk</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">MIME type</string>
   <string name="mishop_saved_folder_display_name">Mi Store</string>
@@ -757,8 +763,15 @@ device"</string>
   <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
   <string name="operation_unset_as_screensaver">Cancel screensaver</string>
   <string name="orientation">Orientation</string>
+  <string name="original">Original</string>
+  <string name="original_scale">Original scale</string>
   <string name="other_category">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s users</string>
+  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
+  <string name="paint_cancel_title">Abandon changes</string>
+  <string name="paint_crop_cancel_context">Do you want to save the crop result?</string>
+  <string name="paint_crop_cancel_title">Abandon changes</string>
+  <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
   <string name="path">Path</string>
   <string name="people">People</string>
   <string name="photo_page_always_rotate">Auto-rotate images</string>
@@ -766,20 +779,24 @@ device"</string>
   <string name="photo_page_save_image">Save</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Camera photos"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Camera photos</string>
-  <string name="photo_paint_adjust">adjust</string>
-  <string name="photo_paint_effect">effect</string>
+  <string name="photo_paint_adjust">Adjust</string>
+  <string name="photo_paint_crop">Crop</string>
+  <string name="photo_paint_effect">Effect</string>
   <string name="photo_saved">Photo saved to %s</string>
   <string name="photo_size">Size</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
   <string name="photos">Photos</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="pick_too_much_tips">"Can't pick that many items (maximum %d items)."</string>
+  <string name="pick_with_limited_upper_bound_title">You can select %d items</string>
   <string name="picker_no_album_selected">No albums selected</string>
   <string name="picker_no_items_selected">No items selected</string>
   <string name="picker_select_album_title_empty">Select an album</string>
   <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
   <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Photo</string>
+  <string name="pocket_camera_picture">Pocket Camera pictures</string>
+  <string name="pocket_camera_video">Pocket Camera videos</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
@@ -799,6 +816,9 @@ device"</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
   <string name="refocus_data_downloading">Downloading refocusing data…</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from secret: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Removed from secret album</string>
+  <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
   <string name="remove_hidden_album">Unhide</string>
   <string name="remove_recent_album">Remove from favorites</string>
   <string name="rename_failed">"Couldn't rename"</string>
@@ -813,6 +833,7 @@ device"</string>
   <string name="rotate">Rotate</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
+  <string name="same_name_album_exists_alert">An album with the same name which has been shared to others already exists, Are you sure to upload photo automatically to that album?</string>
   <string name="saturation">Saturation</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Save</string>
@@ -826,14 +847,12 @@ device"</string>
   <string name="scan_qr_code_failure">"Couldn't scan"</string>
   <string name="screensaver_activate_mode">Screensaver during sleep</string>
   <string name="screensaver_activate_only_charging">Only while charging</string>
-  <string name="screensaver_category">Screensaver</string>
-  <string name="screensaver_path">"Album: "</string>
-  <string name="screensaver_path_not_set">none selected</string>
   <string name="sd_not_available">"Couldn't access SD card."</string>
+  <string name="sdcard_root">SD card root directory</string>
   <string name="seconds">" seconds"</string>
   <string name="secret_album_display_name">Secret album</string>
-  <string name="select_album">Edit mode</string>
   <string name="select_all">Select all</string>
+  <string name="select_auto_upload_albums">Choose albums to upload to cloud</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Edit mode</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
@@ -843,7 +862,6 @@ device"</string>
   <string name="send_public_url">Send album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hide</string>
-  <string name="set_image">Set picture as</string>
   <string name="set_label_all_albums">All</string>
   <string name="set_label_local_albums">Local</string>
   <string name="set_label_mtp_devices">MTP devices</string>
@@ -887,8 +905,7 @@ device"</string>
   <string name="slideshow_interval_dialog_title">Slide interval must be greater than 0 seconds</string>
   <string name="slideshow_interval_invalid">Interval must be between 1 and 3600 seconds</string>
   <string name="slideshow_repeat_mode">Loop</string>
-  <string name="slideshow_time_select_title">Set slideshow duration</string>
-  <string name="slideshow_time_title">Duration</string>
+  <string name="square">Square</string>
   <string name="start_slide_show">Start slide show</string>
   <string name="storage_all_volumes">All storage devices</string>
   <string name="storage_no_space">Not enough space</string>
@@ -918,7 +935,6 @@ device"</string>
   <string name="there_is_no_image">No images in this file</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Time</string>
-  <string name="time_line_view">TimeLine_View</string>
   <string name="times">Times</string>
   <string name="tint">Tint</string>
   <string name="title">File name</string>
@@ -947,6 +963,7 @@ device"</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Warning</string>
   <string name="weikan_weikan">Weikan TV</string>
+  <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="white_balance">White balance</string>
   <string name="widget_type">Choose images</string>
@@ -956,4 +973,5 @@ device"</string>
   <string name="width">Width</string>
   <string name="yellow_page">Directory</string>
   <string name="yes">Yes</string>
+  <string name="yunyi_pocket_camera">Pocket Camera</string>
 </resources>

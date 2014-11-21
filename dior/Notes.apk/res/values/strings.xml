@@ -88,8 +88,7 @@
   <string name="sns_footer_text">Created with Mi Notes</string>
   <string name="sns_hint_content">"What's on your mind?"</string>
   <string name="sns_hint_title">Subject (Optional)</string>
-  <string name="sns_message_building">Creating post…</string>
-  <string name="sns_message_sending">Posting…</string>
+  <string name="sns_message_disconnect">"Can't connect to the network. Check your connection and try again."</string>
   <string name="sns_title_edit">Edit title</string>
   <string name="sns_title_send">Send message</string>
   <string name="sns_toast_empty">"Can't send empty post"</string>
