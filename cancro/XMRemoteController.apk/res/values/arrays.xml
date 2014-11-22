@@ -64,9 +64,9 @@
         <item>评论</item>
     </string-array>
     <string-array name="ac_mode_array">
-        <item>制冷</item>
-        <item>制热</item>
-        <item>除湿</item>
-        <item>送风</item>
+        <item>Cooling</item>
+        <item>Heating</item>
+        <item>Dehumidifier</item>
+        <item>Fan</item>
     </string-array>
 </resources>
