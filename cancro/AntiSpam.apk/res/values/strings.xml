@@ -20,7 +20,6 @@
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_DEFAULT">Smart blocklist</string>
-  <string name="Call_MODENAME">Default blocklist</string>
   <string name="Call_PREFIX">Prefix blocklist</string>
   <string name="Call_PRIVATE_CALL">Private calls</string>
   <string name="NACaddnumcontent">Enter phone number</string>
@@ -31,7 +30,6 @@
   <string name="SMS_BLACKLIST">Message blocklist</string>
   <string name="SMS_DEFAULT">Smart blocklist</string>
   <string name="SMS_KEYWORDS">Keyword blocklist</string>
-  <string name="SMS_MODENAME">Default blocklist</string>
   <string name="SMS_PREFIX">Prefix blocklist</string>
   <string name="SMS_SERVICE">Service blocklist</string>
   <string name="SMSpass">Allow messages</string>
@@ -62,6 +60,9 @@
   <string name="button_text_delete">Delete</string>
   <string name="button_to_setting">Settings</string>
   <string name="call_delete_hint">Delete all blocked calls from this number?</string>
+  <string name="call_transfer_block">Block forwarded calls</string>
+  <string name="call_transfer_block_type">Block forwarded calls</string>
+  <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
   <string name="cancle">Cancel</string>
   <string name="close_callwait">Off</string>
   <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
@@ -127,9 +128,10 @@
   <string name="info_unantispam_phone_sms">Allow calls and messages</string>
   <string name="info_unantispam_sms">Allow messages</string>
   <string name="label_callwait">Call waiting notification</string>
-  <string name="log_count">(%d)</string>
   <string name="mark_agent">Sales</string>
   <string name="mark_agent_block">Reported as agent</string>
+  <string name="mark_banking_insurance">Insurance sales</string>
+  <string name="mark_banking_insurance_block">Reported as insurance sales</string>
   <string name="mark_express">Courier</string>
   <string name="mark_express_block">Reported as courier</string>
   <string name="mark_fraud">Fraud</string>
@@ -172,8 +174,14 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
   <string name="read_all_sms">Mark as read</string>
+  <string name="report_error">"Couldn't report message"</string>
+  <string name="report_error_not_net">"Can't connect to the network"</string>
+  <string name="report_only">Choose a message to report</string>
+  <string name="report_sms">Report messages</string>
+  <string name="report_success">Message reported</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
+  <string name="special_number_group">Block special numbers</string>
   <string name="st_advanced_setting_group">Advanced</string>
   <string name="st_antispam_black_adress_add">Choose a location</string>
   <string name="st_antispam_bw_adress_add">Choose location</string>
@@ -278,6 +286,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="st_title_mode_choose_group">Blocklist rules</string>
   <string name="st_title_not_sim">Empty</string>
   <string name="st_title_open_antispam">Blocklist</string>
+  <string name="st_title_other_group">Other</string>
   <string name="st_title_settings_other_group">Additional settings</string>
   <string name="st_title_show_antispamnotification">Blocklist notifications</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>

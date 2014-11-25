@@ -198,14 +198,14 @@
   <string name="menu_delete_messages">Delete messages</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
-  <string name="menu_lock">Lock</string>
+  <string name="menu_lock">Star</string>
   <string name="menu_mark">Mark</string>
   <string name="menu_more">More</string>
   <string name="menu_new_contact">New contact</string>
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_unlock">Unlock</string>
+  <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
   <string name="message_class_label">"Message class: "</string>

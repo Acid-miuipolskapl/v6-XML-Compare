@@ -113,6 +113,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_gps_disabled">"GPS hasn't started
 
 Touch the screen to start GPS…"</string>
+  <string name="cit_gps_first_fix_time">Fixed_time: %s</string>
+  <string name="cit_gps_location">Location: %s</string>
   <string name="cit_gps_satellite_count">Satellite count: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>

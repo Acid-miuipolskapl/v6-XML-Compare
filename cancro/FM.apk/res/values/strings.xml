@@ -52,6 +52,8 @@
   <string name="frequency_out_of_range">(%1$s~%2$s) frequency is out of range</string>
   <string name="frequency_should_not_null">Enter a frequency</string>
   <string name="frequency_string"/>
+  <string name="group_favor">Presets</string>
+  <string name="group_other">Others</string>
   <string name="hint_frequency">Frequency: %1$s ~ %2$s</string>
   <string name="hint_label">Label</string>
   <string name="hint_station_name">Enter station name</string>
