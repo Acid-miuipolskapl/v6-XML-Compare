@@ -770,9 +770,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI version</string>
   <string name="device_name">Device name</string>
-  <string name="device_name_input_error">"Couldn't to save device name"</string>
+  <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_usage_point">This name will be visible to other Bluetooth devices nearby.</string>
+  <string name="device_name_usage_point">This name will be visible to other devices nearby.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_status">Status</string>

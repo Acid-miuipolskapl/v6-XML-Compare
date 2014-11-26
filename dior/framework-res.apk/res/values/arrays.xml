@@ -147,12 +147,14 @@
         <item>ime</item>
         <item>sync_failing</item>
         <item>sync_active</item>
+        <item>cast</item>
         <item>location</item>
         <item>bluetooth</item>
         <item>bluetooth_handsfree_battery</item>
         <item>nfc</item>
         <item>tty</item>
         <item>speakerphone</item>
+        <item>zen</item>
         <item>mute</item>
         <item>volume</item>
         <item>wifi</item>

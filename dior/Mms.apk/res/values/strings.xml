@@ -68,7 +68,7 @@
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete?</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
-  <string name="confirm_dlg_title">Device Management</string>
+  <string name="confirm_dlg_title">Device management</string>
   <string name="confirm_export_dialog_description">Previous conversations with this contact will no longer be hidden.</string>
   <string name="confirm_export_dialog_title">Remove from private contacts</string>
   <string name="confirm_no_block_positive">Unblock</string>
@@ -148,7 +148,7 @@
   <string name="feedback_submit">Send</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
   <string name="festival_never_remind">"Don't show again"</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
@@ -174,7 +174,7 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
-  <string name="hms_add_image_progress_message">Processing…</string>
+  <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
@@ -198,14 +198,14 @@
   <string name="menu_delete_messages">Delete messages</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
-  <string name="menu_lock">Lock</string>
+  <string name="menu_lock">Star</string>
   <string name="menu_mark">Mark</string>
   <string name="menu_more">More</string>
   <string name="menu_new_contact">New contact</string>
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_unlock">Unlock</string>
+  <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
   <string name="message_class_label">"Message class: "</string>
@@ -266,7 +266,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
-  <string name="mx_type_guide">免费网络短信可以让MIUI用户之间通过WIFI或移动数据网络发送免费短信</string>
+  <string name="mx_type_guide">Send messages back and forth for free with other users also using this feature</string>
   <string name="need_download">Syncing…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">You have a new message</string>
