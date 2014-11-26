@@ -249,6 +249,10 @@
   <string name="filename_empty_alert_message">Enter a file name</string>
   <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
   <string name="find_on_page">Find on page</string>
+  <string name="find_on_page_cancel">Cancel</string>
+  <string name="find_on_page_matches">%d matches</string>
+  <string name="find_on_page_next">Next</string>
+  <string name="find_on_page_prev">Back</string>
   <string name="folder_name">Folder name</string>
   <string name="forward">Forward</string>
   <string name="general_set_default_browser_dialog_close_txt">Close</string>
@@ -292,6 +296,7 @@
   <string name="location">Address</string>
   <string name="low_memory_error">Not enough memory to complete this task</string>
   <string name="max_tabs_warning">Tab limit reached</string>
+  <string name="maximum_input_alert">Maximum input 2048 characters</string>
   <string name="media_player_error_button">OK</string>
   <string name="media_player_error_text_invalid_progressive_playback">"Can't stream this video"</string>
   <string name="media_player_error_text_unknown">"Can't play video"</string>
@@ -691,6 +696,8 @@
   <string name="up_to_loading_tips">Release to refresh</string>
   <string name="uploads_disabled">File uploads are disabled</string>
   <string name="url_copy_done">URL copied to clipboard</string>
+  <string name="url_find_on_page_result">View in Browser</string>
+  <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
   <string name="url_hint">Search or type URL</string>
   <string name="url_opened_in_background">Open in background tab</string>
   <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>

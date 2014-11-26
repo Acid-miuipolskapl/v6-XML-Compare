@@ -128,6 +128,7 @@
   <string name="info_unantispam_phone_sms">Allow calls and messages</string>
   <string name="info_unantispam_sms">Allow messages</string>
   <string name="label_callwait">Call waiting notification</string>
+  <string name="log_count">(%d)</string>
   <string name="mark_agent">Sales</string>
   <string name="mark_agent_block">Reported as agent</string>
   <string name="mark_banking_insurance">Insurance sales</string>
