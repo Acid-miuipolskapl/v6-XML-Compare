@@ -11,4 +11,12 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Last %d days</item>
     </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d matches</item>
+        <item quantity="one">%d match</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d items blocked</item>
+        <item quantity="one">%d item blocked</item>
+    </plurals>
 </resources>
