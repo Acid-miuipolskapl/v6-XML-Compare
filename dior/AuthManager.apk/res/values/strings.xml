@@ -211,9 +211,9 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Wakelock">Prevent device from sleeping</string>
   <string name="HIPS_Perm_Wakelock_Desc">prevent device from sleeping</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s apps can prevent device from sleeping</string>
-  <string name="HIPS_Perm_Xiaomi_Account">Xiaomi account</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">Access your Xiaomi account</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apps can access your Xiaomi account</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Mi Account</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">access your Mi Account</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apps can access your Mi Account</string>
   <string name="HIPS_SecurityPrompt_Accept">Allow (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Allow</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Allow Once (%d)</string>
