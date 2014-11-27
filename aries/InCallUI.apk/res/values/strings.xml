@@ -258,6 +258,16 @@ Switch to the new provider anyway?"</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
   <string name="ivr_menu_list_title">Voice menu</string>
+  <string name="jeejen_answer_call_text">Answer call</string>
+  <string name="jeejen_card_title_call_cancel">Call cancel</string>
+  <string name="jeejen_card_title_call_ended">Call ended</string>
+  <string name="jeejen_card_title_dialing">Dialing</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Incoming call</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">End call</string>
+  <string name="jeejen_reject_call_text">Reject call</string>
+  <string name="jeejen_toggle_dialpad_text">Dialpad</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">Forward when busy</string>
@@ -277,6 +287,7 @@ Switch to the new provider anyway?"</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
   <string name="livetalk_provider_info">Provided by %s</string>
+  <string name="livetalk_waiting">Waiting…</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="local_disable">Local news disabled</string>
   <string name="local_enable">Local news enabled</string>

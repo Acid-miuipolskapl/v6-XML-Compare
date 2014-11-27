@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS and MMS</string>
   <string name="Settings_title_anti_spam">Blocklist settings</string>
   <string name="Settings_title_anti_virus">Virus scan settings</string>
   <string name="Settings_title_garbage_cleanup">Cleaner settings</string>
@@ -114,6 +115,7 @@
   <string name="cache_title_empty_folder">Empty folder (%d)</string>
   <string name="cache_title_empty_folder2">Empty folder</string>
   <string name="cache_title_system_cache">System cache</string>
+  <string name="call_and_contact">Calls and Contacts</string>
   <string name="cancel">Cancel</string>
   <string name="category_key_power_usage_details">key_power_usage_details</string>
   <string name="category_key_power_usage_packages">key_power_usage_packages</string>
@@ -254,6 +256,7 @@
   <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
+  <string name="info_and_call">Calls and messaging</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -351,6 +354,8 @@
   <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call log, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
+  <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
+  <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call logs.</string>
   <string name="power_20s_enter_mode">At %1$ds battery switch to %2$s</string>
   <string name="power_apply_toast">Switched to %s</string>
   <string name="power_bluetooth">Bluetooth</string>

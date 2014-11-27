@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="advanced">Advanced panel</string>
   <string name="app_name">Calculator</string>
-  <string name="basic">Basic panel</string>
   <string name="clear">C</string>
   <string name="clearDesc">clear</string>
   <string name="clear_history">Clear history</string>
@@ -10,7 +8,6 @@
   <string name="cosDesc">cosine</string>
   <string name="cos_mathematical_value">cos</string>
   <string name="del">DEL</string>
-  <string name="delDesc">delete</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>

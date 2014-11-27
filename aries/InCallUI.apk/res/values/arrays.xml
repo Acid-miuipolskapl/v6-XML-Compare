@@ -37,6 +37,9 @@
     <string-array name="online_check_phone_number_warning_types">
         <item>@string/online_check_warning_type_by_cmb</item>
     </string-array>
+    <string-array name="jeejen_auto_opendialer_number">
+        <item>13800138000</item>
+    </string-array>
     <string-array name="clir_display_values">
         <item>Network default</item>
         <item>Hide number</item>

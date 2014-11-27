@@ -663,7 +663,6 @@ To add a contact to your list of favorites:
   <string name="non_phone_add_to_contacts">Add to contacts</string>
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
-  <string name="none_found">No devices found</string>
   <string name="none_paired">No devices are currently paired</string>
   <string name="not_applied">"Couldn't apply"</string>
   <string name="notification_action_voicemail_play">Play</string>
@@ -974,7 +973,6 @@ the content you're looking for is not currently available in your region."</stri
   <string name="scan_merge">Searching for duplicate contacts…</string>
   <string name="scan_qrcode_card_hint1">Scan QR code</string>
   <string name="scan_qrcode_card_hint2">Add my info to your contacts</string>
-  <string name="scanning">Scanning…</string>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
@@ -985,7 +983,6 @@ the content you're looking for is not currently available in your region."</stri
   <string name="search_settings_description">Names of your contacts</string>
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
   <string name="select_all">Select all</string>
-  <string name="select_device">Choose a device</string>
   <string name="select_groups">Select groups</string>
   <string name="select_new_photo_from_photo_package">Browse folders</string>
   <string name="select_none">Nothing selected</string>
