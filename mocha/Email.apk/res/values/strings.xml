@@ -202,6 +202,9 @@
   <string name="add_file_attachment">Attach file</string>
   <string name="add_label">Add folder</string>
   <string name="add_photo_attachment">Attach picture</string>
+  <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
+  <string name="add_pre_message_attachments_no">No</string>
+  <string name="add_pre_message_attachments_yes">Add</string>
   <string name="add_star">Star</string>
   <string name="add_video_attachment">Attach video</string>
   <string name="address_display_format">%1$s | %2$s</string>
@@ -261,6 +264,7 @@
   <string name="bottom_bar_more_delete">Delete</string>
   <string name="bottom_bar_more_quickreply">Quick reply</string>
   <string name="bottom_bar_more_unread">Mark unread</string>
+  <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
@@ -278,7 +282,7 @@
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
   <string name="chat_item_msg_people_unit">persons</string>
-  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_etc"/>
   <string name="chat_item_msg_user_saying">says:</string>
   <string name="chat_type_name">conversations</string>
   <string name="chat_view_description">Merge the conversation list to show conversation</string>
@@ -506,6 +510,8 @@
   <string name="imap_name">IMAP</string>
   <string name="inbox_folders_heading">Local Folders</string>
   <string name="info">Info</string>
+  <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
+  <string name="inline_picture_download_complete">inline picture download complete</string>
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
@@ -645,6 +651,7 @@ CC: %4$s
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
+  <string name="next_not_prompt">"Don't prompt"</string>
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
