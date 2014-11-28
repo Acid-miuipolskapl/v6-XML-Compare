@@ -46,7 +46,7 @@
   <string name="face_beauty_intelligent_level_1">Low</string>
   <string name="face_beauty_intelligent_level_2">Mid</string>
   <string name="face_beauty_intelligent_level_3">High</string>
-  <string name="find_other_qrcode">Find other QR code</string>
+  <string name="find_other_qrcode">QR code found</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_save">No thanks</string>
   <string name="no_storage">Insert SD card before using camera</string>
@@ -389,7 +389,7 @@
   <string name="preparing_sd">Preparing internal storage…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="save">Yes</string>
-  <string name="see_qrcode_detals">See details</string>
+  <string name="see_qrcode_detals">View details</string>
   <string name="setting_top_text">Options</string>
   <string name="simple_mode_button_asd_flash">Close Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Close HDR capture</string>

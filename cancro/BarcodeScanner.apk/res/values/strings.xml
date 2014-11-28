@@ -34,6 +34,7 @@
   <string name="launch_wechat">Launch WeChat</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
+  <string name="not_insert_contact">Fail to insert contact</string>
   <string name="not_recommend_access_web_url">Continue to website anyway</string>
   <string name="not_tips">Remember this choice</string>
   <string name="note">Note:</string>
