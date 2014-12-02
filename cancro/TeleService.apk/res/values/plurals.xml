@@ -5,7 +5,7 @@
         <item quantity="one">No data connection for %s minute</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. While in this mode no applications using a data connection can be used. Do you want to exit now?</item>
+        <item quantity="other">The phone will be in Emergency Callback mode for %s minutes. While in this mode no apps using a data connection can be used. Do you want to exit now?</item>
         <item quantity="one">The phone will be in Emergency Callback mode for %s minute. While in this mode no apps using a data connection can be used. Do you want to exit now?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
