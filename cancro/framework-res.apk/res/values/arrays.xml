@@ -334,7 +334,7 @@
         <item>100</item>
     </integer-array>
     <string-array name="config_disabledUntilUsedPreinstalledImes">
-        <item>com.sonyericsson.textinput.uxp2</item>
+        <item>com.android.inputmethod.latin</item>
     </string-array>
     <string-array name="config_notificationScorers">
         <item>com.android.internal.notification.DemoContactNotificationScorer</item>
