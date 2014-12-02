@@ -1045,6 +1045,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="header_application_sync_settings">App sync settings</string>
   <string name="header_category_accounts">Accounts</string>
   <string name="header_category_device">DEVICE</string>
+  <string name="header_category_mi">MI</string>
   <string name="header_category_personal">PERSONAL</string>
   <string name="header_category_system">SYSTEM</string>
   <string name="header_category_wireless_networks">Network</string>
@@ -2446,6 +2447,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
+  <string name="viper_settings">Viper FX</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
