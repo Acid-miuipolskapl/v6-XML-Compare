@@ -58,4 +58,16 @@
         <item>Unhealthy</item>
         <item>Very Unhealthy</item>
     </string-array>
+    <string-array name="weight_test_unit">
+        <item>kg</item>
+        <item>kg</item>
+        <item>pound</item>
+    </string-array>
+    <string-array name="weight_test_class">
+        <item>Too light</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Obesity</item>
+        <item>FATSO</item>
+    </string-array>
 </resources>
