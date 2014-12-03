@@ -270,17 +270,24 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="text_day"/>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
   <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
-  <string name="traffic_config_alert_body">"Your carrier's accounting shows your plan's monthly data usage limit is %s.
-Use this number to set your monthly data usage limit?"</string>
-  <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows your plan's monthly off-peak data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
+  <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
+
+Will you take this?"</string>
+  <string name="traffic_config_alert_body_extra">"
+You bought %1$s of additional data this month. This is different from the %2$s you added manually."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+You bought %s of additional data this month. This isn't reflected in the monthly data limit you set manually."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Your plan's monthly off-peak data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-Your carrier's accounting shows your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-peak data usage limit."</string>
-  <string name="traffic_config_alert_body_normal">"Your carrier's accounting shows your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
+Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-peak data usage limit."</string>
+  <string name="traffic_config_alert_body_normal">"
+Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
   <string name="traffic_config_alert_cancel">Cancel</string>
   <string name="traffic_config_alert_nomore">"Don't show again"</string>
   <string name="traffic_config_alert_ok">OK</string>
   <string name="traffic_config_alert_setted">Settings applied</string>
-  <string name="traffic_config_alert_title">%s correction</string>
+  <string name="traffic_config_alert_title">%s Correction</string>
   <string name="traffic_correction_failed">"Can't get data usage info"</string>
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
