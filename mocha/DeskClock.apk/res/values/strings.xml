@@ -94,7 +94,7 @@
   <string name="hours_label">h</string>
   <string name="hours_label_description">hours</string>
   <string name="item_is_selected">%1$s selected</string>
-  <string name="label">Label</string>
+  <string name="label">Set label</string>
   <string name="label_description">Label</string>
   <string name="label_unlabeled"/>
   <string name="loading_ringtone">Loading ringtone…</string>
@@ -192,7 +192,7 @@
   <string name="timers_in_use">%d timers</string>
   <string name="timers_stopped">%d timers stopped</string>
   <string name="timezone_exist_error_message">This timezone already exists.</string>
-  <string name="volume_button_dialog_title">Button effect</string>
+  <string name="volume_button_dialog_title">"Set volume buttons' function during alarm"</string>
   <string name="volume_button_setting_title">Volume buttons</string>
   <string name="wc_widget_12_hours_format">h:mm &lt;font size="14" face="sans-serif-condensed"&gt;&lt;b&gt;a&lt;/b&gt;&lt;/font&gt;</string>
   <string name="weather_fetch_failure">"Weather information isn't available right now."</string>

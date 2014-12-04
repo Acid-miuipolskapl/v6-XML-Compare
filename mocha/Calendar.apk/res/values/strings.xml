@@ -5,10 +5,10 @@
   <string name="accessibility_all_day">All day event</string>
   <string name="accessibility_email_notification">Email guests</string>
   <string name="accessibility_pick_end_date">End date</string>
-  <string name="accessibility_pick_end_time">End time</string>
-  <string name="accessibility_pick_recurrence">Repeat event</string>
+  <string name="accessibility_pick_end_time">TO</string>
+  <string name="accessibility_pick_recurrence">Repeat</string>
   <string name="accessibility_pick_start_date">Start date</string>
-  <string name="accessibility_pick_start_time">Start time</string>
+  <string name="accessibility_pick_start_time">FROM</string>
   <string name="accessibility_pick_time_zone">Time zone</string>
   <string name="accessibility_reminder_privacy">Privacy</string>
   <string name="accessibility_reminder_showmeas">Show me as</string>
@@ -16,7 +16,7 @@
   <string name="accessibility_reminder_type">Reminder type</string>
   <string name="accessibility_remove_attendee">Remove attendee</string>
   <string name="accessibility_remove_reminder">Remove reminder</string>
-  <string name="accessibility_repeats">Repetition</string>
+  <string name="accessibility_repeats">Repeat</string>
   <string name="accessibility_sync_cal">Sync calendar</string>
   <string name="accounts">Accounts &amp; sync</string>
   <string name="acct_not_synced">"This account isn't being synced so your calendars may not be up-to-date."</string>
@@ -32,7 +32,7 @@
   <string name="alert_title">Calendar notifications</string>
   <string name="ampm_circle_radius_multiplier">0.19</string>
   <string name="app_label">Calendar</string>
-  <string name="attendees_label">Add Guests</string>
+  <string name="attendees_label">Guests</string>
   <string name="blank_space">"  "</string>
   <string name="calendar_color_picker_dialog_title">Calendar Color</string>
   <string name="calendar_refresh">Refresh</string>
@@ -48,13 +48,13 @@
   <string name="copy_db">Send database</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
-  <string name="create_an_account_desc">"Calendar works better with a Google Account.
+  <string name="create_an_account_desc">"Calendar works better with a Mi Account.
 
 • Access it from any web browser
 • Back up your events securely"</string>
   <string name="create_event_dialog_save">Save</string>
-  <string name="creating_event">Event created.</string>
-  <string name="creating_event_with_guest">Invitations will be sent.</string>
+  <string name="creating_event">Event created</string>
+  <string name="creating_event_with_guest">Invitations will be sent</string>
   <string name="custom">"Custom (can't customize on tablet)"</string>
   <string name="daily">Daily</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
@@ -86,7 +86,7 @@
   <string name="email_organizer_label">Email organizer</string>
   <string name="email_picker_label">Email with</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">Empty event not created.</string>
+  <string name="empty_event">Empty event not created</string>
   <string name="endByDate">; until %s</string>
   <string name="event_color_picker_dialog_title">Event Color</string>
   <string name="event_color_set_to_default">Set to default calendar color</string>
@@ -139,7 +139,7 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Month</string>
   <string name="monthly">Monthly</string>
-  <string name="monthly_on_day">Monthly (on day %s)</string>
+  <string name="monthly_on_day">Monthly (on the same day each month)</string>
   <string name="more_string">+%1$s</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
@@ -171,7 +171,7 @@
   <string name="preferences_hide_declined_title">Hide declined events</string>
   <string name="preferences_home_tz_default">America/Los_Angeles</string>
   <string name="preferences_home_tz_title">Home time zone</string>
-  <string name="preferences_reminder_title">Notifications &amp; reminders</string>
+  <string name="preferences_reminder_title">Notification &amp; reminders</string>
   <string name="preferences_reminders_category">Reminders</string>
   <string name="preferences_reminders_quiet_hours_description">Silence event reminders during specified time.</string>
   <string name="preferences_reminders_quiet_hours_end">Quiet hours end time</string>
@@ -189,9 +189,9 @@
   <string name="presence_label">Show me as</string>
   <string name="privacy_label">Privacy</string>
   <string name="query_empty">" "</string>
-  <string name="quick_response_custom_msg">Write your own…</string>
+  <string name="quick_response_custom_msg">Custom message…</string>
   <string name="quick_response_dialog_title">Choose quick response</string>
-  <string name="quick_response_email_failed">Failed to find an email program</string>
+  <string name="quick_response_email_failed">"Couldn't find a mail app"</string>
   <string name="quick_response_settings">Quick responses</string>
   <string name="quick_response_settings_edit_title">Quick response</string>
   <string name="quick_response_settings_summary">Edit default responses when emailing guests</string>
@@ -205,16 +205,16 @@
   <string name="recurrence_end_date_label">Until a date</string>
   <string name="recurrence_month_pattern_by_day">on the same day each month</string>
   <string name="reminders_label">Add reminder</string>
-  <string name="repeats_label">Repetition</string>
+  <string name="repeats_label">Repeat</string>
   <string name="response_maybe">Maybe</string>
   <string name="response_no">No</string>
   <string name="response_yes">Yes</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_label">Done</string>
-  <string name="saving_event">Event saved.</string>
-  <string name="saving_event_with_guest">Updates will be sent.</string>
+  <string name="saving_event">Event saved</string>
+  <string name="saving_event_with_guest">Updates will be sent</string>
   <string name="search">Search</string>
-  <string name="search_history_cleared">Search history cleared.</string>
+  <string name="search_history_cleared">Search history cleared</string>
   <string name="search_title">Search my calendars</string>
   <string name="searchview_description_clear">Clear query</string>
   <string name="select_day">Select month and day</string>
@@ -249,11 +249,11 @@
   <string name="view_event_response_label">Attending?</string>
   <string name="week_view">Week</string>
   <string name="weekly">Weekly (every %s)</string>
-  <string name="what_label">What</string>
+  <string name="what_label">What:</string>
   <string name="when_label">When:</string>
   <string name="where_label">Where:</string>
   <string name="year_label">年</string>
   <string name="year_picker_description">Year list</string>
-  <string name="yearly">Yearly (on %s)</string>
+  <string name="yearly">Yearly (every %s)</string>
   <string name="yearly_plain">Yearly</string>
 </resources>
