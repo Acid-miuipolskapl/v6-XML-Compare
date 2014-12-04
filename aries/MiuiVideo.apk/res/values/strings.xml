@@ -189,7 +189,7 @@
   <string name="offline_media_empty_hint">Empty</string>
   <string name="offline_no_source">"Can't view in offline mode"</string>
   <string name="offline_no_wifi">"You're not connected to WLAN. To download this video, turn on \"Use mobile data connection\" in Settings."</string>
-  <string name="offline_setting">Offline content</string>
+  <string name="offline_setting">Data usage</string>
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Other</string>
@@ -276,8 +276,10 @@
   <string name="upgrade">Upgrade</string>
   <string name="use_cellular_network">Use mobile data connection</string>
   <string name="use_cellular_network_summary">Use mobile data connection to watch video</string>
-  <string name="use_cellular_play_summary">Show notification when using mobile network to watch or download video</string>
-  <string name="use_cellular_play_title">Data usage notification</string>
+  <string name="use_cellular_offlinedownload_summary">Show notification when using mobile data to download video</string>
+  <string name="use_cellular_offlinedownload_title">Download notification</string>
+  <string name="use_cellular_play_summary">Show notification when using mobile data to watch video</string>
+  <string name="use_cellular_play_title">Streaming notification</string>
   <string name="userdata_alert_content">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
   <string name="userdata_alert_ok">Play</string>
   <string name="userdata_alert_title">Data usage warning</string>

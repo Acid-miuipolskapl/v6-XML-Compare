@@ -86,6 +86,11 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_dspt_add">%s items to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
+  <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
+  <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_fail">fail</string>
   <string name="micloud_detail_lastest">synced</string>
   <string name="micloud_detail_pending">pending</string>
@@ -118,6 +123,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_space_risk">You have %d data to be synced. Please update storage space.</string>
   <string name="micloud_main_stop_sync">Stop sync</string>
   <string name="micloud_main_suggest_sync">"Some items haven't synced with your Mi Cloud"</string>
+  <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_sync_pause">Pause sync</string>

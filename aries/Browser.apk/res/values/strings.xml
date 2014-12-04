@@ -35,10 +35,10 @@
   <string name="add_bookmark_group">Add group</string>
   <string name="add_folder">Add folder</string>
   <string name="add_new_bookmark">Add bookmark</string>
-  <string name="add_new_quicklink">Add quicklink</string>
+  <string name="add_new_quicklink">Add to start page</string>
   <string name="add_ql_bm_title">Save</string>
   <string name="add_quicklink_to_popular">Add to start page</string>
-  <string name="add_quicklinks">Add</string>
+  <string name="add_quicklinks">Add to start page</string>
   <string name="add_to_bookmark">Add to bookmarks</string>
   <string name="add_to_desk">Add to Home screen</string>
   <string name="add_to_desk_success">Added to Home screen</string>
@@ -391,7 +391,7 @@
   <string name="pref_autologin_progress_in_background">Signing into Google sites in background using %s.</string>
   <string name="pref_autologin_title">Automatic Google sign-in</string>
   <string name="pref_category_title_version">Version</string>
-  <string name="pref_check_security_url_summary">"Send websites' URLs to Xiaomi's servers for validation"</string>
+  <string name="pref_check_security_url_summary">"Send website URL to Xiaomi's servers to check if it's secure"</string>
   <string name="pref_check_security_url_title">Check URL security</string>
   <string name="pref_clear_adblock_statistics">Clear Ad blocker history</string>
   <string name="pref_clear_adblock_statistics_dlg">Clear blocked ad count?</string>
@@ -645,8 +645,8 @@
   <string name="share_link">share link</string>
   <string name="share_page">Share page</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to verify its security. You can turn this feature off anytime in Settings."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">URL security</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Check URL security</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
   <string name="snapshot_go_live">Go live</string>
@@ -699,7 +699,7 @@
   <string name="url_copy_done">URL copied to clipboard</string>
   <string name="url_find_on_page_result">View in Browser</string>
   <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
-  <string name="url_hint">Search or type URL</string>
+  <string name="url_hint">Enter URL or search the web</string>
   <string name="url_opened_in_background">Open in background tab</string>
   <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>

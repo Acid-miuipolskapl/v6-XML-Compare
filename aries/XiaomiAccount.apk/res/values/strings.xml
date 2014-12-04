@@ -156,7 +156,10 @@ To activate your account, follow the
   <string name="micloud_resend_active_email">Resend activation email</string>
   <string name="micloud_space_info">%s available</string>
   <string name="micloud_sync_info">"%d items haven't been synced"</string>
-  <string name="micloud_sync_info_synced">Synced</string>
+  <string name="micloud_sync_state_need_wifi">Use WLAN to sync</string>
+  <string name="micloud_sync_state_stop">Stopped</string>
+  <string name="micloud_sync_state_synced">Synced</string>
+  <string name="micloud_sync_state_syncing">Syncing</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="micloud_user_email">Email</string>
   <string name="micloud_user_id">Mi Account ID</string>
