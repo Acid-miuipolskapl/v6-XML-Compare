@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
-  <string name="accessibility_camera_picker">Front and back camera switch</string>
+  <string name="accessibility_camera_picker">Front and rear camera switch</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
@@ -209,7 +209,7 @@
   <string name="pref_camera_multiple_face_beauty_default">on</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 person</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 people</string>
-  <string name="pref_camera_multiple_face_beauty_title">Skin tones</string>
+  <string name="pref_camera_multiple_face_beauty_title">Highlight skin tones</string>
   <string name="pref_camera_multiple_face_beauty_values_off">off</string>
   <string name="pref_camera_multiple_face_beauty_values_on">on</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
@@ -301,7 +301,7 @@
   <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
   <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
   <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
-  <string name="pref_camera_volumekey_function_title">Volume button function</string>
+  <string name="pref_camera_volumekey_function_title">Volume buttons function</string>
   <string name="pref_camera_watermark_title">Time watermark</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -326,7 +326,7 @@
   <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_face_beauty_default">i:0</string>
-  <string name="pref_face_beauty_title">Skin tones</string>
+  <string name="pref_face_beauty_title">Highlight tones</string>
   <string name="pref_front_mirror_default">auto</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
   <string name="pref_front_mirror_entry_off">Off</string>
@@ -367,7 +367,7 @@
   <string name="pref_video_speed_entry_slow">Slow</string>
   <string name="pref_video_speed_fast_title">Fast-motion</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
-  <string name="pref_video_speed_title">Video Capture Speed</string>
+  <string name="pref_video_speed_title">Video capture speed</string>
   <string name="pref_video_speed_value_fast">fast</string>
   <string name="pref_video_speed_value_normal">normal</string>
   <string name="pref_video_speed_value_slow">slow</string>

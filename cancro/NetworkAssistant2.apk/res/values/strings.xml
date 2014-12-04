@@ -195,7 +195,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_month_first_day">First day of the month</string>
   <string name="pref_more_traffic_settings">Additional settings</string>
   <string name="pref_new_installed_preconfig_title">Default settings for new apps</string>
-  <string name="pref_open_adjust_traffic">"Sync your data usage stats with your carrier's servers"</string>
+  <string name="pref_open_adjust_traffic">Update your data usage balance using stats from your carrier everyday</string>
   <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
   <string name="pref_package_traffic_normal">Peak: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
@@ -225,6 +225,11 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_warning_values">Data usage warning level</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms and Conditions</string>
+  <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
+  <string name="privacy_prompt_upload">Privacy notification</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="right_precent">100%</string>
@@ -241,12 +246,13 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="system_app">System Apps</string>
   <string name="tc_sms_report_direction">Enquiry code (command in SMS to carrier)</string>
   <string name="tc_sms_report_do_report">Send</string>
+  <string name="tc_sms_report_get_default">"You won't incur charges for SMS messages used to get your data usage balance from your carrier."</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
-  <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
+  <string name="tc_sms_report_get_sms_timeout">Request timed out</string>
   <string name="tc_sms_report_get_success">"Received data usage report SMS from carrier. Make sure it's accurate and submit it to us."</string>
   <string name="tc_sms_report_get_success_notify_body">Make sure the report is accurate and submit it to MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Received data usage report SMS</string>

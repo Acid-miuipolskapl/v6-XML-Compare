@@ -69,7 +69,7 @@
   <string name="copy_db">Send database</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
-  <string name="create_an_account_desc">"Calendar works better with a Xiaomi account.
+  <string name="create_an_account_desc">"Calendar works better with a Mi Account.
 
 • Access it from any web browser
 • Back up your events securely"</string>
@@ -237,7 +237,7 @@
   <string name="privacy_label">Privacy</string>
   <string name="quick_response_custom_msg">Custom message…</string>
   <string name="quick_response_dialog_title">Choose quick response</string>
-  <string name="quick_response_email_failed">Failed to find a mail app</string>
+  <string name="quick_response_email_failed">"Couldn't find a mail app"</string>
   <string name="quick_response_settings">Quick responses</string>
   <string name="quick_response_settings_edit_title">Quick response</string>
   <string name="quick_response_settings_summary">Edit default responses when emailing guests</string>
