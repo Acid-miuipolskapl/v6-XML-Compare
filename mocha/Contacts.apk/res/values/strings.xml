@@ -24,7 +24,7 @@
   <string name="add_to_my_contacts">Add to My Contacts</string>
   <string name="add_wait">Add wait</string>
   <string name="add_xiaomi_account_dialog_btn">Use Mi Account</string>
-  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account to access them from anywhere!</string>
+  <string name="add_xiaomi_account_dialog_msg">Back up your contacts to your Mi Account and access them from anywhere.</string>
   <string name="add_xiaomi_account_dialog_title">Choose account</string>
   <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information you entered so far will be copied.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
@@ -470,7 +470,7 @@ Reason: \"%s\""</string>
   <string name="international_womens_day">妇女节</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
   <string name="keep_local">Keep local</string>
-  <string name="keep_local_btn">"Use pad's internal storage."</string>
+  <string name="keep_local_btn">"Use pad's internal storage"</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">No duplicates found</string>
