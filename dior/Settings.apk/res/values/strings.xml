@@ -598,7 +598,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="credentials_install_summary">Install certificates from SD card</string>
   <string name="credentials_not_erased">"Credential storage couldn't be erased."</string>
   <string name="credentials_old_password">Current password:</string>
-  <string name="credentials_password_too_short">The password must have at least 8 characters.</string>
+  <string name="credentials_password_too_short">8 character minimum</string>
   <string name="credentials_reset">Clear credentials</string>
   <string name="credentials_reset_hint">Remove all the contents?</string>
   <string name="credentials_reset_summary">Remove all certificates</string>
@@ -748,7 +748,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
   <string name="dev_settings_warning_title">Allow development settings?</string>
-  <string name="developer_build">" | Developer"</string>
+  <string name="developer_build">" | Beta"</string>
   <string name="development_enable">Developer options</string>
   <string name="development_settings_not_available">Developer options are not available for this user</string>
   <string name="development_settings_summary">Set options for app development</string>
@@ -1447,7 +1447,7 @@ Select your operating system:"</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
   <string name="nearby_wifi">Available networks</string>
-  <string name="need_reboot_now">Need reboot to complete update,please reboot now !</string>
+  <string name="need_reboot_now">Reboot to install update.</string>
   <string name="network_assistant">Data usage</string>
   <string name="network_detail">%s Network details</string>
   <string name="network_error">Network error</string>
@@ -1480,7 +1480,7 @@ Select your operating system:"</string>
   <string name="no_services">Not active services</string>
   <string name="no_update_found">"You're running the latest version of MIUI"</string>
   <string name="no_updates_found">"You're running the latest version of MIUI"</string>
-  <string name="no_updates_warning">No updates were found for your phone</string>
+  <string name="no_updates_warning">Your system is up to date</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
@@ -1824,7 +1824,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_key_press">Press navigation buttons</string>
   <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_never_timeout_title">Never sleep</string>
-  <string name="screen_on_proximity_sensor_summary">"Lock phone automatically when it's placed in a pocket"</string>
+  <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a pocket</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
@@ -2099,10 +2099,10 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_serialno">serial no</string>
   <string name="status_service_state">Service state</string>
   <string name="status_signal_strength">Signal strength</string>
-  <string name="status_sim">SIM status</string>
+  <string name="status_sim">SIM card status</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
-  <string name="status_summary">Tap to view details</string>
+  <string name="status_summary">Tap to view details.</string>
   <string name="status_unavailable">Unavailable</string>
   <string name="status_up_time">Up time</string>
   <string name="status_wifi_mac_address">WLAN MAC address</string>
@@ -2338,7 +2338,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="user_add_user_item_summary">Users have their own apps and content</string>
   <string name="user_add_user_item_title">User</string>
   <string name="user_add_user_menu">Add user or profile</string>
-  <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+  <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust pad settings like WLAN that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
@@ -2528,7 +2528,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_settings_title">Wireless display</string>
   <string name="wfd_wps_keypad">Push button preferred</string>
   <string name="wfd_wps_pbc">Prefer to input PIN</string>
-  <string name="whetstone_level_reboot">This setting will take effect when you restart your device</string>
+  <string name="whetstone_level_reboot">This setting will take effect after you reboot your device.</string>
   <string name="whetstone_level_reboot_OK">Reboot</string>
   <string name="whetstone_level_title">System memory optimization</string>
   <string name="widget_picker_title">Choose widget</string>

@@ -55,7 +55,7 @@
   <string name="bl_no_block_call">No blocked calls.</string>
   <string name="bl_no_block_sms">No blocked SMS.</string>
   <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
-  <string name="block_message_number">Messages: %d</string>
+  <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Calls: %d</string>
   <string name="button_text_delete">Delete</string>
   <string name="button_to_setting">Settings</string>
@@ -184,12 +184,12 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
   <string name="special_number_group">Block special numbers</string>
   <string name="st_advanced_setting_group">Advanced</string>
-  <string name="st_antispam_black_adress_add">Choose a location</string>
-  <string name="st_antispam_bw_adress_add">Choose location</string>
-  <string name="st_antispam_bw_choose_modes">Blocked numbers</string>
+  <string name="st_antispam_black_adress_add">Add locations</string>
+  <string name="st_antispam_bw_adress_add">Add locations</string>
+  <string name="st_antispam_bw_choose_modes">Add to list</string>
   <string name="st_antispam_bw_head_add">Add prefix</string>
   <string name="st_antispam_bw_man_add">Add phone number</string>
-  <string name="st_antispam_bw_pick_add">Choose a contact</string>
+  <string name="st_antispam_bw_pick_add">Add contacts</string>
   <string name="st_antispam_delete">Delete</string>
   <string name="st_antispam_des_anti">Block</string>
   <string name="st_antispam_des_permit">Allow</string>
@@ -261,7 +261,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="st_title_adblock_setting">Ad blocker settings</string>
   <string name="st_title_addblacklist">Add to blocklist</string>
   <string name="st_title_addwhitelist">Add to exceptions</string>
-  <string name="st_title_adress">Choose location</string>
+  <string name="st_title_adress">Add locations</string>
   <string name="st_title_adress_num">%d selected</string>
   <string name="st_title_anticomintcall_backsound_setting">Message played to blocked numbers</string>
   <string name="st_title_antispam_mode">Rules</string>

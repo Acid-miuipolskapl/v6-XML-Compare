@@ -44,8 +44,8 @@
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to enable sync first.</string>
-  <string name="alert_secret_album_message">You can scroll the cloud album into secret album.</string>
-  <string name="alert_secret_album_title">Secret Album</string>
+  <string name="alert_secret_album_message">Swipe up at the bottom of your albums to view hidden albums.</string>
+  <string name="alert_secret_album_title">Hidden albums</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
@@ -58,7 +58,7 @@
   <string name="auto_create_recent_album_confirm">"Gallery will clear Favorite album data. Albums you've favorited manually will not be affected."</string>
   <string name="auto_create_recent_album_over_ten_times">An album will be marked as a Favorite when you open it more than 10 times</string>
   <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
-  <string name="auto_upload_tip">Album with the same name will be created after enabled. Existed album (including share album which you share to others) with the same name will be merged.</string>
+  <string name="auto_upload_tip">If album with the same name already exists in your cloud, the albums will be merged.</string>
   <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -484,11 +484,6 @@
   <string name="cloud_owner_album_share_guide">"Share this album
 with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
-  <string name="cloud_share_guide_message">"Share your photos with 
-friends. View and update your 
-albums from anywhere.
-"</string>
-  <string name="cloud_share_guide_title">Sharing is easy</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">All</string>
   <string name="cloudfolder_already_exists">A folder with the same name already exists</string>
@@ -551,7 +546,7 @@ albums from anywhere.
   <string name="details_title">%1$d of %2$d items</string>
   <string name="device_model">Device</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="do_not_save">Do not save</string>
+  <string name="do_not_save">"Don't save"</string>
   <string name="documentary">Documentary</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
@@ -570,12 +565,12 @@ albums from anywhere.
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
-  <string name="error_cloud_not_active">No photos in cloud</string>
+  <string name="error_cloud_not_active">No photos in cloud.</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
-  <string name="error_share_not_support">Joining shared album is not supported temporarily</string>
+  <string name="error_share_not_support">"This feature isn't supported yet"</string>
   <string name="error_share_with_creator">This album is already being shared with you</string>
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>
@@ -769,7 +764,7 @@ device"</string>
   <string name="owner_album_subtitle">Shared with %1$s users</string>
   <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
   <string name="paint_cancel_title">Abandon changes</string>
-  <string name="paint_crop_cancel_context">Do you want to save the crop result?</string>
+  <string name="paint_crop_cancel_context">Save cropped image?</string>
   <string name="paint_crop_cancel_title">Abandon changes</string>
   <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
   <string name="path">Path</string>
@@ -921,7 +916,7 @@ device"</string>
   <string name="sync_in_progress_message">Syncing…</string>
   <string name="sync_only_in_wifi">Only use Wi‑Fi to upload photos</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
-  <string name="sync_only_in_wifi_summary">Prevent Gallery from uploading photos over your mobile data connection</string>
+  <string name="sync_only_in_wifi_summary">Never use your mobile data connection to upload photos</string>
   <string name="system_album">System album</string>
   <string name="tab_all_text">Set both</string>
   <string name="tab_lockscreen_text">Lock screen</string>

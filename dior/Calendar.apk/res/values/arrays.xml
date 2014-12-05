@@ -313,7 +313,7 @@
         <item>never</item>
     </string-array>
     <string-array name="widget_style_list">
-        <item>Transparent black</item>
+        <item>Transparent</item>
         <item>White background</item>
     </string-array>
     <integer-array name="online_reminder_minutes_values">

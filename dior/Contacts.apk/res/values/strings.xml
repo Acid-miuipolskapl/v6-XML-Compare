@@ -439,7 +439,7 @@ Reason: \"%s\""</string>
   <string name="import_sim_entries_finish">Contacts imported from SIM card</string>
   <string name="import_sim_entry_miui">Import</string>
   <string name="import_to_xiaomi_account_confirm">Import</string>
-  <string name="import_to_xiaomi_account_progress_finish">Contacts imported!</string>
+  <string name="import_to_xiaomi_account_progress_finish">Contacts imported</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
   <string name="import_to_xiaomi_account_title">Import the following contacts into your Mi Account?</string>
@@ -723,9 +723,9 @@ To add a contact to your list of favorites:
   <string name="pref_key_photo_word_title">Assign contact photos</string>
   <string name="pref_key_rebuild_t9_index_message">Rebuild index to resolve search issues</string>
   <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
-  <string name="pref_key_sim_manage">Configure SIM card</string>
-  <string name="pref_key_sim_manage1">Configure SIM card 1</string>
-  <string name="pref_key_sim_manage2">Configure SIM card 2</string>
+  <string name="pref_key_sim_manage">SIM cards</string>
+  <string name="pref_key_sim_manage1">Set up SIM card 1</string>
+  <string name="pref_key_sim_manage2">Set up SIM card 2</string>
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import from account</string>
   <string name="pref_title_import_from_account">Import from Mi Account</string>
@@ -1083,8 +1083,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
-  <string name="t9_search_guide_pinyin">Enter 7 and 9 to search for Steve Wozniak</string>
-  <string name="t9_search_guide_zhuyin">Enter 7 and 9 to search for Steve Wozniak</string>
+  <string name="t9_search_guide_pinyin">Enter 2 and 8 to search for Alan Turing</string>
+  <string name="t9_search_guide_zhuyin">Enter 2 and 8 to search for Alan Turing</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Merge contacts</string>

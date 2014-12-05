@@ -44,6 +44,7 @@
   <string name="download_complete">Complete</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
+  <string name="download_filesize_unknown">unknown</string>
   <string name="download_in_process">Downloading</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
   <string name="download_info_start_deleted_tasks">Delete downloads</string>

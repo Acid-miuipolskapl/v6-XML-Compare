@@ -37,12 +37,12 @@
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="dialog_button_create_playlist">Create playlist</string>
   <string name="dialog_button_editor_choice">Featured</string>
-  <string name="dialog_button_find_music">Discover new music</string>
+  <string name="dialog_button_find_music">Discover</string>
   <string name="dialog_button_login">Sign in and sync your music</string>
   <string name="dialog_button_scan_tracks">Search for music on this device</string>
   <string name="dialog_delete_descript">Delete %s?</string>
   <string name="dialog_hint_music_error">No songs found.</string>
-  <string name="dialog_hint_network_error">Check your connection and try again.</string>
+  <string name="dialog_hint_network_error">"Can't connect to the network."</string>
   <string name="dialog_remove_descript">Remove %s?</string>
   <string name="dialog_title_add_playlist">Add playlist</string>
   <string name="dialog_title_delete_tracks">Delete</string>
