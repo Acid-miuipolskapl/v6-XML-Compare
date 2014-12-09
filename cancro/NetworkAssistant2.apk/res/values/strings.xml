@@ -237,6 +237,8 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
   <string name="setting_traffic_pkg">Set data package</string>
   <string name="settings">Data usage settings</string>
+  <string name="show_traffic_dialog_message">Your data usage info will be displayed in the notification shade. You can turn this feature on or off anytime in Data usage &gt; Settings</string>
+  <string name="show_traffic_dialog_title">Show usage in notification shade</string>
   <string name="songs_number">18 songs</string>
   <string name="songs_unit">" songs"</string>
   <string name="sorted_button">Sort by</string>
