@@ -253,12 +253,12 @@
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">"Send as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_btn_enable">Activate</string>
-  <string name="mx_btn_enable_now">Turn on</string>
+  <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS"</string>
   <string name="mx_current_status">Online</string>
-  <string name="mx_dspt">Mi Message lets you send messages back and forth with anyone else using MIUI</string>
+  <string name="mx_dspt">Mi Message lets you send messages to other MIUI users without incurring SMS charges</string>
   <string name="mx_enable">Mi Message</string>
-  <string name="mx_enable_popup_msg">Send messages back and forth for free with other users also using this feature</string>
+  <string name="mx_enable_popup_msg">Mi Message lets you send messages to other MIUI users without incurring SMS charges.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
@@ -266,7 +266,7 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Reactivate Mi Message</string>
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
-  <string name="mx_type_guide">Send messages back and forth for free with other users also using this feature</string>
+  <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring SMS charges</string>
   <string name="need_download">Syncing…</string>
   <string name="new_message">New message</string>
   <string name="new_message_arrived">You have a new message</string>

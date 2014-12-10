@@ -567,14 +567,6 @@
         <item>@string/pref_audio_indicator_entryvalue_off</item>
         <item>@string/pref_audio_indicator_entryvalue_on</item>
     </string-array>
-    <string-array name="pref_camera_burst_shooting_entries">
-        <item>@string/APKTOOL_DUMMY_0209</item>
-        <item>@string/APKTOOL_DUMMY_0208</item>
-    </string-array>
-    <string-array name="pref_camera_burst_shooting_entryvalues">
-        <item>on</item>
-        <item>off</item>
-    </string-array>
     <string-array name="pref_camera_zsl_entries">
         <item>@string/pref_camera_zsl_entry_on</item>
         <item>@string/pref_camera_zsl_entry_off</item>
@@ -704,5 +696,13 @@
         <item>@string/pref_audio_focus_entryvalue_general</item>
         <item>@string/pref_audio_focus_entryvalue_front</item>
         <item>@string/pref_audio_focus_entryvalue_rear</item>
+    </string-array>
+    <string-array name="pref_camera_long_press_shutter_feature_entries">
+        <item>@string/pref_camera_long_pressing_burst_shooting_entry_burst</item>
+        <item>@string/pref_camera_long_pressing_burst_shooting_entry_focus</item>
+    </string-array>
+    <string-array name="pref_camera_long_press_shutter_feature_entryvalues">
+        <item>burst</item>
+        <item>focus</item>
     </string-array>
 </resources>

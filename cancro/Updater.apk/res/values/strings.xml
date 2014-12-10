@@ -47,11 +47,11 @@
   <string name="dialog_no">Cancel</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_yes">OK</string>
-  <string name="download_again">Download again</string>
+  <string name="download_again">Try again</string>
   <string name="download_cancel">Cancel</string>
   <string name="download_current_rom">Flash update</string>
   <string name="download_diff">Download diff</string>
-  <string name="download_error">Download error. Wait a minute or two and try again.</string>
+  <string name="download_error">Wait a minute or two and try again.</string>
   <string name="download_failed">"Couldn't download"</string>
   <string name="download_full">Download full</string>
   <string name="download_title">Downloading (%s)</string>
@@ -165,7 +165,7 @@
   <string name="timer_title">Device will reboot in %d seconds.</string>
   <string name="title_toast_auto">Updates will download automatically</string>
   <string name="top_secret_build">Top-secret</string>
-  <string name="unkown_error_title">Something went wrong…</string>
+  <string name="unkown_error_title">"Couldn't download"</string>
   <string name="unstable_build">Unstable</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Comment</string>

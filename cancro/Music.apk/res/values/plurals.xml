@@ -12,6 +12,9 @@
         <item quantity="other">%d songs will be downloaded</item>
         <item quantity="one">1 song will be downloaded</item>
     </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d new</item>
+    </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d songs</item>
         <item quantity="one">%d song</item>
