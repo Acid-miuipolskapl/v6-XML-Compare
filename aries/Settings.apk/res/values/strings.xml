@@ -1427,7 +1427,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
   <string name="music_equalizer">Equalizer</string>
-  <string name="music_headphone_settings">Choose headphone type</string>
+  <string name="music_headphone_settings">Choose headphones type</string>
   <string name="music_headset_button_settings">Assign buttons</string>
   <string name="music_headset_calibrate">Assign buttons</string>
   <string name="music_headset_calibrate_apply">Use</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alert_frequency_duplicate">This frequency already exists</string>
   <string name="alert_invalid_frequency">Invalid frequency</string>
   <string name="alert_message_delete_station">This preset will be deleted.</string>
   <string name="app_name">FM Radio</string>

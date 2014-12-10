@@ -22,8 +22,8 @@
   <string name="buy_space_sulotion_renew_title">Renew subscription</string>
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="cloud_find_device">Find Device</string>
-  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud</string>
-  <string name="cloud_space_upgrade_no_quota_info">Failed to load. Wait a minute or two and try again.</string>
+  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
+  <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
   <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
@@ -91,7 +91,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
-  <string name="micloud_detail_fail">fail</string>
+  <string name="micloud_detail_fail">"can't sync"</string>
   <string name="micloud_detail_lastest">synced</string>
   <string name="micloud_detail_pending">pending</string>
   <string name="micloud_detail_preference_syncing">syncing</string>
@@ -192,7 +192,7 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">Sync</string>
-  <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, contacts, call log, and more across all your Mi devices. You can also access them from any browser at "</string>
+  <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, app data, and more across all your Mi devices. You can also access them from any browser at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">mi.com/micloud</string>
   <string name="sync_dspt_provision3">".
