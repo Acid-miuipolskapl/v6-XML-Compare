@@ -58,7 +58,6 @@
   <string name="auto_create_recent_album_confirm">"Gallery will clear Favorite album data. Albums you've favorited manually will not be affected."</string>
   <string name="auto_create_recent_album_over_ten_times">An album will be marked as a Favorite when you open it more than 10 times</string>
   <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
-  <string name="auto_upload_tip">If album with the same name already exists in your cloud, the albums will be merged.</string>
   <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -705,14 +704,20 @@ with friends"</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
+  <string name="miliao">MiTalk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">MIME type</string>
+  <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="miui_wallpaper">Wallpaper</string>
   <string name="modified_time">Modified</string>
+  <string name="moman">MomanCamera</string>
+  <string name="moman_camera_drawing">Moman Camera drawing</string>
+  <string name="moman_camera_icon">Moman Camera emoticon</string>
+  <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">More</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to</string>
@@ -792,6 +797,7 @@ device"</string>
   <string name="picker_tab_photo">Photo</string>
   <string name="pocket_camera_picture">Pocket Camera pictures</string>
   <string name="pocket_camera_video">Pocket Camera videos</string>
+  <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
@@ -802,9 +808,11 @@ device"</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
   <string name="publishing">Publishing…</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
   <string name="redeye">Red Eye</string>
@@ -849,7 +857,7 @@ device"</string>
   <string name="select_all">Select all</string>
   <string name="select_auto_upload_albums">Choose albums to upload to cloud</string>
   <string name="select_image">Select photo</string>
-  <string name="select_item">Edit mode</string>
+  <string name="select_item">Select items</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
@@ -888,7 +896,7 @@ device"</string>
   <string name="show_images_only">Images only</string>
   <string name="show_on_map">Show on map</string>
   <string name="show_videos_only">Videos only</string>
-  <string name="sina_weibo_save">Weibo</string>
+  <string name="sina_weibo">Weibo</string>
   <string name="size_above">%1$s or above</string>
   <string name="size_below">%1$s or below</string>
   <string name="size_between">%1$s to %2$s</string>
@@ -917,6 +925,7 @@ device"</string>
   <string name="sync_only_in_wifi">Only use Wi‑Fi to upload photos</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
   <string name="sync_only_in_wifi_summary">Never use your mobile data connection to upload photos</string>
+  <string name="sync_third_party_app_pic_summary">Upload photos in some app folders to your cloud automatically</string>
   <string name="system_album">System album</string>
   <string name="tab_all_text">Set both</string>
   <string name="tab_lockscreen_text">Lock screen</string>
@@ -942,6 +951,7 @@ device"</string>
   <string name="ubifocus_refocus_data_missing">"Can't refocus because some of this image's data is missing"</string>
   <string name="ubifocus_refocus_download_tip">"You need to download this image's data before refocusing."</string>
   <string name="ubifocus_refocus_map_error">"Can't refocus because some of this image's data contains errors"</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
@@ -957,6 +967,8 @@ device"</string>
   <string name="wallpaper">Home screen wallpaper</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Warning</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
@@ -966,6 +978,7 @@ device"</string>
   <string name="widget_type_photo">Choose an image</string>
   <string name="widget_type_shuffle">Shuffle all images</string>
   <string name="width">Width</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Directory</string>
   <string name="yes">Yes</string>
   <string name="yunyi_pocket_camera">Pocket Camera</string>

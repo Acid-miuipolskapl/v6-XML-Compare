@@ -8,6 +8,10 @@
   <string name="auth_notif_message">Type session key for %1$s</string>
   <string name="auth_notif_ticker">Obex authentication request</string>
   <string name="auth_notif_title">Session Key</string>
+  <string name="bluetooth_preference_connected_devices">Connected devices</string>
+  <string name="bluetooth_preference_found_devices">Available devices</string>
+  <string name="bluetooth_preference_scan_title">Scan for devices</string>
+  <string name="bluetooth_search_for_devices">Search for devices</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
   <string name="bt_enable_cancel">Cancel</string>
@@ -30,6 +34,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Delete all record</string>
   <string name="delete_record">Delete record</string>
+  <string name="device_picker">Bluetooth device chooser</string>
   <string name="download_cancel">Stop</string>
   <string name="download_fail_line1">File not received</string>
   <string name="download_fail_line2">File: %1$s</string>
@@ -119,6 +124,7 @@
   <string name="profile_mse">MAP</string>
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
+  <string name="progress_scanning">Searching</string>
   <string name="sharedUserId"/>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">Transfer canceled by user.</string>
