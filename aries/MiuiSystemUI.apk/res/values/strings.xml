@@ -54,6 +54,7 @@
   <string name="battery_low_subtitle">The battery is getting low.</string>
   <string name="battery_low_title">Connect charger</string>
   <string name="battery_low_why">Battery use</string>
+  <string name="battery_profiles">Use battery profiles</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
   <string name="call_status_dialing">Dialing</string>
   <string name="call_status_ringing">Ringing</string>

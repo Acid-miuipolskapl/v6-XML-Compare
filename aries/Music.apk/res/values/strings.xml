@@ -23,6 +23,7 @@
   <string name="avoid_to_use_traffic_summary">"Don't use mobile network to stream music"</string>
   <string name="avoid_to_use_traffic_title">Only use WLAN to stream music</string>
   <string name="baidu_music">Baidu music</string>
+  <string name="bluetooth_device">Bluetooth device</string>
   <string name="buffering">Buffering…</string>
   <string name="button_add">Add</string>
   <string name="can_not_find_resource">"Can't find resources"</string>
@@ -35,6 +36,8 @@
   <string name="create_playlist">Create playlist</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
+  <string name="device_connected">Connected</string>
+  <string name="device_not_connected">Not connected</string>
   <string name="dialog_button_create_playlist">Create playlist</string>
   <string name="dialog_button_editor_choice">Featured</string>
   <string name="dialog_button_find_music">Discover</string>
@@ -128,7 +131,7 @@
   <string name="fragment_title_bill">PLAYLISTS</string>
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_recommend">FEATURED</string>
-  <string name="headset_settings">Headset settings</string>
+  <string name="headset_settings">Headphones and audio effects</string>
   <string name="high_quality">Higher</string>
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
@@ -153,7 +156,7 @@
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
   <string name="lrc_searching">Searching…</string>
   <string name="lyric">Lyrics</string>
-  <string name="lyric_is_empty">No lyrics available.</string>
+  <string name="lyric_is_empty">No lyrics available</string>
   <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
   <string name="lyric_setting">Lyrics settings</string>
   <string name="max_sleep_time">90</string>

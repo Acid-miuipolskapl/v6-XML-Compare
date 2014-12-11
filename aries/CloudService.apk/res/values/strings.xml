@@ -83,7 +83,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
   <string name="loading_hint">Loading</string>
-  <string name="master_alert_notif_dspt_add">%s items waiting to to sync</string>
+  <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
@@ -91,13 +91,13 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
-  <string name="micloud_detail_fail">"can't sync"</string>
-  <string name="micloud_detail_lastest">synced</string>
-  <string name="micloud_detail_pending">pending</string>
-  <string name="micloud_detail_preference_syncing">syncing</string>
-  <string name="micloud_detail_preference_wlan">sync on WLAN</string>
-  <string name="micloud_detail_success">synced</string>
-  <string name="micloud_detail_syncing">syncing</string>
+  <string name="micloud_detail_fail">"Couldn't sync"</string>
+  <string name="micloud_detail_lastest">Synced</string>
+  <string name="micloud_detail_pending">Waiting</string>
+  <string name="micloud_detail_preference_syncing">Syncing</string>
+  <string name="micloud_detail_preference_wlan">Sync on WLAN</string>
+  <string name="micloud_detail_success">Synced</string>
+  <string name="micloud_detail_syncing">Syncing</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
   <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
@@ -114,13 +114,13 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
   <string name="micloud_main_data_unsynced">%d items waiting to sync</string>
-  <string name="micloud_main_detail">show detail</string>
+  <string name="micloud_main_detail">View details</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
   <string name="micloud_main_set_internet">Network</string>
   <string name="micloud_main_space_full">Not enough storage space.</string>
-  <string name="micloud_main_space_risk">%d synced.</string>
+  <string name="micloud_main_space_risk">%d items synced.</string>
   <string name="micloud_main_stop_sync">Stop sync</string>
   <string name="micloud_main_suggest_sync">"Some items haven't synced with your Mi Cloud"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
@@ -128,10 +128,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_sync_pause">Pause sync</string>
   <string name="micloud_main_sync_stop">Stop sync</string>
-  <string name="micloud_main_synced_data_count">%d synced</string>
-  <string name="micloud_main_syncing">syncing…</string>
+  <string name="micloud_main_synced_data_count">%d items synced</string>
+  <string name="micloud_main_syncing">Syncing…</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
-  <string name="micloud_main_wlan_sync_data_count">%d waiting to sync over WLAN</string>
+  <string name="micloud_main_wlan_sync_data_count">%d items waiting to sync over WLAN</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
@@ -173,6 +173,8 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="only_in_wlan">Only use WLAN</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
+  <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
+  <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>

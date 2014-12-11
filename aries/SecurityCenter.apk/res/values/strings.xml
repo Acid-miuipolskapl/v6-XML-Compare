@@ -184,8 +184,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memory</string>
   <string name="handle_text_system">System</string>
-  <string name="header_antivirus">"By using this feature, you are agreeing to Tencent's "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Terms of Service&lt;/a&gt;.</string>
-  <string name="header_optimizer">"By using this feature, you are agreeing to Clean Master's "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="header_antivirus">"By using this feature, you are agreeing to Tencent's "&lt;a href="http://www.tencent.com/en-us/zc/privacypolicy.shtml"&gt;Privacy Policy&lt;/a&gt;.</string>
+  <string name="header_optimizer">"By using this feature, you are agreeing to Cheetah Mobile's "&lt;a href="https://www.cmcm.com/protocol/site/privacy.html"&gt;Privacy Policy&lt;/a&gt;.</string>
   <string name="hints_ad_header_left">Ad files: %d</string>
   <string name="hints_apk_header_left">Install packages: %d</string>
   <string name="hints_apk_version">Version %s</string>
@@ -259,14 +259,6 @@
   <string name="info_and_call">Calls and messaging</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>
-  <string name="item_garbage_size_1000m">1GB</string>
-  <string name="item_garbage_size_100m">100MB</string>
-  <string name="item_garbage_size_300m">300MB</string>
-  <string name="item_garbage_size_500m">500MB</string>
-  <string name="item_garbage_time_3d">Every 3 days</string>
-  <string name="item_garbage_time_7d">Every 7 days</string>
-  <string name="item_garbage_time_daily">Daily</string>
-  <string name="item_garbage_time_never">Never</string>
   <string name="item_install_monitor">Install monitor</string>
   <string name="item_mms">Filter unwanted messages</string>
   <string name="item_title_garbage_size">Alarm size</string>
@@ -330,6 +322,8 @@
   <string name="msg_update_error_code_no_newer_db">Cleaner is up to date</string>
   <string name="msg_update_error_code_success">Update finished</string>
   <string name="msg_update_error_code_unknown_error">Unknown error</string>
+  <string name="name_antivirus">"Tencent's Privacy Policy"</string>
+  <string name="name_optimizer">"Cheetah Mobile's Privacy Policy"</string>
   <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
   <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
@@ -538,17 +532,27 @@
   <string name="pref_title_garbage_cleanup_check_time">Trash alarm</string>
   <string name="pref_title_manual_check_cleanup_db_update">Check for updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Use online Cleaner engine</string>
+  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
+  <string name="preference_category_key_reference_settings">key_reference_settings</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
+  <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
+  <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
+  <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
+  <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
   <string name="preference_key_auto_start_manager">key_auto_start_manager</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
   <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
+  <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
   <string name="preference_key_create_shortcut">key_create_shortcut</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_default_apps_manager">key_default_apps_manager</string>
   <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+  <string name="preference_key_garbage_auto_clean_and_alert">key_garbage_auto_clean_and_alert</string>
+  <string name="preference_key_garbage_auto_clean_content">key_garbage_auto_clean_content</string>
+  <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
@@ -595,7 +599,7 @@
   <string name="st_title_mode_choose_group">Choose profile</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">risks</string>
-  <string name="summary_antivirus">Upload and scan app names and details using online virus definitions</string>
+  <string name="summary_antivirus">Upload and scan app names and details using online virus definitions.</string>
   <string name="summary_cleaner_cloudscan">Upload and compare unknown folder names with online definitions</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
@@ -609,7 +613,7 @@
   <string name="summary_install_virus">Check apps for viruses before installation</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
-  <string name="summary_optimizer">Upload and compare unknown folder names with online definitions</string>
+  <string name="summary_optimizer">"This feature uploads unknown folder names to update Cleaner's online database and requires your device's ID."</string>
   <string name="summary_permission">Protect my privacy from potentially malicious third-party apps</string>
   <string name="summary_permission_root">Your device and personal data are more vulnerable to attack from apps that have root access</string>
   <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
@@ -622,9 +626,9 @@
   <string name="summary_virus_update">Update virus definitions automatically when connected to WLAN</string>
   <string name="system_check_content">%1$d suspicious items</string>
   <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
-  <string name="text_antivirus">Use online virus definitions</string>
-  <string name="text_optimizer">Use online Cleaner engine</string>
-  <string name="title_antivirus">Virus scan</string>
+  <string name="text_antivirus">Upload app names and details</string>
+  <string name="text_optimizer">Upload unknown folder names</string>
+  <string name="title_antivirus">Terms and Conditions</string>
   <string name="title_app_update">Updates available</string>
   <string name="title_app_update_no">%d updates found</string>
   <string name="title_app_update_yes">No updates found</string>
@@ -647,7 +651,7 @@
   <string name="title_miui_update_yes">No updates found</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
-  <string name="title_optimizer">Cleaner</string>
+  <string name="title_optimizer">Terms and Conditions</string>
   <string name="title_permission_no">Permission manager off</string>
   <string name="title_permission_root">Root access warning</string>
   <string name="title_permission_yes">Permission manager on</string>
