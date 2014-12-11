@@ -223,7 +223,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_traffic_saving_whitelist_hint">Lift data restrictions for a select group of apps</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
-  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=http://max.oupeng.com/eula.html&gt; Terms and Conditions&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms and Conditions</string>
   <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>

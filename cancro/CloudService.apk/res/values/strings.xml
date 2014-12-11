@@ -173,6 +173,8 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="only_in_wlan">Only use WLAN</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
+  <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
+  <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
