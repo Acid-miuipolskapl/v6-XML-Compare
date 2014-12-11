@@ -963,6 +963,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Small</string>
   <string name="font_size_summary">"Change the operating system's font size"</string>
+  <string name="font_size_summary1">"
+Dissatisfied? Try"</string>
+  <string name="font_size_summary2">JeeJen Home</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -2244,6 +2247,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="timezone_settings">Time zone</string>
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_font">Font</string>
+  <string name="title_font_current">Using</string>
   <string name="title_font_size">Font size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_local_resource">Local resources</string>
