@@ -1530,7 +1530,7 @@ Select your operating system:"</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
   <string name="permission_manage">Permission manager</string>
-  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call log, change system settings, or access camera and other device resources</string>
+  <string name="permission_manage_summary">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="permission_manage_title">%s permissions</string>
   <string name="permission_manager">Permissions</string>
   <string name="permission_mgr">Permissions</string>
