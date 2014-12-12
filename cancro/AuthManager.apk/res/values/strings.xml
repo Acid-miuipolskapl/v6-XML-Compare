@@ -88,10 +88,10 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Calendar_Desc">read your calendar events</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s apps can read your calendar events</string>
   <string name="HIPS_Perm_Call">Make phone calls</string>
-  <string name="HIPS_Perm_CallLog">Write call log</string>
-  <string name="HIPS_Perm_CallLog_Access">read call log</string>
-  <string name="HIPS_Perm_CallLog_Desc">write call log</string>
-  <string name="HIPS_Perm_CallLog_Hint">%1$s apps can write call log</string>
+  <string name="HIPS_Perm_CallLog">Write call history</string>
+  <string name="HIPS_Perm_CallLog_Access">read call history</string>
+  <string name="HIPS_Perm_CallLog_Desc">write call history</string>
+  <string name="HIPS_Perm_CallLog_Hint">%1$s apps can write call history</string>
   <string name="HIPS_Perm_CallMonitor">Monitor phone calls</string>
   <string name="HIPS_Perm_CallMonitor_Desc">monitor phone calls and change in-call volume</string>
   <string name="HIPS_Perm_CallMonitor_Hint">%1$s apps can monitor phone calls and change in-call volume</string>
@@ -156,9 +156,9 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_ROOT_Desc">get root access</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s apps have root access</string>
   <string name="HIPS_Perm_ROOT_Title">App has root access</string>
-  <string name="HIPS_Perm_Read_Call_Log">Read call log</string>
-  <string name="HIPS_Perm_Read_Call_Log_Desc">read call log</string>
-  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apps can read your call log</string>
+  <string name="HIPS_Perm_Read_Call_Log">Read call history</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">read call history</string>
+  <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s apps can read your call history</string>
   <string name="HIPS_Perm_Read_Contact">Read your contacts</string>
   <string name="HIPS_Perm_Read_Contact_Desc">read your contacts</string>
   <string name="HIPS_Perm_Read_Contact_Hint">%1$s apps can read your contacts</string>

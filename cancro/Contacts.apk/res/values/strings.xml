@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Call log details</string>
+  <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
   <string name="account_phone">Phone-only, unsynced</string>
@@ -99,15 +99,15 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Delete batch</string>
-  <string name="callrecordview_menu_delete">Clear call log</string>
+  <string name="callrecordview_menu_delete">Clear call history</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
-  <string name="callrecordview_menu_delete_all">Clear call log</string>
+  <string name="callrecordview_menu_delete_all">Clear call history</string>
   <string name="callrecordview_menu_delete_called">Clear outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Clear missed calls</string>
-  <string name="callrecordview_menu_delete_new">Clear call logs of new contacts</string>
-  <string name="callrecordview_menu_delete_one">Remove from call log</string>
-  <string name="callrecordview_menu_delete_sim">Clear %s call logs</string>
+  <string name="callrecordview_menu_delete_new">Clear call histories of new contacts</string>
+  <string name="callrecordview_menu_delete_one">Remove from call history</string>
+  <string name="callrecordview_menu_delete_sim">Clear %s call histories</string>
   <string name="callrecordview_menu_delete_stranger">Clear unknown numbers</string>
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="callrecordview_menu_paste">Paste</string>
@@ -120,7 +120,7 @@
   <string name="callrecordview_menu_show_new">New Contacts</string>
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
-  <string name="callrecordview_menu_show_title">Call log display</string>
+  <string name="callrecordview_menu_show_title">Call history display</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
   <string name="cancel_import_confirmation_message">Cancel import of %s?</string>
@@ -161,14 +161,14 @@
   <string name="config_export_vcard_type">v30_generic</string>
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"/>
-  <string name="confirm_delete_contact_all_call_logs">Delete call logs?</string>
-  <string name="confirm_delete_selected_all_call_logs">Delete call logs?</string>
+  <string name="confirm_delete_contact_all_call_logs">Delete call history?</string>
+  <string name="confirm_delete_selected_all_call_logs">Delete call history?</string>
   <string name="confirm_delete_sim_entry_miui">Delete %d contacts from SIM card?</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
   <string name="contactDetailAbout">About</string>
-  <string name="contactDetailCalllog">Call log</string>
+  <string name="contactDetailCalllog">Call history</string>
   <string name="contactDetailUpdates">Updates</string>
   <string name="contactMultiPickerActivityTitle">Select contacts</string>
   <string name="contactPickerActivityTitle">Choose a contact</string>
@@ -214,9 +214,9 @@
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
   <string name="deleteConfirmation_title">Delete</string>
-  <string name="delete_call_log_selected_title">Delete selected call log?</string>
-  <string name="delete_call_log_title">Choose call log</string>
-  <string name="delete_contact_calllog_title">Delete call logs?</string>
+  <string name="delete_call_log_selected_title">Delete selected call history?</string>
+  <string name="delete_call_log_title">Choose call history</string>
+  <string name="delete_contact_calllog_title">Delete call history?</string>
   <string name="delete_dial_input">Delete</string>
   <string name="delete_duplicate">Merge</string>
   <string name="delete_duplicate_message">"Merging contacts… "</string>
@@ -225,7 +225,7 @@
   <string name="delete_selected_sim_entry_miui">Delete selected contacts</string>
   <string name="delete_sim_entries_finish">Contacts on SIM card deleted</string>
   <string name="delete_sim_entry_miui">Delete</string>
-  <string name="delete_unknown_contact_calllog_title">Delete call logs?</string>
+  <string name="delete_unknown_contact_calllog_title">Delete call history?</string>
   <string name="deleting">Deleting…</string>
   <string name="deleting_sim_entry_miui">Deleting contacts on SIM card…</string>
   <string name="description_add_contact">Add contact</string>
@@ -1095,8 +1095,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="toast_copy_done">Done</string>
   <string name="toast_copying">Copying…</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
-  <string name="toast_finish_delete_call_log">Call log deleted</string>
-  <string name="toast_finish_delete_selected_call_log">Call log deleted</string>
+  <string name="toast_finish_delete_call_log">Call history deleted</string>
+  <string name="toast_finish_delete_selected_call_log">Call history deleted</string>
   <string name="toast_for_failed_saving_nickname">"Couldn't save nickname"</string>
   <string name="toast_for_saving_nickname">Nickname saved</string>
   <string name="toast_join_with_empty_contact">Type contact name before merging with another</string>

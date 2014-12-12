@@ -238,6 +238,7 @@
   <string name="msglist_release_to_more">Release to view more</string>
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
+  <string name="mx_activate_dlg_title">Activate Mi Message</string>
   <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
   <string name="mx_activate_error_server">"Couldn't activate"</string>
   <string name="mx_activate_error_sim_change">"Looks like you've swapped SIM cards. You need to reactivate Mi Message."</string>
@@ -248,6 +249,7 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
+  <string name="mx_activate_user_agreement_p1">"By using this service, you are agreeing to Mi Message's "</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
   <string name="mx_auto_resend_mms_summary">"Send as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
@@ -257,6 +259,7 @@
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS"</string>
   <string name="mx_current_status">Online</string>
   <string name="mx_dspt">Mi Message lets you send messages to other MIUI users without incurring SMS charges</string>
+  <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring SMS charges. Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_popup_msg">Mi Message lets you send messages to other MIUI users without incurring SMS charges.</string>
   <string name="mx_msg">Mi Message</string>
@@ -506,7 +509,7 @@ Attempt made: %s."</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-  <string name="user_agreement2">" User Agreement"</string>
+  <string name="user_agreement2">User Agreement</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By touching OK, you agree to our User Agreement and Privacy Policy.</string>
