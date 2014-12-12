@@ -2,10 +2,10 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activate</string>
-  <string name="activate_feature_call_log_sync">Call log Sync</string>
+  <string name="activate_feature_call_log_sync">Sync call history</string>
   <string name="activate_feature_find_device">Find Device</string>
-  <string name="activate_feature_mms_sync">SMS Sync</string>
-  <string name="activate_feature_mx">Mi Messaging</string>
+  <string name="activate_feature_mms_sync">Sync SMS</string>
+  <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_phone_failed_notif_title">"Couldn't activate SIM card"</string>
   <string name="activate_phone_failed_notif_title_msim">"Couldn't activate SIM card %s"</string>
   <string name="activate_popup_confirm_failed_phone_error">Retry</string>
