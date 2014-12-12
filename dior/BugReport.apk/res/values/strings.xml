@@ -74,6 +74,10 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="signal_problem1">No signal</string>
   <string name="signal_problem2">Weak signal</string>
+  <string name="submit_dialog_cancel">Cancel</string>
+  <string name="submit_dialog_confirm">Submit</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+  <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">Write your suggestion here</string>
   <string name="suggestion_problem1">"Tell us what features you'd like to see in future"</string>
   <string name="system_app_select">Built-in apps</string>
