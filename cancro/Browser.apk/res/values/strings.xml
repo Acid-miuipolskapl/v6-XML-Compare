@@ -119,6 +119,7 @@
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
+  <string name="clear_history_by_group_alert">Clear history from %s?</string>
   <string name="clear_history_group">Clear history (%s pages)</string>
   <string name="clear_search_history">Clear history</string>
   <string name="clip_dialog_title">Open the copied URL?</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_baidusearch">Baidu</string>
+  <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
@@ -22,6 +22,9 @@
   <string name="action_key_play_prev">Prev</string>
   <string name="action_key_power">Power</string>
   <string name="action_key_power_long">Power (Long press)</string>
+  <string name="action_key_vol">Volume keys</string>
+  <string name="action_key_vol_down">Volume down</string>
+  <string name="action_key_vol_up">Volume up</string>
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
@@ -144,8 +147,10 @@
   <string name="key_direction_left">Left</string>
   <string name="key_direction_right">Right</string>
   <string name="key_direction_up">Up</string>
+  <string name="know_it">OK</string>
   <string name="long_click">Long press</string>
   <string name="message_photo_end">Picture saved</string>
+  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
   <string name="no_usage">...</string>
@@ -161,6 +166,9 @@
   <string name="phone">Phone:</string>
   <string name="picker_lable">Gallery</string>
   <string name="place_barcode_into_rectangle">Focus on the QR code</string>
+  <string name="privacy_mode_end">Privacy mode disabled</string>
+  <string name="privacy_mode_started">Privacy mode enabled</string>
+  <string name="privacy_mode_title">Privacy mode</string>
   <string name="rank_prefix">"Rankings: "</string>
   <string name="rank_suffix">" points"</string>
   <string name="recognize">Identify</string>
@@ -168,6 +176,12 @@
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
+  <string name="screenkey_disabled">Screen button disabled</string>
+  <string name="screenkey_enabled">Screen button enabled</string>
+  <string name="screenkey_title">Shield button</string>
+  <string name="screenshot_crop">Crop</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Select capture size</string>
   <string name="sdcard">SD card</string>
   <string name="search_baidu_text">Baidu</string>
   <string name="search_cancel_text">Cancel</string>
@@ -175,11 +189,12 @@
   <string name="search_iciba_text">Iciba</string>
   <string name="search_select_title">Search text</string>
   <string name="search_taobao_text">TaoBao</string>
-  <string name="select_baidusearch">Baidu</string>
-  <string name="select_baiduvoicesearch">Baidu Voice</string>
+  <string name="select_baidusearch">Baidu search</string>
+  <string name="select_baiduvoicesearch">Baidu voice search</string>
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
   <string name="select_direction">Directions</string>
+  <string name="select_vol">Please select the volume keys</string>
   <string name="setting_buy">Buy MiKeys</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">"Before taking a picture, the camera focuses"</string>
@@ -189,6 +204,8 @@
   <string name="setting_key_mode_dust_cap">key_dust_cap</string>
   <string name="setting_key_mode_silent_open">key_silent_default</string>
   <string name="setting_key_silent">key_silent</string>
+  <string name="setting_proximity_desc">Use proximity sensor for prevent misuse MiKey in your pocket.</string>
+  <string name="setting_proximity_text">Use proximity sensor</string>
   <string name="setting_silent_mode">Silent mode</string>
   <string name="setting_silent_mode_default">Headphone mode (select MiKey)</string>
   <string name="setting_silent_mode_desc">"If you want to connect the headset, select the headset mode and disconnect the MiKey. Otherwise the audio output will not work properly."</string>
@@ -237,6 +254,8 @@ From the top of the screen slide downwards to use it."</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>
   <string name="title">Title:</string>
+  <string name="toast_audio_record_start">Start Recording</string>
+  <string name="toast_audio_record_stop">Stop Recording</string>
   <string name="toast_close">Closed</string>
   <string name="toast_open">Open</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -254,6 +273,17 @@ From the top of the screen slide downwards to use it."</string>
   <string name="unsupport_title">This feature is not supported</string>
   <string name="update_message">Update!</string>
   <string name="vcard_prompt">Contact can not be added because there is no name</string>
+  <string name="wallpaper_action">Change Wallpaper</string>
+  <string name="wallpaper_change_both">Desktop + Lockscreen</string>
+  <string name="wallpaper_change_desktop">Desktop wallpaper</string>
+  <string name="wallpaper_change_failed">Change failed</string>
+  <string name="wallpaper_change_home">Lockscreen wallpaper</string>
+  <string name="wallpaper_change_home_failed">Change failed</string>
+  <string name="wallpaper_change_ok">Wallpaper changed</string>
+  <string name="wallpaper_changing">Changing wallpaper...</string>
+  <string name="wallpaper_no_more">Dont replace wallpaper</string>
   <string name="web">Website:</string>
+  <string name="webpage_input_title">Enter URL</string>
+  <string name="webpage_title">Open webpage</string>
   <string name="write_pic_fail">Failed to save picture!</string>
 </resources>

@@ -2433,7 +2433,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_settings_title">Users</string>
   <string name="user_setup_button_setup_later">Not now</string>
   <string name="user_setup_button_setup_now">Set up now</string>
-  <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+  <string name="user_setup_dialog_message">Make sure the person is available to take the pad and set up their space</string>
   <string name="user_setup_dialog_title">Set up user now?</string>
   <string name="user_setup_profile_dialog_message">Set up profile now?</string>
   <string name="user_summary_not_set_up">Not set up</string>
