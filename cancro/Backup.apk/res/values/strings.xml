@@ -73,7 +73,7 @@
   <string name="delete_backup_process">Deleting…</string>
   <string name="delete_failed_backup_confirm">This backup contains errors.</string>
   <string name="deselect_all">Deselect all</string>
-  <string name="dir_date_format">HHmmss_MMddyyyy</string>
+  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Turn encryption off</string>
   <string name="enable_encrypt">Turn on encryption</string>
   <string name="enable_encrypt_fail">Encryption failed</string>
