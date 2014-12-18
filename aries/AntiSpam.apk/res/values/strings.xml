@@ -182,7 +182,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="report_success">Message reported</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
-  <string name="special_number_group">Block special numbers</string>
+  <string name="special_number_group">Block reported numbers</string>
   <string name="st_advanced_setting_group">Advanced</string>
   <string name="st_antispam_black_adress_add">Add locations</string>
   <string name="st_antispam_bw_adress_add">Add locations</string>

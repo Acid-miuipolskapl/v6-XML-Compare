@@ -59,15 +59,15 @@
         <item>Very Unhealthy</item>
     </string-array>
     <string-array name="weight_test_unit">
-        <item>千克</item>
-        <item>斤</item>
-        <item>镑</item>
+        <item>Kg</item>
+        <item>jin</item>
+        <item>Pound</item>
     </string-array>
-    <string-array name="weight_test_class">
-        <item>过轻</item>
-        <item>正常</item>
-        <item>过重</item>
-        <item>肥胖</item>
-        <item>非常肥胖</item>
+    <string-array name="weight_body_figures">
+        <item>Light</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Fat</item>
+        <item>Very Fat</item>
     </string-array>
 </resources>
