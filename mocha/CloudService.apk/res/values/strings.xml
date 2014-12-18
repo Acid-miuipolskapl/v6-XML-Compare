@@ -66,8 +66,6 @@ You can turn this feature on and off anytime in Settings.
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this service."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
-  <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
-  <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -138,14 +136,6 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
-  <string name="micloud_setting_browser_summary">Bookmarks, history, and tags</string>
-  <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
-  <string name="micloud_setting_gallery_summary">Photos and videos</string>
-  <string name="micloud_setting_music_summary">Playlists and favorites</string>
-  <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
-  <string name="micloud_setting_wifi_summary">WLAN settings</string>
-  <string name="micloud_space_duokan_detail">Please manage your Duokan cloud space in Duokan reader.</string>
-  <string name="micloud_space_duokan_title">Duokan space</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>

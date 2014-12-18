@@ -12,7 +12,7 @@
   <string name="act_weather_find_city_click_retry">Retry</string>
   <string name="act_weather_find_city_connect_net">"Can't connect to the network."</string>
   <string name="act_weather_find_city_net_no_good">"Can't connect to the network."</string>
-  <string name="act_weather_find_city_no_result">No results</string>
+  <string name="act_weather_find_city_no_result">No result</string>
   <string name="act_weather_find_city_searching">Searching…</string>
   <string name="activity_find_city_dialog_cancel">Cancel</string>
   <string name="activity_find_city_dialog_message">Let Weather use location service</string>

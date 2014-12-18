@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="readmode_content_font_size">
-        <item>18</item>
+    <string-array name="pref_ua_choices">
+        <item>Default</item>
+        <item>iPad</item>
+        <item>Desktop</item>
+    </string-array>
+    <string-array name="pref_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Default start page</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>miui_home</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Small</item>
+        <item>Default</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+    <string-array name="pref_text_values">
+        <item>5</item>
+        <item>10</item>
         <item>20</item>
-        <item>24</item>
-    </integer-array>
-    <integer-array name="readmode_title_font_size">
-        <item>26</item>
-        <item>28</item>
-        <item>32</item>
-    </integer-array>
-    <integer-array name="readmode_theme_bgcolors">
-        <item>0xfff8f8f8</item>
-        <item>0xffd7cabc</item>
-        <item>0xff272831</item>
-    </integer-array>
-    <integer-array name="readmode_theme_fontcolors">
-        <item>0xe6000000</item>
-        <item>0xff543a20</item>
-        <item>0x33ffffff</item>
-    </integer-array>
-    <integer-array name="readmode_fontsize_fontcolors">
-        <item>0x99000000</item>
-        <item>0xffffffff</item>
-    </integer-array>
+        <item>30</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="font_size_setting">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+    </string-array>
     <string-array name="baidu">
         <item>百度</item>
         <item>baidu.com</item>
@@ -800,15 +816,36 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
-    <integer-array name="desktop_title_size_array">
-        <item>15</item>
-        <item>30</item>
-        <item>25</item>
-        <item>22</item>
-        <item>19</item>
-        <item>18</item>
-        <item>17</item>
-    </integer-array>
+    <array name="bookmark_preloads">
+        <item>@raw/favicon_google</item>
+        <item>@raw/thumb_google</item>
+        <item>@raw/favicon_picasa</item>
+        <item>@raw/thumb_picasa</item>
+        <item>@raw/favicon_yahoo</item>
+        <item>@raw/thumb_yahoo</item>
+        <item>@raw/favicon_msn</item>
+        <item>@raw/thumb_msn</item>
+        <item>@raw/favicon_twitter</item>
+        <item>@raw/thumb_twitter</item>
+        <item>@raw/favicon_facebook</item>
+        <item>@raw/thumb_facebook</item>
+        <item>@raw/favicon_wikipedia</item>
+        <item>@raw/thumb_wikipedia</item>
+        <item>@raw/favicon_ebay</item>
+        <item>@raw/thumb_ebay</item>
+        <item>@raw/favicon_cnn</item>
+        <item>@raw/thumb_cnn</item>
+        <item>@raw/favicon_nytimes</item>
+        <item>@raw/thumb_nytimes</item>
+        <item>@raw/favicon_espn</item>
+        <item>@raw/thumb_espn</item>
+        <item>@raw/favicon_amazon</item>
+        <item>@raw/thumb_amazon</item>
+        <item>@raw/favicon_weatherchannel</item>
+        <item>@raw/thumb_weatherchannel</item>
+        <item>@raw/favicon_bbc</item>
+        <item>@raw/thumb_bbc</item>
+    </array>
     <string-array name="search_engines">
         <item>google</item>
         <item>yahoo</item>
@@ -923,32 +960,117 @@
         <item>ic_search_engine_tupian</item>
         <item>tupian</item>
     </string-array>
-    <string-array name="readmode_theme_names">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Black</item>
+    <string-array name="pref_content_plugins_choices">
+        <item>Always on</item>
+        <item>On demand</item>
+        <item>Off</item>
     </string-array>
-    <string-array name="readmode_theme_fontsizenames">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>ON_DEMAND</item>
+        <item>OFF</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Default</item>
-        <item>iPad</item>
+    <string-array name="pref_text_size_choices">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Far</item>
+        <item>Medium</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="pref_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
         <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
     </string-array>
-    <string-array name="pref_ua_values">
+    <string-array name="pref_development_ua_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
     </string-array>
-    <string-array name="pref_homepage_values">
-        <item>miui_home</item>
-        <item>other</item>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_data_preload_values">
+        <item>@string/pref_data_preload_value_never</item>
+        <item>@string/pref_data_preload_value_wifi_only</item>
+        <item>@string/pref_data_preload_value_always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>CNN</item>
+        <item>http://www.cnn.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
     </string-array>
 </resources>
