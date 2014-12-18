@@ -3,7 +3,7 @@
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Pad</string>
-  <string name="account_phone">Tablet-only, unsynced</string>
+  <string name="account_phone">Pad-only, unsynced</string>
   <string name="account_sim">SIM card</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="actionIncomingCall">Incoming calls</string>

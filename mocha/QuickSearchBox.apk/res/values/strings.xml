@@ -30,6 +30,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
+  <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_in_app_store">Search app market</string>
@@ -43,4 +44,6 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Try saying:</string>
+  <string name="xiaomi_search_label">Online results</string>
+  <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v1.1/sug</string>
 </resources>

@@ -28,6 +28,7 @@
   <string name="bankcall_province">Province</string>
   <string name="bankcall_saved_card_info">%1$s - Card No. %2$s</string>
   <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+  <string name="bill_record_empty">No records.</string>
   <string name="btn_agree">Agree</string>
   <string name="btn_back">Return</string>
   <string name="btn_call">Call</string>
@@ -104,6 +105,7 @@ Please contact Xiaomi customer service."</string>
   <string name="fee_with_mibi_giftcard"> %1$s-Mi Credit gift card</string>
   <string name="fee_with_partner_giftcard"> %1$s-Mi Credit %2$s</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="format_bill_date">yyyy/M/d</string>
   <string name="format_date">MMM. dd, yyyy</string>
   <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">Frozen</string>
@@ -114,6 +116,8 @@ Please contact Xiaomi customer service."</string>
   <string name="giftcard_denom_frozen">Mi Credit frozen</string>
   <string name="giftcard_empty">No gift cards.</string>
   <string name="giftcard_expire">%1$s expired</string>
+  <string name="giftcard_expire_notification_prime_title">Code is about to expire…</string>
+  <string name="giftcard_expire_notification_sub_title">Mi Credit Gift Card expires on %1$s</string>
   <string name="giftcard_hint">Mi Credits added via gift card will be spent first automatically.</string>
   <string name="giftcard_payment">Giftcard: %1$s Mi Credits</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
@@ -208,8 +212,6 @@ Please contact Xiaomi customer service."</string>
   <string name="password_error">Password incorrect.</string>
   <string name="password_forget">forgot?</string>
   <string name="password_hint">Enter account password</string>
-  <string name="pay_record_empty">No payment records.</string>
-  <string name="pay_record_typeall">All</string>
   <string name="payment_recharge_group_familiar">Choose top-up method</string>
   <string name="payment_recharge_group_favorite">Top-up methods</string>
   <string name="payment_success_label">"You've paid%1$sMi Credit"</string>
@@ -273,9 +275,6 @@ Customer service center：400-100-5678"</string>
   <string name="recharge_grid_error_denomination">Please enter the correct amount between ￥%1$s~%2$s</string>
   <string name="recharge_grid_item_more">More</string>
   <string name="recharge_grid_picker_hint">Select amount</string>
-  <string name="recharge_group_familiar">Common methods</string>
-  <string name="recharge_group_favorite">Use previous top-up method</string>
-  <string name="recharge_group_others">Other top-up methods</string>
   <string name="recharge_message_title">Text message</string>
   <string name="recharge_notification">Topping up: %1$s Mi Credits</string>
   <string name="recharge_novalid_method">No valid top-up method.</string>
@@ -284,7 +283,6 @@ Customer service center：400-100-5678"</string>
   <string name="recharge_prepaid_title">Prepaid card</string>
   <string name="recharge_push_notification_prime_title">%1$d added %2$s Mi Credits to your account</string>
   <string name="recharge_push_notification_sub_title">Top-up complete.</string>
-  <string name="recharge_record_empty">No top-up records.</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">Mi Credit card</string>
   <string name="scan_prompt_number">Scan %1$s prepaid card number</string>
@@ -299,6 +297,7 @@ Customer service center：400-100-5678"</string>
   <string name="summary_custom_service_phone">Tel:</string>
   <string name="summary_lockpattern">Require a unique pattern lock for Mi Credit</string>
   <string name="summary_sms_code">Enter the verification code sent to %1$s，and then finish payment</string>
+  <string name="title_bill_record">Payment history</string>
   <string name="title_bind_phone">Binding mobile phone No.</string>
   <string name="title_change_lockpattern">Configure pattern lock</string>
   <string name="title_custom_service_phone">Contact customer support</string>
@@ -311,9 +310,7 @@ Customer service center：400-100-5678"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
   <string name="title_password">Password</string>
   <string name="title_password_threshold">Daily limit = ￥%1$s</string>
-  <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top-up Mi Credit</string>
-  <string name="title_recharge_record">Top-up records</string>
   <string name="title_sms_code">Please enter the mobile phone verification code</string>
   <string name="title_transaction">Transactions</string>
   <string name="title_visible_pattern">Make pattern visible</string>
