@@ -114,6 +114,8 @@ Please contact Xiaomi customer service."</string>
   <string name="giftcard_denom_frozen">Mi Credit frozen</string>
   <string name="giftcard_empty">No gift cards.</string>
   <string name="giftcard_expire">%1$s expired</string>
+  <string name="giftcard_expire_notification_prime_title">Code is about to expire…</string>
+  <string name="giftcard_expire_notification_sub_title">Mi Credit Gift Card expires on %1$s</string>
   <string name="giftcard_hint">Mi Credits added via gift card will be spent first automatically.</string>
   <string name="giftcard_payment">Giftcard: %1$s Mi Credits</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>

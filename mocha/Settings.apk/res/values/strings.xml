@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_settings">About tablet</string>
+  <string name="about_settings">About pad</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_title">Permissions</string>
   <string name="ac_privacy_mode_sum">Require a password to disable Guest mode</string>
@@ -133,7 +133,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_password">Password</string>
   <string name="apn_protocol">APN protocol</string>
   <string name="apn_roaming_protocol">APN roaming protocol</string>
-  <string name="apn_save">Save?</string>
+  <string name="apn_save">Save changes?</string>
   <string name="apn_save_msg">Save changes to APN?</string>
   <string name="apn_server">Server</string>
   <string name="apn_settings">APNs</string>
@@ -237,7 +237,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_desc_bluetooth">Battery used by Bluetooth</string>
   <string name="battery_desc_display">Battery used by the display and backlight</string>
   <string name="battery_desc_radio">Battery used by cell radio</string>
-  <string name="battery_desc_standby">Battery used when tablet is idle</string>
+  <string name="battery_desc_standby">Battery used when pad is idle</string>
   <string name="battery_desc_users">Battery used by user</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
   <string name="battery_desc_wifi">Battery used by WLAN</string>
@@ -316,11 +316,11 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Use for media audio</string>
   <string name="bluetooth_advanced_titlebar">Advanced Bluetooth</string>
-  <string name="bluetooth_ask_discovery">An app wants to make your tablet visible to other Bluetooth devices for %1$d seconds.</string>
+  <string name="bluetooth_ask_discovery">An app wants to make your pad visible to other Bluetooth devices for %1$d seconds.</string>
   <string name="bluetooth_ask_enablement">An app wants to turn on Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your tablet visible to other devices for %1$d seconds.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your tablet visible to other devices. You can change this later in Bluetooth settings.</string>
-  <string name="bluetooth_ask_lasting_discovery">An app wants to make your tablet visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your pad visible to other devices for %1$d seconds.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your pad visible to other devices. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_lasting_discovery">An app wants to make your pad visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_auto_connect">Auto-connect</string>
   <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
@@ -435,7 +435,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">"Don't ask again"</string>
   <string name="bluetooth_rename_button">Rename</string>
-  <string name="bluetooth_rename_device">Rename tablet</string>
+  <string name="bluetooth_rename_device">Rename pad</string>
   <string name="bluetooth_scan_for_devices">Scan for devices</string>
   <string name="bluetooth_search_for_devices">Search for devices</string>
   <string name="bluetooth_searching_for_devices">Searching…</string>
@@ -649,9 +649,9 @@ You can find more appropriate data usage controls in the settings available with
   <string name="data_usage_app_settings">View app settings</string>
   <string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information. And you won't receive notifications when updates occur."</string>
   <string name="data_usage_auto_sync_off_dialog_title">Turn auto-sync data off?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your tablet.
+  <string name="data_usage_auto_sync_on_dialog">"Any changes you make to your accounts on the web will be automatically copied to your pad.
 
-Some accounts may also automatically copy any changes you make on the tablet to the web. A Google Account works this way.
+Some accounts may also automatically copy any changes you make on the pad to the web. A Google Account works this way.
 
 To choose which kinds of information to sync within each account, go to Settings &gt; Accounts."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Turn auto-sync data on?</string>
@@ -673,7 +673,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="data_usage_label_foreground">Foreground</string>
   <string name="data_usage_limit_dialog_mobile">"Your mobile data connection will be disabled when the specified limit is reached.
 
-Since data usage is measured by your tablet, and your carrier may account for usage differently, consider using a conservative limit."</string>
+Since data usage is measured by your pad, and your carrier may account for usage differently, consider using a conservative limit."</string>
   <string name="data_usage_limit_dialog_title">Limiting data usage</string>
   <string name="data_usage_limit_editor_title">Set data usage limit</string>
   <string name="data_usage_list_mobile">Mobile</string>
@@ -707,7 +707,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="data_usage_tab_mobile">Mobile</string>
   <string name="data_usage_tab_wifi">WLAN</string>
   <string name="data_usage_total_during_range">%2$s: about %1$s used.</string>
-  <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your tablet. Your carrier's data usage accounting may differ."</string>
+  <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your pad. Your carrier's data usage accounting may differ."</string>
   <string name="data_usage_uninstalled_apps">Removed apps</string>
   <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
   <string name="data_usage_warning_editor_title">Set data usage warning</string>
@@ -765,7 +765,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
   <string name="device_info_not_available">Not available</string>
-  <string name="device_info_settings">Tablet status</string>
+  <string name="device_info_settings">Pad status</string>
   <string name="device_internal_memory">Internal memory</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI version</string>
@@ -851,7 +851,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="dock_audio_settings_title">Audio</string>
   <string name="dock_audio_summary_car">Settings for the attached car dock</string>
   <string name="dock_audio_summary_desk">Settings for the attached desktop dock</string>
-  <string name="dock_audio_summary_none">Tablet not docked</string>
+  <string name="dock_audio_summary_none">Pad not docked</string>
   <string name="dock_audio_summary_unknown">Settings for the attached dock</string>
   <string name="dock_not_found_text">You need to dock the tablet before setting up dock audio.</string>
   <string name="dock_not_found_title">Dock not found</string>
@@ -962,10 +962,10 @@ Some apps may not work until updated by their developers."</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Small</string>
-  <string name="font_size_summary">"Change the operating system's font size"</string>
+  <string name="font_size_summary">"Change your system's font size"</string>
   <string name="font_size_summary1">"
-Dissatisfied? Try"</string>
-  <string name="font_size_summary2">JeeJen Home</string>
+If your system's text is still too small, try using "</string>
+  <string name="font_size_summary2">Lite mode</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -1021,7 +1021,7 @@ Dissatisfied? Try"</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
-  <string name="global_change_warning">This setting affects all users on this tablet.</string>
+  <string name="global_change_warning">This setting affects all users on this pad.</string>
   <string name="global_font_change_title">Change font size</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
@@ -1100,7 +1100,7 @@ Dissatisfied? Try"</string>
   <string name="input_methods_settings_label_format">%1$s settings</string>
   <string name="input_methods_settings_title">Text input</string>
   <string name="input_settings">Input settings</string>
-  <string name="install_all_warning">Your tablet and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your tablet or loss of data that may result from using these apps.</string>
+  <string name="install_all_warning">Your pad and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your pad or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
@@ -1149,6 +1149,10 @@ Dissatisfied? Try"</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
+  <string name="layout_size_large">Huge</string>
+  <string name="layout_size_medium">Large</string>
+  <string name="layout_size_normal">Medium</string>
+  <string name="layout_size_small">Small</string>
   <string name="led_colors_summary">Notifications</string>
   <string name="led_frequence_summary">Set the interval between LED flashes</string>
   <string name="led_pulse_summary">Pulse notification light when new notification is received</string>
@@ -1158,6 +1162,9 @@ Dissatisfied? Try"</string>
   <string name="line_breaking_summary">Optimize paragraph line breaking</string>
   <string name="line_breaking_title">Optimize text</string>
   <string name="link_speed_label">Link speed:</string>
+  <string name="local_auto_backup_off">Off</string>
+  <string name="local_auto_backup_on">On</string>
+  <string name="local_auto_backup_section_title">Auto backups</string>
   <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
   <string name="local_backup_password_title">Desktop backup password</string>
@@ -1364,21 +1371,21 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miracast_add_sink_title">Add wireless display</string>
   <string name="miracast_airplane_mode_on">To use Wireless display, turn Airplane mode off.</string>
   <string name="miracast_authentication_error">Authentication problem</string>
-  <string name="miracast_cancelconnect_dialog">Cancel connection</string>
-  <string name="miracast_connection_failed_generic">The connection was not successful.</string>
+  <string name="miracast_cancelconnect_dialog">Disconnect</string>
+  <string name="miracast_connection_failed_generic">"Couldn't connect to display."</string>
   <string name="miracast_dialog_title">%1$s</string>
-  <string name="miracast_disconnect_dialog">If you disconnect, your connection with %1$s will end.</string>
+  <string name="miracast_disconnect_dialog">Disconnect from %1$s?</string>
   <string name="miracast_display_category">Displays</string>
   <string name="miracast_empty_list">Searching for wireless displays…</string>
-  <string name="miracast_error_already_streaming">Already streaming to one display</string>
-  <string name="miracast_error_connection_in_progress">Connection is in progress. Please wait.</string>
-  <string name="miracast_error_unknown_sink">Unknown sink</string>
-  <string name="miracast_error_wifi_is_off">Wifi is off</string>
-  <string name="miracast_game_mode_summary">Better game performance</string>
-  <string name="miracast_game_mode_text_off">OFF</string>
-  <string name="miracast_game_mode_text_on">ON</string>
+  <string name="miracast_error_already_streaming">Already streaming to another display</string>
+  <string name="miracast_error_connection_in_progress">Connecting…</string>
+  <string name="miracast_error_unknown_sink">"Couldn't sync"</string>
+  <string name="miracast_error_wifi_is_off">WLAN is off</string>
+  <string name="miracast_game_mode_summary">Increase performance for games</string>
+  <string name="miracast_game_mode_text_off">Off</string>
+  <string name="miracast_game_mode_text_on">On</string>
   <string name="miracast_game_mode_title">Game mode</string>
-  <string name="miracast_instructions">Wirelessly stream video and audio to a compatible adapter or display, for example, your TV.</string>
+  <string name="miracast_instructions">Wirelessly stream audio and video to a external display.</string>
   <string name="miracast_is_discoverable">Visible to all nearby Wireless display devices (%1$s)</string>
   <string name="miracast_menu_add_sink">Add a display manually</string>
   <string name="miracast_menu_connect">Start streaming</string>
@@ -1386,7 +1393,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miracast_menu_forget">Forget display</string>
   <string name="miracast_menu_rename">Rename display</string>
   <string name="miracast_menu_search">Search</string>
-  <string name="miracast_menu_searching">Searching...</string>
+  <string name="miracast_menu_searching">Searching…</string>
   <string name="miracast_menu_title_refreshing">Refreshing…</string>
   <string name="miracast_nickname">Nickname</string>
   <string name="miracast_no_sinks_found">No nearby wireless display is available.</string>
@@ -1396,14 +1403,14 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miracast_pin">Connect using a password or PIN</string>
   <string name="miracast_remem_sink_busy">Saved, busy</string>
   <string name="miracast_remem_sink_ready_to_connect">Saved, ready to connect</string>
-  <string name="miracast_search_for_displays">Searching for wireless displays...</string>
+  <string name="miracast_search_for_displays">Searching for displays…</string>
   <string name="miracast_security">Security Type</string>
   <string name="miracast_security_eap">802.1x EAP</string>
   <string name="miracast_security_none">None</string>
   <string name="miracast_security_psk_generic">WPA/WPA2 PSK</string>
   <string name="miracast_security_wep">WEP</string>
-  <string name="miracast_service_died">ServiceDied</string>
-  <string name="miracast_service_restart">ServiceRestarted</string>
+  <string name="miracast_service_died">Connection ended</string>
+  <string name="miracast_service_restart">Connection reset</string>
   <string name="miracast_settings">Wireless display</string>
   <string name="miracast_settings_category">Wireless display settings</string>
   <string name="miracast_setup_cancel">Cancel</string>
@@ -1419,10 +1426,10 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miracast_sink_ready_to_connect">Ready to connect</string>
   <string name="miracast_ssid">Display SSID</string>
   <string name="miracast_title_disconnect">Disconnect?</string>
-  <string name="miracast_use_password_button">Authenticate by providing password</string>
+  <string name="miracast_use_password_button">Enter password</string>
   <string name="miracast_warning_desc">Warning</string>
   <string name="miracast_wifi_off">To use Wireless display, turn WLAN on.</string>
-  <string name="miracast_wps_complete">WLAN Protected Setup succeeded. Connecting to the network…</string>
+  <string name="miracast_wps_complete">WLAN set up successfully. Connecting to the network…</string>
   <string name="miracast_wps_connection_option_separator_text">OR</string>
   <string name="miracast_wps_desc">WPS</string>
   <string name="miracast_wps_onstart_pbc">Press the WLAN Protected Setup button on your display or adapter. It may be called \"WPS\" or contain this symbol:</string>
@@ -1459,7 +1466,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="move_app_progress_to_device">Moving %1$s to SHIELD...</string>
   <string name="move_app_progress_to_sdcard">Moving %1$s to SD card...</string>
   <string name="move_app_to_device_dlg_title">Move app to SHIELD?</string>
-  <string name="move_app_to_internal">Move to tablet</string>
+  <string name="move_app_to_internal">Move to pad</string>
   <string name="move_app_to_sdcard">Move to SD card</string>
   <string name="move_app_to_sdcard_dlg_title">Move app to SD card?</string>
   <string name="moving">Moving</string>
@@ -1490,6 +1497,9 @@ Select your operating system:"</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
+  <string name="music_audio_effect_optimize">Audio settings</string>
+  <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
+  <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
   <string name="music_audio_effect_settings">Audio effect settings</string>
   <string name="music_dirac_mode_earbuds">Mi earbuds</string>
   <string name="music_dirac_mode_general">General</string>
@@ -1594,6 +1604,39 @@ Select your operating system:"</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Owner info</string>
   <string name="packages_subtitle">Included packages</string>
+  <string name="page_layout_1">Sun 28/12</string>
+  <string name="page_layout_10">News</string>
+  <string name="page_layout_11">Security</string>
+  <string name="page_layout_12">Settings</string>
+  <string name="page_layout_13">Tools</string>
+  <string name="page_layout_14">Games</string>
+  <string name="page_layout_15">Apps</string>
+  <string name="page_layout_16">Themes</string>
+  <string name="page_layout_17">Mi Life</string>
+  <string name="page_layout_18">Recents</string>
+  <string name="page_layout_19">Contacts</string>
+  <string name="page_layout_2">Camera</string>
+  <string name="page_layout_20">Direcotry</string>
+  <string name="page_layout_21">182 contacts</string>
+  <string name="page_layout_22">Set up my profile</string>
+  <string name="page_layout_23">My groups</string>
+  <string name="page_layout_24">FAVORITES</string>
+  <string name="page_layout_25">Charles Babbage</string>
+  <string name="page_layout_26">Lin Bin</string>
+  <string name="page_layout_27">Manu Jain</string>
+  <string name="page_layout_28">Tim Berners Lee</string>
+  <string name="page_layout_29">Jai Mani</string>
+  <string name="page_layout_3">Gallery</string>
+  <string name="page_layout_30">Frank Santo</string>
+  <string name="page_layout_31">Alan Turing</string>
+  <string name="page_layout_4">Music</string>
+  <string name="page_layout_5">Video</string>
+  <string name="page_layout_6">Weather</string>
+  <string name="page_layout_7">Notes</string>
+  <string name="page_layout_8">Calendar</string>
+  <string name="page_layout_9">Mail</string>
+  <string name="page_layout_confirm_message">"Change your system's display settings? Applying these changes takes about 1 minute."</string>
+  <string name="page_layout_confirm_title">Change display settings</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
@@ -1607,7 +1650,7 @@ Select your operating system:"</string>
   <string name="permissions_label">Permissions</string>
   <string name="personal_data_section_title">Personal data</string>
   <string name="phone_call_noise_suppression">Suppress noise during calls</string>
-  <string name="phone_info_label">Tablet info</string>
+  <string name="phone_info_label">Pad info</string>
   <string name="phone_language">Language</string>
   <string name="phone_language_summary"/>
   <string name="pico_installed">Installed</string>
@@ -1628,7 +1671,7 @@ Select your operating system:"</string>
   <string name="power_autorun_empty">Empty</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
-  <string name="power_idle">Tablet idle</string>
+  <string name="power_idle">Pad idle</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
   <string name="power_mode_balanced_title">Enable Balanced Power</string>
@@ -1811,7 +1854,7 @@ Select your operating system:"</string>
   <string name="radio_info_smsc_refresh_label">Refresh</string>
   <string name="radio_info_smsc_update_label">Update</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
-  <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the tablet!</string>
+  <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts, and other data from the pad!</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="rebootiing_for_updates">Rebooting…</string>
   <string name="recent_location_requests_summary">The apps below are requesting to view your location info</string>
@@ -1822,7 +1865,7 @@ Select your operating system:"</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulatory information</string>
-  <string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the tablet to factory defaults (which deletes all your personal data) in Settings &gt; Backup &amp; reset.</string>
+  <string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the pad to factory defaults (which deletes all your personal data) in Settings &gt; Backup &amp; reset.</string>
   <string name="remove_account_label">Remove account</string>
   <string name="remove_device_admin">Deactivate</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
@@ -1851,7 +1894,7 @@ Select your operating system:"</string>
   <string name="restriction_location_enable_title">Location</string>
   <string name="restriction_menu_change_pin">Change PIN</string>
   <string name="restriction_menu_reset">Remove restrictions</string>
-  <string name="restriction_nfc_enable_summary">Allow data exchange when the tablet touches another device</string>
+  <string name="restriction_nfc_enable_summary">Allow data exchange when the pad touches another device</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrictions</string>
   <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
@@ -1883,7 +1926,7 @@ This setting affects all users on this tablet."</string>
   <string name="runningservicedetails_processes_title">Processes</string>
   <string name="runningservicedetails_services_title">Services</string>
   <string name="runningservicedetails_settings_title">Running app</string>
-  <string name="runningservicedetails_stop_dlg_text">If you stop this service, some features of your tablet may stop working correctly until you power it off and then on again.</string>
+  <string name="runningservicedetails_stop_dlg_text">If you stop this service, some features of your pad may stop working correctly until you power it off and then on again.</string>
   <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
@@ -1983,8 +2026,8 @@ This setting affects all users on this tablet."</string>
   <string name="security_privacy_settings_title">Privacy</string>
   <string name="security_relative">Security</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
-  <string name="security_settings_desc">This app can access the following on your tablet:</string>
-  <string name="security_settings_desc_multi">This app can access the following on your tablet. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
+  <string name="security_settings_desc">This app can access the following on your pad:</string>
+  <string name="security_settings_desc_multi">This app can access the following on your pad. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
   <string name="security_settings_premium_sms_desc">Send premium SMS</string>
   <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
   <string name="security_settings_title">Security</string>
@@ -2232,7 +2275,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="terms_title">Terms and conditions</string>
   <string name="testing">Testing</string>
   <string name="testing_battery_info">Battery information</string>
-  <string name="testing_phone_info">Tablet information</string>
+  <string name="testing_phone_info">Pad information</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Usage statistics</string>
   <string name="testing_wifi_info">WLAN information</string>
@@ -2248,9 +2291,10 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
-  <string name="title_font_current">Using</string>
+  <string name="title_font_current">Choose system font</string>
   <string name="title_font_size">Font size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
+  <string name="title_layout_current">Choose font size</string>
   <string name="title_local_resource">Local resources</string>
   <string name="title_system_resource">System resources</string>
   <string name="tnhwrevision_settings_list_item_summary">Mocha HW revision summary</string>
@@ -2383,7 +2427,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
-  <string name="usage_type_phone">Tablet</string>
+  <string name="usage_type_phone">Pad</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
@@ -2429,9 +2473,9 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="user_add_user_type_title">Add</string>
   <string name="user_adding_new_user">Adding new user…</string>
   <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
-  <string name="user_cannot_manage_message">"Only the tablet's owner can manage users."</string>
-  <string name="user_confirm_remove_message">"This user's space and data will disappear from this tablet. You can't undo this action."</string>
-  <string name="user_confirm_remove_self_message">"You will lose your space and data on this tablet. You can't undo this action."</string>
+  <string name="user_cannot_manage_message">"Only the pad's owner can manage users."</string>
+  <string name="user_confirm_remove_message">"This user's space and data will disappear from this pad. You can't undo this action."</string>
+  <string name="user_confirm_remove_self_message">"You will lose your space and data on this pad. You can't undo this action."</string>
   <string name="user_confirm_remove_self_title">Delete yourself?</string>
   <string name="user_confirm_remove_title">Remove user?</string>
   <string name="user_delete_button">Delete</string>
@@ -2466,7 +2510,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_nickname">Nickname</string>
   <string name="user_owner">Owner</string>
   <string name="user_picture_title">Photo ID</string>
-  <string name="user_profile_confirm_remove_message">"This profile's space and data will disappear from this tablet. You can't undo this action."</string>
+  <string name="user_profile_confirm_remove_message">"This profile's space and data will disappear from this pad. You can't undo this action."</string>
   <string name="user_profile_confirm_remove_title">Remove profile?</string>
   <string name="user_remove_user_menu">Delete %1$s from this device</string>
   <string name="user_rename">RENAME</string>
@@ -2476,7 +2520,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_settings_title">Users</string>
   <string name="user_setup_button_setup_later">Not now</string>
   <string name="user_setup_button_setup_now">Set up now</string>
-  <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+  <string name="user_setup_dialog_message">Make sure the person is available to take the pad and set up their space</string>
   <string name="user_setup_dialog_title">Set up user now?</string>
   <string name="user_setup_profile_dialog_message">Set up profile now?</string>
   <string name="user_summary_not_set_up">Not set up</string>
@@ -2609,7 +2653,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_wps_pbc">Prefer to input PIN</string>
   <string name="whetstone_level_reboot">This setting will take effect after you reboot your device.</string>
   <string name="whetstone_level_reboot_OK">Reboot</string>
-  <string name="whetstone_level_title">System memory optimization</string>
+  <string name="whetstone_level_title">Memory optimization</string>
   <string name="widget_picker_title">Choose widget</string>
   <string name="wifi_access_points">WLAN networks</string>
   <string name="wifi_add_network">Add network</string>

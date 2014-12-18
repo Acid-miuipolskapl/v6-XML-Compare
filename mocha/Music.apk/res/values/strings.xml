@@ -95,6 +95,7 @@
   <string name="music_settings">Music</string>
   <string name="my_music">Local</string>
   <string name="my_music_empty">Playlist is empty</string>
+  <string name="my_music_empty_global">Playlist is empty</string>
   <string name="network_error">"Can't connect to the network"</string>
   <string name="network_failure">"Can't connect to the network."</string>
   <string name="network_traffic">Data usage</string>

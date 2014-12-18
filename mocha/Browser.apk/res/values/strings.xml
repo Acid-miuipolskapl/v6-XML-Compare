@@ -17,7 +17,7 @@
   <string name="accessibility_button_stop">Stop page load</string>
   <string name="accessibility_button_uaswitch">Switch user agent</string>
   <string name="accessibility_button_voice">Start voice search</string>
-  <string name="accessibility_content_view">Web View</string>
+  <string name="accessibility_content_view">Web view</string>
   <string name="accessibility_date_picker_month">Month</string>
   <string name="accessibility_date_picker_week">Week</string>
   <string name="accessibility_date_picker_year">Year</string>
@@ -35,7 +35,7 @@
   <string name="account_chooser_dialog_title">Choose account</string>
   <string name="action">Sign in</string>
   <string name="actionbar_share">Share</string>
-  <string name="actionbar_web_search">Web search</string>
+  <string name="actionbar_web_search">Enter URL or search the web</string>
   <string name="add">Add</string>
   <string name="add_bookmark">New bookmark</string>
   <string name="add_bookmark_short">Add</string>
@@ -141,7 +141,7 @@
   <string name="color_picker_button_set">Set</string>
   <string name="color_picker_button_white">White</string>
   <string name="color_picker_button_yellow">Yellow</string>
-  <string name="color_picker_dialog_title">Select color</string>
+  <string name="color_picker_dialog_title">Choose color</string>
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturation</string>
   <string name="color_picker_value">Value</string>
@@ -165,7 +165,7 @@
   <string name="contextmenu_view_image">View image</string>
   <string name="copy_link">Copy link</string>
   <string name="copy_page_url">Copy page URL</string>
-  <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
+  <string name="copy_to_clipboard_failure_message">"Couldn't copy"</string>
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
   <string name="current_page">"from "</string>
   <string name="date_picker_dialog_clear">Clear</string>
@@ -259,12 +259,12 @@
   <string name="loading_tips">Pull down to refresh</string>
   <string name="local_bookmarks">Local bookmarks</string>
   <string name="location">Address</string>
-  <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
+  <string name="low_memory_error">"Couldn't complete previous operation due to low memory"</string>
   <string name="max_tabs_warning">No more tabs available</string>
   <string name="media_player_error_button">OK</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
-  <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
-  <string name="media_player_error_title">Cannot play video</string>
+  <string name="media_player_error_text_invalid_progressive_playback">"This video isn't supported."</string>
+  <string name="media_player_error_text_unknown">"Can't play video."</string>
+  <string name="media_player_error_title">"Can't play video"</string>
   <string name="media_player_loading_video">Loading video</string>
   <string name="menu_addtodesk">Place on Home screen</string>
   <string name="menu_hv_swap">Switch to horizontal screen</string>
@@ -288,7 +288,7 @@
   <string name="miui_content_cut">Cut</string>
   <string name="miui_content_paste">Paste</string>
   <string name="miui_content_select">Select</string>
-  <string name="miui_content_select_all">SelectAll</string>
+  <string name="miui_content_select_all">Select all</string>
   <string name="miui_content_share">Share</string>
   <string name="miui_content_web_search">Search</string>
   <string name="miui_edit_mode_title_empty">Select items</string>
@@ -304,12 +304,12 @@
   <string name="miuichromium_default_text_encoding">Latin-1</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
   <string name="miuichromium_error_page_reason_network">View link URL</string>
-  <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
-  <string name="miuichromium_error_page_reload">Reload</string>
-  <string name="miuichromium_error_page_title">"Can't find this page"</string>
+  <string name="miuichromium_error_page_reason_server">"Couldn't load page"</string>
+  <string name="miuichromium_error_page_reload">Refresh</string>
+  <string name="miuichromium_error_page_title">"Can't find page"</string>
   <string name="miuichromium_error_page_url">View page URL</string>
   <string name="miuichromium_error_page_wlan">WLAN settings</string>
-  <string name="miuichromium_save_password_message">Do you want the browser to remember this password?</string>
+  <string name="miuichromium_save_password_message">Remember this password?</string>
   <string name="miuichromium_save_password_never">Never</string>
   <string name="miuichromium_save_password_notnow">Not now</string>
   <string name="miuichromium_save_password_remember">Remember</string>
@@ -330,7 +330,7 @@
   <string name="open_bookmark">Open</string>
   <string name="open_history_group_in_new_window">Open %s browsing history</string>
   <string name="open_history_most_visited_group_in_new_window">Open most frequently visited pages</string>
-  <string name="opening_file_error">Failed to open selected file</string>
+  <string name="opening_file_error">"Couldn't open selected file"</string>
   <string name="other_bookmarks">Other Bookmarks</string>
   <string name="page_info">Page info</string>
   <string name="page_info_address">Address:</string>
@@ -470,10 +470,10 @@
   <string name="pref_use_instant_search_summary">Use Google Instant when you use Google Search, to show results as you type (this can increase data use).</string>
   <string name="pref_zoom_on_double_tap">Zoom on double-tap</string>
   <string name="preview">Preview</string>
-  <string name="profiler_error_toast">Failed to start profiler</string>
-  <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+  <string name="profiler_error_toast">"Couldn't start profiler"</string>
+  <string name="profiler_no_storage_toast">"External storage isn't ready"</string>
   <string name="profiler_started_toast">Profiler started</string>
-  <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+  <string name="profiler_stopped_toast">Profiler finished. Results saved to %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
   <string name="quicklink_have_deleted">Removed from start page</string>
   <string name="quicklink_have_modified">Changes saved</string>
@@ -614,11 +614,11 @@
   <string name="webview_find_on_page">Find on page</string>
   <string name="webview_js_dialog_before_unload">"%s
 
-Are you sure you want to navigate away from this page?"</string>
+Leave this page?"</string>
   <string name="webview_js_dialog_before_unload_negative_button">Stay on this Page</string>
   <string name="webview_js_dialog_before_unload_positive_button">Leave this Page</string>
-  <string name="webview_js_dialog_before_unload_title">Confirm Navigation</string>
-  <string name="webview_js_dialog_title">The page at \"%s\" says:</string>
+  <string name="webview_js_dialog_before_unload_title">Leave this page?</string>
+  <string name="webview_js_dialog_title">%s</string>
   <string name="webview_js_dialog_title_default">JavaScript</string>
   <string name="webview_last_month">Last month</string>
   <string name="webview_no_matches">No matches</string>
