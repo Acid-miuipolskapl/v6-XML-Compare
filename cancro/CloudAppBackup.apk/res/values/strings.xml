@@ -87,6 +87,7 @@
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="miui_device_name">Android</string>
+  <string name="name_model">"%1$s's %2$s"</string>
   <string name="no_app_to_backup">No apps to back up</string>
   <string name="no_backup">No backups</string>
   <string name="open_wifi">Turn WLAN on now</string>
