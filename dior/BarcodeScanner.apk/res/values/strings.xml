@@ -11,6 +11,7 @@
   <string name="birthday">Birthday:</string>
   <string name="camera_error">"There's something wrong with the camera"</string>
   <string name="cancel">Cancel</string>
+  <string name="choose_picture">Choose QR code picture</string>
   <string name="close_flash_error">"Can't turn off torch"</string>
   <string name="cloud_album_details">Album details:</string>
   <string name="company">Company:</string>

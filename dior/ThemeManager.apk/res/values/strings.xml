@@ -138,11 +138,11 @@
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_get_auth_checking">Checking authorization…</string>
+  <string name="resource_get_auth_checking">Verifying…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Ten devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
   <string name="resource_get_auth_missing">Themes from third-party sources are not supported</string>
-  <string name="resource_get_auth_retrieving">Retrieving authorization…</string>
+  <string name="resource_get_auth_retrieving">Getting info…</string>
   <string name="resource_hint">Alert</string>
   <string name="resource_import_failed">Import failed</string>
   <string name="resource_import_successful">Download complete</string>

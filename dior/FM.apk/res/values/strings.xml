@@ -11,7 +11,7 @@
   <string name="context_menu_title">%sMHZ</string>
   <string name="dialog_sleep_title">Set sleep timer</string>
   <string name="exit_fm">Exit</string>
-  <string name="fm_has_turned_off">FM has turned off</string>
+  <string name="fm_has_turned_off">FM radio turned off</string>
   <string name="fmradio_clear_confirm_msg">All presets will be deleted.</string>
   <string name="frequency_mhz_fomart">%sMHZ</string>
   <string name="group_favor">Presets</string>
@@ -21,13 +21,13 @@
   <string name="label_recording">Recording: %s</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_headset">Switch to headset</string>
-  <string name="menu_new_station">Add station</string>
+  <string name="menu_new_station">Add</string>
   <string name="menu_record_list">Recordings</string>
   <string name="menu_record_start">Start recording</string>
   <string name="menu_record_stop">Stop recording</string>
-  <string name="menu_save_station_list">Add to list</string>
+  <string name="menu_save_station_list">Add to presets</string>
   <string name="menu_save_station_presets">Add to presets</string>
-  <string name="menu_scan_start">Scan stations</string>
+  <string name="menu_scan_start">Scan</string>
   <string name="menu_sleep">Sleep timer</string>
   <string name="menu_sleep_cancel">Cancel sleep timer</string>
   <string name="menu_speaker">Switch to speaker</string>

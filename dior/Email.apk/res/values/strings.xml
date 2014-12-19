@@ -242,6 +242,7 @@
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_not_found">"Can't download attachment"</string>
+  <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
   <string name="attachment_unknown">%s File</string>

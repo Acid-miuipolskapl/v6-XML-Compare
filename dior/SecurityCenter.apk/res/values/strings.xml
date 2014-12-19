@@ -191,8 +191,8 @@
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memory</string>
   <string name="handle_text_system">System</string>
-  <string name="header_antivirus">"This feature encrypts and uploads your device's ID to Tencent's servers (view Privacy Policy)."</string>
-  <string name="header_optimizer">"By using this feature, you are agreeing to Cheetah Mobile's Privacy Policy."</string>
+  <string name="header_antivirus">"This feature encrypts and uploads your device's ID to Tencent's servers (%s)."</string>
+  <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
   <string name="hints_ad_header_left">Ad files: %d</string>
   <string name="hints_apk_header_left">Install packages: %d</string>
   <string name="hints_apk_version">Version %s</string>
