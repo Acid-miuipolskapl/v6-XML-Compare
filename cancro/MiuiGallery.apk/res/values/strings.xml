@@ -43,7 +43,7 @@
   <string name="alert">Attention</string>
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
-  <string name="alert_message_open_sync">You need to enable sync first.</string>
+  <string name="alert_message_open_sync">You need to turn on sync first.</string>
   <string name="alert_secret_album_message">Swipe up at the bottom of your albums to view hidden albums.</string>
   <string name="alert_secret_album_title">Hidden albums</string>
   <string name="already_apply_album">Open %1$s?</string>
@@ -55,8 +55,8 @@
   <string name="appwidget_title">Gallery</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Create favorite albums automatically</string>
-  <string name="auto_create_recent_album_confirm">"Gallery will clear Favorite album data. Albums you've favorited manually will not be affected."</string>
-  <string name="auto_create_recent_album_over_ten_times">An album will be marked as a Favorite when you open it more than 10 times</string>
+  <string name="auto_create_recent_album_confirm">"Gallery will clear favorite album data. Albums you've favorited manually will not be affected."</string>
+  <string name="auto_create_recent_album_over_ten_times">An album will be marked as a favorite when you open it more than 10 times</string>
   <string name="auto_upload_album_comfirm_to_share">It is an album which will be uploaded automatically, Are you sure to share it?</string>
   <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
@@ -477,7 +477,7 @@
   <string name="cloud_be_shared_guide_title">This album comes from a friend</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
-  <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at i.mi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
   <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">"Share this album
@@ -509,7 +509,7 @@ with friends"</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
-  <string name="context_menu_copy_notice">Selection copied to clipboard</string>
+  <string name="context_menu_copy_notice">Copied to clipboard</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="create_new_cloud_folder">Create new folder</string>
@@ -537,7 +537,7 @@ with friends"</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">Unselect all</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -631,7 +631,7 @@ with friends"</string>
   <string name="group_by_location">By location</string>
   <string name="group_by_tags">By tags</string>
   <string name="group_by_time">By time</string>
-  <string name="has_invalid_recipient">Invalid recipients: ;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="height">Height</string>
   <string name="highlight">Highlights</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -648,7 +648,7 @@ with friends"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to function normally."</string>
+  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to work normally."</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
@@ -704,7 +704,7 @@ with friends"</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
-  <string name="miliao">MiTalk</string>
+  <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
@@ -714,7 +714,7 @@ with friends"</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="miui_wallpaper">Wallpaper</string>
   <string name="modified_time">Modified</string>
-  <string name="moman">MomanCamera</string>
+  <string name="moman">Moman Camera</string>
   <string name="moman_camera_drawing">Moman Camera drawing</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
@@ -855,7 +855,7 @@ device"</string>
   <string name="seconds">" seconds"</string>
   <string name="secret_album_display_name">Secret album</string>
   <string name="select_all">Select all</string>
-  <string name="select_auto_upload_albums">Choose albums to upload to cloud</string>
+  <string name="select_auto_upload_albums">Choose albums to upload</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select items</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
@@ -877,7 +877,7 @@ device"</string>
   <string name="set_screensaver_path_title">Screensaver slideshow</string>
   <string name="set_wallpaper">Setting wallpaper…</string>
   <string name="settings">Settings</string>
-  <string name="settings_i_xiaomi_com">Store and view images in your cloud at i.mi.com</string>
+  <string name="settings_i_xiaomi_com">View all your photos at www.mi.com/micloud</string>
   <string name="shadow">Shadows</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Share album</string>
