@@ -12,13 +12,13 @@
     <string name="aqi_break"/>
     <string name="weather_type_0">Vedro</string>
     <string name="weather_type_1">Oblačno</string>
-    <string name="weather_type_2">Naoblaka</string>
+    <string name="weather_type_2">Maglovito</string>
     <string name="weather_type_3">Magla</string>
     <string name="weather_type_4">Oluja</string>
     <string name="weather_type_5">Kišna oluja</string>
     <string name="weather_type_6">Pljusak</string>
     <string name="weather_type_7">Oluja</string>
-    <string name="weather_type_8">Oluja</string>
+    <string name="weather_type_8">Pljusak</string>
     <string name="weather_type_9">Pljusak</string>
     <string name="weather_type_10">Kiša</string>
     <string name="weather_type_11">Slaba kiša</string>
