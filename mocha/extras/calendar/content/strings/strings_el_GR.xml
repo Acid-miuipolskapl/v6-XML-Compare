@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="ΔΕΥ"/>
+    <string name="TUE" value="ΤΡΙ"/>
+    <string name="WED" value="ΤΕΤ"/>
+    <string name="THU" value="ΠΕΜ"/>
+    <string name="FRI" value="ΠΑΡ"/>
+    <string name="SAT" value="ΣΑΒ"/>
+    <string name="SUN" value="ΚΥΡ"/>
+    <string name="language" value="el"/>
+</strings>
