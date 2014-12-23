@@ -131,6 +131,7 @@ Address: %2$s"</string>
   <string name="discard_alarm_change">Discard changes?</string>
   <string name="distance">Distance</string>
   <string name="donot_bind">Pair later</string>
+  <string name="donot_have_band">Do not have a band?</string>
   <string name="download_failed">"Can't download app"</string>
   <string name="downloading_apk">Mi Band</string>
   <string name="dynamic_detail_modify_sleep_end_time">Adjust awake time</string>
@@ -440,6 +441,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="retry">Retry</string>
   <string name="right_hand">Right hand</string>
   <string name="runed">Ran</string>
+  <string name="running_gps_poor_signal">Poor GPS signal. Please move to somewhere without shelter.</string>
   <string name="running_no_track_desc">"You haven't moved a bit. Are you sure to cancel it?"</string>
   <string name="running_set_pace_desc">Mi band will vibrate if your pace is slower than setting</string>
   <string name="running_short_track_desc">You have just moved %d meters. Are you sure to cancel it?</string>

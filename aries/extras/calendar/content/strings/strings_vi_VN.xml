@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="Thứ 2"/>
+    <string name="TUE" value="Thứ 3"/>
+    <string name="WED" value="Thứ 4"/>
+    <string name="THU" value="Thứ 5"/>
+    <string name="FRI" value="Thứ 6"/>
+    <string name="SAT" value="Thứ 7"/>
+    <string name="SUN" value="Chủ Nhật"/>
+    <string name="language" value="vi_VN"/>
+</strings>

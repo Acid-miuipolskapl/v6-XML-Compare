@@ -1568,7 +1568,7 @@ Select your operating system:"</string>
   <string name="page_layout_7">Notes</string>
   <string name="page_layout_8">Calendar</string>
   <string name="page_layout_9">Mail</string>
-  <string name="page_layout_confirm_message">"Change your system's display settings? Applying these changes takes about 1 minute."</string>
+  <string name="page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
   <string name="page_layout_confirm_title">Change display settings</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Password</string>
@@ -1700,6 +1700,7 @@ Select your operating system:"</string>
   <string name="progress_scanning">Searching</string>
   <string name="provider_label">Push subscriptions</string>
   <string name="provision_next">Next</string>
+  <string name="provision_page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
@@ -2510,6 +2511,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_alarm_mute">Mute alarms</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
+  <string name="volume_hifi_description">Hi-Fi settings</string>
   <string name="volume_media_description">Music, video, games, and other media</string>
   <string name="volume_media_mute">Mute music &amp; other media</string>
   <string name="volume_notification_description">Notifications</string>

@@ -292,7 +292,7 @@
   <string name="device_paired_dialog_title">Fetching contacts…</string>
   <string name="device_pairing_dialog_message">Pairing…</string>
   <string name="device_pairing_dialog_title">Pair devices</string>
-  <string name="device_version_header_bluetooth">Make sure Bluetooth is enabled</string>
+  <string name="device_version_header_bluetooth">Make sure Bluetooth is on</string>
   <string name="device_version_header_no_bluetooth">Import contacts using SIM card</string>
   <string name="device_version_title">Choose a model</string>
   <string name="dial">Dial</string>
@@ -729,7 +729,7 @@ To add a contact to your list of favorites:
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
   <string name="pref_title_account_import">Import from account</string>
   <string name="pref_title_import_from_account">Import from Mi Account</string>
-  <string name="preference_auto_ip_summary_disable">Disabled</string>
+  <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_auto_ip_summary_on">Carrier IP prefix: %s</string>
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
   <string name="preference_contacts">Contacts</string>
@@ -972,7 +972,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">Searching for duplicate contacts…</string>
   <string name="scan_qrcode_card_hint1">Scan QR code</string>
-  <string name="scan_qrcode_card_hint2">Add my info to your contacts</string>
+  <string name="scan_qrcode_card_hint2">Add to contacts</string>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
@@ -1010,8 +1010,8 @@ the content you're looking for is not currently available in your region."</stri
   <string name="simContacts_emptyLoading">Loading contacts from SIM card…</string>
   <string name="simContacts_title">SIM card contacts</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_capacity">View SIM card capacity</string>
-  <string name="sim_capacity_content" formatted="false">Total capacity %d | %d used</string>
+  <string name="sim_capacity">View SIM card space</string>
+  <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
   <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
@@ -1163,14 +1163,14 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
-  <string name="yellowpage_navigation_search_result_average_price">Average %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="yellowpage_navigation_search_result_average_price">Average RMB %d</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_search_result_no_more">No more results</string>
   <string name="yellowpage_navigation_search_result_service_error">Service unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error</string>
   <string name="yellowpage_navigation_search_select_city">Choose a city</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading…</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="zero_items_selected">Select items</string>

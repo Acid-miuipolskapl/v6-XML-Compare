@@ -179,7 +179,7 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
   <string name="pref_title_sync_my_profile_title">Sync profile</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="remind_later">Later</string>
