@@ -6,6 +6,7 @@
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
+  <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>

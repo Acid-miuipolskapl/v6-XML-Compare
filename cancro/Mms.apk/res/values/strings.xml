@@ -34,6 +34,8 @@
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
+  <string name="audio_download_failed">audio download failed</string>
+  <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
   <string name="batch_delete_confirm_dialog_message">Delete %1$s messages?</string>
@@ -48,6 +50,7 @@
   <string name="cannot_add_slide_anymore">"Can't add more slides."</string>
   <string name="cannot_forward_drm_obj">"The DRM object included in the message can't be forwarded."</string>
   <string name="cannot_get_details">"Can't get details."</string>
+  <string name="cannot_resend_audio">"Couldn't send recording"</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
   <string name="change_duration_activity">Change duration</string>
@@ -118,6 +121,7 @@
   <string name="download">Download</string>
   <string name="download_later">"Can't download right now. Try again later."</string>
   <string name="downloading">Downloading</string>
+  <string name="downloading_file_can_not_play">Wait until recording has finished downloading</string>
   <string name="duration_not_a_number">Duration must be a number</string>
   <string name="duration_sec">Duration (%s sec)</string>
   <string name="duration_selector_title">"Duration for slide "</string>
@@ -171,6 +175,7 @@
   <string name="group_resend_message">Resend (%d)</string>
   <string name="guild_add_attachments">Touch to add emoticons and other content</string>
   <string name="guild_add_recipients">Touch to add recipients from address book</string>
+  <string name="guild_msim_switcher">Touch to switch SIM cards</string>
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
@@ -185,6 +190,7 @@
   <string name="invalid_recipient_message">"Correct the recipients or they won't receive the message."</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
+  <string name="left_cancel">Swipe left to cancel</string>
   <string name="loading_all_messages">Loading messages…</string>
   <string name="loading_conversations">Loading conversations…</string>
   <string name="loading_mms">Loading…</string>
@@ -205,6 +211,7 @@
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
+  <string name="menu_send_as_common">Sent as SMS</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
@@ -221,6 +228,7 @@
   <string name="message_saved_as_draft">Message saved as draft.</string>
   <string name="message_send_failed_title">Message not sent</string>
   <string name="message_send_read_report">A read report will be sent.</string>
+  <string name="message_sent">Sent</string>
   <string name="message_size_label">"Message size: "</string>
   <string name="message_too_big_for_audio">Message is too big</string>
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
@@ -238,6 +246,7 @@
   <string name="msglist_release_to_more">Release to view more</string>
   <string name="multimedia_message">Multimedia message</string>
   <string name="multimedia_notification">Multimedia message notification</string>
+  <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activate Mi Message</string>
   <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
   <string name="mx_activate_error_server">"Couldn't activate"</string>
@@ -295,6 +304,7 @@
   <string name="phrase_list_title">Quick responses</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="play">Play</string>
+  <string name="playing_failed">"Can't play"</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="prefDefault_vibrateWhen">never</string>
   <string name="prefDefault_vibrate_false">never</string>
@@ -348,6 +358,7 @@
   <string name="pref_title_wake_up_screen">Wake screen</string>
   <string name="preferences_title">Settings</string>
   <string name="prepare_send">Preparing to send…</string>
+  <string name="press_recording">Press &amp; hold the Mic icon to record</string>
   <string name="preview">Preview</string>
   <string name="preview_slideshow">Preview</string>
   <string name="priority_high">High</string>
@@ -366,10 +377,12 @@
   <string name="received_label">"Received: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Recipient: "</string>
+  <string name="recording_failed">"Can't record"</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
+  <string name="release_cancel">Release to cancel</string>
   <string name="remove">Remove</string>
   <string name="remove_music">Remove music</string>
   <string name="remove_picture">Remove picture</string>
@@ -380,6 +393,7 @@
   <string name="replace_image">Replace picture</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
+  <string name="resource_price_free">Free</string>
   <string name="restore_all_button_msg">Restore all messages sent from this number</string>
   <string name="restore_blocked_message">Restore message</string>
   <string name="restore_to_phone_memory_failed">"Couldn't restore"</string>
@@ -393,6 +407,7 @@
   <string name="saved_ringtone">Ringtone saved</string>
   <string name="saved_ringtone_fail">"Couldn't save ringtone"</string>
   <string name="saved_to_sim">Saved</string>
+  <string name="sdcard_has_not_enough_space">Not enough space on SD card</string>
   <string name="search">Messaging</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
@@ -447,6 +462,8 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">An incoming text message was rejected.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="snippet_audio">[audio]</string>
+  <string name="snippet_picture">[picture]</string>
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -519,6 +536,7 @@ Attempt made: %s."</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="warning_show">Send in %ds</string>
   <string name="xiaomi_service_number">Service number</string>
   <string name="yes">OK</string>
 </resources>

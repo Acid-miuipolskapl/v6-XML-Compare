@@ -19,4 +19,16 @@
         <item quantity="other">%d items blocked</item>
         <item quantity="one">%d item blocked</item>
     </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d popular songs</item>
+        <item quantity="one">%d popular song</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+    </plurals>
 </resources>

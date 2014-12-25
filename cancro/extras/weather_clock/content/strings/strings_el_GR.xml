@@ -18,7 +18,7 @@
     <string name="weather_type_11">Ασθενής βροχή</string>
     <string name="weather_type_12">Χιονόνερο</string>
     <string name="weather_type_13">Χιονοθύελλα</string>
-    <string name="weather_type_14">Χιονόπτωση</string>
+    <string name="weather_type_14">Νιφάδες χιονιού</string>
     <string name="weather_type_15">Βαριά χιονόπτωση</string>
     <string name="weather_type_16">Χιονόπτωση</string>
     <string name="weather_type_17">Ελαφρά χιονόπτωση</string>
@@ -27,6 +27,6 @@
     <string name="weather_type_20">Ελαφρά αμμοθύελλα</string>
     <string name="weather_type_21">Αμμοθύελλα</string>
     <string name="weather_type_22">Χαλάζι</string>
-    <string name="weather_type_23">Σκόνη</string>
+    <string name="weather_type_23">Αιωρούμενη Σκόνη</string>
     <string name="weather_type_24">Ομίχλη</string>
 </resources>
