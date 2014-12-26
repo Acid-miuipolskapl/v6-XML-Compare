@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_cancel">Cancel</string>
+  <string name="action_confirm">Select</string>
   <string name="action_submit">Send</string>
   <string name="announcement">Attention</string>
   <string name="app_empty">"You haven't downloaded any apps."</string>
@@ -10,7 +11,6 @@
   <string name="bluetooth_problem3">"Can't send files"</string>
   <string name="bluetooth_problem4">"Can't receive files"</string>
   <string name="btn_send">Send</string>
-  <string name="bugreport_feedback_from">From: %s</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="button_feedback">Other</string>
@@ -49,8 +49,10 @@
   <string name="err_type_wifi">WLAN</string>
   <string name="err_type_xiaomi_family">Mi Family</string>
   <string name="err_type_xiaomi_service">Customer service</string>
+  <string name="hot_problem">View common bugs</string>
   <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Loading list…</string>
+  <string name="loading_hot_problem">Loading…</string>
   <string name="menu_copy">Copy</string>
   <string name="network_err">"Can't connect to the network."</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
