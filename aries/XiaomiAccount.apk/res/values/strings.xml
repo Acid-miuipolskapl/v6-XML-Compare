@@ -41,6 +41,7 @@
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_device_btn">Remove</string>
+  <string name="delete_device_failed">"Can't remove device"</string>
   <string name="delete_device_notice">"After device is removed, it will be signed out of your Mi Account automatically. You won't be able use this device to access the photos, messages, or other content stored in your account."</string>
   <string name="device_delete_loading">Just a sec…</string>
   <string name="device_delete_success_message">"If you didn't sign in on this device, change your password immediately."</string>
@@ -105,6 +106,7 @@
   <string name="next">Next</string>
   <string name="no_network_btn">Refresh</string>
   <string name="no_network_title">"Can't connect to the network."</string>
+  <string name="no_response_retry">No response, please retry.</string>
   <string name="no_sim_card">No SIM card</string>
   <string name="nobind">Not added</string>
   <string name="other_devices">Other devices</string>
