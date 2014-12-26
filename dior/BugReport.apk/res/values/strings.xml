@@ -3,6 +3,7 @@
   <string name="action_cancel">Cancel</string>
   <string name="action_confirm">Select</string>
   <string name="action_submit">Send</string>
+  <string name="announcement">Attention</string>
   <string name="app_empty">"You haven't downloaded any apps."</string>
   <string name="app_label">Report Bug</string>
   <string name="bluetooth_problem1">"Can't pair with third-party devices"</string>
@@ -31,12 +32,12 @@
   <string name="discard_draft_dialog_content">"Any changes you've made to this report will be lost."</string>
   <string name="discard_draft_dialog_title">Discard draft?</string>
   <string name="err_type">Bug type</string>
+  <string name="err_type_app">Apps</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Camera</string>
   <string name="err_type_hardware">Hardware</string>
   <string name="err_type_hardware_summary">Buttons, charging, sensors, etc.</string>
-  <string name="err_type_mysuggestion">Suggestions</string>
-  <string name="err_type_mysuggestion_summary">Share ideas and feedback with us</string>
+  <string name="err_type_more">More</string>
   <string name="err_type_nonsystemapp">Other apps</string>
   <string name="err_type_power_consuming">Power usage</string>
   <string name="err_type_reboot">Reboots</string>
@@ -71,6 +72,7 @@
   <string name="refresh">Refresh</string>
   <string name="report_miui">Report bug</string>
   <string name="screen_lock">Screen lock</string>
+  <string name="screen_orientation_type">-1</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Bug type</string>
   <string name="section_screenshot">Screenshot</string>
@@ -86,11 +88,14 @@
   <string name="systemui">Notification shade</string>
   <string name="title_common_problem">Common bugs</string>
   <string name="title_hot_problem">Recent bugs</string>
+  <string name="title_nonsystem_app">Other apps</string>
+  <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">You need to write a description</string>
-  <string name="toast_feedback_network_unavailable">"Can't connect to network"</string>
+  <string name="toast_feedback_network_unavailable">"Can't connect to the network"</string>
   <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>
+  <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>
   <string name="toast_report_sent_failed">"Can't send report"</string>

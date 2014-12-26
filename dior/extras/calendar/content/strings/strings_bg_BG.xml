@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="ПОН"/>
+    <string name="TUE" value="ВТО"/>
+    <string name="WED" value="СРЯ"/>
+    <string name="THU" value="ЧЕТ"/>
+    <string name="FRI" value="ПЕТ"/>
+    <string name="SAT" value="СЪБ"/>
+    <string name="SUN" value="НЕД"/>
+    <string name="language" value="bg_BG"/>
+</strings>
