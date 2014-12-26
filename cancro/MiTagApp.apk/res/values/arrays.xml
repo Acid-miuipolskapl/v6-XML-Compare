@@ -26,12 +26,12 @@
         <item>@string/ringer_silent</item>
     </string-array>
     <string-array name="screen_timeout_items">
-        <item>15 seconds</item>
-        <item>30 seconds</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>Never</item>
+        <item>@string/fif_seconds</item>
+        <item>@string/thir_seconds</item>
+        <item>@string/one_minute</item>
+        <item>@string/two_minutes</item>
+        <item>@string/five_minutes</item>
+        <item>@string/ten_minutes</item>
+        <item>@string/never</item>
     </string-array>
 </resources>

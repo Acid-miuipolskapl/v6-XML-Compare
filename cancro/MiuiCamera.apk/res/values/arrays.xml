@@ -12,12 +12,6 @@
         <item>5</item>
         <item>4</item>
     </string-array>
-    <string-array name="pref_mtk_video_quality_entryvalues">
-        <item>12</item>
-        <item>11</item>
-        <item>10</item>
-        <item>9</item>
-    </string-array>
     <string-array name="pref_video_quality_default_values">
         <item>@string/pref_video_quality_default</item>
         <item>@string/pref_mtk_video_quality_default</item>
