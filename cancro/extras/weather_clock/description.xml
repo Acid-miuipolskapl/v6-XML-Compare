@@ -6,9 +6,5 @@
 	<titles>
 		<title locale="zh_CN">天气时钟</title>
 		<title locale="zh_TW">天氣時鐘</title>
-		<title locale="pl_PL">Zegar z pogodą</title>
-		<title locale="sk_SK">Hodiny+počasie</title>
-		<title locale="cs_CZ">Hodiny+počasí</title>
-		<title locale="el_GR">Ρολόι+καιρός</title>
 	</titles>
 </MIUI-Theme>
