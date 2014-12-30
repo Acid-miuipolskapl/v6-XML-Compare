@@ -66,7 +66,7 @@
         <item>Music</item>
         <item>Voice</item>
     </string-array>
-    <string-array name="interview_record_scenes_entries">
+    <string-array name="x5_record_scenes_entries">
         <item>Music</item>
         <item>Voice</item>
         <item>Interview</item>

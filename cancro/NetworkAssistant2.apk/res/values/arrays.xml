@@ -54,13 +54,4 @@
         <item>Get message template automatically</item>
         <item>Set message template manually</item>
     </string-array>
-    <string-array name="over_limit_traffic_waring_style">
-        <item>Show warning</item>
-        <item>Warn and turn mobile data off</item>
-    </string-array>
-    <string-array name="min_limit_pkg_default">
-        <item>1 MB</item>
-        <item>2 MB</item>
-        <item>3 MB</item>
-    </string-array>
 </resources>
