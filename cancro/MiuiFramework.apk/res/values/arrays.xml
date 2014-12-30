@@ -7,17 +7,11 @@
     <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
     <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
     <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <string-array name="miui_font_scale">
-        <item>1.0</item>
-        <item>1.0</item>
-        <item>1.0</item>
-        <item>1.17</item>
-    </string-array>
     <string-array name="font_size_scale">
         <item>0.86</item>
         <item>1.0</item>
         <item>1.2</item>
-        <item>1.21</item>
+        <item>1.4</item>
     </string-array>
     <string-array name="screen_key_long_press_default_action">
         <item>voice_assistant</item>
