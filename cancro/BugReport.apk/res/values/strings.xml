@@ -72,7 +72,7 @@
   <string name="refresh">Refresh</string>
   <string name="report_miui">Report bug</string>
   <string name="screen_lock">Screen lock</string>
-  <string name="screen_orientation_type">1</string>
+  <string name="screen_orientation_type">-1</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Bug type</string>
   <string name="section_screenshot">Screenshot</string>

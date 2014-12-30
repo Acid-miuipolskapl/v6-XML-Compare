@@ -18,8 +18,6 @@
   <string name="chat_number">10 hours</string>
   <string name="chat_uint">" hours"</string>
   <string name="checkout_traffic_saving_history">View history</string>
-  <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
-  <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Set peak data usage limit</string>
   <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
@@ -82,7 +80,6 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_rule_group_title_mobile">Data</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
-  <string name="five_percent_total_pkg">%s (5%% of your monthly mobile data)</string>
   <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
   <string name="force_stop_dlg_title">Restrict background data</string>
   <string name="foreground_traffic">Foreground %s</string>
@@ -213,8 +210,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_title_declaration">Important disclaimer</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Network diagnostic</string>
-  <string name="pref_title_over_traffic_limit_warning">Turn off data if limit is exceeded</string>
-  <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Show data usage notifications</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
@@ -235,8 +230,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">Privacy notification</string>
-  <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
-  <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="right_precent">100%</string>
@@ -282,12 +275,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="tc_sms_report_title">Report data usage bug</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
-  <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
   <string name="text_day"/>
-  <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
   <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
-  <string name="title_limit_traffic_per_day">Daily data usage limit</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
 
 Will you take this?"</string>
