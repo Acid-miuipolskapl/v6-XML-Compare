@@ -82,9 +82,9 @@
   <string name="def_sms_delivered_sound">/system/media/audio/notifications/MessageComplete.ogg</string>
   <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
   <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
-  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
-  <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/FadeIn.ogg</string>
-  <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="def_sms_received_sound">/system/media/audio/notifications/MessageIncoming.ogg</string>
+  <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
+  <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
   <string name="default_name">Default</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_xiaomi">Mi Phone</string>
