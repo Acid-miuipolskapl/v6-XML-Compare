@@ -1028,6 +1028,10 @@ If your system's text is still too small, try using "</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
+  <string name="handy_mode">Handy mode</string>
+  <string name="handy_mode_enable">Handy mode</string>
+  <string name="handy_mode_size">Screen size</string>
+  <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>

@@ -128,6 +128,7 @@
   <string name="info_unantispam_phone_sms">Allow calls and messages</string>
   <string name="info_unantispam_sms">Allow messages</string>
   <string name="label_callwait">Call waiting notification</string>
+  <string name="loding">Loading data</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Sales</string>
   <string name="mark_agent_block">Reported as agent</string>
@@ -175,11 +176,14 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
   <string name="read_all_sms">Mark as read</string>
+  <string name="report">Report</string>
   <string name="report_error">"Couldn't report message"</string>
   <string name="report_error_not_net">"Can't connect to the network"</string>
   <string name="report_only">Choose a message to report</string>
   <string name="report_sms">Report messages</string>
   <string name="report_success">Message reported</string>
+  <string name="report_warning">"Report %1$s SMS to Mi? These messages and the phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+  <string name="report_warning_title">Report SMS</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
   <string name="special_number_group">Block reported numbers</string>
