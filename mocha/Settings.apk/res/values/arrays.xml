@@ -1293,4 +1293,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
+    </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
 </resources>

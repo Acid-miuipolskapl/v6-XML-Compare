@@ -233,6 +233,7 @@ Sync your photos, contacts, notes, and more across all your devices or access th
 Your use of this feature is subject to "</string>
   <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
   <string name="user_agreement_p8">.</string>
+  <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>
