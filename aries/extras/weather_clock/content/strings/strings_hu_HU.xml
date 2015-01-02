@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="date_time">MM.dd. EEEE</string>
-    <string name="language">hu_HU</string>
+    <string name="language">hu</string>
     <string name="desc_date_format">MM.dd. EEEE</string>
     <string name="desc_time">'Jelenlegi idő' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', érintse meg a megnyitáshoz'</string>
     <string name="weather_type_0">Tiszta</string>
