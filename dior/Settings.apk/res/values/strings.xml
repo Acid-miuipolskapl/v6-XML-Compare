@@ -957,7 +957,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
-  <string name="font_size_normal">Default</string>
+  <string name="font_size_normal">Standard</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
@@ -1026,6 +1026,10 @@ If your system's text is still too small, try using "</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
+  <string name="handy_mode">Handy mode</string>
+  <string name="handy_mode_enable">Handy mode</string>
+  <string name="handy_mode_size">Screen size</string>
+  <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
@@ -1149,9 +1153,9 @@ If your system's text is still too small, try using "</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
-  <string name="layout_size_large">Huge</string>
-  <string name="layout_size_medium">Large</string>
-  <string name="layout_size_normal">Medium</string>
+  <string name="layout_size_large">Large</string>
+  <string name="layout_size_medium">Medium</string>
+  <string name="layout_size_normal">Standard</string>
   <string name="layout_size_small">Small</string>
   <string name="led_colors_summary">Notifications</string>
   <string name="led_frequence_summary">Set the interval between LED flashes</string>
@@ -1455,7 +1459,7 @@ Select your operating system:"</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
   <string name="music_headset_settings">Headphones and audio effects</string>
-  <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality. This feature increases battery use.</string>
+  <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>

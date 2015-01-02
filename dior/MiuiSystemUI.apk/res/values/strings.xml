@@ -166,8 +166,8 @@ Use only the supplied charger."</string>
 Slide down to lock"</string>
   <string name="status_bar_recent_guide_bottom">Slide down to lock</string>
   <string name="status_bar_recent_guide_top">Slide up to close</string>
-  <string name="status_bar_recent_memory_info1">"%s "</string>
-  <string name="status_bar_recent_memory_info2">" %s available"</string>
+  <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
+  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Return to Recorder</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>

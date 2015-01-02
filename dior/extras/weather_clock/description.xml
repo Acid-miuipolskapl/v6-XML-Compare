@@ -10,5 +10,8 @@
 		<title locale="sk_SK">Hodiny+počasie</title>
 		<title locale="cs_CZ">Hodiny+počasí</title>
 		<title locale="el_GR">Ρολόι+καιρός</title>
+		<title locale="hr_HR">Sat+vrijeme</title>
+		<title locale="nb_NO">Klokke med været</title>
+		<title locale="hu_HU">Óra időjárással</title>
 	</titles>
 </MIUI-Theme>

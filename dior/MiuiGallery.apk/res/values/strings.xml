@@ -44,8 +44,9 @@
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to turn on sync first.</string>
-  <string name="alert_secret_album_message">Swipe up at the bottom of your albums to view hidden albums.</string>
-  <string name="alert_secret_album_title">Hidden albums</string>
+  <string name="alert_secret_album_message">Swipe up at the bottom of your albums to view the secret album. In order to protect it, You need set a pattern.</string>
+  <string name="alert_secret_album_set_pattern">Set a pattern</string>
+  <string name="alert_secret_album_title">Added to secret album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
@@ -639,9 +640,6 @@ with friends"</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Photos</string>
-  <string name="how_many_pics">%d photos</string>
-  <string name="how_many_sub_folders">%d folders</string>
-  <string name="how_many_videos">%d videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
@@ -702,7 +700,6 @@ with friends"</string>
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
-  <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
@@ -737,6 +734,7 @@ device"</string>
   <string name="no_network_connected">No network detected</string>
   <string name="no_picture_or_video">Empty</string>
   <string name="no_storage_disable_cloud_albums">Cloud is unavailable.</string>
+  <string name="no_such_album">Album not found</string>
   <string name="no_such_item">"Couldn't find item"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
@@ -788,7 +786,6 @@ device"</string>
   <string name="photos">Photos</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="pick_too_much_tips">"Can't pick that many items (maximum %d items)."</string>
-  <string name="pick_with_limited_upper_bound_title">You can select %d items</string>
   <string name="picker_no_album_selected">No albums selected</string>
   <string name="picker_no_items_selected">No items selected</string>
   <string name="picker_select_album_title_empty">Select an album</string>
