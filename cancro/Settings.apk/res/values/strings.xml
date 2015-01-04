@@ -1492,6 +1492,7 @@ Select your operating system:"</string>
   <string name="music_headset_settings">Headphones and audio effects</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
+  <string name="music_hifi_volumn">Hi-Fi volumn</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
   <string name="musicfx_title">Music effects</string>
