@@ -51,10 +51,10 @@
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
   <string name="find_device_dspt_provision">"Find Device
-Locate, lock, or reset your device from at  "</string>
+Locate, lock, or reset your device at "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">" . You can turn this feature on and off anytime in Settings."</string>
+  <string name="find_device_dspt_provision_3">. You can turn this feature on and off anytime in Settings.</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Something went wrong with our servers.</string>
@@ -62,8 +62,8 @@ Locate, lock, or reset your device from at  "</string>
   <string name="find_device_notice_p1">Go to</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
-If you switch SIM cards, another SMS will be sent automatically to reactivate this service."</string>
-  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
+If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
+  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this feature.</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -164,7 +164,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 You can turn this feature on and off anytime in Settings."</string>
-  <string name="mx_dspt_provision_privacy">"This service may require your phone number. Your carrier may charge for an SMS message used to activate this service.
+  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
 This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Next</string>
