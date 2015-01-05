@@ -11,7 +11,7 @@
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_upload_info_message">Your device will reboot and install the update immediately.</string>
-  <string name="auto_agree_clause">"Our updated Privacy Policy has already been put into effect. "</string>
+  <string name="auto_agree_clause">"Our updated Privacy Policy has been put into effect. "</string>
   <string name="auto_button_examine">View</string>
   <string name="auto_button_examine_immediately">View</string>
   <string name="auto_button_sure_cancel">Cancel</string>
@@ -21,7 +21,7 @@
   <string name="auto_dialog_msg_check_again">"You must agree to our updated Privacy Policy before you can update your system. "</string>
   <string name="auto_dialog_title_check_again">Cancel update?</string>
   <string name="auto_update">Download updates automatically</string>
-  <string name="auto_update_sum">Automatically choose the best times to download updates</string>
+  <string name="auto_update_sum">Download updates automatically when connected to WLAN</string>
   <string name="autosetmode">Update settings</string>
   <string name="best_update">Best update so far</string>
   <string name="boot_recovery">Reboot to Recovery mode</string>
@@ -34,12 +34,12 @@
   <string name="cancel_download_buton_text">Cancel</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
-  <string name="check_update_when_wifi_available">Only check using WLAN</string>
+  <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
   <string name="comment_invalid">Rate this update (touch the stars)</string>
   <string name="comment_publish">Submit</string>
   <string name="comment_sending">Sending…</string>
-  <string name="comment_upload_failed">Failed to send comment</string>
+  <string name="comment_upload_failed">"Can't send comment"</string>
   <string name="comment_upload_hint">Thank you for your feedback!</string>
   <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
   <string name="comment_upload_success">Sent</string>
@@ -52,11 +52,11 @@
   <string name="download_current_rom">Flash update</string>
   <string name="download_diff">Download diff</string>
   <string name="download_error">Wait a minute or two and try again.</string>
-  <string name="download_failed">"Couldn't download"</string>
+  <string name="download_failed">"Can't download"</string>
   <string name="download_full">Download full</string>
   <string name="download_title">Downloading (%s)</string>
-  <string name="download_title_first">Getting update info…</string>
-  <string name="download_title_full_download">Getting package info…</string>
+  <string name="download_title_first">Getting info…</string>
+  <string name="download_title_full_download">Getting info…</string>
   <string name="downloading_description">Downloading…</string>
   <string name="edit_comment">Add comments</string>
   <string name="edit_comment_title">Edit comment</string>
@@ -66,7 +66,7 @@
   <string name="experimental_build">Experimental</string>
   <string name="file_not_found_error_message">"Can't access this file. Try downloading it again."</string>
   <string name="finish">Finish</string>
-  <string name="fourgrid_hint_text">Thanks for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
+  <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI! Tell us what you think and help make us MIUI better.</string>
   <string name="fourgrid_no_notificaiont">"Don't show in status bar"</string>
   <string name="fourgrid_notificaiont">Show in status bar</string>
   <string name="get_auto">Use mobile network or WLAN</string>
@@ -94,7 +94,7 @@
   <string name="monthly_build">Monthly</string>
   <string name="my_best_update">Best update</string>
   <string name="my_expect_update">Expectations</string>
-  <string name="my_rank">Update status:</string>
+  <string name="my_rank">"Update status: "</string>
   <string name="my_update_feel">My feedback</string>
   <string name="my_worst_update">Worst update</string>
   <string name="network_error">A network error occurred</string>
@@ -104,7 +104,7 @@
   <string name="no_proper_updates">No updates available</string>
   <string name="no_wifi_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="no_wifi_title">Data usage warning</string>
-  <string name="not_open">Off</string>
+  <string name="not_open">Not now</string>
   <string name="notification_downloading">Downloading update…</string>
   <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
   <string name="notification_load_body_dev">Get the latest updates for your device.</string>
@@ -124,7 +124,7 @@
   <string name="notification_updating">Updating…</string>
   <string name="now">Update now</string>
   <string name="on_checking">Checking for updates…</string>
-  <string name="open_now">On</string>
+  <string name="open_now">Turn on</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
   <string name="previous">Previous</string>
@@ -133,7 +133,7 @@
   <string name="reboot_to_new_system">Reboot to new system image</string>
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
-  <string name="set_auto_msg">Download updates automatically over WLAN</string>
+  <string name="set_auto_msg">Download updates automatically when connected to WLAN.</string>
   <string name="set_auto_update_title">Download updates automatically</string>
   <string name="set_installfail_full_msg">"Can't update at the moment. Touch \"OK\" to report this error to our engineers."</string>
   <string name="set_installfail_msg">Using your mobile data connection to download the update will increase your data usage.</string>
@@ -146,7 +146,7 @@
   <string name="share_qq">Post on Tencent Weibo</string>
   <string name="share_sina">Post on Sina Weibo</string>
   <string name="share_update">Share update info</string>
-  <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. For the detailed changelog, go to %3$s"</string>
+  <string name="share_update_content_sign">"I've updated MIUI to %1$s! I was the %2$s person to update. To view the change log, go to %3$s"</string>
   <string name="share_update_content_unsign">"I've updated MIUI to %1$s! For the detailed changelog, go to %2$s"</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
@@ -158,7 +158,7 @@
   <string name="space_not_enough_title">Not enough space</string>
   <string name="stable_build">Stable</string>
   <string name="submit">Submit</string>
-  <string name="submit_fail">"Couldn't send"</string>
+  <string name="submit_fail">"Can't send"</string>
   <string name="submit_progress">Sending…</string>
   <string name="submit_success">Sent</string>
   <string name="test">Test</string>
@@ -189,7 +189,7 @@ But you can take part next Tuesday."</string>
   <string name="updater_nonetwork">Connect to network to view change log</string>
   <string name="updater_nonetwork_clause">Connect to network to view updated Privacy Policy</string>
   <string name="upgrade_close">Close</string>
-  <string name="upgrade_kernel">Your kernel is outdated</string>
+  <string name="upgrade_kernel">System kernel is outdated</string>
   <string name="upgrade_kernel_msg">"The kernel of the version you're using doesn't match the latest version of MIUI's. You need upgrade your kernel manually. Refer to Xiaomi's upgrade tutorial: 
 "</string>
   <string name="user_begin">Download</string>

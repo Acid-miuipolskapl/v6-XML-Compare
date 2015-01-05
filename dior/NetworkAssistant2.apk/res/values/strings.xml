@@ -213,7 +213,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_title_declaration">Important disclaimer</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Network diagnostic</string>
-  <string name="pref_title_over_traffic_limit_warning">Turn off data if limit is exceeded</string>
+  <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Show data usage notifications</string>

@@ -90,7 +90,7 @@
   <string name="calllog_menu_edit_before_call">Edit</string>
   <string name="calllog_menu_send_sms">Send a message</string>
   <string name="callrecordview_item_newcontact">New contact</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
   <string name="callrecordview_item_op_time_missed">"Didn't connect"</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
@@ -297,7 +297,7 @@
   <string name="device_version_title">Choose a model</string>
   <string name="dial">Dial</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
-  <string name="dialerIconLabel">Recent</string>
+  <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
   <string name="dialer_empty_text_loading">Loading…</string>
