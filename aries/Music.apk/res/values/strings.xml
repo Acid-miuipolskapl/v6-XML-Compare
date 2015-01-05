@@ -242,6 +242,7 @@
   <string name="song_not_find">"Can't connect to network or this song isn't available."</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_to_play">Play</string>
+  <string name="stream_quality">stream quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist_list">Artists</string>
