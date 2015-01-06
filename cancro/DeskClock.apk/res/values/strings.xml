@@ -85,7 +85,6 @@
   <string name="slider_text">Swipe up to silence</string>
   <string name="snooze_confirm_cancel">Cancel snooze</string>
   <string name="snooze_duration_title">Snooze duration</string>
-  <string name="snooze_message">Snooze for %d mins</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
   <string name="stopwatch_lap_empty_text">No laps</string>

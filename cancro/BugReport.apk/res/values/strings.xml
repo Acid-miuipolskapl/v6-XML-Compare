@@ -11,8 +11,10 @@
   <string name="bluetooth_problem3">"Can't send files"</string>
   <string name="bluetooth_problem4">"Can't receive files"</string>
   <string name="btn_send">Send</string>
-  <string name="bugreport_tool_log_toast">Log saved to %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
+  <string name="bugreport_dump_complete_notification_summary">Tap to view.</string>
+  <string name="bugreport_dump_complete_notification_title">Created bug report</string>
+  <string name="bugreport_dump_start_notification_summary">Takes about a minute.</string>
+  <string name="bugreport_dump_start_notification_title">Creating bug report</string>
   <string name="button_feedback">Other</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Bad photo quality</string>

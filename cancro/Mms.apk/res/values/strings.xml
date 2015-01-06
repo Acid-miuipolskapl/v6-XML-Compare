@@ -211,7 +211,7 @@
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_send_as_common">Sent as SMS</string>
+  <string name="menu_send_as_common">Send as SMS</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
