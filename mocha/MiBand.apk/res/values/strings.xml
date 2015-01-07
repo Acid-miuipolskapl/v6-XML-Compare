@@ -8,6 +8,7 @@
   <string name="action_pop_lab">Fitness Center</string>
   <string name="action_pop_my_bracelet">My devices</string>
   <string name="action_pop_person_info">Profile</string>
+  <string name="action_pop_service">Services</string>
   <string name="action_pop_smart_alarms">Alarm</string>
   <string name="action_pop_unlock_screen">Screen Unlock</string>
   <string name="action_pop_weixin_enter">Add WeChat</string>
@@ -97,8 +98,9 @@ Address: %2$s"</string>
   <string name="confirm">OK</string>
   <string name="confirm_lazy_day">Mark today as a lazy day?</string>
   <string name="connect_bracelet_now">Connecting…</string>
-  <string name="connected_broadcast">Connection</string>
-  <string name="connected_broadcast_tips">Test connection</string>
+  <string name="connected_broadcast">蓝牙广播</string>
+  <string name="connected_broadcast_disconnect_tips">请先连接手环,再进行设置</string>
+  <string name="connected_broadcast_tips">使手环可以被其他设备发现</string>
   <string name="content_too_short">Enter message content</string>
   <string name="continue_reach_goal"> goals</string>
   <string name="continue_reach_goal_new_record">Set a new record</string>
@@ -121,7 +123,7 @@ Address: %2$s"</string>
   <string name="date_yesterday">Yesterday</string>
   <string name="day">days</string>
   <string name="day_active_detail">Details</string>
-  <string name="debug_host_label">Add test host:</string>
+  <string name="debug_host_label">添加测试主机地址：</string>
   <string name="device_list">Available devices</string>
   <string name="device_not_found_not_knocked">"Can't find band. To pair, tap the metal part of the band when it flashes."</string>
   <string name="device_not_response">"Lights aren't flashing?"</string>
@@ -219,6 +221,10 @@ Address: %2$s"</string>
   <string name="green">Green</string>
   <string name="half_marathon_format_0">" is about %1$s half-marathons"</string>
   <string name="half_marathon_format_1">" is over a half-marathon"</string>
+  <string name="health_care_country_limit">地区：中国大陆地区</string>
+  <string name="health_care_date_limit">服务期限：免费一年</string>
+  <string name="health_link">HealthLink</string>
+  <string name="health_provider_desc">由远盟康健提供服务</string>
   <string name="help">Help</string>
   <string name="help_info_0">Make sure the band is close to your device throughout the entire pairing process.</string>
   <string name="help_info_1">"Make sure the band is charged and hasn't run out of power."</string>
@@ -228,14 +234,19 @@ Address: %2$s"</string>
   <string name="help_title_1">"Check the band's battery"</string>
   <string name="help_title_2">Restart Bluetooth</string>
   <string name="help_title_3">Is this band paired with another device?</string>
-  <string name="host_can_not_be_empty">Host cant be empty</string>
-  <string name="host_change_error">Failed to change host</string>
-  <string name="host_change_success">Changed host successfully</string>
+  <string name="host_can_not_be_empty">主机地址不能为空</string>
+  <string name="host_change_error">切换主机地址错误</string>
+  <string name="host_change_success">切换主机地址成功</string>
   <string name="hot_des">Energy</string>
   <string name="hour_1"/>
   <string name="in"/>
   <string name="incoming_call_notify">Incoming call</string>
+  <string name="incoming_call_notify_closed">Incoming call notify closed</string>
   <string name="incoming_call_notify_tips">"Vibrate if I don't answer after %s sec"</string>
+  <string name="incomingcall_info_1">This notification need the app to run in background continuously.</string>
+  <string name="incomingcall_info_2">"Please lock the Mi Band app and 
+add Mi Band to the white list of the 3rd party manager if exists."</string>
+  <string name="incomingcall_info_3">Please add Mi Band to the white list of the 3rd party manager if exists.</string>
   <string name="input_precise_person_info">Create your profile</string>
   <string name="instruction_tip_1">"View your progress
 at a glance!"</string>
@@ -253,7 +264,6 @@ your goal"</string>
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string>
-  <string name="lab_factory_cancel_deauthorize">Unbind</string>
   <string name="lab_factory_cheat_toast">No cheating!</string>
   <string name="lab_factory_disconnected_reminder">Bluetooth connection notification</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Connect your band and try again</string>
@@ -262,7 +272,7 @@ your goal"</string>
   <string name="lab_factory_exercise_state_ready">GO</string>
   <string name="lab_factory_exercise_state_stopped">Stop</string>
   <string name="lab_factory_exit_press_again">Touch again to exit</string>
-  <string name="lab_factory_internal_test">Testing and analysis</string>
+  <string name="lab_factory_internal_test">运动模式分析测试</string>
   <string name="lab_factory_item_group_open">OPEN</string>
   <string name="lab_factory_item_group_others">Other</string>
   <string name="lab_factory_item_group_social">SOCIAL</string>
@@ -302,7 +312,7 @@ your goal"</string>
   <string name="lab_factory_sport_pb_desc">Personal best: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Jumping rope</string>
   <string name="lab_factory_sport_pb_situp">Sit-ups</string>
-  <string name="lab_factory_sport_result_cost_cal">Burned %d cal</string>
+  <string name="lab_factory_sport_result_cost_cal">Burnt %d cal</string>
   <string name="lab_factory_sport_result_dot">", "</string>
   <string name="lab_factory_sport_sec">%d s</string>
   <string name="lab_factory_sport_share_info_accumulated_time">Total</string>
@@ -394,6 +404,7 @@ Great work!"</string>
   <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
   <string name="noti_bracelet_low_battery_title">Low battery</string>
   <string name="noti_bracelet_low_battery_title_low">Band has powered off</string>
+  <string name="notice_for_users">小米手环用户专享</string>
   <string name="notify_status_motor">"Vibrating: "</string>
   <string name="notify_status_motor_alarm">Alarm.</string>
   <string name="notify_status_motor_auth">Band detected.</string>
@@ -457,6 +468,10 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="select_from_camera">Camera</string>
   <string name="select_from_local">Choose from Gallery</string>
   <string name="select_image">Change profile picture</string>
+  <string name="sensor_hub_tip">"手机计步显示的是由手机内部协处理
+ (Sensor Hub)记录的运动数据。
+ 绑定手环后，此数据仅作为参考，不会保存到云端"</string>
+  <string name="service_call_notice">拨打24小时电话，获取服务</string>
   <string name="set_alarm_time">SET ALARM TIME</string>
   <string name="set_goal_step">8,000 steps/day</string>
   <string name="set_mili_name">Name your band</string>
@@ -488,10 +503,17 @@ Notifications by mksaint13"</string>
 %4$s"</string>
   <string name="share_continue_goal_format_run">"Walked %1$s, ran %2$s, %3$s.
 %4$s"</string>
+  <string name="share_facebook_label">Facebook</string>
   <string name="share_goal_tips_fail">Chill day for me.</string>
   <string name="share_goal_tips_succ">I reached my goal today!</string>
+  <string name="share_image_preparing">Preparing for share</string>
+  <string name="share_line_label">Line</string>
+  <string name="share_miliao_label">Mi Talk</string>
   <string name="share_miliao_too_old">"The version of Mi Talk you're using is too old."</string>
+  <string name="share_pengyouquan_label">Moments</string>
   <string name="share_play_ground_format">" or about %1$s laps around the track"</string>
+  <string name="share_qq_label">QQ</string>
+  <string name="share_qq_zone_label">QZone</string>
   <string name="share_sleep_description">"Deep sleep: %1$sh %2$sm | Light sleep: %3$sh %4$sm
 Fell asleep at %5$s | Woke up at %6$s"</string>
   <string name="share_sleep_description_average">"Sleep averages
@@ -527,21 +549,26 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_to_miliao_target_union">Work out buddies</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Band</string>
-  <string name="share_to_topic_for_event">\#Mi band 10000 steps a day#</string>
   <string name="share_uninstall_client">"This app hasn't been installed."</string>
+  <string name="share_weibo_label">Weibo</string>
+  <string name="share_weixin_label">WeChat</string>
   <string name="signal_strength">Signal strength: </string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Early bird alarm</string>
   <string name="smart_wake_up_info">Wake me up 30 minutes before set alarm time</string>
-  <string name="sport_coming_soon">Check for news!</string>
+  <string name="sport_coming_soon">Coming soon!</string>
   <string name="sport_new_record_ropeskipping">New record</string>
   <string name="sport_ranking_desc_great">WOW, you are unbeatable now!</string>
-  <string name="sport_ranking_desc_normal" formatted="false">You beat &lt;b&gt;%s%&lt;/b&gt; of Mi band %s users.</string>
+  <string name="sport_ranking_desc_normal" formatted="false">You beat &lt;b&gt;%s&lt;/b&gt; of Mi band %s users.</string>
   <string name="sport_ranking_desc_poor">Every %s user can beat you, come on!</string>
   <string name="sport_running_altitude">Altitude</string>
+  <string name="sport_running_auto_pause">Auto pause detection</string>
   <string name="sport_running_average_speed">Average</string>
   <string name="sport_running_burn">Burn</string>
+  <string name="sport_running_cal_burnt">%d cal</string>
+  <string name="sport_running_cal_desc">Burnt</string>
+  <string name="sport_running_cal_with_unit">Burnt(cal)</string>
   <string name="sport_running_cost_cal">%.1f cal</string>
   <string name="sport_running_distance">Distance</string>
   <string name="sport_running_distance_desc">Kilometers</string>
@@ -552,15 +579,17 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="sport_running_gps_locating">GPS locating...</string>
   <string name="sport_running_gps_turnon">Turn on</string>
   <string name="sport_running_helper">Running help</string>
-  <string name="sport_running_helper_test">Running test</string>
+  <string name="sport_running_helper_test">跑步助手测试</string>
   <string name="sport_running_history">History</string>
   <string name="sport_running_history_date" formatted="false">%d/%d/%d</string>
   <string name="sport_running_history_no_data">No data</string>
   <string name="sport_running_history_title">History</string>
   <string name="sport_running_kilometers">km</string>
   <string name="sport_running_kilometers_per_hour">km/h</string>
+  <string name="sport_running_label_hint">Title input</string>
   <string name="sport_running_lable_km_slowest">Km slowest</string>
   <string name="sport_running_lable_miles_fastest">Km fastest</string>
+  <string name="sport_running_marathon_cost_time">(A whole marathon needs %s in this pace)</string>
   <string name="sport_running_no_gps">Use GPS to keep track of your route.</string>
   <string name="sport_running_pace">Pace</string>
   <string name="sport_running_pace_detail">%s/km</string>
@@ -578,15 +607,19 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="sport_running_set_pace">Set pace</string>
   <string name="sport_running_set_speed">Set speed</string>
   <string name="sport_running_settings">Settings</string>
+  <string name="sport_running_share">Share</string>
   <string name="sport_running_slider_prompt">&gt;&gt;&gt;Slide right to pause</string>
   <string name="sport_running_speed">Speed</string>
   <string name="sport_running_speed_detail">%.2fkm/h</string>
   <string name="sport_running_speed_with_unit">Speed(km/h)</string>
+  <string name="sport_running_sport_state_sr_tips">Auto paused, switch to resume once running</string>
   <string name="sport_running_start">Start</string>
   <string name="sport_running_start_time">Start</string>
   <string name="sport_running_step">Steps</string>
+  <string name="sport_running_step_frequency">Frequency(steps/m)</string>
   <string name="sport_running_stop">Stop</string>
   <string name="sport_running_time_desc">Time</string>
+  <string name="sport_running_watermark">Watermark</string>
   <string name="sport_share">Share now</string>
   <string name="start">Start</string>
   <string name="start_download">Downloading…</string>
@@ -656,6 +689,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="title_activity_open">Partner Bind Page</string>
+  <string name="title_health_link_service">Health Care Service</string>
   <string name="today">Today</string>
   <string name="unbind">Unpair</string>
   <string name="unbind_mili">Unpair band</string>
@@ -669,13 +703,13 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="unit_min_short">m</string>
   <string name="unit_sec_short">s</string>
   <string name="unit_step">steps</string>
-  <string name="unlock_for_smartlock_pair_fail_tip">Bracelet connect failed</string>
-  <string name="unlock_for_smartlock_pair_start_tip">Connecting to bracelet...</string>
-  <string name="unlock_for_smartlock_pair_success_tip">Smart Lock setup successful</string>
-  <string name="unlock_for_smartlock_tip">To use unlock, your app should run in background</string>
-  <string name="unlock_for_smartlock_tip_step1">1st step: Go to &lt;b&gt;Settings&lt;/b&gt; - &lt;b&gt;Security&lt;/b&gt;</string>
-  <string name="unlock_for_smartlock_tip_step2">2nd step: click on &lt;b&gt;Screen unlock&lt;/b&gt; and set your password</string>
-  <string name="unlock_for_smartlock_tip_step3">3rd step: click on &lt;b&gt;Smart Lock&lt;/b&gt; and choose needed device</string>
+  <string name="unlock_for_smartlock_pair_fail_tip">配对手环失败，请重试</string>
+  <string name="unlock_for_smartlock_pair_start_tip">正在配对手环，请稍后...</string>
+  <string name="unlock_for_smartlock_pair_success_tip">配对手环成功，请设置Smart Lock</string>
+  <string name="unlock_for_smartlock_tip">使用手环解锁需要小米手环APP一直在后台运行</string>
+  <string name="unlock_for_smartlock_tip_step1">第一步:进入 &lt;b&gt;&amp;#31995;&amp;#32479;&amp;#35774;&amp;#32622;&lt;/b&gt; - &lt;b&gt;&amp;#23433;&amp;#20840;&lt;/b&gt;</string>
+  <string name="unlock_for_smartlock_tip_step2">第二步:设置 &lt;b&gt;&amp;#23631;&amp;#24149;&amp;#38145;&amp;#23450;&amp;#26041;&amp;#24335;&lt;/b&gt; &amp;#20026;&amp;#22270;&amp;#26696;&amp;#12289;PIN&amp;#30721;&amp;#25110;&amp;#32773;&amp;#23494;&amp;#30721;</string>
+  <string name="unlock_for_smartlock_tip_step3">第三步:点击 &lt;b&gt;Smart Lock&lt;/b&gt; &amp;#35774;&amp;#32622;&amp;#20351;&amp;#29992;&amp;#25163;&amp;#29615;&amp;#35299;&amp;#38145;</string>
   <string name="unlock_screen">Screen Unlock</string>
   <string name="unlock_screen_help_info0">Make sure the band is close to your device throughout the entire pairing process.</string>
   <string name="unlock_screen_help_info1">Restart Bluetooth by turning it off and then on again in Settings.</string>
@@ -708,6 +742,7 @@ Settings &gt; Security."</string>
   <string name="visit_micom">Visit website</string>
   <string name="wait">Working…</string>
   <string name="walked">Walked </string>
+  <string name="watermark_search_location">\#正在获取您的位置#</string>
   <string name="wear_hand">Band location</string>
   <string name="weared_days">Total days</string>
   <string name="weather_aqi">" | Air Quality: %s"</string>
