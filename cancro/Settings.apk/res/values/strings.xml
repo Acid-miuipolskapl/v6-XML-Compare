@@ -115,8 +115,10 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="apn_auth_type_none">None</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
-  <string name="apn_chinaunicom_3gwap_general">沃3G手机上网</string>
+  <string name="apn_chinaunicom_3gnet_general">沃宽带用户连接互联网</string>
+  <string name="apn_chinaunicom_3gwap_general">沃宽带用户手机上网</string>
+  <string name="apn_cm_net">CMNET</string>
+  <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Edit access point</string>
   <string name="apn_general">General</string>
   <string name="apn_http_port">Port</string>
@@ -1930,6 +1932,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
+  <string name="screen_effect">Contrast &amp; colors</string>
   <string name="screen_key_long_press">Long press navigation buttons</string>
   <string name="screen_key_long_press_action">Trigger function</string>
   <string name="screen_key_long_press_timeout">Define long press time</string>
@@ -1938,6 +1941,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_never_timeout_title">Never sleep</string>
   <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a pocket</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_optimize">Contrast</string>
   <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
@@ -2673,6 +2677,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
+  <string name="wifi_disconnected_notification_summary">Retrying or connect to other WLAN.</string>
+  <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification">Wireless display certification</string>
   <string name="wifi_display_certification_heading">Certification</string>

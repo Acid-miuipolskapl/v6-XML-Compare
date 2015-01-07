@@ -1115,6 +1115,16 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Brilliant</item>
         <item>Standard</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Automatic contrast</item>
+        <item>Increased contrast</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Optimize contrast for available light</item>
+        <item>"Increase display's contrast"</item>
+        <item>Contrast will remain constant</item>
+    </string-array>
     <string-array name="perms_hips_values">
         <item>2</item>
         <item>1</item>

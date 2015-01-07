@@ -25,7 +25,7 @@
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">"Use mobile data connection to sync SMS, contacts info, and call history. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="cloud_sync_setting_summary_standard">Sync MMS, photos, and videos when connected to WLAN</string>
   <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="contact">Contacts</string>
@@ -64,6 +64,7 @@ Locate, lock, or reset your device at "</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this feature.</string>
+  <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -134,6 +135,12 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
+  <string name="micloud_setting_browser_summary">Bookmarks, history, and tags</string>
+  <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+  <string name="micloud_setting_gallery_summary">Photos and videos</string>
+  <string name="micloud_setting_music_summary">Playlists and favorites</string>
+  <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
+  <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
