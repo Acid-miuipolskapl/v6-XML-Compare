@@ -21,7 +21,7 @@
   <string name="copy">Copy</string>
   <string name="copy_succeed">Copied</string>
   <string name="copy_text">Copy text</string>
-  <string name="copy_text_success">Copied</string>
+  <string name="copy_text_success">Text copied</string>
   <string name="download_by_browser">Download with Browser</string>
   <string name="download_qq">Download QQ</string>
   <string name="download_wechat">Download WeChat</string>
@@ -35,10 +35,10 @@
   <string name="launch_wechat">Launch WeChat</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
-  <string name="not_insert_contact">"Couldn't add contact"</string>
+  <string name="not_insert_contact">"Can't add contact"</string>
   <string name="not_recommend_access_web_url">Continue to website anyway</string>
   <string name="not_tips">Remember preference</string>
-  <string name="note">Note:</string>
+  <string name="note">Notes:</string>
   <string name="open_flash_error">"Can't turn on torch"</string>
   <string name="phone">Phone:</string>
   <string name="picker_lable">Photo</string>
@@ -61,9 +61,9 @@
   <string name="url_is_safety">This website is safe.</string>
   <string name="url_is_unknown">"Can't confirm if this site is safe."</string>
   <string name="url_is_unsafety">"This site poses a risk to your data's security."</string>
-  <string name="vcard_prompt">"There's no name associated with this card."</string>
+  <string name="vcard_prompt">No name associated with this card.</string>
   <string name="visit_cloud_album">View album</string>
-  <string name="web">Web:</string>
+  <string name="web">Website:</string>
   <string name="web_url_apk_warning">This app is from an unknown source. Your device and data are more vulnerable to attack by apps from unknown sources.</string>
   <string name="web_url_warning">The linked website is from an unknown source and may be a security risk.</string>
   <string name="website_details">Website details:</string>
@@ -71,10 +71,10 @@
   <string name="wifi_connect_current_connetion">Connected to WLAN</string>
   <string name="wifi_connect_fail">"Can't connect to the network"</string>
   <string name="wifi_connect_not_found">No WLAN networks detected</string>
-  <string name="wifi_connect_success">Connected</string>
+  <string name="wifi_connect_success">Connected to network</string>
   <string name="wifi_connecting">Connecting…</string>
   <string name="wifi_details">WLAN details:</string>
-  <string name="wifi_open_fail">"Couldn't open WLAN"</string>
+  <string name="wifi_open_fail">"Can't open WLAN"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>

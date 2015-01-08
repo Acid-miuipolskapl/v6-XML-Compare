@@ -71,8 +71,11 @@
   <string name="boot_day_shutdown_day">Device will power on in %1$dd at %2$s and power off in %3$dd at %4$s</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
   <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_day_hour">Device will power on in %1$dd %2$dh</string>
   <string name="boot_reminder_hour">Device will power on in %1$dh %2$dm</string>
   <string name="boot_reminder_minute">Device will power on in %1$dm</string>
+  <string name="boot_reminder_only_day">Device will power on in %1$dd</string>
+  <string name="boot_reminder_only_hour">Device will power on in %1$dh</string>
   <string name="boot_shutdown">Device will power on at %1$s and power off at %2$s</string>
   <string name="boot_shutdown_day">Device will power on at %1$s and power off in %2$dd at %3$s</string>
   <string name="boot_time">Device will power on at %1$s</string>
