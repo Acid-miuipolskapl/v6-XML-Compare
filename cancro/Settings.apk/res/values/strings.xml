@@ -1942,6 +1942,10 @@ This setting affects all users on this phone."</string>
   <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a pocket</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_optimize">Contrast</string>
+  <string name="screen_paper_mode_summary">在长期阅读时启用，减少蓝光伤害</string>
+  <string name="screen_paper_mode_title">阅读模式</string>
+  <string name="screen_paper_mode_turn_off">未启用</string>
+  <string name="screen_paper_mode_turn_on">已开启</string>
   <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>

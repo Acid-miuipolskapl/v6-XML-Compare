@@ -32,6 +32,7 @@
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
+  <string name="clean_up_button">Clean up</string>
   <string name="comment_invalid">Rate this update (touch the stars)</string>
   <string name="comment_publish">Submit</string>
   <string name="comment_sending">Sending…</string>
@@ -158,6 +159,8 @@
   <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
   <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
 But you can take part next Tuesday."</string>
+  <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
+  <string name="update_feedback_need_network">Connect to network first</string>
   <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
   <string name="update_feel">What do you think?</string>
   <string name="update_general">So-so</string>

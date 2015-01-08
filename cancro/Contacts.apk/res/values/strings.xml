@@ -506,7 +506,7 @@ Reason: \"%s\""</string>
   <string name="meid">MEID</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
-  <string name="menu_addStar">Add to favorites</string>
+  <string name="menu_addStar">Favorite</string>
   <string name="menu_bar_group_add">Add</string>
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
@@ -538,11 +538,11 @@ Reason: \"%s\""</string>
   <string name="menu_joinAggregate">Merge</string>
   <string name="menu_newContact">New contact</string>
   <string name="menu_new_contact_action_bar">New</string>
-  <string name="menu_new_favorite_action_bar">New</string>
+  <string name="menu_new_favorite_action_bar">Add to favorites</string>
   <string name="menu_new_group_action_bar">New</string>
   <string name="menu_not_redirect_calls_to_vm">Voicemail not in use</string>
   <string name="menu_redirect_calls_to_vm">All calls to voicemail</string>
-  <string name="menu_removeStar">Remove from favorites</string>
+  <string name="menu_removeStar">Unfavorite</string>
   <string name="menu_search">Search</string>
   <string name="menu_select_all">Select all</string>
   <string name="menu_select_none">Unselect all</string>
@@ -1011,7 +1011,7 @@ To add a contact to your list of favorites:
   <string name="share_over_limit">"Over the limit, can't be shared"</string>
   <string name="share_via">Send</string>
   <string name="share_visible_contacts">Share contacts</string>
-  <string name="shortcutActivityTitle">Choose a contact shortcut</string>
+  <string name="shortcutActivityTitle">Choose a shortcut</string>
   <string name="shortcutContact">Contact</string>
   <string name="shortcutDialContact">"Direct dial "</string>
   <string name="shortcutMessageContact">Direct message</string>

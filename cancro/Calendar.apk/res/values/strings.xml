@@ -194,6 +194,7 @@
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
   <string name="no_syncable_calendars">No calendars</string>
   <string name="no_title_label">(No title)</string>
+  <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">not synced</string>
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="online_reminder_change_text">修改提醒</string>
