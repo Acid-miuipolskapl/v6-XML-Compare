@@ -28,7 +28,7 @@
   <string name="cta_dialog_content">This app needs to connect to the internet to work normally.</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_not_show_again">Remember preference</string>
-  <string name="description">"If you don't see your issue in the common bugs, describe it here"</string>
+  <string name="description">Describe the issue</string>
   <string name="discard_draft_dialog_button_cancel">Stay here</string>
   <string name="discard_draft_dialog_button_discard">Discard</string>
   <string name="discard_draft_dialog_content">"Any changes you've made to this report will be lost."</string>
@@ -61,7 +61,6 @@
   <string name="network_unavailable_dialog_content">Your report will be sent when you have a data connection.</string>
   <string name="network_unavailable_dialog_title">"Can't connect to the network"</string>
   <string name="non_system_app_select">Downloaded apps</string>
-  <string name="nonsystemapp_description">Describe the issue</string>
   <string name="packaging_dialog_content">Creating report…</string>
   <string name="power_consuming_problem1">Increased power consumption after update</string>
   <string name="power_consuming_problem2">Using this app consumes a lot of power</string>
