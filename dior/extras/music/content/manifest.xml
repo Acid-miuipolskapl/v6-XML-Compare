@@ -75,7 +75,7 @@
         <Triggers>
             <Trigger action="up">
                 <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)"/>
-                <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.phone.ui.MediaPlaybackActivity" condition="not(isnull(@music_control.title))"/>
+                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
             </Trigger>
         </Triggers>
     </Button>

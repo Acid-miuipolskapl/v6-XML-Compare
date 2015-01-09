@@ -25,7 +25,7 @@
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">"Use mobile data connection to sync SMS, contacts info, and call history. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
+  <string name="cloud_sync_setting_summary_standard">Sync MMS, photos, and videos when connected to WLAN</string>
   <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="contact">Contacts</string>
@@ -64,6 +64,7 @@ Locate, lock, or reset your device at "</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
   <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this feature.</string>
+  <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -89,7 +90,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
-  <string name="micloud_detail_fail">"Couldn't sync"</string>
+  <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_syncing">Syncing</string>
@@ -134,6 +135,12 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
+  <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
+  <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+  <string name="micloud_setting_gallery_summary">Photos and videos</string>
+  <string name="micloud_setting_music_summary">Playlists and favorites</string>
+  <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
+  <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
@@ -163,8 +170,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="more_activity_in_upgrade_space">Learn more at &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
+
 You can turn this feature on and off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
+
 This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Next</string>
@@ -194,7 +203,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">Sync</string>
-  <string name="sync_dspt_entrance_provision">Sync your photos, contacts, and messages, or locate your device.</string>
+  <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, and messages, or locate your device. "</string>
   <string name="sync_dspt_entrance_provision_2">Learn more</string>
   <string name="sync_dspt_provision">"Sync
 Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
@@ -209,7 +218,7 @@ Sync your photos, contacts, notes, and more across all your devices or access th
   <string name="sync_item_sms_title">Sync messages</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_resend_sms_dspt_provision">. If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service.</string>
+  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
   <string name="sync_setting">Mobile data usage</string>
   <string name="sync_standard">SMS and call history</string>
   <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>

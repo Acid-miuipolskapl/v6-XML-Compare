@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="already_deleted">(deleted)</string>
+  <string name="about_cloud_app_backup">About back up</string>
+  <string name="already_deleted">%s (deleted)</string>
   <string name="already_disable_backup">Back up this app</string>
   <string name="already_enable_backup">Back up this app</string>
   <string name="app_installed">Installed</string>
@@ -17,6 +18,8 @@
   <string name="button_ok">OK</string>
   <string name="button_restore">Restore</string>
   <string name="button_stop">Stop</string>
+  <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
+  <string name="cloud_app_backup_already">" has been backed up"</string>
   <string name="cloud_app_backup_cancel">Canceling…</string>
   <string name="cloud_app_backup_cancel_prompt_message">Not finished backing up. Stop anyway?</string>
   <string name="cloud_app_backup_cancel_prompt_title">Stop backing up?</string>
@@ -74,9 +77,10 @@
   <string name="dialog_prompt_stop_backup">Stop backing up?</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="disable_backup">Off</string>
-  <string name="display_early_backup">Show previous backups</string>
+  <string name="download_settings">Download Home screen settings</string>
   <string name="enable_backup">On</string>
   <string name="error_unknown">Something went wrong</string>
+  <string name="explantion_of_data_size">Saved space using Mi App Market</string>
   <string name="latest_backup_time">Last backed up on %s</string>
   <string name="latest_backup_time_loading">Loading…</string>
   <string name="listview_empty_no_results">No results</string>
@@ -95,6 +99,8 @@
   <string name="open_wifi_setting">WLAN settings</string>
   <string name="process_whole_recovery">Restoring \"%s\"</string>
   <string name="recover_from_micloud">Recover using Mi Cloud</string>
+  <string name="recover_settings">Restore Home screen settings</string>
+  <string name="recover_settings_description">Keep your device powered on</string>
   <string name="recovering">Recovering %s</string>
   <string name="restore_from_cloud">Restore from Mi Cloud</string>
   <string name="restoreing_file_tile">Restoring %d files</string>
@@ -103,7 +109,6 @@
   <string name="sdcard_unmounted">No SD card detected</string>
   <string name="select_backup_data">Choose backup</string>
   <string name="self_phone">This phone</string>
-  <string name="skip_recovery">Skip</string>
   <string name="start_backup_to_micloud">Back up apps to Mi Cloud</string>
   <string name="start_recover">Recover %s</string>
   <string name="stop_backup">Stop</string>

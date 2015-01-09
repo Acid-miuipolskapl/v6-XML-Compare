@@ -146,6 +146,7 @@
   <string name="account_setup_names_user_name_empty_error">"This field can't be blank."</string>
   <string name="account_setup_names_user_name_label">Your name (displayed on outgoing messages)</string>
   <string name="account_setup_need_password_verification">Your account has secondary password authentication. Authentication is required.</string>
+  <string name="account_setup_not_disturb_title">Do not disturb</string>
   <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to Wi-Fi</string>
   <string name="account_setup_options_headline">Account options</string>
   <string name="account_setup_options_mail_check_frequency_10min">Every 10 minutes</string>
@@ -282,6 +283,7 @@
   <string name="change_account_type">Change account type</string>
   <string name="change_folders_selection_dialog_title">Change folders</string>
   <string name="change_sync_settings">Change sync settings</string>
+  <string name="changepw_dialog_tips">Please re-enter \"%s\"`s password</string>
   <string name="chat_item_msg_people_unit">persons</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_item_msg_user_saying">says:</string>
@@ -306,12 +308,12 @@
   <string name="compose_sent">Sent Successfully</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete this email?</string>
+  <string name="confirm_delete_conversation_title">Delete</string>
   <string name="confirm_discard_text">Discard this message?</string>
   <string name="confirm_response">Sending…</string>
   <string name="confirm_save_message_no">Discard</string>
   <string name="confirm_save_message_title">Save as draft?</string>
   <string name="confirm_save_message_yes">Save</string>
-  <string name="confirm_send_message">Send this message?</string>
   <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
@@ -384,14 +386,20 @@
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
   <string name="done">Done</string>
   <string name="done_action">Done</string>
+  <string name="donot_disturb_endtime_title">To</string>
+  <string name="donot_disturb_starttime_title">From</string>
+  <string name="donot_disturb_summary">Your phone will not recevie and notificate new mails in the setted time</string>
+  <string name="donot_disturb_title">Do not disturb in the night</string>
   <string name="downlaod_cancel_confirm_download">Stop</string>
   <string name="downlaod_cancel_continue_download">Back</string>
   <string name="downlaod_confirm_download">Download</string>
   <string name="downlaod_nonWifi_confirm_message">Use your mobile data connection to download this attachment?</string>
+  <string name="downlaod_nonWifi_confirm_title">Download this attachment?</string>
   <string name="download_again">Download again</string>
   <string name="download_before_sharing">" hasn't finished downloading."</string>
   <string name="download_before_view">"This message hasn't been downloaded."</string>
-  <string name="download_cancel_confirm_title">Download will be stopped</string>
+  <string name="download_cancel_confirm_message">Download will be stopped</string>
+  <string name="download_cancel_confirm_title">Download this Attachment</string>
   <string name="download_complete_not_cancel">Download finished</string>
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
@@ -518,6 +526,7 @@
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
   <string name="intent_exchange_package">com.android.exchange</string>
   <string name="invalid_recipient">The address %s is invalid.</string>
+  <string name="invalid_recipient_title">Recipient Error</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_attachment">@string/load_more</string>
@@ -640,7 +649,6 @@ CC: %4$s
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_atts_total">%1$d attachments</string>
   <string name="more_context">More</string>
-  <string name="more_info_attachment">Info</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Moved to another folder</string>
@@ -656,6 +664,7 @@ CC: %4$s
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
+  <string name="no_application_found_title">Open this attachment.</string>
   <string name="no_contacts">No contacts.</string>
   <string name="no_content_in_body">[No Body]</string>
   <string name="no_conversations">No messages</string>
@@ -822,8 +831,8 @@ CC: %4$s
   <string name="quoted_text_label">Quote text</string>
   <string name="read_string">conversation read</string>
   <string name="recent_folders_heading">Recent folders</string>
-  <string name="recipient_error_dialog_title">Recipient error</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
+  <string name="recipient_needed_title">Warn</string>
   <string name="recipient_null_dialog_title">Alert</string>
   <string name="refresh">Refresh</string>
   <string name="refreshing">Refreshing…</string>
@@ -834,6 +843,7 @@ CC: %4$s
   <string name="remote_search_result">%s emails found on the server.</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_account_confirm">\"%1$s\" will be removed from Mail.</string>
+  <string name="remove_account_confirm_title">Delete Account</string>
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>

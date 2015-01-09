@@ -357,6 +357,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">"Couldn't make call."</string>
   <string name="incall_error_emergency_only">Not registered on network.</string>
+  <string name="incall_error_no_active_sim">No sim card is on.</string>
   <string name="incall_error_no_phone_number_supplied">The number you entered is invalid.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, turn off Airplane mode.</string>
@@ -364,6 +365,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">International news is off</string>
   <string name="international_enable">International news is on</string>
+  <string name="international_roaming_setting">International roaming</string>
   <string name="internet_phone">Internet call</string>
   <string name="invalid_password">Enter a password that is 4 numbers long</string>
   <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
