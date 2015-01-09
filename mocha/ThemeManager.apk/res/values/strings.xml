@@ -19,7 +19,6 @@
   <string name="backup_theme_name">Theme backup</string>
   <string name="backup_theme_progress_message">Backing up…</string>
   <string name="backup_theme_success_message">Your current theme settings have been backed up.</string>
-  <string name="basic_info">Account info</string>
   <string name="change_wallpaper">Wallpaper</string>
   <string name="close">Close</string>
   <string name="component_category_finest_title">GENERAL</string>
