@@ -1942,6 +1942,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_on_proximity_sensor_summary">Lock automatically when placed in a pocket</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_optimize">Contrast</string>
+  <string name="screen_paper_mode_apps_title">Use Reading mode for these apps</string>
   <string name="screen_paper_mode_summary">"Reduce screen's background glare"</string>
   <string name="screen_paper_mode_title">Reading mode</string>
   <string name="screen_paper_mode_turn_off">Off</string>

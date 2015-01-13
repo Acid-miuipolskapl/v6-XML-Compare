@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">New</string>
   <string name="action_item_delete">Delete</string>
   <string name="action_item_download">Download</string>
+  <string name="action_item_hide">Hide</string>
   <string name="action_item_remove">Remove</string>
   <string name="action_item_send">Send</string>
   <string name="add_music">Add songs</string>
@@ -81,7 +82,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_page_no_album">No albums.</string>
   <string name="empty_page_no_artist">No artists.</string>
-  <string name="empty_page_no_document">No documents.</string>
+  <string name="empty_page_no_document">No documents contain audios.</string>
   <string name="empty_page_no_track">No songs.</string>
   <string name="enabled">Enabled</string>
   <string name="eq_auto">Custom</string>
@@ -122,6 +123,8 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimum length: "</string>
   <string name="filter_by_duration_summary">"Don't display short audio files"</string>
+  <string name="filter_by_folder">By folder</string>
+  <string name="filter_by_folder_summary">Choose folders to display</string>
   <string name="filter_by_size">By size</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -231,6 +234,7 @@
   <string name="search_title_song">Songs</string>
   <string name="select_album">Choose album</string>
   <string name="select_device">Select device</string>
+  <string name="select_displayed_folders">Choose folders to display</string>
   <string name="select_local_album">Choose album</string>
   <string name="select_local_lyric">Choose lyrics</string>
   <string name="select_lyric">Choose lyrics</string>
