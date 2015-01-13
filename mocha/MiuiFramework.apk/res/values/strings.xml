@@ -213,6 +213,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_network_type">Network</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.PreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_paper_mode">Read mode</string>
+  <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Perform</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
   <string name="status_bar_toggle_privacy_mode">Guest</string>
