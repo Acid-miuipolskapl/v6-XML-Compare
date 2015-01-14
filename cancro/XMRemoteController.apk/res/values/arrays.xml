@@ -59,10 +59,6 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
-    <string-array name="app_detail_tabs">
-        <item>详情</item>
-        <item>评论</item>
-    </string-array>
     <string-array name="ac_mode_array">
         <item>Cooling</item>
         <item>Heating</item>
