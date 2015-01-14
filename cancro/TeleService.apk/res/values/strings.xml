@@ -617,6 +617,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Prefer 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Prefer LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automatic</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">2G only (saves battery)</string>

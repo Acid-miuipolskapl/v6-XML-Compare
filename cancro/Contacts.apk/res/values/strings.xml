@@ -773,6 +773,9 @@ To add a contact to your list of favorites:
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Me</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="qr_card_card">My QR Code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="quickcontact_missing_app">No app was found to handle this action</string>
@@ -922,6 +925,7 @@ To add a contact to your list of favorites:
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
   <string name="resource_pack_price_info">Original price: %1$s</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>
@@ -1183,6 +1187,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
+  <string name="yellowpage_search_the_yellowpage">Search the directory</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="zero_items_selected">Select items</string>
 </resources>

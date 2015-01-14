@@ -181,6 +181,7 @@
   <string name="hint_search_sms">%d messages</string>
   <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
+  <string name="hms_uri_param_err">"Mipub URL's query parameter \"id\" can't be empty"</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
