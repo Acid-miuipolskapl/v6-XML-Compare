@@ -88,16 +88,4 @@
         <item>在不影响“就急、就近、就病情、就病人及家属意愿”的急救原则之下，远盟可向用户推介实施急救的医疗医院，最终由用户自主决定，或根据实际情况由急救车上的医生安排。</item>
         <item>指导办理住院手续，提供住院注意事项咨询。</item>
     </string-array>
-    <string-array name="watermark_tag_name">
-        <item>地图</item>
-        <item>路线</item>
-        <item>成绩</item>
-        <item>标题党</item>
-        <item>距离挑战</item>
-        <item>消耗脂肪</item>
-        <item>打卡</item>
-        <item>马拉松</item>
-        <item>装备控</item>
-        <item>夜跑族</item>
-    </string-array>
 </resources>

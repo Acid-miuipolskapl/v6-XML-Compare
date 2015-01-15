@@ -764,7 +764,7 @@ This setting affects all users on this phone."</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-core</string>
-  <string name="device_cpu4_info">Quad-core</string>
+  <string name="device_cpu4_info">Octa-core</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
