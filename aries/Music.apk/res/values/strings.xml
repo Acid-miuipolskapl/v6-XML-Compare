@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">New</string>
   <string name="action_item_delete">Delete</string>
   <string name="action_item_download">Download</string>
+  <string name="action_item_hide">Hide</string>
   <string name="action_item_remove">Remove</string>
   <string name="action_item_send">Send</string>
   <string name="add_music">Add songs</string>
@@ -29,7 +30,7 @@
   <string name="button_add">Add</string>
   <string name="can_not_find_resource">"Can't find resources"</string>
   <string name="cancel">Cancel</string>
-  <string name="channel_list_fragment_title">FM</string>
+  <string name="channel_list_fragment_title">Radio</string>
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_stream_quality">Preferred stream quality</string>
   <string name="click_modify">Tap to edit lyrics.</string>
@@ -39,8 +40,8 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="delete_file_as_well">Delete local file as well</string>
-  <string name="delete_file_end">Delete the files completely</string>
-  <string name="delete_file_start">Start to delete the selected files</string>
+  <string name="delete_file_end">Delete permanently</string>
+  <string name="delete_file_start">Delete selected files</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_button_create_playlist">Create playlist</string>
@@ -81,7 +82,7 @@
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_page_no_album">No albums.</string>
   <string name="empty_page_no_artist">No artists.</string>
-  <string name="empty_page_no_document">No documents.</string>
+  <string name="empty_page_no_document">No documents contain audios.</string>
   <string name="empty_page_no_track">No songs.</string>
   <string name="enabled">Enabled</string>
   <string name="eq_auto">Custom</string>
@@ -122,6 +123,8 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimum length: "</string>
   <string name="filter_by_duration_summary">"Don't display short audio files"</string>
+  <string name="filter_by_folder">By folder</string>
+  <string name="filter_by_folder_summary">Choose folders to display</string>
   <string name="filter_by_size">By size</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -188,7 +191,7 @@
   <string name="network_failure">Check your connection and try again.</string>
   <string name="network_traffic">Data usage</string>
   <string name="no_favorites_songs">Empty</string>
-  <string name="no_file_picker_find">"File Manager isn't installed on this device"</string>
+  <string name="no_file_picker_find">"File Explorer isn't installed on this device"</string>
   <string name="no_introduction">No summary.</string>
   <string name="no_local_songs">Empty</string>
   <string name="no_local_songs_selected">"Can't send songs because they haven't been downloaded"</string>
@@ -219,18 +222,19 @@
   <string name="project_device">Mi Phone</string>
   <string name="project_device_mobile">Mobile device</string>
   <string name="quit_warining">Player will stop in %d minutes</string>
-  <string name="recommend_fragment_title">Topic</string>
+  <string name="recommend_fragment_title">Featured</string>
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
-  <string name="search_album">Search albums online</string>
-  <string name="search_hint">artists, albums, and songs</string>
-  <string name="search_lyric">Search lyrics online</string>
+  <string name="search_album">Search albums</string>
+  <string name="search_hint">Search</string>
+  <string name="search_lyric">Search lyrics</string>
   <string name="search_title">Search</string>
   <string name="search_title_album">Albums</string>
   <string name="search_title_singer">Artists</string>
   <string name="search_title_song">Songs</string>
   <string name="select_album">Choose album</string>
   <string name="select_device">Select device</string>
+  <string name="select_displayed_folders">Choose folders to display</string>
   <string name="select_local_album">Choose album</string>
   <string name="select_local_lyric">Choose lyrics</string>
   <string name="select_lyric">Choose lyrics</string>
@@ -238,7 +242,7 @@
   <string name="send_to_title">Send to (%1$s)</string>
   <string name="set_album_successful">Album saved</string>
   <string name="set_as_ring">Set as ringtone</string>
-  <string name="set_id3_failed">"Couldn't save info"</string>
+  <string name="set_id3_failed">"Can't save info"</string>
   <string name="set_id3_successful">Song info saved</string>
   <string name="set_lyric_successful">Lyrics saved</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>

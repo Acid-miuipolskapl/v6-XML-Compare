@@ -59,8 +59,8 @@
   <string name="auto_create_recent_album_confirm">"Gallery will clear favorite album data. Albums you've favorited manually will not be affected."</string>
   <string name="auto_create_recent_album_over_ten_times">An album will be marked as a favorite when you open it more than 10 times</string>
   <string name="auto_upload_album_comfirm_to_share">This album will be uploaded automatically.</string>
-  <string name="auto_upload_guide">Automatically upload your photos from other apps to Mi Cloud</string>
-  <string name="auto_upload_setting_toast">View additional options for this feature in Mi Cloud Settings</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatically upload your photos from other apps to Mi Cloud. View settings in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Gallery settings&amp;gt;Sync with Mi Cloud&amp;gt;Upload automatically&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Upload automatically</string>
   <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -729,7 +729,6 @@ with friends"</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Tap to view
 device"</string>
-  <string name="new_feature">New feature</string>
   <string name="no">No</string>
   <string name="no_albums_alert">No albums available</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems"</string>

@@ -181,6 +181,7 @@
   <string name="hint_search_sms">%d messages</string>
   <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
+  <string name="hms_uri_param_err">"Mipub URL's query parameter \"id\" can't be empty"</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
@@ -211,7 +212,7 @@
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_send_as_common">Sent as SMS</string>
+  <string name="menu_send_as_common">Send as SMS</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>

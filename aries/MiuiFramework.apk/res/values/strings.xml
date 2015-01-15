@@ -177,6 +177,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the orange area of the screen"</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
+  <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings &gt; Read mode.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
@@ -213,6 +214,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_network_type">Network</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.PreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_paper_mode">Read mode</string>
+  <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Perform</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
   <string name="status_bar_toggle_privacy_mode">Guest</string>

@@ -65,6 +65,7 @@
         <item>com.android.fileexplorer</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.cloudappbackup</item>
+        <item>com.miui.fmradio</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
