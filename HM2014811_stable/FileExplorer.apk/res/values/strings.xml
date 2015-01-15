@@ -41,7 +41,7 @@
   <string name="compress_fail">Compression failed: a file with the same name already exists.</string>
   <string name="compress_message">Compress to…</string>
   <string name="compress_title">Compress</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">Confirm</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Remind when accessing network</string>
   <string name="copy_failed">"Can't copy"</string>
@@ -58,7 +58,6 @@
   <string name="decompress_success">Extraction complete</string>
   <string name="decompress_to">Extract to…</string>
   <string name="decompress_to_here">Extract here;</string>
-  <string name="delete_dialog_button">Delete</string>
   <string name="delete_failed">"Can't delete"</string>
   <string name="delete_file">Delete this file?</string>
   <string name="delete_files">Delete %1$d files?</string>
@@ -206,7 +205,7 @@
   <string name="operation_create_folder_message">Name folder</string>
   <string name="operation_decompressing">Extracting…</string>
   <string name="operation_delete">Delete</string>
-  <string name="operation_delete_confirm_message">Delete?</string>
+  <string name="operation_delete_confirm_message">Delete folder?</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
   <string name="operation_deleting">Deleting…</string>
   <string name="operation_deleting_detail">Deleting (%1$d/%2$d)</string>

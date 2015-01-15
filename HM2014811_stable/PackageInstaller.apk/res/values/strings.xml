@@ -77,8 +77,8 @@ All existing user data will be saved."</string>
   <string name="uninstall_application_title">Uninstall this app?</string>
   <string name="uninstall_confirm_question">Uninstall this app?</string>
   <string name="uninstall_done">App uninstalled</string>
-  <string name="uninstall_failed">"Couldn't uninstall this app"</string>
-  <string name="uninstall_failed_device_policy_manager">"Can't uninstall package that is an active device administrator."</string>
+  <string name="uninstall_failed">"Can't uninstall this app"</string>
+  <string name="uninstall_failed_device_policy_manager">"Can't uninstall: this package is an active device administrator."</string>
   <string name="uninstall_failed_msg">%1$s could not be uninstalled</string>
   <string name="uninstall_failed_retained_app_msg">"This app has been modified and can't be uninstalled in its current form."</string>
   <string name="uninstall_update_text">App will be replaced with the original version.</string>

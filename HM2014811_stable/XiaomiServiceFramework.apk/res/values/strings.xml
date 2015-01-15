@@ -2,10 +2,10 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activate</string>
-  <string name="activate_feature_call_log_sync">Sync call history</string>
+  <string name="activate_feature_call_log_sync">Call log Sync</string>
   <string name="activate_feature_find_device">Find Device</string>
-  <string name="activate_feature_mms_sync">Sync SMS</string>
-  <string name="activate_feature_mx">Mi Message</string>
+  <string name="activate_feature_mms_sync">SMS Sync</string>
+  <string name="activate_feature_mx">Mi Messaging</string>
   <string name="activate_phone_failed_notif_title">"Couldn't activate SIM card"</string>
   <string name="activate_phone_failed_notif_title_msim">"Couldn't activate SIM card %s"</string>
   <string name="activate_popup_confirm_failed_phone_error">Retry</string>
@@ -78,7 +78,5 @@
 Device ID must be valid IMEI or MAC address. Without device id, some account and cloud features will be unavailable."</string>
   <string name="error_device_id_title">"Can't get valid Device ID"</string>
   <string name="sim_unactivated_title">Your SIM card is unactivated</string>
-  <string name="sync_notification_title_format">Current syncing item: %1$s</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">XMSF activate info</string>
 </resources>

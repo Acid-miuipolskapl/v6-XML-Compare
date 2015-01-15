@@ -40,7 +40,6 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressure</string>
   <string name="pressure_unit">hPa</string>
-  <string name="shake_enter_tip">Shake to calibrate</string>
   <string name="using_camera_confirm_cancel">Quit</string>
   <string name="using_camera_confirm_message">"Compass needs to use your device's network connection and camera to work normally."</string>
   <string name="using_camera_confirm_ok">Agree</string>

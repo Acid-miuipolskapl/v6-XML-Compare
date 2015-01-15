@@ -302,6 +302,8 @@
         <item>@drawable/action_bar_tab_bg_middle_normal_light</item>
         <item>@drawable/action_bar_tab_bg_middle_pressed_light</item>
         <item>@drawable/action_bar_tab_bg_middle_selected_light</item>
+        <item>@drawable/action_bar_title_stack_bg_dark</item>
+        <item>@drawable/action_bar_title_stack_bg_light</item>
         <item>@drawable/action_button_bg_first_disable_dark</item>
         <item>@drawable/action_button_bg_first_disable_light</item>
         <item>@drawable/action_button_bg_first_normal_dark</item>

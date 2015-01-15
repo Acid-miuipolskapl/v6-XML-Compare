@@ -2,7 +2,7 @@
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="action_mode_deselect_all">Unselect all</string>
+  <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
   <string name="action_mode_title_empty">Select items</string>
   <string name="activate">Activate</string>
@@ -414,7 +414,7 @@
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
-  <string name="mibi_license">Mi Credit Terms of Service</string>
+  <string name="mibi_license">Mi Credit User Agreement</string>
   <string name="midnight">AM</string>
   <string name="monday">Monday</string>
   <string name="monday_short">Mon</string>
@@ -464,9 +464,9 @@
   <string name="noon">PM</string>
   <string name="note">Note</string>
   <string name="organization">Organization</string>
-  <string name="perm_payment_dspt">Allow app to pay through Mi Pay Service</string>
-  <string name="perm_payment_lab">Mi Pay</string>
-  <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. This may result in unexpected charges from your carrier.</string>
+  <string name="perm_payment_dspt">Allow app to pay through Mi Payment Service</string>
+  <string name="perm_payment_lab">Mi Payment Service</string>
+  <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking you first. This may result in unexpected charges from your carrier.</string>
   <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
   <string name="phone">Phone</string>
   <string name="pm">PM</string>
@@ -520,7 +520,7 @@
   <string name="sunday">Sunday</string>
   <string name="sunday_short">Sun</string>
   <string name="sunday_shortest">S</string>
-  <string name="sync_one_time_sync">Touch to sync ( %1$s )</string>
+  <string name="sync_one_time_sync">Touch to sync（ %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -572,7 +572,7 @@
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>
   <string name="tuesday_shortest">T</string>
-  <string name="user_agreement">Terms of Service</string>
+  <string name="user_agreement">User Agreement</string>
   <string name="user_manual">User guide</string>
   <string name="website">Website</string>
   <string name="wednesday">Wednesday</string>

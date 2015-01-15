@@ -123,33 +123,25 @@
     </string-array>
     <string-array name="folder_drafts_name_array">
         <item>@string/folder_drafts_name_en1</item>
-        <item>@string/folder_drafts_name_en2</item>
         <item>@string/folder_drafts_name_cn0</item>
         <item>@string/folder_drafts_name_cn1</item>
-        <item>@string/folder_drafts_name_cn2</item>
     </string-array>
     <string-array name="folder_junk_name_array">
-        <item>@string/folder_junk_name_en1</item>
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
     </string-array>
     <string-array name="folder_sent_name_array">
         <item>@string/folder_sent_name_en1</item>
         <item>@string/folder_sent_name_en2</item>
-        <item>@string/folder_sent_name_en3</item>
-        <item>@string/folder_sent_name_en4</item>
         <item>@string/folder_sent_name_cn0</item>
         <item>@string/folder_sent_name_cn1</item>
         <item>@string/folder_sent_name_cn2</item>
-        <item>@string/folder_sent_name_cn3</item>
     </string-array>
     <string-array name="folder_trash_name_array">
         <item>@string/folder_trash_name_en1</item>
         <item>@string/folder_trash_name_en2</item>
-        <item>@string/folder_trash_name_en3</item>
         <item>@string/folder_trash_name_cn0</item>
         <item>@string/folder_trash_name_cn1</item>
-        <item>@string/folder_trash_name_cn2</item>
     </string-array>
     <string-array name="general_preference_text_zoom_entries">
         <item>@string/general_preference_text_zoom_tiny</item>
@@ -231,22 +223,6 @@
         <item>delete</item>
         <item>archive-and-delete</item>
     </string-array>
-    <string-array name="quote_devider_text_array">
-        <item>@string/quote_divider_apple</item>
-        <item>@string/quote_divider_qq_en</item>
-        <item>@string/quote_divider_qq_zh</item>
-        <item>@string/quote_divider_iphone_fwd_en</item>
-        <item>@string/quote_divider_iphone_fwd_zh</item>
-        <item>@string/quote_divider_1</item>
-        <item>@string/quote_divider_2</item>
-        <item>@string/quote_divider_3</item>
-        <item>@string/quote_divider_4</item>
-        <item>@string/quote_divider_5</item>
-        <item>@string/quote_divider_6</item>
-        <item>@string/quote_divider_7</item>
-        <item>@string/quote_divider_11</item>
-        <item>@string/quote_divider_12</item>
-    </string-array>
     <string-array name="send_inline_filter_array">
         <item>@string/eas_outlook_email</item>
         <item>@string/eas_hotmail_email</item>
@@ -259,73 +235,10 @@
         <item>25</item>
         <item>25</item>
     </integer-array>
-    <string-array name="signature_normal_string_array">
-        <item>Blog:</item>
-        <item>Site:</item>
-        <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
-        <item>T:</item>
-        <item>www.</item>
-        <item>F:</item>
-        <item>E:</item>
-        <item>E-mail:</item>
-        <item>Tel:</item>
-        <item>Fax:</item>
-        <item>Mail:</item>
-        <item>QQ:</item>
-        <item>MSN:</item>
-    </string-array>
-    <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
-        <item>Email:</item>
-        <item>Mobile:</item>
-        <item>WeChat:</item>
-        <item>Fax:</item>
-        <item>Postal Code:</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-    </string-array>
-    <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
-    </string-array>
     <string-array name="smtp_host_prefixes">
         <item>pop3</item>
         <item>pop</item>
         <item>imap</item>
-    </string-array>
-    <string-array name="special_text_colon_array">
-        <item>@string/special_text_colon_en</item>
-        <item>@string/special_text_colon_zh</item>
-    </string-array>
-    <string-array name="special_text_sender_array">
-        <item>@string/special_text_sender_zh</item>
-        <item>@string/special_text_sender_en</item>
-    </string-array>
-    <string-array name="special_text_wroted_array">
-        <item>@string/special_text_1</item>
-        <item>@string/special_text_2</item>
-        <item>@string/special_text_3</item>
-        <item>@string/special_text_4</item>
-        <item>@string/special_text_5</item>
     </string-array>
     <string-array name="sync_status">
         <item>Sync succeeded.</item>

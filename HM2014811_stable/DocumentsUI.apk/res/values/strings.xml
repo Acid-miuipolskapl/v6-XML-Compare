@@ -35,4 +35,5 @@
   <string name="title_save">Save to</string>
   <string name="toast_failed_delete">Unable to delete some documents</string>
   <string name="toast_no_application">"Can't open file"</string>
+  <string name="toast_not_show_thumbnail">Can not show thumbnail on low ram device.</string>
 </resources>

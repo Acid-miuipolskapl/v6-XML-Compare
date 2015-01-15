@@ -138,7 +138,6 @@
     </string-array>
     <string-array name="config_statusBarIcons">
         <item>headset</item>
-        <item>mikey</item>
         <item>call_record</item>
         <item>privacy_mode</item>
         <item>ble_unlock_mode</item>
@@ -148,14 +147,12 @@
         <item>ime</item>
         <item>sync_failing</item>
         <item>sync_active</item>
-        <item>cast</item>
         <item>location</item>
         <item>bluetooth</item>
         <item>bluetooth_handsfree_battery</item>
         <item>nfc</item>
         <item>tty</item>
         <item>speakerphone</item>
-        <item>zen</item>
         <item>mute</item>
         <item>volume</item>
         <item>wifi</item>
@@ -210,13 +207,15 @@
         <item>14</item>
     </integer-array>
     <string-array name="config_tether_usb_regexs">
-        <item>rndis0</item>
+        <item>usb\\d</item>
+        <item>rndis\\d</item>
     </string-array>
     <string-array name="config_tether_wifi_regexs">
         <item>wlan0</item>
     </string-array>
     <array name="config_tether_wimax_regexs" />
     <string-array name="config_tether_bluetooth_regexs">
+        <item>bnep\\d</item>
         <item>bt-pan</item>
     </string-array>
     <array name="config_tether_dhcp_range" />
@@ -224,9 +223,9 @@
     <integer-array name="config_tether_upstream_types">
         <item>0</item>
         <item>1</item>
+        <item>4</item>
         <item>5</item>
         <item>7</item>
-        <item>9</item>
     </integer-array>
     <array name="config_cdma_dun_supported_types" />
     <array name="config_usbHostBlacklist" />
@@ -267,44 +266,40 @@
         <item>10</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>20</item>
-        <item>100</item>
+        <item>8</item>
         <item>200</item>
         <item>500</item>
         <item>800</item>
-        <item>1000</item>
-        <item>1200</item>
+        <item>1300</item>
         <item>1800</item>
-        <item>2500</item>
+        <item>2200</item>
+        <item>3200</item>
+        <item>3800</item>
+        <item>4800</item>
+        <item>5500</item>
+        <item>7500</item>
+        <item>10000</item>
+        <item>30000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>6</item>
-        <item>20</item>
-        <item>50</item>
-        <item>90</item>
+        <item>10</item>
+        <item>38</item>
+        <item>38</item>
+        <item>38</item>
+        <item>38</item>
+        <item>64</item>
+        <item>64</item>
         <item>100</item>
-        <item>110</item>
-        <item>140</item>
+        <item>100</item>
+        <item>150</item>
+        <item>150</item>
         <item>180</item>
-        <item>220</item>
+        <item>180</item>
+        <item>255</item>
         <item>255</item>
     </integer-array>
-    <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="config_autoBrightnessKeyboardBacklightValues">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
+    <array name="config_autoBrightnessButtonBacklightValues" />
+    <array name="config_autoBrightnessKeyboardBacklightValues" />
     <string-array name="config_locationProviderPackageNames">
         <item>com.android.location.fused</item>
         <item>com.google.android.gms</item>
@@ -352,30 +347,15 @@
         <item>333</item>
         <item>353</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
-    <array name="common_nicknames" />
-    <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
-    <array name="carrier_properties" />
     <string-array name="app_ops_labels">
         <item>Trying to access location</item>
         <item>Trying to access location</item>
         <item>Trying to access location</item>
         <item>Trying to use vibrate</item>
         <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
+        <item>Trying to write contacts</item>
         <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
+        <item>Trying to write call log</item>
         <item>Trying to read calendar</item>
         <item>Trying to modify calendar</item>
         <item>Trying to access location</item>
@@ -383,14 +363,14 @@
         <item>Trying to access location</item>
         <item>Trying to make phone call</item>
         <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
+        <item>Trying to write SMS</item>
         <item>Trying to receive SMS</item>
         <item>Trying to receive SMS</item>
         <item>Trying to receive SMS</item>
         <item>Trying to receive SMS</item>
         <item>Trying to send SMS</item>
         <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
+        <item>Trying to write SMS</item>
         <item>Trying to modify settings</item>
         <item>Trying to draw on top</item>
         <item>Trying to access notifications</item>
@@ -411,28 +391,46 @@
         <item>Trying to Keep device awake</item>
         <item>Trying to access location</item>
         <item>Trying to access location</item>
-        <item>Trying to turn on/off Wifi</item>
+        <item>Trying to turn on/off WLAN</item>
         <item>Trying to turn on/off bluetooth</item>
         <item>Trying to turn on/off mobile data</item>
         <item>Trying to send MMS</item>
         <item>Trying to read MMS</item>
         <item>Trying to write MMS</item>
         <item>Trying to start at bootup</item>
+        <item>Trying to turn on/off NFC</item>
+        <item>Trying to delete SMS</item>
+        <item>Trying to delete MMS</item>
+        <item>Trying to delete contacts</item>
+        <item>Trying to delete call log</item>
     </string-array>
-    <integer-array name="config_manualBrightnessRemapIn">
-        <item>2</item>
-        <item>30</item>
-        <item>60</item>
-        <item>128</item>
-        <item>192</item>
-        <item>255</item>
+    <array name="sim_icons">
+        <item>@drawable/ic_sim_icon_1</item>
+        <item>@drawable/ic_sim_icon_2</item>
+        <item>@drawable/ic_sim_icon_c</item>
+        <item>@drawable/ic_sim_icon_g</item>
+        <item>@drawable/ic_sim_icon_w</item>
+        <item>@null</item>
+    </array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
     </integer-array>
-    <integer-array name="config_manualBrightnessRemapOut">
-        <item>2</item>
-        <item>8</item>
-        <item>20</item>
-        <item>60</item>
-        <item>120</item>
-        <item>255</item>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
     </integer-array>
+    <array name="common_nicknames" />
+    <string-array name="new_search_engines">
+        <item>--</item>
+        <item>baidu--baidu--baidu.com--search_engine_baidu--http://m.baidu.com/s?ie=utf8&amp;word={searchTerms}--UTF-8--http://suggestion.baidu.com/su?wd={searchTerms}</item>
+        <item>google--Google--google.com--search_engine_google--http://www.google.com/m?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}--UTF-8--http://www.google.com/complete/search?hl={language}&amp;json=true&amp;q={searchTerms}</item>
+        <item>bing--Bing--bing.com--search_engine_bing--http://www.bing.com/search?q={searchTerms}--UTF-8--http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <array name="carrier_properties" />
 </resources>
