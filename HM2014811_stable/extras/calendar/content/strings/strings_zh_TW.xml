@@ -1,0 +1,10 @@
+<strings>
+    <string name="MON" value="一"/>
+    <string name="TUE" value="二"/>
+    <string name="WED" value="三"/>
+    <string name="THU" value="四"/>
+    <string name="FRI" value="五"/>
+    <string name="SAT" value="六"/>
+    <string name="SUN" value="日"/>
+	<string name="language" value="zh_TW"/>
+</strings>
