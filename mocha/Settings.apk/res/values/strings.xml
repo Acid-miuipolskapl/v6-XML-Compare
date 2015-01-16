@@ -763,6 +763,7 @@ Since data usage is measured by your pad, and your carrier may account for usage
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
+  <string name="device_cpu8_info">Octa-core</string>
   <string name="device_edit_title">Rename pad</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
