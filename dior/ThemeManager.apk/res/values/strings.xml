@@ -204,6 +204,7 @@
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
   <string name="resource_pack_price_info">Original price: %1$s</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>

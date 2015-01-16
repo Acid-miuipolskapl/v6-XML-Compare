@@ -18,11 +18,11 @@
   <string name="add_to_cloud_space_full_message">Cloud album is full</string>
   <string name="add_to_cloud_successfully_message">Added to cloud album</string>
   <string name="add_to_cloud_type_not_support_message">"This file type isn't supported"</string>
-  <string name="add_to_cloud_unfinished_message_with_count">%1$s items are not added to cloud</string>
+  <string name="add_to_cloud_unfinished_message_with_count">"%1$s items weren't added to Mi Cloud"</string>
   <string name="add_to_cloud_unknow_reasons">Unknown error</string>
-  <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to secret: %1$s."</string>
-  <string name="add_to_secret_successfully_message">Added to secret album</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s items are not added to secret</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to hidden album. %1$s."</string>
+  <string name="add_to_secret_successfully_message">Added to hidden album</string>
+  <string name="add_to_secret_unfinished_message_with_count">"%1$s items weren't added to hidden album."</string>
   <string name="adding_recipients">Adding recipients…</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">Album name</string>
@@ -44,9 +44,9 @@
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to turn on sync first.</string>
-  <string name="alert_secret_album_message">Swipe up at the bottom of your albums to view the secret album. In order to protect it, You need set a pattern.</string>
-  <string name="alert_secret_album_set_pattern">Set a pattern</string>
-  <string name="alert_secret_album_title">Added to secret album</string>
+  <string name="alert_secret_album_message">Swipe down at the bottom of your albums in Mi Cloud to hidden albums.</string>
+  <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
+  <string name="alert_secret_album_title">Added to hidden album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
@@ -59,8 +59,8 @@
   <string name="auto_create_recent_album_confirm">"Gallery will clear favorite album data. Albums you've favorited manually will not be affected."</string>
   <string name="auto_create_recent_album_over_ten_times">An album will be marked as a favorite when you open it more than 10 times</string>
   <string name="auto_upload_album_comfirm_to_share">This album will be uploaded automatically.</string>
-  <string name="auto_upload_guide">Automatically upload your photos from other apps to Mi Cloud</string>
-  <string name="auto_upload_setting_toast">View additional options for this feature in Mi Cloud Settings</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatically upload your photos from other apps to Mi Cloud. View settings in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Gallery settings&amp;gt;Sync with Mi Cloud&amp;gt;Upload automatically&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Upload automatically</string>
   <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
@@ -729,7 +729,6 @@ with friends"</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">"Tap to view
 device"</string>
-  <string name="new_feature">New feature</string>
   <string name="no">No</string>
   <string name="no_albums_alert">No albums available</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems"</string>
@@ -752,13 +751,13 @@ device"</string>
   <string name="open_public_title">Share</string>
   <string name="open_single_image_failure">"Can't load image"</string>
   <string name="open_sync_title">Enable sync</string>
-  <string name="operation_add_picture">Add pictures</string>
-  <string name="operation_add_secret">Add secret</string>
+  <string name="operation_add_picture">Add photos</string>
+  <string name="operation_add_secret">Add to hidden album</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_in_process">Processing…</string>
   <string name="operation_refresh">Refresh</string>
-  <string name="operation_remove_secret">Remove secret</string>
+  <string name="operation_remove_secret">Remove from hidden album</string>
   <string name="operation_rename">Rename</string>
   <string name="operation_set_as_screensaver">Set as screensaver</string>
   <string name="operation_share">Share</string>
@@ -821,9 +820,9 @@ device"</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
   <string name="refocus_data_downloading">Downloading refocusing data…</string>
-  <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from secret: %1$s."</string>
-  <string name="remove_from_secret_successfully_message">Removed from secret album</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s items are not removed from secret</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from hidden album. %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Removed from hidden album</string>
+  <string name="remove_from_secret_unfinished_message_with_count">"%1$s items weren't removed from hidden album."</string>
   <string name="remove_hidden_album">Unhide</string>
   <string name="remove_recent_album">Remove from favorites</string>
   <string name="rename_failed">"Couldn't rename"</string>

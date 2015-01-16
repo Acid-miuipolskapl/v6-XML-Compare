@@ -34,7 +34,7 @@
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
-  <string name="audio_download_failed">audio download failed</string>
+  <string name="audio_download_failed">"Can't download audio"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
@@ -181,6 +181,7 @@
   <string name="hint_search_sms">%d messages</string>
   <string name="hms_add_image_progress_message">Working…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
+  <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
@@ -211,7 +212,7 @@
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_send_as_common">Sent as SMS</string>
+  <string name="menu_send_as_common">Send as SMS</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
