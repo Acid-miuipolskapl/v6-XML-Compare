@@ -425,8 +425,8 @@ Switch to the new provider anyway?"</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
   <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
   <string name="hac_mode_title">Hearing aids</string>
-  <string name="handon_ringer_summary">Stop vibrating for an incoming call when you raise the phone</string>
-  <string name="handon_ringer_title">Stop vibrating when lifted</string>
+  <string name="handon_ringer_summary">"Reduce ringer volume for incoming call when phone is raised. This feature doesn't work when vibration for incoming calls is on."</string>
+  <string name="handon_ringer_title">Quiet ringer when lifted</string>
   <string name="importAllSimEntries">Import all</string>
   <string name="importSimEntry">Import</string>
   <string name="importToFDNfromContacts">Import from contacts</string>
@@ -758,11 +758,20 @@ There are %d remaining attempts."</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
   <string name="pin2_invalid">Invalid PIN2!</string>
   <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
+  <string name="pin2_lock_warning">"
+PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN2 unblock succeeded</string>
   <string name="pin_changed">SIM PIN changed successfully.</string>
   <string name="pin_failed">The PIN you typed was incorrect.</string>
   <string name="pin_length_indicate">(4-8 digits)</string>
+  <string name="pin_lock_warning">"
+Your phone will be locked automatically after another failed attempt"</string>
+  <string name="pin_progress_change_pin">Changing PIN…</string>
+  <string name="pin_progress_change_pin2">Changing PIN2…</string>
+  <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
+  <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
+  <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
   <string name="place_a_call1">Subscription 1</string>
   <string name="place_a_call2">Subscription 2</string>
   <string name="place_a_call3">Subscription 3</string>
@@ -832,8 +841,12 @@ There are %d remaining attempts."</string>
   <string name="proxy_address_title">Outbound proxy address</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_blocked">PUK2 is permanently blocked.</string>
+  <string name="puk2_label">Input PUK2 code</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. PUK2 requested.</string>
+  <string name="puk_label">Input PUK code</string>
   <string name="puk_length_indicate">(8 digits)</string>
+  <string name="puk_lock_warning">"
+Your SIM card will be erased after another failed attempt."</string>
   <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
   <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
