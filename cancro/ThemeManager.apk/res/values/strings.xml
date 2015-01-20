@@ -157,6 +157,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
+  <string name="resource_download_notification_content">Click to check</string>
+  <string name="resource_download_notification_title_many">Download %1$s themes success!</string>
+  <string name="resource_download_notification_title_one">Download theme success!</string>
   <string name="resource_download_trial">Try for free</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
@@ -261,7 +264,6 @@
   <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
   <string name="settings">Settings</string>
   <string name="short_ringtone_resource">Short</string>
-  <string name="theme_batch_has_update_text">Updates available for %1$d themes.</string>
   <string name="theme_batch_update_all">Update all</string>
   <string name="theme_batch_update_dlg_content">Update %1$s and %2$d other themes now?</string>
   <string name="theme_batch_update_dlg_content_single">Update %1$s now?</string>
@@ -313,11 +315,12 @@
   <string name="theme_purchased_non_local">Online</string>
   <string name="theme_select_others">Browse</string>
   <string name="theme_user_agreement_allow">Agree</string>
-  <string name="theme_user_agreement_content1">"By using this service, you agree to the terms stated in our "</string>
+  <string name="theme_user_agreement_content1">"By using this product, you're agreeing to our "</string>
   <string name="theme_user_agreement_content2">User Agreement</string>
   <string name="theme_user_agreement_content3">" and "</string>
   <string name="theme_user_agreement_content4">Privacy Policy</string>
-  <string name="theme_user_agreement_content5">.</string>
+  <string name="theme_user_agreement_content5">". This app needs to connect to the internet to work normally. "</string>
+  <string name="theme_user_agreement_exit">Exit</string>
   <string name="theme_user_agreement_remind_again">Show Terms of Use</string>
   <string name="theme_user_agreement_remind_never">"Don't show again"</string>
   <string name="theme_user_agreement_remind_summary">Show the Terms of Use prompt every time you open Themes. This setting will take effect after you reboot your device.</string>

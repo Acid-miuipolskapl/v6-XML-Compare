@@ -107,7 +107,8 @@ For more info check the message you received from your carrier"</string>
   <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
-  <string name="lock_screen_traffic_warn_title">Data usage warning</string>
+  <string name="lock_screen_traffic_notify_body">Data usage when screen off: %s</string>
+  <string name="lock_screen_traffic_warn_title">Data usage warning when screen off</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">"Data limit hasn't been set"</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
@@ -155,8 +156,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_control">View app settings</string>
   <string name="none_mi_service_app_detail">Empty</string>
-  <string name="notification_content_title">Used %1$s while locked</string>
-  <string name="notification_title">%1$s-%2$s: about %3$s used</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">News</string>
@@ -331,6 +330,9 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_none">None</string>
+  <string name="traffic_over_purchase_body">Touch to view details.</string>
+  <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier could charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_protection_data_usage_summary">"Set data usage alerts to avoid exceeding your carrier plan's monthly data limits."</string>
   <string name="traffic_protection_label">Data usage warning</string>
   <string name="traffic_protection_next">Next</string>
@@ -338,6 +340,8 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_protection_text_hint">Set data usage limit for %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Set up later&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Data enabled</string>
+  <string name="traffic_purchase_body">Save 50% when you top up now.</string>
+  <string name="traffic_purchse_suggestion">Time to top up</string>
   <string name="traffic_saving_button_sorted">Details</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
   <string name="traffic_saving_button_start">Turn on</string>
@@ -370,6 +374,13 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
+  <string name="traffic_setting_app_count">%d apps</string>
+  <string name="traffic_setting_completed">OK</string>
+  <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
+  <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
+  <string name="traffic_setting_extra_pkg_title">Additional settings</string>
+  <string name="traffic_setting_extra_traffic_title">Additional settings</string>
   <string name="traffic_setting_fragment_area">Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button1_text">Cancel</string>
@@ -385,6 +396,9 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_setting_fragment_sms_content_tips">Write your message here</string>
   <string name="traffic_setting_fragment_template">Message template</string>
   <string name="traffic_setting_fragment_title">Data usage query</string>
+  <string name="traffic_setting_open">On</string>
+  <string name="traffic_setting_step_num">Data plan settings</string>
+  <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>
   <string name="usage_sorted_loading_text">Loading…</string>

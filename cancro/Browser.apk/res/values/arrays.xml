@@ -515,6 +515,10 @@
         <item>冲浪网址</item>
         <item>http://go.10086.cn/rd/go/dh/</item>
     </string-array>
+    <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+    </string-array>
     <string-array name="pref_ua_values">
         <item>0</item>
         <item>1</item>
