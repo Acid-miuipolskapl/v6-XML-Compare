@@ -739,7 +739,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="debug_intent_sender_label">Debug intent sender</string>
   <string name="debug_layout">Show layout bounds</string>
   <string name="debug_layout_summary">Show clip bounds, margins, etc.</string>
-  <string name="debug_log">User experience program</string>
+  <string name="debug_log">User Experience Program</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="default_date_format">MM/dd/yyyy</string>
   <string name="default_input_method">Choose default input method</string>
@@ -1029,8 +1029,8 @@ If your system's text is still too small, try using "</string>
   <string name="global_locale_change_title">Change language</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
-  <string name="handy_mode">Reachability</string>
-  <string name="handy_mode_enable">Reachability</string>
+  <string name="handy_mode">One-handed mode</string>
+  <string name="handy_mode_enable">One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
   <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
@@ -2381,7 +2381,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
   <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
-  <string name="upload_debug_log_title">User experience program</string>
+  <string name="upload_debug_log_title">User Experience Program</string>
   <string name="usage_log">App usage statistics</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Usage statistics</string>

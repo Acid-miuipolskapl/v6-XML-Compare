@@ -153,6 +153,7 @@
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
+  <string name="festival_networking_title">Notice</string>
   <string name="festival_never_remind">"Don't show again"</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
