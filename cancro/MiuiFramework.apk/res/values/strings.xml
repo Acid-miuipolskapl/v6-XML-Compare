@@ -3,6 +3,7 @@
   <string name="alwaysUsePrompt">Remember this choice</string>
   <string name="android_activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
   <string name="android_activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
+  <string name="android_add_account_label">@android:string/add_account_label</string>
   <string name="android_aerr_application">@android:string/aerr_application</string>
   <string name="android_aerr_process">@android:string/aerr_process</string>
   <string name="android_aerr_title">@android:string/aerr_title</string>
