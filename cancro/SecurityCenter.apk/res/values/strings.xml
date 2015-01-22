@@ -572,6 +572,7 @@
   <string name="pref_title_open_optimizer_cloud_scan">Upload</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
+  <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
   <string name="preference_key_about_version">key_about_version</string>
   <string name="preference_key_app_permission_control">key_app_permission_control</string>
   <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
@@ -616,6 +617,7 @@
   <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
   <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
   <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
+  <string name="preference_screen_key_virus_settings">key_screen_virus_settings</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="protection_category_dangerous_title">Risks (%d)</string>
