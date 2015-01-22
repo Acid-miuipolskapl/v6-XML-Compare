@@ -267,6 +267,7 @@
   <string name="pref_camera_recordlocation_entry_on">On</string>
   <string name="pref_camera_recordlocation_title">Save location</string>
   <string name="pref_camera_referenceline_title">Show gridlines</string>
+  <string name="pref_camera_saturation_cm_test_default">4</string>
   <string name="pref_camera_saturation_default">middle</string>
   <string name="pref_camera_saturation_title">Saturation</string>
   <string name="pref_camera_scenemode_default">auto</string>
@@ -415,7 +416,7 @@
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="save">Yes</string>
   <string name="see_qrcode_detals">View details</string>
-  <string name="setting_top_text">Shooting Modes</string>
+  <string name="setting_top_text">Camera modes</string>
   <string name="simple_mode_button_asd_flash">Close Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Close HDR capture</string>
   <string name="simple_mode_button_text_audio_capture">Close audio capture</string>

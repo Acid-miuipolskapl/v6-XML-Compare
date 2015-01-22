@@ -1632,6 +1632,7 @@ Select your operating system:"</string>
   <string name="power_autorun_empty">Empty</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
+  <string name="power_center">Power</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
