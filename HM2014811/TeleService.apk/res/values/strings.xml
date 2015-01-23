@@ -733,8 +733,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="simContacts_airplaneMode">To import contacts from the SIM card, turn off Airplane mode.</string>
   <string name="simContacts_emptyLoading">Reading…</string>
   <string name="simContacts_title">Manage SIM card contacts</string>
-  <string name="sim_cards_network_mode_changed_summary">Touch to view SMS and call settings.</string>
-  <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
