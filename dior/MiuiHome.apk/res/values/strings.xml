@@ -2,6 +2,22 @@
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="app_being_backup_message">App is being backed up</string>
+  <string name="app_category_books">Books</string>
+  <string name="app_category_education">Education</string>
+  <string name="app_category_entertainment">Entertainment</string>
+  <string name="app_category_finance">Finance</string>
+  <string name="app_category_games">Games</string>
+  <string name="app_category_health">Health</string>
+  <string name="app_category_lifestyle">Lifestyle</string>
+  <string name="app_category_music_movie">Music &amp; Video</string>
+  <string name="app_category_news">News</string>
+  <string name="app_category_photos">Photos</string>
+  <string name="app_category_productivity">Productivity</string>
+  <string name="app_category_shopping">Shopping</string>
+  <string name="app_category_social">Social</string>
+  <string name="app_category_sport">Sports</string>
+  <string name="app_category_tools">Tools</string>
+  <string name="app_category_travel">Travel</string>
   <string name="application_name">System launcher</string>
   <string name="apply_action">Apply</string>
   <string name="apply_as_lock_screen">Lock screen</string>
@@ -113,7 +129,7 @@
   <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
   <string name="loading_desktop">Just a sec…</string>
-  <string name="local_wallpaper">Local</string>
+  <string name="local_wallpaper">Downloaded</string>
   <string name="lock_screen_failed_message">"Can't apply lock screen wallpaper"</string>
   <string name="lock_screen_success_message">Applied to lock screen</string>
   <string name="menu_add">Add</string>

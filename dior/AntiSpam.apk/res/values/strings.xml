@@ -296,6 +296,7 @@ Note that sometimes these calls maybe useful (e.g. when you're actually looking 
   <string name="st_title_settings_other_group">Additional settings</string>
   <string name="st_title_show_antispamnotification">Blocklist notifications</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+  <string name="st_title_sim_unknown">Unknown</string>
   <string name="st_title_whitelist_numbers">Exceptions</string>
   <string name="sure">OK</string>
   <string name="tab_blacklist">Blocklist</string>

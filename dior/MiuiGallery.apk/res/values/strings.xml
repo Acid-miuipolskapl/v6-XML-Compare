@@ -44,7 +44,7 @@
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to turn on sync first.</string>
-  <string name="alert_secret_album_message">Swipe down at the bottom of your albums in Mi Cloud to hidden albums.</string>
+  <string name="alert_secret_album_message">Swipe down at the bottom of your albums in Mi Cloud to view hidden albums.</string>
   <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
   <string name="alert_secret_album_title">Added to hidden album</string>
   <string name="already_apply_album">Open %1$s?</string>
@@ -90,6 +90,7 @@
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album."</string>
+  <string name="choose_cloud_album">Choose album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>

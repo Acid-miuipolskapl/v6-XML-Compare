@@ -31,7 +31,7 @@
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Restart</string>
   <string name="provision_inputmethod_policy_description">"
-View the selected keyboard's"</string>
+View the selected keyboard's "</string>
   <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
   <string name="setting_locale">Setting location…</string>
   <string name="shut_down">Shut down</string>
