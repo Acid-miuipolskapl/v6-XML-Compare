@@ -247,6 +247,7 @@
   <string name="set_lyric_successful">Lyrics saved</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
   <string name="set_ringtones_successful">%s set as ringtone</string>
+  <string name="similar_songs">Similar songs</string>
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_canceled">Sleep mode turned off</string>
   <string name="sleep_mode_summary">Stop player after an elapsed time</string>

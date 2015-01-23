@@ -90,6 +90,7 @@
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album."</string>
+  <string name="choose_cloud_album">Choose album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
