@@ -107,8 +107,10 @@ For more info check the message you received from your carrier"</string>
   <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
-  <string name="lock_screen_traffic_notify_body">Data usage when screen off: %s</string>
+  <string name="lock_screen_setting_summary">Show notification after 100KB has been used</string>
+  <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
   <string name="lock_screen_traffic_warn_title">Data usage warning when screen off</string>
+  <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">"Data limit hasn't been set"</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
@@ -156,6 +158,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_control">View app settings</string>
   <string name="none_mi_service_app_detail">Empty</string>
+  <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
+  <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
+  <string name="notify_daily_limit_title">Set a daily data limit</string>
+  <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
+  <string name="notify_setting_pkg_title">Set your monthly data limit</string>
+  <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">News</string>
@@ -244,7 +252,6 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_whitelist_setting">Exceptions</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms and Conditions</string>
-  <string name="privacy_prompt_purchase_history_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get your mobile data purchase history."</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers in order to update your data usage info."</string>
   <string name="privacy_prompt_traffic_adjust_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to update SMS query templates and to check if this feature is available in your area."</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Xiaomi's servers to get more info about data purchasing options."</string>
@@ -304,6 +311,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
   <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
+  <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Don't know your limit?"</string>
   <string name="tips_message">"If you're unclear about the details of your wireless plan, you can view them by dialing %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
@@ -329,6 +339,10 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
+  <string name="traffic_limit_error_alert_body">"You carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+  <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_reset">Reset limit</string>
+  <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
   <string name="traffic_over_purchase_body">Touch to view details.</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier could charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Top up now and save 50%.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -398,6 +412,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_setting_open">On</string>
   <string name="traffic_setting_step_num">Data plan settings</string>
+  <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
   <string name="traffic_warning_purchase_title">Remaining balance is less than %d%%</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>

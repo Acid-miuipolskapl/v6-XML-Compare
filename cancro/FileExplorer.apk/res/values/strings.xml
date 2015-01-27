@@ -139,6 +139,7 @@
   <string name="menu_item_sort_size">Size</string>
   <string name="menu_item_sort_type">Type</string>
   <string name="menu_list_name">Menu</string>
+  <string name="mi_router_label">Mi Router</string>
   <string name="migrate_announcement_msg">Sync your existing KuaiPan account with your Mi Account in KuaiPan settings.</string>
   <string name="migrate_announcement_title">Move complete</string>
   <string name="mobile_photo">Phone photos</string>
@@ -175,7 +176,7 @@
   <string name="name_illegal">You must enter a name.</string>
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
-  <string name="network_connect_confirm_des">We will access network for using kuaipan, agree?</string>
+  <string name="network_connect_confirm_des">We will access network for using fileexplorer, agree?</string>
   <string name="never_notify_network_connect">"Don't show me this again"</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="no">No</string>
@@ -294,6 +295,7 @@ Free space added %1$s"</string>
   <string name="upload_failed">Upload failed</string>
   <string name="upload_file_toolarge_message">"%1$d failed to upload: you can't upload files larger than 300Mb."</string>
   <string name="uploading">Uploading</string>
+  <string name="usb_label">USB</string>
   <string name="used">Used</string>
   <string name="user_guide">Learn more about KuaiPan</string>
   <string name="user_guide_continue_use">OK</string>

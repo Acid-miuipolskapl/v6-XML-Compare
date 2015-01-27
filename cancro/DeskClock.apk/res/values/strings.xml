@@ -69,6 +69,8 @@
   <string name="menu_desk_clock">Desk clock</string>
   <string name="menu_edit_timer_item">Edit timer task</string>
   <string name="menu_item_dock_settings">Dock settings</string>
+  <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+  <string name="menu_item_sort_by_name">Sort by name</string>
   <string name="minute">1 minute</string>
   <string name="minutes">%s minutes</string>
   <string name="never">Once</string>

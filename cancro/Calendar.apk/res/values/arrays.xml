@@ -361,9 +361,9 @@
         <item>18th</item>
         <item>19th</item>
         <item>20th</item>
-        <item>21th</item>
-        <item>22th</item>
-        <item>23th</item>
+        <item>21st</item>
+        <item>22nd</item>
+        <item>23rd</item>
         <item>24th</item>
         <item>25th</item>
         <item>26th</item>
@@ -371,7 +371,7 @@
         <item>28th</item>
         <item>29th</item>
         <item>30th</item>
-        <item>31th</item>
+        <item>31st</item>
     </string-array>
     <string-array name="repeat_choose_weekday">
         <item>Mon</item>
@@ -387,14 +387,14 @@
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>Mar</item>
+        <item>May</item>
         <item>Jun</item>
         <item>Jul</item>
         <item>Aug</item>
         <item>Sep</item>
         <item>Oct</item>
-        <item>Dec</item>
         <item>Nov</item>
+        <item>Dec</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>first</item>
@@ -413,4 +413,40 @@
         <item>Time</item>
         <item>Count</item>
     </string-array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
 </resources>
