@@ -120,6 +120,7 @@
   <string name="fw_blocked_count">"Blocked "</string>
   <string name="fw_blocked_join">" and "</string>
   <string name="hint_antispam_mode_edit">Custom mode</string>
+  <string name="info_antispam_close">AntiSpam Off</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Block calls</string>
   <string name="info_antispam_phone_sms">Block calls and messages</string>
@@ -130,20 +131,19 @@
   <string name="label_callwait">Call waiting notification</string>
   <string name="loding">Loading data</string>
   <string name="log_count">(%d)</string>
-  <string name="mark_agent">Sales</string>
-  <string name="mark_agent_block">Reported as agent</string>
-  <string name="mark_banking_insurance">Insurance sales</string>
+  <string name="mark_agent">Intermediary</string>
+  <string name="mark_agent_block">Reported as intermediary</string>
+  <string name="mark_banking_insurance">Investment &amp; Insurance</string>
   <string name="mark_banking_insurance_block">Reported as insurance sales</string>
   <string name="mark_express">Courier</string>
   <string name="mark_express_block">Reported as courier</string>
-  <string name="mark_fraud">Fraud</string>
+  <string name="mark_fraud">Fraudulent</string>
   <string name="mark_fraud_block">Reported as fraud</string>
-  <string name="mark_meal">Food delivery</string>
-  <string name="mark_meal_block">Reported as food delivery</string>
-  <string name="mark_number_info">"
-Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
-  <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Reported as telemarketer</string>
+  <string name="mark_meal">Meal delivery</string>
+  <string name="mark_meal_block">Reported as meal delivery</string>
+  <string name="mark_number_info">"Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
+  <string name="mark_sell">Sales</string>
+  <string name="mark_sell_block">Reported as sales</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="menu_add">Add</string>

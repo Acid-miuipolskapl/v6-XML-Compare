@@ -89,6 +89,7 @@
   <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
   <string name="badPin2">"The old PIN2 you typed isn't correct. Try again."</string>
   <string name="badPuk2">"The PUK2 you typed isn't correct. Try again."</string>
+  <string name="bad_pin2">The old PIN2 you entered is incorrect.</string>
   <string name="bf_news_settings">Business and Financial News</string>
   <string name="buttonTxtContinue">Continue</string>
   <string name="callDurationFormat">%1$s mins %2$s secs</string>

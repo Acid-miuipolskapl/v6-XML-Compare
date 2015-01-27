@@ -256,8 +256,8 @@
   <string name="repeat_custom_prompt_splitter">", "</string>
   <string name="repeat_custom_string_prefix">Custom</string>
   <string name="repeat_custom_string_suffix">" (%1$s)"</string>
-  <string name="repeat_end_label">Repeat end</string>
-  <string name="repeat_end_times_unit"/>
+  <string name="repeat_end_label">Stop repeating after</string>
+  <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
   <string name="repeat_interval_frequency">%1$d %2$ss</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
