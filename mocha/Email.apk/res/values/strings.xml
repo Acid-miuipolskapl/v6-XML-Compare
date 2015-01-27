@@ -388,7 +388,7 @@
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
   <string name="donot_disturb_starttime_title">From</string>
-  <string name="donot_disturb_summary">Your phone will not recevie and notificate new mails in the setted time</string>
+  <string name="donot_disturb_summary">Your phone will not notificate new mails in the configured time</string>
   <string name="donot_disturb_title">Do not disturb in the night</string>
   <string name="downlaod_cancel_confirm_download">Stop</string>
   <string name="downlaod_cancel_continue_download">Back</string>

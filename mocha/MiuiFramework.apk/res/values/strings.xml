@@ -207,7 +207,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_drive_mode">Car</string>
   <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
-  <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
+  <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
   <string name="status_bar_toggle_lock">Lock</string>
