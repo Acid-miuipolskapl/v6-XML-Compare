@@ -60,6 +60,7 @@
   <string name="button_text_delete">Delete</string>
   <string name="button_to_setting">Settings</string>
   <string name="call_delete_hint">Delete all blocked calls from this number?</string>
+  <string name="call_delete_title">Remove Call</string>
   <string name="call_transfer_block">Block forwarded calls</string>
   <string name="call_transfer_block_type">Block forwarded calls</string>
   <string name="call_transfer_info">Block calls forwarded from unknown numbers</string>
@@ -101,9 +102,9 @@
   <string name="dlg_import_whitelist">Adding…</string>
   <string name="dlg_keyword_ok">Save</string>
   <string name="dlg_message_not_open_stranger_identify">To turn this feature on, go to Settings &gt; Phone.</string>
-  <string name="dlg_no_block">Unblock this number?</string>
+  <string name="dlg_no_block">Unblock this number and restore calls from this number to call history?</string>
   <string name="dlg_no_block_ok">Unblock</string>
-  <string name="dlg_remove_address_blacklist">Remove this location from blocklist and restore related messages to inbox?</string>
+  <string name="dlg_remove_address_blacklist">Remove this location from blocklist?</string>
   <string name="dlg_remove_address_whitelist">Remove this location from exceptions?</string>
   <string name="dlg_remove_blacklist">Remove these numbers from blocklist?</string>
   <string name="dlg_remove_blacklist_ing">Removing…</string>
@@ -186,6 +187,7 @@
   <string name="report_warning_title">Report SMS</string>
   <string name="sim_not_ready">SIM card not ready</string>
   <string name="sms_delete_hint">Delete all blocked messages from this number?</string>
+  <string name="sms_delete_title">Remove Message</string>
   <string name="sms_smart_engine_update">Automatically update SMS filter</string>
   <string name="special_number_group">Block reported numbers</string>
   <string name="st_advanced_setting_group">Advanced</string>
