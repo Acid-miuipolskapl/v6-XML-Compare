@@ -1347,9 +1347,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
-    <string-array name="miracast_policies">
-        <item>Shorter delay</item>
-        <item>Standard</item>
-        <item>Better quality</item>
-    </string-array>
 </resources>
