@@ -131,7 +131,8 @@
   <string name="select_all">Select All</string>
   <string name="select_operation_items">Choose items</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
-  <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
+  <string name="toast_xunlei_engine_open">"迅雷下载引擎已启用
+可在右上角设置中更改配置"</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
@@ -141,9 +142,9 @@
   <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
-  <string name="xunlei_close_tips_button">Turn on</string>
-  <string name="xunlei_close_tips_content">Xunlei download accelerator.</string>
-  <string name="xunlei_close_tips_title">Accelerate your downloads</string>
+  <string name="xunlei_close_tips_button">立即加速</string>
+  <string name="xunlei_close_tips_content">95%用户已选择</string>
+  <string name="xunlei_close_tips_title">迅雷免费帮您提升下载速度</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
   <string name="xunlei_member_annual_fee">1 year</string>
   <string name="xunlei_member_one_month">1 month</string>
