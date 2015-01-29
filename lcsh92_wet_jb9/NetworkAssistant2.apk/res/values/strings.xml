@@ -339,7 +339,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
-  <string name="traffic_limit_error_alert_body">"You carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+  <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Reset limit</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
