@@ -55,6 +55,7 @@
   <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Loading list…</string>
   <string name="loading_hot_problem">Loading…</string>
+  <string name="loading_problem_list">Loading list…</string>
   <string name="menu_copy">Copy</string>
   <string name="network_err">"Can't connect to the network."</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
@@ -62,6 +63,8 @@
   <string name="network_unavailable_dialog_title">"Can't connect to the network"</string>
   <string name="non_system_app_select">Downloaded apps</string>
   <string name="packaging_dialog_content">Creating report…</string>
+  <string name="plus_one_submit_dialog_content">"Your selected feedback, along with error logs, will be sent to Mi's servers."</string>
+  <string name="plus_one_submit_dialog_not_show_again">Remember preference</string>
   <string name="power_consuming_problem1">Increased power consumption after update</string>
   <string name="power_consuming_problem2">Using this app consumes a lot of power</string>
   <string name="power_consuming_problem3">High power consumption during standby</string>
@@ -73,7 +76,6 @@
   <string name="refresh">Refresh</string>
   <string name="report_miui">Report bug</string>
   <string name="screen_lock">Screen lock</string>
-  <string name="screen_orientation_type">1</string>
   <string name="section_description">Description</string>
   <string name="section_err_type">Bug type</string>
   <string name="section_screenshot">Screenshot</string>
@@ -81,7 +83,7 @@
   <string name="signal_problem2">Weak signal</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Submit</string>
-  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Xiaomi's servers."</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers."</string>
   <string name="submit_dialog_title">Send report to Xiaomi</string>
   <string name="suggestion_description">Write your suggestion here</string>
   <string name="suggestion_problem1">"Tell us what features you'd like to see in future"</string>
@@ -95,6 +97,7 @@
   <string name="toast_feedback_network_unavailable">"Can't connect to the network"</string>
   <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
+  <string name="toast_feedback_submitting">Submitting…</string>
   <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>
   <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
