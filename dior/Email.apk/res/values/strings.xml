@@ -388,7 +388,7 @@
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
   <string name="donot_disturb_starttime_title">From</string>
-  <string name="donot_disturb_summary">Your phone will not recevie and notificate new mails in the setted time</string>
+  <string name="donot_disturb_summary">Your phone will not notificate new mails in the configured time</string>
   <string name="donot_disturb_title">Do not disturb in the night</string>
   <string name="downlaod_cancel_confirm_download">Stop</string>
   <string name="downlaod_cancel_continue_download">Back</string>
@@ -536,7 +536,7 @@
   <string name="loading_conversations">Loading…</string>
   <string name="loading_from_remote">Searching…</string>
   <string name="local_search">Local search</string>
-  <string name="local_search_result">%s emails found on your device.</string>
+  <string name="local_search_result">%s emails found from all the local emails</string>
   <string name="login">Sign in</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_title">"Can't sign in"</string>
@@ -840,7 +840,7 @@ CC: %4$s
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_folders_heading">Server Folders</string>
   <string name="remote_search">All the emails on the server</string>
-  <string name="remote_search_result">%s emails found on the server.</string>
+  <string name="remote_search_result">%s emails found from all the emails on the server</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_account_confirm">\"%1$s\" will be removed from Mail.</string>
   <string name="remove_account_confirm_title">Delete Account</string>
@@ -874,6 +874,10 @@ CC: %4$s
   <string name="search_results_header">Results</string>
   <string name="search_results_loaded">%1$d</string>
   <string name="search_results_searching_header">Searching…</string>
+  <string name="search_tabs_name_all">All</string>
+  <string name="search_tabs_name_recipient">Recipient</string>
+  <string name="search_tabs_name_sender">Sender</string>
+  <string name="search_tabs_name_subject">Subject</string>
   <string name="search_title">Unified Email</string>
   <string name="search_txt_size_limit_prompt">Search terms must be greater than 3 characters</string>
   <string name="search_unsupported">Search is not supported on this account.</string>
