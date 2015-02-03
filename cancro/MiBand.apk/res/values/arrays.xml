@@ -64,17 +64,17 @@
         <item>lb</item>
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Light</item>
-        <item>Normal</item>
+        <item>Underweight</item>
+        <item>Normal weight</item>
         <item>Overweight</item>
-        <item>Fat</item>
-        <item>Very Fat</item>
+        <item>Obese</item>
+        <item>Obese</item>
     </string-array>
     <string-array name="weight_dynamic_list_bmi_tips">
-        <item>有点偏瘦哦，点击查看详情</item>
-        <item>恭喜你身材很标准</item>
-        <item>有点偏胖哦，点击查看详情</item>
-        <item>有点偏胖哦，点击查看详情</item>
+        <item>BMI Category: Underweight</item>
+        <item>BMI Category: Normal weight</item>
+        <item>BMI Category: Overweight</item>
+        <item>BMI Category: Obese</item>
     </string-array>
     <string-array name="weight_report_suggestions_boy">
         <item>身体是革命的本钱，况且你还要保护心爱的人。建议加大无氧运动增加蛋白质摄入，让自己变成一个肌肉猛男吧。</item>
@@ -89,31 +89,21 @@
         <item>建议减少脂肪摄入，保持蛋白质的摄入。在现有运动基础上加大有氧运动，每次有氧运动前先进行30分钟无氧运动，有利于提高减肥效果。</item>
     </string-array>
     <string-array name="weight_report_result_without_goal">
-        <item>"超出标准
-注意控制体重哦"</item>
-        <item>"低于标准
-注意身体健康哦"</item>
-        <item>标准体型</item>
+        <item>Surpassed goal</item>
+        <item>"Didn't reach your goal"</item>
+        <item>You reached your goal!</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_gainweight">
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"恭喜
-比目标高%1$s%2$s"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>You reached your goal (%1$s%2$s)!</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_loseweight">
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"目标尚未达成
-再接再厉"</item>
-        <item>"恭喜
-比目标轻%1$s%2$s"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>"You haven't reached your goal yet"</item>
+        <item>You reached your goal (%1$s%2$s)!</item>
     </string-array>
     <string-array name="health_link_title">
         <item>1、24小时应急响应</item>
