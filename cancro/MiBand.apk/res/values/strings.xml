@@ -14,7 +14,7 @@
   <string name="action_mark">Behavior Tagging</string>
   <string name="action_pingpong">Pingpong</string>
   <string name="action_pop_about">About</string>
-  <string name="action_pop_lab">Additional features</string>
+  <string name="action_pop_lab">Fitness Center</string>
   <string name="action_pop_my_bracelet">My devices</string>
   <string name="action_pop_person_info">Profile</string>
   <string name="action_pop_service">Services</string>
@@ -404,7 +404,7 @@ your goal"</string>
   <string name="lab_factory_sport_vote_result_desc">Thanks for voting</string>
   <string name="lab_factory_sport_vote_result_sub_desc">You voted for</string>
   <string name="lab_factory_sport_vote_sub_desc">Coming soon</string>
-  <string name="lab_factory_title">Additional features</string>
+  <string name="lab_factory_title">Fitness Center</string>
   <string name="label_runner_group">Runner Club</string>
   <string name="left_hand">Left hand</string>
   <string name="light_color">Band light color</string>
@@ -507,12 +507,12 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
   <string name="prev_step">Back</string>
-  <string name="pull_to_refresh_from_bottom_pull_label">加载更多</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
   <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
-  <string name="pull_to_refresh_pull_label">下拉刷新</string>
-  <string name="pull_to_refresh_refreshing_label">正在加载…</string>
-  <string name="pull_to_refresh_release_label">松开加载</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh</string>
+  <string name="pull_to_refresh_refreshing_label">Loading...</string>
+  <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="ran">ran </string>
   <string name="read_useragreement">Agree to Terms of Service and Privacy Policy</string>
   <string name="red">Red</string>
@@ -559,7 +559,9 @@ uploaded to the server."</string>
   <string name="set_weight_goal">Weight goal</string>
   <string name="set_weight_goal_no">"Don't set"</string>
   <string name="set_weight_goal_yes">Set weight goal</string>
-  <string name="setting_about_app">App version </string>
+  <string name="setting_about_app">"App version:
+Tweaked by dezmen3
+Notifications by mksaint13"</string>
   <string name="setting_about_fw">Version </string>
   <string name="setting_daily_sport_notify">Daily sport result notify</string>
   <string name="setting_daily_sport_notify_info">Remind me at 9:30PM.</string>
@@ -851,8 +853,8 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
 "</string>
   <string name="user_agreement_ux">User Experience Program</string>
   <string name="user_staron_me">Followers</string>
-  <string name="vibrate_notify">Vibrate for notifications</string>
-  <string name="vibrate_notify_tips">Vibrate band when a you receive a notification</string>
+  <string name="vibrate_notify">Vibration Status</string>
+  <string name="vibrate_notify_tips">Show bracelet vibration info in status bar</string>
   <string name="visit_micom">Visit website</string>
   <string name="visitor">Guest</string>
   <string name="visitor_weight">Guest weight</string>
