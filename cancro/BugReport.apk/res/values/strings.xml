@@ -43,7 +43,7 @@
   <string name="err_type_nonsystemapp">Other apps</string>
   <string name="err_type_power_consuming">Power usage</string>
   <string name="err_type_reboot">Reboots</string>
-  <string name="err_type_signal">Network</string>
+  <string name="err_type_signal">Network issues</string>
   <string name="err_type_suggestion">Suggestions</string>
   <string name="err_type_system">System</string>
   <string name="err_type_system_summary">Memory, performance, etc.</string>

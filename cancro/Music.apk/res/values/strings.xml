@@ -190,8 +190,6 @@
   <string name="network_error">"Can't connect to the network"</string>
   <string name="network_failure">Check your connection and try again.</string>
   <string name="network_traffic">Data usage</string>
-  <string name="no_album_info">No album info</string>
-  <string name="no_artist_info">No artist info</string>
   <string name="no_favorites_songs">Empty</string>
   <string name="no_file_picker_find">"File Explorer isn't installed on this device"</string>
   <string name="no_introduction">No summary.</string>
@@ -228,8 +226,6 @@
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
   <string name="search_album">Search albums</string>
-  <string name="search_for_album">Album</string>
-  <string name="search_for_artist">Artist</string>
   <string name="search_hint">Search</string>
   <string name="search_lyric">Search lyrics</string>
   <string name="search_title">Search</string>
@@ -262,7 +258,6 @@
   <string name="start_to_play">Play</string>
   <string name="stream_quality">stream quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
-  <string name="support_online_only">Support online only</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist_list">Artists</string>
   <string name="tab_local_folder_list">Folders</string>

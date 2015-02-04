@@ -18,7 +18,7 @@
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">共%1$d个文件</string>
-  <string name="notif_title_multiple_downloading">Downloading %1$d files</string>
+  <string name="notif_title_multiple_downloading">正在下载%1$d个文件</string>
   <string name="notif_title_single_downloading">正在下载%1$s</string>
   <string name="notification_download_complete">Download complete.</string>
   <string name="notification_download_failed">Download unsuccessful.</string>

@@ -81,6 +81,7 @@
   <string name="view_indexes_title_visibility">Visibility (km)</string>
   <string name="view_indexes_title_wind">Wind power</string>
   <string name="view_indexes_wind_unit">km/h</string>
+  <string name="view_realtime_clear_substitution">Clear</string>
   <string name="view_sun_titile">Sunrise and sunset</string>
   <string name="viewsun_time_format">HH:mm</string>
   <string name="weather_unit">°</string>
