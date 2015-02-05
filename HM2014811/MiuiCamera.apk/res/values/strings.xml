@@ -8,6 +8,7 @@
   <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_setting_button">Additional settings button</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
@@ -22,8 +23,11 @@
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
   <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
-  <string name="confirm_location_message">Tag your pictures and videos with the locations where they where taken?</string>
-  <string name="confirm_location_title">Store location info</string>
+  <string name="confirm_location_alert">Remember photo locations</string>
+  <string name="confirm_location_message">"Tag your photos and videos with the locations where they are taken.
+
+Other apps can access this information along with your saved images."</string>
+  <string name="confirm_location_title">Remember photo locations?</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>
@@ -51,7 +55,6 @@
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="find_other_qrcode">QR code found</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="no_save">No thanks</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">SD card is full</string>
   <string name="object_track_enable_toast">Tap on both ends of the object with two fingers to track it.</string>
@@ -228,12 +231,6 @@
   <string name="pref_camera_multilevel_entry_lowest">Lowest</string>
   <string name="pref_camera_multilevel_entry_middle">Middle (default)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
-  <string name="pref_camera_multiple_face_beauty_default">on</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">1 person</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">2 people</string>
-  <string name="pref_camera_multiple_face_beauty_title">Highlight skin tones</string>
-  <string name="pref_camera_multiple_face_beauty_values_off">off</string>
-  <string name="pref_camera_multiple_face_beauty_values_on">on</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -414,7 +411,6 @@
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
   <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
-  <string name="save">Yes</string>
   <string name="see_qrcode_detals">View details</string>
   <string name="setting_top_text">Camera modes</string>
   <string name="simple_mode_button_asd_flash">Close Flash capture</string>
@@ -435,6 +431,7 @@
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
   <string name="snapshotsize_low_powermode">"Picture resolution isn't supported by your current power management settings. Video size snapshot will be used."</string>
   <string name="spaceIsLow_content">SD card is running out of space</string>
+  <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Touch to adjust exposure manually</string>
   <string name="tap_to_focus">Touch to focus</string>
   <string name="time_lapse_error">"Can't use this video-size for time-lapse recording"</string>

@@ -24,10 +24,11 @@
   <string name="airkan_tips">Tap to cast</string>
   <string name="airkan_video_playing">playing</string>
   <string name="airkan_video_playing_in">"Video is "</string>
-  <string name="all">All</string>
+  <string name="all">More</string>
   <string name="all_ep">All ep</string>
   <string name="all_media">All ep</string>
   <string name="app_name">Video</string>
+  <string name="app_recommend">Featured</string>
   <string name="area_unknown">Unknown</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
@@ -149,9 +150,9 @@
   <string name="install_comfirm">Tap to install</string>
   <string name="installed">Installed</string>
   <string name="introduce">Summary</string>
-  <string name="japank">Japanese TV</string>
   <string name="ji">ep</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
+  <string name="koreak">Korea TV</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="loading">" "&lt;CDATA&gt;Loading &lt;/CDATA&gt;" "</string>
@@ -165,7 +166,6 @@
   <string name="login_tip_title">Sign in</string>
   <string name="maintitle_prefix">Update available</string>
   <string name="media_name_comment">%s comments</string>
-  <string name="menu_item_disable_audio_enhance">Turn off audio enhancer</string>
   <string name="menu_item_enable_audio_enhance">Turn on audio enhancer</string>
   <string name="minute"> Minute</string>
   <string name="mipush_setting">Mi push</string>
