@@ -652,7 +652,7 @@ with friends"</string>
   <string name="import_fail">Import failed</string>
   <string name="impunity_declaration">"Some of Gallery's features require an internet connection to work normally."</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
-  <string name="impunity_declaration_positive_text">OK and Continue</string>
+  <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
   <string name="impunity_declaration_title">Internet connection</string>

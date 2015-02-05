@@ -124,6 +124,7 @@
   <string name="guide_install_app_title">Find and install app?</string>
   <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
   <string name="home_indicator">bottom_point</string>
+  <string name="image_too_small_message">Original image is not large enought</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>

@@ -690,6 +690,7 @@ CC: %4$s
   <string name="outbox_alert_button_confirm">Edit</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
   <string name="outbox_alert_button_resend">Resend</string>
+  <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
@@ -698,6 +699,7 @@ CC: %4$s
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
+  <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"Could't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
@@ -866,6 +868,7 @@ CC: %4$s
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft">Save draft</string>
+  <string name="save_draft_failed">Save draft failed</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
   <string name="search_attachment">Search</string>

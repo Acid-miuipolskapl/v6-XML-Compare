@@ -23,9 +23,11 @@
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
   <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
-  <string name="confirm_location_alert">store location info</string>
-  <string name="confirm_location_message">We suggest that you save geographic location information when capturing, then you can easily browse and search photos by geographical location.</string>
-  <string name="confirm_location_title">Store location info</string>
+  <string name="confirm_location_alert">Remember photo locations</string>
+  <string name="confirm_location_message">"Tag your photos and videos with the locations where they are taken.
+
+Other apps can access this information along with your saved images."</string>
+  <string name="confirm_location_title">Remember photo locations?</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>
@@ -429,7 +431,7 @@
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
   <string name="snapshotsize_low_powermode">"Picture resolution isn't supported by your current power management settings. Video size snapshot will be used."</string>
   <string name="spaceIsLow_content">SD card is running out of space</string>
-  <string name="start_capture">Start Capture</string>
+  <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Touch to adjust exposure manually</string>
   <string name="tap_to_focus">Touch to focus</string>
   <string name="time_lapse_error">"Can't use this video-size for time-lapse recording"</string>
