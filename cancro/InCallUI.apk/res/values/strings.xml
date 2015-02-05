@@ -80,7 +80,7 @@
   <string name="call_title_redialing_with_times">Redialed %d times</string>
   <string name="caller_manage_header">Conference call %s</string>
   <string name="calling_via_template">Calling via %s</string>
-  <string name="card_title_call_ended">Call ended</string>
+  <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
   <string name="card_title_hanging_up">Hanging up</string>
