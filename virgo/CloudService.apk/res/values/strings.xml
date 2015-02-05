@@ -194,10 +194,10 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="remind_later">Later</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
-  <string name="share_cancel">share canceled</string>
-  <string name="share_failed">share failed</string>
+  <string name="share_cancel">Share canceled</string>
+  <string name="share_failed">"Couldn't share"</string>
   <string name="share_miliao_not_installed">MiTalk is not installed.</string>
-  <string name="share_success">share successful</string>
+  <string name="share_success">Shared</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
   <string name="share_weixin_not_installed">Wechat is not installed.</string>
   <string name="sina_share_fail">Failed to send</string>
