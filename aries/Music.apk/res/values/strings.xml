@@ -262,7 +262,7 @@
   <string name="start_to_play">Play</string>
   <string name="stream_quality">stream quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
-  <string name="support_online_only">Support online only</string>
+  <string name="support_online_only">Streaming only</string>
   <string name="tab_album_list">Albums</string>
   <string name="tab_artist_list">Artists</string>
   <string name="tab_local_folder_list">Folders</string>

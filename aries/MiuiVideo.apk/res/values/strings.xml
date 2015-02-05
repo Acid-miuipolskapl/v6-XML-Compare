@@ -24,7 +24,7 @@
   <string name="airkan_tips">Tap to cast</string>
   <string name="airkan_video_playing">playing</string>
   <string name="airkan_video_playing_in">"Video is "</string>
-  <string name="all">All</string>
+  <string name="all">More</string>
   <string name="all_ep">All ep</string>
   <string name="all_media">All ep</string>
   <string name="app_name">Video</string>
@@ -150,9 +150,9 @@
   <string name="install_comfirm">Tap to install</string>
   <string name="installed">Installed</string>
   <string name="introduce">Summary</string>
-  <string name="japank">Japanese TV</string>
   <string name="ji">ep</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
+  <string name="koreak">Korea TV</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="loading">" "&lt;CDATA&gt;Loading &lt;/CDATA&gt;" "</string>
