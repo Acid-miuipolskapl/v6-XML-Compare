@@ -28,12 +28,14 @@
   <string name="all_ep">All ep</string>
   <string name="all_media">All ep</string>
   <string name="app_name">Video</string>
+  <string name="app_recommend">Featured</string>
   <string name="area_unknown">Unknown</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>
   <string name="average_score">Average rating</string>
   <string name="avg_score">%.1f</string>
+  <string name="baodian">Pointer</string>
   <string name="bestv">Bestv</string>
   <string name="buffering">Buffering…</string>
   <string name="buffering_video_netplay_label_v5">Buffering…</string>
@@ -41,6 +43,7 @@
   <string name="cancel_button">Cancel</string>
   <string name="cancel_favorite_success">Unstarred</string>
   <string name="category">Categories</string>
+  <string name="catoon">Cartoons</string>
   <string name="channel_choice">"Editor's choice"</string>
   <string name="channel_hot">Popular</string>
   <string name="channel_latest">New</string>
@@ -137,6 +140,7 @@
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
+  <string name="hollywood">Hollywood</string>
   <string name="hot">Popular</string>
   <string name="hot_recommend">Trending</string>
   <string name="icntv">iCNTV</string>
@@ -146,6 +150,7 @@
   <string name="install_comfirm">Tap to install</string>
   <string name="installed">Installed</string>
   <string name="introduce">Summary</string>
+  <string name="japank">Japanese TV</string>
   <string name="ji">ep</string>
   <string name="key_back_down_toast">To exit, touch Back again</string>
   <string name="lekan">Lekan</string>
@@ -161,7 +166,6 @@
   <string name="login_tip_title">Sign in</string>
   <string name="maintitle_prefix">Update available</string>
   <string name="media_name_comment">%s comments</string>
-  <string name="menu_item_disable_audio_enhance">Turn off audio enhancer</string>
   <string name="menu_item_enable_audio_enhance">Turn on audio enhancer</string>
   <string name="minute"> Minute</string>
   <string name="mipush_setting">Mi push</string>
@@ -292,6 +296,7 @@
   <string name="updateapk_intro">Change log</string>
   <string name="updatedalready">Updated</string>
   <string name="upgrade">Upgrade</string>
+  <string name="usa">US TV</string>
   <string name="use_cellular_network">Use mobile data connection</string>
   <string name="use_cellular_network_summary">Use mobile data connection to download videos. This will increase your mobile data usage.</string>
   <string name="use_cellular_offlinedownload_summary">Show notification when using mobile data to download video</string>
