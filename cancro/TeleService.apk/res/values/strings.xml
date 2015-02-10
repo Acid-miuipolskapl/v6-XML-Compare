@@ -357,7 +357,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">"Couldn't make call."</string>
   <string name="incall_error_emergency_only">Not registered on network.</string>
-  <string name="incall_error_no_active_sim">No sim card is on.</string>
+  <string name="incall_error_no_active_sim">"SIM card hasn't been activated"</string>
   <string name="incall_error_no_phone_number_supplied">The number you entered is invalid.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, turn off Airplane mode.</string>

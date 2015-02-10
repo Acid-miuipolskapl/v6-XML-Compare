@@ -913,7 +913,6 @@ This setting affects all users on this phone."</string>
   <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_service_title">Use %1$s?</string>
-  <string name="enable_snapshot_screenlock">Long press Back to take photo</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
   <string name="enable_text">Enable</string>
@@ -2106,6 +2105,7 @@ Possibly incorrect PIN."</string>
   <string name="skip_step">Skip</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
+  <string name="smartcover_sensitive_title">Smartcover mode</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text" formatted="false">Use %s instead of %s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Change SMS app?</string>
@@ -2170,8 +2170,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-  <string name="status_bar_settings_show_statusBar_notification">Show on lock screen and in drop down</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Show notifications on lock screen and in drop down preview</string>
+  <string name="status_bar_settings_show_statusBar_notification">Show floating notifications</string>
+  <string name="status_bar_settings_show_statusBar_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
@@ -2652,6 +2652,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Connect</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">Cancel</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+  <string name="wifi_connect_cmcc_dialog_content">Connected to CMCC network data services.</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
+  <string name="wifi_connect_cmcc_dialog_title">Data usage notification</string>
   <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
@@ -2735,8 +2740,15 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Not in range</string>
+  <string name="wifi_notify_cmcc_connected_summary">Show notification when connected to CMCC network</string>
+  <string name="wifi_notify_cmcc_connected_title">CMCC network notification</string>
   <string name="wifi_notify_open_networks">Network notification</string>
   <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
+  <string name="wifi_off_airplane_on_cancel">Cancel</string>
+  <string name="wifi_off_airplane_on_confirm">OK</string>
+  <string name="wifi_off_airplane_on_content">You can turn WLAN manually when Airplane mode is on.</string>
+  <string name="wifi_off_airplane_on_not_remind">"Don't show again"</string>
+  <string name="wifi_off_airplane_on_title">WLAN in Airplane mode</string>
   <string name="wifi_on_time">WLAN on time</string>
   <string name="wifi_other_network">Other network…</string>
   <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
