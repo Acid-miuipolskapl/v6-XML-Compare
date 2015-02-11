@@ -124,7 +124,7 @@
   <string name="guide_install_app_title">Find and install app?</string>
   <string name="guide_tips_editing_mode">Touch &amp; hold to pick up a widget</string>
   <string name="home_indicator">bottom_point</string>
-  <string name="image_too_small_message">Original image is not large enought</string>
+  <string name="image_too_small_message">"Original image isn't big enough"</string>
   <string name="install">Install</string>
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_toast">Setting wallpaper…</string>
@@ -225,7 +225,7 @@
   <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>
-  <string name="wallpaper_success_message">Wallpaper applied successfully</string>
+  <string name="wallpaper_success_message">Wallpaper applied</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favorite contacts</string>
   <string name="widget_favorite_contacts_style">Change size</string>
