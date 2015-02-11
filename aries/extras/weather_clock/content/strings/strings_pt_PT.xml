@@ -3,13 +3,13 @@
     <string name="date_time">E dd/MM</string>
     <string name="language">pt_PT</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
-    <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', double tap to enter clock app'</string>
+    <string name="desc_time">'tempo actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toque duplo para ver relógio'</string>
     <string name="weather_type_0">Limpo</string>
     <string name="weather_type_1">Limpo</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>
     <string name="weather_type_4">Chuvada</string>
-    <string name="weather_type_5">Chuva torrencial</string>
+    <string name="weather_type_5">Chuva forte</string>
     <string name="weather_type_6">Chuvas muito fortes</string>
     <string name="weather_type_7">Trovoada</string>
     <string name="weather_type_8">Chuviscos</string>
