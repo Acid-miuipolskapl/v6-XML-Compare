@@ -400,6 +400,7 @@ To activate your account, follow the
   <string name="steps">Attempt #%d</string>
   <string name="study_room">书房</string>
   <string name="submit">提交</string>
+  <string name="submit_fail_retry">提交失败了，请您重新提交，谢谢</string>
   <string name="succeed_content">Paired %3$s %4$s successfully.</string>
   <string name="succeed_finish">OK</string>
   <string name="succeed_title">Paired</string>
