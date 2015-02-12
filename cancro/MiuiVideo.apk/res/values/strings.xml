@@ -166,7 +166,7 @@
   <string name="login_tip_title">Sign in</string>
   <string name="maintitle_prefix">Update available</string>
   <string name="media_name_comment">%s comments</string>
-  <string name="menu_item_enable_audio_enhance">Turn on audio enhancer</string>
+  <string name="menu_item_enable_audio_enhance">Enhance audio</string>
   <string name="minute"> Minute</string>
   <string name="mipush_setting">Mi push</string>
   <string name="month">Month</string>
