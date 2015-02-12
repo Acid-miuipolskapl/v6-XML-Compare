@@ -2822,7 +2822,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_notify_open_networks_summary">Notify me when an open network is available</string>
   <string name="wifi_off_airplane_on_cancel">Cancel</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">You can turn WLAN manually when Airplane mode is on.</string>
+  <string name="wifi_off_airplane_on_content">You can turn on WLAN manually when Airplane mode is on.</string>
   <string name="wifi_off_airplane_on_not_remind">"Don't show again"</string>
   <string name="wifi_off_airplane_on_title">WLAN in Airplane mode</string>
   <string name="wifi_on_time">WLAN on time</string>
