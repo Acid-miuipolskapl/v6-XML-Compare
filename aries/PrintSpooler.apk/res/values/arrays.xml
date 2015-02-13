@@ -143,8 +143,4 @@
         <item>Portrait</item>
         <item>Landscape</item>
     </string-array>
-    <string-array name="page_options_labels">
-        <item>All</item>
-        <item>Range</item>
-    </string-array>
 </resources>
