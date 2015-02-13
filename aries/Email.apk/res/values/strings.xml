@@ -150,10 +150,9 @@
   <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to Wi-Fi</string>
   <string name="account_setup_options_headline">Account options</string>
   <string name="account_setup_options_mail_check_frequency_10min">Every 10 minutes</string>
-  <string name="account_setup_options_mail_check_frequency_15min">Every 15 minutes</string>
+  <string name="account_setup_options_mail_check_frequency_12hour">Every 12 hours</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Every hour</string>
-  <string name="account_setup_options_mail_check_frequency_30min">Every 30 minutes</string>
-  <string name="account_setup_options_mail_check_frequency_5min">Every 5 minutes</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">Every 4 hours</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automatic (Push, If the server supports)</string>
   <string name="account_setup_options_mail_check_frequency_label">Inbox checking frequency</string>
   <string name="account_setup_options_mail_check_frequency_never">Never</string>
