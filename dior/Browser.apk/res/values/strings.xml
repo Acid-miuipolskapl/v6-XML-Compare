@@ -43,8 +43,8 @@
   <string name="add_quicklink_to_popular">Add to start page</string>
   <string name="add_quicklinks">Add to start page</string>
   <string name="add_to_bookmark">Add to bookmarks</string>
-  <string name="add_to_desk">Send to desktop</string>
-  <string name="add_to_desk_success">Send to desktop success</string>
+  <string name="add_to_desk">Place on Home screen</string>
+  <string name="add_to_desk_success">Placed on Home screen</string>
   <string name="add_to_quicklink">Add to start page</string>
   <string name="added_to_bookmarks">Added to bookmarks</string>
   <string name="adjust_text_zoom_toast">Changing text zoom may cause some websites to display incorrectly</string>
@@ -355,10 +355,10 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_bookmark_menu_moveout_group_txt">Move out</string>
   <string name="miui_content_copy">Copy</string>
   <string name="miui_content_cut">Cut</string>
-  <string name="miui_content_open_url">OpenURL</string>
+  <string name="miui_content_open_url">Open URL</string>
   <string name="miui_content_paste">Paste</string>
   <string name="miui_content_select">Select</string>
-  <string name="miui_content_select_all">SelectAll</string>
+  <string name="miui_content_select_all">Select all</string>
   <string name="miui_content_share">Share</string>
   <string name="miui_content_web_search">Search</string>
   <string name="miui_quicksearch_enable_pref_summary">Always show browser search bar in the notification shade</string>
@@ -635,7 +635,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="save_file_already_exist_alert_title">Overwrite file?</string>
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
-  <string name="save_password_message">Do you want the browser to remember this password?</string>
+  <string name="save_password_message">Do you want Browser to remember this password?</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
   <string name="save_password_remember">Remember</string>
@@ -721,7 +721,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="tab_history">History</string>
   <string name="tab_hotpage">Trending</string>
   <string name="tab_most_visited">Most visited</string>
-  <string name="tab_quicklinks">Useful</string>
+  <string name="tab_quicklinks">Home</string>
   <string name="tab_snapshots">Saved pages</string>
   <string name="tab_yellowpage">Popular</string>
   <string name="time_picker_dialog_am">AM</string>
@@ -819,6 +819,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="webstorage_outofspace_notification_text">Touch to free up space.</string>
   <string name="webstorage_outofspace_notification_title">Browser storage full</string>
   <string name="webview_find_on_page">Find on page</string>
-  <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
+  <string name="webviewchromium_private_browsing_warning">"Function isn't supported in this version of Android."</string>
   <string name="week_picker_dialog_title">Set week</string>
 </resources>

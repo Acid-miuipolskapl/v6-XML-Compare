@@ -24,9 +24,7 @@
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your phone."</string>
   <string name="cannot_move_warning_message">Taking picture, keep the device still</string>
   <string name="confirm_location_alert">Remember photo locations</string>
-  <string name="confirm_location_message">"Tag your photos and videos with the locations where they are taken.
-
-Other apps can access this information along with your saved images."</string>
+  <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
