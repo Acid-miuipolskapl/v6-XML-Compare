@@ -1,5 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="incoming_call_widget_audio_without_sms_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <string-array name="incoming_call_widget_audio_without_sms_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@null</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="incoming_call_widget_audio_without_sms_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </string-array>
+    <array name="incoming_call_widget_audio_with_sms_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_text</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <string-array name="incoming_call_widget_audio_with_sms_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="incoming_call_widget_audio_with_sms_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@string/description_direction_up</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </string-array>
+    <array name="incoming_call_widget_video_without_sms_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@drawable/ic_lockscreen_answer_video</item>
+        <item>@drawable/ic_lockscreen_answer_tx_video</item>
+        <item>@drawable/ic_lockscreen_answer_rx_video</item>
+    </array>
+    <string-array name="incoming_call_widget_video_without_sms_target_descriptions">
+        <item>@string/description_target_answer_video_call</item>
+        <item>@null</item>
+        <item>@string/description_target_decline</item>
+        <item>@string/description_target_answer_audio_call</item>
+    </string-array>
+    <string-array name="incoming_call_widget_video_without_sms_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@string/description_direction_down</item>
+    </string-array>
+    <array name="incoming_call_widget_video_with_sms_targets">
+        <item>@drawable/ic_lockscreen_answer_video</item>
+        <item>@drawable/ic_lockscreen_text</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_answer_tx_video</item>
+        <item>@drawable/ic_lockscreen_answer_rx_video</item>
+    </array>
+    <string-array name="incoming_call_widget_video_with_sms_target_descriptions">
+        <item>@string/description_target_answer_video_call</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+        <item>@string/description_target_answer_audio_call</item>
+    </string-array>
+    <string-array name="incoming_call_widget_video_with_sms_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@string/description_direction_up</item>
+        <item>@string/description_direction_left</item>
+        <item>@string/description_direction_down</item>
+    </string-array>
+    <array name="incoming_call_widget_video_upgrade_request_targets">
+        <item>@drawable/ic_lockscreen_answer_video</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_answer_tx_video</item>
+        <item>@drawable/ic_lockscreen_answer_rx_video</item>
+    </array>
+    <string-array name="incoming_call_widget_video_upgrade_request_target_descriptions">
+        <item>@string/description_target_accept_upgrade_to_video_request</item>
+        <item>@null</item>
+        <item>@string/description_target_decline_upgrade_to_video_request</item>
+        <item>@null</item>
+    </string-array>
+    <string-array name="incoming_call_widget_video_upgrade_request_target_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -8,21 +104,57 @@
         <item>Voice</item>
         <item>Video</item>
     </string-array>
-    <string-array name="sip_call_options_entries">
-        <item>@string/sip_call_options_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
+    <array name="incoming_call_widget_3way_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_text</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <string-array name="incoming_call_widget_3way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
     </string-array>
-    <string-array name="sip_call_options_wifi_only_entries">
-        <item>@string/sip_call_options_wifi_only_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
+    <string-array name="incoming_call_widget_3way_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@string/description_direction_up</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
     </string-array>
-    <string-array name="sip_call_options_values">
-        <item>@string/sip_always</item>
-        <item>@string/sip_address_only</item>
-        <item>@string/sip_ask_me_each_time</item>
+    <array name="incoming_call_widget_2way_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@null</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@null</item>
+    </array>
+    <string-array name="incoming_call_widget_2way_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@null</item>
+        <item>@string/description_target_decline</item>
+        <item>@null</item>
     </string-array>
+    <string-array name="incoming_call_widget_2way_direction_descriptions">
+        <item>@string/description_direction_right</item>
+        <item>@null</item>
+        <item>@string/description_direction_left</item>
+        <item>@null</item>
+    </string-array>
+    <array name="incoming_call_widget_6way_ims_targets">
+        <item>@drawable/ic_lockscreen_answer</item>
+        <item>@drawable/ic_lockscreen_text</item>
+        <item>@drawable/ic_lockscreen_decline</item>
+        <item>@drawable/ic_lockscreen_answer_video</item>
+    </array>
+    <string-array name="incoming_call_widget_6way_ims_target_descriptions">
+        <item>@string/description_target_answer</item>
+        <item>@string/description_target_send_sms</item>
+        <item>@string/description_target_decline</item>
+    </string-array>
+    <array name="incoming_call_widget_6way_ims_direction_descriptions">
+        <item>@android:string/APKTOOL_DUMMY_06b9</item>
+        <item>@android:string/APKTOOL_DUMMY_06b8</item>
+    </array>
     <array name="sim_icons">
         <item>@drawable/ic_sim_icon_1</item>
         <item>@drawable/ic_sim_icon_2</item>
@@ -36,9 +168,6 @@
     </string-array>
     <string-array name="online_check_phone_number_warning_types">
         <item>@string/online_check_warning_type_by_cmb</item>
-    </string-array>
-    <string-array name="jeejen_auto_opendialer_number">
-        <item>13800138000</item>
     </string-array>
     <string-array name="clir_display_values">
         <item>Network default</item>
