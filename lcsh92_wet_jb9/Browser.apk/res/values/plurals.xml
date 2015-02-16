@@ -2,6 +2,7 @@
 <resources>
     <plurals name="last_num_days">
         <item quantity="other">Last %d days</item>
+        <item quantity="one">Yesterday</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d of %2$d</item>
