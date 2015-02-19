@@ -201,7 +201,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_brightness">Brightness</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_data">Data</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.settings.PreferredNetworkTypeListPreference</string>
+  <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
   <string name="status_bar_toggle_divider">More</string>
   <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
   <string name="status_bar_toggle_drive_mode">Car</string>

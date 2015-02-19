@@ -126,8 +126,8 @@
 	<Group>
 		<Image x="#view_width/2" y="#view_height/2" align="center" alignV="center" src="bg.9.png" w="930" h="1111"/>
 		<ImageNumber name="current_date" x="#view_width/2-398" y="#view_height/2-494" number="#date" src="date_large.png"/>
-		<DateTime x="#view_width/2-398+#current_date.bmp_width+30" y="#view_height/2-473" format="MMM yyyy" size="36" color="#000000" alpha="179"/>
-		<DateTime x="#view_width/2-398+#current_date.bmp_width+30" y="#view_height/2-424" format="EEEE" size="36" color="#000000" alpha="179"/>
+		<DateTime x="#view_width/2-398+#current_date.bmp_width+30" y="#view_height/2-473" format="E" size="36" color="#000000" alpha="179"/>
+		<DateTime x="#view_width/2-398+#current_date.bmp_width+30" y="#view_height/2-424" format="yyyy/MM" size="36" color="#000000" alpha="179"/>
 		<Image x="#view_width/2" y="#view_height/2-348" alpha="70" align="center" src="line.9.png" w="793"/>
 		<!-- 星期指示 -->
 		<Text x="#grid_x+0*#grid_w" y="#view_height/2-268" size="23" color="#000000" textExp="@MON" align="center" alignV="center" />
