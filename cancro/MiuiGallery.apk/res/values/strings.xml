@@ -595,7 +595,7 @@ with friends"</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operation failed</string>
   <string name="fail_init_gallery_db_helper">"Can't load Gallery database"</string>
-  <string name="fail_to_download_n_items">"Couldn't download %s"</string>
+  <string name="fail_to_download_n_items">"Couldn't download %s items"</string>
   <string name="fail_to_pick_email">Email invalid</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
   <string name="file_not_exist_message">"File doesn't exist"</string>
