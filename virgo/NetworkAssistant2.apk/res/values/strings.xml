@@ -9,7 +9,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="alter_dialog_message">Connecting to data services when roaming internationally may result in steep charges from your carrier. Allow apps on whitelist to connect to data services when roaming internationally?</string>
+  <string name="alter_dialog_message">Using mobile data when roaming internationally may result in additional charges from your carrier.</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Data</string>
   <string name="app_name">Data usage</string>
@@ -74,9 +74,9 @@ For more info check the message you received from your carrier"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
   <string name="detail_app_button">App info</string>
-  <string name="dialog_app_roaming_message">"When you're roaming internationally, only apps you've added to the whitelist can use data services. %1$s hasn't been added to the whitelist."</string>
+  <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming internationally, only apps you've added to the whitelist can use mobile data."</string>
   <string name="dialog_app_roaming_title">"International roaming isn't enabled for %1$s"</string>
-  <string name="dialog_roaming_message">Apps on whitelist will be able to connect to data services when roaming internationally. Add this app to whitelist?</string>
+  <string name="dialog_roaming_message">Allow this app to use mobile data when roaming internationally?</string>
   <string name="dialog_roaming_title">International roaming</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
@@ -104,7 +104,7 @@ For more info check the message you received from your carrier"</string>
   <string name="input_used_hint">Enter data usage</string>
   <string name="input_used_max_hint">Enter data usage(less than %s)</string>
   <string name="international_roaming_setting">International roaming</string>
-  <string name="international_roaming_whitelist_count">%d apps can connect to data services when roaming internationally</string>
+  <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming internationally</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
   <string name="lock_screen_setting_summary">Show notification after 100KB has been used at lock screen</string>
@@ -186,10 +186,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
   <string name="pref_adjust_traffic_data">Set data usage</string>
-  <string name="pref_allow_connect_network_summary">Connect to data services when roaming internationally</string>
+  <string name="pref_allow_connect_network_summary">Use mobile data when roaming internationally</string>
   <string name="pref_allow_connect_network_title">International data roaming</string>
-  <string name="pref_allow_connect_network_whitelist_summary">Allow apps on whitelist to connect to data services when roaming</string>
-  <string name="pref_allow_connect_network_whitelist_title">Allow apps on whitelist to connect</string>
+  <string name="pref_allow_connect_network_whitelist_summary">Allow apps on whitelist to use mobile data when roaming</string>
+  <string name="pref_allow_connect_network_whitelist_title">Allow whitelist to use mobile data</string>
   <string name="pref_app_traffic_managent">Restrict data usage by app</string>
   <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
   <string name="pref_auto_adjust_traffic">Auto-sync data usage stats</string>
@@ -261,9 +261,9 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="right_precent">100%</string>
-  <string name="roaming_not_start_body">Apps on whitelist will be able to connect to data services when roaming internationally.</string>
+  <string name="roaming_not_start_body">Apps on whitelist will be able to use mobile data when roaming internationally.</string>
   <string name="roaming_not_start_title">International roaming</string>
-  <string name="roaming_start_body">Apps are connecting to data services.</string>
+  <string name="roaming_start_body">Apps are using mobile data.</string>
   <string name="roaming_start_title">International roaming</string>
   <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
