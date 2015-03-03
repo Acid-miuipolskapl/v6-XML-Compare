@@ -1183,6 +1183,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
+  <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average RMB %d</string>
   <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
