@@ -1,54 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_05f0">false</string>
-  <string name="APKTOOL_DUMMY_05f1">false</string>
-  <string name="APKTOOL_DUMMY_05f2">false</string>
-  <string name="APKTOOL_DUMMY_05f3">false</string>
-  <string name="APKTOOL_DUMMY_05f4">false</string>
-  <string name="APKTOOL_DUMMY_05f5">false</string>
-  <string name="APKTOOL_DUMMY_05f6">false</string>
-  <string name="APKTOOL_DUMMY_05f7">false</string>
-  <string name="APKTOOL_DUMMY_05f8">false</string>
-  <string name="APKTOOL_DUMMY_05f9">false</string>
-  <string name="APKTOOL_DUMMY_05fa">false</string>
-  <string name="APKTOOL_DUMMY_05fb">false</string>
-  <string name="APKTOOL_DUMMY_05fc">false</string>
-  <string name="APKTOOL_DUMMY_05fd">false</string>
-  <string name="APKTOOL_DUMMY_05fe">false</string>
-  <string name="APKTOOL_DUMMY_05ff">false</string>
-  <string name="APKTOOL_DUMMY_0600">false</string>
-  <string name="APKTOOL_DUMMY_0601">false</string>
-  <string name="APKTOOL_DUMMY_0602">false</string>
-  <string name="APKTOOL_DUMMY_0603">false</string>
-  <string name="APKTOOL_DUMMY_0604">false</string>
-  <string name="APKTOOL_DUMMY_0605">false</string>
-  <string name="APKTOOL_DUMMY_0606">false</string>
-  <string name="APKTOOL_DUMMY_0607">false</string>
-  <string name="APKTOOL_DUMMY_0608">false</string>
-  <string name="APKTOOL_DUMMY_0609">false</string>
-  <string name="APKTOOL_DUMMY_060a">false</string>
-  <string name="APKTOOL_DUMMY_060b">false</string>
-  <string name="APKTOOL_DUMMY_060c">false</string>
-  <string name="APKTOOL_DUMMY_060d">false</string>
-  <string name="APKTOOL_DUMMY_060e">false</string>
-  <string name="APKTOOL_DUMMY_060f">false</string>
-  <string name="APKTOOL_DUMMY_0610">false</string>
-  <string name="APKTOOL_DUMMY_0611">false</string>
-  <string name="APKTOOL_DUMMY_0612">false</string>
-  <string name="APKTOOL_DUMMY_0613">false</string>
-  <string name="APKTOOL_DUMMY_0614">false</string>
-  <string name="APKTOOL_DUMMY_0615">false</string>
-  <string name="APKTOOL_DUMMY_0616">false</string>
-  <string name="APKTOOL_DUMMY_0617">false</string>
-  <string name="APKTOOL_DUMMY_0618">false</string>
-  <string name="APKTOOL_DUMMY_0619">false</string>
-  <string name="APKTOOL_DUMMY_061a">false</string>
-  <string name="APKTOOL_DUMMY_061b">false</string>
-  <string name="APKTOOL_DUMMY_061c">false</string>
-  <string name="APKTOOL_DUMMY_061d">false</string>
-  <string name="APKTOOL_DUMMY_061e">false</string>
-  <string name="APKTOOL_DUMMY_061f">false</string>
-  <string name="APKTOOL_DUMMY_0620">false</string>
   <string name="BaMmi">Call barring</string>
   <string name="CLIRDefaultOffNextCallOff">Caller ID defaults to not restricted. Next call: Not restricted</string>
   <string name="CLIRDefaultOffNextCallOn">Caller ID defaults to not restricted. Next call: Restricted</string>
@@ -197,7 +148,7 @@ Do you want to close it?"</string>
   <string name="bugreport_title">Take bug report</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancel</string>
-  <string name="candidates_style">&lt;u&gt;candidates&lt;/u&gt;</string>
+  <string name="candidates_style">" "&lt;u&gt;candidates&lt;/u&gt;" "</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Scripts may be installed to make app content more accessible.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Includes personal data such as credit card numbers and passwords.</string>
   <string name="capability_desc_canRequestTouchExploration">Touched items will be spoken aloud and the screen can be explored using gestures.</string>
@@ -233,13 +184,13 @@ Do you want to close it?"</string>
   <string name="config_default_dns_server">8.8.8.8</string>
   <string name="config_dreamsDefaultComponent">com.android.deskclock/com.android.deskclock.Screensaver</string>
   <string name="config_ethernet_iface_regex">eth\\d</string>
-  <string name="config_fusedLocationProviderPackageName">com.android.location.fused</string>
-  <string name="config_geocoderProviderPackageName">@null</string>
-  <string name="config_geofenceProviderPackageName">@null</string>
+  <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
+  <string name="config_geocoderProviderPackageName">com.qualcomm.location</string>
+  <string name="config_geofenceProviderPackageName">com.qualcomm.location</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent">Android-Mms/0.1</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">@null</string>
+  <string name="config_networkLocationProviderPackageName">com.qualcomm.location</string>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
@@ -509,7 +460,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="keyguard_password_enter_pin_prompt">New PIN code</string>
   <string name="keyguard_password_enter_puk_code">Type PUK and new PIN code</string>
   <string name="keyguard_password_enter_puk_prompt">PUK code</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Touch to type password&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">" "&lt;font size="17"&gt;Touch to type password&lt;/font&gt;" "</string>
   <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
   <string name="kg_emergency_call_label">Emergency call</string>
   <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
@@ -1282,7 +1233,7 @@ for account %s."</string>
   <string name="permlab_writeSocialStream">write to your social stream</string>
   <string name="permlab_writeSyncSettings">toggle sync on and off</string>
   <string name="perms_description_app">Provided by %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NEW: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">" "&lt;font fgcolor="#ff33b5e5" size="12"&gt;NEW: &lt;/font&gt;" "</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistant</string>
   <string name="phoneTypeCallback">Callback</string>
@@ -1465,7 +1416,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sms_control_no">Deny</string>
   <string name="sms_control_title">Sending SMS messages</string>
   <string name="sms_control_yes">Allow</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;This will cause charges on your mobile account.&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">" "&lt;font fgcolor="#ffffb060"&gt;This will cause charges on your mobile account.&lt;/font&gt;" "</string>
   <string name="sms_short_code_confirm_allow">Send</string>
   <string name="sms_short_code_confirm_always_allow">Always Allow</string>
   <string name="sms_short_code_confirm_deny">Cancel</string>

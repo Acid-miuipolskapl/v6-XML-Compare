@@ -589,53 +589,53 @@ Reason: \"%s\""</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
   <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
  
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
-"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
+"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
