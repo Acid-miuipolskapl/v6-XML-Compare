@@ -948,6 +948,10 @@
         <item>SIM</item>
         <item>AKA</item>
     </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Show recent apps tray</item>
         <item>Show menu</item>
