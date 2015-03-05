@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Last %d days</item>
         <item quantity="one">Yesterday</item>
@@ -11,10 +15,6 @@
     <plurals name="find_on_page_matches">
         <item quantity="other">%d matches</item>
         <item quantity="one">%d match</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d items blocked</item>

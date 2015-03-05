@@ -320,6 +320,7 @@
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
+  <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
@@ -498,6 +499,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Group carrier messages</string>
   <string name="title_date_type">Timestamp</string>
+  <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d recipients</string>
