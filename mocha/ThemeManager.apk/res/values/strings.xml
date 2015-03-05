@@ -45,7 +45,7 @@
   <string name="gift_operation_fail_dlg_abandon">Cancel</string>
   <string name="gift_operation_fail_dlg_retry">Try again</string>
   <string name="gift_operation_waiting">Just a sec…</string>
-  <string name="gift_owned">Local</string>
+  <string name="gift_owned">Purchased</string>
   <string name="gift_present">Give</string>
   <string name="gift_present_dlg_anonymous">Anonymous gift</string>
   <string name="gift_present_dlg_input_hint">Mi Account ID/Phone</string>
@@ -61,7 +61,7 @@
   <string name="gift_purchase_success_dlg_content">You purchased %1$s as a gift. To send it, go to your Themes Account page.</string>
   <string name="gift_purchase_success_dlg_title">Gift purchased</string>
   <string name="gift_purchased_endnote">To: %1$s</string>
-  <string name="gift_purchased_list_empty">"You haven't given any gifts. :("</string>
+  <string name="gift_purchased_list_empty">"You haven't given any gifts."</string>
   <string name="gift_purchased_list_empty_with_received_list_empty">No gifts.</string>
   <string name="gift_received_endnote">From: %1$s (received %2$s)</string>
   <string name="gift_received_list_empty">"You haven't received any gifts."</string>
@@ -182,7 +182,7 @@
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_failed_to_load_list">"Can't load list"</string>
+  <string name="resource_failed_to_load_list">"Can't load themes."</string>
   <string name="resource_get_auth_checking">Verifying…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -198,7 +198,7 @@
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
-  <string name="resource_my">Local</string>
+  <string name="resource_my">Offline</string>
   <string name="resource_no_match_app">No app was found to handle this action.</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="resource_no_result">"Didn't find anything"</string>
@@ -224,7 +224,7 @@
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_list_empty">"Didn't find anything"</string>
+  <string name="resource_search_list_empty">"Didn't find anything."</string>
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
