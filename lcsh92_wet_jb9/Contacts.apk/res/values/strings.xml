@@ -589,53 +589,53 @@ Reason: \"%s\""</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
   <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
@@ -905,7 +905,7 @@ To add a contact to your list of favorites:
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_failed_to_load_list">"Can't load list"</string>
+  <string name="resource_failed_to_load_list">"Can't load themes."</string>
   <string name="resource_get_auth_checking">Verifying…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -921,7 +921,7 @@ To add a contact to your list of favorites:
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
-  <string name="resource_my">Local</string>
+  <string name="resource_my">Offline</string>
   <string name="resource_no_match_app">No app was found to handle this action.</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="resource_no_result">"Didn't find anything"</string>
@@ -947,7 +947,7 @@ To add a contact to your list of favorites:
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_list_empty">"Didn't find anything"</string>
+  <string name="resource_search_list_empty">"Didn't find anything."</string>
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
@@ -1183,6 +1183,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
+  <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average RMB %d</string>
   <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>
