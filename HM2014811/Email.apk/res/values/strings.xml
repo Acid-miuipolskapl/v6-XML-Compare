@@ -93,6 +93,7 @@
   <string name="account_setup_check_settings_check_outgoing_msg">Validating smtp settings…</string>
   <string name="account_setup_check_settings_retr_info_msg">Retrieving account information…</string>
   <string name="account_setup_creating_account_msg">Creating account…</string>
+  <string name="account_setup_deleting_account_msg">Deleting account…</string>
   <string name="account_setup_exchange_certificate_title">Client certificate</string>
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
   <string name="account_setup_exchange_no_certificate">None</string>

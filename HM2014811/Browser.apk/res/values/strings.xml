@@ -27,6 +27,7 @@
   <string name="action_menu_text_nightmode_on">Night mode</string>
   <string name="action_menu_text_setting">Settings</string>
   <string name="action_menu_text_share">Share</string>
+  <string name="action_menu_text_snapshot">Save page</string>
   <string name="action_menu_text_video">Video</string>
   <string name="actionbar_share">Share</string>
   <string name="actionbar_web_search">Web search</string>
@@ -238,6 +239,7 @@
   <string name="empty_bookmarks_folder">No bookmarks</string>
   <string name="empty_history">History is empty</string>
   <string name="empty_history_hint">Empty</string>
+  <string name="empty_snapshot_hint">Empty</string>
   <string name="empty_snapshots_folder">No saved pages.</string>
   <string name="enter_developer_mode">Enter developer mode</string>
   <string name="enter_incongnito_mode">Enter incognito mode</string>

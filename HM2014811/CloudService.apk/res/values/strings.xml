@@ -10,7 +10,7 @@
   <string name="apple_cloud">Apple Cloud Service</string>
   <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">About RMB 72 per year</string>
-  <string name="bad_authentication">Invalid username or password</string>
+  <string name="bad_authentication">Invalid account or password</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
   <string name="buy_space_expire">Purchased space will expire in %s</string>
@@ -33,7 +33,7 @@
   <string name="enableAll">Sync all</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-  <string name="enable_micloud">Sign up or create an account</string>
+  <string name="enable_micloud">Use Mi Cloud</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
@@ -58,7 +58,7 @@ Locate, lock, or reset your device at "</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
-  <string name="find_device_error_server">Something went wrong with our servers.</string>
+  <string name="find_device_error_server">Server error</string>
   <string name="find_device_noise_title">Locate device sound</string>
   <string name="find_device_notice_p1">Go to</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -113,7 +113,7 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-  <string name="micloud_main_data_unsynced">%d items waiting to sync</string>
+  <string name="micloud_main_data_unsynced">%d waiting to sync</string>
   <string name="micloud_main_detail">View details</string>
   <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
@@ -122,7 +122,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_space_full">Not enough storage space.</string>
   <string name="micloud_main_space_risk">%d items synced.</string>
   <string name="micloud_main_stop_sync">Stop sync</string>
-  <string name="micloud_main_suggest_sync">"Some items haven't synced with your Mi Cloud"</string>
+  <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
@@ -131,7 +131,8 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">Syncing…</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
-  <string name="micloud_main_wlan_sync_data_count">%d items waiting to sync over WLAN</string>
+  <string name="micloud_main_wlan_sync_data_count">"%d items waiting to sync
+over WLAN"</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
@@ -151,7 +152,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s used | %s remaining"</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
-  <string name="micloud_title_full_dspt">"You've reached your storage limit!"</string>
+  <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
   <string name="micloud_upgrade_space">Get more storage space</string>
