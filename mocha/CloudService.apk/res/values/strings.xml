@@ -33,7 +33,7 @@
   <string name="enableAll">Sync all</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
-  <string name="enable_micloud">Sign up or create an account</string>
+  <string name="enable_micloud">Use Mi Cloud</string>
   <string name="enable_sync">Turn on</string>
   <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
