@@ -1084,7 +1084,7 @@ If your system's text is still too small, try using "</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
-  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal info.</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -2660,11 +2660,12 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
   <string name="wifi_context_menu_forget">Forget</string>
+  <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
-  <string name="wifi_disconnected_notification_summary">"You're not connected to WLAN."</string>
+  <string name="wifi_disconnected_notification_summary">"You're no longer connected to WLAN."</string>
   <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
   <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
   <string name="wifi_display_certification">Wireless display certification</string>

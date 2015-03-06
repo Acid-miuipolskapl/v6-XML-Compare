@@ -9,4 +9,12 @@
         <item quantity="other">Updated %d items.</item>
         <item quantity="one">Updated %d item.</item>
     </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%sfeet</item>
+        <item quantity="one">%sfoot</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%sinches</item>
+        <item quantity="one">%sinch</item>
+    </plurals>
 </resources>
