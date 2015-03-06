@@ -299,6 +299,7 @@
   <string name="notification_multiple">%s unread messages</string>
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Enter phone number</string>
+  <string name="open_url_with_web">Whether allow to open url with Web?</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
   <string name="phrase_confirm_delete_message">This response will be deleted.</string>
   <string name="phrase_empty">No responses</string>
@@ -352,11 +353,13 @@
   <string name="pref_title_mms_delete">Multimedia message limit</string>
   <string name="pref_title_mms_read_reports">Read reports</string>
   <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-retrieve</string>
+  <string name="pref_title_mms_validity_period">MMS Validity period</string>
   <string name="pref_title_notification_body_enabled">Show messages on lock screen</string>
   <string name="pref_title_ringtone_repeat">Number of notification sounds</string>
   <string name="pref_title_ringtone_repeat_summary">"Number of times notification sounds when SMS message is received while display is off: "</string>
   <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
+  <string name="pref_title_sms_validity_period">SMS Validity period</string>
   <string name="pref_title_system_mms_priority">Set as default</string>
   <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Wake screen</string>
