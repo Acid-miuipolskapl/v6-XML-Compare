@@ -466,6 +466,11 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_unlock_settings_devices_title">Device</string>
   <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
   <string name="bluetooth_unlock_settings_unlock_device">Unlock device</string>
+  <string name="bluetooth_unlock_state_disconnected">Disconnected</string>
+  <string name="bluetooth_unlock_state_key_error">Key error</string>
+  <string name="bluetooth_unlock_state_label">Status:</string>
+  <string name="bluetooth_unlock_state_ok">Succeed</string>
+  <string name="bluetooth_unlock_state_too_far">Not near enough</string>
   <string name="bluetooth_unlock_title">Unlock with Bluetooth device</string>
   <string name="bluetooth_unlock_turned_off">Turned off</string>
   <string name="bluetooth_unlock_turned_on">Turned on</string>
@@ -781,13 +786,14 @@ This setting affects all users on this phone."</string>
   <string name="device_name_usage_point">This name will be visible to other devices nearby.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
+  <string name="device_security_settings_title">Security</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
   <string name="dialog_content_login">Sign in to your Mi Account to update?</string>
   <string name="dialog_no">No</string>
   <string name="dialog_title_color_calibration">Color Correction preset</string>
-  <string name="dialog_title_font_size">Font size</string>
+  <string name="dialog_title_font_size">Text size</string>
   <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
   <string name="dialog_title_login">Sign in to your Mi Account</string>
   <string name="dialog_yes">Yes</string>
@@ -909,6 +915,7 @@ This setting affects all users on this phone."</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
+  <string name="enable_crypt_keeper_encrypt">Enable encryption</string>
   <string name="enable_drive_mode">Car mode</string>
   <string name="enable_mobile_data_when_opening_hotspot">Turn on mobile data connection too?</string>
   <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
@@ -1183,6 +1190,8 @@ If your system's text is still too small, try using "</string>
   <string name="local_backup_section_summary">Backup system settings, account info, and apps</string>
   <string name="local_backup_section_title">Local backups</string>
   <string name="locale_default">Default</string>
+  <string name="location_access_off">Off</string>
+  <string name="location_access_on">On</string>
   <string name="location_access_summary">Apps can get your location info</string>
   <string name="location_access_title">Location access</string>
   <string name="location_agps_apn_choose_dialog_title">APN types</string>
@@ -1703,6 +1712,8 @@ Select your operating system:"</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
+  <string name="privacy_mode_summary">Userdata will be hidden from user</string>
+  <string name="privacy_mode_title">Permissions</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
@@ -1872,8 +1883,8 @@ Select your operating system:"</string>
   <string name="ringtone_title">Phone ringtone</string>
   <string name="ringtone_uniform_setting_title">Dual SIM settings</string>
   <string name="roaming">Data roaming</string>
-  <string name="roaming_disable">Connect to data services when roaming</string>
-  <string name="roaming_enable">Connect to data services when roaming</string>
+  <string name="roaming_disable">Use mobile data when roaming</string>
+  <string name="roaming_enable">Use mobile data when roaming</string>
   <string name="roaming_reenable_message">You have lost data connectivity because you left your home network with data roaming turned off.</string>
   <string name="roaming_reenable_title">Allow data roaming?</string>
   <string name="roaming_turn_it_on_button">Turn it on</string>
@@ -2275,7 +2286,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font_current">Choose system font</string>
-  <string name="title_font_size">Font size</string>
+  <string name="title_font_size">Text size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_layout_current">Choose font size</string>
   <string name="title_local_resource">Local resources</string>
