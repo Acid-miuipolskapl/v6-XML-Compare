@@ -128,6 +128,7 @@
 		<Triggers>
 			<Trigger action="up">
 				<VariableCommand name="equation" expression="@equation+'.'" type="string" condition="ifelse(eq(strLastIndexOf(@equation,'.'),-1),1,not(strMatches(substr(@equation,strLastIndexOf(@equation,'.')+1),'^\d*$')))"/>
+				<VariableCommand name="finish_eval" expression="0"/>
 			</Trigger>
 		</Triggers>
 	</Button>
