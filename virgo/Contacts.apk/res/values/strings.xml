@@ -880,7 +880,6 @@ To add a contact to your list of favorites:
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
-  <string name="resource_download_notification_content">Tap to view.</string>
   <string name="resource_download_notification_title_many">%1$s themes downloaded</string>
   <string name="resource_download_notification_title_one">Theme downloaded</string>
   <string name="resource_download_trial">Try for free</string>
@@ -930,7 +929,7 @@ To add a contact to your list of favorites:
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
-  <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
   <string name="resource_pack_price_info">Original price: %1$s</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>
@@ -959,6 +958,7 @@ To add a contact to your list of favorites:
   <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Share</string>
   <string name="resource_system_title">System resources</string>
+  <string name="resource_tab_to_view">Tap to view.</string>
   <string name="resource_tip_select_none">None selected</string>
   <string name="resource_title">Details</string>
   <string name="resource_title_category">Categories</string>
