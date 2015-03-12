@@ -29,6 +29,7 @@
   <string name="add_account">Add account</string>
   <string name="add_calendar">订阅</string>
   <string name="add_topic_success">订阅\"%s\"成功</string>
+  <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
   <string name="adding_calendar">订阅中</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
@@ -293,6 +294,11 @@
   <string name="snooze_all_label">Snooze all</string>
   <string name="snooze_label">Snooze</string>
   <string name="subscribe_all">全部订阅</string>
+  <string name="sync_notice_cancel_toast_message">"Local Calendar won't be synced with Mi Cloud"</string>
+  <string name="sync_notice_message">You have not synced Mi calendar yet, turn on the switch now?</string>
+  <string name="sync_notice_ok">Allow</string>
+  <string name="sync_notice_ok_toast_message">Local Calendar will be synced with Mi Cloud</string>
+  <string name="sync_notice_title">Sync request</string>
   <string name="synced">synced</string>
   <string name="tab_category">分类</string>
   <string name="tab_local">我的</string>
@@ -328,7 +334,7 @@
   <string name="widget_select_style">Choose a style</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">五行</string>
-  <string name="xiaomi_calendar_display_name">Calendar</string>
+  <string name="xiaomi_calendar_display_name">Mi Account Calendar</string>
   <string name="xingxiu">星宿</string>
   <string name="yearly">Yearly (every %s)</string>
   <string name="yearly_plain">Yearly</string>

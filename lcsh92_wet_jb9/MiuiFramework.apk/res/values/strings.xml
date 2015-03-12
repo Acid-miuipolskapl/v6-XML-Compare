@@ -192,7 +192,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="solar_calendar">公历</string>
   <string name="spring_begins">立春</string>
-  <string name="status_bar_toggle_ac">Access</string>
+  <string name="status_bar_toggle_ac">Screenlock</string>
   <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
   <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
   <string name="status_bar_toggle_auto_brightness">Brightness</string>
