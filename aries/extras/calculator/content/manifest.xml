@@ -261,6 +261,7 @@
 			<Trigger action="up">
 				<Command target="framerate_controller.animation" value="play"/>
 				<VariableCommand name="equation" expression="@equation+'.'" type="string" condition="ifelse(eq(strLastIndexOf(@equation,'.'),-1),1,not(strMatches(substr(@equation,strLastIndexOf(@equation,'.')+1),'^\d*$')))"/>
+				<VariableCommand name="finish_eval" expression="0"/>
 			</Trigger>
 			<Trigger action="cancel">
 				<Command target="framerate_controller.animation" value="play"/>

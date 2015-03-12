@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
+  <string name="action_mode_deselect_all">Deselect all</string>
+  <string name="action_mode_select_all">Select all</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
   <string name="already_signin_description">"You've already checked in today."</string>
