@@ -40,11 +40,8 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Delete batch</string>
-  <string name="batch_delete_msg">Delete %d contacts?</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
   <string name="blurbJoinContactDataWith">Choose the contact you want to merge with %s:</string>
-  <string name="btn_delete_multi_contacts">Delete %d contacts</string>
-  <string name="btn_delete_one_contact">Delete contact</string>
   <string name="btn_rotation">Rotate</string>
   <string name="btn_split_contact">Separate</string>
   <string name="button_cancel_scan">Stop</string>
@@ -55,7 +52,6 @@
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
   <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
-  <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -165,7 +161,6 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Delete call history?</string>
   <string name="confirm_delete_selected_all_call_logs">Delete call history?</string>
-  <string name="confirm_delete_sim_entry_miui">Delete %d contacts from SIM card?</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
@@ -353,8 +348,6 @@
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
   <string name="export_sim_contact_finish_failure">%1$d transferred | %2$d remaining</string>
-  <string name="export_sim_contact_finish_success">Copied %d contacts</string>
-  <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>

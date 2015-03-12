@@ -185,11 +185,11 @@
         <item>#ffad62a7</item>
     </array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recent</item>
+        <item>Recently viewed</item>
         <item>Format</item>
         <item>Name</item>
         <item>Sender</item>
-        <item>Date</item>
+        <item>Date received</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>System</item>
@@ -197,8 +197,8 @@
         <item>All Folders</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer</item>
-        <item>Older</item>
+        <item>Newer message</item>
+        <item>Older message</item>
         <item>Conversation list</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
