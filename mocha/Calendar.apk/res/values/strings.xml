@@ -112,7 +112,7 @@
   <string name="hour_picker_description">Hours circular slider</string>
   <string name="item_is_selected">%1$s selected</string>
   <string name="loading">Loading…</string>
-  <string name="local_calendar_display_name">Local calendar</string>
+  <string name="local_calendar_display_name">Local Calendar</string>
   <string name="local_owner_account_name">Local account</string>
   <string name="lunar_calendar">农历</string>
   <string name="lunar_yue">月</string>
@@ -252,6 +252,7 @@
   <string name="what_label">What:</string>
   <string name="when_label">When:</string>
   <string name="where_label">Where:</string>
+  <string name="xiaomi_calendar_display_name">Mi Account Calendar</string>
   <string name="year_label">年</string>
   <string name="year_picker_description">Year list</string>
   <string name="yearly">Yearly (every %s)</string>
