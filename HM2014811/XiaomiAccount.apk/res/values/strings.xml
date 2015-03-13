@@ -115,6 +115,7 @@
   <string name="micloud_reg_new">Create Mi Account</string>
   <string name="micloud_space_info">%s available</string>
   <string name="micloud_sync_state_need_wifi">Use WLAN to sync</string>
+  <string name="micloud_sync_state_pending">Pending</string>
   <string name="micloud_sync_state_stop">Stopped</string>
   <string name="micloud_sync_state_synced">Synced</string>
   <string name="micloud_sync_state_syncing">Syncing</string>

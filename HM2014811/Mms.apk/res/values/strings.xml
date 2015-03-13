@@ -34,7 +34,7 @@
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_video">Video</string>
-  <string name="audio_download_failed">"Can't download audio"</string>
+  <string name="audio_download_failed">"Couldn't download audio"</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="back_to_message_list">Back to message list</string>
   <string name="batch_adding_progress_message">Adding…</string>
@@ -42,6 +42,7 @@
   <string name="batch_deleting_message_progress_message">Deleting…</string>
   <string name="batch_deleting_progress_message">Deleting…</string>
   <string name="bcc_label">"Bcc: "</string>
+  <string name="block_messaging_entry_title">Blocked SMS</string>
   <string name="bookmark">Starred</string>
   <string name="bookmark_confirm_delete_message">Unstar selected messages?</string>
   <string name="bookmark_empty">No starred messages</string>
@@ -299,7 +300,7 @@
   <string name="notification_multiple">%s unread messages</string>
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Enter phone number</string>
-  <string name="open_url_with_web">Whether allow to open url with Web?</string>
+  <string name="open_url_with_web">Open this URL in Browser?</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
   <string name="phrase_confirm_delete_message">This response will be deleted.</string>
   <string name="phrase_empty">No responses</string>

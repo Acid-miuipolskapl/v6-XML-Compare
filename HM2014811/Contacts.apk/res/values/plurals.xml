@@ -40,6 +40,14 @@
         <item quantity="other">%1$d Voicemails</item>
         <item quantity="one">Voicemail</item>
     </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM card can store %d contacts.</item>
+        <item quantity="one">SIM card can store %d contact.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Delete %d contacts from SIM card?</item>
+        <item quantity="one">Delete %d contact from SIM card?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selected</item>
         <item quantity="one">%1$d selected</item>
@@ -76,6 +84,14 @@
         <item quantity="other">" %1$d  contacts added"</item>
         <item quantity="one">%1$d contact added</item>
     </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Copied %d contacts</item>
+        <item quantity="one">Copied %d contact</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Delete %d contacts</item>
+        <item quantity="one">Delete contact</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d people</item>
         <item quantity="one">1 person</item>
@@ -84,9 +100,17 @@
         <item quantity="other">%1$d contacts imported</item>
         <item quantity="one">%1$d contact imported</item>
     </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Delete %d contacts?</item>
+        <item quantity="one">Delete %d contact?</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d selected</item>
         <item quantity="zero">%1$d selected</item>
         <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Rang %d times</item>
+        <item quantity="one">Rang %d time</item>
     </plurals>
 </resources>

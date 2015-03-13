@@ -21,6 +21,7 @@
   <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
   <string name="action_menu_text_bookmark">Add bookmark</string>
   <string name="action_menu_text_exit">Exit</string>
+  <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="action_menu_text_history">Bookmarks History</string>
   <string name="action_menu_text_nightmode">Night mode</string>
   <string name="action_menu_text_nightmode_off">Night mode</string>
