@@ -829,7 +829,7 @@ device"</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
   <string name="priority_storage">Save to SD card</string>
   <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically</string>
-  <string name="projection">Project</string>
+  <string name="projection">Cast</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
