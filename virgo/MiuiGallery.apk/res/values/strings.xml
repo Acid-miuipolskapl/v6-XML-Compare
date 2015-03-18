@@ -74,13 +74,13 @@
   <string name="bigscreen_slide_fail_cause_loading">Restart slideshow after loading image</string>
   <string name="bigscreen_slide_playing">Slideshow is playing on %s</string>
   <string name="bigscreen_video_quit">Tap to exit</string>
-  <string name="black_white">Black &amp; white</string>
-  <string name="brannan">Morning</string>
+  <string name="black_white">Flat B&amp;W</string>
+  <string name="brannan">Brannan</string>
   <string name="browse_category">Display</string>
   <string name="by_email">Email</string>
   <string name="by_others">Others</string>
   <string name="by_sms">Text message</string>
-  <string name="camera_black_white">Black &amp; white</string>
+  <string name="camera_black_white">Black &amp;White</string>
   <string name="camera_connected">Camera connected</string>
   <string name="camera_disconnected">Camera disconnected</string>
   <string name="camera_folder_display_name">Camera photos</string>
@@ -521,7 +521,7 @@ with friends"</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
-  <string name="cool">​Cool</string>
+  <string name="cool">Cool</string>
   <string name="cool_portrait">Portrait</string>
   <string name="create_new_cloud_folder">Create new folder</string>
   <string name="create_new_face">New person</string>
@@ -569,10 +569,10 @@ with friends"</string>
   <string name="download_refocus_data">Download refocusing data</string>
   <string name="duotone">Duotone</string>
   <string name="duration">Duration</string>
-  <string name="early_bird">Brannan</string>
+  <string name="early_bird">Earlybird</string>
   <string name="edit">Edit</string>
   <string name="edited_photo_bucket_name">Edited</string>
-  <string name="effect">Effect</string>
+  <string name="effect">Filters</string>
   <string name="email_picker_title">Add shared Email</string>
   <string name="enable">Turn on</string>
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
@@ -767,7 +767,7 @@ device"</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
   <string name="not_now">Not now</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
-  <string name="old">​Old</string>
+  <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Only show camera roll</string>
   <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
   <string name="open">Enable</string>
@@ -861,7 +861,7 @@ device"</string>
   <string name="request_sms_url_title">Hint</string>
   <string name="retry_to_create_album">Retry</string>
   <string name="retry_to_request_qr_code">Retry</string>
-  <string name="rise">Rising</string>
+  <string name="rise">Warm</string>
   <string name="rotate">Rotate</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
