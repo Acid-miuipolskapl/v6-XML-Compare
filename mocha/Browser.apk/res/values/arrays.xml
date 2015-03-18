@@ -24,6 +24,7 @@
         <item>0x99000000</item>
         <item>0xffffffff</item>
     </integer-array>
+    <array name="config_keySystemUuidMapping" />
     <string-array name="readmode_theme_names">
         <item>White</item>
         <item>Yellow</item>

@@ -152,7 +152,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="lunar_zheng">正</string>
   <string name="maml_component_customization_title">Settings</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-  <string name="memory_clear_result">%1$s cleared | %2$s available</string>
+  <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day">国庆节</string>
   <string name="national_father_day">國父誕辰</string>
