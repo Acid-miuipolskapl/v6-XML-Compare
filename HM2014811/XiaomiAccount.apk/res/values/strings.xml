@@ -121,7 +121,7 @@
   <string name="micloud_sync_state_syncing">Syncing</string>
   <string name="micloud_user_base_info">User info</string>
   <string name="mili_center">Mi Credits</string>
-  <string name="mipay_center">Wallet</string>
+  <string name="mipay_center">Mi Wallet</string>
   <string name="my_device_title">Current device</string>
   <string name="next">Next</string>
   <string name="no_network_btn">Refresh</string>
