@@ -381,6 +381,7 @@ Reason: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequently contacted</string>
   <string name="favorites_list_empty">No favorites</string>
   <string name="firewall_setting">Blocklist</string>
+  <string name="followed_yellowpage">Followed directories</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
@@ -1089,7 +1090,6 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>
   <string name="starred_contacts">Favorites</string>
-  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
