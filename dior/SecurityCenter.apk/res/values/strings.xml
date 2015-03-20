@@ -654,6 +654,7 @@
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
   <string name="summary_data_flow">"Avoid going over your carrier plan's monthly data limit"</string>
+  <string name="summary_default_app">"%s isn't set as a default system app"</string>
   <string name="summary_delete_cache">Some apps may require this data to work normally.</string>
   <string name="summary_delete_large_file">"Some large files may be useful when you don't have an internet connection (e.g. maps, schedules, etc.). Make sure you don't need this file."</string>
   <string name="summary_dev">Prevent apps from accessing user data</string>
@@ -694,6 +695,7 @@
   <string name="title_data_flow">Set a data usage warning</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
+  <string name="title_default_app">"MIUI %s isn't set as default"</string>
   <string name="title_delete_cache">Delete cached data?</string>
   <string name="title_delete_large_file">Delete this file?</string>
   <string name="title_dev_no">Developer options on</string>
@@ -733,6 +735,7 @@
   <string name="toast_backup_uninstall_failed">Failed to back up %d apps. Wait a bit and try again.</string>
   <string name="toast_backup_uninstall_success">Backup and uninstall complete</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
+  <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
   <string name="toast_flow_notification">Turned on data usage notifications</string>
   <string name="toast_garbage_cleanup_success">Clean up finished</string>
   <string name="toast_garbage_lib">Turned on automatic updates for Cleaner</string>
