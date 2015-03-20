@@ -107,8 +107,11 @@ For more info check the message you received from your carrier"</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming internationally</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
-  <string name="lock_screen_setting_summary">Show notification after 100KB has been used at lock screen</string>
-  <string name="lock_screen_traffic_notify_body">Locked for %1$s | Used %2$s of mobile data</string>
+  <string name="lock_screen_setting_summary">Show notification when over 100KB is used in less than 2 days</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
+  <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
+  <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
+  <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
   <string name="lock_screen_traffic_warn_title">Lock screen notifications</string>
   <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
@@ -311,7 +314,10 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="ten_percent_total_pkg">%s (10%% of your monthly mobile data)</string>
   <string name="text_day"/>
   <string name="three_percent_total_pkg">%s (3%% of your monthly mobile data)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
   <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m">%dm</string>
   <string name="timeshow_m_s">%1$dm %2$ds</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Don't know your limit?"</string>

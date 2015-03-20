@@ -1090,7 +1090,6 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>
   <string name="starred_contacts">Favorites</string>
-  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
