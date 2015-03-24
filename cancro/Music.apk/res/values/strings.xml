@@ -7,6 +7,7 @@
   <string name="action_item_add_to_new_playlist">New</string>
   <string name="action_item_delete">Delete</string>
   <string name="action_item_download">Download</string>
+  <string name="action_item_favorite">Favorite</string>
   <string name="action_item_hide">Hide</string>
   <string name="action_item_remove">Remove</string>
   <string name="action_item_send">Send</string>
@@ -62,6 +63,7 @@
   <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
+  <string name="download_all_song">Download all</string>
   <string name="download_auto_after_favorite_summary">Automatically download songs you favorite</string>
   <string name="download_auto_after_favorite_title">Download favorites</string>
   <string name="download_auto_cancel">Download favorites is off</string>
@@ -183,6 +185,7 @@
   <string name="modify_progress">Change lyrics scroll speed</string>
   <string name="modify_progress_helper">Swipe up or down to adjust lyrics progress.</string>
   <string name="modify_song_info">Edit song info</string>
+  <string name="more_about_artist">More about %s</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
   <string name="music_quality">Music quality</string>
@@ -219,6 +222,7 @@
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
   <string name="period_format">%1$s-%2$s</string>
+  <string name="play_all_song">Play all</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
   <string name="playlist_deleted_message">Playlist deleted</string>
   <string name="playlist_renamed_message">Playlist renamed</string>
