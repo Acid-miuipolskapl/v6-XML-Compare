@@ -49,6 +49,9 @@
   <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
   <string name="alert_secret_album_title">Added to hidden album</string>
   <string name="already_apply_album">Open %1$s?</string>
+  <string name="always_rotate_alert_msg">Disable it in Gallery Settings</string>
+  <string name="always_rotate_alert_positive_button_text">Enable Now</string>
+  <string name="always_rotate_alert_title">Enable auto-rotate images</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
   <string name="aperture">Aperture</string>
@@ -520,6 +523,7 @@ with friends"</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
   <string name="contrast">Contrast</string>
+  <string name="contrast_abbr">C</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Cool</string>
   <string name="cool_portrait">Portrait</string>
@@ -656,6 +660,7 @@ with friends"</string>
   <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="height">Height</string>
   <string name="highlight">Highlights</string>
+  <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" shots in camera roll"</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
@@ -791,7 +796,7 @@ device"</string>
   <string name="operation_unset_as_screensaver">Cancel screensaver</string>
   <string name="orientation">Orientation</string>
   <string name="original">Original</string>
-  <string name="original_scale">Original scale</string>
+  <string name="original_scale">Original</string>
   <string name="other_category">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s users</string>
   <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
@@ -867,6 +872,7 @@ device"</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
   <string name="same_name_album_exists_alert">Photos will be added to an existing album with the same name.</string>
   <string name="saturation">Saturation</string>
+  <string name="saturation_abbr">S</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Save</string>
   <string name="save_error">"Couldn't save cropped image"</string>
@@ -937,6 +943,7 @@ device"</string>
   <string name="slideshow_interval_dialog_title">Slide interval must be greater than 0 seconds</string>
   <string name="slideshow_interval_invalid">Interval must be between 1 and 3600 seconds</string>
   <string name="slideshow_repeat_mode">Loop</string>
+  <string name="sports_camera">Sports Camera</string>
   <string name="square">Square</string>
   <string name="start_slide_show">Start slide show</string>
   <string name="start_to_use_face_albumset">Sort by people</string>
@@ -1013,5 +1020,5 @@ device"</string>
   <string name="wps">WPS</string>
   <string name="yellow_page">Directory</string>
   <string name="yes">Yes</string>
-  <string name="yunyi_pocket_camera">Pocket Camera</string>
+  <string name="yunyi_pocket_camera">Sports Camera</string>
 </resources>

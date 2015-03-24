@@ -307,8 +307,7 @@
     </integer-array>
     <string-array name="config_locationProviderPackageNames">
         <item>com.android.location.fused</item>
-        <item>com.google.android.gms</item>
-        <item>com.amap.android.location</item>
+        <item>com.baidu.map.location</item>
     </string-array>
     <array name="config_twoDigitNumberPattern" />
     <array name="config_sms_enabled_single_shift_tables" />

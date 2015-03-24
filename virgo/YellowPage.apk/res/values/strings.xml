@@ -352,4 +352,9 @@ Total: RMB %3$s"</string>
   <string name="voicemail">Voicemail</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
   <string name="yellow_page_website">Official website</string>
+  <string name="yellowpage_navigation_network_location_enable">Allow</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
+  <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
 </resources>
