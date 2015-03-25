@@ -10,14 +10,14 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="alter_dialog_message">Using mobile data when roaming internationally may result in additional charges from your carrier.</string>
-  <string name="apn_exception_summary">Carrier Access point information set abnormalities</string>
+  <string name="apn_exception_summary">"Test carrer's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Data</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
-  <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top-up now"</string>
+  <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top up now"</string>
   <string name="arrearage_exception_title">Your balance is too low</string>
   <string name="background_traffic">Background %s</string>
   <string name="begin_date">Usage cycle reset date</string>
@@ -126,7 +126,7 @@ For more info check the message you received from your carrier"</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming internationally</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
-  <string name="load_fail">"Can't load"</string>
+  <string name="load_fail">"Couldn't load"</string>
   <string name="lock_screen_setting_summary">Show notification when over 100KB is used in less than 2 days</string>
   <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
   <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
@@ -186,10 +186,12 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="network_diagnostics">Test network</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
-  <string name="notify_daily_limit_body">%s used this week. Tap to set limit.</string>
+  <string name="notify_daily_limit_body">%s used today. Tap to set limit.</string>
   <string name="notify_daily_limit_title">Set a daily data limit</string>
+  <string name="notify_daily_limit_title_for_slotnum">Set daily data limit for %s</string>
   <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
   <string name="notify_setting_pkg_title">Set your monthly data limit</string>
+  <string name="notify_setting_pkg_title_for_slotnum">Set monthly data limit for %s</string>
   <string name="notify_weekly_pkg_body">%s used this week. Tap to set limit.</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
@@ -201,7 +203,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="pay_charge">Top-up</string>
+  <string name="pay_charge">Purchase additional data</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
@@ -289,7 +291,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="repair">Repair</string>
-  <string name="replace_dns">Auto replacement</string>
+  <string name="replace_dns">Replace DNS automatically</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps on whitelist will be able to use mobile data when roaming internationally.</string>
   <string name="roaming_not_start_title">International roaming</string>
@@ -455,7 +457,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="usage_sorted_empty_text">Empty</string>
   <string name="usage_sorted_loading_text">Loading…</string>
   <string name="usbsharenet_exception_summary">"Can't test network being shared by Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Test Usb Sharenet network</string>
+  <string name="usbsharenet_exception_title">Test USB shared network</string>
   <string name="wifi_exception_summary">Test an available WLAN network</string>
   <string name="wifi_exception_title">Test WLAN network</string>
 </resources>

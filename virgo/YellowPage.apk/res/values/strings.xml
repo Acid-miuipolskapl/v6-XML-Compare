@@ -11,6 +11,7 @@
   <string name="account_updating_device_failed">"Couldn't sign in"</string>
   <string name="account_verify_password">"You're using this service on another device. For security, you need to verify your Mi Account on this device."</string>
   <string name="account_yellowpage_favorite">Favorites</string>
+  <string name="account_yellowpage_followed">Verified Accounts</string>
   <string name="account_yellowpage_recent">View history</string>
   <string name="agree">Agree</string>
   <string name="all_services">All</string>
