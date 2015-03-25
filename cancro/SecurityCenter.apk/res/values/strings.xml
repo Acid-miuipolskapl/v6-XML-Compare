@@ -139,6 +139,10 @@
   <string name="clean_content_three">Skip %s</string>
   <string name="clean_content_two">%1$s and %2$s</string>
   <string name="clean_content_zero">"Don't clean anything"</string>
+  <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
+  <string name="cmcc_app_check_dialog_negative">Later</string>
+  <string name="cmcc_app_check_dialog_positive">Restart now</string>
+  <string name="cmcc_app_check_dialog_title">System repaired</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancel</string>
@@ -349,8 +353,10 @@
   <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
   <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
+  <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
   <string name="notification_summary_of_low_memory">When memory is low, will not install new apps</string>
+  <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="notification_title_of_garbage_cleanup">Trash size</string>
   <string name="notification_title_of_low_memory">%s of space used</string>
@@ -653,6 +659,7 @@
   <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
+  <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
   <string name="summary_data_flow">"Avoid going over your carrier plan's monthly data limit"</string>
   <string name="summary_default_app">"%s isn't set as a default system app"</string>
   <string name="summary_delete_cache">Some apps may require this data to work normally.</string>
@@ -692,6 +699,7 @@
   <string name="title_cleaner_cloudscan">Upload folder names</string>
   <string name="title_cloud_account">Mi Account</string>
   <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cmcc_app_check">"Verification isn't complete"</string>
   <string name="title_data_flow">Set a data usage warning</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
