@@ -381,7 +381,7 @@ Reason: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequently contacted</string>
   <string name="favorites_list_empty">No favorites</string>
   <string name="firewall_setting">Blocklist</string>
-  <string name="followed_yellowpage">Followed directories</string>
+  <string name="followed_yellowpage">Verified Accounts</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
@@ -957,7 +957,7 @@ To add a contact to your list of favorites:
   <string name="resource_title">Details</string>
   <string name="resource_title_category">Categories</string>
   <string name="resource_title_hot_subject">Popular</string>
-  <string name="resource_title_local">Local</string>
+  <string name="resource_title_local">Offline</string>
   <string name="resource_title_rank">Top charts</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_title_subject">Featured</string>
@@ -1169,11 +1169,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
-  <string name="yellowpage_navigation_network_location_enable">Allow</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
-  <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
   <string name="yellowpage_navigation_search_history">History</string>
