@@ -726,7 +726,9 @@ uploaded to the server."</string>
   <string name="set_weight_goal_yes">Set weight goal</string>
   <string name="set_weight_unit">Set weight units</string>
   <string name="setgoalafterweight">Set your goal after you weigh yourself.</string>
-  <string name="setting_about_app">App version </string>
+  <string name="setting_about_app">"App version:
+Tweaked by dezmen3
+Notifications by mksaint13"</string>
   <string name="setting_about_fw">Version </string>
   <string name="setting_daily_sport_notify">Daily sport result notify</string>
   <string name="setting_daily_sport_notify_info">Remind me at 9:30PM.</string>
@@ -1063,8 +1065,8 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="user_agreement_ux">User Experience Program</string>
   <string name="user_set_succ_info">请打开%1$sAPP完成第一次称重</string>
   <string name="user_staron_me">Followers</string>
-  <string name="vibrate_notify">Vibrate for notifications</string>
-  <string name="vibrate_notify_tips">Vibrate band when a you receive a notification</string>
+  <string name="vibrate_notify">Vibration Status</string>
+  <string name="vibrate_notify_tips">Show bracelet vibration info in status bar</string>
   <string name="visit_micom">Visit website</string>
   <string name="visitor">Guest</string>
   <string name="visitor_weight">Guest weight</string>
