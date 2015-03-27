@@ -506,7 +506,7 @@
   <string name="head_only_enable_dialog_title">Reduce mobile data usage</string>
   <string name="header_category_account">Accounts</string>
   <string name="header_category_general">@string/header_label_general_preferences</string>
-  <string name="header_category_other">Additional settings</string>
+  <string name="header_category_other">Feedback</string>
   <string name="header_label_general_preferences">General</string>
   <string name="help_and_info">Help</string>
   <string name="hide_atts_remaining">Hide %1$d attachments</string>
@@ -877,6 +877,7 @@ CC: %4$s
   <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
+  <string name="sdcard_cannot_use">Storage card can not be used</string>
   <string name="search_attachment">Search</string>
   <string name="search_hint">Search mail</string>
   <string name="search_result">Results</string>
@@ -988,6 +989,12 @@ CC: %4$s
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
+  <string name="upload_log">Upload diagnostic logs</string>
+  <string name="upload_log_failed">Logs upload failed</string>
+  <string name="upload_log_success">Logs uploaded successfully</string>
+  <string name="upload_log_title">Upload the diagnostic logs?</string>
+  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="uploading_logs">Uploading logs</string>
   <string name="validation_failed_prompt">"Can't verify account, check %s server settings"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1013,5 +1020,6 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
+  <string name="you_are_in_mobile_network">You are currently using a mobile network, please pay attention to the traffic!</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>

@@ -241,7 +241,7 @@
   <string name="resource_title">Details</string>
   <string name="resource_title_category">Categories</string>
   <string name="resource_title_hot_subject">Popular</string>
-  <string name="resource_title_local">Local</string>
+  <string name="resource_title_local">Offline</string>
   <string name="resource_title_rank">Top charts</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_title_subject">Featured</string>
@@ -329,7 +329,7 @@
   <string name="theme_yes">Yes</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Customize theme</string>
-  <string name="title_system_resource">Local</string>
+  <string name="title_system_resource">Offline</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>
