@@ -192,7 +192,7 @@ Do you want to close it?"</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent"/>
   <string name="config_mms_user_agent_profile_url"/>
-  <string name="config_networkLocationProviderPackageName">@null</string>
+  <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
   <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_tether_apndata"/>
