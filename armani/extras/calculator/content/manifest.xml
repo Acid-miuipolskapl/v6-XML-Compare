@@ -261,6 +261,7 @@
 			<Trigger action="up">
 				<Command target="framerate_controller.animation" value="play"/>
 				<VariableCommand name="equation" expression="@equation+'.'" type="string" condition="ifelse(eq(strLastIndexOf(@equation,'.'),-1),1,not(strMatches(substr(@equation,strLastIndexOf(@equation,'.')+1),'^\d*$')))"/>
+				<VariableCommand name="finish_eval" expression="0"/>
 			</Trigger>
 			<Trigger action="cancel">
 				<Command target="framerate_controller.animation" value="play"/>
@@ -300,8 +301,7 @@
 			    <VariableCommand name="equation_pow" expression="substr(@equation,0,#end_of_base)+ @pow_for_E + @equation_pow_temp" type="string" condition="strContains(@equation,'E')"/>
 			    <VariableCommand name="equation_normalized" expression="ifelse(strContains(@equation,'E'),@equation_pow,@equation)" type="string"/>
 			    <VariableCommand name="equation_normalized" expression="ifelse(strMatches(@equation_normalized,'.*[\\+*/-]$'),substr(@equation_normalized,0,len(@equation_normalized)-1),@equation_normalized)" type="string"/>
-			    <VariableCommand name="equation" expression="ifelse(strContains(@equation_normalized,'-∞'),'-∞', strContains(@equation_normalized,'∞'),'∞', preciseeval(@equation_normalized))" type="string"/>
-			    <VariableCommand name="equation" expression="strReplace(@equation,'Infinity','∞')" type="string"/>
+			    <VariableCommand name="equation" expression="ifelse(strContains(@equation_normalized,'NaN'),'NaN',preciseeval(@equation_normalized,8))" type="string"/>
 			    <VariableCommand name="show_equation" expression="1"/>
                 <!-- for better experience -->
                 <VariableCommand name="finish_eval" expression="1"/>

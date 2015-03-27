@@ -7,6 +7,7 @@
   <string name="button_start_now">Start now</string>
   <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
   <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
+  <string name="dialog_not_show_again">不再提示</string>
   <string name="download_error">Unsuccessful</string>
   <string name="download_no_application_title">"Can't open file"</string>
   <string name="download_percent">%d%%</string>
@@ -15,10 +16,16 @@
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_unknown_title">&lt;Untitled&gt;</string>
+  <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
+  <string name="notif_text_engine_on">Accelerating…</string>
+  <string name="notif_title_file_size">共%1$d个文件</string>
+  <string name="notif_title_multiple_downloading">Downloading %1$d files</string>
+  <string name="notif_title_single_downloading">正在下载%1$s</string>
   <string name="notification_download_complete">Download complete.</string>
   <string name="notification_download_failed">Download unsuccessful.</string>
   <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
   <string name="notification_paused_in_background">Paused in background.</string>
+  <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Allows the app to download files to the download cache, which can't be automatically deleted when the download manager needs more space."</string>
   <string name="permdesc_downloadCompletedIntent">Allows the app to send notifications about completed downloads. Malicious apps can use this to confuse other apps that download files.</string>
@@ -41,6 +48,10 @@
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Task already exists</string>
+  <string name="warning_tip_cancel">继续下载</string>
+  <string name="warning_tip_content">无线网络已经中断，如果继续下载会使用您的数据流量，可能会产生额外费用，建议您暂停下载。</string>
+  <string name="warning_tip_ok">暂停</string>
+  <string name="warning_tip_title">数据网络切换警告</string>
   <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
 
  Touch %s to start this download the next time you're connected to a WLAN network."</string>

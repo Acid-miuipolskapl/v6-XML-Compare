@@ -34,10 +34,11 @@
   <string name="format_move_notes_to_folder">Moved %1$s to %2$s</string>
   <string name="hint_foler_name">Name</string>
   <string name="info_note_enter_desktop">Added to Home screen</string>
+  <string name="loading_text">Loading…</string>
   <string name="login_sync">Sign in &amp; sync</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
-  <string name="menu_move">Move</string>
+  <string name="menu_folders">Folders</string>
   <string name="menu_move_parent_folder">Parent folder</string>
   <string name="menu_send_to_desktop">Place on Home screen</string>
   <string name="menu_send_wechat">Send to WeChat</string>
@@ -96,11 +97,20 @@
   <string name="sns_toast_over_limit">Sent as image (over text limit)</string>
   <string name="toast_folder_privacy_mode">"Can't edit folder in Guest mode"</string>
   <string name="toast_message_add_image_fail">"Couldn't add image"</string>
+  <string name="toast_message_add_text_warn">"This type of file isn't supported"</string>
   <string name="toast_note_privacy_mode">"Can't create note in Guest mode"</string>
   <string name="toast_reach_text_limit_attachment">"Can't add new attachments because note is too long"</string>
   <string name="toast_reach_text_limit_truncate">This note is too long. Some text has been cut off of the end to make it fit.</string>
   <string name="undo">Undo</string>
   <string name="unknown_source">Unknown source</string>
+  <string name="welcome_note_for_cm">"And more great features!
+  - Sync with Mi Cloud
+  - Save on exit
+  - Set reminders
+
+To learn more, visit
+http://www.miui.com/forum.php?lang=1
+"</string>
   <string name="widget_content_loading">Loading…</string>
   <string name="widget_havenot_content">No associated note found. Touch to create an associated note. To resize it, hold &amp; drag an edge.</string>
   <string name="widget_under_privacy_mode">"Can't view notes in Guest mode"</string>

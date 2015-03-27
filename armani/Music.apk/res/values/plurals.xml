@@ -19,6 +19,10 @@
         <item quantity="other">%d songs</item>
         <item quantity="one">%d song</item>
     </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d similar songs</item>
+        <item quantity="one">%d similar song</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d songs added to playlist</item>
         <item quantity="one">Song added to playlist</item>
@@ -38,5 +42,9 @@
     <plurals name="folder_songs_count">
         <item quantity="other">%d songs</item>
         <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d songs added</item>
+        <item quantity="one">%d song added</item>
     </plurals>
 </resources>

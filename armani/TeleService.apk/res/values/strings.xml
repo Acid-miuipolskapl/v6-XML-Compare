@@ -357,6 +357,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">"Couldn't make call."</string>
   <string name="incall_error_emergency_only">Not registered on network.</string>
+  <string name="incall_error_no_active_sim">"SIM card hasn't been activated"</string>
   <string name="incall_error_no_phone_number_supplied">The number you entered is invalid.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, turn off Airplane mode.</string>
@@ -364,6 +365,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">International news is off</string>
   <string name="international_enable">International news is on</string>
+  <string name="international_roaming_setting">International roaming</string>
   <string name="internet_phone">Internet call</string>
   <string name="invalid_password">Enter a password that is 4 numbers long</string>
   <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
@@ -448,6 +450,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_default_setting">Default settings</string>
   <string name="msim_enable_sim">Turn on</string>
   <string name="msim_general_setting">Settings</string>
+  <string name="msim_has_been_disabled">(Disabled)</string>
   <string name="msim_info_editor_name">Edit SIM card name</string>
   <string name="msim_info_editor_number">Edit SIM card number</string>
   <string name="msim_info_editor_set_name_error">"Couldn't save name"</string>
@@ -615,6 +618,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">Prefer 3G</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prefer 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Prefer LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prefer 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automatic</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">2G only (saves battery)</string>
@@ -730,8 +734,6 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="simContacts_airplaneMode">To import contacts from the SIM card, turn off Airplane mode.</string>
   <string name="simContacts_emptyLoading">Reading…</string>
   <string name="simContacts_title">Manage SIM card contacts</string>
-  <string name="sim_cards_network_mode_changed_summary">Touch to view SMS and call settings.</string>
-  <string name="sim_cards_network_mode_changed_title">New SIM card detected</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>

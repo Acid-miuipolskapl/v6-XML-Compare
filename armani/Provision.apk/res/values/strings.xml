@@ -7,10 +7,11 @@
   <string name="ime_privacy_policy_no_network">No network connection. View the Privacy Policy for this keyboard at %s</string>
   <string name="input_method_category">"Choose the default keyboard that you'll use when writing emails, notes, and just about everywhere else. Note that you can install other third-party keyboards later."</string>
   <string name="input_method_setting">Choose default keyboard</string>
-  <string name="locale_picker_confirm_dialog_desc">"Set %s as your location? "</string>
-  <string name="locale_picker_confirm_dialog_title">Choose your location</string>
-  <string name="locale_picker_desc">"If you want to change your location later on, you'll need to reset your device to its factory settings."</string>
-  <string name="locale_picker_title">Choose your location</string>
+  <string name="install_preinstall_app">Loading apps…</string>
+  <string name="locale_picker_confirm_dialog_desc">"Set %s as your locale? "</string>
+  <string name="locale_picker_confirm_dialog_title">Choose your locale</string>
+  <string name="locale_picker_desc">"If you want to change your locale later on, you'll need to reset your device to its factory settings."</string>
+  <string name="locale_picker_title">Choose your locale</string>
   <string name="miui_privacy_policy_no_network">"You don't have a network connection. View the Privacy Policy at %s"</string>
   <string name="miui_terms_no_network">"You don't have a network connection. View the Terms of Service at %s"</string>
   <string name="multisim_settings_category">SIM card settings</string>
@@ -33,13 +34,13 @@
   <string name="provision_inputmethod_policy_description">"
 View the selected keyboard's "</string>
   <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
-  <string name="setting_locale">Setting location…</string>
+  <string name="setting_locale">Setting locale…</string>
   <string name="shut_down">Shut down</string>
   <string name="sim_card_detecting">Checking for SIM card…</string>
   <string name="sim_card_detection">Insert SIM card</string>
   <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
   <string name="sim_dectection_next">Continue</string>
-  <string name="sim_redetection">Check for SIM card again</string>
+  <string name="sim_redetection">Check again</string>
   <string name="summary_not_set">Not set</string>
   <string name="summary_sim_card">Card %1$d%2$s</string>
   <string name="terms_of_use">Terms and Conditions</string>

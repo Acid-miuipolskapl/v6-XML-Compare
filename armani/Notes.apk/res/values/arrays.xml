@@ -33,11 +33,11 @@
         <item>Super</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Now you can easily jot down ideas, memos, thoughts using
+        <item>"Tap to create a note
 "</item>
-        <item>"Attach pictures or contacts
+        <item>"To add a picture or show checkboxes, tap the button below
 "</item>
-        <item>"Check off tasks with your finger
+        <item>"Press and hold a note to pin, move, or delete it
 "</item>
         <item>"And more great features!
   - Sync with Mi Cloud

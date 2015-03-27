@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="click_to_enter_text">Tap to view</string>
   <string name="confirm_pin_msg">Enter PIN again</string>
   <string name="default_lockscreen_unlock_hint_text">Slide up to unlock</string>
   <string name="delete">Delete</string>
@@ -23,7 +24,7 @@
   <string name="input_puk_code">Input PUK</string>
   <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
-  <string name="lock_screen_date">E MM/dd</string>
+  <string name="lock_screen_date">EEE, MMMM dd</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
@@ -41,6 +42,8 @@
   <string name="login_website_in_case_forget_password">To reset your password, go to www.mi.com/micloud</string>
   <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
+  <string name="open_camera_hint_text">Swipe left to open Camera</string>
+  <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
   <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_string">Phone has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>

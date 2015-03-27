@@ -190,9 +190,9 @@ Do you want to close it?"</string>
   <string name="config_geofenceProviderPackageName">@null</string>
   <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
   <string name="config_isoImagePath"/>
-  <string name="config_mms_user_agent">Android-Mms/2.0</string>
-  <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
+  <string name="config_mms_user_agent"/>
+  <string name="config_mms_user_agent_profile_url"/>
+  <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
   <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_tether_apndata"/>
@@ -525,7 +525,7 @@ Try again in %d seconds."</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
   <string name="lockscreen_battery_short">%d%%</string>
-  <string name="lockscreen_carrier_default">No service.</string>
+  <string name="lockscreen_carrier_default">No service</string>
   <string name="lockscreen_charged">Charged</string>
   <string name="lockscreen_emergency_call">Emergency call</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>

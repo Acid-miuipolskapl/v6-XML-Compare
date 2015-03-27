@@ -289,26 +289,11 @@
         <item>220</item>
         <item>255</item>
     </integer-array>
-    <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
-    <integer-array name="config_autoBrightnessKeyboardBacklightValues">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
+    <array name="config_autoBrightnessButtonBacklightValues" />
+    <array name="config_autoBrightnessKeyboardBacklightValues" />
     <string-array name="config_locationProviderPackageNames">
         <item>com.android.location.fused</item>
-        <item>com.google.android.gms</item>
-        <item>com.amap.android.location</item>
+        <item>com.baidu.map.location</item>
     </string-array>
     <array name="config_twoDigitNumberPattern" />
     <array name="config_sms_enabled_single_shift_tables" />

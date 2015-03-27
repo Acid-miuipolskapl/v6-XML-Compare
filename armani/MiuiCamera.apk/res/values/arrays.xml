@@ -148,21 +148,21 @@
     </string-array>
     <string-array name="pref_camera_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_auto</item>
-        <item>@string/pref_camera_flashmode_entry_off</item>
         <item>@string/pref_camera_flashmode_entry_on</item>
         <item>@string/pref_camera_flashmode_entry_torch</item>
+        <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
         <item>auto</item>
-        <item>off</item>
         <item>on</item>
         <item>torch</item>
+        <item>off</item>
     </string-array>
     <array name="camera_flashmode_icons">
         <item>@drawable/v6_ic_flash_button_auto</item>
-        <item>@drawable/v6_ic_flash_button_off</item>
         <item>@drawable/v6_ic_flash_button_on</item>
         <item>@drawable/v6_ic_flash_button_torch</item>
+        <item>@drawable/v6_ic_flash_button_off</item>
     </array>
     <array name="camera_skin_beautify_icons">
         <item>@drawable/ic_camera_skin_beatify_close</item>
@@ -176,17 +176,23 @@
         <item>i:2</item>
         <item>i:3</item>
     </string-array>
+    <string-array name="pref_camera_skin_beautify_entries">
+        <item>@string/face_beauty_intelligent_level_0</item>
+        <item>@string/face_beauty_intelligent_level_1</item>
+        <item>@string/face_beauty_intelligent_level_2</item>
+        <item>@string/face_beauty_intelligent_level_3</item>
+    </string-array>
     <string-array name="pref_camera_video_flashmode_entries">
-        <item>@string/pref_camera_flashmode_entry_off</item>
         <item>@string/pref_camera_flashmode_entry_on</item>
+        <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
-        <item>off</item>
         <item>torch</item>
+        <item>off</item>
     </string-array>
     <array name="video_flashmode_icons">
-        <item>@drawable/v6_ic_flash_button_off</item>
         <item>@drawable/v6_ic_flash_button_on</item>
+        <item>@drawable/v6_ic_flash_button_off</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
         <item>on</item>
@@ -546,14 +552,6 @@
         <item>@string/pref_camera_zsl_value_on</item>
         <item>@string/pref_camera_zsl_value_off</item>
     </string-array>
-    <string-array name="pref_camera_hdr_type_entries">
-        <item>@string/pref_camera_hdr_type_entry_normal</item>
-        <item>@string/pref_camera_hdr_type_entry_live</item>
-    </string-array>
-    <string-array name="pref_camera_hdr_type_entryvalues">
-        <item>@string/pref_camera_hdr_type_entryvalue_normal</item>
-        <item>@string/pref_camera_hdr_type_entryvalue_live</item>
-    </string-array>
     <array name="camera_coloreffect_largeIcons">
         <item>@drawable/ic_camera_coloreffect_none</item>
         <item>@drawable/ic_camera_coloreffect_mono</item>
@@ -636,14 +634,6 @@
         <item>@string/face_beauty_age_alias_female_45_60</item>
         <item>@string/face_beauty_age_alias_female_60_m</item>
     </string-array>
-    <string-array name="pref_camera_multiple_face_beauty_entries">
-        <item>@string/pref_camera_multiple_face_beauty_entry_off</item>
-        <item>@string/pref_camera_multiple_face_beauty_entry_on</item>
-    </string-array>
-    <string-array name="pref_camera_multiple_face_beauty_entryvalues">
-        <item>@string/pref_camera_multiple_face_beauty_values_off</item>
-        <item>@string/pref_camera_multiple_face_beauty_values_on</item>
-    </string-array>
     <string-array name="pref_camera_setting_switch_entryvalues">
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
         <item>@string/pref_camera_setting_switch_entryvalue_on</item>
@@ -675,5 +665,59 @@
     <string-array name="pref_camera_long_press_shutter_feature_entryvalues">
         <item>burst</item>
         <item>focus</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_default">
+        <item>@string/pref_camera_hdr_entryvalue_auto</item>
+        <item>@string/pref_camera_hdr_entryvalue_off</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_entries">
+        <item>@string/pref_camera_hdr_entry_auto</item>
+        <item>@string/pref_camera_hdr_entry_normal</item>
+        <item>@string/pref_camera_hdr_entry_live</item>
+        <item>@string/pref_camera_hdr_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_hdr_entryvalues">
+        <item>@string/pref_camera_hdr_entryvalue_auto</item>
+        <item>@string/pref_camera_hdr_entryvalue_normal</item>
+        <item>@string/pref_camera_hdr_entryvalue_live</item>
+        <item>@string/pref_camera_hdr_entryvalue_off</item>
+    </string-array>
+    <string-array name="pref_simple_hdr_entries">
+        <item>@string/pref_simple_hdr_entry_on</item>
+        <item>@string/pref_simple_hdr_entry_off</item>
+    </string-array>
+    <string-array name="pref_simple_hdr_entryvalues">
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_countdown_entries">
+        <item>@string/pref_camera_countdown_entry_3s</item>
+        <item>@string/pref_camera_countdown_entry_5s</item>
+        <item>@string/pref_camera_countdown_entry_10s</item>
+    </string-array>
+    <string-array name="pref_camera_countdown_entryvalues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_camera_delay_capture_entries">
+        <item>@string/pref_camera_delay_capture_entry_audio</item>
+        <item>@string/pref_camera_delay_capture_entry_3s</item>
+        <item>@string/pref_camera_delay_capture_entry_5s</item>
+        <item>@string/pref_camera_delay_capture_entry_10s</item>
+    </string-array>
+    <string-array name="pref_camera_delay_capture_entryvalues">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="pref_camera_peak_entries">
+        <item>@string/pref_camera_peak_entry_on</item>
+        <item>@string/pref_camera_peak_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_peak_entryvalues">
+        <item>on</item>
+        <item>off</item>
     </string-array>
 </resources>
