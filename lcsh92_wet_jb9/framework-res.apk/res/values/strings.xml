@@ -190,7 +190,7 @@ Do you want to close it?"</string>
   <string name="config_isoImagePath"/>
   <string name="config_mms_user_agent">Android-Mms/0.1</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">@null</string>
+  <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
   <string name="config_ntpServer">asia.pool.ntp.org</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
