@@ -118,9 +118,6 @@ Use only the supplied charger."</string>
   <string name="mdb_restore_label">MDB restore</string>
   <string name="mdb_restore_mode">Restore mode</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected</string>
-  <string name="media_projection_action_text">Start now</string>
-  <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-  <string name="media_projection_remember_text">"Don't show again"</string>
   <string name="mount_storage">Yes</string>
   <string name="no_notification_tips">No notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>

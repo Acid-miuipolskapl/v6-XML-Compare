@@ -39,7 +39,6 @@
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose wallpaper</string>
-  <string name="cloud_app_restore_title">Pending</string>
   <string name="confirm_btn_label">OK</string>
   <string name="current_preview">Preview</string>
   <string name="current_wallpaper">Current</string>

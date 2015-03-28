@@ -38,7 +38,7 @@
   <string name="login_sync">Sign in &amp; sync</string>
   <string name="menu_create_folder">New folder</string>
   <string name="menu_delete">Delete</string>
-  <string name="menu_folders">Folders</string>
+  <string name="menu_move">Move</string>
   <string name="menu_move_parent_folder">Parent folder</string>
   <string name="menu_send_to_desktop">Place on Home screen</string>
   <string name="menu_send_wechat">Send to WeChat</string>

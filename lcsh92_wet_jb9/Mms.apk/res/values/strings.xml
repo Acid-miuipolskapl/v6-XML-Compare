@@ -219,13 +219,10 @@
   <string name="menu_view_contact">View contact</string>
   <string name="menu_yellowpage">View %s</string>
   <string name="message_class_label">"Message class: "</string>
-  <string name="message_contact">Contact:</string>
   <string name="message_details_title">Message details</string>
   <string name="message_download_failed_title">Message not downloaded</string>
-  <string name="message_expired">Expired</string>
   <string name="message_failed">Failed</string>
   <string name="message_failed_body">Touch to review the message and try again.</string>
-  <string name="message_number">Phone number:</string>
   <string name="message_pending">Sending</string>
   <string name="message_queued">"Can't send your message right now. Will send when service becomes available."</string>
   <string name="message_readed">Read</string>
@@ -428,7 +425,6 @@
   <string name="secs">secs</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
-  <string name="select_copy_text">select and copy message text</string>
   <string name="select_different_media">Choose a different %1$s.</string>
   <string name="select_link_title">Choose action</string>
   <string name="select_local_audio">Select audio</string>

@@ -52,7 +52,6 @@
   <string name="face_beauty_intelligent_level_2">Mid</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="find_other_qrcode">QR code found</string>
-  <string name="hide_priority_in_system_settings">0</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">SD card is full</string>

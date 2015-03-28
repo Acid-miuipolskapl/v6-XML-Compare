@@ -7,7 +7,6 @@
   <string name="button_start_now">Start now</string>
   <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
   <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
-  <string name="dialog_not_show_again">不再提示</string>
   <string name="download_error">Unsuccessful</string>
   <string name="download_no_application_title">"Can't open file"</string>
   <string name="download_percent">%d%%</string>

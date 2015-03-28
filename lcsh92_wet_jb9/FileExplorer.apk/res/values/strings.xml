@@ -15,7 +15,6 @@
   <string name="binded_accout_description">"Your Mi Account has synced with KuaiPan. You can now use your Mi Account to access data that you've stored on KuaiPan."</string>
   <string name="binded_accout_title">Accounts synced</string>
   <string name="byteShort">B</string>
-  <string name="can_not_send_with_too_many">"Can't send that many items"</string>
   <string name="cancel">Cancel</string>
   <string name="category">Categories</string>
   <string name="category_all">All</string>
@@ -134,7 +133,6 @@
   <string name="kuaipan_create_shortcut_success">Shortcut created</string>
   <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
   <string name="kuaipan_data_formater_without_year">M month d day</string>
-  <string name="kuaipan_delete_guide_des">Delete guide？</string>
   <string name="kuaipan_delete_success">Photo deleted</string>
   <string name="kuaipan_label">KuaiPan</string>
   <string name="kuaipan_over_space">Not enough space.</string>
