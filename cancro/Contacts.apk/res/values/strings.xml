@@ -687,6 +687,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
+  <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_history">History</string>
+  <string name="action_item_delete">Delete</string>
   <string name="add_favorite">Featured</string>
   <string name="app_name">Radio</string>
   <string name="app_to_share">Complete action using</string>
@@ -17,6 +18,7 @@
   <string name="category_tone_quality">SOUND QUALITY</string>
   <string name="channel_off">This program is no longer available</string>
   <string name="click_to_play">Empty</string>
+  <string name="confirm_delete_history_text">Delete selected items?</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_title_download_quality">Download quality</string>
