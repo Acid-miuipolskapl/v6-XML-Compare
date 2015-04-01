@@ -110,6 +110,7 @@
   <string name="express_inquiry_internal_failure">"An error occurred.
 Please your check tracking number."</string>
   <string name="express_inquiry_logistics">Select a courier service</string>
+  <string name="express_inquiry_logistics_prefix">Courier service: %s</string>
   <string name="express_inquiry_logistics_select_others_indication">Other</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results</string>
@@ -118,7 +119,7 @@ Please your check tracking number."</string>
 Please check your tracking number."</string>
   <string name="express_inquiry_provider_info">Powered by</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
-  <string name="express_inquiry_serial_number_prefix">"Number: "</string>
+  <string name="express_inquiry_serial_number_prefix">Number: %s</string>
   <string name="express_inquiry_trace">Trace</string>
   <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
   <string name="express_inquiry_trace_success">Traced</string>
@@ -130,7 +131,6 @@ Please check your tracking number."</string>
   <string name="express_no_order_info">No order info</string>
   <string name="express_order_confirmation">Order confirmation</string>
   <string name="express_order_created_time">Created time</string>
-  <string name="express_order_detail">Detail</string>
   <string name="express_order_failed">Failed</string>
   <string name="express_order_info">Order info</string>
   <string name="express_order_internal_id">Order ID</string>
@@ -245,16 +245,18 @@ Confirm to follow this yellow page?"</string>
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">Show prompt when connecting to the internet</string>
   <string name="notify_connect_title">Internet connection notification</string>
-  <string name="order_date_label">Order date: %s</string>
+  <string name="order_date_label">Order date:</string>
+  <string name="order_detail">Detail</string>
   <string name="order_empty_hint">No orders</string>
-  <string name="order_id_label">Order ID: %s</string>
+  <string name="order_id_label">Order ID:</string>
   <string name="order_merchant_title">My orders</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No related order</string>
-  <string name="order_price_label">Order price: %s</string>
-  <string name="order_product_name_label">"Product name: "</string>
+  <string name="order_price_label">Order price:</string>
+  <string name="order_product_name_label">Product name:</string>
   <string name="order_status">%s</string>
-  <string name="order_status_label">Order status: %s</string>
+  <string name="order_status_label">Order status:</string>
+  <string name="order_type_recharge">Top-up</string>
   <string name="packages_no_package">No recommended packages</string>
   <string name="packages_pay">Buy</string>
   <string name="packages_pay_confirm">Confirm</string>
@@ -358,4 +360,5 @@ Total: RMB %3$s"</string>
   <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
+  <string name="yuan">Yuan</string>
 </resources>

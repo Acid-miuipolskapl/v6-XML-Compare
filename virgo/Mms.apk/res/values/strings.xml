@@ -366,6 +366,7 @@
   <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
   <string name="pref_title_sms_validity_period">SMS Validity period</string>
+  <string name="pref_title_storage_status">Message storage status</string>
   <string name="pref_title_system_mms_priority">Set as default</string>
   <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Wake screen</string>
@@ -390,6 +391,7 @@
   <string name="received_label">"Received: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Recipient: "</string>
+  <string name="recipients_over_size">Recipients are too many.</string>
   <string name="recording_failed">"Can't record"</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
@@ -495,6 +497,12 @@
   <string name="stick">Pin</string>
   <string name="stick_conversation">Pin current conversation</string>
   <string name="sticked_conversation">Conversation is already pinned</string>
+  <string name="storage_dialog_attachments">Mms attachments:</string>
+  <string name="storage_dialog_available_space">Available_space:</string>
+  <string name="storage_dialog_database">Database:</string>
+  <string name="storage_dialog_mms">Mms: %d</string>
+  <string name="storage_dialog_mms_size">Mms size:</string>
+  <string name="storage_dialog_sms">Sms: %d</string>
   <string name="storage_limits_activity">Storage limits</string>
   <string name="storage_limits_message">Limit the number of messages you save per conversation?</string>
   <string name="storage_limits_setting">Set limits</string>
