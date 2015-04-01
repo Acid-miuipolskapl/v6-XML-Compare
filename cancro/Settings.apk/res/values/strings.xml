@@ -2092,7 +2092,7 @@ This setting affects all users on this phone."</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
   <string name="silent_mode_title">Silent mode</string>
-  <string name="sim_bad_pin">Incorrect PIN</string>
+  <string name="sim_bad_pin">Type a PIN that is 4 to 8 numbers</string>
   <string name="sim_change_failed">"Can't change PIN.
 Possibly incorrect PIN."</string>
   <string name="sim_change_failed_enable_sim_lock">Turn SIM lock on now.</string>
@@ -2163,8 +2163,6 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_filter_item_description">To configure notifications, go to General Settings &gt; Notifications &gt; Manage notifications</string>
-  <string name="status_bar_filter_item_preview_image">Preview</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2178,19 +2176,22 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
+  <string name="status_bar_settings_enable_notification">Allow notifications</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_long_click_sort">Press &amp; hold to pick up a toggle</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
+  <string name="status_bar_settings_notification_led">Notification light</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
   <string name="status_bar_settings_show_carrier">Show service provider</string>
   <string name="status_bar_settings_show_carrier_summary">Only display on lock screen</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
+  <string name="status_bar_settings_show_home_message">App icon badge</string>
+  <string name="status_bar_settings_show_keyguard_notification">Show floating notifications</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
-  <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-  <string name="status_bar_settings_show_statusBar_notification">Show floating notifications</string>
-  <string name="status_bar_settings_show_statusBar_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
