@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="st_antispam_choose_methods_black">
+        <item>@string/st_antispam_bw_man_add</item>
+        <item>@string/st_antispam_bw_head_add</item>
+        <item>@string/st_antispam_bw_pick_add</item>
+    </string-array>
+</resources>
