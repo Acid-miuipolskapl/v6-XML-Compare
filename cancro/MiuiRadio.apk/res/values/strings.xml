@@ -51,6 +51,7 @@
   <string name="loading_broadcasting">Just a sec…</string>
   <string name="loading_hint">Loading…</string>
   <string name="local_list_item_history">History</string>
+  <string name="local_program">Local Programs</string>
   <string name="max_sleep_time">90</string>
   <string name="metered_alert">Data usage warning</string>
   <string name="metered_alert_msg">Using your mobile network to listen to music will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
@@ -62,9 +63,10 @@
   <string name="more">More</string>
   <string name="my_favorite">FAVORITES</string>
   <string name="my_program">Offline</string>
-  <string name="no_display_channel_text">No channels</string>
+  <string name="no_display_channel_text">Resource off shelves, no sounds</string>
   <string name="no_display_history_text">No history</string>
   <string name="no_display_other_text">No result</string>
+  <string name="no_download_text">No download</string>
   <string name="no_network_button_radio">Use FM radio</string>
   <string name="no_network_button_refresh">Refresh</string>
   <string name="no_network_text">"Can't connect to the network."</string>
