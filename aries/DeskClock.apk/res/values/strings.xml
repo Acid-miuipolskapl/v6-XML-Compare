@@ -98,12 +98,9 @@
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d min %2$d sec</string>
   <string name="timer_item_label_hint">Timer name</string>
+  <string name="timer_item_picker_hour">Hour</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sec</string>
-  <string name="timer_message">%1$d minutes and %2$d seconds</string>
-  <string name="timer_message_00">%1$d minute and %2$d second</string>
-  <string name="timer_message_01">%1$d minute and %2$d seconds</string>
-  <string name="timer_message_10">%1$d minutes and %2$d second</string>
   <string name="timer_new_item">Add timer</string>
   <string name="timer_notify_text">Snooze or dismiss timer.</string>
   <string name="timer_start_alarm">"Time's up!"</string>

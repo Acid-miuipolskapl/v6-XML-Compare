@@ -82,4 +82,9 @@
         <item>@string/open_callwait</item>
         <item>@string/close_callwait</item>
     </string-array>
+    <string-array name="st_antispam_notification_show_types">
+        <item>@string/antispam_notificaiton_type_show_all</item>
+        <item>@string/antispam_notificaiton_type_show_except_blacklist</item>
+        <item>@string/antispam_notificaiton_type_show_none</item>
+    </string-array>
 </resources>
