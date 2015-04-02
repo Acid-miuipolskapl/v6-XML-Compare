@@ -5,7 +5,7 @@
         <item quantity="one">1 coupon</item>
     </plurals>
     <plurals name="review_count">
-        <item quantity="other">View %d comments</item>
+        <item quantity="other">View all %d comments</item>
         <item quantity="one">View 1 comment</item>
     </plurals>
 </resources>

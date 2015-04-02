@@ -1530,10 +1530,10 @@ Select your operating system:"</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_payment_learn_more">Learn more</string>
   <string name="nfc_payment_menu_item_add_service">Find apps</string>
-  <string name="nfc_payment_no_apps">Pay with just one tap</string>
+  <string name="nfc_payment_no_apps">Pay with just a tap</string>
   <string name="nfc_payment_set_default">Always use %1$s when you tap &amp; pay?</string>
-  <string name="nfc_payment_set_default_instead_of">Use %1$s instead of %2$s when you tap &amp; pay?</string>
-  <string name="nfc_payment_set_default_label">Set as preference?</string>
+  <string name="nfc_payment_set_default_instead_of">Always use %1$s instead of %2$s when you tap &amp; pay?</string>
+  <string name="nfc_payment_set_default_label">Set as your preference?</string>
   <string name="nfc_payment_settings_title">Tap &amp; pay</string>
   <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
@@ -2199,7 +2199,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_toggle_layout_style_applying">Changing style…</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Bar</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Page</string>
-  <string name="status_bar_settings_toggle_position">Toggle positions</string>
+  <string name="status_bar_settings_toggle_position">Toggle position</string>
   <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bt_address">Bluetooth address</string>
   <string name="status_data_state">Mobile network state</string>
