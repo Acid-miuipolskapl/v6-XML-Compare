@@ -1165,8 +1165,8 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Directory</string>
-  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowPageNavigationIconLabel">Yellow Pages</string>
+  <string name="yellowPageNavigationLabel">Yellow Pages</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
