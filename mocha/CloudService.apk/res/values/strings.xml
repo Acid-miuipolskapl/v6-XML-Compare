@@ -14,6 +14,10 @@
   <string name="bad_authentication">Invalid account or password</string>
   <string name="btn_return">Back</string>
   <string name="button_cancel">Cancel</string>
+  <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
+You need a Mainland China bank card to purchase additional storage space."</string>
+  <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
+To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_expire">Purchased space will expire in %s</string>
   <string name="buy_space_expire_concat">%1$s to %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Renew automatically</string>
@@ -24,6 +28,18 @@
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="calendar_sync">Calendar</string>
   <string name="click_to_enabled">Touch to sync.</string>
+  <string name="cloud_back_up_button_ok">Force stop</string>
+  <string name="cloud_back_up_close_info">Tap to back up.</string>
+  <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
+  <string name="cloud_back_up_interval_long">7 days</string>
+  <string name="cloud_back_up_interval_short">1 hour</string>
+  <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
+  <string name="cloud_back_up_open_info">"Back up your Home screen layout and apps every %1$s when connected to WLAN
+Last backup: %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back up your Home screen layout and apps every %1$s when connected to WLAN</string>
+  <string name="cloud_back_up_remove_success">Backup deleted</string>
+  <string name="cloud_back_up_title">Back up Home screen</string>
+  <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
@@ -204,10 +220,10 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="setting">Settings</string>
   <string name="share_cancel">Share canceled</string>
   <string name="share_failed">"Couldn't share"</string>
-  <string name="share_miliao_not_installed">MiTalk is not installed.</string>
+  <string name="share_miliao_not_installed">Mi Talk is not installed.</string>
   <string name="share_success">Shared</string>
   <string name="share_weibo_not_installed">Weibo is not installed.</string>
-  <string name="share_weixin_not_installed">Wechat is not installed.</string>
+  <string name="share_weixin_not_installed">WeChat is not installed.</string>
   <string name="sina_share_fail">Failed to send</string>
   <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
   <string name="sina_share_pendding">Sending…</string>
