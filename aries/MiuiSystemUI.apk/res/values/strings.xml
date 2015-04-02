@@ -110,6 +110,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="label_view">View</string>
+  <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
