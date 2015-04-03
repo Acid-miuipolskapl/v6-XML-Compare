@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enable_lunar_date">false</bool>
+    <bool name="enable_almanac">false</bool>
+    <bool name="enable_holiday">false</bool>
+    <bool name="enable_work_free_day">false</bool>
+    <bool name="enable_online_calendar">false</bool>
+</resources>
