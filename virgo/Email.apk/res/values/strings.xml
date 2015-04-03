@@ -292,7 +292,7 @@
   <string name="chat_view_description">View email threads as conversation bubbles</string>
   <string name="chat_view_quote_text">-----Quoted Text-----</string>
   <string name="chat_view_retract_quote_text">---Hide Quoted Text---</string>
-  <string name="chat_view_title">Conversation view</string>
+  <string name="chat_view_title">View threads as conversations</string>
   <string name="check_setup_data">Validating server settings…</string>
   <string name="checking_for_mail">Checking…</string>
   <string name="choosertitle_sharevia">Share using</string>
@@ -500,11 +500,6 @@
   <string name="general_preference_text_zoom_small">Small</string>
   <string name="general_preference_text_zoom_tiny">Tiny</string>
   <string name="generic_attachment_problem">"Can't attach file."</string>
-  <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
-  <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
-  <string name="gmail_login_verify">Add Gmail Account</string>
-  <string name="gmail_web_login_go">OK</string>
-  <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="head_only_enable_dialog_message">Download message titles only (instead of the whole body), when using mobile data.</string>
   <string name="head_only_enable_dialog_nagative">Not now</string>
   <string name="head_only_enable_dialog_positive">Turn on</string>
@@ -692,7 +687,6 @@ CC: %4$s
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
-  <string name="open_proxy_in_settings">"Gmail isn't available in your current location. You can still send and receive messages from your Gmail inbox by using Mail's proxy server. Turn this feature on or off anytime in Settings."</string>
   <string name="other_mail">Other mail</string>
   <string name="outbox_alert_button_confirm">Edit</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
@@ -995,14 +989,12 @@ CC: %4$s
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
-  <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">The logs uploaded failed</string>
-  <string name="upload_log_no">Cancel</string>
-  <string name="upload_log_success">The logs uploaded successfully</string>
-  <string name="upload_log_title">Upload the logs now？</string>
+  <string name="upload_log">Upload diagnostic logs</string>
+  <string name="upload_log_failed">Logs upload failed</string>
+  <string name="upload_log_success">Logs uploaded successfully</string>
+  <string name="upload_log_title">Upload the diagnostic logs?</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-  <string name="upload_log_yes">Upload</string>
-  <string name="uploading_logs">The logs is uploading</string>
+  <string name="uploading_logs">Uploading logs</string>
   <string name="validation_failed_prompt">"Can't verify account, check %s server settings"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1028,6 +1020,6 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
-  <string name="you_are_in_mobile_network">You are using mobile network now</string>
+  <string name="you_are_in_mobile_network">You are currently using a mobile network, please pay attention to the traffic!</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>
