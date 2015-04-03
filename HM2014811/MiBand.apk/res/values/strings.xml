@@ -31,12 +31,11 @@
   <string name="action_type_error">Type error</string>
   <string name="action_walk">Walk</string>
   <string name="add_family_member">Add user</string>
-  <string name="add_than_last_time">"比上次
-增加了%1$s"</string>
-  <string name="add_weight_fail_with_value">还需增重%1$s</string>
-  <string name="add_weight_succ">增重成功</string>
-  <string name="add_weight_succ_with_value">"增重成功
-比目标重%1$s"</string>
+  <string name="add_than_last_time">Added %1$s since last weigh-in</string>
+  <string name="add_weight_fail_with_value">You need to gain %1$s to reach your goal</string>
+  <string name="add_weight_succ">You reached your goal!</string>
+  <string name="add_weight_succ_with_value">"You passed your goal
+by %1$s"</string>
   <string name="addgoal_child_fat">"You're over your target weight"</string>
   <string name="addgoal_child_heavy">"You're over your target weight"</string>
   <string name="addgoal_child_normal">"You're at your at your target weight."</string>
@@ -70,6 +69,7 @@ Terms of Service: %2$s"</string>
   <string name="baby_weight_equal">Same as last weigh-in</string>
   <string name="baby_weight_less">More than last weigh-in (%1$s)</string>
   <string name="baby_weight_more">Less than last weigh-in (%1$s)</string>
+  <string name="baby_weight_tips">婴幼儿及儿童不宜过度控制体重, 以免影响正常生长发育</string>
   <string name="back">Back</string>
   <string name="band">Mi Band</string>
   <string name="battery">battery</string>
@@ -86,6 +86,7 @@ Terms of Service: %2$s"</string>
   <string name="bind_mi_weight">Pair scale</string>
   <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Scale Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight_howto">Learn more</string>
+  <string name="bind_mi_weight_howto_tips">How to use scale</string>
   <string name="bind_new_mili">Add new band</string>
   <string name="bind_qq">Add QQ</string>
   <string name="bind_qq_health">Sync with QQ Health</string>
@@ -95,11 +96,12 @@ you need available network."</string>
   <string name="bind_qq_health_tip_init">Sign in to QQ Health.</string>
   <string name="bind_qq_health_title">Add QQ Account</string>
   <string name="bind_weibo">Add Weibo</string>
-  <string name="bind_weibo_health">Sync with Weibo Health</string>
-  <string name="bind_weibo_health_tip">"Sync steps and sleep info to weibo health platform,
+  <string name="bind_weibo_health">Sync with Weibo Sport</string>
+  <string name="bind_weibo_health_tip">"Sync steps and sleep info to weibo sport platform,
 you need available network."</string>
-  <string name="bind_weibo_health_tip_init">Sign in to Weibo Health.</string>
+  <string name="bind_weibo_health_tip_init">Sign in to Weibo Sport.</string>
   <string name="bind_weibo_health_title">Add Weibo Account</string>
+  <string name="bind_weibo_token_invalid">Login has expired, please bind again</string>
   <string name="bind_weight_fail">"Can't add scale"</string>
   <string name="bind_weight_ok">Pair weight scale OK</string>
   <string name="bind_weight_scale">Add scale</string>
@@ -119,8 +121,9 @@ then tap Follow."</string>
   <string name="birthday">Birthday</string>
   <string name="blue">Blue</string>
   <string name="bluetooth">Bluetooth </string>
+  <string name="bmi_item_tips">BMI指数%1$s, 体型%2$s</string>
   <string name="body">Neck</string>
-  <string name="body_figure">体型</string>
+  <string name="body_figure">Weight</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s
@@ -134,8 +137,8 @@ Address: %2$s"</string>
   <string name="bracelet_not_connected_bat_unknown">No band detected</string>
   <string name="bracelet_not_found_info">"Make sure your band's battery is charged and stay closed."</string>
   <string name="bracelet_not_found_title">Mi band not found</string>
-  <string name="bracelet_notify_text">主人可别忘了戴上环环呀</string>
-  <string name="bracelet_notify_title">手环电池已充满</string>
+  <string name="bracelet_notify_text">"Don't forget to wear your band."</string>
+  <string name="bracelet_notify_title">Battery charged</string>
   <string name="bracelet_store_desc">Mi Store</string>
   <string name="bt_operation_failed_tips">Bluetooth is not working properly. Wait a minute or two and try again.</string>
   <string name="btn_confirm">Yes</string>
@@ -143,18 +146,20 @@ Address: %2$s"</string>
   <string name="btn_delete">Delete</string>
   <string name="btn_save">Save</string>
   <string name="button_search_friend">Search</string>
-  <string name="button_send_care">Send a Nudge</string>
+  <string name="button_send_care">Nudge</string>
   <string name="buy_bracelet_desc">Buy a band.</string>
   <string name="cal">cal</string>
+  <string name="can_not_del_last_weight_info">最后一条数据为个人体重，不能删除</string>
   <string name="cancel">Cancel</string>
-  <string name="change_current_weight_report">"当前体重不是\"%1$s\"的?
-点击列表为该体重设置新的主人"</string>
-  <string name="change_weight_for_visitor">"访客称重纪录
-点击列表为该体重设置新的主人"</string>
+  <string name="change_current_weight_report">"Not %1$s?
+Touch to add a new user to the scale."</string>
+  <string name="change_weight_for_visitor">"Guest weigh-in history
+Touch to add a new user to the scale."</string>
   <string name="check_upgrade">Check for updates</string>
   <string name="checking_new_apk">Checking for updates…</string>
   <string name="choose_tag_item">Choose an activity</string>
   <string name="choose_userinfo_for_weight">Choose a profile</string>
+  <string name="clear_weight_goal">Clear goal</string>
   <string name="clock_closed">Off</string>
   <string name="closed">Closed</string>
   <string name="cm">cm</string>
@@ -208,7 +213,7 @@ saved %2$s gallons of gas"</string>
   <string name="date_yesterday">Yesterday</string>
   <string name="day">days</string>
   <string name="day_active_detail">Details</string>
-  <string name="day_ri">日</string>
+  <string name="day_ri">day</string>
   <string name="debug_host_label">添加测试主机地址：</string>
   <string name="del_family_member">Remove this user?</string>
   <string name="del_family_member_content">"User's health data will also be deleted. You can't reverse this action."</string>
@@ -219,7 +224,7 @@ saved %2$s gallons of gas"</string>
   <string name="device_not_found_not_knocked">"Can't find band. To pair, tap the metal part of the band when it flashes."</string>
   <string name="device_not_response">"Lights aren't flashing?"</string>
   <string name="disable_debug_log">Debug mode is off</string>
-  <string name="disable_hidden_feature">Hidden activity disabled</string>
+  <string name="disable_hidden_feature">Your fitness activity is visible to other users</string>
   <string name="discard">Discard</string>
   <string name="discard_alarm_change">Discard changes?</string>
   <string name="distance">Distance</string>
@@ -270,12 +275,11 @@ wake up"</string>
   <string name="dynamic_title_sleep">Last night</string>
   <string name="dynamic_title_step">Today</string>
   <string name="dynamic_title_weight">Weight</string>
-  <string name="dynamic_title_weight_not_nearby">Weight not nearby</string>
+  <string name="dynamic_title_weight_not_nearby">"Can't find scale"</string>
   <string name="dynamic_title_weight_unbind">Unpaired Scale</string>
   <string name="enable_debug_log">Debug mode is on</string>
-  <string name="enable_hidden_feature">Hidden activity enabled</string>
-  <string name="equal_last_time">"和上次
-体重持平"</string>
+  <string name="enable_hidden_feature">Fitness activity is hidden</string>
+  <string name="equal_last_time">Same as last weigh-in</string>
   <string name="equals_fat">"Equals to burn 
 %1$s grams of fat."</string>
   <string name="error_code">Error</string>
@@ -337,21 +341,21 @@ wake up"</string>
   <string name="health_care_date_limit">Free for 1 year</string>
   <string name="health_link">HealthLink</string>
   <string name="health_provider_desc">Personal health and fitness services.</string>
-  <string name="heavier_than_goal">比目标重%1$s</string>
-  <string name="height_less_than_100">身高未达到100厘米,无法分析体型</string>
+  <string name="heavier_than_goal">%1$s heavier than goal</string>
+  <string name="height_less_than_100">"Can't measure babies less than 100cm tall"</string>
   <string name="help">Help</string>
   <string name="help_info_0">Make sure the band is close to your device throughout the entire pairing process.</string>
   <string name="help_info_1">"Make sure the band is charged and hasn't run out of power."</string>
   <string name="help_info_2">Restart Bluetooth by turning it off and then on again in Settings.</string>
   <string name="help_info_3">"Make sure your band isn't already paired with another device nearby."</string>
-  <string name="help_info_4">Please open Mi Fit App after reset your phone.</string>
+  <string name="help_info_4">Reopen Mi Fit.</string>
   <string name="help_title_0">Is your band too far away?</string>
   <string name="help_title_1">"Check the band's battery"</string>
   <string name="help_title_2">Restart Bluetooth</string>
   <string name="help_title_3">Is this band paired with another device?</string>
-  <string name="help_title_4">Try to reset your phone.</string>
-  <string name="hint_input_remark_name">Please input remark name:</string>
-  <string name="hint_input_xiaomi_uid">Please input XIAOMI ID</string>
+  <string name="help_title_4">Reset your phone.</string>
+  <string name="hint_input_remark_name">Enter message title</string>
+  <string name="hint_input_xiaomi_uid">Enter your Mi Account ID</string>
   <string name="host_can_not_be_empty">主机地址不能为空</string>
   <string name="host_change_error">切换主机地址错误</string>
   <string name="host_change_success">切换主机地址成功</string>
@@ -366,9 +370,9 @@ wake up"</string>
 add Mi Fit to the white list of the 3rd party manager if exists."</string>
   <string name="incomingcall_info_3">Please add Mi Fit to the white list of the 3rd party manager if exists.</string>
   <string name="input_family_member_name">"Enter guest's name"</string>
-  <string name="input_person_name">你还没有昵称，快为自己想个好名字吧</string>
+  <string name="input_person_name">Enter name</string>
   <string name="input_precise_person_info">Create your profile</string>
-  <string name="input_precise_user_info">请输入准确的个人信息，以便精确分析身体数据</string>
+  <string name="input_precise_user_info">Mi Fit uses this info to calculate other stats and provide other hints</string>
   <string name="instruction_tip_1">"View your progress
 at a glance!"</string>
   <string name="instruction_tip_2_1">"Less than 
@@ -382,9 +386,29 @@ your goal"</string>
   <string name="instruction_tip_2_5">Beyond goal</string>
   <string name="instruction_tip_3">Low battery</string>
   <string name="instruction_title">Learn more about Mi Band</string>
-  <string name="invalid_name">名稱包含非法字符，請重新輸入</string>
+  <string name="instruction_weight_page6_t1">Wear light clothing</string>
+  <string name="instruction_weight_page6_t2">"Place booth feet
+firmly in the center of the scale"</string>
+  <string name="instruction_weight_page6_t3">Place on a flat surface</string>
+  <string name="instruction_weight_tips1_1">You can pair multiple devices with your scale</string>
+  <string name="instruction_weight_tips1_2">After you pair your device scale will sync your history automatically</string>
+  <string name="instruction_weight_tips1_3">Choose the units that will be used to calculate your weight</string>
+  <string name="instruction_weight_tips1_4">"When the light flashes in the pattern below, replace the scale's battery"</string>
+  <string name="instruction_weight_tips1_5">"When the light flashes in the pattern below, the scale's maximum weight has been exceeded."</string>
+  <string name="instruction_weight_tips1_6">Place the scale on a dry surface</string>
+  <string name="instruction_weight_tips2_2">Open the app and stay within 10m of the scale to sync</string>
+  <string name="instruction_weight_tips2_4">After you replace the battery, the scale we restart automatically.</string>
+  <string name="instruction_weight_tips2_5">Scale load max is 150kg</string>
+  <string name="instruction_weight_tips2_6">Make sure to stand in the center of the scale.</string>
+  <string name="instruction_weight_title_1">Pair multiple devices</string>
+  <string name="instruction_weight_title_2">No need to use your phone when you weigh-in</string>
+  <string name="instruction_weight_title_3">Set units</string>
+  <string name="instruction_weight_title_4">Change battery</string>
+  <string name="instruction_weight_title_5">Maximum weight exceeded</string>
+  <string name="instruction_weight_title_6">Weighing in</string>
+  <string name="invalid_name">The name you entered is invalid</string>
   <string name="join_improvement_plan_detial">Help improve Mi Band by sending usage data to Huami Inc.</string>
-  <string name="keep_goal_succ">成功保持体重</string>
+  <string name="keep_goal_succ">You maintained your goal</string>
   <string name="kg">kg</string>
   <string name="km">km</string>
   <string name="lab_factory_cheat_toast">No cheating!</string>
@@ -469,68 +493,67 @@ your goal"</string>
   <string name="lab_factory_sport_vote_sub_desc">Coming soon</string>
   <string name="lab_factory_title">Additional features</string>
   <string name="label_accepted">Accepted</string>
-  <string name="label_activity">Today Step</string>
+  <string name="label_activity">Steps Today</string>
   <string name="label_activity_record">%1$s/%2$s Activity History</string>
   <string name="label_calorie">Calorie (kCal)</string>
-  <string name="label_care_time_by_me">Send %s Nudges to him</string>
-  <string name="label_care_time_by_other">send %s Nudges to you</string>
+  <string name="label_care_time_by_me">Nudge %s</string>
+  <string name="label_care_time_by_other">%s nudged you</string>
   <string name="label_continue_record">Continue</string>
   <string name="label_date_with_week">%1$s/%2$s %3$s</string>
-  <string name="label_delete_friend">Remove Contants</string>
-  <string name="label_empty_friend">You can share data with each other, when you become friend</string>
-  <string name="label_friend_accept_message">%s become your friend</string>
-  <string name="label_friend_add_message">%s requests to become your friend</string>
+  <string name="label_delete_friend">Remove Friend</string>
+  <string name="label_empty_friend">Share fitness data with friends.</string>
+  <string name="label_friend_accept_message">%s accepted your friend request</string>
+  <string name="label_friend_add_message">%s sent you a friend request</string>
   <string name="label_friend_added">Added</string>
-  <string name="label_friend_care_message">%s send you a nudge!</string>
-  <string name="label_friend_refuse_message">%s refuse to be your friend</string>
+  <string name="label_friend_care_message">%s nudged you</string>
+  <string name="label_friend_refuse_message">%s refused your friend request</string>
   <string name="label_get_up_time">Wake Time</string>
   <string name="label_loading">Loading</string>
   <string name="label_message">Message</string>
-  <string name="label_message_empty">Message Empty</string>
-  <string name="label_message_too_busy">You send too many Budges, please try later!</string>
+  <string name="label_message_empty">Empty</string>
+  <string name="label_message_too_busy">Too many nudges. Try again later.</string>
   <string name="label_mileage">Mileage (Km)</string>
-  <string name="label_more">more</string>
-  <string name="label_my_qrcode">My QRCode</string>
-  <string name="label_no_care_time_by_me">Never send nudges to him</string>
-  <string name="label_preparing_share_image">Preparing share image…</string>
-  <string name="label_pull_to_load">Pull to load more</string>
+  <string name="label_more">More</string>
+  <string name="label_my_qrcode">QR code</string>
+  <string name="label_no_care_time_by_me">"Don't nudge this person"</string>
+  <string name="label_preparing_share_image">Just a sec…</string>
+  <string name="label_pull_to_load">Pull to view more</string>
   <string name="label_pull_to_refresh">Pull to refresh</string>
-  <string name="label_qrcode_error">Qr Code error!</string>
+  <string name="label_qrcode_error">QR code error</string>
   <string name="label_refreshing">Refreshing</string>
   <string name="label_refuse">Refuse</string>
-  <string name="label_refuse_add_friend_by_him">Refuse to be your friend</string>
-  <string name="label_refuse_add_friend_by_me">Refuse friend invitation</string>
+  <string name="label_refuse_add_friend_by_him">Request refused</string>
+  <string name="label_refuse_add_friend_by_me">Refuse friend request</string>
   <string name="label_refused">Refused</string>
   <string name="label_release_to_load">Release to load</string>
   <string name="label_release_to_refresh">Release to refresh</string>
-  <string name="label_remark_name">Remark Name</string>
-  <string name="label_request_add_friend">Request to be your friend</string>
+  <string name="label_remark_name">Rename</string>
+  <string name="label_request_add_friend">Send friend request</string>
   <string name="label_runner_group">Runner Club</string>
-  <string name="label_scan_add">Scan QRcode</string>
-  <string name="label_search_result_empty">ID does not exist!Pelease try again!</string>
-  <string name="label_share_info1">Save image to local, then scan and contact him</string>
-  <string name="label_share_info2">Open Mi Fit app - Friend - Add Friend - Choose Qrcode from album</string>
-  <string name="label_share_to_friend">Share to your friends and buuld contacts</string>
+  <string name="label_scan_add">Scan QR code</string>
+  <string name="label_search_result_empty">No results</string>
+  <string name="label_share_info1">Save image to Gallery first</string>
+  <string name="label_share_info2">Open Mi Fit &gt; Friends &gt; Add Friends &gt; Choose QR code from Gallery</string>
+  <string name="label_share_to_friend">Share your activity info with your friends</string>
   <string name="label_sleep">Last Night Sleep</string>
   <string name="label_sleep_data">Sleep Data</string>
   <string name="label_sleep_record">%1$s/%2$s Sleep History</string>
-  <string name="label_sleep_start_time">Fall Sleep Time</string>
+  <string name="label_sleep_start_time">Fell Asleep At</string>
   <string name="label_sleep_time">%1$sh%2$sm</string>
   <string name="label_sport_data">Activity Data</string>
   <string name="label_step">Steps</string>
   <string name="label_step_with_unit">%s Step</string>
-  <string name="label_uid">MI ID : %1$s</string>
-  <string name="label_update_time">Updated at %s</string>
+  <string name="label_uid">Mi Account ID: %1$s</string>
+  <string name="label_update_time">Updated %s</string>
   <string name="label_weight">Current Weight</string>
-  <string name="lable_qrcode_is_myself">"Can't add yourself as a friend!"</string>
-  <string name="larger_than_normal_with_value">超出标准%1$s</string>
+  <string name="lable_qrcode_is_myself">"Can't add yourself as a friend"</string>
+  <string name="larger_than_normal_with_value">%1$s above average</string>
   <string name="left_hand">Left hand</string>
-  <string name="less_than_6">未满6岁，只测量体重。</string>
-  <string name="less_than_last_time">"比上次
-瘦了%1$s"</string>
+  <string name="less_than_6">"Can't measure figure for children less than 6"</string>
+  <string name="less_than_last_time">Lost %1$s since last weigh-in</string>
   <string name="light_color">Band light color</string>
   <string name="light_color_title">Light color that shows workout progress</string>
-  <string name="lighter_than_goal">比目标轻%1$s</string>
+  <string name="lighter_than_goal">%1$s lighter than goal</string>
   <string name="local_app_failed">"Can't get current version info."</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
@@ -538,9 +561,9 @@ your goal"</string>
   <string name="logining">Signing in…</string>
   <string name="look_device_list">Discover bands nearby</string>
   <string name="look_weight_device_list">Show scales nearby</string>
-  <string name="lose_weight_succ">减肥成功</string>
-  <string name="lose_weight_succ_with_value">"减肥成功
-比目标轻%1$s"</string>
+  <string name="lose_weight_succ">You reached your goal!</string>
+  <string name="lose_weight_succ_with_value">"You passed your goal
+by %1$s"</string>
   <string name="losegoal_child_fat">"You're over your target weight"</string>
   <string name="losegoal_child_heavy">"You're over your target weight"</string>
   <string name="losegoal_child_normal">"Congratulations! You're at your at your target weight."</string>
@@ -549,7 +572,7 @@ your goal"</string>
   <string name="losegoal_light_female">"You're under your target weight"</string>
   <string name="losegoal_light_male">"You're under your target weight"</string>
   <string name="losegoal_normal">"Congratulations! You're at your at your target weight."</string>
-  <string name="lost_weight_fail_with_value">还需减肥%1$s</string>
+  <string name="lost_weight_fail_with_value">You need to lose %1$s to reach your goal</string>
   <string name="main_ui_share_tips">"Worked out for %1$s%2$s today.
 %3$s"</string>
   <string name="main_ui_sleep_share_tips">"Light sleep: %1$s%2$s
@@ -557,8 +580,8 @@ Fell asleep at %3$s | Woke up at %4$s"</string>
   <string name="male">Male</string>
   <string name="marathon_format_0">" is about %1$s marathons"</string>
   <string name="marathon_format_1">" is over %1$s marathons"</string>
-  <string name="message_title_care">Care Message</string>
-  <string name="message_title_friend">Friend Message</string>
+  <string name="message_title_care">Message</string>
+  <string name="message_title_friend">Message</string>
   <string name="metre">m</string>
   <string name="mi_band">Mi Band</string>
   <string name="mili_exit_login_info">Sign out of your Mi Account?</string>
@@ -574,7 +597,8 @@ Fell asleep at %3$s | Woke up at %4$s"</string>
   <string name="mili_unbind_question">"Your band won't be able to record your activity and sleep data."</string>
   <string name="mili_unbind_question_content">After you unpair, you can pair with a new band.</string>
   <string name="mili_unbind_question_content_1">The screen unlock function is invalid after unpair.</string>
-  <string name="mili_weight_unbind_info">"Your phone can't connect to weight scale after unpair, you can connect other scales later."</string>
+  <string name="mili_weight_unbind_info">"Your phone can't connect to weight scale after unpair,"</string>
+  <string name="mili_weight_unbind_info_1">you can connect other scales later.</string>
   <string name="minute">" "</string>
   <string name="modify_gender">Gender</string>
   <string name="modify_height">Height</string>
@@ -589,7 +613,7 @@ Fell asleep at %3$s | Woke up at %4$s"</string>
   <string name="multi_devices_info">"Make sure you're at least 10 meters away from other bands and try again."</string>
   <string name="multi_devices_title">Too many devices nearby</string>
   <string name="multi_devices_weight_title">Pair failed</string>
-  <string name="multi_weight_devices_info">Please reopen the bluetooth and try again.</string>
+  <string name="multi_weight_devices_info">Restart Bluetooth and try again.</string>
   <string name="name">Name</string>
   <string name="network_error">"Can't connect to the network."</string>
   <string name="new_friend_accept">Agree</string>
@@ -601,6 +625,7 @@ Great work!"</string>
   <string name="new_version_available">Newer version available</string>
   <string name="next_step">Next</string>
   <string name="no_bracelet_tips">(only available when Mi Band connected)</string>
+  <string name="no_need_weight_goal">确定不再需要体重目标了?</string>
   <string name="no_network_connection">"Can't connect to the network."</string>
   <string name="no_network_connection_retry">Tap to retry.</string>
   <string name="no_steps">No steps info today.</string>
@@ -615,10 +640,11 @@ Great work!"</string>
   <string name="nogoal_light_female">Set a goal to help manage your weight.</string>
   <string name="nogoal_light_male">Set a goal to help manage your weight.</string>
   <string name="nogoal_normal">"You're at your at your target weight."</string>
-  <string name="normal_figure">标准体型</string>
+  <string name="normal_figure">Avg. weight</string>
   <string name="not_fount_available_userinfo">"Can't find profile"</string>
   <string name="not_reach_goal">"You haven't reached your goal
 Keep at it!"</string>
+  <string name="not_set">N/A</string>
   <string name="noti_bracelet_low_battery_content_high">Band has less than 10% power remaining.</string>
   <string name="noti_bracelet_low_battery_content_low">You need to recharge your band.</string>
   <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
@@ -645,8 +671,8 @@ Keep at it!"</string>
   <string name="one_min">1 min ago</string>
   <string name="one_week">This week </string>
   <string name="orange">Orange</string>
-  <string name="pairing">Pairing ...</string>
-  <string name="parse_data_failed">parse data failed</string>
+  <string name="pairing">Pairing…</string>
+  <string name="parse_data_failed">"Couldn't parse data"</string>
   <string name="percent_mark">%</string>
   <string name="person_info_finished_info">"OK, you're all set!"</string>
   <string name="person_info_goal_info">"Experts recommend 40 minutes of exercise
@@ -654,8 +680,9 @@ or about 8,000 steps a day for a healthy lifestyle."</string>
   <string name="person_info_goal_info_young">"Experts recommend 60 minutes of exercise
 or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="personal_info">Profile</string>
+  <string name="pick_family_member">选择要查看的家庭成员</string>
   <string name="picker_menu_done">Done</string>
-  <string name="please_connect_internet">请联网操作</string>
+  <string name="please_connect_internet">You need to connect to the internet</string>
   <string name="please_input_age">Age</string>
   <string name="please_input_birthday">Birthday</string>
   <string name="please_input_gender">Select a gender</string>
@@ -663,7 +690,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="please_knock_bracelet">To pair, tap the band.</string>
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
-  <string name="prepare_log">Prepare log ...</string>
+  <string name="prepare_log">Just a sec…</string>
   <string name="prev_step">Back</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Load more</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Pull to fresh</string>
@@ -672,12 +699,15 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="pull_to_refresh_refreshing_label">Loading ...</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
   <string name="ran">ran </string>
+  <string name="read_useragreement">Agree to Terms of Service and Privacy Policy</string>
+  <string name="rebind_weibo_health">Rebind</string>
   <string name="red">Red</string>
   <string name="register">Create Mi Account</string>
   <string name="remain_days_format">Charged %s days ago</string>
   <string name="remain_days_today_format">Charged in the past 24 hours</string>
   <string name="rename_mili">Name</string>
   <string name="reset_mili">Reset band</string>
+  <string name="reset_weight_goal">Reset</string>
   <string name="restart_bluetooth_tips">Restart Bluetooth now.</string>
   <string name="retry">Retry</string>
   <string name="right_hand">Right hand</string>
@@ -686,8 +716,8 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_gps_poor_signal">Poor GPS signal. Make sure you have an unobstructed view of the sky.</string>
   <string name="running_no_track_desc">Cancel run?</string>
   <string name="running_set_pace_desc">Mi Band will vibrate if your pace is slower than</string>
-  <string name="running_short_track_desc">You have just moved %d meters. Are you sure to cancel it?</string>
-  <string name="running_stop_sport_confirm">Are you sure to finish?</string>
+  <string name="running_short_track_desc">You only ran %d meters. Cancel your run now?</string>
+  <string name="running_stop_sport_confirm">Stop activity?</string>
   <string name="s_mili">Mi Band</string>
   <string name="scan_label">将二维码放入框内，即可自动扫描</string>
   <string name="search_again">Try again</string>
@@ -695,7 +725,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="search_bracelet_ok">Band detected</string>
   <string name="search_devices_info">Strap the band around your wrist and keep your device close by.</string>
   <string name="search_devices_title">Add band</string>
-  <string name="search_result_is_empty">"The user couldn't be found!"</string>
+  <string name="search_result_is_empty">No results</string>
   <string name="search_weight_scale">Search for scale</string>
   <string name="search_weight_scale_info">Stay close to the scale</string>
   <string name="second">sec</string>
@@ -708,7 +738,9 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
 on this device and will not be
 uploaded to the server."</string>
   <string name="service_call_notice">24 hour service</string>
+  <string name="set">设定</string>
   <string name="set_alarm_time">SET ALARM TIME</string>
+  <string name="set_family_member">设置家庭成员</string>
   <string name="set_goal_step">8,000 steps/day</string>
   <string name="set_goal_weight_tips">Based on the info you provided, your normal weight is %1$s-%2$s%3$s.</string>
   <string name="set_length_unit">Set length units</string>
@@ -718,17 +750,15 @@ uploaded to the server."</string>
   <string name="set_person_goal">Set goal</string>
   <string name="set_sport_goal">Set goal</string>
   <string name="set_unit">Units</string>
-  <string name="set_user_suc_tips">有了第一条称重记录，以后系统会自动识别属于你的称重记录，而且可以设置自己的体重控制目标哦。</string>
-  <string name="set_user_succ">创建成功</string>
+  <string name="set_user_suc_tips">After you weigh-in, the scale we keep track of your history automatically.</string>
+  <string name="set_user_succ">User added</string>
   <string name="set_weight_goal">Weight goal</string>
   <string name="set_weight_goal_no">"Don't set"</string>
-  <string name="set_weight_goal_tips">%1$s，快来设置体重目标吧</string>
+  <string name="set_weight_goal_tips">%1$s，set weight goal first.</string>
   <string name="set_weight_goal_yes">Set weight goal</string>
   <string name="set_weight_unit">Set weight units</string>
   <string name="setgoalafterweight">Set your goal after you weigh yourself.</string>
-  <string name="setting_about_app">"App version:
-Tweaked by dezmen3
-Notifications by mksaint13"</string>
+  <string name="setting_about_app">App version </string>
   <string name="setting_about_fw">Version </string>
   <string name="setting_daily_sport_notify">Daily sport result notify</string>
   <string name="setting_daily_sport_notify_info">Remind me at 9:30PM.</string>
@@ -754,7 +784,7 @@ Notifications by mksaint13"</string>
   <string name="share_facebook_label">Facebook</string>
   <string name="share_goal_tips_fail">Chill day for me.</string>
   <string name="share_goal_tips_succ">I reached my goal today!</string>
-  <string name="share_image_preparing">Preparing for share</string>
+  <string name="share_image_preparing">Just a sec…</string>
   <string name="share_img_failed_to_create">Failed to share, please check storage left.</string>
   <string name="share_line_label">Line</string>
   <string name="share_miliao_label">Mi Talk</string>
@@ -797,8 +827,11 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_to_miliao_target_feeds">Groups</string>
   <string name="share_to_miliao_target_friends">Friends</string>
   <string name="share_to_miliao_target_union">Work out buddies</string>
+  <string name="share_to_mypace">My Pace</string>
+  <string name="share_to_sport_trace">My sport trace</string>
   <string name="share_to_title">Mi Band</string>
   <string name="share_to_topic">\#Mi Fit#</string>
+  <string name="share_to_watermark">My watermark photo</string>
   <string name="share_uninstall_client">"This app hasn't been installed."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
@@ -806,7 +839,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="signal_strength">"Signal strength: "</string>
   <string name="signal_strong">Strong</string>
   <string name="signal_weak">Weak</string>
-  <string name="smaller_than_normal_with_value">低于标准%1$s</string>
+  <string name="smaller_than_normal_with_value">%1$s below average</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Early bird alarm</string>
@@ -817,7 +850,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="sport_ranking_desc_normal" formatted="false">You placed &lt;b&gt;%s&lt;/b&gt; out of %s users.</string>
   <string name="sport_ranking_desc_poor">%s users placed ahead of you.</string>
   <string name="sport_running_altitude">Altitude</string>
-  <string name="sport_running_auto_pause">Auto pause detection</string>
+  <string name="sport_running_auto_pause">Automatic pause detection</string>
   <string name="sport_running_auto_pause_desc">Stop collecting info when run is paused</string>
   <string name="sport_running_average_speed">Average</string>
   <string name="sport_running_backgroud_notification">Running…</string>
@@ -927,16 +960,16 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="stat_step_walk_distance_average">Avg. Walk Distance</string>
   <string name="stat_step_walk_duration">Walk Time</string>
   <string name="stat_step_walk_duration_average">Avg. Walk Time</string>
-  <string name="state_authorization_doing">Authorizing…</string>
-  <string name="state_authorization_error">Authorize failed!</string>
-  <string name="state_authorization_success">Authorize success!</string>
+  <string name="state_authorization_doing">Signing in…</string>
+  <string name="state_authorization_error">"Couldn't sign in"</string>
+  <string name="state_authorization_success">Signed in</string>
   <string name="state_bind_failed">"Can't add account"</string>
   <string name="state_binded">Signed in</string>
   <string name="state_binded_nickname">Added QQ Account %s</string>
   <string name="state_close">Close</string>
-  <string name="state_deauthorization_doing">Deauthorizing…</string>
-  <string name="state_deauthorization_error">Deauthorize failed!</string>
-  <string name="state_deauthorization_success">Deauthorize success!</string>
+  <string name="state_deauthorization_doing">Signing out…</string>
+  <string name="state_deauthorization_error">"Couldn't sign out"</string>
+  <string name="state_deauthorization_success">Signed out</string>
   <string name="state_open">Open</string>
   <string name="state_unbind_success">Removed QQ Account</string>
   <string name="state_unbinded">Signed out</string>
@@ -949,7 +982,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="step2">Step 2) </string>
   <string name="step_per_day"> steps/day</string>
   <string name="stop">End</string>
-  <string name="sure_to_delete_weight">Sure to delete weight record?</string>
+  <string name="sure_to_delete_weight">Delete weigh-in history?</string>
   <string name="sync_to_server">Syncing…</string>
   <string name="system_low_info">You need to update your device to Android 4.4 or higher.</string>
   <string name="system_low_title">Android version is too old</string>
@@ -970,31 +1003,31 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="tips">REMINDER</string>
   <string name="title_action_tag_agreement">Terms of Service</string>
   <string name="title_activity_mark">MarkData</string>
-  <string name="title_activity_open">Partner Bind Page</string>
+  <string name="title_activity_open">Add Account</string>
   <string name="title_activity_remark">Remark Name</string>
-  <string name="title_activity_search_result">Search Result</string>
+  <string name="title_activity_search_result">Search results</string>
   <string name="title_activity_tag_data">Tag Data Activity</string>
   <string name="title_activity_tag_history">Tag history</string>
   <string name="title_activity_weight_tips">Fitness tips</string>
-  <string name="title_add_friend">Add to contants</string>
+  <string name="title_add_friend">Add to contacts</string>
   <string name="title_friend_detail">Detail</string>
-  <string name="title_friend_list">Family&amp;Friend</string>
+  <string name="title_friend_list">Friends</string>
   <string name="title_health_link_service">Health Care Service</string>
   <string name="title_message">Message</string>
-  <string name="toast_add_friend_failed">Invitation send failed!</string>
-  <string name="toast_add_friend_success">Invitation is already send!</string>
+  <string name="toast_add_friend_failed">"Couldn't send friend request"</string>
+  <string name="toast_add_friend_success">Friend request sent</string>
   <string name="toast_behavior_tag_failed">"Couldn't collect data"</string>
-  <string name="toast_care_send_failed">Nudge send fail!</string>
-  <string name="toast_care_send_success">Nudge send success!</string>
-  <string name="toast_content_empty_error">"Content can't be empty"</string>
+  <string name="toast_care_send_failed">"Couldn't nudge"</string>
+  <string name="toast_care_send_success">Friend nudged</string>
+  <string name="toast_content_empty_error">"This field can't be empty"</string>
   <string name="toast_disable_behavior_tag">"Your activity data won't be collected"</string>
   <string name="toast_enable_behavior_tag">Your activity data will be collected</string>
-  <string name="toast_friend_remove_failed">Friend delete failed!</string>
-  <string name="toast_friend_remove_success">Friend delete success!</string>
+  <string name="toast_friend_remove_failed">"Couldn't remove friend"</string>
+  <string name="toast_friend_remove_success">Friend removed</string>
   <string name="toast_no_more_data">No more data</string>
-  <string name="toast_operation_failed">Operation fail!</string>
+  <string name="toast_operation_failed">Something went wrong</string>
   <string name="toast_url_parse_error">URL format is incorrect</string>
-  <string name="toast_user_info_error">User information is error!</string>
+  <string name="toast_user_info_error">The user info you entered is invalid</string>
   <string name="today">Today</string>
   <string name="today_steps">Today steps</string>
   <string name="total_distance_format">Total distance: %s</string>
@@ -1053,9 +1086,9 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="until_hit_goals">Streak ended %s</string>
   <string name="upgrade">Update</string>
   <string name="upgrade_tip">Update available</string>
-  <string name="upload_log">Upload log</string>
+  <string name="upload_log">Sync weigh-in history</string>
   <string name="upload_log_fail">Upload log failed, please try again.</string>
-  <string name="upload_log_info">Please make sure to upload log under wifi connection, confirm?</string>
+  <string name="upload_log_info">Sync your weigh-in history over Wi-Fi</string>
   <string name="upload_log_ok">Upload log success, thanks！</string>
   <string name="uploaded">Uploaded:</string>
   <string name="user_agreement">Terms of Service and Privacy Policy</string>
@@ -1063,10 +1096,10 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="user_agreement_prefix">"To use this product, you must agree to our 
 "</string>
   <string name="user_agreement_ux">User Experience Program</string>
-  <string name="user_set_succ_info">请打开%1$sAPP完成第一次称重</string>
+  <string name="user_set_succ_info">Open %1$s to finish first weigh-in</string>
   <string name="user_staron_me">Followers</string>
-  <string name="vibrate_notify">Vibration Status</string>
-  <string name="vibrate_notify_tips">Show bracelet vibration info in status bar</string>
+  <string name="vibrate_notify">Vibrate for notifications</string>
+  <string name="vibrate_notify_tips">Vibrate band when a you receive a notification</string>
   <string name="visit_micom">Visit website</string>
   <string name="visitor">Guest</string>
   <string name="visitor_weight">Guest weight</string>
@@ -1093,10 +1126,12 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="week_total_distance_miles">"Week total 
 (miles)"</string>
   <string name="weibosdk_toast_auth_canceled_f">Deauthorize failure</string>
+  <string name="weibosdk_toast_unbind_failed">Unbind failed</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
-  <string name="weight_connect_failed_title">Weight scale connect failed.</string>
+  <string name="weight_connect_failed_title">"Couldn't connect to scale"</string>
   <string name="weight_delete_confirm_msg">%s this entry</string>
   <string name="weight_delete_confirm_title">Delete this entry?</string>
+  <string name="weight_device_battery_tips">电量低, 更换电池后连接秤自动完成初始化</string>
   <string name="weight_device_list">Available scales</string>
   <string name="weight_dynamic_detail">%1$s</string>
   <string name="weight_dynamic_list_visit_tips">Choose your profile</string>
@@ -1107,21 +1142,23 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="weight_edit_move">Move</string>
   <string name="weight_fw_upgrade_tips">Stay close to the scale while updating</string>
   <string name="weight_fw_upgrade_title">Update available for scale</string>
+  <string name="weight_goal_height_100">合理的控制体重, 不要让自己太瘦哦</string>
   <string name="weight_guest">Guest</string>
   <string name="weight_help_info_0">Make sure the scale is close to your device throughout the entire pairing process.</string>
   <string name="weight_help_info_1">"Make sure the scale is charged and hasn't run out of power."</string>
   <string name="weight_help_info_2">Restart Bluetooth by turning it off and then on again in Settings.</string>
   <string name="weight_help_info_3">"Make sure your scale isn't already paired with another device nearby."</string>
-  <string name="weight_help_info_4">Please close the Mi Fit App and reopen to connect the Weight scale.</string>
+  <string name="weight_help_info_4">Exit and reopen the Mi Fit App to connect to scale.</string>
   <string name="weight_help_title_0">Is your scale too far away?</string>
   <string name="weight_help_title_1">"Check the scale's battery"</string>
   <string name="weight_help_title_2">Restart Bluetooth</string>
   <string name="weight_help_title_3">Is this scale paired with another device?</string>
-  <string name="weight_help_title_4">How to reconnect weight scale?</string>
+  <string name="weight_help_title_4">Connect to scale</string>
   <string name="weight_history_dynamic_detail">Synced data from %1$s to %2$s</string>
   <string name="weight_history_dynamic_detail_oneday">Synced data from %1$s</string>
   <string name="weight_history_dynamic_title">%1$s items updated</string>
-  <string name="weight_low_battery">Battery low, please change.</string>
+  <string name="weight_less_than_tips">根据你提供的身体信息, 我们通过BMI指数计算得出你的体重不宜超过%1$s</string>
+  <string name="weight_low_battery">Change scale battery</string>
   <string name="weight_measure">Weigh</string>
   <string name="weight_not_found_info">Stay close to the scale</string>
   <string name="weight_not_found_title">Mi Scale not found</string>
@@ -1129,6 +1166,7 @@ Burned %3$s cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="weight_overload_confirm">OK</string>
   <string name="weight_overload_content">"Weight on scale can't exceed 150kg"</string>
   <string name="weight_overload_title">Too much weight on scale</string>
+  <string name="weight_reach_goal">恭喜你达成目标</string>
   <string name="weight_report_suggest">Comments:</string>
   <string name="weight_report_user_info_header">%1$s 测量报告</string>
   <string name="weight_scale">Mi Scale</string>
