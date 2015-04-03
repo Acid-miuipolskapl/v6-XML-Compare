@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Gadget version="1" frameRate="0" resDensity="480" extraResourcesDensity="480">
+<Gadget version="1" frameRate="0" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
     <Group x="#view_width/2-482" y="#view_height/2-257" w="963" h="513" layered="true">
         <MusicControl x="0" y="0" autoShow="true" systemPlayer="true" frameRate="0">
             <Image x="1" y="1" src="music_bg.png" w="961" h="511"/>

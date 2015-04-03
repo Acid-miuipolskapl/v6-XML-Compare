@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Gadget version="1" frameRate="30" resDensity="480" extraResourcesDensity="480">
+<Gadget version="1" frameRate="30" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
 	<ExternalCommands>
 		<Trigger action="resume">
 			<VariableCommand name="second_s" expression="#second" />

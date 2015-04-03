@@ -79,8 +79,10 @@
   <string name="confirm_no_block_title">Unblock this number and restore all messages sent from this number?</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent.</string>
   <string name="confirm_restore_all_title">Restore all messages sent from this number?</string>
+  <string name="confirm_restore_checkbox">Unblock Messages send from this number</string>
+  <string name="confirm_restore_message">Restore selected messages?</string>
   <string name="confirm_restore_positive">Restore</string>
-  <string name="confirm_restore_title">Restore selected messages?</string>
+  <string name="confirm_restore_title">Restore Message</string>
   <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
   <string name="context_menu_add_calendar">Show in Calendar</string>
   <string name="context_menu_add_contact">Add to contacts</string>
@@ -304,6 +306,7 @@
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Enter phone number</string>
   <string name="open_url_with_web">Open this URL in Browser?</string>
+  <string name="over_max_mms_size">Mms is too big.</string>
   <string name="overwrite_edited_content">"The content you've edited will be overwritten."</string>
   <string name="phrase_confirm_delete_message">This response will be deleted.</string>
   <string name="phrase_empty">No responses</string>
@@ -340,6 +343,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">"You can't preview messages in Guest mode"</string>
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
+  <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
   <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new text is received</string>
   <string name="pref_system_title">System</string>
@@ -361,9 +365,11 @@
   <string name="pref_title_notification_body_enabled">Show messages on lock screen</string>
   <string name="pref_title_ringtone_repeat">Number of notification sounds</string>
   <string name="pref_title_ringtone_repeat_summary">"Number of times notification sounds when SMS message is received while display is off: "</string>
+  <string name="pref_title_send_delivery_reports">Send delivery report</string>
   <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
   <string name="pref_title_sms_validity_period">SMS Validity period</string>
+  <string name="pref_title_storage_status">Message storage status</string>
   <string name="pref_title_system_mms_priority">Set as default</string>
   <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Wake screen</string>
@@ -388,6 +394,7 @@
   <string name="received_label">"Received: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Recipient: "</string>
+  <string name="recipients_over_size">Recipients are too many.</string>
   <string name="recording_failed">"Can't record"</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
@@ -493,6 +500,12 @@
   <string name="stick">Pin</string>
   <string name="stick_conversation">Pin current conversation</string>
   <string name="sticked_conversation">Conversation is already pinned</string>
+  <string name="storage_dialog_attachments">Mms attachments:</string>
+  <string name="storage_dialog_available_space">Available_space:</string>
+  <string name="storage_dialog_database">Database:</string>
+  <string name="storage_dialog_mms">Mms: %d</string>
+  <string name="storage_dialog_mms_size">Mms size:</string>
+  <string name="storage_dialog_sms">Sms: %d</string>
   <string name="storage_limits_activity">Storage limits</string>
   <string name="storage_limits_message">Limit the number of messages you save per conversation?</string>
   <string name="storage_limits_setting">Set limits</string>
