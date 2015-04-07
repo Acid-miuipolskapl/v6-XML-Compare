@@ -28,6 +28,16 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="calendar_sync">Calendar</string>
   <string name="click_to_enabled">Touch to sync.</string>
+  <string name="close_cloud_app_backup_cancel">Cancel</string>
+  <string name="close_cloud_app_backup_close">Close</string>
+  <string name="close_cloud_app_backup_local_backup">Back up</string>
+  <string name="close_cloud_app_backup_message">Cloud App Backup service will be stoped and data will be deleted May 1, 2015, please back up your data as soon as possible.</string>
+  <string name="close_cloud_app_backup_notification_message">Click to see details</string>
+  <string name="close_cloud_app_backup_notification_title">Micloud service adjust notice</string>
+  <string name="close_cloud_app_backup_title">Close notice</string>
+  <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud's App Backup service will be discontinued for non-MIUI apps. Related data for third-party apps will be deleted as of May 1, 2015. To avoid losing important info, back up your app data locally now."</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messaging, Gallery, and other MIUI system apps will not be affected.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Back up app data</string>
   <string name="cloud_back_up_button_ok">Force stop</string>
   <string name="cloud_back_up_close_info">Tap to back up.</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
