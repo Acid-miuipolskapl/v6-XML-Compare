@@ -67,6 +67,7 @@
   <string name="record_list_cloud_call">Synced recorded calls</string>
   <string name="record_list_cloud_fm">Synced FM recordings</string>
   <string name="record_list_fm">FM recordings</string>
+  <string name="record_mark_point">%smark</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Choose a recording</string>
   <string name="recording">Recording</string>
