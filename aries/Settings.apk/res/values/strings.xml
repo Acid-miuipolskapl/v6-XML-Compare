@@ -545,6 +545,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_settings_devices_title">Device</string>
   <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
   <string name="bluetooth_unlock_settings_unlock_device">Unlock device</string>
+  <string name="bluetooth_unlock_state_disconnected">Disconnected</string>
+  <string name="bluetooth_unlock_state_key_error">Key error</string>
+  <string name="bluetooth_unlock_state_label">Status:</string>
+  <string name="bluetooth_unlock_state_ok">Succeed</string>
+  <string name="bluetooth_unlock_state_too_far">Not near enough</string>
   <string name="bluetooth_unlock_title">Unlock with Bluetooth device</string>
   <string name="bluetooth_unlock_turned_off">Turned off</string>
   <string name="bluetooth_unlock_turned_on">Turned on</string>
