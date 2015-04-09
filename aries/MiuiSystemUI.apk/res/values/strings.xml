@@ -219,4 +219,8 @@ Slide down to lock"</string>
   <string name="user_guide_for_notification">Swipe down with one finger to pull down the notification shade</string>
   <string name="user_guide_for_toggle">The toggle list can be scrolled horizontally</string>
   <string name="user_guide_for_toggle_list">Manage toggles</string>
+  <string name="vpn_text">Touch to view settings.</string>
+  <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
+  <string name="vpn_title">VPN activated</string>
+  <string name="vpn_title_long">Connecting to VPN using %s</string>
 </resources>
