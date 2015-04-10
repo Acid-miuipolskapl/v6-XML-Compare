@@ -481,9 +481,9 @@ Switch to the new provider anyway?"</string>
   <string name="network_forbidden">%s (forbidden)</string>
   <string name="network_id">Network ID</string>
   <string name="network_message">Network message</string>
-  <string name="network_settings_auto_select_title">Network connection</string>
+  <string name="network_settings_auto_select_title">Close auto-select</string>
   <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
-  <string name="network_settings_confirm_message">Network is unavailable.</string>
+  <string name="network_settings_confirm_message">Network maybe unavailable, are you sure?</string>
   <string name="network_settings_data_connected_change">You need to turn off mobile data while you switch to another network.</string>
   <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
   <string name="network_settings_forbidden">%s (forbidden)</string>
