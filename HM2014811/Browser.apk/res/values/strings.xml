@@ -299,13 +299,13 @@
   <string name="is_last_tab">This is the last tab</string>
   <string name="is_page_bottom">"You've reached the bottom of the page"</string>
   <string name="is_page_top">"You're at the top of the page"</string>
-  <string name="js_dialog_before_unload">"%s 
+  <string name="js_dialog_before_unload">"%s
 
 Are you sure you want to navigate away from this page?"</string>
   <string name="js_dialog_before_unload_negative_button">Stay on this Page</string>
   <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
-  <string name="js_dialog_title">The page at \" %s \" says:</string>
+  <string name="js_dialog_title">The page at \"%s\" says:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly</string>
   <string name="js_disable_confirm_title">Disable JavaScript?</string>
