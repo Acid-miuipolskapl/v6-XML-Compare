@@ -57,7 +57,8 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
   <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
   <string name="account_settings_mail_check_frequency_label">Frequency</string>
-  <string name="account_settings_name_label">Your name</string>
+  <string name="account_settings_mibill_resolve_label">Analyse email statements</string>
+  <string name="account_settings_name_label">Nickname</string>
   <string name="account_settings_notifications">Notifications</string>
   <string name="account_settings_notify_label">Email notifications</string>
   <string name="account_settings_notify_summary">Show notification when new email arrives</string>
@@ -147,7 +148,7 @@
   <string name="account_setup_names_headline">Your account is set up and email is on its way!</string>
   <string name="account_setup_names_title">Account setup</string>
   <string name="account_setup_names_user_name_empty_error">"This field can't be blank."</string>
-  <string name="account_setup_names_user_name_label">Your name (displayed on outgoing messages)</string>
+  <string name="account_setup_names_user_name_label">Nickname (displayed on outgoing messages)</string>
   <string name="account_setup_need_password_verification">Your account has secondary password authentication. Authentication is required.</string>
   <string name="account_setup_not_disturb_title">Do not disturb</string>
   <string name="account_setup_options_background_attachments_label">Automatically download attachments when connected to Wi-Fi</string>
@@ -248,7 +249,7 @@
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
-  <string name="attachment_unknown">%s File</string>
+  <string name="attachment_unknown">%s file</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Attachments</string>
   <string name="auth_error_notification_text">Touch to edit account settings for %s</string>
@@ -389,7 +390,7 @@
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
   <string name="donot_disturb_starttime_title">From</string>
-  <string name="donot_disturb_summary">Do not disturb in preset time</string>
+  <string name="donot_disturb_summary">Notifications for emails that arrive will be silenced</string>
   <string name="donot_disturb_title">Do not disturb</string>
   <string name="downlaod_cancel_confirm_download">Stop</string>
   <string name="downlaod_cancel_continue_download">"Don't stop"</string>
@@ -651,6 +652,11 @@ CC: %4$s
   <string name="message_saved">Message saved as draft.</string>
   <string name="message_type_name">messages</string>
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
+  <string name="mibill_privacy_policy_button1">Not now</string>
+  <string name="mibill_privacy_policy_button2">Agree</string>
+  <string name="mibill_privacy_policy_description">Mi Wallet will analyse all the email statements recived in your Mail app, and manage all your credit card bills for you. This service is defaulted to off for company mailbox.</string>
+  <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Mi Wallet analyses email statements</string>
   <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_atts_total">%1$d attachments</string>
@@ -774,7 +780,7 @@ CC: %4$s
   <string name="preference_head_load_description">Download message titles only, when using mobile data</string>
   <string name="preference_head_load_title">Reduce mobile data usage</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">In POP3, attachment(s) will be automatically downloaded with email itself. Please care the mobile data.</string>
+  <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email itself. Please care the mobile data.</string>
   <string name="preference_removal_action_title">Archive &amp; delete actions</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in inbox"</string>
   <string name="preference_sender_image_title">Show profile pictures in inbox</string>
@@ -784,7 +790,7 @@ CC: %4$s
   <string name="preferences_default_reply_all_summary">Use as default for message replies</string>
   <string name="preferences_default_reply_all_title">Reply all</string>
   <string name="preferences_signature_dialog_title">Signature</string>
-  <string name="preferences_signature_summary_not_set">Not set</string>
+  <string name="preferences_signature_summary_not_set">None</string>
   <string name="preferences_signature_title">Signature</string>
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Preview</string>
@@ -844,8 +850,8 @@ CC: %4$s
   <string name="recipient_needed">Add at least 1 recipient.</string>
   <string name="recipient_needed_title">Warn</string>
   <string name="recipient_null_dialog_title">Alert</string>
-  <string name="reduce_the_receiving_frequencye_summary">Lower e-mail sync rate in preset time</string>
-  <string name="reduce_the_receiving_frequencye_title">Lower e-mail sync rate</string>
+  <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
+  <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
   <string name="refresh">Refresh</string>
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_done">Done</string>
@@ -879,8 +885,8 @@ CC: %4$s
   <string name="save_attachment">Save</string>
   <string name="save_draft">Save draft</string>
   <string name="save_draft_failed">Save draft failed</string>
-  <string name="save_power_summary">Battery saving in preset time</string>
-  <string name="save_power_title">Battery saver</string>
+  <string name="save_power_summary">Notifications for emails that arrive will be silenced</string>
+  <string name="save_power_title">Do not disturb</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
   <string name="sdcard_cannot_use">Storage card can not be used</string>
@@ -933,7 +939,7 @@ CC: %4$s
 
 
 %s"</string>
-  <string name="signin">Sign-in</string>
+  <string name="signin">Sign in</string>
   <string name="silent_ringtone">Silent</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
@@ -977,6 +983,11 @@ CC: %4$s
   <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
   <string name="to">To</string>
   <string name="to_heading">"To: "</string>
+  <string name="toast_bar_fail_synchronization">Abnormal network connection. Please try again later</string>
+  <string name="toast_bar_insufficient_memory_space">Insufficient storage space in the phone, e-mail synchronization fails</string>
+  <string name="toast_bar_invalid_account">Account expired，please re-login</string>
+  <string name="toast_bar_no_connection_network">Network is not connected, click to setting</string>
+  <string name="toast_bar_open_gmail_synchronization">Let no longer restricted to use Gmail , click to use</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file using %1$s."</string>
