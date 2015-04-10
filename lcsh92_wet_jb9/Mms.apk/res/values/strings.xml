@@ -332,7 +332,7 @@
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s messages per conversation</string>
-  <string name="pref_summary_delivery_reports">Show delivery status for sent messages</string>
+  <string name="pref_summary_delivery_reports">Show delivery status for messages you send</string>
   <string name="pref_summary_hide_festival">Hide Chinese language only features when system is set to a non-Chinese language</string>
   <string name="pref_summary_manage_sim_messages">Manage messages stored on your SIM card</string>
   <string name="pref_summary_mms_auto_retrieval">Automatically retrieve MMS</string>
@@ -343,7 +343,7 @@
   <string name="pref_summary_notification_body_enabled_when_secure">"You can't preview messages in Guest mode"</string>
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
-  <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
+  <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
   <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new text is received</string>
   <string name="pref_system_title">System</string>
@@ -365,7 +365,7 @@
   <string name="pref_title_notification_body_enabled">Show messages on lock screen</string>
   <string name="pref_title_ringtone_repeat">Number of notification sounds</string>
   <string name="pref_title_ringtone_repeat_summary">"Number of times notification sounds when SMS message is received while display is off: "</string>
-  <string name="pref_title_send_delivery_reports">Send delivery report</string>
+  <string name="pref_title_send_delivery_reports">Send delivery messages</string>
   <string name="pref_title_show_recent_contacts">Show recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
   <string name="pref_title_sms_validity_period">SMS Validity period</string>

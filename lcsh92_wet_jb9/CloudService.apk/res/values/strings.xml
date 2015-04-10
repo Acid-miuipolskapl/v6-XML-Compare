@@ -153,14 +153,14 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_set_internet">Network</string>
   <string name="micloud_main_space_full">Not enough storage space.</string>
   <string name="micloud_main_space_risk">%d items synced.</string>
-  <string name="micloud_main_stop_sync">Stop sync</string>
+  <string name="micloud_main_stop_sync">Sync stopped</string>
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
-  <string name="micloud_main_sync_pause">Pause sync</string>
-  <string name="micloud_main_sync_stop">Stop sync</string>
+  <string name="micloud_main_sync_pause">Sync paused</string>
+  <string name="micloud_main_sync_stop">Sync stopped</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">Syncing…</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
