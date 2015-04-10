@@ -57,6 +57,7 @@
   <string name="loading_hot_problem">Loading…</string>
   <string name="loading_problem_list">Loading list…</string>
   <string name="menu_copy">Copy</string>
+  <string name="network_disconnected">"Can't connect to network"</string>
   <string name="network_err">"Can't connect to the network."</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Your report will be sent when you have a data connection.</string>
@@ -83,8 +84,9 @@
   <string name="signal_problem2">Weak signal</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Submit</string>
-  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers."</string>
-  <string name="submit_dialog_title">Send report to Xiaomi</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
+  <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
+  <string name="submit_dialog_title">Send bug report</string>
   <string name="suggestion_description">Write your suggestion here</string>
   <string name="suggestion_problem1">"Tell us what features you'd like to see in future"</string>
   <string name="system_app_select">Built-in apps</string>
@@ -94,11 +96,13 @@
   <string name="title_nonsystem_app">Other apps</string>
   <string name="title_system_app">MIUI apps</string>
   <string name="toast_description_required">You need to write a description</string>
+  <string name="toast_feedback_collect_store">Collecting logs…</string>
   <string name="toast_feedback_network_unavailable">"Can't connect to the network"</string>
   <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_feedback_submitting">Submitting…</string>
-  <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>
+  <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>
+  <string name="toast_fill_brackets">Your report is missing some info</string>
   <string name="toast_network_unavailable">"Couldn't send. Can't connect to the network."</string>
   <string name="toast_pending_log_collection">Still getting logs…</string>
   <string name="toast_report_copied_to_clipboard">Report copied to clipboard</string>

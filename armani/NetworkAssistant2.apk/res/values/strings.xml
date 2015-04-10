@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
+  <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Manage whitelist</string>
   <string name="add_white_list">Add</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Updated over a month ago</string>
@@ -10,7 +12,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="alter_dialog_message">Using mobile data when roaming internationally may result in additional charges from your carrier.</string>
-  <string name="apn_exception_summary">"Test carrer's Access Point Name configurations"</string>
+  <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Data</string>
@@ -92,8 +94,8 @@ For more info check the message you received from your carrier"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming internationally?</string>
   <string name="dialog_roaming_title">International roaming</string>
   <string name="disable_air_mode">Turn airplane mode off</string>
-  <string name="dns_exception_summary">"Router's DNS settings are unavailable."</string>
-  <string name="dns_exception_title">Test DNS</string>
+  <string name="dns_exception_summary">"Check router's DNS settings"</string>
+  <string name="dns_exception_title">Check DNS settings</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="enable_network">Turn your Mobile network on</string>
@@ -154,11 +156,11 @@ a mobile data connection"</string>
   <string name="main_primary_message_traffic_purchase">You need to top-up</string>
   <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
-Off-peak: %1$s remaining | %2$s used"</string>
+Off-peak: %1$s | %2$s used"</string>
   <string name="main_secondary_message_traffic_detail_normal">"
-Peak: %1$s%2$s remaining | %3$s used"</string>
-  <string name="main_secondary_message_traffic_over">over</string>
-  <string name="main_secondary_message_traffic_remain">remaining</string>
+Peak: %1$s%2$s | %3$s used"</string>
+  <string name="main_secondary_message_traffic_over">"over "</string>
+  <string name="main_secondary_message_traffic_remain">"remaining "</string>
   <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
@@ -291,6 +293,7 @@ Peak: %1$s%2$s remaining | %3$s used"</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
   <string name="repair">Repair</string>
+  <string name="repair_loading_text">Loading…</string>
   <string name="replace_dns">Replace DNS automatically</string>
   <string name="right_precent">100%</string>
   <string name="roaming_not_start_body">Apps on whitelist will be able to use mobile data when roaming internationally.</string>
@@ -458,6 +461,6 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="usage_sorted_loading_text">Loading…</string>
   <string name="usbsharenet_exception_summary">"Can't test network being shared by Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test USB shared network</string>
-  <string name="wifi_exception_summary">Test an available WLAN network</string>
+  <string name="wifi_exception_summary">Test available WLAN network connections</string>
   <string name="wifi_exception_title">Test WLAN network</string>
 </resources>

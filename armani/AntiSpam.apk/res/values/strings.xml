@@ -47,6 +47,10 @@
   <string name="address_choose_hint">%1$s, %2$s, and %3$d other locations</string>
   <string name="addwhitelist">Add to exceptions</string>
   <string name="all_address_choose_hint">All numbers in this province</string>
+  <string name="antispam_notificaiton_type_show_all">All numbers</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Non-blocklist numbers</string>
+  <string name="antispam_notificaiton_type_show_none">Never</string>
+  <string name="antispam_notification_setting_title">Blocklist notifications</string>
   <string name="app_name">Blocklist</string>
   <string name="backsound_set_hint">Set your away message to %s?</string>
   <string name="baidu_thanks">Powered by Baidu</string>
