@@ -17,7 +17,7 @@
   <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
-  <string name="camera_face_beauty_simple_mode_open">i:3</string>
+  <string name="camera_face_beauty_simple_mode_open">131072</string>
   <string name="camera_label">Camera</string>
   <string name="camera_settings_label">Camera</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
@@ -150,7 +150,6 @@
   <string name="pref_camera_exposuretime_entry_32s">32s</string>
   <string name="pref_camera_exposuretime_entry_4">1/4s</string>
   <string name="pref_camera_exposuretime_entry_4s">4s</string>
-  <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
   <string name="pref_camera_exposuretime_entry_60">1/60s</string>
   <string name="pref_camera_exposuretime_entry_8">1/8s</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
@@ -348,7 +347,8 @@
   <string name="pref_camera_zsl_value_on">on</string>
   <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_default">0</string>
-  <string name="pref_face_beauty_default">i:2</string>
+  <string name="pref_face_beauty_close">0</string>
+  <string name="pref_face_beauty_default">131072</string>
   <string name="pref_face_beauty_title">Beautify</string>
   <string name="pref_front_mirror_default">auto</string>
   <string name="pref_front_mirror_entry_auto">Auto</string>
