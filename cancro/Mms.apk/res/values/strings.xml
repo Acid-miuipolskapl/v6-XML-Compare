@@ -79,7 +79,7 @@
   <string name="confirm_no_block_title">Unblock this number and restore all messages sent from this number?</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent.</string>
   <string name="confirm_restore_all_title">Restore all messages sent from this number?</string>
-  <string name="confirm_restore_checkbox">Restore blocked messages</string>
+  <string name="confirm_restore_checkbox">Unblock Messages send from this number</string>
   <string name="confirm_restore_message">Restore selected messages?</string>
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore Message</string>
@@ -510,7 +510,6 @@
   <string name="storage_limits_message">Limit the number of messages you save per conversation?</string>
   <string name="storage_limits_setting">Set limits</string>
   <string name="storage_limits_setting_dismiss">No limits</string>
-  <string name="storage_unavailable">No space available</string>
   <string name="subject_hint">Subject</string>
   <string name="subject_label">"Subject: "</string>
   <string name="text_in_popup_saved_to_clipboard">Copied to clipboard</string>
