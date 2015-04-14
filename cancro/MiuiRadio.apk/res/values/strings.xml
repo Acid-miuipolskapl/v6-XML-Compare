@@ -63,10 +63,10 @@
   <string name="more">More</string>
   <string name="my_favorite">FAVORITES</string>
   <string name="my_program">Offline</string>
-  <string name="no_display_channel_text">Resource off shelves, no sounds</string>
+  <string name="no_display_channel_text">No programs</string>
   <string name="no_display_history_text">No history</string>
-  <string name="no_display_other_text">No result</string>
-  <string name="no_download_text">No download</string>
+  <string name="no_display_other_text">No results</string>
+  <string name="no_download_text">No downloads</string>
   <string name="no_network_button_radio">Use FM radio</string>
   <string name="no_network_button_refresh">Refresh</string>
   <string name="no_network_text">"Can't connect to the network."</string>
