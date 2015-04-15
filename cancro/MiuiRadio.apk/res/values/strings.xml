@@ -51,7 +51,7 @@
   <string name="loading_broadcasting">Just a sec…</string>
   <string name="loading_hint">Loading…</string>
   <string name="local_list_item_history">History</string>
-  <string name="local_program">Downloaded</string>
+  <string name="local_program">Offline</string>
   <string name="max_sleep_time">90</string>
   <string name="metered_alert">Data usage warning</string>
   <string name="metered_alert_msg">Using your mobile network to listen to music will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>

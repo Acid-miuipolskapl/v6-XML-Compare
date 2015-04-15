@@ -101,7 +101,7 @@
   <string name="disk_volume">Removable storage</string>
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
-  <string name="douban_score">Douban Score</string>
+  <string name="douban_score">Score</string>
   <string name="download_add_success">Added to download queue</string>
   <string name="download_error">Offline error</string>
   <string name="download_fail">Fail</string>
@@ -119,6 +119,7 @@
   <string name="edit">Edit</string>
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">Load error</string>
+  <string name="empty_keyword_hint">Keyword cannot be empty</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
   <string name="error_empty_title">Something went wrong</string>
