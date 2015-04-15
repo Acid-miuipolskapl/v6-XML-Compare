@@ -1739,9 +1739,6 @@ Select your operating system:"</string>
   <string name="music_dolby_ieq_focused">Focused</string>
   <string name="music_dolby_ieq_open">Open</string>
   <string name="music_dolby_ieq_rich">Rich</string>
-  <string name="music_dolby_mode_movie">Movie</string>
-  <string name="music_dolby_mode_music">Music</string>
-  <string name="music_dolby_mode_off">Off</string>
   <string name="music_dolby_preset_select">Please select an Intelligent Equalizer mode</string>
   <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
   <string name="music_dolby_volume_leveler">Volume Leveler</string>
@@ -1769,7 +1766,6 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>

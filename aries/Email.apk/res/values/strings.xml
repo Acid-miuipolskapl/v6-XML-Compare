@@ -2,6 +2,9 @@
 <resources>
   <string name="ApplicationIconMore99">99+</string>
   <string name="Folders">Folders</string>
+  <string name="SMTP_independent_verification_text">SMTP independent verification</string>
+  <string name="SMTP_password_text">Password</string>
+  <string name="SMTP_username_text">Username</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More options</string>
@@ -381,7 +384,7 @@
   <string name="dialog_auto_download_failed">"Can't finish auto-download, try downloading manually."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
   <string name="dialog_insufficient_space_on_external">"Can't finish download. Not enough space on external storage."</string>
-  <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
+  <string name="dialog_insufficient_space_on_internal">Lack of storage space to auto-download attachments.</string>
   <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
@@ -471,6 +474,7 @@
   <string name="folder_sent_name_en3">Sent Items</string>
   <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
   <string name="folder_shortcut_widget_label">Email folder</string>
+  <string name="folder_synchronization_mail_settings">Folder synchronization mail settings</string>
   <string name="folder_trash_name_cn0">已删除</string>
   <string name="folder_trash_name_cn1">已删除邮件</string>
   <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -554,7 +558,7 @@
   <string name="mail_header_downloading_message_body">Downloading…</string>
   <string name="mail_header_message_body_auto_download_complete">Downloaded email content using Wi-Fi.</string>
   <string name="mail_header_message_body_auto_download_tip">Email content will be downloaded using Wi-Fi.</string>
-  <string name="mail_header_message_body_download_failed">Connection timed out.</string>
+  <string name="mail_header_message_body_download_failed">Download email content failed.</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Combined inbox</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
@@ -813,7 +817,7 @@ CC: %4$s
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_responses_empty_view">No quick replies</string>
-  <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
+  <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
   <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
@@ -836,11 +840,6 @@ CC: %4$s
   <string name="quote_divider_ks_web">________________________________________</string>
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
-  <string name="quote_divider_wps_zh">发自WPS Mail</string>
-  <string name="quote_divider_wps_zh_hk">發自WPS Mail</string>
-  <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
-  <string name="quote_divider_xm_zh">发自我的小米手机</string>
-  <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
   <string name="quoted_text">Include quoted text</string>
   <string name="quoted_text_background_color_string">@android:color/white</string>
   <string name="quoted_text_font_color_string">@color/gray_text_color</string>
@@ -983,11 +982,11 @@ CC: %4$s
   <string name="tip_cannot_switchview_in_unread_folder">Unable to switch view in unread mail aggregation mode</string>
   <string name="to">To</string>
   <string name="to_heading">"To: "</string>
-  <string name="toast_bar_fail_synchronization">Abnormal network connection. Please try again later</string>
-  <string name="toast_bar_insufficient_memory_space">Insufficient storage space in the phone, e-mail synchronization fails</string>
-  <string name="toast_bar_invalid_account">Account expired，please re-login</string>
-  <string name="toast_bar_no_connection_network">Network is not connected, click to setting</string>
-  <string name="toast_bar_open_gmail_synchronization">Let no longer restricted to use Gmail , click to use</string>
+  <string name="toast_bar_fail_synchronization">"Can't connect to the network"</string>
+  <string name="toast_bar_insufficient_memory_space">Not enough storage space</string>
+  <string name="toast_bar_invalid_account">You need to sign in again</string>
+  <string name="toast_bar_no_connection_network">"You don't have an internet connection"</string>
+  <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file using %1$s."</string>
