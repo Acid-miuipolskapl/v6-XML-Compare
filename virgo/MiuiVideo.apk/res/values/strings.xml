@@ -30,6 +30,7 @@
   <string name="all_episode">All Episodes</string>
   <string name="app_latest_version">The Application is already latest version</string>
   <string name="app_name">Video</string>
+  <string name="app_update_background">Upgrade your application in background</string>
   <string name="app_upgrade_version">New version</string>
   <string name="app_version">Application Version</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
@@ -77,7 +78,7 @@
   <string name="datastream_alert_title">Data usage warning</string>
   <string name="day">Day</string>
   <string name="debug_mode">Debug Mode</string>
-  <string name="debug_mode_desc">Checked, show video id in left-top corner and display advertise when application startup</string>
+  <string name="debug_mode_desc">Checked, run in debug mode and show video id in left-top corner.</string>
   <string name="declaration">Terms of Service</string>
   <string name="declaration_allow">Agree</string>
   <string name="declaration_content">"1. By using this service, you agree to Sohu Video, iQiyi, and other content providers' "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Service&lt;/a&gt;".
@@ -101,7 +102,7 @@
   <string name="disk_volume">Removable storage</string>
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
-  <string name="douban_score">Douban Score</string>
+  <string name="douban_score">Score</string>
   <string name="download_add_success">Added to download queue</string>
   <string name="download_error">Offline error</string>
   <string name="download_fail">Fail</string>
@@ -119,6 +120,8 @@
   <string name="edit">Edit</string>
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">Load error</string>
+  <string name="empty_keyword_hint">Keyword cannot be empty</string>
+  <string name="episode_name_format">第%1$s集</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
   <string name="error_empty_title">Something went wrong</string>
@@ -300,8 +303,8 @@
   <string name="use_cellular_network_summary">Use mobile data connection to download videos. This will increase your mobile data usage.</string>
   <string name="use_cellular_offlinedownload_summary">Show notification when using mobile data to download video</string>
   <string name="use_cellular_offlinedownload_title">Download notification</string>
-  <string name="use_cellular_play_summary">Show notification when using mobile data to watch video</string>
-  <string name="use_cellular_play_title">Streaming notification</string>
+  <string name="use_cellular_play_summary">Close for save cost</string>
+  <string name="use_cellular_play_title">Using mobile data to watch video</string>
   <string name="user_tab">My App</string>
   <string name="version_select">Version Select</string>
   <string name="version_select_summary">Select alpha, developing, stable version</string>
