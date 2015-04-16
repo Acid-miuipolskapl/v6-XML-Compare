@@ -1739,6 +1739,9 @@ Select your operating system:"</string>
   <string name="music_dolby_ieq_focused">Focused</string>
   <string name="music_dolby_ieq_open">Open</string>
   <string name="music_dolby_ieq_rich">Rich</string>
+  <string name="music_dolby_mode_movie">Video</string>
+  <string name="music_dolby_mode_music">Music</string>
+  <string name="music_dolby_mode_off">Off</string>
   <string name="music_dolby_preset_select">Please select an Intelligent Equalizer mode</string>
   <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
   <string name="music_dolby_volume_leveler">Volume Leveler</string>
@@ -1766,6 +1769,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
+  <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -3051,6 +3055,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_alarm_mute">Mute alarms</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
+  <string name="volume_hifi_description">Hi-Fi settings</string>
   <string name="volume_media_description">Music, video, games, and other media</string>
   <string name="volume_media_mute">Mute music &amp; other media</string>
   <string name="volume_notification_description">Notifications</string>
