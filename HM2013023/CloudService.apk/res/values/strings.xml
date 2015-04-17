@@ -3,6 +3,7 @@
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="activate">Activate</string>
+  <string name="activate_number_change_dialog_message">Choose major number which need activate, when voip calling, the called party will see this number</string>
   <string name="activating">Activating…</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
   <string name="antispam_sync">Do Not Disturb settings</string>
@@ -31,10 +32,10 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="close_cloud_app_backup_cancel">Cancel</string>
   <string name="close_cloud_app_backup_close">Close</string>
   <string name="close_cloud_app_backup_local_backup">Back up</string>
-  <string name="close_cloud_app_backup_message">Cloud App Backup service will be stoped and data will be deleted May 1, 2015, please back up your data as soon as possible.</string>
-  <string name="close_cloud_app_backup_notification_message">Click to see details</string>
-  <string name="close_cloud_app_backup_notification_title">Micloud service adjust notice</string>
-  <string name="close_cloud_app_backup_title">Close notice</string>
+  <string name="close_cloud_app_backup_message">"Mi Cloud's App Backup service will be discontinued for non-MIUI apps. Related data for third-party apps will be deleted as of May 1, 2015. To avoid losing important info, back up your app data locally now."</string>
+  <string name="close_cloud_app_backup_notification_message">Tap to view details</string>
+  <string name="close_cloud_app_backup_notification_title">App Backups notification</string>
+  <string name="close_cloud_app_backup_title">Close</string>
   <string name="cloud_app_back_up_quit_notification_content1">"Mi Cloud's App Backup service will be discontinued for non-MIUI apps. Related data for third-party apps will be deleted as of May 1, 2015. To avoid losing important info, back up your app data locally now."</string>
   <string name="cloud_app_back_up_quit_notification_content2">Contacts, Messaging, Gallery, and other MIUI system apps will not be affected.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Back up app data</string>
@@ -213,7 +214,9 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
 
 This feature encrypts and uploads your device's ID to Mi's servers."</string>
+  <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
@@ -302,6 +305,8 @@ By using this service, you're agreeing to "</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>
+  <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
