@@ -3,7 +3,7 @@
     <string name="date_time">dd/MM E</string>
     <string name="language">nl</string>
     <string name="desc_date_format">dd MMM, EEEE</string>
-	<string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', dubbel tikken op klok te openen'</string>
+	<string name="desc_time">'huidige tijd\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', dubbel tikken om klok te openen'</string>
     <string name="weather_type_0">Helder</string>
     <string name="weather_type_1">Bewolkt</string>
     <string name="weather_type_2">Nevelig</string>
