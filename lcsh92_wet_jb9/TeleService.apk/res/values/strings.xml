@@ -479,6 +479,10 @@ Switch to the new provider anyway?"</string>
   <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
   <string name="invalidPuk2">Type a PUK2 that is 8 numbers.</string>
   <string name="invalid_password">Enter a password that is 4 numbers long</string>
+  <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
+  <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
+  <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
+  <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Please enter IP prefix number first in voice call settings.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">IP dial function is not applicable to internet call.</string>
   <string name="ip_prefix_edit_default_sum">Enter prefix number for IP dial</string>
@@ -539,6 +543,8 @@ Switch to the new provider anyway?"</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
   <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
   <string name="mismatch_password">"The passwords you entered don't match"</string>
+  <string name="mismatch_pin">"The PINs you typed don't match."</string>
+  <string name="mismatch_pin2">"PIN2s don't match. Try again."</string>
   <string name="missed_call_notify_five_times">5 times</string>
   <string name="missed_call_notify_none">No reminder</string>
   <string name="missed_call_notify_once">1 time</string>

@@ -228,6 +228,10 @@
     </string-array>
     <string-array name="quote_devider_text_array">
         <item>@string/quote_divider_apple</item>
+        <item>@string/quote_divider_huawei_zh</item>
+        <item>@string/quote_divider_ipad_zh</item>
+        <item>@string/quote_divider_iphone_en</item>
+        <item>@string/quote_divider_ks_web</item>
         <item>@string/quote_divider_qq_en</item>
         <item>@string/quote_divider_qq_zh</item>
         <item>@string/quote_divider_iphone_fwd_en</item>
@@ -327,14 +331,6 @@
         <item>@string/special_text_3</item>
         <item>@string/special_text_4</item>
         <item>@string/special_text_5</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Sync succeeded.</item>
-        <item>Error in network connection.</item>
-        <item>Failed to sign in.</item>
-        <item>Error in secure connection.</item>
-        <item>Failed to sync.</item>
-        <item>Server error.</item>
     </string-array>
     <string-array name="wait_for_sync_body_txt_array">
         <item>@string/wait_for_sync_body_txt_array_1</item>
