@@ -1561,6 +1561,9 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+  <string name="music_dolby_mode_movie">Video</string>
+  <string name="music_dolby_mode_music">Music</string>
+  <string name="music_dolby_mode_off">Off</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Adjust individual levels for different types of music</string>
   <string name="music_headphone_settings">Choose headphones type</string>
@@ -1585,6 +1588,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Always use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Use Mi Sound Enhancer</string>
+  <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
