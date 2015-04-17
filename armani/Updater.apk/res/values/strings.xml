@@ -77,6 +77,7 @@
   <string name="menu_title_download_current_rom">Download update</string>
   <string name="menu_title_pick_rom_file">Choose update package</string>
   <string name="menu_title_recovery">Reboot to Recovery mode</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">Update available</string>
   <string name="miui_summary_no_new_version">No updates available</string>
   <string name="miui_summary_now_version">"Can't connect to the network"</string>
@@ -189,6 +190,23 @@ But you can take part next Tuesday."</string>
   <string name="validate_pkg_failed_msg">"Couldn't verify the source of this update. Try downloading it again."</string>
   <string name="validate_pkg_failed_title">"Can't verify update"</string>
   <string name="view_upgrade_tutorial">View</string>
+  <string name="vote_beta">Beta Feedback Program</string>
+  <string name="vote_error1">"Look's like you're not a member
+of the Beta Feedback Program"</string>
+  <string name="vote_error2">"Couldn't submit feedback.
+Update your device and try again"</string>
+  <string name="vote_error3">"Couldn't sign in.
+Try signing in your Mi Account again."</string>
+  <string name="vote_error4">You already submitted feedback</string>
+  <string name="vote_error5">"Something went wrong
+Couldn't submit feedback"</string>
+  <string name="vote_error_nonetwork">"Can't connect to the network"</string>
+  <string name="vote_experience">Forum experience</string>
+  <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
+  <string name="vote_join">Voted</string>
+  <string name="vote_not_recommend">"Don't recommend"</string>
+  <string name="vote_recommend">Recommend this update</string>
+  <string name="vote_submit">Submit</string>
   <string name="weekly_build">Weekly</string>
   <string name="worst_update">Worst update so far</string>
 </resources>

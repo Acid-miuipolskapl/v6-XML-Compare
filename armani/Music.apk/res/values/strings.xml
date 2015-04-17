@@ -41,6 +41,7 @@
   <string name="create_playlist">Create playlist</string>
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
+  <string name="delete">Delete</string>
   <string name="delete_file_as_well">Delete local file as well</string>
   <string name="delete_file_end">Delete permanently</string>
   <string name="delete_file_start">Delete selected files</string>
@@ -218,6 +219,7 @@
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
+  <string name="only_online_can_select_quality">Only online song can select quality</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
@@ -235,6 +237,7 @@
   <string name="project_device_mobile">Mobile device</string>
   <string name="quit_warining">Player will stop in %d minutes</string>
   <string name="recommend_fragment_title">Featured</string>
+  <string name="remove">Remove</string>
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
   <string name="search_album">Search albums</string>
@@ -269,6 +272,9 @@
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"Can't connect to network or this song isn't available."</string>
+  <string name="sort_by_language">Lang</string>
+  <string name="sort_by_name">Name</string>
+  <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_to_play">Play</string>
   <string name="stream_quality">Streaming quality</string>
@@ -281,7 +287,6 @@
   <string name="tab_local_track_list">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
-  <string name="today_update">Music updated</string>
   <string name="track_list_control_download">Download</string>
   <string name="track_list_control_edit_add_tracks">Add songs</string>
   <string name="track_list_control_edit_delete_playlist">Delete</string>
