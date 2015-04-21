@@ -30,6 +30,7 @@
   <string name="all_episode">All Episodes</string>
   <string name="app_latest_version">The Application is already latest version</string>
   <string name="app_name">Video</string>
+  <string name="app_plugin_ready">%1$s component is ready</string>
   <string name="app_update_background">Upgrade your application in background</string>
   <string name="app_upgrade_version">New version</string>
   <string name="app_version">Application Version</string>
@@ -105,7 +106,7 @@
   <string name="douban_score">Score</string>
   <string name="download_add_success">Added to download queue</string>
   <string name="download_error">Offline error</string>
-  <string name="download_fail">Fail</string>
+  <string name="download_fail">Offline fail</string>
   <string name="download_file_fail">Local file access failed, maybe there is no space on SD card</string>
   <string name="download_finished">Finished</string>
   <string name="download_geturl_fail">"Couldn't get URL"</string>
@@ -115,8 +116,11 @@
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Fetching address</string>
   <string name="download_running">Running</string>
+  <string name="download_start_message">%1$s component will be downloaded and install</string>
   <string name="download_task_with">%d tasks</string>
+  <string name="download_url_waiting">Waiting to fetch url</string>
   <string name="download_with">Downloading %1$s/%2$s</string>
+  <string name="downloading_app_plugin">Downloading %1$s component</string>
   <string name="edit">Edit</string>
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">Load error</string>
@@ -142,8 +146,8 @@
   <string name="good">OK</string>
   <string name="hint_apk_download">Click \"%1$s\" to download and install this application</string>
   <string name="hint_apk_install">Application download</string>
-  <string name="hint_apk_text_update">App new version available, do you want to download and install?</string>
-  <string name="hint_apk_title_update">New Version</string>
+  <string name="hint_apk_text_update">%1$s new version available, do you want to update?</string>
+  <string name="hint_apk_title_update">%1$s New Version</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Loading…</string>
   <string name="init">Init</string>
@@ -164,6 +168,7 @@
   <string name="login_tip_content">Sign in with your Mi Account to sync and update shows that you are currently following.</string>
   <string name="login_tip_title">Sign in</string>
   <string name="media_name_comment">%s comment</string>
+  <string name="memory_mode_desc">Save memory usage</string>
   <string name="menu_item_enable_audio_enhance">Enhance audio</string>
   <string name="menu_name">Menu</string>
   <string name="mine_info_account_summary_none">Not login</string>
@@ -172,6 +177,7 @@
   <string name="mipush_setting">Mi push</string>
   <string name="month">Month</string>
   <string name="my_favorite">Starred</string>
+  <string name="my_local_favorite">Local tarred</string>
   <string name="my_offline">Offline</string>
   <string name="mycamera">My videos</string>
   <string name="myfavorite">Star</string>
@@ -214,6 +220,8 @@
   <string name="other_setting">Other</string>
   <string name="pause">Pause</string>
   <string name="percent_status">%.0f%%</string>
+  <string name="performance_mode">Run Mode</string>
+  <string name="performance_mode_desc">Performance priority</string>
   <string name="personal_center">Personal Center</string>
   <string name="pick_addon_to_delete">choose items</string>
   <string name="place_at">No.%d</string>
@@ -299,7 +307,7 @@
   <string name="update_to_count_qi">Updated to %s</string>
   <string name="updatedalready">updated</string>
   <string name="upgrade">Upgrade</string>
-  <string name="use_cellular_network">Use mobile data connection</string>
+  <string name="use_cellular_network">Mobile data connection settings</string>
   <string name="use_cellular_network_summary">Use mobile data connection to download videos. This will increase your mobile data usage.</string>
   <string name="use_cellular_offlinedownload_summary">Show notification when using mobile data to download video</string>
   <string name="use_cellular_offlinedownload_title">Download notification</string>
@@ -310,6 +318,7 @@
   <string name="version_select_summary">Select alpha, developing, stable version</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">video</string>
+  <string name="video_app_update">Update</string>
   <string name="video_bbs">Join Us</string>
   <string name="video_bbs_url">Join us and help develop this video application</string>
   <string name="video_count">%d videos</string>
