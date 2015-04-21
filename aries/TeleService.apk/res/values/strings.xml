@@ -403,6 +403,8 @@
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_service_unavailable">FDN service is not available.</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
+  <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+  <string name="flash_when_ring_title">Flash when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -1087,6 +1089,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
+  <string name="voip_setting">Voip settings</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="wifi_calling_call_assistant">Call assistant</string>

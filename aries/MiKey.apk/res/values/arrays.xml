@@ -41,4 +41,10 @@
         <item>.About</item>
         <item>.SilentMode</item>
     </string-array>
+    <string-array name="inner_setting_infos">
+        <item>.Call</item>
+        <item>.Camera</item>
+        <item>.Reader</item>
+        <item>.IM</item>
+    </string-array>
 </resources>
