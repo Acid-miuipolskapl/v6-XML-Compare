@@ -161,10 +161,10 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_comment_title">Comment</string>
   <string name="update_downfull_no_info_sum">Wait a minute or two and try again.</string>
   <string name="update_downfull_no_info_title">"Can't download update"</string>
-  <string name="update_feedback">Rate this update</string>
-  <string name="update_feedback_end">"You missed this week's vote"</string>
+  <string name="update_feedback">Beta Feedback Program</string>
+  <string name="update_feedback_end">"You missed this week's four-grid"</string>
   <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
-  <string name="update_feedback_expired">"You missed this week's vote.
+  <string name="update_feedback_expired">"You missed this week's four-grid feedback round.
 But you can take part next Tuesday."</string>
   <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
   <string name="update_feedback_need_network">Connect to network first</string>

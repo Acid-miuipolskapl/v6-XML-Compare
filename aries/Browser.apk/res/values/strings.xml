@@ -368,7 +368,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_quicksearch_enable_pref_title">Search bar in notification shade</string>
   <string name="miui_search_notification_message">Touch to open search bar.</string>
   <string name="miui_search_notification_title">Search</string>
-  <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
   <string name="miuichromium_error_page_reason_network">View link URL</string>
   <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
@@ -707,10 +706,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="sub_sync_item_browser_title_history_summary">Sync history of browser</string>
   <string name="sub_sync_item_browser_title_novel">Sync novels</string>
   <string name="sub_sync_item_browser_title_novel_summary">Sync novels from browser</string>
-  <string name="sub_sync_item_browser_title_useful">Sync Useful</string>
-  <string name="sub_sync_item_browser_title_useful_summary">Sync useful page of browser</string>
-  <string name="sub_sync_item_browser_title_video">Sync video history</string>
-  <string name="sub_sync_item_browser_title_video_summary">"Sync the list of videos you've recently watched across your devices"</string>
   <string name="sub_sync_item_browser_title_webapp">Sync webapps</string>
   <string name="sub_sync_item_browser_title_webapp_summary">Sync added webapps and favorites</string>
   <string name="suggest_access_appstore">Mi App Store</string>

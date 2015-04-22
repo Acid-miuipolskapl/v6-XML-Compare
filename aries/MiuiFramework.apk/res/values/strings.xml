@@ -54,6 +54,9 @@
   <string name="android_wireless_display_route_description">@android:string/wireless_display_route_description</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">反侵略日</string>
+  <string name="app_no_notification">Empty</string>
+  <string name="app_notificaiton_on_notificationBar">Notification shade</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Lock screen, notification shade</string>
   <string name="arbor_day">植树节</string>
   <string name="armed_forces_day">軍人節</string>
   <string name="auto_start_warning_allow">Allow</string>

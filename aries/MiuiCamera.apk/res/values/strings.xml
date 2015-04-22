@@ -89,8 +89,8 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
-  <string name="pref_camera_asd_night_title">Enhance lowlight pictures automatically</string>
-  <string name="pref_camera_asd_popup_title">Prompt when flash is needed</string>
+  <string name="pref_camera_asd_night_title">Auto night time pictures enhance</string>
+  <string name="pref_camera_asd_popup_title">Popup option when flash is needed</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto-capture when stable</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
@@ -187,8 +187,8 @@
   <string name="pref_camera_hfr_value_3x">90</string>
   <string name="pref_camera_hfr_value_4x">120</string>
   <string name="pref_camera_hfr_value_off">off</string>
-  <string name="pref_camera_histogram_entry_disable">Turn off</string>
-  <string name="pref_camera_histogram_entry_enable">Turn on</string>
+  <string name="pref_camera_histogram_entry_disable">Disable</string>
+  <string name="pref_camera_histogram_entry_enable">Enable</string>
   <string name="pref_camera_histogram_value_disable">disable</string>
   <string name="pref_camera_histogram_value_enable">enable</string>
   <string name="pref_camera_id_default">0</string>
@@ -233,7 +233,7 @@
   <string name="pref_camera_peak_default">off</string>
   <string name="pref_camera_peak_entry_off">Off</string>
   <string name="pref_camera_peak_entry_on">On</string>
-  <string name="pref_camera_peak_title">Focus peaking</string>
+  <string name="pref_camera_peak_title">Peaking Focus</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
@@ -391,7 +391,7 @@
   <string name="pref_video_speed_entry_fast">Fast</string>
   <string name="pref_video_speed_entry_normal">Standard</string>
   <string name="pref_video_speed_entry_slow">Slow</string>
-  <string name="pref_video_speed_fast_title">Time-lapse</string>
+  <string name="pref_video_speed_fast_title">Fast-motion</string>
   <string name="pref_video_speed_slow_title">Slow-motion</string>
   <string name="pref_video_speed_title">Video capture speed</string>
   <string name="pref_video_speed_value_fast">fast</string>
@@ -423,13 +423,13 @@
   <string name="simple_mode_button_text_countdown">Turn off timer</string>
   <string name="simple_mode_button_text_delay_capture">Turn off timer</string>
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
-  <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
+  <string name="simple_mode_button_text_fast_video">Turn off slow-motion camera</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_hdr">Turn off HDR</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>
   <string name="simple_mode_button_text_panorama">Turn off panorama</string>
   <string name="simple_mode_button_text_scene">Turn off Scene mode</string>
-  <string name="simple_mode_button_text_slow_video">Turn off time-lapse</string>
+  <string name="simple_mode_button_text_slow_video">Turn off fast-motion camera</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
   <string name="snapshotsize_low_powermode">"Picture resolution isn't supported by your current power management settings. Video size snapshot will be used."</string>
@@ -447,5 +447,5 @@
   <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Size limit reached.</string>
-  <string name="wait">Just a sec…</string>
+  <string name="wait">Hang on…</string>
 </resources>

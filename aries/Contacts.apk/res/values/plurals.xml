@@ -109,14 +109,6 @@
         <item quantity="zero">%1$d selected</item>
         <item quantity="one">%1$d selected</item>
     </plurals>
-    <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block these %1$d numbers?</item>
-        <item quantity="one">Block this number?</item>
-    </plurals>
-    <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock these %1$d numbers?</item>
-        <item quantity="one">Unblock this number?</item>
-    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Rang %d times</item>
         <item quantity="one">Rang %d time</item>
