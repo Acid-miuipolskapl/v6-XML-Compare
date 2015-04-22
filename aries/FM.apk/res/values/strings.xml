@@ -36,9 +36,9 @@
   <string name="msg_noantenna_message">No headphones detected. Some functions may not be available.</string>
   <string name="new_frequency">New frequency</string>
   <string name="next_station">Next station</string>
+  <string name="notification_rec_title">Tap to view recording</string>
   <string name="pre_station">Previous station</string>
   <string name="record_completed">Recording completed</string>
-  <string name="record_file_location_format">Saved to %s</string>
   <string name="search_dialog_title">Scan stations</string>
   <string name="set">Set</string>
   <string name="station_check_favorite">Add to presets</string>
