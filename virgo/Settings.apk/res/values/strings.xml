@@ -476,8 +476,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_unlock_state_ok">Succeed</string>
   <string name="bluetooth_unlock_state_too_far">Not near enough</string>
   <string name="bluetooth_unlock_title">Unlock with Bluetooth device</string>
-  <string name="bluetooth_unlock_turned_off">Turned off</string>
-  <string name="bluetooth_unlock_turned_on">Turned on</string>
+  <string name="bluetooth_unlock_turned_off">Off</string>
+  <string name="bluetooth_unlock_turned_on">On</string>
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
@@ -1949,7 +1949,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Don't show again"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Agree and Continue</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">In order to update the list of applications can use reading mode, need to connect the network.Do you agree?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">To update the list of apps that can use Read mode, you need to connect to the internet.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Terms and Conditions</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Update list of applications using reading mode over the network</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Network update list</string>
@@ -2138,7 +2138,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
   <string name="skip_label">Skip</string>
-  <string name="skip_lock_screen_confirm_msg">The following features will be disabled for lockscreen: notifications, music player controls, swipe left to access Camera, and swipe right access Mi Home.</string>
+  <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lockscreen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
@@ -2181,6 +2181,9 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
+  <string name="status_bar_app_disable_notification">Empty</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
+  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2312,10 +2315,13 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
+  <string name="title_font2">Font</string>
   <string name="title_font_current">Choose system font</string>
+  <string name="title_font_current2">Choose system font</string>
   <string name="title_font_size">Text size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
   <string name="title_layout_current">Choose font size</string>
+  <string name="title_layout_current2">Choose font size</string>
   <string name="title_local_resource">Local resources</string>
   <string name="title_system_resource">System resources</string>
   <string name="toast_lockscreen_glogin_empty_password">Enter password</string>

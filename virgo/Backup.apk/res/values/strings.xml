@@ -165,7 +165,7 @@
   <string name="system_backup">Backup</string>
   <string name="system_backup_info">System settings and Home screen layout</string>
   <string name="task_backup_cancel_progress">Stopping…</string>
-  <string name="task_backup_finished_local">Backup complete</string>
+  <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
   <string name="task_canceled_all_local">Cancel</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
@@ -181,7 +181,7 @@
   <string name="task_progress">Progress</string>
   <string name="task_restore_cancel_dialog">Stopping now may result in data loss.</string>
   <string name="task_restore_cancel_progress">Stopping…</string>
-  <string name="task_restore_finished_local">Restore complete</string>
+  <string name="task_restore_finished_local">"Restored "</string>
   <string name="task_restore_none">Nothing to restore</string>
   <string name="task_running_backup_dialog">Backup is in progress. Touch OK to view.</string>
   <string name="task_running_backup_hint">This task is already running in the background</string>

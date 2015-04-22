@@ -219,7 +219,7 @@
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
-  <string name="only_online_can_select_quality">Only online song can select quality</string>
+  <string name="only_online_can_select_quality">You can only select quality for music you stream.</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
@@ -272,7 +272,7 @@
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"Can't connect to network or this song isn't available."</string>
-  <string name="sort_by_language">Lang</string>
+  <string name="sort_by_language">Language</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
