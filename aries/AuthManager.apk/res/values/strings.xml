@@ -246,7 +246,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Privacy_Perm_Count">%1$d allowed | %2$d denied</string>
   <string name="Su_Enable_Dialog">%1$s is requesting root access.</string>
   <string name="Su_Package_Forbidden">"%1$s doesn't have root access."</string>
-  <string name="Su_Unavailable">Root access is unavailable in this version of MIUI. You need to flash the developer build of MIUI in order grant root access.</string>
+  <string name="Su_Unavailable">Root access is unavailable in this version of MIUI. You need to flash the developer build of MIUI in order to give root access.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
