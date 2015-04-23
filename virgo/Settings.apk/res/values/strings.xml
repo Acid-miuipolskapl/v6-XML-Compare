@@ -89,7 +89,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="agps_roaming">A-GPS when roaming</string>
   <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
-  <string name="agps_roaming_summary">Use A-GPS when roaming, may cost of telephone charges</string>
+  <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Displaying screensaver will consume additional battery power.</string>

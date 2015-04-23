@@ -17,7 +17,7 @@
   <string name="add_2sec_pause">Add 2-sec pause</string>
   <string name="add_account">Add account</string>
   <string name="add_blacklist">Block</string>
-  <string name="add_blacklist_dialog_title">Block this number?</string>
+  <string name="add_blacklist_dialog_title">Add to blocklist</string>
   <string name="add_connection_button">Add connection</string>
   <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
   <string name="add_field">Add another field</string>
@@ -803,7 +803,7 @@ To add a contact to your list of favorites:
   <string name="relationLabelsGroup">Relationship</string>
   <string name="removePhoto">Remove photo</string>
   <string name="remove_blacklist">Unblock</string>
-  <string name="remove_blacklist_dialog_title">Unblock this numbers?</string>
+  <string name="remove_blacklist_dialog_title">Remove from blocklist</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, touch the Merge icon at the bottom of your screen."</string>

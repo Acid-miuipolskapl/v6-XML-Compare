@@ -42,7 +42,7 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Attention</string>
-  <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
+  <string name="alert_init_merged_message">"Now, offline photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
   <string name="alert_message_open_sync">You need to turn on sync first.</string>
   <string name="alert_secret_album_message">Swipe down at the bottom of your albums in Mi Cloud to view hidden albums.</string>
@@ -484,14 +484,14 @@
   <string name="cloud_album_more_settings">Sync with Mi Cloud</string>
   <string name="cloud_album_set_create">New</string>
   <string name="cloud_album_set_scan_qr_code">QR code</string>
-  <string name="cloud_albums">Cloud images</string>
+  <string name="cloud_albums">Mi Cloud</string>
   <string name="cloud_be_shared_guide_message">"View your friends' photos, and add photos to the album as well."</string>
   <string name="cloud_be_shared_guide_title">This album comes from a friend</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
   <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
-  <string name="cloud_media_set_set">Cloud</string>
+  <string name="cloud_media_set_set">Mi Cloud</string>
   <string name="cloud_owner_album_share_guide">"Share this album
 with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
@@ -507,7 +507,7 @@ with friends"</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
-  <string name="confirm_all_photo_not_this_people_face">Sure all photos all not?</string>
+  <string name="confirm_all_photo_not_this_people_face">No matches?</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
@@ -520,9 +520,9 @@ with friends"</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
-  <string name="confirm_left_photo_will_move_out">Left photos will be moved out of this album</string>
+  <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">No this person</string>
+  <string name="confirm_not_face">Not this person</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
@@ -688,7 +688,7 @@ with friends"</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
   <string name="impunity_declaration_title">Internet connection</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">In the gallery, please long press the photo which you want to set privately，then choose Add to hidden album</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
   <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
@@ -720,7 +720,7 @@ with friends"</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_thumbnail">Downloading thumbnail…</string>
   <string name="loading_video">Downloading video…</string>
-  <string name="local_albums">Local images</string>
+  <string name="local_albums">Offline</string>
   <string name="local_time">(Local)</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
@@ -759,7 +759,7 @@ with friends"</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">More</string>
-  <string name="mosaic">mosaic</string>
+  <string name="mosaic">Mosaic</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to</string>
   <string name="mtgif">MTGIF</string>
@@ -769,7 +769,7 @@ with friends"</string>
   <string name="name_wrong">"This isn't %s"</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="network_connected_rescan">Please scan again after connected to Internet</string>
+  <string name="network_connected_rescan">Connect to the internet and try again</string>
   <string name="new_device_tips">"Tap to view
 device"</string>
   <string name="no">No</string>
@@ -779,7 +779,7 @@ device"</string>
   <string name="no_map_app">No app was found to handle this action</string>
   <string name="no_network_connected">No network detected</string>
   <string name="no_picture_or_video">Empty</string>
-  <string name="no_secret_photo">No secret photo</string>
+  <string name="no_secret_photo">No hidden photos</string>
   <string name="no_storage_disable_cloud_albums">Cloud is unavailable.</string>
   <string name="no_such_album">Album not found</string>
   <string name="no_such_item">"Couldn't find item"</string>
@@ -851,7 +851,7 @@ device"</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
   <string name="priority_storage">Save to SD card</string>
   <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically</string>
-  <string name="project_available_tip">Projector detected</string>
+  <string name="project_available_tip">Display detected</string>
   <string name="projection">Cast</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
@@ -904,7 +904,7 @@ device"</string>
   <string name="scan_qr_code_failure">"Couldn't scan"</string>
   <string name="screensaver_activate_mode">Screensaver during sleep</string>
   <string name="screensaver_activate_only_charging">Only while charging</string>
-  <string name="script">script</string>
+  <string name="script">Script</string>
   <string name="sd_not_available">"Couldn't access SD card."</string>
   <string name="sdcard_root">SD card root directory</string>
   <string name="seconds">" seconds"</string>
@@ -922,7 +922,7 @@ device"</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hide</string>
   <string name="set_label_all_albums">All</string>
-  <string name="set_label_local_albums">Local</string>
+  <string name="set_label_local_albums">Offline</string>
   <string name="set_label_mtp_devices">MTP devices</string>
   <string name="set_lock_and_wallpaper">Setting as wallpaper…</string>
   <string name="set_lock_or_wallpaper">Set as wallpaper</string>
@@ -958,7 +958,7 @@ device"</string>
   <string name="size_above">%1$s or above</string>
   <string name="size_below">%1$s or below</string>
   <string name="size_between">%1$s to %2$s</string>
-  <string name="skip_hide_special_album">"Can't hide system albums (eg. Camera, Screenshots)"</string>
+  <string name="skip_hide_special_album">"Can't hide system albums (e.g. Camera, Screenshots)"</string>
   <string name="slideshow">Slideshow</string>
   <string name="slideshow_category">Slideshow</string>
   <string name="slideshow_dream_name">Slideshow</string>
@@ -1006,7 +1006,7 @@ device"</string>
   <string name="too_many_recipients">"You can't add more than %2$s recipients (You've currently added %1$s)."</string>
   <string name="try_to_send">Send</string>
   <string name="ubifocus_data_invalid">Some of the data for this image is invalid</string>
-  <string name="ubifocus_data_missing">It needs to download some of the data</string>
+  <string name="ubifocus_data_missing">Data for this image is missing</string>
   <string name="ubifocus_guide_text">Touch &amp; hold to refocus</string>
   <string name="ubifocus_refocus_data_invalid">"Can't refocus because some of this image's data is invalid"</string>
   <string name="ubifocus_refocus_download_tip">"You need to download this image's data before refocusing."</string>
