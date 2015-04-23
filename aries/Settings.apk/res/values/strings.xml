@@ -105,7 +105,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="agps_roaming">A-GPS when roaming</string>
   <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
-  <string name="agps_roaming_summary">Use A-GPS when roaming, may cost of telephone charges</string>
+  <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_option_title">Alarm volume</string>
   <string name="alarm_volume_title">Alarm</string>
@@ -551,8 +551,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_state_ok">Succeed</string>
   <string name="bluetooth_unlock_state_too_far">Not near enough</string>
   <string name="bluetooth_unlock_title">Unlock with Bluetooth device</string>
-  <string name="bluetooth_unlock_turned_off">Turned off</string>
-  <string name="bluetooth_unlock_turned_on">Turned on</string>
+  <string name="bluetooth_unlock_turned_off">Off</string>
+  <string name="bluetooth_unlock_turned_on">On</string>
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
@@ -1422,7 +1422,7 @@ If your system's text is still too small, try using "</string>
   <string name="location_agps_register_network_type">Access network type</string>
   <string name="location_agps_register_network_type_dialog_summary">Choose a network</string>
   <string name="location_agps_register_network_type_dialog_title">Choose network</string>
-  <string name="location_agps_register_network_type_summary">Choose network for AGPS use</string>
+  <string name="location_agps_register_network_type_summary">Choose network for A-GPS use</string>
   <string name="location_agps_reset_type">Reset types</string>
   <string name="location_agps_reset_type_choose_dialog_title">Reset types</string>
   <string name="location_agps_reset_type_summary">Choose preferred reset type</string>
@@ -2258,7 +2258,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Don't show again"</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Agree and Continue</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">In order to update the list of applications can use reading mode, need to connect the network.Do you agree?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">To update the list of apps that can use Read mode, you need to connect to the internet.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Terms and Conditions</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Update list of applications using reading mode over the network</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Network update list</string>
@@ -2432,7 +2432,7 @@ To use screen pinning:
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
   <string name="silent_mode_title">Silent mode</string>
   <string name="sim_absent">No SIM/RUIM</string>
-  <string name="sim_bad_pin">Type a PIN that is 4 to 8 numbers</string>
+  <string name="sim_bad_pin">PIN must be 4-8 letters long</string>
   <string name="sim_call_back_title">Call back from default SIM</string>
   <string name="sim_calls_always_use">Always use this for calls</string>
   <string name="sim_calls_ask_first_prefs_title">Ask first</string>
@@ -2512,7 +2512,7 @@ Attempts Remaining :"</string>
   <string name="sim_status_title">SIM status</string>
   <string name="simulate_color_space">Simulate color space</string>
   <string name="skip_label">Skip</string>
-  <string name="skip_lock_screen_confirm_msg">The following features will be disabled for lockscreen: notifications, music player controls, swipe left to access Camera, and swipe right access Mi Home.</string>
+  <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lockscreen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI info</string>
@@ -2557,6 +2557,9 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
+  <string name="status_bar_app_disable_notification">Empty</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
+  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2704,10 +2707,13 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="timezone_settings">Time zone</string>
   <string name="title_color_calibration">Color Correction preset</string>
   <string name="title_font">Font</string>
+  <string name="title_font2">Font</string>
   <string name="title_font_current">Choose system font</string>
+  <string name="title_font_current2">Choose system font</string>
   <string name="title_font_size">Text size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
-  <string name="title_layout_current">Using layout</string>
+  <string name="title_layout_current">Choose font size</string>
+  <string name="title_layout_current2">Choose font size</string>
   <string name="title_local_resource">Local resources</string>
   <string name="title_system_resource">System resources</string>
   <string name="toast_lockscreen_glogin_empty_password">Enter password</string>
@@ -3172,7 +3178,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_connect">Connect</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Cancel</string>
   <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
-  <string name="wifi_connect_cmcc_dialog_content">CMCC network has been connected，it maybe casue WLAN traffic charges</string>
+  <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
   <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
@@ -3274,10 +3280,10 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_notify_open_networks">Network notification</string>
   <string name="wifi_notify_open_networks_summary">Notify whenever a public network is available</string>
   <string name="wifi_off_airplane_on_cancel">Cancel</string>
-  <string name="wifi_off_airplane_on_confirm">Confirm</string>
-  <string name="wifi_off_airplane_on_content">In the airplane mode, WLAN can be opened manually</string>
+  <string name="wifi_off_airplane_on_confirm">OK</string>
+  <string name="wifi_off_airplane_on_content">You can turn on WLAN manually in Airplane mode.</string>
   <string name="wifi_off_airplane_on_not_remind">"Don't show again"</string>
-  <string name="wifi_off_airplane_on_title">WLAN Tip</string>
+  <string name="wifi_off_airplane_on_title">Attention</string>
   <string name="wifi_on_time">WLAN on time</string>
   <string name="wifi_other_network">Add another network</string>
   <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>

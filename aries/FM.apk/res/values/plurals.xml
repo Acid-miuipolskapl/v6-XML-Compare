@@ -8,4 +8,8 @@
         <item quantity="few">%1$d stations scanned</item>
         <item quantity="many">%1$d stations scanned</item>
     </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d FM recordings</item>
+        <item quantity="one">%d FM recording</item>
+    </plurals>
 </resources>

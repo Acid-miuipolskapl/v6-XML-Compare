@@ -17,6 +17,7 @@
   <string name="add_2sec_pause">Add 2-sec pause</string>
   <string name="add_account">Add account</string>
   <string name="add_blacklist">Block</string>
+  <string name="add_blacklist_dialog_title">Block this number?</string>
   <string name="add_connection_button">Add connection</string>
   <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
   <string name="add_field">Add another field</string>
@@ -40,6 +41,7 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Delete batch</string>
+  <string name="blacklist">Block</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
   <string name="blurbJoinContactDataWith">Choose the contact you want to merge with %s:</string>
   <string name="btn_rotation">Rotate</string>
@@ -323,8 +325,6 @@
   <string name="display_sim_contacts">Show SIM contacts</string>
   <string name="display_ungrouped">All other contacts</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
-  <string name="dlg_add_blacklist">Block this number?</string>
-  <string name="dlg_remove_blacklist">Unblock this number?</string>
   <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">"Can't load preview"</string>
   <string name="duplicate_group_name">A group with that name already exists</string>
@@ -803,6 +803,7 @@ To add a contact to your list of favorites:
   <string name="relationLabelsGroup">Relationship</string>
   <string name="removePhoto">Remove photo</string>
   <string name="remove_blacklist">Unblock</string>
+  <string name="remove_blacklist_dialog_title">Unblock this numbers?</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, touch the Merge icon at the bottom of your screen."</string>
@@ -945,6 +946,7 @@ To add a contact to your list of favorites:
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
+  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>

@@ -228,6 +228,7 @@
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
+  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
