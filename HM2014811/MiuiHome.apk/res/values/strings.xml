@@ -151,7 +151,7 @@
   <string name="menu_wallpaper">Wallpaper</string>
   <string name="menu_workspace_preview">Preview Home screens</string>
   <string name="mi_wallpaper">MIUI Theme Store</string>
-  <string name="mtzgadget_missing_text">"Isn't provided any longer, please add again"</string>
+  <string name="mtzgadget_missing_text">"Widget isn't available"</string>
   <string name="multi_selecting_tips">To pick up an app, touch its icon</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">No more room on this Home screen</string>
