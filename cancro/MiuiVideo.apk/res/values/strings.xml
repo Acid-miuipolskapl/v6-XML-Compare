@@ -26,6 +26,7 @@
   <string name="alert_dialog_download_btn_hide">Hide</string>
   <string name="alert_dialog_download_dup_task">Downloading in progress, please wait...</string>
   <string name="alert_dialog_download_error">Download Error</string>
+  <string name="all">all</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">All Episodes</string>
   <string name="app_latest_version">The Application is already latest version</string>
@@ -144,13 +145,14 @@
   <string name="gong_count_ji">%d Ep. total</string>
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
-  <string name="hint_apk_download">Click \"%1$s\" to download and install this application</string>
+  <string name="hint_apk_download">Install this application</string>
   <string name="hint_apk_install">Application download</string>
   <string name="hint_apk_text_update">%1$s new version available, do you want to update?</string>
   <string name="hint_apk_title_update">%1$s New Version</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Loading…</string>
   <string name="init">Init</string>
+  <string name="install_apk">Install</string>
   <string name="install_comfirm">Tap to install</string>
   <string name="install_plugin">Install Plug-in</string>
   <string name="introduce">Summary</string>

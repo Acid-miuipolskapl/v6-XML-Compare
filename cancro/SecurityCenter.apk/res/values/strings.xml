@@ -95,7 +95,7 @@
   <string name="button_optimizer">OK</string>
   <string name="button_text_accept">Accept</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
-  <string name="button_text_add_to_white_list">Add to exceptions</string>
+  <string name="button_text_add_to_white_list">Exception</string>
   <string name="button_text_backup_uninstall">Back up and uninstall</string>
   <string name="button_text_cancel">Cancel</string>
   <string name="button_text_cancel_clean">Cancel</string>

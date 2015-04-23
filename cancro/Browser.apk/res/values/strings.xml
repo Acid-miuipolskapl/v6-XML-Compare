@@ -705,10 +705,10 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Sync open tabs of browser on different devices</string>
   <string name="sub_sync_item_browser_title_history">Sync history</string>
   <string name="sub_sync_item_browser_title_history_summary">Sync history of browser</string>
-  <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-  <string name="sub_sync_item_browser_title_novel_summary">Sync novels from browser</string>
-  <string name="sub_sync_item_browser_title_useful">Sync Useful</string>
-  <string name="sub_sync_item_browser_title_useful_summary">Sync useful page of browser</string>
+  <string name="sub_sync_item_browser_title_novel">Sync books</string>
+  <string name="sub_sync_item_browser_title_novel_summary">Sync books from browser</string>
+  <string name="sub_sync_item_browser_title_useful">Sync start page</string>
+  <string name="sub_sync_item_browser_title_useful_summary">"Sync sites you've added to the start page"</string>
   <string name="sub_sync_item_browser_title_video">Sync video history</string>
   <string name="sub_sync_item_browser_title_video_summary">"Sync the list of videos you've recently watched across your devices"</string>
   <string name="sub_sync_item_browser_title_webapp">Sync webapps</string>
