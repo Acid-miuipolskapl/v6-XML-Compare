@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_city">Press icon to add new city</string>
+  <string name="app_name">Weather Service</string>
+  <string name="cancel">Cancel</string>
+  <string name="choose_city">Choose city</string>
+  <string name="cities_title">Cities</string>
+  <string name="confirm_dialog_title">Delete</string>
+  <string name="delete">Delete</string>
+  <string name="deselect_all">Deselect all</string>
+  <string name="every12">Every 12 hours</string>
+  <string name="has_chosen">has been chosen.</string>
+  <string name="menu_about">About</string>
+  <string name="menu_add_city">Add city</string>
+  <string name="net_error">Network is not available. Please check it.</string>
+  <string name="no">Cancel</string>
+  <string name="no_city">No cities</string>
+  <string name="no_city_error">"Can't get the city information, Please set the system time and time zone correctly."</string>
+  <string name="no_found">No found city match with %s. Please check your input words.</string>
+  <string name="no_weather">Do not have weather for %s currently.</string>
+  <string name="no_weather_error">"Can't get the weather info, Please set the system time and time zone correctly."</string>
+  <string name="powered_by">Powered by:</string>
+  <string name="remove">Remove</string>
+  <string name="searching">Searching, please wait...</string>
+  <string name="searching_fail">Search city failed.</string>
+  <string name="select_all">Select all</string>
+  <string name="server_moblileyahoo">Mobile Yahoo</string>
+  <string name="setting_title">Setup</string>
+  <string name="tem_celsius">Celsius</string>
+  <string name="temperature">Temperature units</string>
+  <string name="update_fre">Update frequency</string>
+  <string name="url_yahoo">http://m.yahoo.com</string>
+  <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+  <string name="warn">At most 8 cities could be added.</string>
+  <string name="weatherserver">Weather server</string>
+  <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
+  <string name="web_user_agent_target_content">"Mobile "</string>
+</resources>

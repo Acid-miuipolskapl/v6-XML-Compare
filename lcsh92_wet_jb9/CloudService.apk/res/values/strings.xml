@@ -3,7 +3,7 @@
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="activate">Activate</string>
-  <string name="activate_number_change_dialog_message">Choose major number which need activate, when voip calling, the called party will see this number</string>
+  <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
   <string name="activating">Activating…</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
   <string name="antispam_sync">Do Not Disturb settings</string>
@@ -41,22 +41,23 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_app_back_up_quit_notification_content3">Back up app data</string>
   <string name="cloud_back_up_button_ok">Force stop</string>
   <string name="cloud_back_up_close_info">Tap to back up.</string>
+  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">1 hour</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
-  <string name="cloud_back_up_open_info">"Back up your Home screen layout and apps every %1$s when connected to WLAN
-Last backup: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Back up your Home screen layout and apps every %1$s when connected to WLAN</string>
+  <string name="cloud_back_up_open_info">"Back up Home screen app layout when connected to WLAN once every %1$s
+Last backup was on:%2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back up Home screen app layout when connected to WLAN once every %1$s</string>
   <string name="cloud_back_up_remove_success">Backup deleted</string>
-  <string name="cloud_back_up_title">Back up Home screen</string>
+  <string name="cloud_back_up_title">Back up Home screen layout</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloud_sync_setting_summary_standard">Use mobile data connection to sync contacts, messages, call history, notes, WLAN settings, Browser data and playlists</string>
-  <string name="cloud_sync_setting_summary_wlan">All data will sync when connected to WLAN</string>
+  <string name="cloud_sync_setting_summary_wlan">Sync data when connected to WLAN</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="contact">Contacts</string>

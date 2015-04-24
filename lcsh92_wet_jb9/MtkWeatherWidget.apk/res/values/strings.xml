@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="add_setting">Tap here to add cities</string>
+  <string name="app_name">Weather</string>
+  <string name="c">°C</string>
+  <string name="f">°F</string>
+  <string name="failed_to_locate">Failed to locate</string>
+  <string name="na">N/A</string>
+  <string name="net_error">Network is not available. Please check it.</string>
+  <string name="no_weather">Do not have weather for %s currently.</string>
+  <string name="updating">Updating</string>
+  <string name="widget_12_hours_format">h:mm&lt;font size="15"&gt;aa&lt;/font&gt;</string>
+  <string name="widget_24_hours_format">kk:mm</string>
+  <string name="widget_weekday_format">E</string>
+  <string name="widget_year_month_day_format">yyyy-MM-dd</string>
+</resources>
