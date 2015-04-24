@@ -42,7 +42,7 @@
   <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
   <string name="data_usage_disabled_dialog">"You've reached your data usage limit. If you go over your plan’s data usage limit, your carrier could charge you additional fees."</string>
-  <string name="data_usage_disabled_dialog_enable">Data usage warning</string>
+  <string name="data_usage_disabled_dialog_enable">Turn on data</string>
   <string name="data_usage_leisure_warning_body">Touch to view data usage details.</string>
   <string name="data_usage_leisure_warning_title">Data usage limit</string>
   <string name="data_usage_limit_body">Touch to turn on mobile data.</string>

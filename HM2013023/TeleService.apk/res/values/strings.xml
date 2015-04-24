@@ -405,6 +405,8 @@
   <string name="fdn_phone_book_busy">Phone book is busy now,please try later.</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
   <string name="femtocell_point_list_title">Femtocells</string>
+  <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+  <string name="flash_when_ring_title">Flash when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.

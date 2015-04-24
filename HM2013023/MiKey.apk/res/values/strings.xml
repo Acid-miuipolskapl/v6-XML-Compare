@@ -159,9 +159,13 @@ OK it"</string>
   <string name="front_camera">Front camera</string>
   <string name="goto_update">Update</string>
   <string name="hint_long_press_del">Long press to remove</string>
+  <string name="hint_mikey_after_link">Click to learn key programs within meters</string>
+  <string name="hint_mikey_before_link">Can not be used</string>
+  <string name="hint_mikey_during_link">M button within the program</string>
   <string name="hint_mikey_sprite">"点击米键就是点击屏幕
 发语音、拍照片、打游戏…
 使用米键精灵无法使用米键其它功能"</string>
+  <string name="inner_mikey_btn_text">&lt;u&gt;&amp;#35797;&amp;#35797;&amp;#31243;&amp;#24207;&amp;#20869;&amp;#31859;&amp;#38190;&lt;/u&gt;</string>
   <string name="input_phone">Input phone number</string>
   <string name="key_direction_down">Down</string>
   <string name="key_direction_left">Left</string>
@@ -169,6 +173,10 @@ OK it"</string>
   <string name="key_direction_up">Up</string>
   <string name="know_it">OK</string>
   <string name="long_click">Long press</string>
+  <string name="madclick_toast">Click</string>
+  <string name="madclick_toast_illigal">Please enter a number</string>
+  <string name="madclick_toast_max">Not more than 10 000</string>
+  <string name="madclick_toast_min">Not less than 0</string>
   <string name="message_photo_end">Picture saved</string>
   <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
   <string name="name">Name:</string>
@@ -218,6 +226,23 @@ OK it"</string>
   <string name="select_vol">Please select the volume keys</string>
   <string name="setting_buy">Buy MiKeys</string>
   <string name="setting_feedback">Feedback</string>
+  <string name="setting_inner_call_desc">Click: Call answer / hang up call is completed</string>
+  <string name="setting_inner_call_title">Phone</string>
+  <string name="setting_inner_camera_desc">"Click: pictures
+Long press: Continuous"</string>
+  <string name="setting_inner_camera_title">Camera</string>
+  <string name="setting_inner_im_desc">"Currently support: micro-channel, m chat
+In a voice chat page
+Long press: send voice"</string>
+  <string name="setting_inner_im_title">Chat Software</string>
+  <string name="setting_inner_reader_desc">"Currently supports: watercress reading, kindle, millet fiction, see more
+Click: Next
+Double-click on: Previous"</string>
+  <string name="setting_inner_reader_title">Reading software</string>
+  <string name="setting_inner_sprite">M button within the program</string>
+  <string name="setting_inner_sprite_desc">"M button within the program can not be used simultaneously with rice key elves!
+M button within the program can enter a program, the intelligent recognition core operations, such as shutter, reading software, flip pictures and so on, then the key to achieve by meter"</string>
+  <string name="setting_inner_sprite_title">M button within the program</string>
   <string name="setting_instant_photo_desc">"Before taking a picture, the camera focuses"</string>
   <string name="setting_instant_photo_text">Focus before taking picture</string>
   <string name="setting_keeplive_desc">This option allows the application to run on the background and respond quickly to your commands. However, this can increase the battery consumption</string>
