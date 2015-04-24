@@ -103,7 +103,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
-  <string name="headset_custom">Configure</string>
+  <string name="headset_custom">Dismiss</string>
   <string name="headset_info">Tap to configure settings</string>
   <string name="headset_settings">Headphones connected</string>
   <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
