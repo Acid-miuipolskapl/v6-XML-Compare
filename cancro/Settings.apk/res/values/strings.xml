@@ -2194,7 +2194,6 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Loading…</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>

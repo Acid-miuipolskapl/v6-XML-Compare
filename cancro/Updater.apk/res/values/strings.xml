@@ -208,8 +208,5 @@ Couldn't submit feedback"</string>
   <string name="vote_recommend">Recommend this update</string>
   <string name="vote_submit">Submit</string>
   <string name="weekly_build">Weekly</string>
-  <string name="welcom_button">OK</string>
-  <string name="welcom_message">"You're ready to rock"</string>
-  <string name="welcom_title">Welcome to MIUI 6</string>
   <string name="worst_update">Worst update so far</string>
 </resources>
