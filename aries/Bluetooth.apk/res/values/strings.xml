@@ -15,6 +15,10 @@
   <string name="ble_device_unbind">Clear settings</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
+  <string name="bluetooth_connected">Connected</string>
+  <string name="bluetooth_connecting">Connecting…</string>
+  <string name="bluetooth_disconnected">Disconnected</string>
+  <string name="bluetooth_disconnecting">Disconnecting…</string>
   <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_preference_connected_devices">Connected devices</string>
   <string name="bluetooth_preference_found_devices">Available devices</string>

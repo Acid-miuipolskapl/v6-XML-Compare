@@ -1154,6 +1154,12 @@ Some apps may not work until updated by their developers."</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
+  <string name="fluency_mode">Optimize system performance</string>
+  <string name="fluency_mode_confirm_title">Reboot now?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
+  <string name="fluency_mode_enabled_name">Optimize system performance</string>
+  <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1220,6 +1226,7 @@ If your system's text is still too small, try using "</string>
   <string name="gadget_toggle_wifi">Updating WLAN setting</string>
   <string name="gadget_wifi">WLAN</string>
   <string name="game_controller_settings_category">Game Controller</string>
+  <string name="gesture_wakeup_title">Double tap screen to wake</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="global_change_warning">This setting affects all users on this phone.</string>
@@ -2584,7 +2591,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Loading…</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
   <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
