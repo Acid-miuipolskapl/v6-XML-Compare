@@ -8,7 +8,10 @@
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
   <string name="calibrate_failed_timeout">"Can't connect to the server"</string>
+  <string name="calibrate_rotate_again">Try again</string>
   <string name="calibrate_success">Calibrated</string>
+  <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
+  <string name="calibrate_title">Calibrate compass</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Calibrating…</string>
   <string name="dialog_title_no_network">"Can't connect to network"</string>
