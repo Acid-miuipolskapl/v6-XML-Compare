@@ -76,6 +76,8 @@
   <string name="hints_garbage_cleanup_result_danger">Clean up trash now</string>
   <string name="hints_garbage_cleanup_result_risk">Clean up trash now</string>
   <string name="hints_garbage_cleanup_result_safe">Everything looks good</string>
+  <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">Empty</string>
   <string name="hints_install_apps_interval">used %d days ago</string>
   <string name="hints_install_apps_new">never used</string>
   <string name="hints_install_apps_risk">risk detected</string>
