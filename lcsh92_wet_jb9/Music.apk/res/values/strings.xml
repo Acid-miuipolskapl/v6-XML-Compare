@@ -150,6 +150,7 @@
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="i_know">OK</string>
+  <string name="i_know_it">OK</string>
   <string name="impunity_declaration">"Online content is provided by Baidu Online Music Service. By using this service, you're agreeing to Baidu's "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">Quit</string>
@@ -258,6 +259,7 @@
   <string name="send_to">Share</string>
   <string name="send_to_title">Send to (%1$s)</string>
   <string name="server_error">Server error. Please try again later</string>
+  <string name="service_stop">Service discontinued</string>
   <string name="set_album_successful">Album saved</string>
   <string name="set_as_ring">Set as ringtone</string>
   <string name="set_id3_failed">"Can't save info"</string>
@@ -302,6 +304,12 @@
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
+  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_immediate">Update now</string>
+  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+  <string name="upgrade_remind">Update available</string>
+  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
   <string name="valid_period">"Valid: "</string>
   <string name="vip_recommend_title">Get higher quality music</string>
 </resources>
