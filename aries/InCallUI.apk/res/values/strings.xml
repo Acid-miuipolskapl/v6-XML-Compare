@@ -75,6 +75,7 @@
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_description_recording">Recording…</string>
+  <string name="call_extension_conference_mode">Conference mode</string>
   <string name="call_forwarding_settings">Call forwarding settings</string>
   <string name="call_lost">Call has been lost.</string>
   <string name="call_record_button_label">Recording %s</string>
@@ -434,6 +435,7 @@ Switch to the new provider anyway?"</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode">Answer using</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Conference</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
   <string name="onscreen_audio_mode_headset">Headphones</string>
   <string name="onscreen_audio_mode_speaker">Speaker</string>
