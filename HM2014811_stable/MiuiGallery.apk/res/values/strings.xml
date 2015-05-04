@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
+  <string name="abandon">Abandon</string>
   <string name="accept">Accept</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
-  <string name="action_fail_unknown_error">An unknown error occurred</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="add_account">Add account</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_cloud_album">Add to album</string>
   <string name="add_to_cloud_exceeded_the_size_message">File is too big</string>
-  <string name="add_to_cloud_fail_too_many_items">Too many items selected</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s items can't be added to cloud: %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in target album</string>
   <string name="add_to_cloud_folder">Add to folder</string>
@@ -19,7 +18,11 @@
   <string name="add_to_cloud_space_full_message">Cloud album is full</string>
   <string name="add_to_cloud_successfully_message">Added to cloud album</string>
   <string name="add_to_cloud_type_not_support_message">"This file type isn't supported"</string>
+  <string name="add_to_cloud_unfinished_message_with_count">"%1$s items weren't added to Mi Cloud"</string>
   <string name="add_to_cloud_unknow_reasons">Unknown error</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s items can't be added to hidden album. %1$s."</string>
+  <string name="add_to_secret_successfully_message">Added to hidden album</string>
+  <string name="add_to_secret_unfinished_message_with_count">"%1$s items weren't added to hidden album."</string>
   <string name="adding_recipients">Adding recipients…</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">Album name</string>
@@ -40,7 +43,10 @@
   <string name="alert">Attention</string>
   <string name="alert_init_merged_message">"Now, local photos on your device and photos you've stored in Mi Cloud are displayed together in the Photos tab."</string>
   <string name="alert_init_merged_title">All your photos. Together at last.</string>
-  <string name="alert_message_open_sync">You need to enable sync first.</string>
+  <string name="alert_message_open_sync">You need to turn on sync first.</string>
+  <string name="alert_secret_album_message">Swipe down at the bottom of your albums in Mi Cloud to view hidden albums.</string>
+  <string name="alert_secret_album_set_pattern">Set unlock pattern</string>
+  <string name="alert_secret_album_title">Added to hidden album</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android wallpapers</string>
@@ -50,8 +56,12 @@
   <string name="appwidget_title">Gallery</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Create favorite albums automatically</string>
-  <string name="auto_create_recent_album_confirm">"Gallery will clear Favorite album data. Albums you've favorited manually will not be affected."</string>
-  <string name="auto_create_recent_album_over_ten_times">An album will be marked as a Favorite when you open it more than 10 times</string>
+  <string name="auto_create_recent_album_confirm">"Gallery will clear favorite album data. Albums you've favorited manually will not be affected."</string>
+  <string name="auto_create_recent_album_over_ten_times">An album will be marked as a favorite when you open it more than 10 times</string>
+  <string name="auto_upload_album_comfirm_to_share">This album will be uploaded automatically.</string>
+  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Automatically upload your photos from other apps to Mi Cloud. View settings in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Gallery settings&amp;gt;Sync with Mi Cloud&amp;gt;Upload automatically&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_title">Upload automatically</string>
+  <string name="auto_upload_title">Upload automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
@@ -79,7 +89,8 @@
   <string name="cannot_remove_creator">"Can't remove creator"</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
-  <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album or it's being shared with other users."</string>
+  <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album."</string>
+  <string name="choose_cloud_album">Choose album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
   <string name="cityname_100">Haixi Mongolia Tibetan Autonomous Prefecture</string>
@@ -470,20 +481,14 @@
   <string name="cloud_be_shared_guide_title">This album comes from a friend</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
-  <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at i.mi.com.</string>
+  <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
   <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">"Share this album
 with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
-  <string name="cloud_share_guide_message">"Share your photos with 
-friends. View and update your 
-albums from anywhere.
-"</string>
-  <string name="cloud_share_guide_title">Sharing is easy</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">All</string>
-  <string name="cloud_tab_locations">Locations</string>
   <string name="cloudfolder_already_exists">A folder with the same name already exists</string>
   <string name="cloudfolder_cannot_start_with">"Folder name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Folder name can't contain '%s'"</string>
@@ -496,24 +501,19 @@ albums from anywhere.
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
-  <string name="confirm_delete_has_cloud_image_video">Delete %s items in &lt;b&gt;cloud&lt;/b&gt;?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Delete %s items in &lt;b&gt;local and cloud&lt;/b&gt;?</string>
+  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;local and cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
-  <string name="confirm_delete_home_merge_item">Delete %s pictures on device and in Mi Cloud?</string>
   <string name="confirm_delete_init_message">Picture will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the \"Local\" tab.</string>
   <string name="confirm_delete_init_title">Delete picture</string>
-  <string name="confirm_delete_pictures">Delete %s pictures?</string>
   <string name="confirm_delete_system_album">%s is a system album.</string>
-  <string name="confirm_delete_this_picture">Delete this picture?</string>
-  <string name="confirm_delete_this_video">Delete this video?</string>
-  <string name="confirm_delete_videos">Delete %s videos?</string>
   <string name="confirm_download">You need to download %s.</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
-  <string name="context_menu_copy_notice">Selection copied to clipboard</string>
+  <string name="context_menu_copy_notice">Copied to clipboard</string>
   <string name="contrast">Contrast</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="create_new_cloud_folder">Create new folder</string>
@@ -541,7 +541,7 @@ albums from anywhere.
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">Unselect all</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -549,6 +549,7 @@ albums from anywhere.
   <string name="details_title">%1$d of %2$d items</string>
   <string name="device_model">Device</string>
   <string name="directory_info_divider">"  |  "</string>
+  <string name="do_not_save">"Don't save"</string>
   <string name="documentary">Documentary</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
@@ -563,15 +564,16 @@ albums from anywhere.
   <string name="edit">Edit</string>
   <string name="edited_photo_bucket_name">Edited</string>
   <string name="email_picker_title">Add shared Email</string>
+  <string name="enable">Turn on</string>
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
-  <string name="error_cloud_not_active">No photos in cloud</string>
+  <string name="error_cloud_not_active">No photos in cloud.</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_invalid_link">Invalid link</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
-  <string name="error_share_not_support">Joining shared album is not supported temporarily</string>
+  <string name="error_share_not_support">"This feature isn't supported yet"</string>
   <string name="error_share_with_creator">This album is already being shared with you</string>
   <string name="error_should_not_select_image">"File type isn't supported"</string>
   <string name="error_should_not_select_video">"File type isn't supported"</string>
@@ -586,6 +588,7 @@ albums from anywhere.
   <string name="exit_share_successfully">Exited %1$s</string>
   <string name="exposure_time">Exposure time</string>
   <string name="external_sd_card">SD card</string>
+  <string name="external_sdcard_root">External SD card root directory</string>
   <string name="external_usb_device">USB storage</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="facelift">Face Glow</string>
@@ -619,10 +622,12 @@ albums from anywhere.
   <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
   <string name="frame_white">White</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
+  <string name="free">Free</string>
   <string name="gallery_cloud_provider_name">Cloud photos</string>
   <string name="gallery_setting">Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="global_setting">Settings</string>
+  <string name="go_setting">View settings</string>
   <string name="grain">Film Grain</string>
   <string name="grayscale">B&amp;W</string>
   <string name="group_by">Group by</string>
@@ -631,7 +636,7 @@ albums from anywhere.
   <string name="group_by_location">By location</string>
   <string name="group_by_tags">By tags</string>
   <string name="group_by_time">By time</string>
-  <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Invalid recipients: %1$s</string>
   <string name="height">Height</string>
   <string name="highlight">Highlights</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -639,17 +644,15 @@ albums from anywhere.
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Photos</string>
-  <string name="how_many_pics">%d photos</string>
-  <string name="how_many_sub_folders">%d folders</string>
-  <string name="how_many_videos">%d videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to function normally."</string>
+  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to work normally."</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
+  <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
   <string name="impunity_declaration_summary">Show internet connection notification every time you open Gallery</string>
   <string name="impunity_declaration_title">Internet connection</string>
@@ -661,6 +664,7 @@ albums from anywhere.
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>
   <string name="internal_sd_card_hm">Phone storage</string>
+  <string name="internal_sdcard_root">Internal SD card root directory</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="iso">ISO</string>
@@ -701,17 +705,21 @@ albums from anywhere.
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
-  <string name="message_no_delete_access_with_count">"You don't have permission to delete these %d files."</string>
   <string name="messagelist_sender_self">Me</string>
+  <string name="miliao">Mi Talk</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk doodles</string>
-  <string name="miliao_saved">MiTalk</string>
   <string name="miliao_saved_folder_display_name">Mi Talk</string>
   <string name="mimetype">MIME type</string>
+  <string name="mishop">MiShop</string>
   <string name="mishop_saved_folder_display_name">Mi Store</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="miui_wallpaper">Wallpaper</string>
   <string name="modified_time">Modified</string>
+  <string name="moman">Moman Camera</string>
+  <string name="moman_camera_drawing">Moman Camera drawing</string>
+  <string name="moman_camera_icon">Moman Camera emoticon</string>
+  <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">More</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to</string>
@@ -731,10 +739,12 @@ device"</string>
   <string name="no_network_connected">No network detected</string>
   <string name="no_picture_or_video">Empty</string>
   <string name="no_storage_disable_cloud_albums">Cloud is unavailable.</string>
+  <string name="no_such_album">Album not found</string>
   <string name="no_such_item">"Couldn't find item"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
+  <string name="not_now">Not now</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
   <string name="only_show_camera_in_first_page">Only show camera roll</string>
   <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
@@ -743,13 +753,13 @@ device"</string>
   <string name="open_public_title">Share</string>
   <string name="open_single_image_failure">"Can't load image"</string>
   <string name="open_sync_title">Enable sync</string>
-  <string name="operation_add_picture">Add pictures</string>
-  <string name="operation_add_secret">Add secret</string>
+  <string name="operation_add_picture">Add photos</string>
+  <string name="operation_add_secret">Add to hidden album</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_in_process">Processing…</string>
   <string name="operation_refresh">Refresh</string>
-  <string name="operation_remove_secret">Remove secret</string>
+  <string name="operation_remove_secret">Remove from hidden album</string>
   <string name="operation_rename">Rename</string>
   <string name="operation_set_as_screensaver">Set as screensaver</string>
   <string name="operation_share">Share</string>
@@ -757,8 +767,15 @@ device"</string>
   <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
   <string name="operation_unset_as_screensaver">Cancel screensaver</string>
   <string name="orientation">Orientation</string>
+  <string name="original">Original</string>
+  <string name="original_scale">Original scale</string>
   <string name="other_category">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s users</string>
+  <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
+  <string name="paint_cancel_title">Abandon changes</string>
+  <string name="paint_crop_cancel_context">Save cropped image?</string>
+  <string name="paint_crop_cancel_title">Abandon changes</string>
+  <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
   <string name="path">Path</string>
   <string name="people">People</string>
   <string name="photo_page_always_rotate">Auto-rotate images</string>
@@ -766,8 +783,9 @@ device"</string>
   <string name="photo_page_save_image">Save</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Camera photos"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Camera photos</string>
-  <string name="photo_paint_adjust">adjust</string>
-  <string name="photo_paint_effect">effect</string>
+  <string name="photo_paint_adjust">Adjust</string>
+  <string name="photo_paint_crop">Crop</string>
+  <string name="photo_paint_effect">Effect</string>
   <string name="photo_saved">Photo saved to %s</string>
   <string name="photo_size">Size</string>
   <string name="photoeditor_name">Mi Photo Studio</string>
@@ -780,6 +798,9 @@ device"</string>
   <string name="picker_tab_cloud">@string/home_page_tab_cloud</string>
   <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Photo</string>
+  <string name="pocket_camera_picture">Pocket Camera pictures</string>
+  <string name="pocket_camera_video">Pocket Camera videos</string>
+  <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterize</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Preparing to delete images…</string>
@@ -790,15 +811,20 @@ device"</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
   <string name="publishing">Publishing…</string>
+  <string name="qq">QQ</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
+  <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
   <string name="redeye">Red Eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
   <string name="refocus_data_downloading">Downloading refocusing data…</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s items can't be removed from hidden album. %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Removed from hidden album</string>
+  <string name="remove_from_secret_unfinished_message_with_count">"%1$s items weren't removed from hidden album."</string>
   <string name="remove_hidden_album">Unhide</string>
   <string name="remove_recent_album">Remove from favorites</string>
   <string name="rename_failed">"Couldn't rename"</string>
@@ -813,6 +839,7 @@ device"</string>
   <string name="rotate">Rotate</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
+  <string name="same_name_album_exists_alert">Photos will be uploaded to an existing album with the same name.</string>
   <string name="saturation">Saturation</string>
   <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
   <string name="save">Save</string>
@@ -826,16 +853,14 @@ device"</string>
   <string name="scan_qr_code_failure">"Couldn't scan"</string>
   <string name="screensaver_activate_mode">Screensaver during sleep</string>
   <string name="screensaver_activate_only_charging">Only while charging</string>
-  <string name="screensaver_category">Screensaver</string>
-  <string name="screensaver_path">"Album: "</string>
-  <string name="screensaver_path_not_set">none selected</string>
   <string name="sd_not_available">"Couldn't access SD card."</string>
+  <string name="sdcard_root">SD card root directory</string>
   <string name="seconds">" seconds"</string>
   <string name="secret_album_display_name">Secret album</string>
-  <string name="select_album">Edit mode</string>
   <string name="select_all">Select all</string>
+  <string name="select_auto_upload_albums">Choose albums to upload</string>
   <string name="select_image">Select photo</string>
-  <string name="select_item">Edit mode</string>
+  <string name="select_item">Select items</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
@@ -843,7 +868,6 @@ device"</string>
   <string name="send_public_url">Send album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hide</string>
-  <string name="set_image">Set picture as</string>
   <string name="set_label_all_albums">All</string>
   <string name="set_label_local_albums">Local</string>
   <string name="set_label_mtp_devices">MTP devices</string>
@@ -856,7 +880,7 @@ device"</string>
   <string name="set_screensaver_path_title">Screensaver slideshow</string>
   <string name="set_wallpaper">Setting wallpaper…</string>
   <string name="settings">Settings</string>
-  <string name="settings_i_xiaomi_com">Store and view images in your cloud at i.mi.com</string>
+  <string name="settings_i_xiaomi_com">View all your photos at www.mi.com/micloud</string>
   <string name="shadow">Shadows</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Share album</string>
@@ -875,7 +899,7 @@ device"</string>
   <string name="show_images_only">Images only</string>
   <string name="show_on_map">Show on map</string>
   <string name="show_videos_only">Videos only</string>
-  <string name="sina_weibo_save">Weibo</string>
+  <string name="sina_weibo">Weibo</string>
   <string name="size_above">%1$s or above</string>
   <string name="size_below">%1$s or below</string>
   <string name="size_between">%1$s to %2$s</string>
@@ -887,8 +911,7 @@ device"</string>
   <string name="slideshow_interval_dialog_title">Slide interval must be greater than 0 seconds</string>
   <string name="slideshow_interval_invalid">Interval must be between 1 and 3600 seconds</string>
   <string name="slideshow_repeat_mode">Loop</string>
-  <string name="slideshow_time_select_title">Set slideshow duration</string>
-  <string name="slideshow_time_title">Duration</string>
+  <string name="square">Square</string>
   <string name="start_slide_show">Start slide show</string>
   <string name="storage_all_volumes">All storage devices</string>
   <string name="storage_no_space">Not enough space</string>
@@ -901,10 +924,11 @@ device"</string>
   <string name="sync_album_set_error">"Can't sync photos. Check your data connection and try again."</string>
   <string name="sync_album_summary">Upload photos to your cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
-  <string name="sync_in_progress_message">Syncing…</string>
+  <string name="sync_in_progress_message">Downloading albums…</string>
   <string name="sync_only_in_wifi">Only use Wi‑Fi to upload photos</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
-  <string name="sync_only_in_wifi_summary">Prevent Gallery from uploading photos over your mobile data connection</string>
+  <string name="sync_only_in_wifi_summary">Never use your mobile data connection to upload photos</string>
+  <string name="sync_third_party_app_pic_summary">Upload photos in some app folders to your cloud automatically</string>
   <string name="system_album">System album</string>
   <string name="tab_all_text">Set both</string>
   <string name="tab_lockscreen_text">Lock screen</string>
@@ -918,7 +942,6 @@ device"</string>
   <string name="there_is_no_image">No images in this file</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Time</string>
-  <string name="time_line_view">TimeLine_View</string>
   <string name="times">Times</string>
   <string name="tint">Tint</string>
   <string name="title">File name</string>
@@ -931,6 +954,7 @@ device"</string>
   <string name="ubifocus_refocus_data_missing">"Can't refocus because some of this image's data is missing"</string>
   <string name="ubifocus_refocus_download_tip">"You need to download this image's data before refocusing."</string>
   <string name="ubifocus_refocus_map_error">"Can't refocus because some of this image's data contains errors"</string>
+  <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">"Couldn't unpublish"</string>
@@ -946,7 +970,10 @@ device"</string>
   <string name="wallpaper">Home screen wallpaper</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Warning</string>
+  <string name="wechat">WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
+  <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="white_balance">White balance</string>
   <string name="widget_type">Choose images</string>
@@ -954,6 +981,8 @@ device"</string>
   <string name="widget_type_photo">Choose an image</string>
   <string name="widget_type_shuffle">Shuffle all images</string>
   <string name="width">Width</string>
+  <string name="wps">WPS</string>
   <string name="yellow_page">Directory</string>
   <string name="yes">Yes</string>
+  <string name="yunyi_pocket_camera">Pocket Camera</string>
 </resources>

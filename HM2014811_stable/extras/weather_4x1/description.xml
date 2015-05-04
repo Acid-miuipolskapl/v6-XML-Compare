@@ -13,5 +13,7 @@
 		<title locale="hr_HR">Vrijeme 4x1</title>
 		<title locale="nb_NO">Været 4x1</title>
 		<title locale="hu_HU">Időjárás 4x1</title>
+		<title locale="fr_FR">Météo 4x1</title>
+		<title locale="tr_TR">4x1 Hava Durumu</title>
 	</titles>
 </MIUI-Theme>

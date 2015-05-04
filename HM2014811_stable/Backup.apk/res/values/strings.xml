@@ -55,7 +55,7 @@
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
-  <string name="cloud_last_backup">Last backup:</string>
+  <string name="cloud_last_backup">"Last backed up on "</string>
   <string name="cloud_no_backup">No backups</string>
   <string name="cloud_restore_guide">To restore user data for %s, touch Restore</string>
   <string name="cloud_restore_title">Restore backup data</string>
@@ -64,11 +64,11 @@
   <string name="compute_backup_info">Getting backup info…</string>
   <string name="compute_delete_contact_info">Getting info…</string>
   <string name="contact_title">Contacts</string>
-  <string name="current_account">Hi, %s</string>
+  <string name="current_account">Hi %s</string>
   <string name="current_sim">Current SIM card</string>
   <string name="data_no_enough_space">Not enough space</string>
   <string name="data_no_enough_space_message">"There's not enough space on your device's internal memory."</string>
-  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Delete</string>
   <string name="delete_backup_process">Deleting…</string>
   <string name="delete_failed_backup_confirm">This backup contains errors.</string>
@@ -95,7 +95,7 @@
 
 2.\u0009Go to Mi Talk Settings and select ”Back up contacts to Mi Account”"</string>
   <string name="import_from_xiaomi_account_hint2">If you already have a backup, touch Next.</string>
-  <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up your contacts accross devices.</string>
+  <string name="import_from_xiaomi_account_hint_title">Use Mi Talk to back up your contacts across devices.</string>
   <string name="local_app_name">Backup</string>
   <string name="local_backup_window_title">Local backup data</string>
   <string name="local_home_title">Back up locally</string>
@@ -111,7 +111,7 @@
   <string name="multi_select_title">%1$s selected</string>
   <string name="never">Never</string>
   <string name="no_encrypt_password">No password</string>
-  <string name="no_network">"Couldn't connect to network"</string>
+  <string name="no_network">"Can't connect to the network"</string>
   <string name="note_title">Notes</string>
   <string name="nothing_searched">No results.</string>
   <string name="progress_backup_hint">Backing up…</string>
@@ -164,12 +164,12 @@
   <string name="task_canceled">Backup canceled</string>
   <string name="task_canceled_all_local">Cancel</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
-  <string name="task_cloud_backup_cancel_dialog">"Backup isn't finished. Cancel anyway?"</string>
+  <string name="task_cloud_backup_cancel_dialog">"Backup isn't finished. Stop anyway?"</string>
   <string name="task_failed">"Couldn't back up"</string>
   <string name="task_failed_all_local">"Couldn't back up"</string>
   <string name="task_failed_local">Backup incomplete (%s)</string>
   <string name="task_finished">"Backed up successfully "</string>
-  <string name="task_local_backup_cancel_dialog">"Backup isn't finished. Cancel anyway?"</string>
+  <string name="task_local_backup_cancel_dialog">"Backup isn't finished. Stop anyway?"</string>
   <string name="task_pending">Waiting…</string>
   <string name="task_post_running">Backing up…</string>
   <string name="task_pre_running">Starting…</string>

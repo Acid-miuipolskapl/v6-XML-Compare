@@ -84,7 +84,7 @@
         <item>百度</item>
         <item>139.com</item>
         <item>http://s.139.com/favicon.ico</item>
-        <item>http://s.139.com/search.do?q={searchTerms}&amp;category=downloadable|web|browserable&amp;tid=2123,2124,2125,2126&amp;fr=portalcustom2</item>
+        <item>http://139.chinaso.com/page/search?pn=1&amp;fr=wap&amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
@@ -475,6 +475,7 @@
         <item>Only on WLAN</item>
         <item>Always</item>
     </string-array>
+    <array name="config_keySystemUuidMapping" />
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
         <item>other</item>
@@ -496,8 +497,12 @@
         <item>http://3g.163.com/</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
-        <item>MM综合门户</item>
-        <item>http://mm.10086.cn/a/j/2743/</item>
+        <item>10086门户</item>
+        <item>http://10086.cn/m</item>
+        <item>移动应用商场</item>
+        <item>http://a.10086.cn</item>
+        <item>移动梦网</item>
+        <item>http://wap.monternet.com</item>
         <item>手机阅读</item>
         <item>http://wap.cmread.com</item>
         <item>手机游戏</item>
@@ -508,12 +513,10 @@
         <item>http://m.10086.cn</item>
         <item>12580</item>
         <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
-        <item>飞信首页</item>
-        <item>http://f.10086.cn</item>
-        <item>139邮箱</item>
-        <item>http://mail.10086.cn</item>
-        <item>冲浪网址</item>
-        <item>http://go.10086.cn/rd/go/dh/</item>
+    </string-array>
+    <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
     </string-array>
     <string-array name="pref_ua_values">
         <item>0</item>
@@ -545,7 +548,7 @@
         <item>50</item>
         <item>75</item>
         <item>100</item>
-        <item>150</item>
+        <item>125</item>
         <item>200</item>
     </string-array>
     <string-array name="pre_webapp_text_sizes">

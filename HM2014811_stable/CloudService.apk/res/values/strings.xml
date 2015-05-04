@@ -22,10 +22,10 @@
   <string name="buy_space_sulotion_renew_title">Renew subscription</string>
   <string name="buy_space_sulotion_title">Buy storage space</string>
   <string name="cloud_find_device">Find Device</string>
-  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud</string>
-  <string name="cloud_space_upgrade_no_quota_info">Failed to load. Wait a minute or two and try again.</string>
+  <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
+  <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">Use your mobile data connection to sync SMS, Contacts info, and call logs. Use WLAN to sync photos, videos, MMS, app data, Contact profile photos, and more.</string>
+  <string name="cloud_sync_setting_summary_standard">Sync MMS, photos, and videos when connected to WLAN</string>
   <string name="cloud_sync_setting_summary_wlan">Only sync when connected to WLAN</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="contact">Contacts</string>
@@ -50,13 +50,12 @@
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
-  <string name="find_device_dspt_provision">"If you lose your device, you can go to "</string>
+  <string name="find_device_dspt_provision">"Find Device
+Locate, lock, or reset your device at "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">" to locate, lock, or reset it.
-
-You can turn this feature on and off anytime in Settings.
-"</string>
+  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
+  <string name="find_device_dspt_provision_3">. You can turn this feature on and off anytime in Settings.</string>
+  <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_server">Something went wrong with our servers.</string>
@@ -64,8 +63,9 @@ You can turn this feature on and off anytime in Settings.
   <string name="find_device_notice_p1">Go to</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
-If you switch SIM cards, another SMS will be sent automatically to reactivate this service."</string>
-  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
+If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
+  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this feature.</string>
+  <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
   <string name="free_space_has_received">You already added free space this month</string>
@@ -79,23 +79,28 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="header_other_settings">Additional settings</string>
   <string name="i_know">OK</string>
-  <string name="less_flow_mode">Data saver</string>
+  <string name="less_flow_mode">Use mobile data to sync</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
   <string name="loading_hint">Loading</string>
-  <string name="master_alert_notif_dspt_add">%s items to sync</string>
+  <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
-  <string name="micloud_detail_fail">fail</string>
-  <string name="micloud_detail_lastest">synced</string>
-  <string name="micloud_detail_pending">pending</string>
-  <string name="micloud_detail_preference_syncing">syncing</string>
-  <string name="micloud_detail_preference_wlan">sync on WLAN</string>
-  <string name="micloud_detail_success">synced</string>
-  <string name="micloud_detail_syncing">syncing</string>
-  <string name="micloud_detail_wlan">%d data unsynced</string>
-  <string name="micloud_detail_wlan_contact">%d contact photo unsynced</string>
-  <string name="micloud_detail_wlan_mms">%d mms unsynced</string>
+  <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
+  <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
+to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_detail_fail">"Can't sync"</string>
+  <string name="micloud_detail_lastest">Synced</string>
+  <string name="micloud_detail_pending">Waiting</string>
+  <string name="micloud_detail_preference_syncing">Syncing</string>
+  <string name="micloud_detail_preference_wlan">Sync on WLAN</string>
+  <string name="micloud_detail_success">Synced</string>
+  <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_wlan">%d waiting to sync</string>
+  <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
+  <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
   <string name="micloud_dspt">Use Mi Cloud to sync data, locate your device,</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_first_login_summary"/>
@@ -108,28 +113,35 @@ When your cloud is full, your old data won't go anywhere. However, any new conte
 
 To fix this, you can either clean out some old files to make room for new ones, or you can purchase additional storage space."</string>
   <string name="micloud_full_influence_title">When your Mi Cloud is full…</string>
-  <string name="micloud_main_data_unsynced">%d items to sync</string>
-  <string name="micloud_main_detail">show detail</string>
-  <string name="micloud_main_last_sync_time">last sync time is %s</string>
+  <string name="micloud_main_data_unsynced">%d items waiting to sync</string>
+  <string name="micloud_main_detail">View details</string>
+  <string name="micloud_main_last_sync_time">Last synced %s</string>
   <string name="micloud_main_network_abnormal">"Can't connect to the network"</string>
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
   <string name="micloud_main_set_internet">Network</string>
-  <string name="micloud_main_space_full">space full</string>
-  <string name="micloud_main_space_risk">You have %d data to be synced. Please update storage space.</string>
+  <string name="micloud_main_space_full">Not enough storage space.</string>
+  <string name="micloud_main_space_risk">%d items synced.</string>
   <string name="micloud_main_stop_sync">Stop sync</string>
   <string name="micloud_main_suggest_sync">"Some items haven't synced with your Mi Cloud"</string>
+  <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_sync_pause">Pause sync</string>
   <string name="micloud_main_sync_stop">Stop sync</string>
-  <string name="micloud_main_synced_data_count">%d data have been synced</string>
-  <string name="micloud_main_syncing">data is syncing...</string>
-  <string name="micloud_main_update_space">update space</string>
-  <string name="micloud_main_wlan_sync_data_count">%d data will sync on WLAN</string>
+  <string name="micloud_main_synced_data_count">%d items synced</string>
+  <string name="micloud_main_syncing">Syncing…</string>
+  <string name="micloud_main_update_space">Get more storage space.</string>
+  <string name="micloud_main_wlan_sync_data_count">%d items waiting to sync over WLAN</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
+  <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
+  <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+  <string name="micloud_setting_gallery_summary">Photos and videos</string>
+  <string name="micloud_setting_music_summary">Playlists and favorites</string>
+  <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
+  <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
@@ -149,9 +161,10 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_warn_full_title">Out of space</string>
   <string name="micloud_warn_low_sum">Your Mi Cloud is 90% full.</string>
   <string name="micloud_warn_low_title">Almost out of space…</string>
-  <string name="micloud_web_discription">Sign in at i.mi.com to store and access your files from anywhere</string>
+  <string name="micloud_web_discription">Visit i.mi.com</string>
   <string name="micloud_web_discription_01">Sign in at i.mi.com</string>
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
+  <string name="micloud_web_discription_international">Visit www.mi.com/micloud</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
@@ -160,47 +173,67 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
 You can turn this feature on and off anytime in Settings."</string>
+  <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
+
+This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
-  <string name="only_in_wlan">Only use WLAN</string>
+  <string name="only_in_wlan">Off</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
+  <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
+  <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Only use Wi-fi to sync photos</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
   <string name="pref_title_sync_my_profile_title">Sync profile</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="remind_later">Later</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
+  <string name="share_cancel">Share canceled</string>
+  <string name="share_failed">"Couldn't share"</string>
+  <string name="share_miliao_not_installed">MiTalk is not installed.</string>
+  <string name="share_success">Shared</string>
+  <string name="share_weibo_not_installed">Weibo is not installed.</string>
+  <string name="share_weixin_not_installed">Wechat is not installed.</string>
+  <string name="sina_share_fail">Failed to send</string>
+  <string name="sina_share_fail_content_repeat">"Couldn't share, content already exists…"</string>
+  <string name="sina_share_pendding">Sending…</string>
+  <string name="sina_share_success">Sent</string>
+  <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">SMS</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
-  <string name="sub_alert_notif_dspt_add">%s items to sync</string>
+  <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="sub_alert_notif_dspt_no">Synced</string>
   <string name="sub_alert_notif_title">Not syncing</string>
   <string name="sub_sync_item_sms_summary">"Only sync messages containing photos, audio, or other media when you're connected to a WLAN network"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Only use WLAN to sync MMS</string>
   <string name="success_upgraded_space">%s added</string>
   <string name="sync_dspt">Sync</string>
-  <string name="sync_dspt_provision">"Mi Cloud syncs your photos, SMS, notes, contacts, call log, and more across all your Mi devices. You can also access them from any browser at "</string>
+  <string name="sync_dspt_entrance_provision">"Sync your photos, contacts, and messages, or locate your device. "</string>
+  <string name="sync_dspt_entrance_provision_2">Learn more</string>
+  <string name="sync_dspt_provision">"Sync
+Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">mi.com/micloud</string>
-  <string name="sync_dspt_provision3">".
-
-You can turn this feature on and off anytime in Settings.
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
+  <string name="sync_dspt_provision3">". You can turn this feature on and off anytime in Settings.
 "</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
-  <string name="sync_item_calllog_title">Sync call logs</string>
+  <string name="sync_item_calllog_title">Sync call history</string>
   <string name="sync_item_sms_summary">Sync the SMS sent and received on this phone</string>
   <string name="sync_item_sms_title">Sync messages</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
-  <string name="sync_setting">Sync settings</string>
-  <string name="sync_standard">Sync the small stuff</string>
+  <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
+  <string name="sync_setting">Mobile data usage</string>
+  <string name="sync_standard">SMS and call history</string>
   <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
@@ -219,9 +252,11 @@ You can turn this feature on and off anytime in Settings.
   <string name="upgrade_space_successful_total">%sGB available</string>
   <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement">User Agreement</string>
-  <string name="user_agreement_p6">"Your use of this feature is subject to "</string>
+  <string name="user_agreement_p6">"
+Your use of this feature is subject to "</string>
   <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
   <string name="user_agreement_p8">.</string>
+  <string name="user_agreement_title">"Mi Cloud's Terms of Service"</string>
   <string name="vcode">Verification code</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>

@@ -6,7 +6,7 @@
   <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
   <string name="alarm_ascending_mode_summary">Alarm volume rises gradually</string>
   <string name="alarm_ascending_mode_title">Ascending volume</string>
-  <string name="alarm_disabled">Disabled</string>
+  <string name="alarm_disabled">Off</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
   <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in clock.</string>
   <string name="alarm_label_hint">Alarm label</string>
@@ -69,6 +69,8 @@
   <string name="menu_desk_clock">Desk clock</string>
   <string name="menu_edit_timer_item">Edit timer task</string>
   <string name="menu_item_dock_settings">Dock settings</string>
+  <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
+  <string name="menu_item_sort_by_name">Sort by name</string>
   <string name="minute">1 minute</string>
   <string name="minutes">%s minutes</string>
   <string name="never">Once</string>
@@ -85,7 +87,6 @@
   <string name="slider_text">Swipe up to silence</string>
   <string name="snooze_confirm_cancel">Cancel snooze</string>
   <string name="snooze_duration_title">Snooze duration</string>
-  <string name="snooze_message">Snooze for %d mins</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
   <string name="stopwatch_lap_empty_text">No laps</string>
@@ -99,9 +100,10 @@
   <string name="timer_item_label_hint">Timer name</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sec</string>
-  <string name="timer_message">%1$d minutes</string>
-  <string name="timer_message_with_hour">%1$d hours and %2$d minutes</string>
-  <string name="timer_message_with_seconds">%1$d seconds</string>
+  <string name="timer_message">%1$d minutes and %2$d seconds</string>
+  <string name="timer_message_00">%1$d minute and %2$d second</string>
+  <string name="timer_message_01">%1$d minute and %2$d seconds</string>
+  <string name="timer_message_10">%1$d minutes and %2$d second</string>
   <string name="timer_new_item">Add timer</string>
   <string name="timer_notify_text">Snooze or dismiss timer.</string>
   <string name="timer_start_alarm">"Time's up!"</string>

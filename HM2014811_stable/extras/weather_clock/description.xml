@@ -13,5 +13,7 @@
 		<title locale="hr_HR">Sat+vrijeme</title>
 		<title locale="nb_NO">Klokke med været</title>
 		<title locale="hu_HU">Óra időjárással</title>
+		<title locale="fr_FR">Horl. météo</title>
+		<title locale="tr_TR">Saat+Hava D.</title>
 	</titles>
 </MIUI-Theme>
