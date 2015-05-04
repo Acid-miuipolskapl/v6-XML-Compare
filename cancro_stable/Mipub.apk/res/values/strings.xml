@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="permdesc_readHmsCommon">Allows app to read Mi Pub app data.</string>
+  <string name="permdesc_writeHmsCommon">Allows app to write Mi Pub app data.</string>
+</resources>
