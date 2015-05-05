@@ -70,7 +70,7 @@
   <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
-  <string name="download_wait_connect">Download waiting to connect</string>
+  <string name="download_wait_connect">Waiting to connect</string>
   <string name="download_when_network_connected">Download using data connection</string>
   <string name="downloads_operating">Working…</string>
   <string name="dredge_xunlei_account">Create a Xunlei Account</string>
@@ -106,7 +106,7 @@
   <string name="package_filter">PACKAGES</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
-  <string name="paused_insufficient_space">Waiting for sufficient space</string>
+  <string name="paused_insufficient_space">Waiting for space</string>
   <string name="paused_queued_for_wifi">Waiting for network</string>
   <string name="paused_unknown">Paused</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
@@ -137,7 +137,7 @@
   <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
   <string name="unbind_xunlei_2_success">Xunlei Account added</string>
   <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
-  <string name="valid_in_this_month">only valid in this month</string>
+  <string name="valid_in_this_month">valid in this month</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
