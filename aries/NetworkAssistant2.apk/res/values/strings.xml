@@ -300,7 +300,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="roaming_not_start_title">International roaming</string>
   <string name="roaming_start_body">Apps are using mobile data.</string>
   <string name="roaming_start_title">International roaming</string>
-  <string name="root">Root</string>
+  <string name="root">Root Access</string>
   <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
   <string name="see_detail">Details</string>
