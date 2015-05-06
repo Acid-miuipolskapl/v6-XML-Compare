@@ -2089,7 +2089,7 @@ This setting affects all users on this tablet."</string>
   <string name="search_date_time">date time</string>
   <string name="search_description">Search Settings</string>
   <string name="search_display">display</string>
-  <string name="search_fluency_mode">fluency mode</string>
+  <string name="search_fluency_mode">optimize system performance</string>
   <string name="search_font">font</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">handy mode</string>
