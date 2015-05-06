@@ -2973,7 +2973,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_tether_starting">Turning hotspot on…</string>
   <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+  <string name="wifi_type_approval_dialog_title">Regulatory information</string>
   <string name="wifi_type_approval_title">Type approval</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>

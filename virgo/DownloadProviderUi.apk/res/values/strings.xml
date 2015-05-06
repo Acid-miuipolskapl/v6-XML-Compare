@@ -44,7 +44,7 @@
   <string name="download_complete">Complete</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
-  <string name="download_filesize_unknown">unknown</string>
+  <string name="download_filesize_unknown">Unknown</string>
   <string name="download_in_process">Downloading</string>
   <string name="download_info_count_deleted_tasks">%s downloads removed</string>
   <string name="download_info_start_deleted_tasks">Delete downloads</string>
@@ -137,7 +137,7 @@
   <string name="turn_off_xunlei_title">Disable Xunlei download engine</string>
   <string name="unbind_xunlei_2_success">Xunlei Account added</string>
   <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
-  <string name="valid_in_this_month">valid in this month</string>
+  <string name="valid_in_this_month">Valid for this month</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
