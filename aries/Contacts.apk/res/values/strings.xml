@@ -733,7 +733,6 @@ To add a contact to your list of favorites:
   <string name="preference_contacts_display">Display preferences</string>
   <string name="preference_contacts_filter">Configure contact lists</string>
   <string name="preference_contacts_more">Organize contacts</string>
-  <string name="preference_contacts_recovery_introduction">Recover contacts</string>
   <string name="preference_dial_pad_touch_tone_default">Default</string>
   <string name="preference_dial_pad_touch_tone_human">Voice</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>

@@ -497,8 +497,12 @@
         <item>http://3g.163.com/</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
-        <item>MM综合门户</item>
-        <item>http://mm.10086.cn/a/j/2743/</item>
+        <item>10086门户</item>
+        <item>http://10086.cn/m</item>
+        <item>移动应用商场</item>
+        <item>http://a.10086.cn</item>
+        <item>移动梦网</item>
+        <item>http://wap.monternet.com</item>
         <item>手机阅读</item>
         <item>http://wap.cmread.com</item>
         <item>手机游戏</item>
@@ -509,12 +513,6 @@
         <item>http://m.10086.cn</item>
         <item>12580</item>
         <item>http://12580wap.10086.cn/?pid=PCM002942000</item>
-        <item>飞信首页</item>
-        <item>http://f.10086.cn</item>
-        <item>139邮箱</item>
-        <item>http://mail.10086.cn</item>
-        <item>冲浪网址</item>
-        <item>http://go.10086.cn/?coc=6GG2GGRq</item>
     </string-array>
     <string-array name="bookmarks_cu_customization">
         <item>沃门户</item>
