@@ -21,5 +21,6 @@
         <item>com.android.bluetooth</item>
         <item>com.whatsapp</item>
         <item>com.jeejen.family.miui</item>
+        <item>com.android.server.telecom</item>
     </string-array>
 </resources>
