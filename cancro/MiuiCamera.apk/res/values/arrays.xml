@@ -688,16 +688,6 @@
         <item>on</item>
         <item>off</item>
     </string-array>
-    <string-array name="pref_camera_countdown_entries">
-        <item>@string/APKTOOL_DUMMY_01d3</item>
-        <item>@string/APKTOOL_DUMMY_01d4</item>
-        <item>@string/APKTOOL_DUMMY_01d5</item>
-    </string-array>
-    <string-array name="pref_camera_countdown_entryvalues">
-        <item>3</item>
-        <item>5</item>
-        <item>10</item>
-    </string-array>
     <string-array name="pref_camera_delay_capture_entries">
         <item>@string/pref_camera_delay_capture_entry_audio</item>
         <item>@string/pref_camera_delay_capture_entry_3s</item>
