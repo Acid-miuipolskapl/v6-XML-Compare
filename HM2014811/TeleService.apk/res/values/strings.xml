@@ -369,6 +369,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_no_phone_number_supplied">The number you entered is invalid.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, turn off Airplane mode.</string>
+  <string name="incall_error_sim_deactive">SIM card inactive</string>
   <string name="incall_error_turn_off_airplane_mode">Turn off Airplane mode</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">International news is off</string>
