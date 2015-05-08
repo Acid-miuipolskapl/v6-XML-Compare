@@ -239,6 +239,7 @@ Confirm to follow this yellow page?"</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+  <string name="network_access_denied">Network access denied</string>
   <string name="network_unavaliable">"Can't connect to the network"</string>
   <string name="no_brief">No summary</string>
   <string name="no_evaluation">No reviews</string>
