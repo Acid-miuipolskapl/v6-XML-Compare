@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="readmode_content_font_size">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+    </integer-array>
+    <integer-array name="readmode_title_font_size">
+        <item>26</item>
+        <item>28</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="readmode_theme_bgcolors">
+        <item>0xfff8f8f8</item>
+        <item>0xffd7cabc</item>
+        <item>0xff272831</item>
+    </integer-array>
+    <integer-array name="readmode_theme_fontcolors">
+        <item>0xe6000000</item>
+        <item>0xff543a20</item>
+        <item>0x33ffffff</item>
+    </integer-array>
+    <integer-array name="readmode_fontsize_fontcolors">
+        <item>0x99000000</item>
+        <item>0xffffffff</item>
+    </integer-array>
+    <array name="config_keySystemUuidMapping" />
+    <string-array name="readmode_theme_names">
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="readmode_theme_fontsizenames">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Default</item>
+        <item>iPad</item>
+        <item>Desktop</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Default start page</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="pref_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_homepage_values">
+        <item>miui_home</item>
+        <item>other</item>
+    </string-array>
+</resources>
