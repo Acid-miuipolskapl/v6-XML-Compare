@@ -1367,4 +1367,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Ask permission for risky apps</item>
+        <item>Allow</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Ask permission</item>
+        <item>Allow</item>
+    </string-array>
 </resources>
