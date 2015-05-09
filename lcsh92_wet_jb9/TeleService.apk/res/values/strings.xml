@@ -1124,7 +1124,6 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
-  <string name="voip_setting">Voip settings</string>
   <string name="vt_addtional_call_description">Phone number and call waiting settings</string>
   <string name="vt_ask_show_local">Show local video to peer?</string>
   <string name="vt_ask_show_local_no">No</string>

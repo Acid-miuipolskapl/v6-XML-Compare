@@ -39,7 +39,7 @@
   <string name="has_no_program_now">Empty</string>
   <string name="high_quality">Higher (48 bps)</string>
   <string name="hotlist_name">Featured</string>
-  <string name="impunity_declaration">Radio needs to connect to the internet and positioning to work normally.</string>
+  <string name="impunity_declaration">Radio needs to connect to the internet to work normally.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">"Don't allow"</string>
   <string name="impunity_declaration_positive_text">OK</string>

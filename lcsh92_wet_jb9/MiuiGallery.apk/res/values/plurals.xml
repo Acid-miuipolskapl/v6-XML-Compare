@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Delete %s photos?</item>
         <item quantity="one">Delete %s photo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in &amp;lt;font color=#323232>&amp;lt;b>cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Delete %s videos?</item>
         <item quantity="one">Delete %s video?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photo in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&lt;/Data>" "</item>
+        <item quantity="other">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video in both &amp;lt;font color=#323232>&amp;lt;b>local and cloud&amp;lt;/b>&amp;lt;/font>?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selected</item>

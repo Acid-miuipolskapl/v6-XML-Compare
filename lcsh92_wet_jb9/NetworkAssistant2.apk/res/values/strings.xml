@@ -105,8 +105,6 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_fragment_sys_listempty">Empty</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
-  <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
   <string name="firewall_rule_group_title_mobile">Data</string>
   <string name="firewall_rule_group_title_roaming">International roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -302,7 +300,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="roaming_not_start_title">International roaming</string>
   <string name="roaming_start_body">Apps are using mobile data.</string>
   <string name="roaming_start_title">International roaming</string>
-  <string name="root">Root Access</string>
   <string name="sc_allow_network_dialog_message">You need to allow this app to connect to the internet for it function normally.</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use data saver"</string>
   <string name="see_detail">Details</string>
@@ -383,7 +380,6 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_correction_start_correction">"Talking to carrier's servers…"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
-  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
   <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Reset limit</string>

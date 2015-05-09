@@ -898,8 +898,8 @@ device"</string>
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">"Can't save photo"</string>
   <string name="saving_image">Saving picture…</string>
-  <string name="scan_barcode_guide">"To get album's QR code, tap the Share icon."</string>
-  <string name="scan_barcode_to_join">Scan QR code to add album</string>
+  <string name="scan_barcode_guide">To get album QR code, touch the Share icon in the upper-right corner.</string>
+  <string name="scan_barcode_to_join">Scan QR code to join an album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album.</string>
   <string name="scan_qr_code_failure">"Couldn't scan"</string>
   <string name="screensaver_activate_mode">Screensaver during sleep</string>

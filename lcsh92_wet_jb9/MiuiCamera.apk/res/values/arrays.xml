@@ -124,9 +124,9 @@
         <item>@string/pref_camera_jpegquality_entry_low</item>
     </string-array>
     <string-array name="pref_camera_jpegquality_entryvalues">
-        <item>@string/pref_camera_jpegquality_value_high</item>
-        <item>@string/pref_camera_jpegquality_value_normal</item>
-        <item>@string/pref_camera_jpegquality_value_low</item>
+        <item>high</item>
+        <item>normal</item>
+        <item>low</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
@@ -663,6 +663,16 @@
     <string-array name="pref_simple_hdr_entryvalues">
         <item>on</item>
         <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_countdown_entries">
+        <item>@string/pref_camera_countdown_entry_3s</item>
+        <item>@string/pref_camera_countdown_entry_5s</item>
+        <item>@string/pref_camera_countdown_entry_10s</item>
+    </string-array>
+    <string-array name="pref_camera_countdown_entryvalues">
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
     </string-array>
     <string-array name="pref_camera_delay_capture_entries">
         <item>@string/pref_camera_delay_capture_entry_audio</item>

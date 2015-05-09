@@ -17,7 +17,6 @@ Allow this now and in the future?"</string>
 All existing app data will be saved."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) will replace the currently installed version (%3$s). All existing app data will be saved.</string>
   <string name="dlg_app_replacement_title">Replace existing app?</string>
-  <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"This is a system app. Do you still want to replace it?
 
@@ -40,7 +39,6 @@ All existing user data will be saved."</string>
   <string name="installing">Installing…</string>
   <string name="launch">Open</string>
   <string name="lift_ban">Allow</string>
-  <string name="lift_ban_once">Allow once</string>
   <string name="low_risk_perms">Low-risk permissions</string>
   <string name="manage_applications">Manage apps</string>
   <string name="manage_device_administrators">Manage device administrators</string>
@@ -87,7 +85,7 @@ All existing user data will be saved."</string>
   <string name="uninstall_update_title">Uninstall this update?</string>
   <string name="uninstalling">Uninstalling…</string>
   <string name="unknown">Unknown</string>
-  <string name="unknown_apps_dlg_text">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your device or loss of data that may result from using these apps. You can turn this notification off in Settings.</string>
+  <string name="unknown_apps_dlg_text">Your phone is set to block the installation of apps from unknown sources. You can turn this feature off in Settings &gt; Security &gt; Unknown sources.</string>
   <string name="unknown_apps_dlg_title">Install blocked</string>
   <string name="unknown_installer">Unidentified PC tools</string>
   <string name="virus_scan_caller_unknown">Unknown</string>
