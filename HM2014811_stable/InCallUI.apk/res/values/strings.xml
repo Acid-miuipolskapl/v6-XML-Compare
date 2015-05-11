@@ -514,8 +514,8 @@ Try again or call customer service for more options."</string>
   <string name="reverting_settings">Reverting settings…</string>
   <string name="ringtone_title">Phone ringtone</string>
   <string name="roaming">Data roaming</string>
-  <string name="roaming_disable">Connect to data services when roaming</string>
-  <string name="roaming_enable">Connect to data services when roaming</string>
+  <string name="roaming_disable">Use mobile data when roaming</string>
+  <string name="roaming_enable">Use mobile data when roaming</string>
   <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
   <string name="roaming_warning">Allow data roaming? You may incur significant roaming charges!</string>
   <string name="save">Save</string>

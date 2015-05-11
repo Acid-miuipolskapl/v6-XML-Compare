@@ -66,6 +66,7 @@
   <string name="go_on_download">Download</string>
   <string name="important_suggestion">Privacy Policy has changed</string>
   <string name="install">Install</string>
+  <string name="install_failed">Update failed</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
@@ -114,6 +115,11 @@
   <string name="previous">Previous</string>
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="reboot">Reboot</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
+http://zhushou.xiaomi.com"</string>
+  <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
+  <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
   <string name="repeat">Retry</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates automatically when connected to WLAN.</string>

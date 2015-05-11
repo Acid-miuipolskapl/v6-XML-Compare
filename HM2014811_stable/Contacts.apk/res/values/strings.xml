@@ -40,11 +40,8 @@
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
   <string name="batch_delete">Delete batch</string>
-  <string name="batch_delete_msg">Delete %d contacts?</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
   <string name="blurbJoinContactDataWith">Choose the contact you want to merge with %s:</string>
-  <string name="btn_delete_multi_contacts">Delete %d contacts</string>
-  <string name="btn_delete_one_contact">Delete contact</string>
   <string name="btn_rotation">Rotate</string>
   <string name="btn_split_contact">Separate</string>
   <string name="button_cancel_scan">Stop</string>
@@ -55,7 +52,6 @@
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
   <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
-  <string name="callNoAnswerTimeFormat">Rang %s times</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -165,7 +161,6 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Delete call history?</string>
   <string name="confirm_delete_selected_all_call_logs">Delete call history?</string>
-  <string name="confirm_delete_sim_entry_miui">Delete %d contacts from SIM card?</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
@@ -353,8 +348,6 @@
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
   <string name="export_sim_contact_finish_failure">%1$d transferred | %2$d remaining</string>
-  <string name="export_sim_contact_finish_success">Copied %d contacts</string>
-  <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
@@ -388,6 +381,7 @@ Reason: \"%s\""</string>
   <string name="favoritesFrequentContacted">Frequently contacted</string>
   <string name="favorites_list_empty">No favorites</string>
   <string name="firewall_setting">Blocklist</string>
+  <string name="followed_yellowpage">Verified Accounts</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequentList">Frequent</string>
   <string name="from_account_format">%1$s</string>
@@ -693,6 +687,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
+  <string name="phone_call_type_voip">VOIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
@@ -880,7 +875,6 @@ To add a contact to your list of favorites:
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s details</string>
   <string name="resource_download">Download</string>
-  <string name="resource_download_notification_content">Tap to view.</string>
   <string name="resource_download_notification_title_many">%1$s themes downloaded</string>
   <string name="resource_download_notification_title_one">Theme downloaded</string>
   <string name="resource_download_trial">Try for free</string>
@@ -905,7 +899,7 @@ To add a contact to your list of favorites:
   <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Expand</string>
-  <string name="resource_failed_to_load_list">"Can't load list"</string>
+  <string name="resource_failed_to_load_list">"Can't load themes."</string>
   <string name="resource_get_auth_checking">Verifying…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">10 devices have already been authorized on this account</string>
   <string name="resource_get_auth_exceed_max_limit_title">Number of authorized devices exceeded</string>
@@ -921,7 +915,7 @@ To add a contact to your list of favorites:
   <string name="resource_local">Local %1$s</string>
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
-  <string name="resource_my">Local</string>
+  <string name="resource_my">Offline</string>
   <string name="resource_no_match_app">No app was found to handle this action.</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="resource_no_result">"Didn't find anything"</string>
@@ -930,7 +924,7 @@ To add a contact to your list of favorites:
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">"Even though you've already purchased %1$d components in this theme, it's still cheaper if you buy the full bundle."</string>
   <string name="resource_pack_discount_info">Savings: %1$s</string>
-  <string name="resource_pack_get_auth_has_been_undercarriaged">This subject is no longer available.</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">This theme is no longer available.</string>
   <string name="resource_pack_price_info">Original price: %1$s</string>
   <string name="resource_pack_warning">"You've already purchased %1$d components in this theme. It's cheaper if you buy the remaining components individually."</string>
   <string name="resource_present">Gift</string>
@@ -947,7 +941,7 @@ To add a contact to your list of favorites:
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_list_empty">"Didn't find anything"</string>
+  <string name="resource_search_list_empty">"Didn't find anything."</string>
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
@@ -959,11 +953,12 @@ To add a contact to your list of favorites:
   <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Share</string>
   <string name="resource_system_title">System resources</string>
+  <string name="resource_tab_to_view">Tap to view.</string>
   <string name="resource_tip_select_none">None selected</string>
   <string name="resource_title">Details</string>
   <string name="resource_title_category">Categories</string>
   <string name="resource_title_hot_subject">Popular</string>
-  <string name="resource_title_local">Local</string>
+  <string name="resource_title_local">Offline</string>
   <string name="resource_title_rank">Top charts</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_title_subject">Featured</string>
@@ -1096,7 +1091,6 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>
   <string name="starred_contacts">Favorites</string>
-  <string name="starred_yellowpage">Favorite directories</string>
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
@@ -1171,18 +1165,14 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Directory</string>
-  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowPageNavigationIconLabel">Yellow Pages</string>
+  <string name="yellowPageNavigationLabel">Yellow Pages</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
-  <string name="yellowpage_navigation_network_location_enable">Allow</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
-  <string name="yellowpage_navigation_network_location_enabled">Service is open, you could disable it in location settings</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Directory to access your location info.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
   <string name="yellowpage_navigation_search_city_name_hint">City</string>
+  <string name="yellowpage_navigation_search_history">History</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average RMB %d</string>
   <string name="yellowpage_navigation_search_result_network_error">"Can't connect to the network"</string>

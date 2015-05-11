@@ -450,6 +450,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_default_setting">Default settings</string>
   <string name="msim_enable_sim">Turn on</string>
   <string name="msim_general_setting">Settings</string>
+  <string name="msim_has_been_disabled">(Disabled)</string>
   <string name="msim_info_editor_name">Edit SIM card name</string>
   <string name="msim_info_editor_number">Edit SIM card number</string>
   <string name="msim_info_editor_set_name_error">"Couldn't save name"</string>
@@ -480,9 +481,9 @@ Switch to the new provider anyway?"</string>
   <string name="network_forbidden">%s (forbidden)</string>
   <string name="network_id">Network ID</string>
   <string name="network_message">Network message</string>
-  <string name="network_settings_auto_select_title">Network connection</string>
+  <string name="network_settings_auto_select_title">Close auto-select</string>
   <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
-  <string name="network_settings_confirm_message">Network is unavailable.</string>
+  <string name="network_settings_confirm_message">Network maybe unavailable, are you sure?</string>
   <string name="network_settings_data_connected_change">You need to turn off mobile data while you switch to another network.</string>
   <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
   <string name="network_settings_forbidden">%s (forbidden)</string>
@@ -878,6 +879,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
+  <string name="voip_setting">Voip settings</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="xdivert_button">X-Divert settings</string>
   <string name="xdivert_setting">X-Divert settings</string>

@@ -49,7 +49,7 @@
   <string name="app_label">System UI</string>
   <string name="audio_effect_custom">Configure</string>
   <string name="audio_effect_info">Optimize audio</string>
-  <string name="audio_effect_settings">Set headphones type</string>
+  <string name="audio_effect_settings">Choose headphones type</string>
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_title">Connect charger</string>
   <string name="battery_profiles">Use battery profiles</string>
@@ -57,7 +57,7 @@
   <string name="call_status_dialing">Dialing</string>
   <string name="call_status_ringing">Ringing</string>
   <string name="camera_key_action_app_title">Open application</string>
-  <string name="camera_key_action_category_title">Use if camera app is not open</string>
+  <string name="camera_key_action_category_title">Use if Camera app is not open</string>
   <string name="camera_key_action_none_title">No action</string>
   <string name="camera_key_action_setting_title">Mi Button</string>
   <string name="camera_key_action_shortcut_call">Call</string>
@@ -106,7 +106,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="headset_custom">Configure</string>
   <string name="headset_info">Tap to configure settings</string>
   <string name="headset_settings">Headphones connected</string>
-  <string name="hint_for_long_press_app_switch_key">Long press to show menu</string>
+  <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="label_view">View</string>
@@ -118,6 +118,9 @@ Use only the supplied charger."</string>
   <string name="mdb_restore_label">MDB restore</string>
   <string name="mdb_restore_mode">Restore mode</string>
   <string name="mdb_usb_disconnection_exit">USB disconnected</string>
+  <string name="media_projection_action_text">Start now</string>
+  <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
+  <string name="media_projection_remember_text">"Don't show again"</string>
   <string name="mount_storage">Yes</string>
   <string name="no_notification_tips">No notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
@@ -157,7 +160,7 @@ Use only the supplied charger."</string>
   <string name="status_bar_date_format">M/d E</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Exceeded:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
   <string name="status_bar_network_flow_today">Today: %1$s</string>
@@ -191,7 +194,7 @@ Slide down to lock"</string>
   <string name="usb_debugging_title">Allow USB debugging?</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_device_permission_prompt">Allow the app %1$s to access USB device?</string>
-  <string name="usb_mode_dont_ask">"Don't ask again"</string>
+  <string name="usb_mode_dont_ask">Remember this choice</string>
   <string name="usb_mode_mount_storage_title">Open USB storage?</string>
   <string name="usb_mode_notification">USB Storage</string>
   <string name="usb_mtp_text">Files</string>
@@ -215,4 +218,8 @@ Slide down to lock"</string>
   <string name="user_guide_for_notification">Swipe down with one finger to pull down the notification shade</string>
   <string name="user_guide_for_toggle">The toggle list can be scrolled horizontally</string>
   <string name="user_guide_for_toggle_list">Manage toggles</string>
+  <string name="vpn_text">Touch to view settings.</string>
+  <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
+  <string name="vpn_title">VPN activated</string>
+  <string name="vpn_title_long">Connecting to VPN using %s</string>
 </resources>
