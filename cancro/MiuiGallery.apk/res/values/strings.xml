@@ -510,11 +510,11 @@ with friends"</string>
   <string name="confirm_all_photo_not_this_people_face">No matches?</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
-  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
-  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; items in &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;local and cloud&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
-  <string name="confirm_delete_init_message">Photo will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the Offline tab.</string>
-  <string name="confirm_delete_init_title">Delete photo</string>
+  <string name="confirm_delete_init_message">Picture will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the \"Local\" tab.</string>
+  <string name="confirm_delete_init_title">Delete picture</string>
   <string name="confirm_delete_system_album">%s is a system album.</string>
   <string name="confirm_download">You need to download %s.</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
