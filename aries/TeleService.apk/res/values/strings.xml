@@ -573,7 +573,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
   <string name="msim_sim_radio_off">Off</string>
-  <string name="msim_switch_data_conn_toast">Network settings have been changed to prefer LTE networks. You can change this in SIM card settings.</string>
+  <string name="msim_switch_data_conn_toast">Swapped SIM cards. Network type has changed. View additional info in SIM cards and mobile networks in the Settings menu.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 only supports GSM networks. Preferred network type for this slot has been changed to 2G only.</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
