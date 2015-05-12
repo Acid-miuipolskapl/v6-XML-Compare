@@ -231,6 +231,7 @@
   <string name="playlist_renamed_message">Playlist renamed</string>
   <string name="please_download_first">You need to download this song before you can use it as a ringtone</string>
   <string name="please_search_or_select">Search or select a field</string>
+  <string name="preset_music_playlist">Mi Music playlist</string>
   <string name="presonal_center">Account settings</string>
   <string name="priority_storage">Use external SD card</string>
   <string name="priority_storage_summary">Automatically download to external SD card if available</string>
@@ -263,6 +264,8 @@
   <string name="set_album_successful">Album saved</string>
   <string name="set_as_ring">Set as ringtone</string>
   <string name="set_id3_failed">"Can't save info"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
+  <string name="set_id3_not_support_format">"Can't edit this file format"</string>
   <string name="set_id3_successful">Song info saved</string>
   <string name="set_lyric_successful">Lyrics saved</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
@@ -273,7 +276,7 @@
   <string name="sleep_mode_summary">Stop player after a certain time</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Song</string>
-  <string name="song_not_find">"Can't connect to network or this song isn't available."</string>
+  <string name="song_not_find">"This song isn't available."</string>
   <string name="sort_by_language">Language</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
