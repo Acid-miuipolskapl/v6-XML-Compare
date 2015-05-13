@@ -323,13 +323,6 @@
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
-  <string name="contact_edit_set_black_list">Set blacklist</string>
-  <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
-  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
-  <string name="contact_edit_set_unread_top">Show unread emails first</string>
-  <string name="contact_edit_set_vip">Set VIP</string>
-  <string name="contact_edit_title_permission">"Contacts' permissions"</string>
-  <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
@@ -857,8 +850,6 @@ CC: %4$s
   <string name="quoted_text_background_color_string">@android:color/white</string>
   <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
-  <string name="re_download_message_button">Click to download again</string>
-  <string name="re_download_message_info">Download email failed</string>
   <string name="read_string">conversation read</string>
   <string name="recent_folders_heading">Recent folders</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>

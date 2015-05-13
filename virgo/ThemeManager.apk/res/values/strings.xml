@@ -310,8 +310,6 @@
   <string name="theme_fresh_man_notifaction">New themes available</string>
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
   <string name="theme_import_from_sdcard">Import from SD card</string>
-  <string name="theme_is_external_priority_storage">Save to SD card</string>
-  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
   <string name="theme_multiple_button_title_customize">Customize</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>

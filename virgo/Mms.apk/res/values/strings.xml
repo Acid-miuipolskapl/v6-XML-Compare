@@ -433,9 +433,6 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="secs">secs</string>
-  <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
-  <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
   <string name="select_copy_text">select and copy message text</string>
@@ -484,8 +481,6 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">An incoming text message was rejected.</string>
   <string name="sms_rejected_title">Text message rejected</string>
-  <string name="sms_report_failed">"Couldn't send report"</string>
-  <string name="sms_report_success">Report sent</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="sp_category_all">All service messages</string>
