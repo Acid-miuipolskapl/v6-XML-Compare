@@ -1321,6 +1321,8 @@ If your system's text is still too small, try using "</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
   <string name="install_applications_title">Allow all app sources</string>
+  <string name="install_no_market_app_summary">Allow installation of apps from sources other than the App Store</string>
+  <string name="install_no_market_app_title">Unknown sources</string>
   <string name="install_preinstall_app">Loading apps…</string>
   <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
@@ -1486,6 +1488,9 @@ If your system's text is still too small, try using "</string>
   <string name="lock_screen_notifications_summary_hide">Hide sensitive notification content</string>
   <string name="lock_screen_notifications_summary_show">Show all notification content</string>
   <string name="lock_screen_notifications_title">When device is locked</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
+  <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
   <string name="lock_settings">Lock screen</string>
@@ -2856,11 +2861,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_none_title">None</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">None</string>
-  <string name="unlock_set_unlock_password_summary">High security</string>
+  <string name="unlock_set_unlock_password_summary">You can mix letters and numbers</string>
   <string name="unlock_set_unlock_password_title">Password</string>
-  <string name="unlock_set_unlock_pattern_summary">Medium security</string>
+  <string name="unlock_set_unlock_pattern_summary">Must connect at least 4 points</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
-  <string name="unlock_set_unlock_pin_summary">Medium to high security</string>
+  <string name="unlock_set_unlock_pin_summary">Enter 4 digit PIN</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
