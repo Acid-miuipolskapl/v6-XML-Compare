@@ -1262,6 +1262,9 @@ If your system's text is still too small, try using "</string>
   <string name="lock_after_timeout">Automatically lock</string>
   <string name="lock_after_timeout_summary">%1$s after sleep</string>
   <string name="lock_intro_message">Lock_intro_message</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
+  <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
   <string name="lock_settings">Lock screen</string>
@@ -2437,11 +2440,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_none_title">None</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">None</string>
-  <string name="unlock_set_unlock_password_summary">High security</string>
+  <string name="unlock_set_unlock_password_summary">You can mix letters and numbers</string>
   <string name="unlock_set_unlock_password_title">Password</string>
-  <string name="unlock_set_unlock_pattern_summary">Medium security</string>
+  <string name="unlock_set_unlock_pattern_summary">Must connect at least 4 points</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
-  <string name="unlock_set_unlock_pin_summary">Medium to high security</string>
+  <string name="unlock_set_unlock_pin_summary">Enter 4 digit PIN</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
