@@ -2440,7 +2440,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_none_title">None</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">None</string>
-  <string name="unlock_set_unlock_password_summary">You can mix letters and numbers</string>
+  <string name="unlock_set_unlock_password_summary">May contain letters and numbers</string>
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Must connect at least 4 points</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
