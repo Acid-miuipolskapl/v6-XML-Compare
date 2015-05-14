@@ -123,6 +123,16 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="recommend_downloading">Downloading</string>
+  <string name="recommend_failed">Failed</string>
+  <string name="recommend_install">Install</string>
+  <string name="recommend_installing">Installing</string>
+  <string name="recommend_loading">Loading…</string>
+  <string name="recommend_open">Open</string>
+  <string name="recommend_other_downloads">Hot</string>
+  <string name="recommend_paused">Paused</string>
+  <string name="recommend_prepare">Wait</string>
+  <string name="recommend_show_other_downloads">Show hot</string>
   <string name="remove_download">Remove</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Resume</string>
