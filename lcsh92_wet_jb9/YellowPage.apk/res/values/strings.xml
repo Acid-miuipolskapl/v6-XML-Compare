@@ -205,6 +205,7 @@ Confirm to follow this yellow page?"</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
+  <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
   <string name="login_ok">Sign in</string>
@@ -238,6 +239,7 @@ Confirm to follow this yellow page?"</string>
   <string name="nearby_no_yellow_page">No results nearby</string>
   <string name="nearby_yellow_page_title">Nearby</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
+  <string name="network_access_denied">Network access denied</string>
   <string name="network_unavaliable">"Can't connect to the network"</string>
   <string name="no_brief">No summary</string>
   <string name="no_evaluation">No reviews</string>

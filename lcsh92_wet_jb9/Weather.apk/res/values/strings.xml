@@ -18,6 +18,7 @@
   <string name="activity_find_city_dialog_message">Let Weather view your location</string>
   <string name="activity_find_city_dialog_set">Settings</string>
   <string name="activity_find_city_dialog_title">Location access</string>
+  <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
   <string name="activity_main_refresh_time">Last updated %1$s</string>
   <string name="activity_main_refresh_timeout">Refresh timeout</string>
   <string name="activity_main_time_format">MM/dd</string>
@@ -67,11 +68,11 @@
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Couldn't take screenshot"</string>
   <string name="view_aqi_detail_item_null">--</string>
-  <string name="view_aqi_detail_item_unit">μg/m&lt;sup&gt;&lt;small&gt;3&lt;/small&gt;&lt;/sup&gt;</string>
-  <string name="view_aqi_detail_no2">NO&lt;sub&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sub&gt;</string>
+  <string name="view_aqi_detail_item_unit">μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
+  <string name="view_aqi_detail_no2">NO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;</string>
   <string name="view_aqi_detail_pm10">PM10</string>
   <string name="view_aqi_detail_pm25">PM2.5</string>
-  <string name="view_aqi_detail_so2">SO&lt;sub&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sub&gt;</string>
+  <string name="view_aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;</string>
   <string name="view_aqi_detail_title">AQI details</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>

@@ -150,6 +150,7 @@
   <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="i_know">OK</string>
+  <string name="i_know_it">OK</string>
   <string name="impunity_declaration">"Online content is provided by Baidu Online Music Service. By using this service, you're agreeing to Baidu's "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Terms of Service&lt;/a&gt;.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">Quit</string>
@@ -230,6 +231,7 @@
   <string name="playlist_renamed_message">Playlist renamed</string>
   <string name="please_download_first">You need to download this song before you can use it as a ringtone</string>
   <string name="please_search_or_select">Search or select a field</string>
+  <string name="preset_music_playlist">Mi Music playlist</string>
   <string name="presonal_center">Account settings</string>
   <string name="priority_storage">Use external SD card</string>
   <string name="priority_storage_summary">Automatically download to external SD card if available</string>
@@ -258,9 +260,12 @@
   <string name="send_to">Share</string>
   <string name="send_to_title">Send to (%1$s)</string>
   <string name="server_error">Server error. Please try again later</string>
+  <string name="service_stop">Service discontinued</string>
   <string name="set_album_successful">Album saved</string>
   <string name="set_as_ring">Set as ringtone</string>
   <string name="set_id3_failed">"Can't save info"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
+  <string name="set_id3_not_support_format">"Can't edit this file format"</string>
   <string name="set_id3_successful">Song info saved</string>
   <string name="set_lyric_successful">Lyrics saved</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
@@ -271,7 +276,7 @@
   <string name="sleep_mode_summary">Stop player after a certain time</string>
   <string name="sleep_mode_title">Sleep timer</string>
   <string name="song_name">Song</string>
-  <string name="song_not_find">"Can't connect to network or this song isn't available."</string>
+  <string name="song_not_find">"This song isn't available."</string>
   <string name="sort_by_language">Language</string>
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
@@ -302,6 +307,12 @@
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
+  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_immediate">Update now</string>
+  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+  <string name="upgrade_remind">Update available</string>
+  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
   <string name="valid_period">"Valid: "</string>
   <string name="vip_recommend_title">Get higher quality music</string>
 </resources>
