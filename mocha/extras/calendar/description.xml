@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<MIUI-Theme category="calendar" size="4:4">
+<MIUI-Theme category="calendar" size="3:3">
 	<version>1</version>
 	<uiVersion>1</uiVersion>
 	<title>Calendar</title>
@@ -15,7 +15,5 @@
 		<title locale="hr_HR">Kalendar</title>
 		<title locale="it_IT">Calendario</title>	
 		<title locale="pt_BR">Calendario</title>
-		<title locale="el_GR">Ημερολόγιο</title>
-		<title locale="es_ES">Calendario</title>	
 	</titles>
 </MIUI-Theme>

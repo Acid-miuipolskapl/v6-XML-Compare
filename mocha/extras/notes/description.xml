@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<MIUI-Theme category="tools" size="2:2">
+<MIUI-Theme category="tools" size="2:3">
 	<version>1</version>
 	<uiVersion>1</uiVersion>
 	<title>Notes</title>
@@ -15,7 +15,5 @@
 		<title locale="hr_HR">Bilješke</title>	
 		<title locale="it_IT">Note</title>
 		<title locale="pt_BR">Notas</title>
-		<title locale="el_GR">Σημειώσεις</title>
-		<title locale="es_ES">Notas</title>
 		</titles>
 </MIUI-Theme>
