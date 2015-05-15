@@ -23,6 +23,8 @@
   <string name="notif_title_single_downloading">Downloading %1$s</string>
   <string name="notification_download_complete">Download complete.</string>
   <string name="notification_download_failed">Download unsuccessful.</string>
+  <string name="notification_download_failed_more">%1$d个文件下载失败</string>
+  <string name="notification_download_success_more">已下载%1$d个文件</string>
   <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
   <string name="notification_paused_in_background">Paused in background.</string>
   <string name="paused_waiting_for_network">Waiting for network</string>

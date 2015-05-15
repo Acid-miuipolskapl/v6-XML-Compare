@@ -286,6 +286,7 @@ Switch to the new provider anyway?"</string>
   <string name="list_language_dtitle">Languages</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
+  <string name="livetalk_left_minute">%s min left</string>
   <string name="livetalk_provider_info">Provided by %s</string>
   <string name="livetalk_waiting">Waiting…</string>
   <string name="load_networks_progress">Searching…</string>
