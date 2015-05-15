@@ -7,6 +7,7 @@
   <string name="app_to_share">Complete action using</string>
   <string name="avoid_to_use_traffic_summary">"Using your mobile data connection to download content will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="avoid_to_use_traffic_title">Mobile data warning</string>
+  <string name="batch_download_start_toast">Downloading…</string>
   <string name="bluetooth_device">Bluetooth device</string>
   <string name="broadcasting">"Playing: "</string>
   <string name="buffering">Buffering…</string>
@@ -22,13 +23,13 @@
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_title_download_quality">Download quality</string>
+  <string name="dialog_title_listen_quality">Choose audio quality</string>
   <string name="dialog_title_tone_quality">Streaming quality</string>
   <string name="download_completed">Downloaded</string>
   <string name="download_invalid">No resources</string>
   <string name="download_network_is_not_available">"Can't connect to the network"</string>
   <string name="download_progress_toast">%1$d%%</string>
-  <string name="download_quality_toast">Choose download quality</string>
-  <string name="download_start_toast">Prepare downloading %1$s(%2$dbps)</string>
+  <string name="download_start_toast">Downloading %1$s (%2$dbps)</string>
   <string name="download_successful">Downloaded</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
