@@ -149,6 +149,7 @@
   <string name="hint_apk_install">Application download</string>
   <string name="hint_apk_text_update">%1$s new version available, do you want to update?</string>
   <string name="hint_apk_title_update">%1$s New Version</string>
+  <string name="i_will_write_comments">I will write comments ...</string>
   <string name="icntv">iCNTV</string>
   <string name="info_video_loading">Loading…</string>
   <string name="init">Init</string>
@@ -378,6 +379,9 @@
   <string name="vp_media_info">Show video info</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
+  <string name="vp_mobile_network_using_negative">Cancel</string>
+  <string name="vp_mobile_network_using_positive">Continue</string>
+  <string name="vp_mobile_network_using_warning">Playing online video on mobile network may result in cost for data usage.</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
   <string name="vp_offline">Offline</string>
