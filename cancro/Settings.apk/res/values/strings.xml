@@ -2,16 +2,16 @@
 <resources>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_title">Permissions</string>
+  <string name="ac_enable_title">Lock individual apps</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
-  <string name="ac_set_apps_title">Lock apps</string>
+  <string name="ac_set_apps_title">Choose apps to lock</string>
   <string name="accelerometer_summary_off">Switch orientation automatically when rotating phone</string>
   <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
   <string name="accelerometer_title">Auto-rotate screen</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open app</string>
-  <string name="access_control_need_password">"%s has been protected
+  <string name="access_control_need_password">"%s has been locked
 "</string>
   <string name="access_control_need_to_unlock">Password required:</string>
   <string name="access_control_no_back_footer">Touch [icon] to exit</string>
@@ -972,11 +972,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
   <string name="fluency_mode">Optimize system performance</string>
-  <string name="fluency_mode_confirm_title">Reboot now?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
-  <string name="fluency_mode_enabled_name">Optimize system performance</string>
-  <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
+  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1635,6 +1631,7 @@ Select your operating system:"</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
+  <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
   <string name="permission_manage">Permission manager</string>
@@ -1731,12 +1728,12 @@ Select your operating system:"</string>
   <string name="priority_storage_settings_summary">"If no SD card is detected, your data will be saved to your device's internal storage automatically"</string>
   <string name="priority_storage_summary">Choose where to save your data</string>
   <string name="priority_storage_title">Storage settings</string>
-  <string name="privacy_mode_dialog_message">Calls, notes, pictures, messages, and launcher settings will be hidden from user</string>
+  <string name="privacy_mode_dialog_message">Hide incoming calls and messages, notes, photos, and launcher settings</string>
   <string name="privacy_mode_dialog_title">Guest mode</string>
   <string name="privacy_mode_enable_sum">Hide messages, notes, pictures, and incoming calls</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
-  <string name="privacy_mode_summary">Userdata will be hidden from user</string>
-  <string name="privacy_mode_title">Permissions</string>
+  <string name="privacy_mode_summary">Lock individual apps or hide personal info</string>
+  <string name="privacy_mode_title">Privacy settings</string>
   <string name="privacy_protect_title">Privacy protection</string>
   <string name="privacy_relative">Privacy</string>
   <string name="privacy_settings">Backup &amp; reset</string>
@@ -2020,7 +2017,6 @@ This setting affects all users on this phone."</string>
   <string name="search_date_time">date time</string>
   <string name="search_description">Search Settings</string>
   <string name="search_display">display</string>
-  <string name="search_fluency_mode">optimize system performance</string>
   <string name="search_font">font</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">handy mode</string>

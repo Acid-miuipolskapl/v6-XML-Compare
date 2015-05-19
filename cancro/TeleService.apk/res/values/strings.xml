@@ -809,10 +809,10 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sum_xdivert_disabled">X-Divert is off</string>
   <string name="sum_xdivert_enabled">X-Divert is on</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
-  <string name="t9_indexing_method_pinyin">Pinyin</string>
+  <string name="t9_indexing_method_pinyin">Latin alphabet</string>
   <string name="t9_indexing_method_title">T9 search input</string>
-  <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
+  <string name="t9_indexing_method_zhuyin">Zhuyin phonetic notation</string>
+  <string name="t9_indexing_rebuilding_message">Just a sec…</string>
   <string name="technology_news_disable">Technology News is off</string>
   <string name="technology_news_enable">Technology News is on</string>
   <string name="telephony_setting">Call settings</string>
