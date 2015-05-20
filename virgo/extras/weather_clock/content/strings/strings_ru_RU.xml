@@ -3,7 +3,7 @@
     <string name="date_time">E dd/MM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
-    <string name="desc_time">'текущее время\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', нажмите дважды для ввода в приложение "Часы"'</string>
+    <string name="desc_time">'текущее время' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', нажмите дважды для ввода в приложение "Часы"'</string>
     <string name="weather_type_0">Ясно</string>
     <string name="weather_type_1">Облачно</string>
     <string name="weather_type_2">Пасмурно</string>

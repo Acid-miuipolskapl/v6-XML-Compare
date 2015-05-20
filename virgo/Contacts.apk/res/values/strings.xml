@@ -404,6 +404,7 @@ Reason: \"%s\""</string>
   <string name="group_rename_dialog_title">Rename group</string>
   <string name="group_rename_fail_toast">"Couldn't rename group"</string>
   <string name="group_rename_success_toast">Group renamed</string>
+  <string name="group_sms_error_message">Group SMS error: more than %s limit</string>
   <string name="group_sms_progress_msg">Grouping…</string>
   <string name="groupsLabel">Groups</string>
   <string name="groups_list_empty">No groups</string>

@@ -3,8 +3,8 @@
     <string name="date_time">E dd/MM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
-    <string name="desc_time">'current time\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', double tap to enter clock app'</string>
-    <string name="weather_type_0">Dégagé</string>
+    <string name="desc_time">'heure actuelle' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', appuyez deux fois pour ouvrir l'horloge'</string>
+    <string name="weather_type_0">Ciel dégagé</string>
     <string name="weather_type_1">Nuageux</string>
     <string name="weather_type_2">Couvert</string>
     <string name="weather_type_3">Brumeux</string>
@@ -27,6 +27,6 @@
     <string name="weather_type_20">Petite tempête de sable</string>
     <string name="weather_type_21">Tempête de sable</string>
     <string name="weather_type_22">Grêle</string>
-    <string name="weather_type_23">Poussière dans l\'air</string>
+    <string name="weather_type_23">Poussière dans l'air</string>
     <string name="weather_type_24">Brouillard</string>
 </resources>
