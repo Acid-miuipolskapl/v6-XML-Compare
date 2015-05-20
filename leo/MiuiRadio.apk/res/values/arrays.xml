@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="number_value_entries_dark">
+        <item>@drawable/theme_dark_number_0</item>
+        <item>@drawable/theme_dark_number_1</item>
+        <item>@drawable/theme_dark_number_2</item>
+        <item>@drawable/theme_dark_number_3</item>
+        <item>@drawable/theme_dark_number_4</item>
+        <item>@drawable/theme_dark_number_5</item>
+        <item>@drawable/theme_dark_number_6</item>
+        <item>@drawable/theme_dark_number_7</item>
+        <item>@drawable/theme_dark_number_8</item>
+        <item>@drawable/theme_dark_number_9</item>
+    </array>
+    <string-array name="download_quality">
+        <item>@string/ultra_high_quality</item>
+        <item>@string/high_quality</item>
+        <item>@string/normal_quality</item>
+    </string-array>
+    <string-array name="tone_quality">
+        <item>@string/intelligent_model</item>
+        <item>@string/tone_high_quality</item>
+    </string-array>
+    <string-array name="tone_quality_summary">
+        <item>@string/intelligent_model_summary</item>
+        <item>@string/tone_high_quality_summary</item>
+    </string-array>
+</resources>
