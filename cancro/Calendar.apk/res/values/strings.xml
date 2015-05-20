@@ -49,6 +49,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until %3$s (%4$s)</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's %2$s is coming up."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
@@ -283,6 +284,7 @@
   <string name="search">Search</string>
   <string name="search_history_cleared">Search history cleared</string>
   <string name="search_title">Search my calendars</string>
+  <string name="select_date">Select date</string>
   <string name="select_synced_calendars_button">Calendars to sync</string>
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="select_visible_calendars_title">Calendars to display</string>
