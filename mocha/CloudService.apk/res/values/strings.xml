@@ -34,7 +34,7 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">1 hour</string>
+  <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
   <string name="cloud_back_up_open_info">"Back up Home screen app layout when connected to WLAN once every %1$s
 Last backup was on:%2$s"</string>
@@ -51,6 +51,7 @@ Last backup was on:%2$s"</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="contact">Contacts</string>
+  <string name="deskclock_backup">Clocks Back up</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="enableAll">Sync all</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
@@ -110,6 +111,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
+  <string name="micloud_buy_member">Upgrade membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -146,17 +148,38 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_space_full">Not enough storage space.</string>
   <string name="micloud_main_space_risk">%d items synced.</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
+  <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
+Tap the Settings button to view more options"</string>
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_now">Sync now</string>
   <string name="micloud_main_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_sync_pause">Sync paused</string>
+  <string name="micloud_main_sync_setting">Sync settings</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">Syncing…</string>
+  <string name="micloud_main_title_sync_fail">"Can't sync"</string>
+  <string name="micloud_main_title_sync_off">Sync off</string>
+  <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
   <string name="micloud_main_wlan_sync_data_count">%d items waiting to sync</string>
+  <string name="micloud_member">Mi Cloud membership</string>
+  <string name="micloud_member_advantage">Get more storage space.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
+
+%s Mi Credits per year"</string>
+  <string name="micloud_member_buy_title">Confirm order</string>
+  <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
+  <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>
+  <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
+  <string name="micloud_member_pay_miid_error_toast">Account error</string>
+  <string name="micloud_member_pay_order_error_toast">Data error</string>
+  <string name="micloud_member_refresh_button">Refresh</string>
+  <string name="micloud_member_webload_fail_error_message">Network error</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
@@ -164,6 +187,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
   <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
   <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
+  <string name="micloud_setting_deskclock_summary">Clocks settings</string>
   <string name="micloud_setting_gallery_summary">Photos and videos</string>
   <string name="micloud_setting_music_summary">Playlists and favorites</string>
   <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
@@ -172,11 +196,16 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
+  <string name="micloud_storage">Storage</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
+  <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
+  <string name="micloud_sync_alert_dialog_negative">Cancel</string>
+  <string name="micloud_sync_alert_dialog_positive">OK</string>
+  <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
   <string name="micloud_title_dspt" formatted="false">Used %s/Total space %s,</string>
   <string name="micloud_title_dspt_remain">%s remaining</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
@@ -224,6 +253,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="remind_later">Later</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
+  <string name="settings_backup_title">Back up system settings</string>
   <string name="share_cancel">Share canceled</string>
   <string name="share_failed">"Couldn't share"</string>
   <string name="share_miliao_not_installed">Mi Talk is not installed.</string>
