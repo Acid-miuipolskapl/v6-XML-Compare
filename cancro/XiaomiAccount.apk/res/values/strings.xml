@@ -14,7 +14,7 @@
   <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
   <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
   <string name="account_error_user_birthday">The birthday you entered is invalid</string>
-  <string name="account_learn_more_title">Create a Mi Account</string>
+  <string name="account_learn_more_title">Create a Mi Account for free</string>
   <string name="account_name">Account: %1$s</string>
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
@@ -275,7 +275,7 @@ To activate your account, follow the
   <string name="quick_login_dialog_title">Verify password</string>
   <string name="quick_login_step2_title">2-Step Verification</string>
   <string name="quick_login_title">Enter your password</string>
-  <string name="re_register">Create Mi Account</string>
+  <string name="re_register">Create Mi Account for free</string>
   <string name="reg_failed">"Can't set up account"</string>
   <string name="reging">Creating account…</string>
   <string name="register">Create Mi Account</string>
@@ -290,7 +290,7 @@ To activate your account, follow the
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="service_error">Service error</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="skip_register">Skip</string>
+  <string name="skip_register">Skip this step</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to add this account.</string>
   <string name="theme_store">MIUI Themes Store</string>
   <string name="theme_store_dspt">Choose your look. Hundreds of free customizable themes to make your phone unique.</string>
