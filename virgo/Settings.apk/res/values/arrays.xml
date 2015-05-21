@@ -1371,6 +1371,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Ask permission for risky apps</item>
         <item>Allow</item>
     </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Ask permission</item>
+        <item>Allow</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
         <item>60000</item>

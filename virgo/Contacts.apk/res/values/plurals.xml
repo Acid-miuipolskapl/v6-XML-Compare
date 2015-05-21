@@ -84,10 +84,6 @@
         <item quantity="other">" %1$d  contacts added"</item>
         <item quantity="one">%1$d contact added</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Copied %d contacts</item>
-        <item quantity="one">Copied %d contact</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Delete %d contacts</item>
         <item quantity="one">Delete contact</item>
