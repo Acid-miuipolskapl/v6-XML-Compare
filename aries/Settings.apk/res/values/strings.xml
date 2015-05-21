@@ -1152,11 +1152,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
   <string name="fluency_mode">Optimize system performance</string>
-  <string name="fluency_mode_confirm_title">Reboot now?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Your device needs to reboot to apply these settings.</string>
-  <string name="fluency_mode_confirm_will_normal_mode_text">Turning on animations and using additional memory may cause slower performance on some devices.</string>
-  <string name="fluency_mode_enabled_name">Optimize system performance</string>
-  <string name="fluency_mode_summary">Turn off system animations and reduce memory usage</string>
+  <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1917,6 +1913,7 @@ Select your operating system:"</string>
   <string name="page_layout_confirm_title">Change display settings</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_guard">Password</string>
+  <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
   <string name="permission_detail_info_summary">%1$d security | %2$d privacy | %3$d other</string>
   <string name="permission_manage">Permission manager</string>
