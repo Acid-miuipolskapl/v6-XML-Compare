@@ -61,8 +61,8 @@
   <string name="loading_video_netplay_label_v5">Loading…</string>
   <string name="login_tip_content">Sign in with your Mi Account to sync and update shows that you are currently following.</string>
   <string name="login_tip_title">Sign in</string>
-  <string name="menu_item_disable_audio_enhance">Turn off audio enhancer</string>
-  <string name="menu_item_enable_audio_enhance">Turn on audio enhancer</string>
+  <string name="menu_item_disable_audio_enhance">Disable enhancer</string>
+  <string name="menu_item_enable_audio_enhance">Enhance audio</string>
   <string name="mycamera">My videos</string>
   <string name="myfavorite">Star</string>
   <string name="myfavorite_onlylocal">Starred</string>
