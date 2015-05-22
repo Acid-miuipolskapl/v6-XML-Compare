@@ -3,7 +3,7 @@
     <string name="date_time">E dd/MM</string>
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
-    <string name="desc_time">'वर्तमान समय\' + #hour12+\' \'+ifelse(#minute,#minute,\'oclock\')+\', घड़ी ऐप्प में प्रवेश करने के लिए दो बार टैप करें'</string>
+    <string name="desc_time">'वर्तमान समय' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', घड़ी ऐप्प में प्रवेश करने के लिए दो बार टैप करें'</string>
     <string name="weather_type_0">खिली धूप</string>
     <string name="weather_type_1">बादल</string>
     <string name="weather_type_2">धुंधला</string>

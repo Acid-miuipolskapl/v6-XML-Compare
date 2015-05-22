@@ -88,6 +88,8 @@
   <string name="express_contact_phone">Enter phone number</string>
   <string name="express_contact_phone_finding">Getting phone number…</string>
   <string name="express_contact_prefix">"Contact "</string>
+  <string name="express_copied">Tracking number is copied</string>
+  <string name="express_copy_number">Copy</string>
   <string name="express_delete_order">Delete</string>
   <string name="express_dest_city_label">Destination</string>
   <string name="express_detailed_address">Address</string>
@@ -160,6 +162,8 @@ Check your tracking number."</string>
   <string name="express_select_city">Select city</string>
   <string name="express_select_sender">From</string>
   <string name="express_send">Ship</string>
+  <string name="express_send_mms">Send</string>
+  <string name="express_send_mms_format">A package is delivered to you by %1$s, tracking number is %2$s.</string>
   <string name="express_send_notice">Prohibited items</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
@@ -209,8 +213,16 @@ Confirm to follow this yellow page?"</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
   <string name="login_ok">Sign in</string>
-  <string name="mark_number_custom_dialog_maintitle">Confirm or correct label</string>
+  <string name="mark_number_custom_mark_deleted">Label removed.</string>
   <string name="mark_number_dialog_maintitle">Label number and upload</string>
+  <string name="mark_number_dialog_subtitle">Labeled by %2$d people as %1$s.</string>
+  <string name="mark_number_feedback">Report</string>
+  <string name="mark_number_feedback_hint">Enter your feedback</string>
+  <string name="mark_number_feedback_invalid_hint">Enter a valid feedback</string>
+  <string name="mark_number_feedback_success">Feedback success, the number will be verified.</string>
+  <string name="mark_number_marked_maintitle">Modify</string>
+  <string name="mark_number_marked_subtitle">I labeled as %s</string>
+  <string name="mark_number_remove">Remove Label</string>
   <string name="mark_title_null_hint">Enter a label</string>
   <string name="menu_add_black_list">Add to blocklist</string>
   <string name="menu_add_to_favorite">Favorites</string>
@@ -318,7 +330,6 @@ Total: RMB %3$s"</string>
   <string name="remind_user_suspect_number_title">Suspicious number</string>
   <string name="scan">Scan</string>
   <string name="select_package_before_buy">Select package</string>
-  <string name="selected_category_format">Labeled by %2$d people as %1$s.</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
   <string name="send_shortcut_success">Placed on Home screen</string>
   <string name="sending_shortcut">Sending…</string>

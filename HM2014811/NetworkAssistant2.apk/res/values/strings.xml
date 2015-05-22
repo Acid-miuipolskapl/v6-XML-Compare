@@ -31,9 +31,9 @@
   <string name="check_network_state">Test network</string>
   <string name="checkout_traffic_saving_history">View history</string>
   <string name="choose">Choose</string>
-  <string name="connect_internet_by_mobiledata">Connect to internet using Mobile data network</string>
-  <string name="connect_internet_by_usbshare">Connect to internet using USB</string>
-  <string name="connect_internet_by_wifi">Connect to internet using WLAN</string>
+  <string name="connect_internet_by_mobiledata">Mobile data connection</string>
+  <string name="connect_internet_by_usbshare">Shared internet over USB</string>
+  <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
   <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
@@ -94,12 +94,12 @@ For more info check the message you received from your carrier"</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming internationally?</string>
   <string name="dialog_roaming_title">International roaming</string>
-  <string name="disable_air_mode">Turn airplane mode off</string>
+  <string name="disable_air_mode">Turn Airplane mode off first</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
   <string name="dns_exception_title">Check DNS settings</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="enable_network">Turn your Mobile network on</string>
+  <string name="enable_network">Turn Mobile network on first</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
@@ -160,8 +160,8 @@ a mobile data connection"</string>
   <string name="main_primary_message_traffic_cur_normal_warning">Data usage warning</string>
   <string name="main_primary_message_traffic_enough">Under data usage limit</string>
   <string name="main_primary_message_traffic_overlimit">Data usage limit exceeded</string>
-  <string name="main_primary_message_traffic_overlimit_purchase">You need to top-up</string>
-  <string name="main_primary_message_traffic_purchase">You need to top-up</string>
+  <string name="main_primary_message_traffic_overlimit_purchase">You need to top up</string>
+  <string name="main_primary_message_traffic_purchase">You need to top up</string>
   <string name="main_primary_message_traffic_warning">Approaching data usage limit</string>
   <string name="main_secondary_message_traffic_detail_leisure">"
 Off-peak: %1$s | %2$s used"</string>
@@ -173,9 +173,9 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
   <string name="main_toolbar_firewall">Restrict app data usage</string>
-  <string name="main_toolbar_internet_by_mobiledata">Use mobile data to connect to internet</string>
-  <string name="main_toolbar_internet_by_pc_brige">Use PC internet connection via USB</string>
-  <string name="main_toolbar_internet_by_wifi">Use WLAN to connect to internet</string>
+  <string name="main_toolbar_internet_by_mobiledata">Mobile data connection</string>
+  <string name="main_toolbar_internet_by_pc_brige">Shared internet over USB</string>
+  <string name="main_toolbar_internet_by_wifi">WLAN</string>
   <string name="main_toolbar_purchase">Top-up</string>
   <string name="main_toolbar_saving">Data saver</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
@@ -201,28 +201,35 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
 
  1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+
  2. If you just topped up your device's balance, reboot your device and try again.
+
  3. Your carrier's network's signal may be weak in your current location."</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
   <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
-
-"&lt;b&gt;"1. Public WLAN network issues
+ "&lt;b&gt;"1. Public WLAN network issues
 "&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+
  2."&lt;b&gt;" Internet service provider issues
 M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+
  3."&lt;b&gt;" Router hardware issues
 T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+
  4."&lt;b&gt;" Other router issues
 R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+
  5."&lt;b&gt;" Make sure your router is connected properly
 T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
  1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+
  2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+
  3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
@@ -508,14 +515,14 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_setting_step_num">Data plan settings</string>
   <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
-  <string name="unable_connect_internet">"Can't connect to the network"</string>
+  <string name="unable_connect_internet">No internet connection</string>
   <string name="usage_sorted_activity_lable">Data usage</string>
   <string name="usage_sorted_empty_text">Empty</string>
   <string name="usage_sorted_loading_text">Just a sec…</string>
-  <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared connection. Check your device's USB connection and restart Mi PC Suite."</string>
-  <string name="usbsharenet_exception_title">Test USB shared network</string>
-  <string name="usbsharenet_pc_exception_summary">"Can't connect to to the internet using shared connection. Check your computer's internet connection."</string>
-  <string name="wifi_exception_summary">Test an available WLAN network</string>
+  <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
+  <string name="usbsharenet_exception_title">Test shared internet over USB</string>
+  <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
+  <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

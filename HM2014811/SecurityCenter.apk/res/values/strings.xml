@@ -438,7 +438,7 @@
   <string name="pref_category_title_reference_settings">Additional settings</string>
   <string name="pref_category_title_securitycenter_settings">General</string>
   <string name="pref_category_title_virus_lib_auto_update">Virus definitions</string>
-  <string name="pref_summary_lock_screen_memory_clean">Clean automatically when your device is locked</string>
+  <string name="pref_summary_lock_screen_memory_clean">Clean automatically when device is locked</string>
   <string name="pref_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="preference_category_key_reference_settings">key_reference_settings</string>
   <string name="preference_category_key_virus_lib_auto_update">key_category_virus_lib_auto_update</string>
