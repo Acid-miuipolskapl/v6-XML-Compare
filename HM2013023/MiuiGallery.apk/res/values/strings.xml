@@ -97,7 +97,7 @@
   <string name="cannot_remove_creator">"Can't remove creator"</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
-  <string name="cant_delete_cloud_album">"Can't delete %s because it's a system album."</string>
+  <string name="cant_delete_system_album">"Can't delete %s because it's a system album."</string>
   <string name="choose_cloud_album">Choose album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
@@ -509,13 +509,11 @@ with friends"</string>
   <string name="confirm">OK</string>
   <string name="confirm_all_photo_not_this_people_face">No matches?</string>
   <string name="confirm_delete">Delete %s photos?</string>
-  <string name="confirm_delete_album" formatted="false">Delete %s albums (%s items total)?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
   <string name="confirm_delete_init_message">Photo will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the Offline tab.</string>
   <string name="confirm_delete_init_title">Delete photo</string>
-  <string name="confirm_delete_system_album">%s is a system album.</string>
   <string name="confirm_download">You need to download %s.</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
@@ -822,6 +820,8 @@ device"</string>
   <string name="paint_crop_cancel_title">Abandon changes</string>
   <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
   <string name="paint_highlight">Highlight</string>
+  <string name="paint_highlight_cancel_context">Save highlighted image?</string>
+  <string name="paint_highlight_cancel_title">Abandon changes</string>
   <string name="path">Path</string>
   <string name="people">People</string>
   <string name="photo_page_always_rotate">Auto-rotate images</string>
@@ -958,7 +958,7 @@ device"</string>
   <string name="size_above">%1$s or above</string>
   <string name="size_below">%1$s or below</string>
   <string name="size_between">%1$s to %2$s</string>
-  <string name="skip_hide_special_album">"Can't hide system albums (e.g. Camera, Screenshots)"</string>
+  <string name="skip_hide_special_album">"Can't hide system albums (e.g. Camera, Screenshots, All videos)"</string>
   <string name="slideshow">Slideshow</string>
   <string name="slideshow_category">Slideshow</string>
   <string name="slideshow_dream_name">Slideshow</string>
