@@ -34,7 +34,7 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">1 hour</string>
+  <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
   <string name="cloud_back_up_open_info">"Back up Home screen app layout when connected to WLAN once every %1$s
 Last backup was on:%2$s"</string>
@@ -111,6 +111,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
+  <string name="micloud_buy_member">Upgrade membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
@@ -164,8 +165,21 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
   <string name="micloud_main_update_space">Get more storage space.</string>
   <string name="micloud_main_wlan_sync_data_count">%d items waiting to sync</string>
-  <string name="micloud_member">Premium</string>
+  <string name="micloud_member">Mi Cloud membership</string>
   <string name="micloud_member_advantage">Get more storage space.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
+
+%s Mi Credits per year"</string>
+  <string name="micloud_member_buy_title">Confirm order</string>
+  <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
+  <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>
+  <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
+  <string name="micloud_member_pay_miid_error_toast">Account error</string>
+  <string name="micloud_member_pay_order_error_toast">Data error</string>
+  <string name="micloud_member_refresh_button">Refresh</string>
+  <string name="micloud_member_webload_fail_error_message">Network error</string>
+  <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
