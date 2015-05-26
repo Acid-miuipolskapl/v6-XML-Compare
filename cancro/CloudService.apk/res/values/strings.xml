@@ -146,7 +146,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_network_error">"Can't connect to the network"</string>
   <string name="micloud_main_set_internet">Network</string>
   <string name="micloud_main_space_full">Not enough storage space.</string>
-  <string name="micloud_main_space_risk">%d items synced.</string>
+  <string name="micloud_main_space_low">Almost out of space…</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
   <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
 Tap the Settings button to view more options"</string>
