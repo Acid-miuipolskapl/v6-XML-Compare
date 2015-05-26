@@ -1095,7 +1095,7 @@ If your system's text is still too small, try using "</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
-  <string name="high_performance_notif_summary">Performance mode is on.</string>
+  <string name="high_performance_notif_summary">"Performance mode disables temperature controls and battery consumption limits allowing your device to run at maximum capacity. This may cause your device to heat up and reduce it's battery life."</string>
   <string name="high_performance_notif_title">Battery usage warning</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">History details</string>
@@ -2574,6 +2574,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
+  <string name="virtual_sim_category_title">Virtual Sim</string>
+  <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
