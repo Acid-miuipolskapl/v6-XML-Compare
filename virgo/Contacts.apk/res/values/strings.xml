@@ -227,6 +227,7 @@
   <string name="delete_unknown_contact_calllog_title">Delete call history?</string>
   <string name="deleting">Deleting…</string>
   <string name="deleting_sim_entry_miui">Deleting contacts on SIM card…</string>
+  <string name="deleting_sim_entry_miui_prepare">Prepare for the delete…</string>
   <string name="description_add_contact">Add contact</string>
   <string name="description_author">Author</string>
   <string name="description_call">Call %1$s</string>
@@ -452,6 +453,7 @@ Reason: \"%s\""</string>
   <string name="import_weibo_progress_name">Matching \"%1$s\"…</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importing contacts from SIM card…</string>
+  <string name="importing_sim_contacts_miui_prepare">Prepare for the import…</string>
   <string name="importing_vcard_canceled_title">Importing %s canceled</string>
   <string name="importing_vcard_description">Importing %s</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
@@ -481,6 +483,7 @@ Reason: \"%s\""</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
   <string name="loading">Loading…</string>
+  <string name="loading_accounts">Loading SIM info...</string>
   <string name="loading_group_members">Loading group members…</string>
   <string name="loading_groups">Loading groups…</string>
   <string name="loading_recent">Loading recent contacts…</string>
