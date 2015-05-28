@@ -1279,7 +1279,7 @@ If your system's text is still too small, try using "</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
-  <string name="high_performance_notif_summary">Performance mode is on.</string>
+  <string name="high_performance_notif_summary">"Performance mode disables temperature controls and battery consumption limits allowing your device to run at maximum capacity. This may cause your device to heat up and reduce it's battery life."</string>
   <string name="high_performance_notif_title">Battery usage warning</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">History details</string>
@@ -1746,6 +1746,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+  <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dolby_dialogue_enhancer">Dialogue Enhancer</string>
   <string name="music_dolby_effects">Dolby effects</string>
   <string name="music_dolby_eq_enter_alert_msg">You can only use the equalizer in Dolby music mode. Enable it now?</string>
@@ -2370,8 +2371,8 @@ To use screen pinning:
   <string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
-  <string name="security_keyguard_category_name">Lock screen</string>
-  <string name="security_password_category_name">Password</string>
+  <string name="security_keyguard_category_name">Screen lock</string>
+  <string name="security_password_category_name">Screen lock</string>
   <string name="security_passwords_title">Passwords</string>
   <string name="security_privacy_settings_title">Privacy</string>
   <string name="security_relative">Security</string>
@@ -2496,7 +2497,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings">SIM lock settings</string>
   <string name="sim_lock_settings_category">Setup SIM lock</string>
   <string name="sim_lock_settings_title">SIM lock</string>
-  <string name="sim_management_title">SIM cards and mobile networks</string>
+  <string name="sim_management_title">SIM cards &amp; mobile networks</string>
   <string name="sim_missing">missing or error</string>
   <string name="sim_multi_sims_summary">Choose the SIM you prefer for cellular data.</string>
   <string name="sim_multi_sims_title">Multiple SIMs found</string>
@@ -2587,11 +2588,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
-  <string name="status_bar_settings_custom_notification">Manage notifications</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
   <string name="status_bar_settings_enable_notification">Allow notifications</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_long_click_sort">Press &amp; hold to pick up a toggle</string>
+  <string name="status_bar_settings_manage_notification">Manage notifications</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_notification_led">Notification light</string>
@@ -2608,12 +2609,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
   <string name="status_bar_settings_status_bar">Status bar</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
-  <string name="status_bar_settings_toggle_layout_style">Toggle layout style</string>
-  <string name="status_bar_settings_toggle_layout_style_applying">Changing style…</string>
-  <string name="status_bar_settings_toggle_layout_style_compact">Bar</string>
-  <string name="status_bar_settings_toggle_layout_style_single_page">Page</string>
   <string name="status_bar_settings_toggle_position">Toggle positions</string>
-  <string name="status_bar_style_settings">Notifications</string>
   <string name="status_bt_address">Bluetooth address</string>
   <string name="status_data_state">Cellular network state</string>
   <string name="status_failed_to_write">Unable to write data to NFC tag. If the problem persists, try a different tag</string>
@@ -2850,11 +2846,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="unlock_set_unlock_none_title">None</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">None</string>
-  <string name="unlock_set_unlock_password_summary">May contain letters and numbers</string>
+  <string name="unlock_set_unlock_password_summary">Enter four or more letters or numbers to unlock device</string>
   <string name="unlock_set_unlock_password_title">Password</string>
-  <string name="unlock_set_unlock_pattern_summary">Must connect at least 4 points</string>
+  <string name="unlock_set_unlock_pattern_summary">Draw a simple pattern with your finger to unlock device</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
-  <string name="unlock_set_unlock_pin_summary">Enter 4 digit PIN</string>
+  <string name="unlock_set_unlock_pin_summary">Enter four or more numbers to unlock device</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>

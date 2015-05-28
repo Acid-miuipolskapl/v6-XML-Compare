@@ -67,6 +67,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="global_actions_reboot">Reboot</string>
   <string name="global_actions_shutdown">Power off</string>
   <string name="global_actions_silent_mode">Silent mode</string>
+  <string name="handy_mode_summary">To close, tap empty space off-screen</string>
+  <string name="handy_mode_title">One-handed mode</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Space</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
