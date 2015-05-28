@@ -51,11 +51,15 @@
 		</Group>
 	</MusicControl>	
 
-	<Button w="#view_width" h="500" visibility="ne(#music_control.player_type,2)">
+	<Button w="#view_width" h="500" visibility="or(eqs(@music_control.package,'com.miui.player'), isnull(@music_control.package))">
 		<Triggers>
 			<Trigger action="up">
-				<IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.pad.ui.MusicMainActivity" condition="isnull(@music_control.title)"/>
-				<IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+				<IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.pad.ui.MusicMainActivity" condition="isnull(@music_control.title)">
+				    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
+				</IntentCommand>
+				<IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))">
+				    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
+				</IntentCommand>
 			</Trigger>
 		</Triggers>
 	</Button>
