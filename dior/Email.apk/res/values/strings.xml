@@ -31,7 +31,7 @@
   <string name="account_name_toast">An account with same name already exists</string>
   <string name="account_options_acc_title">Account</string>
   <string name="account_options_common_title">General</string>
-  <string name="account_options_only_title">Download message titles only, when using mobile data</string>
+  <string name="account_options_only_title">When using mobile data, only download message titles</string>
   <string name="account_options_sync_title">Sync</string>
   <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
   <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
@@ -59,7 +59,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
   <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
   <string name="account_settings_mail_check_frequency_label">Frequency</string>
-  <string name="account_settings_mibill_resolve_label">Analyse email statements</string>
+  <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
   <string name="account_settings_name_label">Nickname</string>
   <string name="account_settings_notifications">Notifications</string>
   <string name="account_settings_notify_label">Email notifications</string>
@@ -147,6 +147,7 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Account setup</string>
   <string name="account_setup_incoming_username_label">Username</string>
+  <string name="account_setup_incoming_username_label_default_hint">Contain domain</string>
   <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
   <string name="account_setup_names_headline">Your account is set up and email is on its way!</string>
   <string name="account_setup_names_title">Account setup</string>
@@ -310,7 +311,7 @@
   <string name="compose">Compose</string>
   <string name="compose_help_context">compose</string>
   <string name="compose_send">Send</string>
-  <string name="compose_sent">Sent Successfully</string>
+  <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete this email?</string>
   <string name="confirm_delete_conversation_title">Delete</string>
@@ -323,12 +324,12 @@
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
-  <string name="contact_edit_set_black_list">Set blacklist</string>
+  <string name="contact_edit_set_black_list">Set blocklist</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_set_pop_up_tips">Popup tips</string>
   <string name="contact_edit_set_unread_top">Show unread emails first</string>
   <string name="contact_edit_set_vip">Set VIP</string>
-  <string name="contact_edit_title_permission">"Contacts' permissions"</string>
+  <string name="contact_edit_title_permission">Contacts permissions</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
@@ -388,7 +389,9 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Sync mail option is off,can't receive new messages."</string>
   <string name="dialog_auto_download_failed">"Can't finish auto-download, try downloading manually."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Sync option is off,can't receive new messages."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
   <string name="dialog_insufficient_space_on_external">"Can't finish download. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Lack of storage space to auto-download attachments.</string>
@@ -483,7 +486,7 @@
   <string name="folder_sent_name_en3">Sent Items</string>
   <string name="folder_sent_name_en4">[Gmail]/Sent Mail</string>
   <string name="folder_shortcut_widget_label">Email folder</string>
-  <string name="folder_synchronization_mail_settings">Folder synchronization mail settings</string>
+  <string name="folder_synchronization_mail_settings">Folder sync settings</string>
   <string name="folder_trash_name_cn0">已删除</string>
   <string name="folder_trash_name_cn1">已删除邮件</string>
   <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -537,11 +540,11 @@
   <string name="hint_quick_reply_all">Reply all</string>
   <string name="ignore_spam_warning">Ignore, I trust this message</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_password_error">The password of incoming mail server is error</string>
+  <string name="imap_password_error">Password for incoming mail server is incorrect</string>
   <string name="inbox_folders_heading">Local Folders</string>
   <string name="info">Info</string>
-  <string name="inline_picture_deleted">"Can't find this picture,downloading…"</string>
-  <string name="inline_picture_download_complete">inline picture download complete</string>
+  <string name="inline_picture_deleted">Downloading missing picture…</string>
+  <string name="inline_picture_download_complete">Downloaded picture</string>
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
@@ -666,18 +669,18 @@ CC: %4$s
   <string name="message_saved">Message saved as draft.</string>
   <string name="message_type_name">messages</string>
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
-  <string name="mibill_privacy_policy_button1">Not now</string>
+  <string name="mibill_privacy_policy_button1">"Don't agree"</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
-  <string name="mibill_privacy_policy_description">Mi Wallet will analyse all the email statements recived in your Mail app, and manage all your credit card bills for you. This service is defaulted to off for company mailbox.</string>
-  <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
-  <string name="mibill_privacy_policy_title">Mi Wallet analyses email statements</string>
+  <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off automatically for work-related email addresses.</string>
+  <string name="mibill_privacy_policy_link">Please read &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="mibill_privacy_policy_title">Agree to Manage bills automatically</string>
   <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_atts_total">%1$d attachments</string>
   <string name="more_context">More</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
-  <string name="move_to_selection_dialog_title">Moved to another folder</string>
+  <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Mute</string>
   <string name="name_or_number_is_error">Username or password is incorrect</string>
@@ -686,7 +689,7 @@ CC: %4$s
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
-  <string name="next_not_prompt">"Don't prompt"</string>
+  <string name="next_not_prompt">"Don't show again"</string>
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
@@ -710,6 +713,9 @@ CC: %4$s
   <string name="notification_action_undo_delete">Deleted</string>
   <string name="notification_action_undo_remove_label">Label Removed</string>
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
+  <string name="oauth_error_description">Unable to authenticate</string>
+  <string name="oauth_gmail_login_notify">"According to Google's requirements, you should type your password on the Google authorization page"</string>
+  <string name="oauth_login_continue">Continue</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="open_proxy_in_settings">"Gmail isn't available in your current location. You can still send and receive messages from your Gmail inbox by using Mail's proxy server. Turn this feature on or off anytime in Settings."</string>
@@ -719,20 +725,20 @@ CC: %4$s
   <string name="outbox_alert_button_resend">Resend</string>
   <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
-  <string name="outbox_alert_description_cannot_authenticate">%s Mail system failure</string>
+  <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the recipient's limit."</string>
-  <string name="outbox_alert_description_time_out">Network connection failure</string>
+  <string name="outbox_alert_description_time_out">Network connection timed out</string>
   <string name="outbox_alert_duplicate_click">Still syncing…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
   <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
   <string name="outbox_alert_select_operation">Choose an action</string>
-  <string name="outbox_alert_title_sent_failed">"Could't send mail"</string>
+  <string name="outbox_alert_title_sent_failed">"Couldn't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_changed_prompt">"Can't sign in"</string>
@@ -793,11 +799,11 @@ CC: %4$s
   <string name="prefDefault_autoAdvance">list</string>
   <string name="prefDialogTitle_conversationListIcon">Sender image</string>
   <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
-  <string name="preference_eas_tips">Please click “Activate” in coming confirmation page which is required by E-mail server</string>
+  <string name="preference_eas_tips">Tap Activate to set up mail server.</string>
   <string name="preference_head_load_description">Download message titles only, when using mobile data</string>
   <string name="preference_head_load_title">Reduce mobile data usage</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email itself. Please care the mobile data.</string>
+  <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
   <string name="preference_removal_action_title">Archive &amp; delete actions</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in inbox"</string>
   <string name="preference_sender_image_title">Show profile pictures in inbox</string>
@@ -857,8 +863,8 @@ CC: %4$s
   <string name="quoted_text_background_color_string">@android:color/white</string>
   <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
-  <string name="re_download_message_button">Click to download again</string>
-  <string name="re_download_message_info">Download email failed</string>
+  <string name="re_download_message_button">Tap to download again</string>
+  <string name="re_download_message_info">"Couldn't download email"</string>
   <string name="read_string">conversation read</string>
   <string name="recent_folders_heading">Recent folders</string>
   <string name="recipient_needed">Add at least 1 recipient.</string>
@@ -903,7 +909,7 @@ CC: %4$s
   <string name="save_power_title">Do not disturb</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
-  <string name="sdcard_cannot_use">Storage card can not be used</string>
+  <string name="sdcard_cannot_use">"Can't use SD card"</string>
   <string name="search_attachment">Search</string>
   <string name="search_hint">Search mail</string>
   <string name="search_result">Results</string>
@@ -958,7 +964,7 @@ CC: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
-  <string name="smtp_password_error">The password of outcoming mail server is error</string>
+  <string name="smtp_password_error">Password for outgoing mail server is incorrect</string>
   <string name="sort_attachment">Sort by</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">写道:</string>
@@ -1022,13 +1028,13 @@ CC: %4$s
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">The logs uploaded failed</string>
+  <string name="upload_log_failed">"Couldn't upload logs"</string>
   <string name="upload_log_no">Cancel</string>
-  <string name="upload_log_success">The logs uploaded successfully</string>
-  <string name="upload_log_title">Upload the logs now？</string>
+  <string name="upload_log_success">Logs uploaded successfully</string>
+  <string name="upload_log_title">Confirm Upload</string>
   <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
   <string name="upload_log_yes">Upload</string>
-  <string name="uploading_logs">The logs is uploading</string>
+  <string name="uploading_logs">Uploading logs…</string>
   <string name="validation_failed_prompt">"Can't verify account, check %s server settings"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1054,6 +1060,6 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
-  <string name="you_are_in_mobile_network">You are using mobile network now</string>
+  <string name="you_are_in_mobile_network">You are using mobile network, continue to upload the log file (size nKB)?</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>
