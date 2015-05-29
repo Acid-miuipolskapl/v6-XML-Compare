@@ -32,6 +32,7 @@
   <string name="activity_title_virus_settings">Settings</string>
   <string name="antivirus_sec_support">Powered by Tencent</string>
   <string name="app_name_securitycenter">Security</string>
+  <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="auto_handle_title">GENERAL</string>
   <string name="back">Back</string>
   <string name="battery_desc_apps">Battery used by app</string>
