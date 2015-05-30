@@ -146,6 +146,8 @@
   <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
   <string name="cdma_display_precise_call_state_title">Display call status</string>
@@ -165,6 +167,9 @@
   <string name="cfnrc_title_cta">Forward when unreachable</string>
   <string name="cfnry_title">Forward when unanswered</string>
   <string name="cfu_title">Always forward calls</string>
+  <string name="change_default_data">Change</string>
+  <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_title">UIM card must be default</string>
   <string name="change_num">Update</string>
   <string name="change_password">Change barring password</string>
   <string name="change_pin">Change SIM PIN</string>
@@ -177,6 +182,7 @@
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="config_dialing_emergency_number_suffix"/>
+  <string name="confirm_change_default_data">Change</string>
   <string name="confirm_password_label">Confirm new password</string>
   <string name="confirm_pin2_label">Confirm new PIN2</string>
   <string name="confirm_pin_label">Confirm new PIN</string>
@@ -515,6 +521,7 @@ Will use preferred network instead."</string>
   <string name="no_wifi_available_title">No WLAN connection</string>
   <string name="not_a_valid_port">Port number should be within 1000 and 65534.</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
+  <string name="not_change_default_data">"Don't change"</string>
   <string name="not_voice_capable">Voice calling not supported</string>
   <string name="notification_missedCallTicker">Missed call from %s</string>
   <string name="notification_missedCall_call_back">Call back</string>
@@ -664,6 +671,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="reject_via_sms_summary">Edit pre-written text messages</string>
   <string name="reject_via_sms_title">Quick responses</string>
   <string name="remember_my_choice">Always use to place internet calls</string>
+  <string name="remind_another_time">"Don't show again"</string>
   <string name="remove">Delete</string>
   <string name="remove_ims_account">Remove account</string>
   <string name="remove_sip_account">Remove account</string>
