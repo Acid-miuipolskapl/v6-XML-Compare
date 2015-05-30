@@ -1,22 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Gadget version="1" frameRate="0" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
     <Group x="#view_width/2-482" y="#view_height/2-257" w="963" h="513" layered="true">
-        <MusicControl x="0" y="0" autoShow="true" systemPlayer="true" frameRate="0">
+        <MusicControl name="music_control" x="0" y="0" autoShow="true" enableProgress="true" frameRate="1">
             <Image x="1" y="1" src="music_bg.png" w="961" h="511"/>
             <Group x="0" y="0" w="962" h="512" layered="true">
-                <Image name="music_album_cover" x="963" y="257" w="963" h="963" align="right" alignV="center" scale="20"/>
+                <Image src="music_control.artwork" srcType="BitmapVar" x="963" y="257" w="963" h="963" align="right" alignV="center" scale="20"/>
                 <Image x="0" y="0" w="963" h="513" src="music_mask.9.png" xfermode="dst_in"/>
             </Group>
-            <Button name="music_prev" x="47" y="525" w="0" h="0" visibility="false">
-            </Button>
-            <Button name="music_next" x="331" y="525" w="0" h="0" visibility="false">
-            </Button>
-            <Button name="music_play" x="167" y="504" w="0" h="0" visibility="false">
-            </Button>
-            <Button name="music_pause" x="167" y="504" w="0" h="0" visibility="false">
-            </Button>
-        </MusicControl>
-        <MusicControl name="music_control" x="0" y="0" autoShow="true" enableProgress="true" systemPlayer="true" frameRate="0">
+
             <Group x="0" y="0" w="963" h="513" layered="true">
                 <Image name="music_album_cover" x="257" y="257" w="702" h="702" align="center" alignV="center"/>
                 <Image x="0" y="0" w="963" h="513" src="album_mask.9.png" xfermode="dst_in"/>
@@ -71,11 +62,15 @@
         <Rectangle w="963" h="513" cornerRadius="25,25" strokeColor="#1EFFFFFF" weight="1" strokeAlign="inner"/>
     </Group>
 
-    <Button x="#view_width/2-482" y="#view_height/2-257" w="520" h="513">
+    <Button x="#view_width/2-482" y="#view_height/2-257" w="520" h="513" visibility="or(eqs(@music_control.package,'com.miui.player'), isnull(@music_control.package))">
         <Triggers>
             <Trigger action="up">
-                <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)"/>
-                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))"/>
+                <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)">
+                    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
+                </IntentCommand>
+                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))">
+                    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
+                </IntentCommand>
             </Trigger>
         </Triggers>
     </Button>

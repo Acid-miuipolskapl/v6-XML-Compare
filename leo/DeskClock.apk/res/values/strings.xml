@@ -39,7 +39,7 @@
   <string name="default_alarm_alert">Set default alarm sound</string>
   <string name="default_alarm_title">Default ringtone</string>
   <string name="default_label">Alarm</string>
-  <string name="delelte_selected_timezone">Delete the selected timezones?</string>
+  <string name="delelte_selected_timezone">Delete the selected timezone?</string>
   <string name="delete">Delete</string>
   <string name="delete_alarm">Delete alarm</string>
   <string name="delete_alarm_confirm">Delete this alarm?</string>
