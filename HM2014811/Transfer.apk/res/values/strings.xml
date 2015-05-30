@@ -13,10 +13,10 @@
   <string name="android_common_name_prefixes">@string/common_name_prefixes</string>
   <string name="android_common_name_suffixes">@string/common_name_suffixes</string>
   <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
-  <string name="android_ringtone_default_with_actual">@android:string/capital_on</string>
-  <string name="android_ringtone_silent">@android:string/permgroupdesc_storage</string>
-  <string name="android_ringtone_unknown">@android:string/alwaysUse</string>
-  <string name="android_storage_usb">@android:string/action_mode_done</string>
+  <string name="android_ringtone_default_with_actual">@android:string/loading</string>
+  <string name="android_ringtone_silent">@android:string/permdesc_sendRespondViaMessageRequest</string>
+  <string name="android_ringtone_unknown">@android:string/whichApplication</string>
+  <string name="android_storage_usb">@android:string/tethered_notification_multi_device_message</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">反侵略日</string>
   <string name="app_name">Transfer</string>
