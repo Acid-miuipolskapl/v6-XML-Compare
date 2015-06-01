@@ -357,6 +357,7 @@
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_hm_front_video_quality_default">110</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
