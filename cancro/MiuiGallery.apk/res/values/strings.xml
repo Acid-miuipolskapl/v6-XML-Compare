@@ -6,6 +6,8 @@
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="add_account">Add account</string>
+  <string name="add_event">Add event</string>
+  <string name="add_event_hint">Input a label</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_cloud_album">Add to album</string>
   <string name="add_to_cloud_exceeded_the_size_message">File is too big</string>
@@ -507,6 +509,7 @@ with friends"</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
+  <string name="confirm_all_photo_are_this_people_face">All matche？</string>
   <string name="confirm_all_photo_not_this_people_face">No matches?</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
@@ -518,8 +521,9 @@ with friends"</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
-  <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
+  <string name="confirm_left_photo_will_move_out">Photos on the left are not his(her)?</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Not this person</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
@@ -599,6 +603,7 @@ with friends"</string>
   <string name="error_title">"Can't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown_host">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="event_manage_photos">Manage photos</string>
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
   <string name="exit_share_failed">"Couldn't exit %1$s"</string>
@@ -614,6 +619,7 @@ with friends"</string>
   <string name="face_album_rename_hint">Enter name</string>
   <string name="face_albumset_detecting_tip">Just a sec…</string>
   <string name="face_albumset_empty">Empty.</string>
+  <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_albumset_use_tip">Use face detection to sort photos by the people that are in them</string>
   <string name="face_move_dialog_title">Choose an album</string>
@@ -739,7 +745,9 @@ with friends"</string>
   <string name="menu_item_sort_size_asc">Size (ascending)</string>
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
+  <string name="merge_album">Merge</string>
   <string name="merge_album_positive_button_text">Merge</string>
+  <string name="merge_album_title">Merge albums</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao">Mi Talk</string>
@@ -833,6 +841,7 @@ device"</string>
   <string name="photo_size">Size</string>
   <string name="photoeditor_name">Photo Studio</string>
   <string name="photos">Photos</string>
+  <string name="pick_from_contact">Pick from contact</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="pick_too_much_tips">%d items at most.</string>
   <string name="picker_no_album_selected">No albums selected</string>

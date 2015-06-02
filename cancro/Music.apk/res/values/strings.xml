@@ -159,7 +159,7 @@
   <string name="impunity_declaration_summary">Show Terms of Service popup for Baidu Online Music Service every time the Music app opens</string>
   <string name="impunity_declaration_title">Terms of Service</string>
   <string name="in_searching_please_wait">Searching…</string>
-  <string name="is_loading_data">Loading songs. Wait a minute or two and try again.</string>
+  <string name="is_loading_data">Still loading songs. Wait a minute or two and try again.</string>
   <string name="ktv_playlist">KTV playlist</string>
   <string name="like">Like</string>
   <string name="list_item_play_FM_radio">Touch to play FM radio</string>

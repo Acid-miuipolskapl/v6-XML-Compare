@@ -495,9 +495,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bt_trace_log_summary">Bluetooth trace log</string>
   <string name="bugreport_in_power">Power menu bug reports</string>
   <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
-  <string name="bugreport_tool_log">Create bug report</string>
-  <string name="bugreport_tool_log_toast">Log saved to %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="build_number">Build number</string>
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
@@ -1443,11 +1440,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
   <string name="mobile_unknown_sim_operator">Uknown SIM operator</string>
   <string name="model_number">Model number</string>
-  <string name="modem_tool_log">Capture modem logs</string>
-  <string name="modem_tool_log_start">Start</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Stop</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
