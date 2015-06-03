@@ -440,7 +440,6 @@
   <string name="toast_burst_snap_finished_end">photos</string>
   <string name="toast_burst_snap_finished_start">Burst shot</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">"Can't view pictures while device is locked"</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
   <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>

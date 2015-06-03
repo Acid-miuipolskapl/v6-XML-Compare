@@ -1862,7 +1862,7 @@ Select your operating system:"</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Reboot phone?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your device will reboot to enter Lite mode.</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot to enter Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
