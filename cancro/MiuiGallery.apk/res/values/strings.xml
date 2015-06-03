@@ -615,6 +615,7 @@ with friends"</string>
   <string name="external_usb_device">USB storage</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="face_album">People</string>
+  <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
   <string name="face_album_not_named">Unnamed</string>
   <string name="face_album_rename_hint">Enter name</string>
   <string name="face_albumset_detecting_tip">Just a sec…</string>
@@ -680,6 +681,7 @@ with friends"</string>
   <string name="home_page_tab_photo">Photos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="ignore_album">Ignore</string>
+  <string name="ignore_alert_title">"When ignored, won't be displayed any more, go on?"</string>
   <string name="ignore_face">Ignore this person</string>
   <string name="image_download_item_title">Download file (%s)</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
@@ -747,7 +749,7 @@ with friends"</string>
   <string name="menu_view_contact">View contact</string>
   <string name="merge_album">Merge</string>
   <string name="merge_album_positive_button_text">Merge</string>
-  <string name="merge_album_title">Merge albums</string>
+  <string name="merge_album_title">Merge albums to</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao">Mi Talk</string>
