@@ -3,12 +3,12 @@
   <string name="access_history">History</string>
   <string name="action_item_delete">Delete</string>
   <string name="add_favorite">Featured</string>
-  <string name="all">all</string>
+  <string name="all">All</string>
   <string name="app_name">Radio</string>
   <string name="app_to_share">Complete action using</string>
   <string name="avoid_to_use_traffic_summary">"Using your mobile data connection to download content will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="avoid_to_use_traffic_title">Mobile data warning</string>
-  <string name="batch_download">Batch Download</string>
+  <string name="batch_download">Batch download</string>
   <string name="batch_download_start_toast">Downloading…</string>
   <string name="bluetooth_device">Bluetooth device</string>
   <string name="broadcasting">"Playing: "</string>
@@ -22,7 +22,7 @@
   <string name="channel_off">This program is no longer available</string>
   <string name="click_to_play">Empty</string>
   <string name="confirm_delete_history_text">Delete selected items?</string>
-  <string name="continue_play">play</string>
+  <string name="continue_play">Play</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_title_download_quality">Download quality</string>
@@ -40,11 +40,11 @@
   <string name="favorite">Favorite</string>
   <string name="find_program">Discover</string>
   <string name="first_program">Program</string>
-  <string name="get_channel_failed">get channel detail failed</string>
+  <string name="get_channel_failed">"Couldn't get channel info"</string>
   <string name="has_no_program_now">Empty</string>
   <string name="high_quality">Higher (48 bps)</string>
   <string name="hotlist_name">Featured</string>
-  <string name="impunity_declaration">Radio needs to connect to the internet and positioning to work normally.</string>
+  <string name="impunity_declaration">Radio needs to connect to the internet and access your location info to work normally.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">"Don't allow"</string>
   <string name="impunity_declaration_positive_text">OK</string>
@@ -89,7 +89,7 @@
   <string name="qingting_logo"> | Qingting FM</string>
   <string name="remaining_time">"Time remaining: "</string>
   <string name="search_hint">Search</string>
-  <string name="section">selection</string>
+  <string name="section">Featured</string>
   <string name="select_device">Choose device</string>
   <string name="share">Share</string>
   <string name="share_button">Share</string>

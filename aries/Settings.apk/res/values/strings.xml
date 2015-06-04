@@ -1779,7 +1779,7 @@ Select your operating system:"</string>
   <string name="music_headset_mode_settings">Headphone remote buttons</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
-  <string name="music_headset_settings">Headphones and audio effects</string>
+  <string name="music_headset_settings">Headphones &amp; audio effects</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
