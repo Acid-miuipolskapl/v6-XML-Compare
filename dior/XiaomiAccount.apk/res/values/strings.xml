@@ -72,7 +72,7 @@
   <string name="checking_phone_num_availible">Verifying phone…</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
-  <string name="completed">All set!</string>
+  <string name="completed">All set</string>
   <string name="confirm">OK</string>
   <string name="confirm_email_address_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_email_address_dialog_title">Confirm email address</string>
@@ -317,9 +317,9 @@ To activate your account, follow the
   <string name="rename_current_device">"Change device's name"</string>
   <string name="replace_binded_phone">Replace phone</string>
   <string name="restart_action">Restart</string>
-  <string name="restart_email_bind_message">It takes some time to receive email, make sure that change recovery email？</string>
+  <string name="restart_email_bind_message">An email with a verification code will be sent to this address.</string>
   <string name="restart_email_bind_title">Change recovery email</string>
-  <string name="restart_phone_bind_message">It takes some time to receive sms, make sure that change recovery phone？</string>
+  <string name="restart_phone_bind_message">A text message with with a verification code will be sent to this number.</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="service_error">Service error</string>
