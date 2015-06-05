@@ -96,9 +96,9 @@
   <string name="mi_key_find_mikey">Find Mi Key</string>
   <string name="mi_key_find_phone">Find device</string>
   <string name="mi_key_open_camera">Open Camera</string>
-  <string name="mi_key_summary_find_phone">Press &amp; hold Mi-Key to sound ringer</string>
-  <string name="mi_key_summary_open_camera">Double click Mi-Key to open camera</string>
-  <string name="mi_key_summary_take_photo">Click Mi-Key to take a photo</string>
+  <string name="mi_key_summary_find_phone">Press &amp; hold Mi Key to sound ringer</string>
+  <string name="mi_key_summary_open_camera">Double click Mi Key to open Camera</string>
+  <string name="mi_key_summary_take_photo">Click Mi Key to take a photo</string>
   <string name="mi_key_take_photo">Take photo</string>
   <string name="miui_transfer_history_title">Bluetooth transfers</string>
   <string name="miui_transfer_inbound_title">Inbound</string>
@@ -134,10 +134,10 @@
   <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
   <string name="process"/>
   <string name="progress_scanning">Searching…</string>
-  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
+  <string name="reset_function_msg">Resetting this feature may prevent %1$s from working normally.</string>
   <string name="sharedUserId"/>
   <string name="sim_selected_dialog_title">Select SIM</string>
-  <string name="some_app_taking">(%1$s is already using this feature…)</string>
+  <string name="some_app_taking">(%1$s is already using this feature)</string>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">Transfer canceled by user.</string>
   <string name="status_connection_error">Connection unsuccessful.</string>

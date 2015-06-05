@@ -6,12 +6,14 @@
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="add_account">Add account</string>
+  <string name="add_event">Add event</string>
+  <string name="add_event_hint">Input a label</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_cloud_album">Add to album</string>
   <string name="add_to_cloud_exceeded_the_size_message">File is too big</string>
   <string name="add_to_cloud_failed_message_with_count">"%2$s items can't be added to cloud: %1$s."</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in target album</string>
-  <string name="add_to_cloud_folder">Add to folder</string>
+  <string name="add_to_cloud_folder">Add to album</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Image limit exceeded</string>
   <string name="add_to_cloud_local_space_full_message">Storage is full or not ready</string>
   <string name="add_to_cloud_reasons"/>
@@ -497,16 +499,17 @@ with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">All</string>
-  <string name="cloudfolder_already_exists">A folder with the same name already exists</string>
-  <string name="cloudfolder_cannot_start_with">"Folder name can't start with '%s'"</string>
-  <string name="cloudfolder_contain_invalidate_char">"Folder name can't contain '%s'"</string>
+  <string name="cloudfolder_already_exists">A album with the same name already exists</string>
+  <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
+  <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">"Couldn't load data. Wait a minute or two and try again."</string>
-  <string name="cloudfolder_loading_data">(Loading…)</string>
-  <string name="cloudfolder_name_cannot_empty">Enter a folder name</string>
-  <string name="cloudfolder_name_reserved">Folder name is reserved</string>
+  <string name="cloudfolder_loading_data">Loading…</string>
+  <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
+  <string name="cloudfolder_name_reserved">Album name is reserved</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
+  <string name="confirm_all_photo_are_this_people_face">Associate all photos with this person?</string>
   <string name="confirm_all_photo_not_this_people_face">No matches?</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
@@ -518,8 +521,9 @@ with friends"</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
-  <string name="confirm_left_photo_will_move_out">Photos on the left will be removed from this album.</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_left_photo_will_move_out">"Photo doesn't contain this person?"</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Not this person</string>
   <string name="contact_photo">Set as contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
@@ -530,7 +534,7 @@ with friends"</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">Cool</string>
   <string name="cool_portrait">Portrait</string>
-  <string name="create_new_cloud_folder">Create new folder</string>
+  <string name="create_new_cloud_folder">Create new album</string>
   <string name="create_new_face">New person</string>
   <string name="crop">Crop</string>
   <string name="crop_fail_to_load_image">"Can't load image"</string>
@@ -583,7 +587,7 @@ with friends"</string>
   <string name="email_picker_title">Add shared Email</string>
   <string name="enable">Turn on</string>
   <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
-  <string name="enabling_face_feature">Turning on…</string>
+  <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
   <string name="error_cloud_not_active">No photos in cloud.</string>
@@ -599,6 +603,7 @@ with friends"</string>
   <string name="error_title">"Can't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown_host">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="event_manage_photos">Manage photos</string>
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
   <string name="exit_share_failed">"Couldn't exit %1$s"</string>
@@ -610,12 +615,14 @@ with friends"</string>
   <string name="external_usb_device">USB storage</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="face_album">People</string>
+  <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
   <string name="face_album_not_named">Unnamed</string>
   <string name="face_album_rename_hint">Enter name</string>
   <string name="face_albumset_detecting_tip">Just a sec…</string>
   <string name="face_albumset_empty">Empty.</string>
+  <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
-  <string name="face_albumset_use_tip">Use face detection to sort photos by the people that are in them</string>
+  <string name="face_albumset_use_tip">Sort photos by the people that are in them</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
@@ -669,13 +676,14 @@ with friends"</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" shots in camera roll"</string>
   <string name="home_page_tab_cloud">Mi Cloud</string>
-  <string name="home_page_tab_face">Face</string>
+  <string name="home_page_tab_face">People</string>
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">Photos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="ignore_album">Ignore</string>
+  <string name="ignore_album">"Don't show"</string>
+  <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
-  <string name="image_download_item_title">Download file (%s)</string>
+  <string name="image_download_item_title">Download photo (%s)</string>
   <string name="image_quota_fulfiled">Too many images. Delete some images and try again.</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
@@ -690,7 +698,7 @@ with friends"</string>
   <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
-  <string name="input_cloudfolder_name">Folder name</string>
+  <string name="input_cloudfolder_name">Album name</string>
   <string name="internal_camera_folder_display_name">Internal camera photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>
@@ -739,7 +747,9 @@ with friends"</string>
   <string name="menu_item_sort_size_asc">Size (ascending)</string>
   <string name="menu_item_sort_size_desc">Size (descending)</string>
   <string name="menu_view_contact">View contact</string>
+  <string name="merge_album">Merge</string>
   <string name="merge_album_positive_button_text">Merge</string>
+  <string name="merge_album_title">Merge albums</string>
   <string name="message_no_delete_access">"You don't have permission to delete %s"</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="miliao">Mi Talk</string>
@@ -832,7 +842,8 @@ device"</string>
   <string name="photo_save_succeed">Saved successfully</string>
   <string name="photo_size">Size</string>
   <string name="photoeditor_name">Photo Studio</string>
-  <string name="photos">Photos</string>
+  <string name="photos">" photos"</string>
+  <string name="pick_from_contact">Choose from contacts</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="pick_too_much_tips">%d items at most.</string>
   <string name="picker_no_album_selected">No albums selected</string>
@@ -913,7 +924,7 @@ device"</string>
   <string name="select_auto_upload_albums">Choose albums to sync</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select items</string>
-  <string name="select_item_face">Select photos belong to %1</string>
+  <string name="select_item_face">Photos of %1</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
@@ -1020,7 +1031,7 @@ device"</string>
   <string name="user_alias_self">Self</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
-  <string name="videos">Videos</string>
+  <string name="videos">" videos"</string>
   <string name="view_face_album">View album</string>
   <string name="view_sharers">View sharers</string>
   <string name="vignette">Vignette</string>
@@ -1034,7 +1045,7 @@ device"</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="white_balance">White balance</string>
-  <string name="who_is_this">Who is this?</string>
+  <string name="who_is_this">"Who's in this photo?"</string>
   <string name="widget_type">Choose images</string>
   <string name="widget_type_album">Choose an album</string>
   <string name="widget_type_photo">Choose an image</string>
