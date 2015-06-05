@@ -105,6 +105,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="header_other_settings">Additional settings</string>
   <string name="i_know">OK</string>
+  <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
   <string name="loading_hint">Loading</string>
