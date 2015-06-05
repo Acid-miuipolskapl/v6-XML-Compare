@@ -73,7 +73,7 @@
         <item quantity="one">%1$d item</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s new faces may also belong to %2$s >></item>
-        <item quantity="one">%1$s new face may also belong to %2$s >></item>
+        <item quantity="other">%1$s photos of %2$s</item>
+        <item quantity="one">%1$s photo of %2$s</item>
     </plurals>
 </resources>

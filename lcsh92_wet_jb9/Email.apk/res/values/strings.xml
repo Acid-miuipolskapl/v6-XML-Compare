@@ -147,7 +147,7 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Account setup</string>
   <string name="account_setup_incoming_username_label">Username</string>
-  <string name="account_setup_incoming_username_label_default_hint">Contain domain</string>
+  <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
   <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
   <string name="account_setup_names_headline">Your account is set up and email is on its way!</string>
   <string name="account_setup_names_title">Account setup</string>
@@ -671,9 +671,9 @@ CC: %4$s
   <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
   <string name="mibill_privacy_policy_button1">"Don't agree"</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
-  <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off automatically for work-related email addresses.</string>
-  <string name="mibill_privacy_policy_link">Please read &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;.</string>
-  <string name="mibill_privacy_policy_title">Agree to Manage bills automatically</string>
+  <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
+  <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_title">Manage bills automatically</string>
   <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_remaining">%1$d more remaining</string>
   <string name="more_atts_total">%1$d attachments</string>
@@ -713,8 +713,8 @@ CC: %4$s
   <string name="notification_action_undo_delete">Deleted</string>
   <string name="notification_action_undo_remove_label">Label Removed</string>
   <string name="notification_exchange_calendar_added">Exchange calendar added</string>
-  <string name="oauth_error_description">Unable to authenticate</string>
-  <string name="oauth_gmail_login_notify">"According to Google's requirements, you should type your password on the Google authorization page"</string>
+  <string name="oauth_error_description">"Couldn't authenticate"</string>
+  <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
   <string name="oauth_login_continue">Continue</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
@@ -1028,13 +1028,12 @@ CC: %4$s
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">"Couldn't upload logs"</string>
+  <string name="upload_log_failed">"Couldn't sent logs"</string>
   <string name="upload_log_no">Cancel</string>
-  <string name="upload_log_success">Logs uploaded successfully</string>
-  <string name="upload_log_title">Confirm Upload</string>
-  <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+  <string name="upload_log_success">Logs sent successfully</string>
+  <string name="upload_log_title">Send log to Xiaomi</string>
   <string name="upload_log_yes">Upload</string>
-  <string name="uploading_logs">Uploading logs…</string>
+  <string name="uploading_logs">Just a sec…</string>
   <string name="validation_failed_prompt">"Can't verify account, check %s server settings"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -1060,6 +1059,6 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
-  <string name="you_are_in_mobile_network">You are using mobile network, continue to upload the log file (size nKB)?</string>
+  <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>
