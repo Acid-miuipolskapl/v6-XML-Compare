@@ -4,7 +4,7 @@
     <string name="language">sr</string>
     <string name="desc_date_format">dd.MM. EEEE</string>
     <string name="desc_time">'време' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', додирните двапут за приказ сата'</string>
-    <string name="weather_type_0">Ведро</string>
+    <string name="weather_type_0">Ведро - Roaming Electronics</string>
     <string name="weather_type_1">Облачно</string>
     <string name="weather_type_2">Магловито</string>
     <string name="weather_type_3">Магла</string>

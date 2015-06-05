@@ -79,6 +79,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui">miui</string>
   <string name="paste">Paste</string>
+  <string name="perm_send_push_dspt">Allow Mi push messages</string>
+  <string name="perm_send_push_lab">Send push message</string>
   <string name="reboot_confirm_title">Your phone will reboot.</string>
   <string name="reboot_progress">Rebooting…</string>
   <string name="replace">Replace</string>
