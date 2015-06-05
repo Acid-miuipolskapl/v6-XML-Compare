@@ -1768,7 +1768,7 @@ Select your operating system:"</string>
   <string name="music_headset_mode_settings">Headphone remote buttons</string>
   <string name="music_headset_mode_volume">Control volume level</string>
   <string name="music_headset_no_contected">No headphones detected</string>
-  <string name="music_headset_settings">Headphones and audio effects</string>
+  <string name="music_headset_settings">Headphones &amp; audio effects</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
@@ -1851,7 +1851,7 @@ Select your operating system:"</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Reboot phone?</string>
   <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">Your device will reboot to enter Lite mode.</string>
+  <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot to enter Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
