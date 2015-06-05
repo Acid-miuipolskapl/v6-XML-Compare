@@ -168,7 +168,7 @@
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
-  <string name="pref_camera_hdr_entry_normal">Enhanced</string>
+  <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Off</string>
   <string name="pref_camera_hdr_entryvalue_auto">auto</string>
   <string name="pref_camera_hdr_entryvalue_live">live</string>
@@ -357,6 +357,7 @@
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
+  <string name="pref_hm_front_video_quality_default">110</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>
@@ -439,7 +440,6 @@
   <string name="toast_burst_snap_finished_end">photos</string>
   <string name="toast_burst_snap_finished_start">Burst shot</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">"Can't view pictures while device is locked"</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
   <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>

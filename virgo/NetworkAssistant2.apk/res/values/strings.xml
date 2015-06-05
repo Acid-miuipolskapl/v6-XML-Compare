@@ -25,7 +25,6 @@
   <string name="btn_start_diagnostic">Test network</string>
   <string name="btn_stop_diagnostic">Stop</string>
   <string name="cancel_button">Cancel</string>
-  <string name="captive_portal_exception_title">Connect to public network</string>
   <string name="chat_number">10 hours</string>
   <string name="chat_uint">" hours"</string>
   <string name="check_network_state">Test network</string>
@@ -191,11 +190,16 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Internationally roaming</string>
+  <string name="miuishare_title_more">More</string>
+  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Touch to view details.</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Tap to view details.</string>
   <string name="network_blocked_switch_wifi">Switch networks</string>
+  <string name="network_connected_exception_title">Test network</string>
   <string name="network_control">View app settings</string>
   <string name="network_diagnostics">Test network</string>
   <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
@@ -205,6 +209,7 @@ Peak: %1$s%2$s | %3$s used"</string>
  2. If you just topped up your device's balance, reboot your device and try again.
 
  3. Your carrier's network's signal may be weak in your current location."</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
   <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
@@ -231,6 +236,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
  2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
 
  3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+  <string name="networkchanged_exception_title">Connection changed</string>
+  <string name="no_network_btn">Try again</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notify_daily_data_usage_body">%s used today. Tap to set limit.</string>
   <string name="notify_daily_limit_body">%s used today. Tap to set limit.</string>
@@ -255,6 +263,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="other_exception_title">Checking for other issues</string>
   <string name="pay_charge">Purchase additional data</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
+  <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
+  <string name="permission_exception_title">View network permissions</string>
   <string name="permit_running_network">Allow background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">Set data usage limit</string>

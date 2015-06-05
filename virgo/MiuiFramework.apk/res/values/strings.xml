@@ -82,8 +82,6 @@
   <string name="no_notification_tips">No notifications.</string>
   <string name="partys_day">建党节</string>
   <string name="peace_day">和平紀念</string>
-  <string name="perm_send_push_dspt">Allow Mi push messages</string>
-  <string name="perm_send_push_lab">Send push message</string>
   <string name="presentation_payphone">Payphone</string>
   <string name="presentation_private">Private number</string>
   <string name="presentation_unknown">Unknown number</string>

@@ -761,6 +761,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_select_all">Select all</string>
   <string name="video_activity_name">Video Collections</string>
+  <string name="video_buffering_percent_string">Buffering</string>
   <string name="video_collect_cancel">Cancel Collect</string>
   <string name="video_collect_success">Video Collect Success</string>
   <string name="video_download_downloaded">Downloaded</string>
