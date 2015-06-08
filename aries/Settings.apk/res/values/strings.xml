@@ -2601,8 +2601,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_carrier_summary">Only display on lock screen</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Show floating notifications</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
+  <string name="status_bar_settings_show_keyguard_notification">Floating notifications and lock screen</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary"/>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>

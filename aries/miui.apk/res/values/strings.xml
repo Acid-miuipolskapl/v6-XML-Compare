@@ -469,7 +469,7 @@ go to %s"</string>
   <string name="organization">Organization</string>
   <string name="perm_payment_dspt">Allow app to pay through Mi Pay Service</string>
   <string name="perm_payment_lab">Mi Pay</string>
-  <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. This may result in unexpected charges from your carrier.</string>
+  <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. Your carrier may charge you for these messages.</string>
   <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
   <string name="phone">Phone</string>
   <string name="pm">PM</string>
@@ -579,7 +579,7 @@ go to %s"</string>
   <string name="user_agreement">Terms of Service</string>
   <string name="user_manual">User guide</string>
   <string name="web_sso_login_fail">You need to sign in again</string>
-  <string name="web_sso_login_message">Logging in…</string>
+  <string name="web_sso_login_message">Signing in…</string>
   <string name="website">Website</string>
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
