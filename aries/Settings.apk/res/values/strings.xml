@@ -48,8 +48,8 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
-"&lt;li&gt;&lt;ul&gt;"Pan: Drag two or more fingers across the screen.
-"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;ul&gt;&lt;li&gt;"Pan: Drag two or more fingers across the screen.
+"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
 You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
 

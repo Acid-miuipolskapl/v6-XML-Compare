@@ -152,8 +152,8 @@
         <item>@string/description_target_decline</item>
     </string-array>
     <array name="incoming_call_widget_6way_ims_direction_descriptions">
-        <item>@android:string/APKTOOL_DUMMY_06b9</item>
-        <item>@android:string/APKTOOL_DUMMY_06b8</item>
+        <item>@null</item>
+        <item>@null</item>
     </array>
     <array name="sim_icons">
         <item>@drawable/ic_sim_icon_1</item>
