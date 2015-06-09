@@ -1936,6 +1936,7 @@ Select your operating system:"</string>
   <string name="power_autorun_empty">Empty</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
+  <string name="power_center">Power</string>
   <string name="power_charge_remaining">%1$s to charge</string>
   <string name="power_charging">%1$d%% - %2$s</string>
   <string name="power_charging_duration">%1$d%% - %2$s until full</string>

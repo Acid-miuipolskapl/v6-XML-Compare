@@ -121,6 +121,7 @@ For more info check the message you received from your carrier"</string>
   <string name="free_time_traffic_title">Enter off-peak data limit</string>
   <string name="free_traffic_settings">Off-peak data usage settings</string>
   <string name="gateway_exception_summary">Check your router and try again.</string>
+  <string name="gateway_exception_summary2">"Can't connect to the server"</string>
   <string name="gateway_exception_title">Test router</string>
   <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
   <string name="hints_install_apps_new">Never used</string>
@@ -323,6 +324,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_title_declaration">Important disclaimer</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
