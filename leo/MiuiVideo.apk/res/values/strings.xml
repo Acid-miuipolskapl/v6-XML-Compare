@@ -46,6 +46,7 @@
   <string name="cancel">Cancel</string>
   <string name="cancel_favorite_success">Unstarred</string>
   <string name="check_app_version">Checking for updates…</string>
+  <string name="check_network">Network is not connected, please check your connection</string>
   <string name="clarity_high">High</string>
   <string name="clarity_standard">Standard</string>
   <string name="clarity_supper">Super</string>
@@ -87,6 +88,7 @@
 3. Our HD Vvideo plug-in will be installed automatically.
 4. This application needs to connect to the internet to work normally."</string>
   <string name="declaration_content_td_custom">This application needs to connect to the internet to work normally.</string>
+  <string name="defaults">Default</string>
   <string name="delete">Delete</string>
   <string name="delete_action_text">Delete (%d)</string>
   <string name="delete_addon">Delete</string>
@@ -133,6 +135,10 @@
   <string name="file_error">File error</string>
   <string name="file_not_exist">The file does not exist</string>
   <string name="filter">Filter</string>
+  <string name="forecast">Forecast</string>
+  <string name="forecast_empty_hint">No Epg</string>
+  <string name="forecasts">EPG</string>
+  <string name="fullscreen">Full Screen</string>
   <string name="funshion">Funshion</string>
   <string name="gong_count_dlna">%d DLNA</string>
   <string name="gong_count_ge">%d total</string>
@@ -153,6 +159,7 @@
   <string name="introduce">Summary</string>
   <string name="join_alert_title">Join beta test</string>
   <string name="join_hint">Enter invite code</string>
+  <string name="key_back_down_toast">Press back key again to exit</string>
   <string name="lastrefresh">Last update</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -269,6 +276,9 @@
   <string name="select_all">Select all</string>
   <string name="select_count_xiang">%d selected</string>
   <string name="select_none">Unselect all</string>
+  <string name="select_tv">Channels</string>
+  <string name="select_tv_empty_hint">No Channel</string>
+  <string name="select_tvs">Channels</string>
   <string name="send">Submit</string>
   <string name="server_summary">Choose server</string>
   <string name="server_switch">Server</string>
@@ -303,6 +313,7 @@
   <string name="top_status_online_media">Online</string>
   <string name="total_episode">%1$s Episodes</string>
   <string name="tudou">Tudou</string>
+  <string name="tv_channel_empty_hint">No Channel</string>
   <string name="ui_style">App layout</string>
   <string name="ui_style_summary">Choose content layout style</string>
   <string name="unfavorite">Unstar</string>
