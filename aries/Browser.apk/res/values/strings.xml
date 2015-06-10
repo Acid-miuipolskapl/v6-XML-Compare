@@ -22,7 +22,7 @@
   <string name="action_menu_text_bookmark">Add bookmark</string>
   <string name="action_menu_text_exit">Exit</string>
   <string name="action_menu_text_fullscreen">Full screen</string>
-  <string name="action_menu_text_history">Bookmarks History</string>
+  <string name="action_menu_text_history">Bookmarks &amp; History</string>
   <string name="action_menu_text_nightmode">Night mode</string>
   <string name="action_menu_text_nightmode_off">Night mode</string>
   <string name="action_menu_text_nightmode_on">Night mode</string>
@@ -370,7 +370,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_search_notification_title">Search</string>
   <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
-  <string name="miuichromium_error_page_reason_network">View link URL</string>
+  <string name="miuichromium_error_page_reason_network">"Can't connect to network"</string>
   <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
   <string name="miuichromium_error_page_reload">Reload</string>
   <string name="miuichromium_error_page_title">"Can't find this page"</string>
@@ -815,7 +815,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="webapp_webapp_favortes_title">Favorites</string>
   <string name="webpage_bookmark_title">Bookmark</string>
   <string name="webpage_history_title">History</string>
-  <string name="webpage_title">Bookmarks and History</string>
+  <string name="webpage_title">Bookmarks &amp; History</string>
   <string name="website_settings_clear_all">Clear all</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Cancel</string>
   <string name="website_settings_clear_all_dialog_message">Delete all website data and location permissions?</string>
