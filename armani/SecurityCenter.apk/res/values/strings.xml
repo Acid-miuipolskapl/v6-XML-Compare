@@ -418,7 +418,7 @@
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">End</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Switch to</string>
+  <string name="power_save_on_time_goout_title">After this period switch back to</string>
   <string name="power_save_on_time_option_recovery_title">When this period ends, switch to</string>
   <string name="power_save_on_time_option_summary">At the end of this period device will switch back to most recently used profile</string>
   <string name="power_save_on_time_option_title">During this period switch to</string>

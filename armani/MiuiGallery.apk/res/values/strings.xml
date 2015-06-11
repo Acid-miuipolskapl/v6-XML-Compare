@@ -499,7 +499,7 @@ with friends"</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_tab_albums">Albums</string>
   <string name="cloud_tab_all">All</string>
-  <string name="cloudfolder_already_exists">A album with the same name already exists</string>
+  <string name="cloudfolder_already_exists">An album with the same name already exists</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">"Couldn't load data. Wait a minute or two and try again."</string>
