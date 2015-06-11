@@ -319,7 +319,7 @@ To activate your account, follow the
   <string name="restart_action">Restart</string>
   <string name="restart_email_bind_message">An email with a verification code will be sent to this address.</string>
   <string name="restart_email_bind_title">Change recovery email</string>
-  <string name="restart_phone_bind_message">A text message with with a verification code will be sent to this number.</string>
+  <string name="restart_phone_bind_message">A text message with a verification code will be sent to this number.</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
   <string name="service_error">Service error</string>
