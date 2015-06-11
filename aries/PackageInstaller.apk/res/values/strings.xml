@@ -2,6 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
   <string name="Parse_error_dlg_title">Parse error</string>
+  <string name="activity_package_delete_confirm_title">Important Warning</string>
   <string name="allow_source_dlg_text">"%1$s wants to install other apps.
 
 Allow this now and in the future?"</string>
@@ -10,6 +11,11 @@ Allow this now and in the future?"</string>
   <string name="app_not_found_dlg_text">The app was not found in the list of installed apps.</string>
   <string name="app_not_found_dlg_title">App not found</string>
   <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
+  <string name="button_text_cancel">Cancel</string>
+  <string name="button_text_delete">Delete</string>
+  <string name="button_text_delete_timer">Delete (%d)</string>
+  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step_timer">Next (%d)</string>
   <string name="caller_app">Permission request from %1$s</string>
   <string name="cancel">Cancel</string>
   <string name="dlg_app_replacement_statement">"The app you're installing will replace another app.
@@ -48,6 +54,9 @@ All existing user data will be saved."</string>
   <string name="other_relative">Other</string>
   <string name="out_of_space_dlg_text">"There's not enough storage space on your device to install %1$s."</string>
   <string name="out_of_space_dlg_title">Not enough space</string>
+  <string name="package_delete_confirm_step_1">Delete %s?</string>
+  <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+  <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
   <string name="perm_action_accept">Allow</string>
   <string name="perm_action_prompt">Ask</string>
   <string name="perm_action_reject">Deny</string>
