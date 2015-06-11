@@ -293,15 +293,6 @@
         <item>@drawable/action_bar_back_normal_light</item>
         <item>@drawable/action_bar_back_pressed_dark</item>
         <item>@drawable/action_bar_back_pressed_light</item>
-        <item>@drawable/action_bar_tab_bg_first_normal_light</item>
-        <item>@drawable/action_bar_tab_bg_first_pressed_light</item>
-        <item>@drawable/action_bar_tab_bg_first_selected_light</item>
-        <item>@drawable/action_bar_tab_bg_last_normal_light</item>
-        <item>@drawable/action_bar_tab_bg_last_pressed_light</item>
-        <item>@drawable/action_bar_tab_bg_last_selected_light</item>
-        <item>@drawable/action_bar_tab_bg_middle_normal_light</item>
-        <item>@drawable/action_bar_tab_bg_middle_pressed_light</item>
-        <item>@drawable/action_bar_tab_bg_middle_selected_light</item>
         <item>@drawable/action_button_bg_first_disable_dark</item>
         <item>@drawable/action_button_bg_first_disable_light</item>
         <item>@drawable/action_button_bg_first_normal_dark</item>
@@ -487,9 +478,6 @@
         <item>@drawable/seekbar_thumb_focused_dark</item>
         <item>@drawable/seekbar_thumb_normal_dark</item>
         <item>@drawable/seekbar_thumb_pressed_dark</item>
-        <item>@drawable/sliding_btn_bar_off_light</item>
-        <item>@drawable/sliding_btn_bar_on_light</item>
-        <item>@drawable/sliding_btn_bg_light</item>
         <item>@drawable/sliding_btn_frame_light</item>
         <item>@drawable/sliding_btn_mask_light</item>
         <item>@drawable/sliding_btn_slider_off_normal_light</item>
