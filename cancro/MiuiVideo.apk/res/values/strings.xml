@@ -41,6 +41,8 @@
   <string name="average_score">Average rating</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Picture Quality mode</string>
+  <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
   <string name="buffering">Buffering…</string>
   <string name="buffering_video_netplay_label_v5">Buffering…</string>
   <string name="cancel">Cancel</string>
