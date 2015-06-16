@@ -46,6 +46,13 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
   <string name="search_widget">Search</string>
+  <string name="searchable_lable_app">app</string>
+  <string name="searchable_lable_browser">browser</string>
+  <string name="searchable_lable_duokan">duokan</string>
+  <string name="searchable_lable_music">music</string>
+  <string name="searchable_lable_o2o">o2o</string>
+  <string name="searchable_lable_video">video</string>
+  <string name="searchable_sources">Online searchable sources</string>
   <string name="send_secret_code">Send secret code</string>
   <string name="system_search_category_title">Phone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
