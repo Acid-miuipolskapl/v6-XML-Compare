@@ -194,9 +194,13 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
   <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="micloud_space_applist_detail">Manage your home screen space using the phone app.</string>
+  <string name="micloud_space_applist_title">Home screen Back up Space</string>
   <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
+  <string name="micloud_space_soundrecorder_detail">Manage your sound recorder content using the phone app.</string>
+  <string name="micloud_space_soundrecorder_title">SoundRecorder Space</string>
   <string name="micloud_storage">Storage</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
