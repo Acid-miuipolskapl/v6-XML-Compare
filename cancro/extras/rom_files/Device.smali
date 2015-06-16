@@ -337,6 +337,10 @@
     .locals 1
 
     .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_CM_TEST:Z
+
+    if-nez v0, :cond_1
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3W:Z
 
     if-nez v0, :cond_0
