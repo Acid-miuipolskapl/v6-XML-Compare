@@ -34,6 +34,7 @@
   <string name="SMS_SERVICE">Service blocklist</string>
   <string name="SMSpass">Allow messages</string>
   <string name="STRANGER_BLOCK">Stranger blocklist</string>
+  <string name="action_source_sms_title">Blocked SMS</string>
   <string name="ad_block_hint">%d blocked</string>
   <string name="ad_install_monitor">Inspect apps for adware</string>
   <string name="ad_install_monitor_hint">Check for adware when installing apps</string>

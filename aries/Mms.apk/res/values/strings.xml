@@ -171,8 +171,9 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
   <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
-  <string name="found_wild_messages">Messages from the numbers below have been stored in your Mi Cloud. %sDownload them now?</string>
-  <string name="found_wild_messages_title">Download messages</string>
+  <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Could in Messaging Settings.</string>
+  <string name="found_wild_messages_title">Sync SMS messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
@@ -328,6 +329,7 @@
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
+  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
@@ -409,6 +411,7 @@
   <string name="remove_video">Remove video</string>
   <string name="replace">Replace</string>
   <string name="replace_image">Replace picture</string>
+  <string name="reply_button_msg">Reply</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
   <string name="resource_price_free">Free</string>
@@ -526,6 +529,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Group carrier messages</string>
   <string name="title_date_type">Timestamp</string>
+  <string name="title_show_blocked_messages">show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="to_address_label">"To: "</string>
