@@ -477,6 +477,7 @@
   <string name="receive_file">Receive file</string>
   <string name="receiver_version_error">The version of CM Transfer on the receiving phone is out of date. &lt;br&gt;&lt;font color=#909090 &gt;Would you like to update it now?&lt;/font&gt;</string>
   <string name="receiver_version_error_result">&lt;font color=#909090 &gt;%d files have not been sent because &lt;/font&gt;the version of CM Transfer on the receiving phone is out of date&lt;font color=#909090 &gt;. Please update it to send files again.&lt;/font&gt;</string>
+  <string name="recent_recv_path">Path:/</string>
   <string name="recv_action_accept">Yes</string>
   <string name="recv_action_deny">No</string>
   <string name="recv_history_file_btn_delele">Delete (%1$d)</string>
