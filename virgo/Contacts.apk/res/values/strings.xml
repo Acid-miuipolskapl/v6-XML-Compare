@@ -99,9 +99,9 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Delete batch</string>
-  <string name="callrecordview_menu_delete">Delete call history</string>
+  <string name="callrecordview_menu_delete">Delete</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
-  <string name="callrecordview_menu_delete_all">Delete call history</string>
+  <string name="callrecordview_menu_delete_all">Delete</string>
   <string name="callrecordview_menu_delete_called">Clear outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Clear missed calls</string>
@@ -117,7 +117,7 @@
   <string name="callrecordview_menu_show_all">All calls</string>
   <string name="callrecordview_menu_show_called">Outgoing calls</string>
   <string name="callrecordview_menu_show_missed">Missed calls</string>
-  <string name="callrecordview_menu_show_new">New Contacts</string>
+  <string name="callrecordview_menu_show_new">New contacts</string>
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
@@ -150,6 +150,7 @@
   <string name="close_dial_pad">Close dial pad</string>
   <string name="cloud_antispam_mark">Report</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
+  <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
@@ -166,7 +167,7 @@
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
-  <string name="contactDetailAbout">About</string>
+  <string name="contactDetailAbout">Contact info</string>
   <string name="contactDetailCalllog">Call history</string>
   <string name="contactDetailUpdates">Updates</string>
   <string name="contactMultiPickerActivityTitle">Select contacts</string>
@@ -178,9 +179,9 @@
   <string name="contact_detail_calllog_call_record_tips">Record call</string>
   <string name="contact_directory_description">Directory %1$s</string>
   <string name="contact_edit_title_edit">Edit contact</string>
-  <string name="contact_edit_title_insert">Add %s contacts</string>
+  <string name="contact_edit_title_insert">Save to %s</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
-  <string name="contact_editor_prompt_multiple_accounts">Select contact account to save to</string>
+  <string name="contact_editor_prompt_multiple_accounts">Save contact to</string>
   <string name="contact_editor_prompt_one_account">The new contact will be %1$s Sync</string>
   <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
   <string name="contact_is_readOnly">"Can't edit read-only contacts"</string>
@@ -484,9 +485,9 @@ Reason: \"%s\""</string>
   <string name="list_filter_single">Contact</string>
   <string name="loading">Loading…</string>
   <string name="loading_accounts">Just a sec…</string>
-  <string name="loading_group_members">Loading group members…</string>
-  <string name="loading_groups">Loading groups…</string>
-  <string name="loading_recent">Loading recent contacts…</string>
+  <string name="loading_group_members">Just a sec…</string>
+  <string name="loading_groups">Just a sec…</string>
+  <string name="loading_recent">Just a sec…</string>
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
   <string name="loading_resource_detail_info">Loading…</string>
   <string name="local_invisible_directory">Other</string>
