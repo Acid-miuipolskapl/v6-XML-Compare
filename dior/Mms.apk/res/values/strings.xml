@@ -171,8 +171,9 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
   <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
-  <string name="found_wild_messages">Messages from the numbers below have been stored in your Mi Cloud. %sDownload them now?</string>
-  <string name="found_wild_messages_title">Download messages</string>
+  <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
+  <string name="found_wild_messages_title">Sync SMS messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
@@ -198,7 +199,7 @@
   <string name="left_cancel">Swipe left to cancel</string>
   <string name="loading_all_messages">Loading messages…</string>
   <string name="loading_conversations">Loading conversations…</string>
-  <string name="loading_mms">Loading…</string>
+  <string name="loading_mms">Just a sec…</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="me">Me</string>
   <string name="menu_add_black">Block this number</string>
@@ -328,6 +329,7 @@
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
+  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
@@ -344,7 +346,7 @@
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
-  <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
+  <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new text</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new text is received</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other into the same thread</string>
@@ -409,6 +411,7 @@
   <string name="remove_video">Remove video</string>
   <string name="replace">Replace</string>
   <string name="replace_image">Replace picture</string>
+  <string name="reply_button_msg">Reply</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
   <string name="resource_price_free">Free</string>
@@ -526,6 +529,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Group carrier messages</string>
   <string name="title_date_type">Timestamp</string>
+  <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="to_address_label">"To: "</string>
@@ -558,7 +562,7 @@ Attempt made: %s."</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-  <string name="user_agreement2">User Agreement</string>
+  <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By touching OK, you agree to our Terms of Service and Privacy Policy.</string>
