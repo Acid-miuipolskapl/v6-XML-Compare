@@ -364,9 +364,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
   <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
-  <string name="roaming_not_start_body">Apps on whitelist will be able to use mobile data when roaming internationally.</string>
+  <string name="roaming_not_start_body">Touch to view data roaming settings.</string>
   <string name="roaming_not_start_title">International roaming</string>
-  <string name="roaming_start_body">Apps are using mobile data.</string>
+  <string name="roaming_start_body">Touch to view data roaming whitelist.</string>
   <string name="roaming_start_title">International roaming</string>
   <string name="root">Root Access</string>
   <string name="sc_allow_network_dialog_message">This app needs to connect to the internet to work normally.</string>
