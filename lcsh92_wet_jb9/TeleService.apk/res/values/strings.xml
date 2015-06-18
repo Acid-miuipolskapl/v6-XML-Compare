@@ -893,6 +893,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
   <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
   <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
+  <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
   <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
   <string name="respond_via_sms_edittext_dialog_title">Quick response</string>

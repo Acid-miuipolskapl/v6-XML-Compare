@@ -41,6 +41,8 @@
   <string name="average_score">Average rating</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Picture Quality mode</string>
+  <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
   <string name="buffering">Buffering…</string>
   <string name="buffering_video_netplay_label_v5">Buffering…</string>
   <string name="cancel">Cancel</string>
@@ -126,6 +128,7 @@
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">An error occurred</string>
   <string name="empty_keyword_hint">Enter your search in the box above</string>
+  <string name="empty_tv_exiting">Exiting ...</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
