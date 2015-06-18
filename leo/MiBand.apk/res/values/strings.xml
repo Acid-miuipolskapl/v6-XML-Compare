@@ -57,6 +57,8 @@ by %1$s"</string>
   <string name="alarm_ring">ALARM</string>
   <string name="alarm_setting">Settings</string>
   <string name="alarm_tips">"Band will stop vibrating automatically when it detects you've gotten out of bed. Tap the band's sensor anytime to stop alarm manually. "</string>
+  <string name="alert_body_unable_start_camera">请检查是否已关闭相机权限，如是请开启相机权限。否则请重启手机。</string>
+  <string name="alert_title_unable_start_camera">无法启动相机</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mm a</string>
   <string name="ampm_format_hhmmss">hh:mm:ss a</string>
@@ -69,7 +71,9 @@ Terms of Service: %2$s"</string>
   <string name="awake_format">, woke up %1$s times.</string>
   <string name="awake_format_1">, woke up once.</string>
   <string name="baby_boy_weight_model">Average boy weight (kg)</string>
+  <string name="baby_boy_weight_model_new">Boy (under 7 years old) (%1$s)</string>
   <string name="baby_girl_weight_model">Average girl weight (kg)</string>
+  <string name="baby_girl_weight_model_new">Girl (under 7 years old) (%1$s)</string>
   <string name="baby_no_weight">No weigh-in history</string>
   <string name="baby_weight">Infant</string>
   <string name="baby_weight_adult_weight_content">After the scale stabilizes, weigh yourself holding the infant</string>
@@ -88,10 +92,11 @@ The method above can only be used to determine if the weight of a child is norma
   <string name="baby_weight_equal">Same as last weigh-in</string>
   <string name="baby_weight_help">Help</string>
   <string name="baby_weight_help_title">Judging child height - Standard deviations</string>
+  <string name="baby_weight_help_title_new">Weighing your infant</string>
   <string name="baby_weight_less">Heavier than last weigh-in (%1$s)</string>
   <string name="baby_weight_more">Lighter than last weigh-in (%1$s)</string>
   <string name="baby_weight_notify_content">Tap to view more.</string>
-  <string name="baby_weight_notify_title">Weigh your infant using scale</string>
+  <string name="baby_weight_notify_title">Weigh your infant using Mi Scale</string>
   <string name="baby_weight_ref">"People's Republic of China Children Under 7 Growth Standards"</string>
   <string name="baby_weight_report_monthyear_templates0">%2$s months - %1$s</string>
   <string name="baby_weight_report_monthyear_templates1">%1$s months</string>
@@ -197,6 +202,7 @@ Touch to add a new user to the scale."</string>
   <string name="chart_info_step">Activity</string>
   <string name="chart_info_step_average">Avg. Activity</string>
   <string name="chart_info_step_piece">Current Activity</string>
+  <string name="chart_info_step_run_shoes">跑鞋</string>
   <string name="chart_info_step_running">Run</string>
   <string name="chart_info_step_running_average">Avg. Run</string>
   <string name="chart_info_step_running_piece">Current Run</string>
@@ -285,6 +291,7 @@ Saved %2$s gallons of gas."</string>
   <string name="device_not_found">Device not found</string>
   <string name="device_not_found_not_knocked">"Can't find band. To pair, tap the metal part of the band when it flashes."</string>
   <string name="device_not_response">"Lights aren't flashing?"</string>
+  <string name="dialog_confirm">我知道了</string>
   <string name="disable_debug_log">Debug mode is off</string>
   <string name="discard">Discard</string>
   <string name="discard_alarm_change">Discard changes?</string>
@@ -313,7 +320,7 @@ You reached your goal."</string>
   <string name="dynamic_pull_pull_to_sync">Pull to sync band</string>
   <string name="dynamic_pull_release_to_sync">Release to sync band</string>
   <string name="dynamic_pull_sync_after_connected">Getting info from your band</string>
-  <string name="dynamic_pull_sync_error">Band sync failed, pull to retry</string>
+  <string name="dynamic_pull_sync_error">"Couldn't sync band"</string>
   <string name="dynamic_pull_syncing">Getting band data…</string>
   <string name="dynamic_pull_syncing_progress">Syncing (%s%%)</string>
   <string name="dynamic_sleep_active">Awake</string>
@@ -332,12 +339,12 @@ wake up"</string>
   <string name="dynamic_tip_sync_progress">Syncing %d%%</string>
   <string name="dynamic_tip_sync_time">Last sync: %s</string>
   <string name="dynamic_tip_unweared">No data</string>
-  <string name="dynamic_title_bracelet_unbind">Mi Band Unpaired</string>
+  <string name="dynamic_title_bracelet_unbind">Band not paired</string>
   <string name="dynamic_title_sleep">Last night</string>
   <string name="dynamic_title_step">Today</string>
   <string name="dynamic_title_weight">Weight</string>
   <string name="dynamic_title_weight_not_nearby">"Can't find scale"</string>
-  <string name="dynamic_title_weight_unbind">Unpaired Scale</string>
+  <string name="dynamic_title_weight_unbind">Weight</string>
   <string name="enable_debug_log">Debug mode is on</string>
   <string name="equal_last_time">Same as last weigh-in</string>
   <string name="equals_fat">%1$s grams of fat.</string>
@@ -351,7 +358,7 @@ wake up"</string>
   <string name="exit_login">Sign out</string>
   <string name="exit_login_1">Sign out of your Mi Account?</string>
   <string name="failed_enable_bt">Turn on Bluetooth now.</string>
-  <string name="family_member">Family</string>
+  <string name="family_member">User</string>
   <string name="family_member_info">Family info</string>
   <string name="feedback">Feedback</string>
   <string name="feedback_empty">Enter your feedback in the box above.</string>
@@ -372,6 +379,7 @@ wake up"</string>
   <string name="first_use_remain_days_format">Started %s days ago</string>
   <string name="found_bracelet_info">"When the band's lights start flashing, tap the metal sensor to pair."</string>
   <string name="found_weight_scale_title">Confirm to pair if two numbers are the same.</string>
+  <string name="friend_list_get_error">获取好友列表失败</string>
   <string name="friend_new_user_guide">After you friend this person, their band will vibrate to notify them.</string>
   <string name="friend_new_user_guide_ok">OK</string>
   <string name="friend_new_user_guide_ok_toast">Friend added</string>
@@ -398,6 +406,8 @@ wake up"</string>
   <string name="fw_upgrade_succ">Waiting…</string>
   <string name="fw_upgrade_tips">Keep your band close to your device while updating</string>
   <string name="gen_qr_code">Generate</string>
+  <string name="generate_baby_weight_content">"Infant's weight: %1$s
+Use Mi Scale to record your infant's weight"</string>
   <string name="generate_user_succ">User created</string>
   <string name="get_help">Need help</string>
   <string name="get_image_file_fail">"Can't find image"</string>
@@ -417,6 +427,7 @@ wake up"</string>
   <string name="health_goal_tips">Pair Mi Band first.</string>
   <string name="health_link">HealthLink</string>
   <string name="health_provider_desc">Personal health and fitness services.</string>
+  <string name="heartrate_version">HeartRate version</string>
   <string name="heavier_than_goal">%1$s heavier than goal</string>
   <string name="height_less_than_100">"Can't measure babies less than 100cm tall"</string>
   <string name="hello_world">Hello world!</string>
@@ -438,6 +449,7 @@ wake up"</string>
   <string name="host_change_success">切换主机地址成功</string>
   <string name="hot_des">Energy</string>
   <string name="hour_1">" "</string>
+  <string name="hug_baby_weight">Weigh infant in arms</string>
   <string name="in"/>
   <string name="incoming_call_notify">Incoming calls</string>
   <string name="incoming_call_notify_closed">Incoming call notifications are off</string>
@@ -447,6 +459,9 @@ wake up"</string>
   <string name="incomingcall_info_1">Mi Fit must run in the background for this feature to work normally.</string>
   <string name="incomingcall_info_2">Make sure Mi Fit is able to stay open in the background.</string>
   <string name="incomingcall_info_3">Make sure Mi Fit has permission to show notifications.</string>
+  <string name="info_step_shoes_calorie_total">跑鞋消耗</string>
+  <string name="info_step_shoes_distance_total">跑鞋里程</string>
+  <string name="info_step_shoes_total">跑鞋步数</string>
   <string name="input_family_member_name">"Enter guest's name"</string>
   <string name="input_person_name">Enter name</string>
   <string name="input_precise_person_info">Create your profile</string>
@@ -840,6 +855,14 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_date_today">Today</string>
   <string name="running_date_yesterday">Yesterday</string>
   <string name="running_delete_track_item_confirm">"Records can't be restored."</string>
+  <string name="running_detail_cal_desc">Calorie</string>
+  <string name="running_detail_forefoot_desc">Forefoot</string>
+  <string name="running_detail_menu_share_title">Share</string>
+  <string name="running_detail_pace_desc">Min/Km</string>
+  <string name="running_detail_speed_desc">Km/H</string>
+  <string name="running_detail_step_frequency_desc">Step Freq.</string>
+  <string name="running_detail_time_cost_desc">Time Cost</string>
+  <string name="running_detail_title">Pace Detail</string>
   <string name="running_distance">Distance</string>
   <string name="running_distance_desc">Kilometers</string>
   <string name="running_distance_detail">%.2fkm</string>
@@ -850,11 +873,21 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_get_history_no_more_data">No more data</string>
   <string name="running_gps_cancel">Cancel</string>
   <string name="running_gps_locating">GPS locating…</string>
+  <string name="running_gps_main_continue_btn_text">Continue</string>
+  <string name="running_gps_main_finish_btn_text">Done</string>
+  <string name="running_gps_main_statistics_cost_time_disc">Spend Time</string>
+  <string name="running_gps_main_statistics_pace_freq">Pace Frequency(p/min)</string>
+  <string name="running_gps_main_statistics_speed_disc">Speed(min/km)</string>
+  <string name="running_gps_main_statistics_speed_disc_br">Speed(min/mile)</string>
   <string name="running_gps_poor_signal">Poor GPS signal. Make sure you have an unobstructed view of the sky.</string>
   <string name="running_gps_turnon">Turn on</string>
   <string name="running_helper">Route tracker</string>
   <string name="running_history">History</string>
+  <string name="running_history_child_date_format">%1$d</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
+  <string name="running_history_group_distance">%1$.2fkm</string>
+  <string name="running_history_group_distance_br">%1$.2fmile</string>
+  <string name="running_history_group_time_format">yyyy MM</string>
   <string name="running_history_no_data">No data</string>
   <string name="running_history_no_data_refresh">Tap to refresh</string>
   <string name="running_history_no_data_refreshing">Refreshing…</string>
@@ -862,17 +895,21 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_history_title">History</string>
   <string name="running_history_total_calorie">Heat(kilocalorie)</string>
   <string name="running_history_total_distance">Distance(km)</string>
+  <string name="running_history_total_distance_br">Distance(mile)</string>
   <string name="running_history_total_times">Total(times)</string>
   <string name="running_hour">%dh</string>
   <string name="running_hour_1">" "</string>
   <string name="running_hour_min" formatted="false">%dh %dm</string>
   <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
   <string name="running_hour_sec" formatted="false">%dh %ds</string>
+  <string name="running_kg">kg</string>
+  <string name="running_kilometer">km</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Title input</string>
   <string name="running_lable_km_slowest">Km slowest</string>
   <string name="running_lable_miles_fastest">Km fastest</string>
+  <string name="running_long_press_to_pause">Long Press To Pause</string>
   <string name="running_main_avoid_use_indoor">Avoid use indoor</string>
   <string name="running_main_back_button_in_dialog">Back</string>
   <string name="running_main_continue_button_in_dialog">Continue</string>
@@ -880,20 +917,26 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_main_gps_cannot_record">Your GPS may not available</string>
   <string name="running_main_gps_prefix">GPS:</string>
   <string name="running_main_mileage">%1$d/%2$dkm</string>
-  <string name="running_main_title">Sport</string>
+  <string name="running_main_mileage_one">%1$skm</string>
+  <string name="running_main_title">Running</string>
+  <string name="running_map_mode">Map</string>
   <string name="running_marathon_cost_time">Marathon time: %s</string>
+  <string name="running_mile">mile</string>
   <string name="running_min">%dm</string>
   <string name="running_min_sec" formatted="false">%dm %ds</string>
   <string name="running_name">Running</string>
   <string name="running_no_bracelet_tips">(only available when Mi Band connected)</string>
   <string name="running_no_gps">Use GPS to keep track of your route.</string>
   <string name="running_no_track_desc">Cancel run?</string>
+  <string name="running_normal_mode">Normal</string>
+  <string name="running_num_unknown">--</string>
   <string name="running_pace">Pace</string>
   <string name="running_pace_detail">%s/km</string>
   <string name="running_pace_lable">Pace</string>
   <string name="running_pause">Pause</string>
   <string name="running_per_kilometers">/km</string>
   <string name="running_percent_mark">%</string>
+  <string name="running_pound">pound</string>
   <string name="running_prepare_map">Preparing data for sharing…</string>
   <string name="running_prompt_come_on">Go!!</string>
   <string name="running_prompt_great">Great!!</string>
@@ -907,9 +950,9 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_set_pace_desc">Mi Band will vibrate if your pace is slower than</string>
   <string name="running_set_speed">Set speed</string>
   <string name="running_settings">Settings</string>
-  <string name="running_settings_speed">(%1$smin/km)</string>
+  <string name="running_settings_speed">(%1$s/km)</string>
+  <string name="running_settings_speed_br">(%1$s/mile)</string>
   <string name="running_share">Share</string>
-  <string name="running_share_img_failed_to_create">Failed to share, please check storage left.</string>
   <string name="running_share_to_mypace">My Pace</string>
   <string name="running_share_to_sport_trace">My sport trace</string>
   <string name="running_share_to_title">Mi Band</string>
@@ -917,8 +960,8 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_share_to_watermark">My watermark photo</string>
   <string name="running_short_track_desc">You only ran %d meters. Cancel your run now?</string>
   <string name="running_signal_none">Off</string>
-  <string name="running_signal_strong">Strong</string>
-  <string name="running_signal_weak">Weak</string>
+  <string name="running_signal_strong">Available</string>
+  <string name="running_signal_weak">Unavailable</string>
   <string name="running_slider_prompt">&gt;&gt;&gt;Slide right to unlock</string>
   <string name="running_speed">Speed</string>
   <string name="running_speed_detail">%.2fkm/h</string>
@@ -981,6 +1024,12 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="set_mili_name_fail">"Couldn't name band."</string>
   <string name="set_mili_name_ok">Name saved</string>
   <string name="set_person_goal">Set goal</string>
+  <string name="set_rssi_close">1m内</string>
+  <string name="set_rssi_distance">设置解锁距离</string>
+  <string name="set_rssi_failed">Rssi设置失败</string>
+  <string name="set_rssi_nearby">3m内</string>
+  <string name="set_rssi_success">Rssi设置成功</string>
+  <string name="set_rssi_very_close">靠近手机</string>
   <string name="set_sport_goal">Set goal</string>
   <string name="set_unit">Units</string>
   <string name="set_user_suc_tips">After you weigh-in, the scale we keep track of your history automatically.</string>
@@ -997,9 +1046,11 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="setting_daily_sleep_notify_info">Show sleep data after you wake up</string>
   <string name="setting_daily_sport_notify">Activity stats notification</string>
   <string name="setting_daily_sport_notify_info">Show daily activity stats notification at 9:30PM</string>
-  <string name="setting_feedback_address">Contact info</string>
-  <string name="setting_feedback_hint">We love feedback.</string>
+  <string name="setting_feedback_address">Enter your email address</string>
+  <string name="setting_feedback_hint">We love feedback!</string>
   <string name="setting_feedback_send">Send</string>
+  <string name="setting_realtime_hr">实时心率</string>
+  <string name="setting_realtime_hr_info">用于心率手环测试实时心率，很耗电</string>
   <string name="share">Share</string>
   <string name="share_blog_cancel">Cancel</string>
   <string name="share_blog_message_hint">Write your message here</string>
@@ -1074,12 +1125,52 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="share_uninstall_client">"This app isn't installed."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weixin_label">WeChat</string>
+  <string name="shoes_bind">Bind</string>
+  <string name="shoes_bind_change_ok">replace</string>
+  <string name="shoes_bind_change_text" formatted="false">You have bonded %s, are you sure to bond %s?</string>
+  <string name="shoes_bind_failed">bind failed</string>
+  <string name="shoes_bind_first">please bind first</string>
+  <string name="shoes_bind_prompt">Put in the ...</string>
+  <string name="shoes_bind_success">bind success</string>
+  <string name="shoes_bind_title">Bind Shoes</string>
+  <string name="shoes_binded">Binded</string>
+  <string name="shoes_binding">Binding...</string>
+  <string name="shoes_buy">Buy</string>
+  <string name="shoes_calibrate_connect_failed">connect failed, retry</string>
+  <string name="shoes_calibrate_connecting">connecting</string>
+  <string name="shoes_calibrate_failed">Calibrating failed</string>
+  <string name="shoes_calibrate_instruction">"stretch foot
+wait for 5s"</string>
+  <string name="shoes_calibrate_success">calibration success</string>
+  <string name="shoes_calibrate_suggestion">Suggestion: Please re-calibrate when the smart module is reset.</string>
+  <string name="shoes_calibrating">Calibrating</string>
+  <string name="shoes_cancel">Cancel</string>
+  <string name="shoes_count_down_text">%ds</string>
+  <string name="shoes_description">Shoes life span is 400-800km</string>
+  <string name="shoes_distance" formatted="false">%d / %dkilometer(s)</string>
+  <string name="shoes_fetching">Fetching</string>
+  <string name="shoes_fetching_failed">Failed</string>
+  <string name="shoes_firmware_version">Firmware version</string>
+  <string name="shoes_guangsu">Guang Su</string>
+  <string name="shoes_introduction">Introduction</string>
+  <string name="shoes_invalid_code">bar code wrong</string>
+  <string name="shoes_recalibrate">Re-calibrate</string>
+  <string name="shoes_release_binding">Release Binding</string>
+  <string name="shoes_select_shoes">Select Shoes</string>
+  <string name="shoes_smart_shoes">%sSmart Shoes</string>
+  <string name="shoes_start_calibrate">Start Calibrate</string>
+  <string name="shoes_static_calibrate">Calibrate</string>
+  <string name="shoes_unbind">Release Binding</string>
+  <string name="shoes_unbind_prompt">After release binding, no information will get</string>
+  <string name="shoes_unbind_success">unbind success</string>
+  <string name="shoes_usage">%skilometer(s)</string>
+  <string name="shoes_used_distance">Life Span</string>
   <string name="signal_strength">"Signal strength: "</string>
   <string name="smaller_than_normal_with_value">%1$s below average</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
   <string name="smart_wake_up">Early bird alarm</string>
-  <string name="smart_wake_up_info">"Wake up at the best time according to your natural sleep cycle. Band will vibrate when it detects you've entered light sleep less than 30-minutes prior to the alarm time."</string>
+  <string name="smart_wake_up_info">"Wake up at the best time according to your natural sleep cycle. Band will vibrate when it detects you've entered light sleep less than 30 minutes prior to the alarm time."</string>
   <string name="sms_notify">Vibrate when SMS is received</string>
   <string name="sms_notify_tips2">Band must be paired with your device using Bluetooth when message is received.</string>
   <string name="sport_coming_soon">Comming soon!</string>
@@ -1178,6 +1269,8 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="title_activity_baby_tips_detail">Weigh infant</string>
   <string name="title_activity_baby_weight">Weigh infant</string>
   <string name="title_activity_baby_weight_info">Weigh infant</string>
+  <string name="title_activity_heart_rate_main">HeartRateMainActivity</string>
+  <string name="title_activity_heart_rate_setting">HeartRateSettingActivity</string>
   <string name="title_activity_mark">MarkData</string>
   <string name="title_activity_open">Sync with account</string>
   <string name="title_activity_record_weight">Record weight</string>
@@ -1190,6 +1283,7 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="title_friend_detail">Detail</string>
   <string name="title_friend_list">Friends</string>
   <string name="title_health_link_service">Health Care Service</string>
+  <string name="title_heart_list">Heart Rate</string>
   <string name="title_message">Message</string>
   <string name="toast_add_friend_failed">"Couldn't send friend request"</string>
   <string name="toast_add_friend_success">Friend request sent</string>
@@ -1341,6 +1435,7 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="weight_history_dynamic_title">%1$s items updated</string>
   <string name="weight_less_than_tips">According to your BMI info, your recommended weight is less than %1$s.</string>
   <string name="weight_low_battery">Change scale battery</string>
+  <string name="weight_match_no_suitable_user">"Couldn't match weight with an existing user"</string>
   <string name="weight_match_no_user">Select user</string>
   <string name="weight_measure">Weigh</string>
   <string name="weight_not_found_info">Stay close to the scale</string>
