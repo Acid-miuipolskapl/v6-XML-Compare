@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
+  <string name="app_already_exist">App already exists</string>
   <string name="app_being_backup_message">App is being backed up</string>
+  <string name="app_being_restored_message">App is being restored</string>
   <string name="app_category_books">Books</string>
   <string name="app_category_education">Education</string>
   <string name="app_category_entertainment">Entertainment</string>
@@ -106,6 +108,7 @@
   <string name="gadget_photo_24_label">Image 4x2</string>
   <string name="gadget_photo_44_label">Image 4x4</string>
   <string name="gadget_photo_label">Image</string>
+  <string name="gadget_power_clear_button_label">Super Cleaner</string>
   <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">"Touch to download MIUI's Weather app"</string>
   <string name="gadget_weather_aqi_title">"Air quality: "</string>
@@ -186,6 +189,11 @@
   <string name="preferences_general_title">Additional settings</string>
   <string name="preferences_title">Launcher settings</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Empty</string>
+  <string name="recommend_apps_notice">Recommended apps</string>
+  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen.</string>
+  <string name="recommend_apps_switch_title">Recommended apps</string>
+  <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature this off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_frame">Frame</string>

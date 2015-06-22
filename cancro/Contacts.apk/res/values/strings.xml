@@ -17,7 +17,8 @@
   <string name="add_2sec_pause">Add 2-sec pause</string>
   <string name="add_account">Add account</string>
   <string name="add_blacklist">Block</string>
-  <string name="add_blacklist_dialog_title">Add to blocklist</string>
+  <string name="add_blacklist_dialog_message">Block this number?</string>
+  <string name="add_blacklist_dialog_title">Block this contact</string>
   <string name="add_connection_button">Add connection</string>
   <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
   <string name="add_field">Add another field</string>
@@ -122,6 +123,7 @@
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
+  <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
   <string name="cancel_import_confirmation_message">Cancel import of %s?</string>
   <string name="cancel_import_dialog_message">Stop importing contacts?</string>
@@ -151,6 +153,9 @@
   <string name="cloud_antispam_mark">Report</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="cloud_recommend_msg">Tap to sync contacts with Mi Cloud.</string>
+  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_syncing">Synced with Mi Cloud</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
@@ -214,6 +219,7 @@
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
   <string name="deleteConfirmation_title">Delete</string>
+  <string name="delete_call_log_message">Delete call history?</string>
   <string name="delete_call_log_selected_title">Delete selected call history?</string>
   <string name="delete_call_log_title">Choose call history</string>
   <string name="delete_contact_calllog_title">Delete call history?</string>
@@ -273,6 +279,8 @@
   <string name="description_view_contact_detail">View contact</string>
   <string name="description_voicemail_button">Voicemail</string>
   <string name="deselect_all">Deselect all</string>
+  <string name="details_list_group_header_more_action">More</string>
+  <string name="details_list_group_header_other">Other</string>
   <string name="device_bluetooth_title">Transfer contacts</string>
   <string name="device_brand_title">Choose a brand</string>
   <string name="device_import_account_dialog_title">Choose an account</string>
@@ -692,10 +700,13 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
+  <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">VoIP</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
+  <string name="photo_fragment">Avatar</string>
+  <string name="photo_load_failed">Avatar load failed</string>
   <string name="photo_package_activity_title">Browse folders</string>
   <string name="pick_new_photo">Select new photo from Gallery</string>
   <string name="pick_photo">Choose photo from Gallery</string>
@@ -776,13 +787,16 @@ To add a contact to your list of favorites:
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">Me</string>
+  <string name="public_account_name">Public accounts</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
   <string name="pull_to_refresh_refreshing_label">Loading…</string>
   <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="qr_card_card">My QR Code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="quickcontact_missing_app">No app was found to handle this action</string>
-  <string name="quit_dialog_confirm_title">"You haven't merged any contacts"</string>
+  <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
+  <string name="quit_dialog_confirm_title">Cancel merge contacts</string>
+  <string name="rcs_group_chat_name">Group chats</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains info from multiple accounts. Info from read-only accounts will be hidden in your contacts list.</string>
   <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
@@ -809,7 +823,8 @@ To add a contact to your list of favorites:
   <string name="relationLabelsGroup">Relationship</string>
   <string name="removePhoto">Remove photo</string>
   <string name="remove_blacklist">Unblock</string>
-  <string name="remove_blacklist_dialog_title">Remove from blocklist</string>
+  <string name="remove_blacklist_dialog_message">Unblock this number?</string>
+  <string name="remove_blacklist_dialog_title">Unblock this contact</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
  To begin, touch the Merge icon at the bottom of your screen."</string>
@@ -923,6 +938,7 @@ To add a contact to your list of favorites:
   <string name="resource_menu_refresh">Refresh</string>
   <string name="resource_mute">None</string>
   <string name="resource_my">Offline</string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Network Diagnostics&lt;/u&gt;</string>
   <string name="resource_no_match_app">No app was found to handle this action.</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="resource_no_result">"Didn't find anything"</string>
@@ -948,11 +964,30 @@ To add a contact to your list of favorites:
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
+  <string name="resource_search_color">Choose a color to search</string>
+  <string name="resource_search_color_hint_black">Black</string>
+  <string name="resource_search_color_hint_blue">Blue</string>
+  <string name="resource_search_color_hint_brown">Brown</string>
+  <string name="resource_search_color_hint_cyan">Cyan</string>
+  <string name="resource_search_color_hint_gray">Gray</string>
+  <string name="resource_search_color_hint_green">Green</string>
+  <string name="resource_search_color_hint_orange">Orange</string>
+  <string name="resource_search_color_hint_pink">Pink</string>
+  <string name="resource_search_color_hint_purple">Purple</string>
+  <string name="resource_search_color_hint_red">Red</string>
+  <string name="resource_search_color_hint_white">White</string>
+  <string name="resource_search_color_hint_yellow">Yellow</string>
   <string name="resource_search_list_empty">"Didn't find anything."</string>
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
-  <string name="resource_select_ringtone_confirm">Select this sound?</string>
-  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
+  <string name="resource_select_alarm_audio_confirm">Select this notification sound?</string>
+  <string name="resource_select_alarm_audio_confirm_picker">Select this notification sound?</string>
+  <string name="resource_select_boot_audio_confirm">Select this boot sound?</string>
+  <string name="resource_select_boot_audio_confirm_picker">Select this boot sound?</string>
+  <string name="resource_select_notification_audio_confirm">Select this alarm sound?</string>
+  <string name="resource_select_notification_audio_confirm_picker">Select this alarm sound?</string>
+  <string name="resource_select_ringtone_audio_confirm">Select this ringtone?</string>
+  <string name="resource_select_ringtone_audio_confirm_picker">Select this ringtone?</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
@@ -1130,6 +1165,8 @@ To add a contact to your list of favorites:
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unknow_phone_number_call_failed">Unknow phone number do not support call</string>
+  <string name="unknow_phone_number_mms_failed">Unknow phone number do not support sending message</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_contact_name">Unknown contact</string>
   <string name="upgrade_in_progress">Contact list is being updated.</string>

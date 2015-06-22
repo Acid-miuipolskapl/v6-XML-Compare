@@ -36,11 +36,11 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
-  <string name="cloud_back_up_open_info">"Back up apps when connected to WLAN once every %1$s
-Last backed up on %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Back up apps when connected to WLAN once every %1$s</string>
+  <string name="cloud_back_up_open_info">"Back up Home screen app layout when connected to WLAN once every %1$s
+Last backup was on:%2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back up Home screen app layout when connected to WLAN once every %1$s</string>
   <string name="cloud_back_up_remove_success">Backup deleted</string>
-  <string name="cloud_back_up_title">Back up apps</string>
+  <string name="cloud_back_up_title">Back up Home screen layout</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
@@ -94,6 +94,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
   <string name="find_device_success_title">Find device</string>
+  <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="free_space_has_received">You already added free space this month</string>
   <string name="free_space_receive_fail">"Can't upgrade"</string>
   <string name="get_first_month_gb">Get %s of free space</string>
@@ -105,6 +106,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="header_data_and_synchronization">Data &amp; sync</string>
   <string name="header_other_settings">Additional settings</string>
   <string name="i_know">OK</string>
+  <string name="input_password_hint">Enter password</string>
   <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Loading…</string>
@@ -112,12 +114,43 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
-  <string name="micloud_buy_member">Account</string>
+  <string name="micloud_buy_member">Upgrade membership</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_confusion_account_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
+  <string name="micloud_confusion_account_name">Account:</string>
+  <string name="micloud_confusion_account_notify_text">Another device is modifying your Mi Account. Verify your account now.</string>
+  <string name="micloud_confusion_account_notify_title">Verify account</string>
+  <string name="micloud_confusion_account_question">Does the Mi Account ID: %s belong to you?</string>
+  <string name="micloud_confusion_account_title">Mi Account</string>
+  <string name="micloud_confusion_alert_message">%s is changing Mi Account info.</string>
+  <string name="micloud_confusion_alert_negative">Later</string>
+  <string name="micloud_confusion_alert_positive">Details</string>
+  <string name="micloud_confusion_alert_title">Another device is modifying your account</string>
+  <string name="micloud_confusion_cancel">Cancel</string>
+  <string name="micloud_confusion_check_account_title">Sign in to your Mi Account to reactivate Mi Cloud.</string>
+  <string name="micloud_confusion_entrance_hint">"Don't sign in to your Mi Account on public devices"</string>
+  <string name="micloud_confusion_entrance_notify_text">Touch to view details.</string>
+  <string name="micloud_confusion_entrance_notify_title">Another device is modifying your account</string>
+  <string name="micloud_confusion_entrance_question">Did you recently modify your Mi Account using a %s?</string>
+  <string name="micloud_confusion_entrance_title">Data modified</string>
+  <string name="micloud_confusion_finish_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
+  <string name="micloud_confusion_finish_message">Turn off syncing for other devices.</string>
+  <string name="micloud_confusion_finish_title">Account verified</string>
+  <string name="micloud_confusion_no">No</string>
+  <string name="micloud_confusion_ok">OK</string>
+  <string name="micloud_confusion_setting_notify_text">Turn off syncing for other devices associated with your account.</string>
+  <string name="micloud_confusion_setting_notify_title">Protect your account</string>
+  <string name="micloud_confusion_setting_password_error">The password you entered is incorrect</string>
+  <string name="micloud_confusion_setting_question">Turn off syncing for other devices associated with your account.</string>
+  <string name="micloud_confusion_setting_title">Too many devices</string>
+  <string name="micloud_confusion_toast_confirm">Device confirmed</string>
+  <string name="micloud_confusion_toast_deny">Sign in to your Mi Account</string>
+  <string name="micloud_confusion_yes">Yes</string>
+  <string name="micloud_detail_download_syncing">Downloading %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_pending">Waiting</string>
@@ -125,6 +158,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_preference_wlan">Sync on WLAN</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
   <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
@@ -149,6 +183,7 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_space_full">Not enough storage space.</string>
   <string name="micloud_main_space_low">Almost out of space…</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
+  <string name="micloud_main_suggest_master_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
 Tap the Settings button to view more options"</string>
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
@@ -161,6 +196,7 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
   <string name="micloud_main_synced_data_count">%d items synced</string>
   <string name="micloud_main_syncing">Syncing…</string>
+  <string name="micloud_main_title_master_sync_off">Auto sync off</string>
   <string name="micloud_main_title_sync_fail">"Can't sync"</string>
   <string name="micloud_main_title_sync_off">Sync off</string>
   <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
@@ -185,22 +221,22 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
-  <string name="micloud_setting_antispam_summary">Exceptions and blocked phone numbers</string>
+  <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
   <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
   <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
-  <string name="micloud_setting_deskclock_summary">Timezone and alarm settings</string>
+  <string name="micloud_setting_deskclock_summary">Clocks settings</string>
   <string name="micloud_setting_gallery_summary">Photos and videos</string>
   <string name="micloud_setting_music_summary">Playlists and favorites</string>
   <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
   <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_space_applist_detail">Manage apps on your Home screen</string>
-  <string name="micloud_space_applist_title">Manage apps</string>
+  <string name="micloud_space_applist_detail">Manage your home screen space using the phone app.</string>
+  <string name="micloud_space_applist_title">Home screen Back up Space</string>
   <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
-  <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
-  <string name="micloud_space_soundrecorder_title">Recordings</string>
+  <string name="micloud_space_soundrecorder_detail">Manage your sound recorder content using the phone app.</string>
+  <string name="micloud_space_soundrecorder_title">SoundRecorder Space</string>
   <string name="micloud_storage">Storage</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
@@ -256,7 +292,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
   <string name="pref_title_sync_my_profile_title">Sync profile</string>
   <string name="privacy_policy">Privacy Policy</string>
-  <string name="remind_later">Not now</string>
+  <string name="remind_later">Later</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
   <string name="settings_backup_title">Back up system settings</string>
@@ -272,7 +308,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-  <string name="sms">Messages</string>
+  <string name="sms">SMS</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>

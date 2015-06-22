@@ -96,7 +96,7 @@
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
   <string name="call_record_off_summary">Call recording is turned off</string>
   <string name="call_record_on_summary">Calls will be recorded automatically</string>
-  <string name="call_record_setting">Call record settings</string>
+  <string name="call_record_setting">Call recording</string>
   <string name="call_record_whitelist_custom">Selected numbers</string>
   <string name="call_recording_notification_message">Touch to listen.</string>
   <string name="call_recording_notification_message_low_storage">SD card is full.</string>
@@ -620,7 +620,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
-  <string name="preference_auto_ip_summary_disable">Disabled</string>
+  <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
   <string name="preference_dial_pad_touch_tone_default">Default</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>

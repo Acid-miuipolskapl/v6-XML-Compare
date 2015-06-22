@@ -81,7 +81,7 @@
   <string name="incoming_file_confirm_title">File transfer</string>
   <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
   <string name="insert_record">Insert record</string>
-  <string name="install_package">Install %1$s for more functions</string>
+  <string name="install_package">Install %1$s for more features</string>
   <string name="localPhoneName">My name</string>
   <string name="mi_band_vibrate_alarm">Vibrate when alarm sounds</string>
   <string name="mi_band_vibrate_incall">Vibrate when ringing</string>
@@ -130,9 +130,9 @@
   <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
   <string name="process"/>
   <string name="progress_scanning">Searching…</string>
-  <string name="reset_function_msg">Resetting this feature may prevent %1$s from working normally.</string>
+  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
   <string name="sharedUserId"/>
-  <string name="some_app_taking">(%1$s is already using this feature)</string>
+  <string name="some_app_taking">(%1$s is using the function...)</string>
   <string name="start_server">Start TCP server</string>
   <string name="status_canceled">Transfer canceled by user.</string>
   <string name="status_connection_error">Connection unsuccessful.</string>

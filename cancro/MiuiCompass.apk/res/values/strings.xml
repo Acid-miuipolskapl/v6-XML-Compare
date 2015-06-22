@@ -24,6 +24,8 @@
   <string name="direction_south_west">SW</string>
   <string name="direction_west">W</string>
   <string name="do_not_show_next_time">"Don't show again"</string>
+  <string name="error_camera_unavailable">Check if another app is currently using Camera.</string>
+  <string name="error_camera_unavailable_title">Camera unavailable</string>
   <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
   <string name="first_using_dialog_title">Access permission</string>
   <string name="getting_location">Calibrating…</string>

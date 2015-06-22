@@ -26,6 +26,7 @@
   <string name="error_sdcard_access">"Can't access storage"</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="fm_record">Radio recordings (%d)</string>
+  <string name="loading_recording">Loading</string>
   <string name="low_battery_error">Less than 5% battery remaining. To ensure that your recording is not lost, recording has been paused and saved.</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
   <string name="no_downloading_file">No files are downloading.</string>
@@ -67,9 +68,7 @@
   <string name="record_list_cloud_call">Synced recorded calls</string>
   <string name="record_list_cloud_fm">Synced FM recordings</string>
   <string name="record_list_fm">FM recordings</string>
-  <string name="record_mark_point">Mark %s</string>
   <string name="record_name_hour">.</string>
-  <string name="record_picker_title">Choose a recording</string>
   <string name="recording">Recording</string>
   <string name="recording_stopped">Stopped</string>
   <string name="rename">Rename</string>
@@ -77,6 +76,7 @@
   <string name="rename_duplicate">Another recording with the same name already exists.</string>
   <string name="rename_no_more_tip">"Don't show again"</string>
   <string name="retry">Retry</string>
+  <string name="search_for_recordings_in_folders">Search for recordings with Explorer</string>
   <string name="sound_recorder_settings">Settings</string>
   <string name="start">Resume</string>
   <string name="status_bar_back">Tap to return to Recorder</string>

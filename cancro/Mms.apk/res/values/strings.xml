@@ -24,6 +24,7 @@
   <string name="adding_recipients">Adding recipients…</string>
   <string name="alert_dlg_cancel_button">Cancel</string>
   <string name="alert_dlg_ok_button">OK</string>
+  <string name="already_followed">"You're already following this number"</string>
   <string name="app_label">Messaging</string>
   <string name="app_name">Devices</string>
   <string name="attach_image">Pictures</string>
@@ -59,6 +60,10 @@
   <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="close">Close</string>
+  <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
+  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>
@@ -72,7 +77,7 @@
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete?</string>
   <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
-  <string name="confirm_dlg_title">Device management</string>
+  <string name="confirm_dlg_title">Device Management</string>
   <string name="confirm_export_dialog_description">Previous conversations with this contact will no longer be hidden.</string>
   <string name="confirm_export_dialog_title">Remove from private contacts</string>
   <string name="confirm_no_block_positive">Unblock</string>
@@ -155,9 +160,9 @@
   <string name="feedback_submit">Send</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
+  <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
   <string name="festival_networking_title">Notice</string>
-  <string name="festival_never_remind">"Don't show again"</string>
+  <string name="festival_never_remind">"Don't show again."</string>
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
@@ -167,12 +172,14 @@
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="follow_finished">Following number</string>
+  <string name="follow_forbidden">"Can't follow this number"</string>
   <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
   <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
   <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Could in Messaging Settings.</string>
   <string name="found_wild_messages_title">Sync SMS messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
   <string name="group_message">Group message</string>
@@ -184,7 +191,7 @@
   <string name="has_invalid_recipient">Invalid recipients: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Hidden sender address</string>
   <string name="hint_search_sms">%d messages</string>
-  <string name="hms_add_image_progress_message">Working…</string>
+  <string name="hms_add_image_progress_message">Processing…</string>
   <string name="hms_first_use_tips">To receive service messages, you need to be connected to a WLAN network</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="importing_progress_private_message">Importing…</string>
@@ -199,7 +206,7 @@
   <string name="left_cancel">Swipe left to cancel</string>
   <string name="loading_all_messages">Loading messages…</string>
   <string name="loading_conversations">Loading conversations…</string>
-  <string name="loading_mms">Just a sec…</string>
+  <string name="loading_mms">Loading…</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="me">Me</string>
   <string name="menu_add_black">Block this number</string>
@@ -243,6 +250,7 @@
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Me</string>
+  <string name="mipub_messaging_entry_title">Mi Messages</string>
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
@@ -267,6 +275,13 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
+  <string name="mx_activate_status_desc_activating_now">正在激活</string>
+  <string name="mx_activate_status_desc_check_net_connection">激活失败，请检查你的网络连接</string>
+  <string name="mx_activate_status_desc_fail">激活失败，请稍后重试</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">在等待系统短信服务就绪</string>
+  <string name="mx_activate_status_desc_query_activte_info">正在联网检测手机卡激活状态</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">输入的电话号码无效</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">激活失败，请检查手机卡短信服务</string>
   <string name="mx_activate_user_agreement_p1">"By using this service, you are agreeing to Mi Message's "</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
@@ -289,6 +304,7 @@
   <string name="mx_recommend_msg">Touch to turn Mi Message on.</string>
   <string name="mx_type_guide">Mi Message lets you send messages to other MIUI users without incurring SMS charges</string>
   <string name="need_download">Syncing…</string>
+  <string name="network_error">Network error</string>
   <string name="new_message">Compose</string>
   <string name="new_message_arrived">You have a new message</string>
   <string name="new_phrase">Add response</string>
@@ -329,7 +345,7 @@
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
-  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
+  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
@@ -346,7 +362,7 @@
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
-  <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new text</string>
+  <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new text is received</string>
   <string name="pref_system_title">System</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other into the same thread</string>
@@ -354,7 +370,7 @@
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
   <string name="pref_title_card_format">Card share format</string>
   <string name="pref_title_delivery_reports">Delivery status</string>
-  <string name="pref_title_festival_networking">Internet connection</string>
+  <string name="pref_title_festival_networking">Connection notification</string>
   <string name="pref_title_fwd_sender_info">Forward sender info</string>
   <string name="pref_title_hide_festival">Hide Chinese language features</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
@@ -403,6 +419,7 @@
   <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
   <string name="release_cancel">Release to cancel</string>
+  <string name="remind_follow">Follow this number?</string>
   <string name="remove">Remove</string>
   <string name="remove_music">Remove music</string>
   <string name="remove_picture">Remove picture</string>
@@ -466,6 +483,7 @@
   <string name="service_message_not_found">Message expired or unavailable</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
+  <string name="service_unavailiable">Service unavailable</string>
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
@@ -529,7 +547,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Group carrier messages</string>
   <string name="title_date_type">Timestamp</string>
-  <string name="title_show_blocked_messages">Show blocked SMS</string>
+  <string name="title_show_blocked_messages">show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="to_address_label">"To: "</string>
@@ -562,7 +580,7 @@ Attempt made: %s."</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-  <string name="user_agreement2">Terms of Service</string>
+  <string name="user_agreement2">User Agreement</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By touching OK, you agree to our Terms of Service and Privacy Policy.</string>

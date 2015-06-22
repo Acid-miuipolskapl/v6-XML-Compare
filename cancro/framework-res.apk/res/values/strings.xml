@@ -1429,13 +1429,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sms_control_no">Deny</string>
   <string name="sms_control_title">Sending SMS messages</string>
   <string name="sms_control_yes">Allow</string>
-  <string name="sms_premium_short_code_details">This will cause charges on your mobile account.</string>
+  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;This will cause charges on your mobile account.&lt;/font&gt;</string>
   <string name="sms_short_code_confirm_allow">Send</string>
   <string name="sms_short_code_confirm_always_allow">Always Allow</string>
   <string name="sms_short_code_confirm_deny">Cancel</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; would like to send a message to &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Never Allow</string>
-  <string name="sms_short_code_details">This may cause charges on your mobile account.</string>
+  <string name="sms_short_code_details">This &lt;font fgcolor="#ffffb060"&gt;may cause charges&lt;/font&gt; on your mobile account.</string>
   <string name="sms_short_code_remember_choice">Remember my choice</string>
   <string name="sms_short_code_remember_undo_instruction">You can change this later in Settings &gt; Apps</string>
   <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced StrictMode policy.</string>
@@ -1512,11 +1512,11 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="volume_alarm">Alarm volume</string>
   <string name="volume_bluetooth_call">Bluetooth in-call volume</string>
   <string name="volume_call">In-call volume</string>
-  <string name="volume_icon_description_bluetooth">Bluetooth</string>
-  <string name="volume_icon_description_incall">Call</string>
-  <string name="volume_icon_description_media">Media</string>
-  <string name="volume_icon_description_notification">Notification</string>
-  <string name="volume_icon_description_ringer">Ringer</string>
+  <string name="volume_icon_description_bluetooth">Bluetooth volume</string>
+  <string name="volume_icon_description_incall">Call volume</string>
+  <string name="volume_icon_description_media">Media volume</string>
+  <string name="volume_icon_description_notification">Notification volume</string>
+  <string name="volume_icon_description_ringer">Ringtone volume</string>
   <string name="volume_music">Media volume</string>
   <string name="volume_music_hint_playing_through_bluetooth">Playing through Bluetooth</string>
   <string name="volume_music_hint_silent_ringtone_selected">Silent ringtone set</string>

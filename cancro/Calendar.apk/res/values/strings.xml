@@ -47,9 +47,9 @@
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_metric"/>
+  <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until %3$s (%4$s)</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's %2$s is coming up."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
@@ -199,7 +199,12 @@
   <string name="no_title_label">(No title)</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">not synced</string>
+  <string name="notice_button_ok">同意</string>
+  <string name="notice_button_ok_and_go_on">同意并继续</string>
+  <string name="notice_title_agreement">声明与条款</string>
+  <string name="notice_title_request">提示</string>
   <string name="online_calendar_activity_label">订阅日历</string>
+  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
@@ -318,9 +323,6 @@
   <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
   <string name="topic_event_list_header_label">近期活动</string>
   <string name="topic_list_header_label">订阅列表</string>
-  <string name="user_notice_online_agreement">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
-  <string name="user_notice_online_ok">同意并继续</string>
-  <string name="user_notice_online_title">声明与条款</string>
   <string name="view_all_matches">查看所有赛程</string>
   <string name="view_event_calendar_label">Calendar:</string>
   <string name="view_event_organizer_label">Organizer:</string>

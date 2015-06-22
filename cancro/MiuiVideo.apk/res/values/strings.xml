@@ -128,7 +128,6 @@
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">An error occurred</string>
   <string name="empty_keyword_hint">Enter your search in the box above</string>
-  <string name="empty_tv_exiting">Exiting ...</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
