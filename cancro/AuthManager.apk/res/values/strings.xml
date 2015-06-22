@@ -58,12 +58,12 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Generic_Version">Version %1$s</string>
   <string name="HIPS_Action_Accept">Allow</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Once">Allow</string>
+  <string name="HIPS_Action_Accept_Once">Allow Once</string>
   <string name="HIPS_Action_Prompt">Prompt</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Prompt&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Deny</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject_Once">Deny</string>
+  <string name="HIPS_Action_Reject_Once">Deny Once</string>
   <string name="HIPS_Group_DataPrivacy">Privacy</string>
   <string name="HIPS_Group_Expense">Security</string>
   <string name="HIPS_Group_Internet">Internet</string>
@@ -216,7 +216,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s apps can access your Mi Account</string>
   <string name="HIPS_SecurityPrompt_Accept">Allow (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Allow</string>
-  <string name="HIPS_SecurityPrompt_Accept_Once">Allow (%d)</string>
+  <string name="HIPS_SecurityPrompt_Accept_Once">Allow Once (%d)</string>
   <string name="HIPS_SecurityPrompt_Caption">Security warning</string>
   <string name="HIPS_SecurityPrompt_Next">Next</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Root access</string>
@@ -227,7 +227,7 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Grant apps root access at your own risk.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Grant %1$s root access?</string>
   <string name="HIPS_SecurityPrompt_Reject">Deny (%d)</string>
-  <string name="HIPS_SecurityPrompt_Reject_Once">Deny (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Once">Deny Once (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Remember preference</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s is trying to %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissions</string>

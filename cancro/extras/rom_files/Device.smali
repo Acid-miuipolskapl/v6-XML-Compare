@@ -353,6 +353,10 @@
     .locals 1
 
     .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_CM_TEST:Z
+
+    if-nez v0, :cond_1
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3W:Z
 
     if-nez v0, :cond_0
@@ -452,6 +456,15 @@
     goto :goto_0
 .end method
 
+.method public static isCaptureStopFaceDetection()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    return v0
+.end method
+
 .method public static isFaceDetectNeedRotation()Z
     .locals 1
 
@@ -488,15 +501,15 @@
     .locals 1
 
     .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
 
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
     if-eqz v0, :cond_1
 
@@ -628,6 +641,15 @@
     goto :goto_0
 .end method
 
+.method public static isLowPreviewSizeRemoved()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    return v0
+.end method
+
 .method public static isLowQualityPanorama()Z
     .locals 1
 
@@ -680,24 +702,9 @@
     .locals 1
 
     .prologue
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
-
-    if-nez v0, :cond_0
-
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
-    if-eqz v0, :cond_1
-
-    :cond_0
-    const/4 v0, 0x1
-
-    :goto_0
     return v0
-
-    :cond_1
-    const/4 v0, 0x0
-
-    goto :goto_0
 .end method
 
 .method public static isMTKPlatform()Z
@@ -919,29 +926,9 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
-    if-eqz v0, :cond_1
-
-    :cond_0
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_1
-    const/4 v0, 0x0
-
-    goto :goto_0
-.end method
-
-.method public static isSupportedAgeWaterMark()Z
-    .locals 1
-
-    .prologue
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
-
     if-nez v0, :cond_0
 
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
     if-eqz v0, :cond_1
 
@@ -1476,6 +1463,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1748,6 +1739,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1929,7 +1924,22 @@
     .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
     return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isVideoStabilizationNeedCropped()Z

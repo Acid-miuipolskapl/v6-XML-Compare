@@ -28,8 +28,8 @@
         <item>com.android.bluetooth</item>
         <item>com.whatsapp</item>
         <item>com.jeejen.family.miui</item>
-        <item>com.miui.networkassistant</item>
         <item>com.android.server.telecom</item>
+        <item>com.miui.networkassistant</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
@@ -38,5 +38,11 @@
         <item>none</item>
         <item>none</item>
         <item>show_menu</item>
+    </string-array>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.4</item>
     </string-array>
 </resources>

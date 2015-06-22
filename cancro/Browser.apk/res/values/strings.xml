@@ -2,6 +2,7 @@
 <resources>
   <string name="MIUI_startpage">Start page</string>
   <string name="accessibility_button_clear">Clear input</string>
+  <string name="accessibility_content_view">Web view</string>
   <string name="accessibility_date_picker_month">Month</string>
   <string name="accessibility_date_picker_week">Week</string>
   <string name="accessibility_date_picker_year">Year</string>
@@ -15,21 +16,16 @@
   <string name="account">Account</string>
   <string name="account_prifix">Account:</string>
   <string name="action">Sign in</string>
-  <string name="action_menu_text_add_bookmark">Add bookmark</string>
   <string name="action_menu_text_bandwidth">Bandwidth</string>
   <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
   <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
-  <string name="action_menu_text_bookmark_added">Bookmark added</string>
-  <string name="action_menu_text_copy_url">Copy URL</string>
-  <string name="action_menu_text_create_qr_code">QR code</string>
+  <string name="action_menu_text_bookmark">Add bookmark</string>
   <string name="action_menu_text_exit">Exit</string>
-  <string name="action_menu_text_find_in_page">Find in page</string>
   <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="action_menu_text_history">Bookmarks &amp; History</string>
   <string name="action_menu_text_nightmode">Night mode</string>
   <string name="action_menu_text_nightmode_off">Night mode</string>
   <string name="action_menu_text_nightmode_on">Night mode</string>
-  <string name="action_menu_text_refresh">Refresh</string>
   <string name="action_menu_text_setting">Settings</string>
   <string name="action_menu_text_share">Share</string>
   <string name="action_menu_text_snapshot">Save page</string>
@@ -115,7 +111,6 @@
   <string name="bookmarks_management">Bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
-  <string name="bottom_bar_back_long_click_up_tip_txt">Swipe up to homepage</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
@@ -191,11 +186,10 @@
   <string name="contextmenu_set_wallpaper">Set as wallpaper</string>
   <string name="contextmenu_sharelink">Share link</string>
   <string name="contextmenu_view_image">View image</string>
-  <string name="contextmenu_webpage_capture">Save as screenshot</string>
-  <string name="contextmenu_webpage_html">Save as HTML file</string>
-  <string name="contextmenu_webpage_snapshot">Save page</string>
   <string name="copy_link">copy link</string>
   <string name="copy_to_clipboard_failure_message">"Couldn't copy to clipboard"</string>
+  <string name="copy_url">Copy URL</string>
+  <string name="create_qr_code">QR code</string>
   <string name="create_shortcut_bookmark">Add shortcut to home</string>
   <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_message">Using your mobile data connection to browse will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
@@ -266,7 +260,9 @@
   <string name="filename_illegal_alert_message">An invalid character was removed from the file name</string>
   <string name="find_next">Find next</string>
   <string name="find_on_page">Find on page</string>
-  <string name="find_on_page_hint">Please enter your query</string>
+  <string name="find_on_page_cancel">Cancel</string>
+  <string name="find_on_page_next">Next</string>
+  <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
   <string name="folder_name">Group name</string>
   <string name="forward">Forward</string>
@@ -315,7 +311,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="js_disable_confirm_title">Disable JavaScript?</string>
   <string name="js_engine_flags">Set JS flags</string>
   <string name="last_month">Last month</string>
-  <string name="license_activity_title">System WebView licenses</string>
   <string name="loading_tips">Pull down to refresh</string>
   <string name="local_bookmarks">Mi</string>
   <string name="location">Address</string>
@@ -375,7 +370,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_search_notification_title">Search</string>
   <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
-  <string name="miuichromium_error_page_reason_network">"Can't connect to the network"</string>
+  <string name="miuichromium_error_page_reason_network">"Can't connect to network"</string>
   <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
   <string name="miuichromium_error_page_reload">Reload</string>
   <string name="miuichromium_error_page_title">"Can't find this page"</string>
@@ -660,8 +655,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="save_file_already_exist_alert_title">Overwrite file?</string>
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
-  <string name="save_page_capture_tip">Open notification shade to view screenshot.</string>
-  <string name="save_page_capture_to_camera">Screenshot saved</string>
   <string name="save_password_message">Do you want Browser to remember this password?</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
@@ -717,7 +710,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="ssl_unknown">Unknown certificate error.</string>
   <string name="ssl_untrusted">"This certificate isn't from a trusted authority."</string>
   <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
-  <string name="start_save_page_capture">Saving screenshot…</string>
   <string name="stop">Stop</string>
   <string name="stop_loading">Stop</string>
   <string name="storage_internal">Internal storage</string>
@@ -729,8 +721,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="sub_sync_item_browser_title_cloud_tab_summary">Sync open tabs of browser on different devices</string>
   <string name="sub_sync_item_browser_title_history">Sync history</string>
   <string name="sub_sync_item_browser_title_history_summary">Sync history of browser</string>
-  <string name="sub_sync_item_browser_title_hotpage">Sync news feed</string>
-  <string name="sub_sync_item_browser_title_hotpage_summary">Sync items from news feed</string>
   <string name="sub_sync_item_browser_title_novel">Sync books</string>
   <string name="sub_sync_item_browser_title_novel_summary">Sync books from browser</string>
   <string name="sub_sync_item_browser_title_useful">Sync start page</string>
@@ -750,7 +740,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_music">Mi Music</string>
-  <string name="suggest_access_yellow">Mi Yellow Page</string>
   <string name="sync_item_browser_summary">Sync data to your cloud, and make using browser on different devices easy</string>
   <string name="sync_item_browser_title">Sync browser</string>
   <string name="tab_history">History</string>
@@ -772,6 +761,8 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="up_to_loading_tips">Release to refresh</string>
   <string name="uploads_disabled">File uploads are disabled</string>
   <string name="url_copy_done">URL copied to clipboard</string>
+  <string name="url_find_on_page_result">View in Browser</string>
+  <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
   <string name="url_hint">Enter a URL or search the web</string>
   <string name="url_opened_in_background">Open in background tab</string>
   <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
@@ -785,7 +776,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="v5_deselect_all">Deselect all</string>
   <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_select_all">Select all</string>
-  <string name="video_activity_name">Video Management</string>
+  <string name="video_activity_name">Video Collections</string>
   <string name="video_buffering_percent_string">Buffering</string>
   <string name="video_collect_cancel">Cancel Collect</string>
   <string name="video_collect_success">Video Collect Success</string>

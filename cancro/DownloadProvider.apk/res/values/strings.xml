@@ -3,10 +3,8 @@
   <string name="app_label">Download Manager</string>
   <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
   <string name="button_cancel_download">Cancel</string>
-  <string name="button_download_now">立即下载</string>
   <string name="button_queue_for_wifi">Queue</string>
   <string name="button_start_now">Start now</string>
-  <string name="button_wait_for_wifi">等待WIFI</string>
   <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
   <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
   <string name="dialog_not_show_again">"Don't show again"</string>
@@ -50,14 +48,6 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">下载%s个文件 (%s ) 会消耗您的数据流量。</string>
-  <string name="recommended_file_one_in_mobile">下载该文件 (%s ) 会消耗您的数据流量。</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"你正在处于移动网络环境下，%s
-
-点击“%s”，使用您的数据流量下载；点击%s,任务会处于等待状态，有WIFI时自动下载。"</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"不能获取到该文件的大小，下载该文件可能会消耗大量数据流量，请谨慎操作。
-
-点击“%s”，使用您的数据流量下载；点击%s,任务会处于等待状态，有WIFI时自动下载。"</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="warning_tip_cancel">Download</string>

@@ -918,7 +918,7 @@
     </string-array>
     <string-array name="pink_panel_led_color_entries">
         <item>Lilac</item>
-        <item>Garnet</item>
+        <item>Ruby</item>
         <item>Orange</item>
         <item>Green</item>
         <item>Magenta</item>
@@ -961,6 +961,10 @@
         <item>PWD</item>
         <item>SIM</item>
         <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Show recent apps tray</item>
@@ -1115,7 +1119,7 @@
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>Create a directory: $mkdir /media/mtp</item>
+        <item>Create a directory: mkdir /media/mtp</item>
         <item>Confirm user group permissions in the current fuse user group</item>
         <item>Sign in again</item>
         <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
@@ -1365,11 +1369,11 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
         <item>Ask permission for risky apps</item>
-        <item>Always allow</item>
+        <item>Allow</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
         <item>Ask permission</item>
-        <item>Always allow</item>
+        <item>Allow</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>

@@ -7,7 +7,7 @@
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="add_account">Add account</string>
   <string name="add_event">Add event</string>
-  <string name="add_event_hint">Input a label</string>
+  <string name="add_event_hint">Enter label</string>
   <string name="add_sharer">Add member</string>
   <string name="add_to_cloud_album">Add to album</string>
   <string name="add_to_cloud_exceeded_the_size_message">File is too big</string>
@@ -509,10 +509,10 @@ with friends"</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
-  <string name="confirm_all_photo_are_this_people_face">"Associate all photos with '%s'?"</string>
-  <string name="confirm_all_photo_not_this_people_face">"No matches '%s'?"</string>
+  <string name="confirm_all_photo_are_this_people_face">Associate all photos with %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">No matches for %s?</string>
   <string name="confirm_delete">Delete %s photos?</string>
-  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
+  <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
   <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
   <string name="confirm_delete_init_message">Photo will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the Offline tab.</string>
@@ -521,8 +521,8 @@ with friends"</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
-  <string name="confirm_left_photo_will_move_in">"Anyone of left photos contains '%s'?"</string>
-  <string name="confirm_left_photo_will_move_out">"None of left photos contains '%s'?"</string>
+  <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
+  <string name="confirm_left_photo_will_move_out">"%s isn't in any of the remaining photos?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Not this person</string>
@@ -604,7 +604,7 @@ with friends"</string>
   <string name="error_title">"Can't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown_host">"Can't connect to the network. Check your data connection and try again."</string>
-  <string name="event_create_long_photo">Creating a long photo...</string>
+  <string name="event_create_long_photo">Creating photo…</string>
   <string name="event_manage_photos">Manage photos</string>
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
@@ -630,7 +630,7 @@ with friends"</string>
   <string name="facetan">Face tan</string>
   <string name="fail_hint">Operation failed</string>
   <string name="fail_init_gallery_db_helper">"Can't load Gallery database"</string>
-  <string name="fail_to_download_n_items">"Couldn't download %s"</string>
+  <string name="fail_to_download_n_items">"Couldn't download %s items"</string>
   <string name="fail_to_pick_email">Email invalid</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
   <string name="file_not_exist_message">"File doesn't exist"</string>
@@ -708,11 +708,11 @@ with friends"</string>
   <string name="internal_sdcard_root">Internal SD card root directory</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
-  <string name="is">"is '%s'"</string>
+  <string name="is">Is this %s?</string>
   <string name="iso">ISO</string>
-  <string name="item_not_sync_for_origin_image">"Can't download this picture because it hasn't been synced with your cloud."</string>
-  <string name="item_not_sync_for_origin_video">"Can't download this video because it hasn't been synced with your cloud."</string>
-  <string name="item_not_sync_for_refocus_data">"Can't download refocus data for this picture because it hasn't been synced with your cloud."</string>
+  <string name="item_not_sync_for_origin_image">"Can't download photos that haven't been synced with Mi Cloud."</string>
+  <string name="item_not_sync_for_origin_video">"Can't download videos that haven't been synced with Mi Cloud."</string>
+  <string name="item_not_sync_for_refocus_data">"Can't get focus data for photos that haven't been synced with Mi Cloud."</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove shared used</string>
@@ -779,7 +779,7 @@ with friends"</string>
   <string name="name_wrong">"This isn't %s"</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
-  <string name="network_connected_rescan">Connect to the internet and try again</string>
+  <string name="network_connected_rescan">"Can't connect to the network"</string>
   <string name="new_device_tips">"Tap to view
 device"</string>
   <string name="no">No</string>
@@ -796,7 +796,7 @@ device"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
-  <string name="not_is">"not is '%s'"</string>
+  <string name="not_is">Not %s?</string>
   <string name="not_now">Not now</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
   <string name="old">Vintage</string>
@@ -813,7 +813,7 @@ device"</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_in_process">Processing…</string>
   <string name="operation_refresh">Refresh</string>
-  <string name="operation_remove_from_face_album">Not this people</string>
+  <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_secret">Remove from hidden album</string>
   <string name="operation_rename">Rename</string>
   <string name="operation_set_as_screensaver">Set as screensaver</string>
@@ -948,7 +948,7 @@ device"</string>
   <string name="set_screensaver_path_title">Screensaver slideshow</string>
   <string name="set_wallpaper">Setting wallpaper…</string>
   <string name="settings">Settings</string>
-  <string name="settings_i_xiaomi_com">View all your photos and ashbin at www.mi.com/micloud</string>
+  <string name="settings_i_xiaomi_com">"View photos you've synced to Mi Cloud at www.mi.com/micloud"</string>
   <string name="shadow">Shadows</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
   <string name="share_album">Share album</string>
@@ -1045,7 +1045,7 @@ device"</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Warning</string>
   <string name="wechat">WeChat</string>
-  <string name="wechat_timeline_title">Wechat timeline</string>
+  <string name="wechat_timeline_title">WeChat timeline</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>

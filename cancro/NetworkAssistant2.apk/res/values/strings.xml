@@ -12,7 +12,7 @@
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
   <string name="alter_dialog_message">Using mobile data when roaming internationally may result in additional charges from your carrier.</string>
-  <string name="apn_exception_summary">"Test carrer's Access Point Name configurations"</string>
+  <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_detail">Details</string>
   <string name="app_mobile">Data</string>
@@ -94,8 +94,8 @@ For more info check the message you received from your carrier"</string>
   <string name="dialog_roaming_message">Allow this app to use mobile data when roaming internationally?</string>
   <string name="dialog_roaming_title">International roaming</string>
   <string name="disable_air_mode">Turn Airplane mode off first</string>
-  <string name="dns_exception_summary">"Router's DNS settings are unavailable."</string>
-  <string name="dns_exception_title">Test DNS</string>
+  <string name="dns_exception_summary">"Check router's DNS settings"</string>
+  <string name="dns_exception_title">Check DNS settings</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="enable_network">Turn Mobile network on first</string>
@@ -534,7 +534,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
-  <string name="wifi_exception_summary">Test an available WLAN network</string>
+  <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

@@ -50,13 +50,6 @@
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_stats_charging_label">Charging</string>
-  <string name="battery_stats_gps_on_label">GPS on</string>
-  <string name="battery_stats_on_battery">%1$s on battery</string>
-  <string name="battery_stats_phone_signal_label">Mobile network signal</string>
-  <string name="battery_stats_screen_on_label">Screen on</string>
-  <string name="battery_stats_wake_lock_label">Awake</string>
-  <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
   <string name="boot_day_shutdown_day">Device will power on in %1$dd at %2$s and power off in %3$dd at %4$s</string>
   <string name="boot_reminder">Power on your device at a scheduled time</string>
   <string name="boot_reminder_day">Device will power on in %1$dd %2$dh %3$dm</string>
@@ -73,7 +66,6 @@
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="btn_text_cleanup_all">Clean up</string>
   <string name="btn_text_done">Done</string>
-  <string name="btn_text_power_cleanup">Super Clean</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_optimize">Optimize</string>
   <string name="btn_text_quick_scan">Scan</string>
@@ -200,7 +192,6 @@
   <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
-  <string name="history_details_title">History details</string>
   <string name="info_and_call">Calls and messaging</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>
@@ -256,17 +247,6 @@
   <string name="menu_text_networkassistants_remain">%s left</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s battery</string>
-  <string name="month_report_activity_label">Monthly report</string>
-  <string name="month_report_click_reconnect_network">Try again</string>
-  <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
-  <string name="month_report_history_activity_label">Report history</string>
-  <string name="month_report_month_report_switch">Show monthly report</string>
-  <string name="month_report_result_share">Share</string>
-  <string name="month_report_share_img_fail">"Couldn't share"</string>
-  <string name="month_report_share_loading">Loading</string>
-  <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
-  <string name="month_report_warning_dialog_positive">Turn on</string>
-  <string name="month_report_warning_dialog_title">Monthly security report</string>
   <string name="name_antivirus">view Privacy Policy</string>
   <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
@@ -478,7 +458,6 @@
   <string name="preference_key_module_network_assistant">key_network_assistant</string>
   <string name="preference_key_module_permissions">key_module_permissions</string>
   <string name="preference_key_module_power_center">module_power_center</string>
-  <string name="preference_key_month_report_switch">key_month_report_switch</string>
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>

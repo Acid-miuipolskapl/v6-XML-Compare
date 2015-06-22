@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_cancel">Cancel</string>
+  <string name="action_confirm">Select</string>
   <string name="action_submit">Send</string>
   <string name="announcement">Attention</string>
   <string name="app_empty">"You haven't downloaded any apps."</string>
@@ -14,7 +15,9 @@
   <string name="bugreport_dump_complete_notification_title">Created bug report</string>
   <string name="bugreport_dump_start_notification_summary">Takes about a minute.</string>
   <string name="bugreport_dump_start_notification_title">Creating bug report</string>
-  <string name="bugreport_feedback_from">From: %s</string>
+  <string name="bugreport_tool_log">Create bug report</string>
+  <string name="bugreport_tool_log_toast">Log saved to %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="button_feedback">Other</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Bad photo quality</string>
@@ -51,10 +54,17 @@
   <string name="err_type_wifi">WLAN</string>
   <string name="err_type_xiaomi_family">Mi Family</string>
   <string name="err_type_xiaomi_service">Customer service</string>
+  <string name="hot_problem">View common bugs</string>
   <string name="hot_problem_empty">Empty</string>
   <string name="loading_apps">Loading list…</string>
+  <string name="loading_hot_problem">Loading…</string>
   <string name="loading_problem_list">Loading list…</string>
   <string name="menu_copy">Copy</string>
+  <string name="modem_tool_log">Capture modem logs</string>
+  <string name="modem_tool_log_start">Start</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Stop</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="network_disconnected">"Can't connect to network"</string>
   <string name="network_err">"Can't connect to the network."</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>

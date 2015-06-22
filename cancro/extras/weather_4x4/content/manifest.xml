@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Gadget version="1" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222" useVariableUpdater="DateTime.Hour">
-    <Var name="hour_counter" expression="#hour12" threshold="1">
-        <Trigger>
-            <BinderCommand name="weather_provider" command="refresh"/>
-        </Trigger>
-    </Var>
+<Gadget version="1" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
     <VariableBinders>
          <ContentProviderBinder
             name="weather_provider"
             uri="content://weather/weather"
             columns="city_id,city_name,weather_type,forecast_type,aqilevel,temperature,tmphighs,tmplows"
-            countName="hasweather">
+            countName="hasweather" denpendency="selected_city">
              <Variable name="weather_location_id" type="string" column="city_id"/>
              <Variable name="weather_location" type="string" column="city_name"/>
              <Variable name="weather_id" type="int" column="weather_type"/>
