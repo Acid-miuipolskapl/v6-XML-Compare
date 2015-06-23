@@ -1835,6 +1835,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_H2X_LC:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
