@@ -640,6 +640,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="checking_for_updates">Checking for updates…</string>
+  <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
   <string name="clear_activities">Clear defaults</string>
@@ -1825,6 +1826,7 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"Relax, we'll let you know if there's an update :)"</string>
   <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
+  <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
@@ -2523,6 +2525,7 @@ Attempts Remaining :"</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
+  <string name="smallwindow_smartcover_title">Transparent front cover</string>
   <string name="smartcover_sensitive_title">Smartcover mode</string>
   <string name="sms_application_title">Default SMS app</string>
   <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
