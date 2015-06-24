@@ -969,7 +969,7 @@ This setting affects all users on this phone."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
   <string name="dlg_ok">OK</string>
-  <string name="dndm_auto_button_title">Recurring do not disturb time</string>
+  <string name="dndm_auto_button_title">Repeat do not disturb time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
   <string name="dndm_auto_time_setting">Set time</string>
   <string name="dndm_auto_time_setting_summary">From %1$s to %2$s</string>
