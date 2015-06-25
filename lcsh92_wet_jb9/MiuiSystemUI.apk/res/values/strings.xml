@@ -79,12 +79,15 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="description_direction_left">Swipe left for %s.</string>
   <string name="description_direction_up">Swipe up for %s.</string>
   <string name="description_target_search">Search</string>
+  <string name="disable_notification_summary">Never show notifications from this app.</string>
+  <string name="disable_notification_title">Block notifications</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">"You're in car mode"</string>
+  <string name="expanded_notification_manager">Manage notifications</string>
   <string name="ext_media_badremoval_notification_message">Unmount SD card before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">SD card removed unexpectedly</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
@@ -139,6 +142,7 @@ Use only the supplied charger."</string>
   <string name="notification_otg_trackball_out">Trackball disconnected</string>
   <string name="notification_otg_unknow_in">OTG device connected</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
+  <string name="notification_template_text">" has a notification. Touch to view."</string>
   <string name="oldman_airplane_mode_text">airplane</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
