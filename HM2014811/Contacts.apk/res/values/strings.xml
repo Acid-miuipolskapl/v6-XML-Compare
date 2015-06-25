@@ -16,7 +16,7 @@
   <string name="addPeopleToGroup">To add some, edit the group.</string>
   <string name="add_2sec_pause">Add 2-sec pause</string>
   <string name="add_account">Add account</string>
-  <string name="add_blacklist">Block</string>
+  <string name="add_blacklist">Add to blocklist</string>
   <string name="add_blacklist_dialog_title">Add to blocklist</string>
   <string name="add_connection_button">Add connection</string>
   <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
@@ -99,9 +99,9 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Delete batch</string>
-  <string name="callrecordview_menu_delete">Delete</string>
+  <string name="callrecordview_menu_delete">Delete call history</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
-  <string name="callrecordview_menu_delete_all">Delete</string>
+  <string name="callrecordview_menu_delete_all">Delete call history</string>
   <string name="callrecordview_menu_delete_called">Clear outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Clear missed calls</string>
@@ -808,7 +808,7 @@ To add a contact to your list of favorites:
   <string name="refresh">Refresh</string>
   <string name="relationLabelsGroup">Relationship</string>
   <string name="removePhoto">Remove photo</string>
-  <string name="remove_blacklist">Unblock</string>
+  <string name="remove_blacklist">Remove from blocklist</string>
   <string name="remove_blacklist_dialog_title">Remove from blocklist</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts.
 
