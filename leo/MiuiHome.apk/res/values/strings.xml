@@ -2,6 +2,7 @@
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="app_being_backup_message">App is being backed up</string>
+  <string name="app_being_restored_message">App is being restored</string>
   <string name="app_category_books">Books</string>
   <string name="app_category_education">Education</string>
   <string name="app_category_entertainment">Entertainment</string>

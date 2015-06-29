@@ -675,6 +675,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="computing_size">Computing…</string>
   <string name="condition_provider_security_warning_summary">%1$s will be able to add exit conditions to Do not disturb mode.</string>
   <string name="condition_provider_security_warning_title">Enable %1$s?</string>
+  <string name="config_charging_function_name">charging</string>
   <string name="config_list_label">Configured networks</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="config_mtp_function_name">mtp</string>
@@ -1486,7 +1487,7 @@ If your system's text is still too small, try using "</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
-  <string name="lock_screen_unlock_show_summary">Go to directly to Home screen or password input from wake</string>
+  <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
   <string name="lock_settings">Lock screen</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
@@ -2876,8 +2877,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="usage_type_wifi_running">WLAN running</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
-  <string name="usb_charging_summary">Lets you disable all data and file transfer connection with computer and put device in charging only mode.</string>
-  <string name="usb_charging_title">Charging</string>
+  <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
+  <string name="usb_charging_title">Speed up charge</string>
   <string name="usb_connection_category">Connect as</string>
   <string name="usb_eject">Unmount USB storage</string>
   <string name="usb_eject_summary">Unmount the USB storage so you can safely remove it</string>

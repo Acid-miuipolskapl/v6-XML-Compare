@@ -520,7 +520,7 @@
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
-  <string name="summary_never_flow_verify">"This figure hasn't been verified with your carrier"</string>
+  <string name="summary_never_flow_verify">"This number hasn't been verified with your carrier"</string>
   <string name="summary_permission">Protect my privacy from potentially malicious third-party apps</string>
   <string name="summary_permission_root">Your device and personal data are more vulnerable to attack from apps that have root access</string>
   <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
