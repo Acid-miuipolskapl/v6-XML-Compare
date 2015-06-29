@@ -59,6 +59,10 @@
   <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="close">Close</string>
+  <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
+  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>

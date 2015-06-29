@@ -44,6 +44,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
+  <string name="activate_usb_message">Insert the SIM card to activate the USB function</string>
+  <string name="activate_usb_title">activate USB</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
   <string name="app_label">System UI</string>
@@ -198,6 +200,7 @@ Slide down to lock"</string>
   <string name="usb_debugging_title">Allow USB debugging?</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_device_permission_prompt">Allow the app %1$s to access USB device?</string>
+  <string name="usb_function_charging_text">Connected in charging mode</string>
   <string name="usb_mode_dont_ask">Remember this choice</string>
   <string name="usb_mode_mount_storage_title">Open USB storage?</string>
   <string name="usb_mode_notification">USB Storage</string>
