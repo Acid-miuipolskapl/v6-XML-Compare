@@ -106,6 +106,7 @@ Please input the verification code in the email"</string>
   <string name="error_ssl_hand_shake">Your device had a problem talking to our servers. Try setting your system date and time to that of your current location.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="error_user_name">Invalid username</string>
+  <string name="exceed_binded_phone_times_notice">This number has bound with too many mi account, please change another number and try again.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="failed_get_mibi_info">"Can't get balance"</string>
