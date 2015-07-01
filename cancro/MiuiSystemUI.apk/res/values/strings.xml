@@ -44,8 +44,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
-  <string name="activate_usb_message">Insert the SIM card to activate the USB function</string>
-  <string name="activate_usb_title">activate USB</string>
+  <string name="activate_usb_message">To activate this feature, insert your SIM card.</string>
+  <string name="activate_usb_title">Activate USB</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
   <string name="app_label">System UI</string>
