@@ -165,9 +165,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_downfull_no_info_title">"Can't download update"</string>
   <string name="update_feedback">Rate this update</string>
   <string name="update_feedback_end">"You missed this week's vote"</string>
-  <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
+  <string name="update_feedback_end_sum">You can join in every Monday.</string>
   <string name="update_feedback_expired">"You missed this week's vote.
-But you can take part next Tuesday."</string>
+But you can take part next Monday."</string>
   <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
   <string name="update_feedback_need_network">Connect to network first</string>
   <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>

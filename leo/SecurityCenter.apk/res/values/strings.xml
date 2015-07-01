@@ -271,7 +271,7 @@
   <string name="packages_subtitle">Included packages</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Accept</string>
-  <string name="permission_action_prompt">Prompt</string>
+  <string name="permission_action_prompt">Notify</string>
   <string name="permission_action_reject">Deny</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
   <string name="permission_close_permission_control_dialog_title">Turn off permission manager?</string>

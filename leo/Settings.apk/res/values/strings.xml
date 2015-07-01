@@ -3021,6 +3021,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_on_touch_title">Vibrate on touch</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
+  <string name="virtual_sim_category_title">Virtual Sim</string>
+  <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
   <string name="virus_scan_app_find_risk">%d risks found</string>
