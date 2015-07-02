@@ -7,6 +7,7 @@
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
   <string name="already_signin_description">"You've already checked in today."</string>
   <string name="app_name">File Explorer</string>
+  <string name="archive_send_to">Send to…</string>
   <string name="background">Hide</string>
   <string name="big5_summary">Traditional Chinese Windows default encoding</string>
   <string name="big5_title">BIG5</string>
@@ -24,10 +25,11 @@
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Docs</string>
   <string name="category_favorite">Starred</string>
-  <string name="category_log">Logs</string>
-  <string name="category_music">Music</string>
+  <string name="category_file">Files</string>
+  <string name="category_music">Musics</string>
   <string name="category_other">Other</string>
   <string name="category_picture">Images</string>
+  <string name="category_recent">Recent</string>
   <string name="category_theme">Themes</string>
   <string name="category_type_document">Documents</string>
   <string name="category_type_meida">Media</string>
@@ -57,6 +59,7 @@
   <string name="data_capacity">Data %1$s</string>
   <string name="decompress_cancel">Cancel</string>
   <string name="decompress_confirm">Extract</string>
+  <string name="decompress_destination_error">"Extraction failed: can't extract files to here."</string>
   <string name="decompress_fail">Extraction failed: a file with the same name exists or the archive is corrupted.</string>
   <string name="decompress_success">Extraction complete</string>
   <string name="decompress_to">Extract to…</string>
@@ -86,6 +89,7 @@
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
   <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
+  <string name="expand_all">All</string>
   <string name="fail_to_create_folder">Not enough space or the folder already exists.</string>
   <string name="fail_to_create_folder_unknown">"Can't create folder"</string>
   <string name="fail_to_rename">A file with the same name already exists.</string>
@@ -121,6 +125,7 @@
   <string name="gbk_title">GBK</string>
   <string name="get_cloud_space">Add 500GB</string>
   <string name="gigabyteShort">GB</string>
+  <string name="group_title">%2$s from %1$s</string>
   <string name="instruction">Enter the following address into an FTP client:</string>
   <string name="instruction_pre">Touch to start FTP server</string>
   <string name="kilobyteShort">KB</string>
@@ -166,6 +171,7 @@
   <string name="migrate_announcement_title">Move complete</string>
   <string name="mobile_photo">Tablet photos</string>
   <string name="mobile_photo_desc"/>
+  <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="my_app">App data</string>
@@ -265,6 +271,9 @@
   <string name="sd_card_available">Available: %1$s</string>
   <string name="sd_card_size">SD card: %1$s</string>
   <string name="sd_full">Your SD card is full.</string>
+  <string name="sdcard">SD Card</string>
+  <string name="sdcard_available">Available %1$s</string>
+  <string name="sdcard_total">Total %1$s</string>
   <string name="search_hint">Search</string>
   <string name="search_title">Search</string>
   <string name="send_to_midrive">KuaiPan</string>
@@ -297,8 +306,13 @@ Free space added %1$s"</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
+  <string name="tab_more">more</string>
   <string name="tab_path">FOLDERS</string>
+  <string name="tab_source">APPS</string>
+  <string name="tab_storage">STORAGE</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_more_source">More apps</string>
+  <string name="title_recent">Recent</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
@@ -336,7 +350,9 @@ Free space added %1$s"</string>
   <string name="wait_wifi">Waiting for WLAN</string>
   <string name="waiting">Waiting</string>
   <string name="wangpan_root_path">My drive</string>
+  <string name="wechat_video">Video at %s</string>
   <string name="wifi_state">WLAN network</string>
   <string name="xiaomi_account">Mi Account</string>
+  <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>
 </resources>
