@@ -138,8 +138,8 @@ For more info check the message you received from your carrier"</string>
   <string name="load_fail">"Couldn't load"</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
   <string name="lock_screen_setting_summary">Show notification when over 100KB is used in less than 2 days</string>
-  <string name="lock_screen_traffic_guide_notification_summary">Mobile data used during lock screen.</string>
-  <string name="lock_screen_traffic_guide_notification_title">Used %s of mobile data</string>
+  <string name="lock_screen_traffic_guide_notification_summary">Tap to manage data usage.</string>
+  <string name="lock_screen_traffic_guide_notification_title">%s used at lock screen</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
   <string name="lock_screen_traffic_warn_title">Lock screen notifications</string>
@@ -193,7 +193,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="mian_page_primary_txt">Internationally roaming</string>
   <string name="miuishare_title_more">More</string>
   <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Touch to view details.</string>
   <string name="network_assistant_upgraded_title">Updated</string>
@@ -213,7 +213,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
-  <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
+  <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
  "&lt;b&gt;"1. Public WLAN network issues
@@ -295,7 +295,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_daily_adjust">Set peak data limit</string>
   <string name="pref_daily_traffic">Peak data limit</string>
   <string name="pref_data_usage_ignore_settings">Ignore usage for selected apps</string>
-  <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of a select group of apps' data usage"</string>
+  <string name="pref_data_usage_ignore_settings_summary">"Don't keep track of selected apps' data usage"</string>
   <string name="pref_data_usage_not_set">Set data usage limit</string>
   <string name="pref_free_adjust">Set off-peak data limit</string>
   <string name="pref_free_traffic_exceed_limit">Notify me when data usage reaches limit</string>

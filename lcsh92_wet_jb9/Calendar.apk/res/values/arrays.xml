@@ -294,7 +294,7 @@
         <item>Day</item>
         <item>Week</item>
         <item>Month</item>
-        <item>Agenda</item>
+        <item>Events</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Running just a couple of minutes late.</item>
