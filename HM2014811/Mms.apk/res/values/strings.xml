@@ -59,6 +59,10 @@
   <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="close">Close</string>
+  <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
+  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>
@@ -437,7 +441,7 @@
   <string name="search_show_more_results">Show more</string>
   <string name="secs">secs</string>
   <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
+  <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
   <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>

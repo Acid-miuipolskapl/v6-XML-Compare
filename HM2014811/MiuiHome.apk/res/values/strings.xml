@@ -2,6 +2,7 @@
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
   <string name="app_being_backup_message">App is being backed up</string>
+  <string name="app_being_restored_message">App is being restored</string>
   <string name="app_category_books">Books</string>
   <string name="app_category_education">Education</string>
   <string name="app_category_entertainment">Entertainment</string>
@@ -53,6 +54,7 @@
   <string name="delete">Delete</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -188,6 +190,7 @@
   <string name="process"/>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
+  <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>

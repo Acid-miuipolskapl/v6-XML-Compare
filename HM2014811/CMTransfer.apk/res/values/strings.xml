@@ -9,7 +9,6 @@
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
   <string name="about_desc">CM Transfer</string>
-  <string name="about_email">mailto:%s</string>
   <string name="about_qq_qun">Our email: &lt;font color=#2a7fe9 &gt;cmtransfer@cmcm.com&lt;/font&gt;</string>
   <string name="about_subject">That is what I want to say to CM Transfer.</string>
   <string name="about_title_face_to_face">Share files to friends face to face</string>
@@ -348,8 +347,8 @@
   <string name="connected_failed">Connecting failure, please try again</string>
   <string name="contact_import_permission_string">To import contacts, we need to modify your contacts.</string>
   <string name="contact_permission_string">To transfer contacts, we need to read your contacts.</string>
-  <string name="contact_recv_import_hint_string">Received %1$d contacts, do you want to import them now?</string>
-  <string name="contact_recv_import_hint_string_one">Received %1$d contact, do you want to import it now?</string>
+  <string name="contact_recv_import_hint_string">Received &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contacts, do you want to import them now?</string>
+  <string name="contact_recv_import_hint_string_one">Received &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contact, do you want to import it now?</string>
   <string name="contact_transfer_easily">Transfer your contacts easily</string>
   <string name="continue_recv">No</string>
   <string name="continue_send">Send More</string>
@@ -395,6 +394,8 @@
   <string name="image_browse">View Pictures</string>
   <string name="image_browse_error">Send failure</string>
   <string name="imported">imported</string>
+  <string name="inbox">Inbox</string>
+  <string name="inbox_contacts_from_device">From</string>
   <string name="install">INSTALL</string>
   <string name="installed">installed</string>
   <string name="invite_bluetooth_explain">easily to send</string>

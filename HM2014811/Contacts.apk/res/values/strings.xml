@@ -182,7 +182,7 @@
   <string name="contact_edit_title_insert">Save to %s</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
   <string name="contact_editor_prompt_multiple_accounts">Save contact to</string>
-  <string name="contact_editor_prompt_one_account">The new contact will be %1$s Sync</string>
+  <string name="contact_editor_prompt_one_account">New contact will be synced with %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
   <string name="contact_is_readOnly">"Can't edit read-only contacts"</string>
   <string name="contact_list_loading">Loading…</string>
@@ -312,7 +312,7 @@
   <string name="dialog_new_group_account">Create group under account</string>
   <string name="dialog_phone_call_prohibited_message">Call not sent</string>
   <string name="dialog_sync_add">Add sync group</string>
-  <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Airplane mode.</string>
+  <string name="dialog_voicemail_airplane_mode_message">To call voicemail, turn off Airplane mode.</string>
   <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu &gt; Settings.</string>
   <string name="directory_search_label">Directory</string>
   <string name="display_all_contacts">All contacts</string>
@@ -461,7 +461,7 @@ Reason: \"%s\""</string>
   <string name="insertContactDescription">Create contact</string>
   <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
-  <string name="keep_local">Keep local</string>
+  <string name="keep_local">"Don't sync"</string>
   <string name="keep_local_btn">"Use phone's internal storage"</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
@@ -491,7 +491,7 @@ Reason: \"%s\""</string>
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
   <string name="loading_resource_detail_info">Loading…</string>
   <string name="local_invisible_directory">Other</string>
-  <string name="local_profile_title">My local profile</string>
+  <string name="local_profile_title">My profile</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
   <string name="login_ok">Sign in</string>
@@ -1130,6 +1130,8 @@ To add a contact to your list of favorites:
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
+  <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_contact_name">Unknown contact</string>
   <string name="upgrade_in_progress">Contact list is being updated.</string>
@@ -1191,7 +1193,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Can't connect to the network"</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
-  <string name="yellowpage_search_the_yellowpage">Search the directory</string>
+  <string name="yellowpage_search_the_yellowpage">Search Yellow Pages</string>
   <string name="yellowpage_user_profile">Profile</string>
   <string name="zero_items_selected">Select items</string>
 </resources>
