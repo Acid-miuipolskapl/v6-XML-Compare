@@ -94,6 +94,37 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
     <array name="combined_view_account_colors">
         <item>@color/combined_view_account_color_1</item>
         <item>@color/combined_view_account_color_2</item>
@@ -228,6 +259,10 @@
     </string-array>
     <string-array name="quote_devider_text_array">
         <item>@string/quote_divider_apple</item>
+        <item>@string/quote_divider_huawei_zh</item>
+        <item>@string/quote_divider_ipad_zh</item>
+        <item>@string/quote_divider_iphone_en</item>
+        <item>@string/quote_divider_ks_web</item>
         <item>@string/quote_divider_qq_en</item>
         <item>@string/quote_divider_qq_zh</item>
         <item>@string/quote_divider_iphone_fwd_en</item>
@@ -327,14 +362,6 @@
         <item>@string/special_text_3</item>
         <item>@string/special_text_4</item>
         <item>@string/special_text_5</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Sync succeeded.</item>
-        <item>Error in network connection.</item>
-        <item>Failed to sign in.</item>
-        <item>Error in secure connection.</item>
-        <item>Failed to sync.</item>
-        <item>Server error.</item>
     </string-array>
     <string-array name="wait_for_sync_body_txt_array">
         <item>@string/wait_for_sync_body_txt_array_1</item>

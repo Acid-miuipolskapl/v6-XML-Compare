@@ -403,6 +403,8 @@
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_service_unavailable">FDN service is not available.</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
+  <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+  <string name="flash_when_ring_title">Flash when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -460,6 +462,19 @@ Switch to the new provider anyway?"</string>
   <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
   <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
   <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
+  <string name="ivr_mo_area_code_settings">Current area code</string>
+  <string name="ivr_mo_area_code_settings_hint">Please input current area code</string>
+  <string name="ivr_parameter_settings">IVR parameters settings</string>
+  <string name="ivr_type_cm_1">M-Zone</string>
+  <string name="ivr_type_cm_2">GoTone</string>
+  <string name="ivr_type_cm_3">Easy own</string>
+  <string name="ivr_type_ct_1">China Telecom VIP</string>
+  <string name="ivr_type_ct_2">China Telecom customer</string>
+  <string name="ivr_type_cu_1">China Unicom 3G</string>
+  <string name="ivr_type_cu_2">China Unicom 4G</string>
+  <string name="ivr_type_cu_3">China Unicom 2G</string>
+  <string name="ivr_type_settings">Data plan settings</string>
+  <string name="ivr_type_settings_hint">Input your data plan code</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">When busy</string>
@@ -571,7 +586,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
   <string name="msim_sim_radio_off">Off</string>
-  <string name="msim_switch_data_conn_toast">Network settings have been changed to prefer LTE networks. You can change this in SIM card settings.</string>
+  <string name="msim_switch_data_conn_toast">Swapped SIM cards. Network type has changed. View additional info in SIM cards and mobile networks in the Settings menu.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 only supports GSM networks. Preferred network type for this slot has been changed to 2G only.</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
@@ -995,10 +1010,10 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sum_show_caller_id">Number displayed in outgoing calls</string>
   <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
-  <string name="t9_indexing_method_pinyin">Pinyin</string>
+  <string name="t9_indexing_method_pinyin">Latin alphabet</string>
   <string name="t9_indexing_method_title">T9 search input</string>
-  <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
+  <string name="t9_indexing_method_zhuyin">Zhuyin phonetic notation</string>
+  <string name="t9_indexing_rebuilding_message">Just a sec…</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
   <string name="telephony_setting">Call settings</string>
@@ -1087,6 +1102,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
+  <string name="voip_setting">Voip settings</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="wifi_calling_call_assistant">Call assistant</string>

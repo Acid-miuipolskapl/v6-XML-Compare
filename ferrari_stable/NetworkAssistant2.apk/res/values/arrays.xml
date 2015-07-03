@@ -63,4 +63,8 @@
         <item>2 MB</item>
         <item>3 MB</item>
     </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Frequently used</item>
+        <item>Name</item>
+    </string-array>
 </resources>

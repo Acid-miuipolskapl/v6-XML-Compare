@@ -75,6 +75,7 @@
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_description_recording">Recording…</string>
+  <string name="call_extension_conference_mode">Conference mode</string>
   <string name="call_forwarding_settings">Call forwarding settings</string>
   <string name="call_lost">Call has been lost.</string>
   <string name="call_record_button_label">Recording %s</string>
@@ -90,6 +91,7 @@
   <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
   <string name="call_recording_notification_title">Call recorded</string>
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
+  <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_settings">Call settings</string>
   <string name="call_title_redialing_with_times">Redialed %d times</string>
   <string name="caller_manage_header">Conference call %s</string>
@@ -304,6 +306,16 @@ Switch to the new provider anyway?"</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
   <string name="ivr_menu_list_title">Voice menu</string>
+  <string name="jeejen_answer_call_text">Answer call</string>
+  <string name="jeejen_card_title_call_cancel">Call cancel</string>
+  <string name="jeejen_card_title_call_ended">Call ended</string>
+  <string name="jeejen_card_title_dialing">Dialing</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Incoming call</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">End call</string>
+  <string name="jeejen_reject_call_text">Reject call</string>
+  <string name="jeejen_toggle_dialpad_text">Dialpad</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">Forward when busy</string>
@@ -433,6 +445,7 @@ Switch to the new provider anyway?"</string>
   <string name="onscreen_add_call_text">Add call</string>
   <string name="onscreen_audio_mode">Answer using</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Conference</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
   <string name="onscreen_audio_mode_headset">Headphones</string>
   <string name="onscreen_audio_mode_speaker">Speaker</string>
