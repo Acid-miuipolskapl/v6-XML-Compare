@@ -58,4 +58,10 @@
         <item>Frequently used</item>
         <item>Name</item>
     </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>None</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
 </resources>
