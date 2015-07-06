@@ -8,6 +8,14 @@
         <item quantity="other">Tracking data usage for %d apps</item>
         <item quantity="one">Tracking data usage for %d app</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps optimized</item>
+        <item quantity="one">%d app optimized</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps can be optimized</item>
+        <item quantity="one">%d app can be optimized</item>
+    </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">%d apps are using Data Saver</item>
         <item quantity="one">%d app is using Data Saver</item>

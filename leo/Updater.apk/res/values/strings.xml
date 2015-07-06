@@ -172,7 +172,7 @@ But you can take part next Monday."</string>
   <string name="update_feedback_need_network">Connect to network first</string>
   <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
   <string name="update_feel">What do you think?</string>
-  <string name="update_general">Indifferent</string>
+  <string name="update_general">So-so</string>
   <string name="update_happy">Satisfied!</string>
   <string name="update_monthly_build_only">Only update monthly builds</string>
   <string name="update_sad">Disappointed</string>

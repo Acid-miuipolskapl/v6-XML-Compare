@@ -3537,6 +3537,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>
+  <string name="zen_mode_alarm_use">Alarms user config</string>
   <string name="zen_mode_automation_category">Automation</string>
   <string name="zen_mode_default_option">Until you turn this off</string>
   <string name="zen_mode_downtime_category">Downtime (priority interruptions only)</string>
