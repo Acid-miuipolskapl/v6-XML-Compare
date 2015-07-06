@@ -28,6 +28,8 @@
 
 .field public static final IS_HM3LTE:Z
 
+.field public static final IS_HM3Y:Z
+
 .field public static final IS_HONGMI:Z
 
 .field public static final IS_MI1:Z
@@ -104,7 +106,7 @@
 
     move-result v0
 
-    if-eqz v0, :cond_4
+    if-eqz v0, :cond_5
 
     sget-object v0, Lmiui/os/Build;->MODEL:Ljava/lang/String;
 
@@ -114,7 +116,7 @@
 
     move-result v0
 
-    if-eqz v0, :cond_4
+    if-eqz v0, :cond_5
 
     move v0, v1
 
@@ -127,7 +129,7 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
 
-    if-eqz v0, :cond_5
+    if-eqz v0, :cond_6
 
     :cond_0
     move v0, v1
@@ -137,15 +139,15 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO:Z
 
-    if-eqz v0, :cond_6
+    if-eqz v0, :cond_7
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO_A:Z
 
-    if-nez v0, :cond_6
+    if-nez v0, :cond_7
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO_S:Z
 
-    if-nez v0, :cond_6
+    if-nez v0, :cond_7
 
     move v0, v1
 
@@ -162,7 +164,7 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM2S:Z
 
-    if-eqz v0, :cond_7
+    if-eqz v0, :cond_8
 
     :cond_1
     move v0, v1
@@ -181,6 +183,16 @@
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_THREE:Z
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_HM3:Z
+
+    const-string v0, "hermes"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     const-string v0, "dior"
 
@@ -242,24 +254,34 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI:Z
 
+    if-nez v0, :cond_2
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-eqz v0, :cond_9
+
+    :cond_2
+    move v0, v1
+
+    :goto_4
     sput-boolean v0, Lcom/android/camera/Device;->IS_HONGMI:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_XIAOMI:Z
 
-    if-nez v0, :cond_2
+    if-nez v0, :cond_3
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
 
-    if-nez v0, :cond_2
+    if-nez v0, :cond_3
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
-    if-eqz v0, :cond_3
-
-    :cond_2
-    move v2, v1
+    if-eqz v0, :cond_4
 
     :cond_3
+    move v2, v1
+
+    :cond_4
     sput-boolean v2, Lcom/android/camera/Device;->IS_XIAOMI:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_CM_CUSTOMIZATION:Z
@@ -276,25 +298,30 @@
 
     return-void
 
-    :cond_4
+    :cond_5
     move v0, v2
 
     goto/16 :goto_0
 
-    :cond_5
+    :cond_6
     move v0, v2
 
     goto/16 :goto_1
 
-    :cond_6
-    move v0, v2
-
-    goto :goto_2
-
     :cond_7
     move v0, v2
 
-    goto :goto_3
+    goto/16 :goto_2
+
+    :cond_8
+    move v0, v2
+
+    goto/16 :goto_3
+
+    :cond_9
+    move v0, v2
+
+    goto :goto_4
 .end method
 
 .method public constructor <init>()V
@@ -376,6 +403,15 @@
     const/16 v0, 0x14
 
     goto :goto_0
+.end method
+
+.method public static isCaptureStopFaceDetection()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    return v0
 .end method
 
 .method public static isFaceDetectNeedRotation()Z
@@ -529,7 +565,21 @@
     .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_HONGMI:Z
 
+    if-eqz v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
     return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isLowQualityPanorama()Z
@@ -569,6 +619,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM2S_LTE:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     if-eqz v0, :cond_1
 
@@ -717,6 +771,38 @@
     return v0
 .end method
 
+.method public static isSupportGradienter()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedASD()Z
     .locals 1
 
@@ -833,6 +919,10 @@
     .locals 1
 
     .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
 
     if-nez v0, :cond_0
@@ -955,6 +1045,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM2S_LTE:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -986,15 +1080,6 @@
     const/4 v0, 0x0
 
     goto :goto_0
-.end method
-
-.method public static isSupportedGotoGalleryInKeyguard()Z
-    .locals 1
-
-    .prologue
-    const/4 v0, 0x1
-
-    return v0
 .end method
 
 .method public static isSupportedHFR()Z
@@ -1223,6 +1308,10 @@
     .locals 1
 
     .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
 
     if-nez v0, :cond_0
@@ -1320,6 +1409,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_H2X_LC:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     if-eqz v0, :cond_1
 
@@ -1480,6 +1573,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     if-eqz v0, :cond_1
 

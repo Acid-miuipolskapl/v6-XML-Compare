@@ -124,9 +124,9 @@
         <item>@string/pref_camera_jpegquality_entry_low</item>
     </string-array>
     <string-array name="pref_camera_jpegquality_entryvalues">
-        <item>high</item>
-        <item>normal</item>
-        <item>low</item>
+        <item>@string/pref_camera_jpegquality_value_high</item>
+        <item>@string/pref_camera_jpegquality_value_normal</item>
+        <item>@string/pref_camera_jpegquality_value_low</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
@@ -562,7 +562,6 @@
     </array>
     <string-array name="pref_camera_exposuretime_entries">
         <item>@string/pref_camera_exposuretime_entry_auto</item>
-        <item>@string/pref_camera_exposuretime_entry_5000</item>
         <item>@string/pref_camera_exposuretime_entry_1000</item>
         <item>@string/pref_camera_exposuretime_entry_250</item>
         <item>@string/pref_camera_exposuretime_entry_125</item>
@@ -581,9 +580,8 @@
     </string-array>
     <string-array name="pref_camera_exposuretime_entryvalues">
         <item>0</item>
-        <item>250</item>
         <item>1000</item>
-        <item>5000</item>
+        <item>4000</item>
         <item>8000</item>
         <item>16667</item>
         <item>33333</item>

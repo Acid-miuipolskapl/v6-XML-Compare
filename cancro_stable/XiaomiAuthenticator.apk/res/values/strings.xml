@@ -153,7 +153,7 @@ The Date &amp; Time settings on this device have not been changed."</string>
   <string name="tip2_patternforgotten">Touch reset to clear account data and reactivate.</string>
   <string name="tip_lockpattern">Your password must longer than 4 characters</string>
   <string name="title_change_lockpattern">Configure pattern lock</string>
-  <string name="title_createpattern">Set password</string>
+  <string name="title_createpattern">Create password</string>
   <string name="title_forgetpattern">Forget password</string>
   <string name="title_gesture">Pattern lock</string>
   <string name="title_lockpattern">Require pattern lock</string>
