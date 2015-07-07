@@ -136,7 +136,7 @@ Please input the verification code in the email"</string>
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_dspt_provision">"Sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="mi_account_identity_title">Verify your identity</string>
-  <string name="mi_support_service">Support</string>
+  <string name="mi_pass">Mi Pass</string>
   <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_area_code_title">Country code</string>
