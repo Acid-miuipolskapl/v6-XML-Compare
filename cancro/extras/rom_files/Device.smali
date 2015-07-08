@@ -465,6 +465,15 @@
     return v0
 .end method
 
+.method public static isEffectWatermarkFilted()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    return v0
+.end method
+
 .method public static isFaceDetectNeedRotation()Z
     .locals 1
 
