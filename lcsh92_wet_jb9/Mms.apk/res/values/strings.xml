@@ -247,6 +247,7 @@
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Me</string>
+  <string name="mipub_messaging_entry_title">Mi Messages</string>
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>

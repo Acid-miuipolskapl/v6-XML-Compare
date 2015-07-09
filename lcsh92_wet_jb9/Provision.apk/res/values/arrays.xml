@@ -9,4 +9,21 @@
         <item>com.iflytek.inputmethod.oem/com.iflytek.inputmethod.FlyIME</item>
         <item>com.iflytek.inputmethod.oem/.FlyIME</item>
     </string-array>
+    <string-array name="organized_locales">
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>my</item>
+        <item>ph</item>
+        <item>sg</item>
+        <item>tw</item>
+        <item>br</item>
+        <item>ru</item>
+        <item>vn</item>
+        <item>tr</item>
+        <item>th</item>
+        <item>ae</item>
+        <item>mm</item>
+        <item>mx</item>
+    </string-array>
 </resources>

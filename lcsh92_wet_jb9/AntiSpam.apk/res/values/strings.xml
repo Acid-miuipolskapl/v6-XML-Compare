@@ -186,6 +186,10 @@
   <string name="note_sms_none">No messages</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="open_callwait">On</string>
+  <string name="quiet">Silence</string>
+  <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
+  <string name="quiet_mode">Silence all disturbances</string>
+  <string name="quiet_off_mode">Always allow disturbances</string>
   <string name="read_all_sms">Mark as read</string>
   <string name="report">Report</string>
   <string name="report_error">"Couldn't report message"</string>

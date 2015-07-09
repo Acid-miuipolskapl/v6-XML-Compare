@@ -252,12 +252,12 @@
   <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
   <string name="month_report_history_activity_label">Report history</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
-  <string name="month_report_network_dialog_description">Allow Security app to connect to the internet to get news?</string>
+  <string name="month_report_network_dialog_description">Allow this app to connect to the internet to get report info?</string>
   <string name="month_report_network_dialog_positive">Allow</string>
-  <string name="month_report_network_dialog_title">"Can't get security news"</string>
+  <string name="month_report_network_dialog_title">"Can't get report info"</string>
   <string name="month_report_result_share">Share</string>
   <string name="month_report_share_img_fail">"Couldn't share"</string>
-  <string name="month_report_share_loading">Loading</string>
+  <string name="month_report_share_loading">Just a sec…</string>
   <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
   <string name="month_report_warning_dialog_positive">Turn on</string>
   <string name="month_report_warning_dialog_title">Monthly security report</string>

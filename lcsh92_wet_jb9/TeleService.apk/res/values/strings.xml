@@ -89,7 +89,10 @@
   <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
   <string name="badPin2">"The old PIN2 you typed isn't correct. Try again."</string>
   <string name="badPuk2">"The PUK2 you typed isn't correct. Try again."</string>
+  <string name="bad_pin">The PIN you entered is incorrect.</string>
   <string name="bad_pin2">The old PIN2 you entered is incorrect.</string>
+  <string name="bad_puk">The PUK you entered is incorrect.</string>
+  <string name="bad_puk2">The PUK2 you entered is incorrect.</string>
   <string name="bf_news_settings">Business and Financial News</string>
   <string name="buttonTxtContinue">Continue</string>
   <string name="callDurationFormat">%1$s mins %2$s secs</string>
@@ -225,6 +228,8 @@
   <string name="confirm_3g_switch_to_off">Are you sure you want to turn off 3G service? This will also turn off Video call service automatically.</string>
   <string name="confirm_device_info_full">SD card is out of space, the recording has been saved.</string>
   <string name="confirm_password_label">Confirm new password</string>
+  <string name="confirm_pin2_label">Confirm new PIN2</string>
+  <string name="confirm_pin_label">Confirm new PIN</string>
   <string name="confirm_save_info_saved">The recording has been saved</string>
   <string name="confirm_save_info_saved_to">The recording has been saved to</string>
   <string name="connect_disconnect_vibrate_none">None</string>
@@ -391,7 +396,7 @@
   <string name="fdn_contact_number_invalid">Invalid contact number.</string>
   <string name="fdn_contact_updated">Fixed dialing number updated.</string>
   <string name="fdn_disabled">Fixed Dialing Numbers are disabled</string>
-  <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>
+  <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 blocked. Change PIN2 and try again.</string>
   <string name="fdn_enabled">Fixed Dialing Numbers are enabled</string>
   <string name="fdn_errorcode_name_info">Failed,the length of contact name is too long.</string>
   <string name="fdn_errorcode_number_info">Failed,the length of contact number is too long.</string>
@@ -653,6 +658,8 @@ Will use preferred network instead."</string>
   <string name="newPin2Label">New PIN2</string>
   <string name="newPinLabel">New PIN</string>
   <string name="new_password_label">New 4-digit password</string>
+  <string name="new_pin2_label">New PIN2</string>
+  <string name="new_pin_label">New PIN</string>
   <string name="no_change">No changes were made.</string>
   <string name="no_internet_available">To place an Internet call, check your Internet connection first.</string>
   <string name="no_internet_available_title">No Internet connection</string>
@@ -697,6 +704,8 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Current 4-digit password</string>
+  <string name="old_pin2_label">Old PIN2</string>
+  <string name="old_pin_label">Old PIN</string>
   <string name="onHold">On hold</string>
   <string name="one_retry_left">1 retry left</string>
   <string name="onscreenAddCallText">Add call</string>
@@ -771,6 +780,8 @@ There are %d remaining attempts."</string>
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
   <string name="pin2_unblocked">PIN2 unblock succeeded</string>
+  <string name="pin_attempts">"
+%d attempts remaining."</string>
   <string name="pin_changed">SIM PIN changed successfully.</string>
   <string name="pin_failed">The PIN you typed was incorrect.</string>
   <string name="pin_length_indicate">(4-8 digits)</string>
