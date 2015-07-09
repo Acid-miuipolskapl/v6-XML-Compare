@@ -117,6 +117,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_device_locked">Your address was blocked by device lock</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
@@ -134,7 +135,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
   <string name="account_setup_incoming_mail_adress_label">Email address</string>
-  <string name="account_setup_incoming_mail_domain_hint">This field can be empty</string>
+  <string name="account_setup_incoming_mail_domain_hint">Optional</string>
   <string name="account_setup_incoming_mail_domain_label">Domain</string>
   <string name="account_setup_incoming_password_label">Password</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -250,6 +251,8 @@
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_not_found">"Can't download attachment"</string>
+  <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
+  <string name="attachment_open_SecurityException_title">Failed to open file</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -389,12 +392,13 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Sync mail option is off,can't receive new messages."</string>
-  <string name="dialog_auto_download_failed">"Can't finish auto-download, try downloading manually."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Sync option is off,can't receive new messages."</string>
-  <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
-  <string name="dialog_insufficient_space_on_external">"Can't finish download. Not enough space on external storage."</string>
-  <string name="dialog_insufficient_space_on_internal">Lack of storage space to auto-download attachments.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
+  <string name="dialog_auto_download_failed">"Couldn't download automatically."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
+  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space to download attachments for %s.</string>
+  <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
+  <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
   <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
@@ -723,7 +727,7 @@ CC: %4$s
   <string name="outbox_alert_button_confirm">Edit</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
   <string name="outbox_alert_button_resend">Resend</string>
-  <string name="outbox_alert_certificate_error">E-mail certificate excetpion, please update it</string>
+  <string name="outbox_alert_certificate_error">"Contact your email system's administrator and update your certificate."</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
@@ -736,7 +740,7 @@ CC: %4$s
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
-  <string name="outbox_alert_rw_io_error">Mail read-write excetpion, please try to write and send it again</string>
+  <string name="outbox_alert_rw_io_error">An error occurred. Wait a minute or two and try again.</string>
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"Couldn't send mail"</string>
   <string name="outbox_no_mails">Empty</string>
@@ -833,8 +837,8 @@ CC: %4$s
   <string name="quick_4">"Let's set up a meeting to discuss this."</string>
   <string name="quick_reply_dialog_title">Choose a reply</string>
   <string name="quick_reply_hint">Reply to all %1$d people</string>
-  <string name="quick_reply_hint_bcc">(In BCC)</string>
-  <string name="quick_reply_hint_cc">(In CC)</string>
+  <string name="quick_reply_hint_bcc">"(In BCC) "</string>
+  <string name="quick_reply_hint_cc">"(In CC) "</string>
   <string name="quick_responses_empty_view">No quick replies</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -946,6 +950,7 @@ CC: %4$s
   <string name="ser_resp_err_map_or">or</string>
   <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
   <string name="ser_resp_err_map_serclosed">Server is closed</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">How to solve?</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
   <string name="settings_activity_title">Settings</string>
@@ -1025,6 +1030,8 @@ CC: %4$s
   <string name="unread_from_someone">Unread mail from %s</string>
   <string name="unread_string">conversation unread</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
+  <string name="unzip_file_failed">Unzip failed！</string>
+  <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
   <string name="upload_log">Upload logs</string>
@@ -1034,7 +1041,7 @@ CC: %4$s
   <string name="upload_log_title">Send log to Xiaomi</string>
   <string name="upload_log_yes">Upload</string>
   <string name="uploading_logs">Just a sec…</string>
-  <string name="validation_failed_prompt">"Can't verify account, check %s server settings"</string>
+  <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>

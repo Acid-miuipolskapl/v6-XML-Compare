@@ -509,8 +509,6 @@ with friends"</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
-  <string name="confirm_all_photo_are_this_people_face">Associate all photos with %s?</string>
-  <string name="confirm_all_photo_not_this_people_face">No matches for %s?</string>
   <string name="confirm_delete">Delete %s photos?</string>
   <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;</string>
   <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
@@ -521,8 +519,6 @@ with friends"</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
   <string name="confirm_download_video_title">Download video</string>
   <string name="confirm_face">Match</string>
-  <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
-  <string name="confirm_left_photo_will_move_out">"%s isn't in any of the remaining photos?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Not this person</string>
@@ -624,7 +620,8 @@ with friends"</string>
   <string name="face_albumset_empty">Empty.</string>
   <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
-  <string name="face_albumset_use_tip">Sort photos by the people that are in them</string>
+  <string name="face_albumset_use_tip">"Sort photos by the people that are in them
+This progress is automatically completed by the machine without any human intervention"</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
@@ -878,6 +875,8 @@ device"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
+  <string name="recommanded_face_abandon_tip">Removed from recommandation</string>
+  <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="redeye">Red eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Tap to remove red eye</string>

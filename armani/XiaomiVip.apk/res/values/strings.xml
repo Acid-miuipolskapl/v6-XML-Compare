@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action">View</string>
+  <string name="already_used">Used</string>
+  <string name="app_name">XiaomiVip</string>
+  <string name="award_taken">Points collected</string>
+  <string name="award_time">Collected on %s</string>
+  <string name="awarded_package_is_expired">Expired</string>
+  <string name="awarded_package_was_redeemed">Redeemed</string>
+  <string name="cube_ptr_hours_ago"> hours ago</string>
+  <string name="cube_ptr_last_update">last update: </string>
+  <string name="cube_ptr_minutes_ago"> minutes ago</string>
+  <string name="cube_ptr_pull_down">Pull Down</string>
+  <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+  <string name="cube_ptr_refresh_complete">Updated.</string>
+  <string name="cube_ptr_refreshing">Updating...</string>
+  <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+  <string name="cube_ptr_seconds_ago"> seconds ago</string>
+  <string name="exp_buff">+%s%% experience</string>
+  <string name="experience">Exp</string>
+  <string name="expired">Expired</string>
+  <string name="fail_reach_server">"Can't connect to server"</string>
+  <string name="in_progress">Sending request…</string>
+  <string name="invalid_json">Response is an invalid JSON string</string>
+  <string name="level">Level</string>
+  <string name="level_detail">Daily task limit: %d</string>
+  <string name="level_exp_value" formatted="false">%d/%d</string>
+  <string name="level_info_format" formatted="false">"Level %d %d/%d
+%s"</string>
+  <string name="my_award">My awards</string>
+  <string name="no_app">Please install the app first</string>
+  <string name="no_award">No awards</string>
+  <string name="no_network">"Can't connect to network"</string>
+  <string name="no_task">All tasks have been completed</string>
+  <string name="passive_task">Passive Tasks</string>
+  <string name="privilege">Privilege</string>
+  <string name="promote">Level up</string>
+  <string name="query_level_fail">"Couldn't get info"</string>
+  <string name="query_user_tasks_fail">"Can't get task info"</string>
+  <string name="take_awarded_package">Redeem</string>
+  <string name="take_awarded_package_failed">"Couldn't redeem gift. Wait a minute or two and try again."</string>
+  <string name="task">Tasks</string>
+  <string name="task_begin">In progress…</string>
+  <string name="task_completed">Completed</string>
+  <string name="task_done">Done</string>
+  <string name="task_limit">No task left for today, see you tomorrow!</string>
+  <string name="task_not_completed">Not completed</string>
+  <string name="task_ongoing">Ongoing</string>
+  <string name="task_score">%d points</string>
+  <string name="task_select_title">Pick a task</string>
+  <string name="task_start">Start</string>
+  <string name="task_take_award">Get awards</string>
+  <string name="today_task">"Today's tasks"</string>
+  <string name="today_task_format" formatted="false">%d/%d</string>
+  <string name="unlimited_task">Special tasks</string>
+  <string name="upgraded">Lv Up!</string>
+  <string name="use">Use</string>
+  <string name="validity">Expires on %s</string>
+</resources>
