@@ -35,6 +35,7 @@
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
   <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Set peak data usage limit</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
@@ -245,6 +246,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="notify_daily_limit_body">%s used today. Tap to set limit.</string>
   <string name="notify_daily_limit_title">Set a daily data limit</string>
   <string name="notify_daily_limit_title_for_slotnum">Set daily data limit for %s</string>
+  <string name="notify_daily_traffic_saving_title">%s used today</string>
   <string name="notify_month_traffic_body">%s used this month. Tap to set limit.</string>
   <string name="notify_setting_pkg_title">Set your monthly data limit</string>
   <string name="notify_setting_pkg_title_for_slotnum">Set monthly data limit for %s</string>
@@ -331,10 +333,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Show data usage notifications</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Reduce data usage for new apps</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically activate Data saver for newly installed apps for which data usage can be significantly reduced</string>
+  <string name="pref_traffic_saving_compressed">Compressed</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will turning on data saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Why isn't data saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data saver only kicks in when you're using your carrier's network to send or download content."</string>
+  <string name="pref_traffic_saving_no_compress">Uncompressed</string>
   <string name="pref_traffic_saving_notify_switch">Show in notification shade</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Show data saver stats in the notification shade</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Show data usage stats in notification shade</string>
+  <string name="pref_traffic_saving_pic_compress_level">Image compression ratio</string>
   <string name="pref_traffic_saving_switch">Reduce data usage</string>
   <string name="pref_traffic_saving_switch_hint">Use proxy to compress data</string>
   <string name="pref_traffic_saving_title">Data saver settings</string>
@@ -352,6 +359,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="protocol_exception_title">Network protocol diagnostics</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data Saver.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
@@ -469,6 +477,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_protection_use_data">Data enabled</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
+  <string name="traffic_saving_button_mng">Manage Data saver apps</string>
   <string name="traffic_saving_button_sorted">Details</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
   <string name="traffic_saving_button_start">Turn on</string>
@@ -486,8 +495,19 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_msg_month">Saved this month</string>
   <string name="traffic_saving_msg_not_started">Data saver is off</string>
   <string name="traffic_saving_msg_today">saved today</string>
+  <string name="traffic_saving_need_optimize">Can be optimized</string>
+  <string name="traffic_saving_notification_button_start">Activate</string>
   <string name="traffic_saving_notify_start_content">%s saved this month.</string>
   <string name="traffic_saving_notify_start_title">Reduced your data usage</string>
+  <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
+  <string name="traffic_saving_optimized">Already optimized</string>
+  <string name="traffic_saving_pic_compress_orig">Original</string>
+  <string name="traffic_saving_ratio">Data usage reduced %.2f%%</string>
+  <string name="traffic_saving_ratio_low">"Can't significantly reduce data usage"</string>
+  <string name="traffic_saving_recommanded_close">Turn this item off</string>
+  <string name="traffic_saving_recommanded_open">Turn this item on</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Activate</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_title">Data saver</string>
   <string name="traffic_saving_toast_start_mobile">Data saver is on</string>
