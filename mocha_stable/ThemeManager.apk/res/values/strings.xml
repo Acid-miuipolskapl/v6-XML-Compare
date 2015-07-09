@@ -32,7 +32,6 @@
   <string name="description_uploadtime">Update</string>
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Size: %2$s</string>
-  <string name="deselect_all">@miui:string/deselect_all</string>
   <string name="desktop_wallpaper">Home screen</string>
   <string name="download_failed">Download failed</string>
   <string name="download_preview_failed">"Can't load preview"</string>
@@ -228,6 +227,7 @@
   <string name="resource_see_more">View more</string>
   <string name="resource_select">Select</string>
   <string name="resource_select_ringtone_confirm">Select this sound?</string>
+  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
   <string name="resource_selected">Featured</string>
   <string name="resource_send">Send</string>
   <string name="resource_server_alert_dialog_title">"We'll be right back…"</string>
@@ -261,7 +261,6 @@
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
-  <string name="select_all">@miui:string/select_all</string>
   <string name="selected_resource_file_invalid">"Can't use selected resource file"</string>
   <string name="settings">Settings</string>
   <string name="short_ringtone_resource">Short</string>
@@ -309,6 +308,8 @@
   <string name="theme_fresh_man_notifaction">New themes available</string>
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
   <string name="theme_import_from_sdcard">Import from SD card</string>
+  <string name="theme_is_external_priority_storage">Save to SD card</string>
+  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
   <string name="theme_multiple_button_title_customize">Customize</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>

@@ -101,7 +101,6 @@
   <string name="download_sdcard_busy">The SD card is busy.</string>
   <string name="download_sdcard_busy_title">SD card unavailable</string>
   <string name="download_start">Starting…</string>
-  <string name="edit_mode_title_empty">Select items</string>
   <string name="empty_bookmark">No bookmarks.</string>
   <string name="empty_history">No history.</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
@@ -162,6 +161,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_content_select_all">SelectAll</string>
   <string name="miui_content_share">Share</string>
   <string name="miui_content_web_search">Search</string>
+  <string name="miui_edit_mode_title_empty">Select items</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
   <string name="miuichromium_error_page_reason_network">View link URL</string>
   <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>

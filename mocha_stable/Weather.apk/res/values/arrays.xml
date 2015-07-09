@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>New moon</item>
+        <item>Waxing crescent</item>
+        <item>First quarter</item>
+        <item>Waxing gibbous</item>
+        <item>Full moon</item>
+        <item>Waning gibbous</item>
+        <item>Last quarter</item>
+        <item>Waning crescent</item>
+        <item>Dark moon</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Sunny</item>
         <item>Cloudy</item>
@@ -45,16 +56,5 @@
         <item>Wind SW</item>
         <item>Wind W</item>
         <item>Wind NW</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>New moon</item>
-        <item>Waxing crescent</item>
-        <item>First quarter</item>
-        <item>Waxing gibbous</item>
-        <item>Full moon</item>
-        <item>Waning gibbous</item>
-        <item>Last quarter</item>
-        <item>Waning crescent</item>
-        <item>Dark moon</item>
     </string-array>
 </resources>

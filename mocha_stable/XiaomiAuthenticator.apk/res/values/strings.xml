@@ -82,7 +82,7 @@ Sign in at account.xiaomi.com and click Reactivate."</string>
   <string name="lockpattern_recording_inprogress">Release finger when done.</string>
   <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
   <string name="lockpattern_redraw_button_text">Redraw</string>
-  <string name="lockpattern_retry_text">&lt;u&gt;Reset pattern password&lt;/u&gt;</string>
+  <string name="lockpattern_retry_text">Reset pattern password</string>
   <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>

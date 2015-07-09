@@ -27,6 +27,7 @@
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Only check using WLAN</string>
   <string name="check_update_when_wifi_available_sum">"Only check for updates when you're connected to WLAN"</string>
+  <string name="clean_up_button">Clean up</string>
   <string name="comment_invalid">Rate this update (touch the stars)</string>
   <string name="comment_publish">Submit</string>
   <string name="comment_sending">Sending…</string>
