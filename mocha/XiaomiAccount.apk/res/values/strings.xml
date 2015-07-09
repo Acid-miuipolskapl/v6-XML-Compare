@@ -46,6 +46,8 @@
   <string name="account_user_using_facebook_avatar">Use Facebook profile picture</string>
   <string name="account_user_using_qq_avatar">Use QQ profile picture</string>
   <string name="account_user_using_weibo_avatar">Use Sina Weibo profile picture</string>
+  <string name="account_vip_level">Vip level</string>
+  <string name="account_vip_task">Task</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="add_account">Connect account</string>
   <string name="alert_title_remove_account">Remove account?</string>
@@ -106,7 +108,7 @@ Please input the verification code in the email"</string>
   <string name="error_ssl_hand_shake">Your device had a problem talking to our servers. Try setting your system date and time to that of your current location.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="error_user_name">Invalid username</string>
-  <string name="exceed_binded_phone_times_notice">This number has bound with too many mi account, please change another number and try again.</string>
+  <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="failed_get_mibi_info">"Can't get balance"</string>
@@ -134,7 +136,7 @@ Please input the verification code in the email"</string>
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_dspt_provision">"Sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="mi_account_identity_title">Verify your identity</string>
-  <string name="mi_support_service">Support</string>
+  <string name="mi_pass">Mi Pass</string>
   <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_area_code_title">Country code</string>
@@ -315,7 +317,7 @@ To activate your account, follow the
   <string name="remove_trust_btn">Remove from trusted devices</string>
   <string name="remove_trust_notice">Remove from trusted devices and sign out</string>
   <string name="removing_account">Signing out…</string>
-  <string name="rename_current_device">"Change device's name"</string>
+  <string name="rename_current_device">Change device name</string>
   <string name="replace_binded_phone">Replace phone</string>
   <string name="restart_action">Restart</string>
   <string name="restart_email_bind_message">An email with a verification code will be sent to this address.</string>
@@ -352,6 +354,7 @@ To activate your account, follow the
   <string name="vcode_prompt_long">Enter verification code</string>
   <string name="verification_failed">Authentication failed</string>
   <string name="verify">Verify</string>
+  <string name="vip_level_value">LV%d</string>
   <string name="wipe_data_dialog_msg">%s will be deleted if you continue.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>

@@ -620,7 +620,8 @@ with friends"</string>
   <string name="face_albumset_empty">Empty.</string>
   <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
-  <string name="face_albumset_use_tip">Sort photos by the people that are in them</string>
+  <string name="face_albumset_use_tip">"Sort photos by the people that are in them
+This progress is automatically completed by the machine without any human intervention"</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
