@@ -711,7 +711,7 @@
     .locals 1
 
     .prologue
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+    const/4 v0, 0x0
 
     return v0
 .end method
