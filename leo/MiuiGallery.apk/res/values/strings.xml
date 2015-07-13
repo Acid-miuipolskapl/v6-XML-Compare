@@ -575,6 +575,8 @@ with friends"</string>
   <string name="download_fail">"Couldn't download"</string>
   <string name="download_fail_confirm_continue">"Couldn't download %s."</string>
   <string name="download_refocus_data">Download refocusing data</string>
+  <string name="download_without_wifi_msg">"Using your mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+  <string name="download_without_wifi_title">Data usage warning</string>
   <string name="duotone">Duotone</string>
   <string name="duration">Duration</string>
   <string name="early_bird">Earlybird</string>
@@ -620,8 +622,7 @@ with friends"</string>
   <string name="face_albumset_empty">Empty.</string>
   <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
-  <string name="face_albumset_use_tip">"Sort photos by the people that are in them
-This progress is automatically completed by the machine without any human intervention"</string>
+  <string name="face_albumset_use_tip">Automatically sort photos by the people that are in them.</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
@@ -875,7 +876,7 @@ device"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
-  <string name="recommanded_face_abandon_tip">Removed from recommandation</string>
+  <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="redeye">Red eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
