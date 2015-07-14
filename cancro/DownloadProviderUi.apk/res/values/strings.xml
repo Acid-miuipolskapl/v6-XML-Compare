@@ -7,7 +7,7 @@
   <string name="all_downloads">All downloads</string>
   <string name="all_fileter">All</string>
   <string name="all_the_internet">All networks</string>
-  <string name="apk_filter">APK</string>
+  <string name="apk_filter">Apk</string>
   <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="auth_activity_title">Xunlei Account</string>
@@ -40,8 +40,9 @@
   <string name="dialog_title_queued_body">File not yet available</string>
   <string name="disable">Off</string>
   <string name="display_expire_netiv1">This month</string>
-  <string name="doc_filter">DOCUMENT</string>
-  <string name="download_complete">Complete</string>
+  <string name="doc_filter">Document</string>
+  <string name="download">Downloads</string>
+  <string name="download_complete">Completed</string>
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Insufficient space</string>
   <string name="download_filesize_unknown">Unknown</string>
@@ -72,6 +73,8 @@
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
   <string name="download_wait_connect">Waiting to connect</string>
   <string name="download_when_network_connected">Download using data connection</string>
+  <string name="downloaded_empty">No downloaded content</string>
+  <string name="downloading_empty">No downloading content</string>
   <string name="downloads_operating">Working…</string>
   <string name="dredge_xunlei_account">Create a Xunlei Account</string>
   <string name="editmode_menu_delete">Delete</string>
@@ -85,7 +88,7 @@
   <string name="high_speed_channel">Xunlei accelerator (paid)</string>
   <string name="immediately_a_renewal">Renew now</string>
   <string name="keep_queued_download">Keep</string>
-  <string name="media_filter">MEDIA</string>
+  <string name="media_filter">Media</string>
   <string name="member_cost">Annual</string>
   <string name="menu_all_task_pause">Pause all</string>
   <string name="menu_all_task_start">Start all</string>
@@ -102,8 +105,8 @@
   <string name="open_download">Open</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
   <string name="original_price">Price</string>
-  <string name="other_filter">OTHER</string>
-  <string name="package_filter">PACKAGES</string>
+  <string name="other_filter">Other</string>
+  <string name="package_filter">Package</string>
   <string name="pause_download">Pause</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_insufficient_space">Waiting for space</string>
@@ -129,7 +132,7 @@
   <string name="recommend_installing">Installing…</string>
   <string name="recommend_loading">Loading…</string>
   <string name="recommend_open">Open</string>
-  <string name="recommend_other_downloads">Popular</string>
+  <string name="recommend_other_downloads">大家还下载了</string>
   <string name="recommend_paused">Paused</string>
   <string name="recommend_prepare">Waiting…</string>
   <string name="recommend_show_other_downloads">View popular</string>
@@ -141,6 +144,7 @@
   <string name="select_all">Select All</string>
   <string name="select_operation_items">Choose items</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
+  <string name="show_more">More(%s)</string>
   <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
