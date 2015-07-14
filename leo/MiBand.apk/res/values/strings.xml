@@ -412,6 +412,7 @@ Use Mi Scale to record your infant's weight"</string>
   <string name="get_help">Need help</string>
   <string name="get_image_file_fail">"Can't find image"</string>
   <string name="give_up">Cancel</string>
+  <string name="go_running">Running</string>
   <string name="goal_weight">Goal</string>
   <string name="goals_push_five">50% complete</string>
   <string name="goals_push_nine">90% complete</string>
@@ -913,11 +914,15 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_main_avoid_use_indoor">Avoid use indoor</string>
   <string name="running_main_back_button_in_dialog">Back</string>
   <string name="running_main_continue_button_in_dialog">Continue</string>
+  <string name="running_main_go_now">Go</string>
   <string name="running_main_go_outdoor">Please go outdoor</string>
   <string name="running_main_gps_cannot_record">Your GPS may not available</string>
   <string name="running_main_gps_prefix">GPS:</string>
   <string name="running_main_mileage">%1$d/%2$dkm</string>
   <string name="running_main_mileage_one">%1$skm</string>
+  <string name="running_main_startup_subtitle1">To record accuracy running data</string>
+  <string name="running_main_startup_subtitle2">use GPS and miband</string>
+  <string name="running_main_startup_title1">Go outdoor, Go running</string>
   <string name="running_main_title">Running</string>
   <string name="running_map_mode">Map</string>
   <string name="running_marathon_cost_time">Marathon time: %s</string>

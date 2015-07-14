@@ -1690,6 +1690,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="miui_allow_light">Notification light</string>
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Vibrations</string>
+  <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
   <string name="miui_disturb_title">Choose mode</string>
   <string name="miui_screensaver_show_time">Duration</string>
   <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
@@ -1748,6 +1749,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
+  <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
@@ -1755,6 +1757,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
+  <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dolby_mode_movie">Video</string>
   <string name="music_dolby_mode_music">Music</string>
   <string name="music_dolby_mode_off">Off</string>
