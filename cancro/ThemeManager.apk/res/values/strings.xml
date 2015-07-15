@@ -224,7 +224,7 @@
   <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">Ringer is silenced</string>
   <string name="resource_save_to_note">Save to Notes</string>
-  <string name="resource_search_color">Tap a color to search</string>
+  <string name="resource_search_color">Choose a color to search</string>
   <string name="resource_search_color_hint_black">Black</string>
   <string name="resource_search_color_hint_blue">Blue</string>
   <string name="resource_search_color_hint_brown">Brown</string>

@@ -139,13 +139,10 @@
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Intermediary</string>
   <string name="mark_agent_block">Reported as intermediary</string>
-  <string name="mark_agent_time_setting">Block numbers reported as telemarketers more than particular times</string>
   <string name="mark_fraud">Fraudulent</string>
   <string name="mark_fraud_block">Reported as fraud</string>
-  <string name="mark_fraud_time_setting">Block numbers reported as scams more than particular times</string>
   <string name="mark_harass">Harassment</string>
   <string name="mark_harass_block">Reported as harassment</string>
-  <string name="mark_harass_time_setting">Block numbers reported as harassment more than particular times</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_fraud">Fraud</string>
   <string name="mark_number_harass">Harassment</string>
@@ -158,9 +155,6 @@
   <string name="mark_number_setting_guide_title">Block reported numbers</string>
   <string name="mark_sell">Sales</string>
   <string name="mark_sell_block">Reported as sales</string>
-  <string name="mark_sell_time_setting">Block numbers reported as sales more than particular times</string>
-  <string name="mark_time_setting_dialog_title">Reported times settings</string>
-  <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d other users marked it as "</string>
   <string name="marked_by_user">"you marked it as "</string>
   <string name="menu_add">Add</string>
@@ -197,8 +191,6 @@
   <string name="quiet_mode">Silence all disturbances</string>
   <string name="quiet_off_mode">Always allow disturbances</string>
   <string name="read_all_sms">Mark as read</string>
-  <string name="repeated_marked_number_summary">"Don't block a second call from the same person within 3 minutes."</string>
-  <string name="repeated_marked_number_title">"Don't block repeated reported calls"</string>
   <string name="report">Report</string>
   <string name="report_error">"Couldn't report message"</string>
   <string name="report_error_not_net">"Can't connect to the network"</string>

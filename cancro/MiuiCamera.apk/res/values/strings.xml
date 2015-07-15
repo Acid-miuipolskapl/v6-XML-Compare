@@ -48,8 +48,8 @@
   <string name="face_beauty_age_alias_male_60_m">Male 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Male 8-17</string>
   <string name="face_beauty_enlarge_eye_high">-9</string>
-  <string name="face_beauty_enlarge_eye_low">-12</string>
-  <string name="face_beauty_enlarge_eye_medium">-12</string>
+  <string name="face_beauty_enlarge_eye_low">off</string>
+  <string name="face_beauty_enlarge_eye_medium">off</string>
   <string name="face_beauty_intelligent_level_0">Off</string>
   <string name="face_beauty_intelligent_level_1">Low</string>
   <string name="face_beauty_intelligent_level_2">Mid</string>

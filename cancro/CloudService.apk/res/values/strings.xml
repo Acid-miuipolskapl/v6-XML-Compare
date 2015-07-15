@@ -107,7 +107,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="i_know">OK</string>
   <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">Loading…</string>
   <string name="loading_hint">Loading</string>
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
@@ -196,7 +196,7 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_space_applist_detail">Manage apps on your Home screen</string>
   <string name="micloud_space_applist_title">Manage apps</string>
-  <string name="micloud_space_duokan_detail">Download and manage ebooks with the Duokan app.</string>
+  <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
