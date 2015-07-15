@@ -88,7 +88,7 @@
   <string name="account_setup_account_type_title">Account setup</string>
   <string name="account_setup_address_label">Email</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">Problem with account setup</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">"Couldn't set up account"</string>
   <string name="account_setup_basics_email_label">Email address</string>
   <string name="account_setup_basics_headline">Email account</string>
   <string name="account_setup_basics_manual_setup_action">Manual setup</string>
@@ -112,12 +112,12 @@
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
   <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Login failed.
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Couldn't sign in.
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">Your address was blocked by device lock</string>
+  <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
@@ -328,8 +328,11 @@
   <string name="confirm_send_title">Send message?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="contact_edit_set_black_list">Set blocklist</string>
+  <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
+  <string name="contact_edit_set_black_list_receive">Delete all mails of this recipient (normally an email group)</string>
+  <string name="contact_edit_set_black_list_receive_summary">To/Cc lists only contain this recipient</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
-  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
+  <string name="contact_edit_set_pop_up_tips">Pop-up tips</string>
   <string name="contact_edit_set_unread_top">Show unread emails first</string>
   <string name="contact_edit_set_vip">Set VIP</string>
   <string name="contact_edit_title_permission">Contacts permissions</string>
@@ -831,6 +834,16 @@ CC: %4$s
   <string name="provider_note_live">"Only some \"Plus\" accounts include POP access allowing this program to connect. If you're not able to sign in with your correct email address and password, you may not have a paid \"Plus\" account. Launch the web browser to gain access to these email accounts."</string>
   <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
+  <string name="push_wps_better_confirm_download">Download</string>
+  <string name="push_wps_better_confirm_exit">Other apps to open</string>
+  <string name="push_wps_better_confirm_message">WPS Office can better support this type of attachment, so that your work more efficient</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
+  <string name="push_wps_better_confirm_title">Recommended WPS Office</string>
+  <string name="push_wps_confirm_cancel">Cancel</string>
+  <string name="push_wps_confirm_download">Download</string>
+  <string name="push_wps_confirm_message">No application can open this attachment, recommended the use of WPS Office</string>
+  <string name="push_wps_confirm_title">Recommended WPS Office</string>
+  <string name="push_wps_no_response_app">No response application</string>
   <string name="quick_1">Thanks!</string>
   <string name="quick_2">Sounds good to me!</string>
   <string name="quick_3">"I'll read this later and get back to you."</string>
@@ -1030,7 +1043,7 @@ CC: %4$s
   <string name="unread_from_someone">Unread mail from %s</string>
   <string name="unread_string">conversation unread</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
-  <string name="unzip_file_failed">Unzip failed！</string>
+  <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="updated_just_now">Refreshed just now</string>
