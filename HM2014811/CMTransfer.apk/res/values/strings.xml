@@ -356,16 +356,19 @@
   <string name="deadtrigger2_video">Dead Trigger 2 Videos</string>
   <string name="deezer_android_app_save_music">Deezer Music</string>
   <string name="deezer_android_app_save_pic">Deezer Pictures</string>
+  <string name="delete_not_exists_media">File dose not exists</string>
   <string name="devian_tubemate_home_save_pic">TubeMate Pictures</string>
   <string name="documents">Documents</string>
   <string name="dreamleague_video">Dream League Soccer Videos</string>
   <string name="elfyourself_video">ElfYourself Videos</string>
   <string name="feedback">Feedback</string>
-  <string name="feedback_commit">Submit</string>
+  <string name="feedback_check_msg">Data will only be used for problem solving. CM Transfer promises not to gather any of your private information.</string>
+  <string name="feedback_check_title">Gather logs to help solve the issue</string>
+  <string name="feedback_commit">SUBMIT</string>
   <string name="feedback_commit_success">Submitted successfully</string>
   <string name="feedback_content">Did you experience any issues when sending files?</string>
   <string name="feedback_content_title">Send us your questions:</string>
-  <string name="feedback_qq_title">Please leave your email address:</string>
+  <string name="feedback_qq_title">Please leave your Whatsapp/Email account:</string>
   <string name="file">Files</string>
   <string name="files">Files</string>
   <string name="flipagram_audio">Flipagram Music</string>
@@ -395,6 +398,7 @@
   <string name="image_browse_error">Send failure</string>
   <string name="imported">imported</string>
   <string name="inbox">Inbox</string>
+  <string name="inbox_contact_unknown_phone">Unknown phone</string>
   <string name="inbox_contacts_from_device">From</string>
   <string name="install">INSTALL</string>
   <string name="installed">installed</string>
@@ -478,6 +482,7 @@
   <string name="msg_pc_refuse_accept_files">Be refused</string>
   <string name="msg_sdcard_no_volume">Other phone lacks space, cannot send files</string>
   <string name="msg_send_other_wait">The phone is busy, please try again later...</string>
+  <string name="msg_update_inbox_loading">Updating Inbox...</string>
   <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
   <string name="musixmatch_audio">musiXmatch Music</string>
   <string name="mxPlayer_video">MX Player Videos</string>
@@ -487,6 +492,9 @@
   <string name="net_audiko2_save_music">Audiko2 Music</string>
   <string name="net_mobigame_zombietsunami1_save_pic">Zombie Tsunami Pictures</string>
   <string name="net_zedge_android_save_music">Zedge Music</string>
+  <string name="new_function_butn_msg">START CM TRANSFER</string>
+  <string name="new_function_msg">quickly and safely</string>
+  <string name="new_function_title">Transfer Contacts</string>
   <string name="no_contact_tip">No contacts</string>
   <string name="no_file_tip">No files</string>
   <string name="nosdcard_txt">No SD card</string>
@@ -552,6 +560,7 @@
   <string name="recv_history_title">Received File</string>
   <string name="recv_info_doing_format" formatted="false">Receiving file (%d/%d) at %s</string>
   <string name="recv_info_gone_format" formatted="false">%d files received, average speed of %s</string>
+  <string name="recv_info_gone_format_one" formatted="false">%d file received, average speed of %s</string>
   <string name="recv_request_msg" formatted="false">%s is sending %s files, do you want to receive them?</string>
   <string name="recv_waiting">Waiting for other person to send files…</string>
   <string name="retry">Retry</string>
@@ -602,6 +611,7 @@
   <string name="transfer_history">Sending History</string>
   <string name="transfer_info_doing_format" formatted="false">Sending file (%d/%d) at %s</string>
   <string name="transfer_info_gone_format" formatted="false">%d files sent, average speed of %s</string>
+  <string name="transfer_info_gone_format_one" formatted="false">%d file sent, average speed of %s</string>
   <string name="transfer_phone">Phone</string>
   <string name="transfer_receive_timeout">Connection broken</string>
   <string name="transfer_recv_contact_msg">Import contacts easily</string>
@@ -622,6 +632,7 @@
   <string name="transfer_send_finish_contact_title">contacts sent</string>
   <string name="transfer_send_finish_contact_title_one">contact sent</string>
   <string name="transfer_send_finish_text">Sending Complete</string>
+  <string name="transfer_share">Share CM Transfer</string>
   <string name="tunein_player_save_music">Tunein Music</string>
   <string name="tunein_radio_save_pic">TuneIn Radio Pictures</string>
   <string name="tv_peel_samsung_app_save_pic">Samsung WatchON Pictures</string>
