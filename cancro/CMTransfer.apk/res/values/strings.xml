@@ -362,7 +362,9 @@
   <string name="dreamleague_video">Dream League Soccer Videos</string>
   <string name="elfyourself_video">ElfYourself Videos</string>
   <string name="feedback">Feedback</string>
-  <string name="feedback_commit">Submit</string>
+  <string name="feedback_check_msg">Data will only be used for problem solving. CM Transfer promises not to gather any of your private information.</string>
+  <string name="feedback_check_title">Gather logs to help solve the issue</string>
+  <string name="feedback_commit">SUBMIT</string>
   <string name="feedback_commit_success">Submitted successfully</string>
   <string name="feedback_content">Did you experience any issues when sending files?</string>
   <string name="feedback_content_title">Send us your questions:</string>
@@ -490,6 +492,9 @@
   <string name="net_audiko2_save_music">Audiko2 Music</string>
   <string name="net_mobigame_zombietsunami1_save_pic">Zombie Tsunami Pictures</string>
   <string name="net_zedge_android_save_music">Zedge Music</string>
+  <string name="new_function_butn_msg">START CM TRANSFER</string>
+  <string name="new_function_msg">quickly and safely</string>
+  <string name="new_function_title">Transfer Contacts</string>
   <string name="no_contact_tip">No contacts</string>
   <string name="no_file_tip">No files</string>
   <string name="nosdcard_txt">No SD card</string>
