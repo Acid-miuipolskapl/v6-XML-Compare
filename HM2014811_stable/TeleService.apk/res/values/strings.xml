@@ -121,6 +121,7 @@
   <string name="caller_id_title">Caller ID</string>
   <string name="callind_multi_sim">SUBS Settings</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
+  <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_call">Cancel</string>
   <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
@@ -146,6 +147,8 @@
   <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
   <string name="cdma_display_precise_call_state_title">Display call status</string>
@@ -176,6 +179,7 @@
   <string name="close_profile">Close</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
+  <string name="config_default_data_sim">Settings</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirm_password_label">Confirm new password</string>
   <string name="confirm_pin2_label">Confirm new PIN2</string>
@@ -324,6 +328,8 @@
   <string name="fdn_enabled">Fixed Dialing Numbers are on</string>
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
+  <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
+  <string name="flash_when_ring_title">Flash when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -333,6 +339,7 @@ Switch to the new provider anyway?"</string>
   <string name="get_pin2">Type PIN2</string>
   <string name="get_smsc_address_error">"Can't connect to the network."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
+  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network preferences</string>
   <string name="gsm_umts_network_preferences_title">Network preferences</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
@@ -361,6 +368,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_no_phone_number_supplied">The number you entered is invalid.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
   <string name="incall_error_power_off">To place a call, turn off Airplane mode.</string>
+  <string name="incall_error_sim_deactive">SIM card inactive</string>
   <string name="incall_error_turn_off_airplane_mode">Turn off Airplane mode</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">International news is off</string>
@@ -372,6 +380,19 @@ Switch to the new provider anyway?"</string>
   <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
   <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
   <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
+  <string name="ivr_mo_area_code_settings">Current area code</string>
+  <string name="ivr_mo_area_code_settings_hint">Please input current area code</string>
+  <string name="ivr_parameter_settings">IVR parameters settings</string>
+  <string name="ivr_type_cm_1">M-Zone</string>
+  <string name="ivr_type_cm_2">GoTone</string>
+  <string name="ivr_type_cm_3">Easy own</string>
+  <string name="ivr_type_ct_1">China Telecom VIP</string>
+  <string name="ivr_type_ct_2">China Telecom customer</string>
+  <string name="ivr_type_cu_1">China Unicom 3G</string>
+  <string name="ivr_type_cu_2">China Unicom 4G</string>
+  <string name="ivr_type_cu_3">China Unicom 2G</string>
+  <string name="ivr_type_settings">Data plan settings</string>
+  <string name="ivr_type_settings_hint">Input your data plan code</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">Forward when busy</string>
@@ -470,7 +491,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
   <string name="msim_sim_radio_off">Off</string>
-  <string name="msim_switch_data_conn_toast">Network settings have been changed to prefer LTE networks. You can change this in SIM card settings.</string>
+  <string name="msim_switch_data_conn_toast">Swapped SIM cards. Network type has changed. View additional info in SIM cards and mobile networks in the Settings menu.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 only supports GSM networks. Preferred network type for this slot has been changed to 2G only.</string>
   <string name="multi_category_disable">Multi-category is off</string>
   <string name="multi_category_enable">Multi-category is on</string>
@@ -798,10 +819,10 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sum_xdivert_disabled">X-Divert is off</string>
   <string name="sum_xdivert_enabled">X-Divert is on</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
-  <string name="t9_indexing_method_pinyin">Pinyin</string>
+  <string name="t9_indexing_method_pinyin">Latin alphabet</string>
   <string name="t9_indexing_method_title">T9 search input</string>
-  <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
+  <string name="t9_indexing_method_zhuyin">Zhuyin phonetic notation</string>
+  <string name="t9_indexing_rebuilding_message">Just a sec…</string>
   <string name="technology_news_disable">Technology News is off</string>
   <string name="technology_news_enable">Technology News is on</string>
   <string name="telephony_setting">Call settings</string>

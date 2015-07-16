@@ -1,3 +1,3 @@
-<strings>
-    <string name="title_name" value="Notes" />
-</strings>
+<resources>
+    <string name="title_name">Notes</string>
+</resources>

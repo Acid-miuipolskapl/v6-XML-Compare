@@ -9,7 +9,6 @@
   <string name="about_copyright">Cheetah Mobile Inc.</string>
   <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
   <string name="about_desc">CM Transfer</string>
-  <string name="about_email">mailto:%s</string>
   <string name="about_qq_qun">Our email: &lt;font color=#2a7fe9 &gt;cmtransfer@cmcm.com&lt;/font&gt;</string>
   <string name="about_subject">That is what I want to say to CM Transfer.</string>
   <string name="about_title_face_to_face">Share files to friends face to face</string>
@@ -348,23 +347,28 @@
   <string name="connected_failed">Connecting failure, please try again</string>
   <string name="contact_import_permission_string">To import contacts, we need to modify your contacts.</string>
   <string name="contact_permission_string">To transfer contacts, we need to read your contacts.</string>
-  <string name="contact_recv_import_hint_string">Received %d contacts, do you want to import them now?</string>
+  <string name="contact_recv_import_hint_string">Received &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contacts, do you want to import them now?</string>
+  <string name="contact_recv_import_hint_string_one">Received &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; contact, do you want to import it now?</string>
+  <string name="contact_transfer_easily">Transfer your contacts easily</string>
   <string name="continue_recv">No</string>
   <string name="continue_send">Send More</string>
   <string name="contracts">Contacts</string>
   <string name="deadtrigger2_video">Dead Trigger 2 Videos</string>
   <string name="deezer_android_app_save_music">Deezer Music</string>
   <string name="deezer_android_app_save_pic">Deezer Pictures</string>
+  <string name="delete_not_exists_media">File dose not exists</string>
   <string name="devian_tubemate_home_save_pic">TubeMate Pictures</string>
   <string name="documents">Documents</string>
   <string name="dreamleague_video">Dream League Soccer Videos</string>
   <string name="elfyourself_video">ElfYourself Videos</string>
   <string name="feedback">Feedback</string>
-  <string name="feedback_commit">Submit</string>
+  <string name="feedback_check_msg">Data will only be used for problem solving. CM Transfer promises not to gather any of your private information.</string>
+  <string name="feedback_check_title">Gather logs to help solve the issue</string>
+  <string name="feedback_commit">SUBMIT</string>
   <string name="feedback_commit_success">Submitted successfully</string>
   <string name="feedback_content">Did you experience any issues when sending files?</string>
   <string name="feedback_content_title">Send us your questions:</string>
-  <string name="feedback_qq_title">Please leave your email address:</string>
+  <string name="feedback_qq_title">Please leave your Whatsapp/Email account:</string>
   <string name="file">Files</string>
   <string name="files">Files</string>
   <string name="flipagram_audio">Flipagram Music</string>
@@ -392,6 +396,10 @@
   <string name="image_album_msg">%d total</string>
   <string name="image_browse">View Pictures</string>
   <string name="image_browse_error">Send failure</string>
+  <string name="imported">imported</string>
+  <string name="inbox">Inbox</string>
+  <string name="inbox_contact_unknown_phone">Unknown phone</string>
+  <string name="inbox_contacts_from_device">From</string>
   <string name="install">INSTALL</string>
   <string name="installed">installed</string>
   <string name="invite_bluetooth_explain">easily to send</string>
@@ -445,6 +453,7 @@
   <string name="local_micromsg_video">Wechat Videos</string>
   <string name="local_screen_shots">Screenshots</string>
   <string name="local_video_album">Local Videos</string>
+  <string name="location_txt">Primary storage location</string>
   <string name="main_dlg_butn">Help Friends Install</string>
   <string name="main_dlg_msg_first">&lt;font size=6 &gt;Both phones&lt;/font&gt; must have CM Transfer installed in order to share files.</string>
   <string name="main_share_bottom_text">&lt;u&gt;Send CM Transfer to other phone&lt;/u&gt;</string>
@@ -459,7 +468,8 @@
   <string name="micromsg_video">WeChat Videos</string>
   <string name="micromsg_voice">WeChat Voice</string>
   <string name="mobi_mgeek_tunnybrowser_save_pic">Dolphin Browser for Android Pictures</string>
-  <string name="more_language_msg">More languages coming soon...</string>
+  <string name="mobile_path_txt">Mobile phone</string>
+  <string name="more_language_msg">More languages are coming soon...</string>
   <string name="mp3musicdownloader_audio">MP3 Music Downloader Music</string>
   <string name="msg_affirm_recv">Please receive file on PC</string>
   <string name="msg_connecting_loading">Connecting...</string>
@@ -472,6 +482,7 @@
   <string name="msg_pc_refuse_accept_files">Be refused</string>
   <string name="msg_sdcard_no_volume">Other phone lacks space, cannot send files</string>
   <string name="msg_send_other_wait">The phone is busy, please try again later...</string>
+  <string name="msg_update_inbox_loading">Updating Inbox...</string>
   <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
   <string name="musixmatch_audio">musiXmatch Music</string>
   <string name="mxPlayer_video">MX Player Videos</string>
@@ -481,8 +492,12 @@
   <string name="net_audiko2_save_music">Audiko2 Music</string>
   <string name="net_mobigame_zombietsunami1_save_pic">Zombie Tsunami Pictures</string>
   <string name="net_zedge_android_save_music">Zedge Music</string>
+  <string name="new_function_butn_msg">START CM TRANSFER</string>
+  <string name="new_function_msg">quickly and safely</string>
+  <string name="new_function_title">Transfer Contacts</string>
   <string name="no_contact_tip">No contacts</string>
   <string name="no_file_tip">No files</string>
+  <string name="nosdcard_txt">No SD card</string>
   <string name="notification_backup">Backup</string>
   <string name="notification_backup_html"> &lt;font color=#ffffff &gt;Backup&lt;/font&gt;</string>
   <string name="notification_bell">Message</string>
@@ -510,6 +525,7 @@
   <string name="notification_upgrade_title">CM Transfer has updated!</string>
   <string name="notify_five_star_like">like</string>
   <string name="notify_five_star_msg">CM Transfer thanks all of you!</string>
+  <string name="notify_five_star_title">\#1 File Transfer App on Google Play</string>
   <string name="oovoo_video">ooVoo Videos</string>
   <string name="open">OPEN</string>
   <string name="open_wifi">Open Wi-Fi</string>
@@ -534,7 +550,7 @@
   <string name="receive_file">Receive file</string>
   <string name="receiver_version_error">The version of CM Transfer on the receiving phone is out of date. &lt;br&gt;&lt;font color=#909090 &gt;Would you like to update it now?&lt;/font&gt;</string>
   <string name="receiver_version_error_result">&lt;font color=#909090 &gt;%d files have not been sent because &lt;/font&gt;the version of CM Transfer on the receiving phone is out of date&lt;font color=#909090 &gt;. Please update it to send files again.&lt;/font&gt;</string>
-  <string name="recent_recv_path">Path:/</string>
+  <string name="recent_recv_path">Path:</string>
   <string name="recv_action_accept">Yes</string>
   <string name="recv_action_deny">No</string>
   <string name="recv_history_file_btn_delele">Delete (%1$d)</string>
@@ -544,6 +560,7 @@
   <string name="recv_history_title">Received File</string>
   <string name="recv_info_doing_format" formatted="false">Receiving file (%d/%d) at %s</string>
   <string name="recv_info_gone_format" formatted="false">%d files received, average speed of %s</string>
+  <string name="recv_info_gone_format_one" formatted="false">%d file received, average speed of %s</string>
   <string name="recv_request_msg" formatted="false">%s is sending %s files, do you want to receive them?</string>
   <string name="recv_waiting">Waiting for other person to send files…</string>
   <string name="retry">Retry</string>
@@ -552,6 +569,7 @@
   <string name="ru_ok_android_save_pic">odnoklassniki Pictures</string>
   <string name="saavn_audio">Saavn Music</string>
   <string name="screenshots_save_pic">Screenshots</string>
+  <string name="sdcard_path_txt">External SD card</string>
   <string name="select_send_error">Please select file first</string>
   <string name="send_confirm_back_msg">You have selected &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; files, are you sure you want to cancel?</string>
   <string name="send_history_list_item_title">Sent %2$d files to %1$s</string>
@@ -583,28 +601,38 @@
   <string name="tr_music_download_paradise_save_music">Music download Music</string>
   <string name="trans_item_num">( %1$d )</string>
   <string name="trans_table_msg">Your friends also need to install CM Transfer to receive your files.</string>
-  <string name="transfer_app_count">( %d total )</string>
+  <string name="transfer_app_count">( %1$d total )</string>
   <string name="transfer_app_size">%s</string>
   <string name="transfer_button_done">DONE</string>
   <string name="transfer_computer">Connected to: %1$s</string>
-  <string name="transfer_contracts_count">( %d total )</string>
-  <string name="transfer_devices_title">%d phone found, select one to send to</string>
+  <string name="transfer_contracts_count">( %1$d total )</string>
+  <string name="transfer_devices_title">%1$d phone found, select one to send to</string>
   <string name="transfer_file">Send file</string>
   <string name="transfer_history">Sending History</string>
   <string name="transfer_info_doing_format" formatted="false">Sending file (%d/%d) at %s</string>
   <string name="transfer_info_gone_format" formatted="false">%d files sent, average speed of %s</string>
+  <string name="transfer_info_gone_format_one" formatted="false">%d file sent, average speed of %s</string>
   <string name="transfer_phone">Phone</string>
   <string name="transfer_receive_timeout">Connection broken</string>
   <string name="transfer_recv_contact_msg">Import contacts easily</string>
+  <string name="transfer_recv_contact_msg_one">Import contacts easily</string>
   <string name="transfer_recv_contact_title">contacts are being received</string>
-  <string name="transfer_recv_finish_contact_msg">Import %d contacts to your phone</string>
+  <string name="transfer_recv_contact_title_one">contact is being received</string>
+  <string name="transfer_recv_finish_contact_msg">Import %1$d contacts to your phone</string>
+  <string name="transfer_recv_finish_contact_msg_one">Import %1$d contact to your phone</string>
   <string name="transfer_recv_finish_contact_title">contacts received</string>
+  <string name="transfer_recv_finish_contact_title_one">contact received</string>
   <string name="transfer_recv_finish_text">Receiving Complete</string>
   <string name="transfer_send_contact_msg">Transfer your contacts easily, quickly and safely</string>
+  <string name="transfer_send_contact_msg_one">Transfer your contacts easily, quickly and safely</string>
   <string name="transfer_send_contact_title">contacts are being sent</string>
-  <string name="transfer_send_finish_contact_msg">The receiver can import %d contacts</string>
+  <string name="transfer_send_contact_title_one">contact is being sent</string>
+  <string name="transfer_send_finish_contact_msg">The receiver can import %1$d contacts</string>
+  <string name="transfer_send_finish_contact_msg_one">The receiver can import %1$d contact</string>
   <string name="transfer_send_finish_contact_title">contacts sent</string>
+  <string name="transfer_send_finish_contact_title_one">contact sent</string>
   <string name="transfer_send_finish_text">Sending Complete</string>
+  <string name="transfer_share">Share CM Transfer</string>
   <string name="tunein_player_save_music">Tunein Music</string>
   <string name="tunein_radio_save_pic">TuneIn Radio Pictures</string>
   <string name="tv_peel_samsung_app_save_pic">Samsung WatchON Pictures</string>
@@ -613,6 +641,7 @@
   <string name="ucbrowser_video">UC Browser Videos</string>
   <string name="unknown_album">Unknow album</string>
   <string name="unknown_device">Unknown Device</string>
+  <string name="unmount_sdcard_txt">"Can't write SD card"</string>
   <string name="unpermission_contact_tip">"Can't access contacts"</string>
   <string name="upgrade_dialog_button_upgrade">Update Now</string>
   <string name="upgrade_dialog_checking">Checking for updates...</string>

@@ -169,6 +169,26 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="ivr_type_settings_entries">
+        <item>@string/ivr_type_cm_1</item>
+        <item>@string/ivr_type_cm_2</item>
+        <item>@string/ivr_type_cm_3</item>
+        <item>@string/ivr_type_cu_1</item>
+        <item>@string/ivr_type_cu_2</item>
+        <item>@string/ivr_type_cu_3</item>
+        <item>@string/ivr_type_ct_1</item>
+        <item>@string/ivr_type_ct_2</item>
+    </string-array>
+    <string-array name="ivr_type_settings_values">
+        <item>cm_1</item>
+        <item>cm_2</item>
+        <item>cm_3</item>
+        <item>cu_1</item>
+        <item>cu_2</item>
+        <item>cu_3</item>
+        <item>ct_1</item>
+        <item>ct_2</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
