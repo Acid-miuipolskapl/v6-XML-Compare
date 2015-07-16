@@ -111,14 +111,12 @@ Please input the verification code in the email"</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
-  <string name="failed_get_mibi_info">"Can't get balance"</string>
   <string name="find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="get_back_pwd">Retrieve account password</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_email_verifycode_exceed_limit">Too many verification codes have been sent to this email address. Wait 24 hours and try again.</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="hide_mibi_info">Mi Credits info has been hidden</string>
   <string name="input_captcha_hint">Enter code</string>
   <string name="input_password_hint">Enter password</string>
   <string name="input_vcode_hint">Enter verification code</string>
@@ -126,7 +124,6 @@ Please input the verification code in the email"</string>
   <string name="license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="loading">Loading…</string>
   <string name="loading_micloud_sync_data">Loading…</string>
-  <string name="loading_mili_center">Loading…</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
   <string name="login_instead_reg">Use this number</string>
@@ -137,7 +134,6 @@ Please input the verification code in the email"</string>
   <string name="mi_account_dspt_provision">"Sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="mi_account_identity_title">Verify your identity</string>
   <string name="mi_pass">Mi Pass</string>
-  <string name="mibi_balance">%s Mi Credits</string>
   <string name="micloud_account_name">Mi Account</string>
   <string name="micloud_area_code_title">Country code</string>
   <string name="micloud_delete_account">Sign out</string>
