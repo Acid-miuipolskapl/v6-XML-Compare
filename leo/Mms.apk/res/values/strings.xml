@@ -247,7 +247,7 @@
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Me</string>
-  <string name="mipub_messaging_entry_title">Mi Messages</string>
+  <string name="mipub_messaging_entry_title">Mi Message</string>
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
@@ -441,7 +441,9 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="secs">secs</string>
-  <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
+ "&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
   <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>

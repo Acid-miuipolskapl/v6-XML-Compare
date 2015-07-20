@@ -26,7 +26,7 @@
   <string name="category_document">Docs</string>
   <string name="category_favorite">Starred</string>
   <string name="category_file">Files</string>
-  <string name="category_music">Musics</string>
+  <string name="category_music">Music</string>
   <string name="category_other">Other</string>
   <string name="category_picture">Images</string>
   <string name="category_recent">Recent</string>
@@ -225,6 +225,7 @@
   <string name="open_file_failed">"Can't open"</string>
   <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
+  <string name="operation_add_fav">Adding to starred…</string>
   <string name="operation_agree">Allow</string>
   <string name="operation_cancel">Cancel</string>
   <string name="operation_compress">Compress</string>
@@ -235,6 +236,7 @@
   <string name="operation_create_folder">Create new folder</string>
   <string name="operation_create_folder_message">Name folder</string>
   <string name="operation_decompressing">Extracting…</string>
+  <string name="operation_del_fav">Removing from starred…</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_delete_confirm_message">Delete?</string>
   <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted. "</string>
@@ -306,9 +308,9 @@ Free space added %1$s"</string>
   <string name="tab_category">Categories</string>
   <string name="tab_expand">Expand</string>
   <string name="tab_local">Local</string>
-  <string name="tab_more">more</string>
+  <string name="tab_more">More</string>
   <string name="tab_path">FOLDERS</string>
-  <string name="tab_source">APPS</string>
+  <string name="tab_source">Apps</string>
   <string name="tab_storage">STORAGE</string>
   <string name="terabyteShort">TB</string>
   <string name="title_more_source">More apps</string>

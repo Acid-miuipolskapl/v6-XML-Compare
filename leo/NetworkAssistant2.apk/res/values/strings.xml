@@ -11,7 +11,6 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="alter_dialog_message">Using mobile data when roaming internationally may result in additional charges from your carrier.</string>
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_detail">Details</string>
@@ -34,6 +33,7 @@
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
   <string name="connect_internet_by_wifi">WLAN</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
+  <string name="daily_limit_and_lock_screen">Daily data usage &amp; notifications</string>
   <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
@@ -138,12 +138,15 @@ For more info check the message you received from your carrier"</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"Couldn't load"</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
-  <string name="lock_screen_setting_summary">Show notification when over 100KB is used in less than 2 days</string>
   <string name="lock_screen_traffic_guide_notification_summary">Tap to manage data usage.</string>
   <string name="lock_screen_traffic_guide_notification_title">%s used at lock screen</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Buy mobile data</string>
   <string name="lock_screen_traffic_warn_title">Lock screen notifications</string>
+  <string name="lock_screen_warning_category">Lockscreen notifications</string>
+  <string name="lock_screen_warning_switch_summary">Show warning on lockscreen when data usage exceeds a certain amount</string>
+  <string name="lock_screen_warning_switch_title">Show warnings on lockscreen</string>
+  <string name="lock_screen_warning_value">data usage warning amount</string>
   <string name="main_alert_message_month_limit_error">The data limit you set is incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
   <string name="main_alert_message_no_mobile_package">"Data limit hasn't been set"</string>
@@ -238,6 +241,12 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
  2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
 
  3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+  <string name="network_speed_for_apps_close">Force stop</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
+  <string name="network_speed_for_apps_others">Othres</string>
+  <string name="network_speed_for_apps_title">Connection speed details</string>
+  <string name="network_speed_for_apps_total">Connection speed</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>
   <string name="no_network_btn">Try again</string>
@@ -262,6 +271,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="operator_setted_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Tap to change SIM location.</string>
+  <string name="operator_setted_error_notify_title">SIM card error</string>
   <string name="other_exception_summary">"You don't have an internet connection"</string>
   <string name="other_exception_title">Checking for other issues</string>
   <string name="pay_charge">Purchase additional data</string>
@@ -279,9 +291,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
   <string name="pref_adjust_traffic_data">Set data usage</string>
-  <string name="pref_allow_connect_network_summary">Use mobile data when roaming internationally</string>
   <string name="pref_allow_connect_network_title">International data roaming</string>
-  <string name="pref_allow_connect_network_whitelist_summary">Allow apps on whitelist to use mobile data when roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Allow whitelist to use mobile data</string>
   <string name="pref_app_traffic_managent">Restrict data usage by app</string>
   <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
@@ -319,6 +329,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_package_traffic_settings">Mobile data limit</string>
   <string name="pref_pkg_begin_date">Usage cycle reset date</string>
   <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
+  <string name="pref_roaming_setting_gategory">Data roaming</string>
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">When you unlock you phone, show data usage stats for the period when your device has been locked (must be longer than 5 minutes)</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
@@ -482,6 +493,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_button_sorted_chose_simcard">Sort by</string>
   <string name="traffic_saving_button_start">Turn on</string>
   <string name="traffic_saving_button_stop">Turn off</string>
+  <string name="traffic_saving_can_optimized">Optimize</string>
   <string name="traffic_saving_history_title">History</string>
   <string name="traffic_saving_history_total_money">Total saved</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -523,7 +535,6 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_whitelist_no_app">No apps</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_daily_limit_summary">Set data usage limits</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
   <string name="traffic_setting_extra_pkg_summary">Adjust data plan and usage limits</string>
   <string name="traffic_setting_extra_pkg_title">Additional settings</string>
@@ -545,7 +556,6 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_setting_fragment_title">Data usage query</string>
   <string name="traffic_setting_open">On</string>
   <string name="traffic_setting_step_num">Data plan settings</string>
-  <string name="traffic_setting_update_template_falure">"Can't connect to the network"</string>
   <string name="traffic_warning_purchase_title">Mobile data usage warning</string>
   <string name="unable_connect_internet">No internet connection</string>
   <string name="usage_sorted_activity_lable">Data usage</string>

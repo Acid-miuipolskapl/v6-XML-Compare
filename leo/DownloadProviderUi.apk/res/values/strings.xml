@@ -132,7 +132,7 @@
   <string name="recommend_installing">Installing…</string>
   <string name="recommend_loading">Loading…</string>
   <string name="recommend_open">Open</string>
-  <string name="recommend_other_downloads">大家还下载了</string>
+  <string name="recommend_other_downloads">Popular</string>
   <string name="recommend_paused">Paused</string>
   <string name="recommend_prepare">Waiting…</string>
   <string name="recommend_show_other_downloads">View popular</string>

@@ -1959,8 +1959,8 @@ Select your operating system:"</string>
   <string name="power_discharge_remaining">%1$s remaining</string>
   <string name="power_discharging_duration">%1$d%% - approx. %2$s left</string>
   <string name="power_flashlight">Flashlight</string>
-  <string name="power_hide_mode_summary">Backstage behavior control applications, significant savings in electricity</string>
-  <string name="power_hide_mode_title">Hide Mode</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
+  <string name="power_hide_mode_title">Manage apps battery usage</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
@@ -2295,6 +2295,10 @@ To use screen pinning:
 
 4. Touch the pin icon."</string>
   <string name="screen_pinning_title">Screen pinning</string>
+  <string name="screen_resolution_confirm">Confirm and reboot</string>
+  <string name="screen_resolution_summary">Reduce the resolution will reduce the screen fine degree, to some extent improve the power and fluency, and vice versa. The changes need to reboot the system.</string>
+  <string name="screen_resolution_switch">Switch screen resolution</string>
+  <string name="screen_resolution_title">Screen resolution</string>
   <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
@@ -3247,6 +3251,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
   <string name="wifi_eap_method">EAP method</string>
+  <string name="wifi_eap_sim_simcard">Choose SIM</string>
   <string name="wifi_eap_user_cert">User certificate</string>
   <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>

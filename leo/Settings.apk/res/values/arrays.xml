@@ -1462,4 +1462,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
     </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>ultrahigh (2K)</item>
+        <item>normal (720P)</item>
+    </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
+    </string-array>
 </resources>
