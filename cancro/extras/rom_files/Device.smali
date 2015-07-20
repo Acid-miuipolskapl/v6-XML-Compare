@@ -999,6 +999,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
     if-eqz v0, :cond_1
 
     :cond_0

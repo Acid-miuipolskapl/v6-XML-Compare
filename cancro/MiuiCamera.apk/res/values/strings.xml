@@ -26,6 +26,9 @@
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
+  <string name="confirm_recording_fail_calling_alert">Cannot start recording during the call.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Other application may be recording sound, retry after stopping it.</string>
+  <string name="confirm_recording_fail_title">Recording fail</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>

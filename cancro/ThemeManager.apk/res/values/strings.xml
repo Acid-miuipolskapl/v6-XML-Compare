@@ -20,6 +20,7 @@
   <string name="backup_theme_progress_message">Backing up…</string>
   <string name="backup_theme_success_message">Your current theme settings have been backed up.</string>
   <string name="change_wallpaper">Wallpaper</string>
+  <string name="choose_new_themes">New Themes</string>
   <string name="close">Close</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">ADVANCED</string>
@@ -86,6 +87,8 @@
   <string name="online_no_network">"Can't connect to the network"</string>
   <string name="online_search_hint">Search for online resources</string>
   <string name="payment_info">Mi Credits</string>
+  <string name="present_local_themes">Downloaded</string>
+  <string name="present_online_themes">Online</string>
   <string name="purchased_list">Purchased</string>
   <string name="purchased_list_format">%1$s purchased</string>
   <string name="resource_account_abnormal_state">Account error. Wait a minute or two and try again.</string>
