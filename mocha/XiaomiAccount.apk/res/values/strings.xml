@@ -46,8 +46,8 @@
   <string name="account_user_using_facebook_avatar">Use Facebook profile picture</string>
   <string name="account_user_using_qq_avatar">Use QQ profile picture</string>
   <string name="account_user_using_weibo_avatar">Use Sina Weibo profile picture</string>
-  <string name="account_vip_level">Vip level</string>
-  <string name="account_vip_task">Task</string>
+  <string name="account_vip_level">Account</string>
+  <string name="account_vip_task">Progress</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="add_account">Connect account</string>
   <string name="alert_title_remove_account">Remove account?</string>
@@ -288,7 +288,7 @@ To activate your account, follow the
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">To sign in to your Mi Account, you need to connect to the internet, locate your device and turn Mi Cloud and vip system on.</string>
   <string name="password">Enter your password</string>
   <string name="phone_activated">%s activated</string>
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>

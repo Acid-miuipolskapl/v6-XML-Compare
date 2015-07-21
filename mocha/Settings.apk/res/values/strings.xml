@@ -574,6 +574,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="camera_key_action_shortcut_wake">Lock device</string>
   <string name="camera_key_action_title">Mi Button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
+  <string name="camera_summary">Camera settings (not including photos)</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_alert">Discard your changes?</string>
   <string name="cancel_backup">Stop</string>
@@ -1877,8 +1878,8 @@ Select your operating system:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_center">Power</string>
-  <string name="power_hide_mode_summary">Backstage behavior control applications, significant savings in electricity</string>
-  <string name="power_hide_mode_title">Hide Mode</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
+  <string name="power_hide_mode_title">Manage apps battery usage</string>
   <string name="power_idle">Pad idle</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
@@ -2347,7 +2348,7 @@ This setting affects all users on this tablet."</string>
   <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings shortcut</string>
-  <string name="settings_summary">Data: phone and messaging settings</string>
+  <string name="settings_summary">Phone and messaging settings</string>
   <string name="show_all_anrs">Show all ANRs</string>
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_background_processes">Show cached processes</string>
@@ -3063,6 +3064,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
   <string name="wifi_eap_method">EAP method</string>
+  <string name="wifi_eap_sim_simcard">Choose SIM</string>
   <string name="wifi_eap_user_cert">User certificate</string>
   <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Default Mode</item>
+        <item>Hide Mode</item>
+        <item>Reader Mode</item>
+        <item>Media Mode</item>
+    </string-array>
+    <string-array name="event_name">
+        <item>foreground_change</item>
+        <item>screen_on</item>
+        <item>screen_off</item>
+        <item>screen_off_10_min</item>
+        <item>full_screen_enter</item>
+        <item>full_screen_exit</item>
+        <item>background_change</item>
+        <item>start_charging</item>
+        <item>stop_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>App is in foreground</item>
+        <item>Screen On</item>
+        <item>Screen Off</item>
+        <item>Screen Off Over 10 minutes</item>
+        <item>Enter full screen</item>
+        <item>Exit full screen</item>
+        <item>App is in background</item>
+        <item>Phone is in charging</item>
+        <item>Phone is not in charging</item>
+        <item>Phone is in idle mode</item>
+    </string-array>
+    <string-array name="action_name">
+        <item>set_brightness</item>
+        <item>set_cpufreq_max</item>
+        <item>set_lcd_mode</item>
+        <item>set_cpu_powermode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max screen brightness</item>
+        <item>MAX CPU Frequence</item>
+        <item>Screen mode</item>
+        <item>CPU usage</item>
+        <item>Data connection</item>
+        <item>Location</item>
+        <item>First message notification</item>
+        <item>Keyguard notification</item>
+    </string-array>
+    <string-array name="action_param">
+        <item>none</item>
+        <item>ui</item>
+        <item>still</item>
+        <item>movie</item>
+        <item>low</item>
+        <item>middle</item>
+        <item>high</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>No operations</item>
+        <item>Standard</item>
+        <item>Picture</item>
+        <item>Movie</item>
+        <item>Battery saving</item>
+        <item>Balance</item>
+        <item>Performance</item>
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="shown_mandatory_event_name">
+        <item>foreground_change</item>
+        <item>background_change</item>
+    </string-array>
+    <string-array name="shown_optional_event_name">
+        <item>full_screen_enter</item>
+        <item>start_charging</item>
+        <item>idle_enter</item>
+    </string-array>
+    <string-array name="shown_action_name">
+        <item>set_cpu_powermode</item>
+        <item>set_lcd_mode</item>
+        <item>set_data_connection</item>
+        <item>set_location</item>
+        <item>set_idle_notification</item>
+        <item>set_keyguard_notification</item>
+        <item>set_sync_alarm</item>
+    </string-array>
+    <string-array name="shown_action_param_default">
+        <item>middle</item>
+        <item>ui</item>
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>selected</item>
+        <item>unselected</item>
+        <item>other selected</item>
+    </string-array>
+    <array name="read_enable" />
+    <string-array name="read_disable">
+        <item>com.chaozh.iReaderFree</item>
+    </string-array>
+</resources>
