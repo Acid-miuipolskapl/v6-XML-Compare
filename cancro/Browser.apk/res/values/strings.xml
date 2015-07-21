@@ -180,14 +180,14 @@
   <string name="download_dialog_file_length_hint_txt">"File size: "</string>
   <string name="download_dialog_file_length_lessthan1kb">less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Couldn't download"</string>
-  <string name="download_dialog_file_length_nolength_txt">Downloading…</string>
+  <string name="download_dialog_file_length_nolength_txt">Just a sec…</string>
   <string name="download_failed">"Couldn't complete download"</string>
   <string name="download_no_sdcard_dlg_msg">An SD card is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">No SD card</string>
   <string name="download_pending">Starting download…</string>
   <string name="download_phone_tip">Phone</string>
   <string name="download_router_tip">Download to Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">The SD card is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
+  <string name="download_sdcard_busy_dlg_msg">SD card is busy. To allow downloads, turn off USB storage in the notification shade.</string>
   <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
   <string name="edit">Edit</string>
   <string name="edit_bookmark">Edit bookmark</string>
@@ -227,8 +227,8 @@
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel</string>
   <string name="geolocation_settings_page_dialog_message">Clear location access for this website?</string>
   <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-  <string name="geolocation_settings_page_summary_allowed">This site can currently access your location</string>
-  <string name="geolocation_settings_page_summary_not_allowed">"This site can't currently access your location"</string>
+  <string name="geolocation_settings_page_summary_allowed">This site can access your location</string>
+  <string name="geolocation_settings_page_summary_not_allowed">"This site can't access your location"</string>
   <string name="geolocation_settings_page_title">Clear location access</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
@@ -276,7 +276,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="menu_hv_swap">V/H screen</string>
   <string name="menu_nightmode">Night mode</string>
   <string name="menu_preferences">Settings</string>
-  <string name="menu_theme_setting">Theme Settings</string>
+  <string name="menu_theme_setting">Theme settings</string>
   <string name="miui_autologin_bar_error">"Can't sign in"</string>
   <string name="miui_autologin_bar_title">Sign in with Mi Account</string>
   <string name="miui_bookmark_action_bar_add_group_title">Add group</string>
@@ -318,7 +318,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miuishare_title_share">Share</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg">An SD card is required to modify this path</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">SD card is required to modify this path.</string>
   <string name="month_picker_dialog_title">Set month</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Connect to this network</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Open Wi-Fi network available</string>
@@ -457,7 +457,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="readmode_login">Sign in</string>
   <string name="readmode_login_message">You need to sign in to read more.</string>
   <string name="readmode_page_load_error">"Can't load page"</string>
-  <string name="readmode_page_loading">Loading…</string>
+  <string name="readmode_page_loading">Just a sec…</string>
   <string name="readmode_pay">Buy chapter</string>
   <string name="readmode_pay_message">You need to pay to read the next chapter.</string>
   <string name="readmode_reach_last_page">This is the last page</string>

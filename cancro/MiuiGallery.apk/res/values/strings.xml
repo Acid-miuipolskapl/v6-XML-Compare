@@ -493,6 +493,8 @@
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
   <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
+  <string name="cloud_gallery_space_full_buy_more">"Can't sync new photos with your Mi Cloud. To sync more photos, buy additional storage space."</string>
+  <string name="cloud_gallery_space_full_title">Mi Cloud is full</string>
   <string name="cloud_media_set_set">Mi Cloud</string>
   <string name="cloud_owner_album_share_guide">"Share this album
 with friends"</string>
@@ -616,6 +618,7 @@ with friends"</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="face_album">People</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
+  <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
   <string name="face_album_rename_hint">Enter name</string>
   <string name="face_albumset_detecting_tip">Just a sec…</string>
@@ -623,6 +626,7 @@ with friends"</string>
   <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_albumset_use_tip">Automatically sort photos by the people that are in them.</string>
+  <string name="face_choose_tip">Select from exist album</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
@@ -876,7 +880,7 @@ device"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
-  <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
+  <string name="recommanded_face_abandon_tip">Removed from recommandation</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="redeye">Red eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
@@ -1033,6 +1037,7 @@ device"</string>
   <string name="unpublish_succeeded">Album unpublished</string>
   <string name="unpublishing">Cancelling…</string>
   <string name="untagged">Untagged</string>
+  <string name="upgrade_micloud_space">Get more space</string>
   <string name="user_alias_self">Self</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>

@@ -65,6 +65,7 @@
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="btn_text_cleanup_all">Clean up</string>
   <string name="btn_text_done">Done</string>
+  <string name="btn_text_power_cleanup">Super Clean</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_optimize">Optimize</string>
   <string name="btn_text_quick_scan">Scan</string>
