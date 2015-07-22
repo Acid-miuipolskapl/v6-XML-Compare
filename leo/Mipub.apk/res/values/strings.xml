@@ -21,6 +21,7 @@
   <string name="bookmark_empty">No starred messages</string>
   <string name="bookmark_list_title">Starred</string>
   <string name="cannot_send_message">"Can't send message"</string>
+  <string name="check_network">Network settings</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm_delete_all_conversations">Delete all conversations?</string>
   <string name="confirm_delete_conversation">Delete this entire thread?</string>
@@ -48,6 +49,7 @@
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
+  <string name="current_service_number">current service number</string>
   <string name="delete">Delete</string>
   <string name="delete_message">Delete</string>
   <string name="delete_unlocked">Delete locked messages</string>
@@ -56,6 +58,7 @@
   <string name="done">Done</string>
   <string name="edit">Edit</string>
   <string name="edit_phrase">Edit quick responses</string>
+  <string name="empty_mipub_list">Empty</string>
   <string name="enable_password_protect">Require password</string>
   <string name="enable_visible_pattern_title">Make pattern visible</string>
   <string name="english_subject_limit">40 character limit</string>
@@ -69,13 +72,13 @@
   <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
   <string name="festival_never_remind">"Don't show again."</string>
   <string name="festival_sms_loading">Loading…</string>
-  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Created:</string>
   <string name="file_size">Size:</string>
   <string name="file_title">Name:</string>
   <string name="file_width_height">Size:</string>
   <string name="follow_finished">Following number</string>
   <string name="follow_forbidden">"Can't follow this number"</string>
+  <string name="followed_accounts">Followed accounts</string>
   <string name="hms_add_image_progress_message">Processing…</string>
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="invalid_conversation">Invalid conversation</string>
@@ -88,6 +91,7 @@
   <string name="menu_lock">Star</string>
   <string name="menu_mark">Mark</string>
   <string name="menu_more">More</string>
+  <string name="menu_more_service">More</string>
   <string name="menu_new_contact">New contact</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_yellowpage">View %s</string>
@@ -96,6 +100,9 @@
   <string name="message_readed">Read</string>
   <string name="message_saved_as_draft">Message saved as draft.</string>
   <string name="migrate_db_loading">Loading...</string>
+  <string name="mipub_message_block">Not receiving messages from %s</string>
+  <string name="mipub_message_block_already">You have already set not receiving messages</string>
+  <string name="mipub_message_receive">Regain messages from %s</string>
   <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
   <string name="msglist_more_refreshing">Refreshing…</string>
   <string name="msglist_no_more_to_refresh">Already up to date</string>
@@ -210,6 +217,7 @@
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="too_many_unsent_mms">"Can't send message right now. Too many unsent multimedia messages."</string>
+  <string name="try_again">Try again</string>
   <string name="type_attachment">attachment</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">picture</string>
