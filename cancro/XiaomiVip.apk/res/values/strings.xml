@@ -20,6 +20,7 @@
   <string name="experience">Exp</string>
   <string name="expired">Expired</string>
   <string name="fail_reach_server">"Can't connect to server"</string>
+  <string name="giveup">Give up</string>
   <string name="in_progress">Sending request…</string>
   <string name="invalid_json">Response is an invalid JSON string</string>
   <string name="level">Level</string>

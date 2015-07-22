@@ -28,7 +28,7 @@
   <string name="high">Performance</string>
   <string name="invalid_size_value">"Couldn't get package size."</string>
   <string name="low">Battery saving</string>
-  <string name="low_power_auto_title">Restrict apps when battery is less than 20%</string>
+  <string name="low_power_auto_title">Restrict apps when battery is low</string>
   <string name="media">Media mode</string>
   <string name="menu_text_power_analysis">Test battery</string>
   <string name="menu_text_power_configure">Battery settings</string>
@@ -50,6 +50,7 @@
   <string name="power_config_app_background_title">Background</string>
   <string name="power_config_app_full_screen_title">Fullscreen</string>
   <string name="power_config_app_launch_title">Foreground</string>
+  <string name="power_config_choose_apps">Choose apps</string>
   <string name="power_config_confirm_event_delete">Delete this configuration?</string>
   <string name="power_config_cpu_freq_dialog_title">CPU frequency</string>
   <string name="power_config_cpu_freq_title">CPU frequency</string>
@@ -70,6 +71,7 @@
   <string name="power_config_phone_idle_title">Idle</string>
   <string name="power_config_select_apps_empty">Tap to select apps</string>
   <string name="power_config_select_apps_title">Apps</string>
+  <string name="power_config_title">Config</string>
   <string name="power_configure_screen_brightness_enable">Set screen brightness</string>
   <string name="power_customize_giveup_change">Abandon changes?</string>
   <string name="power_dialog_cancel">Cancel</string>
@@ -84,7 +86,6 @@
   <string name="power_dialog_screen_brightness_title">Brightness</string>
   <string name="power_event_user_define_title">New events</string>
   <string name="power_event_view_event_title">Triggers</string>
-  <string name="power_hide_mode_alert_message">"Apps you add to this list won't be able to connect to WLAN, mobile data networks, or GPS and may not be able to work normally."</string>
   <string name="power_hide_mode_app_list_summary">App settings</string>
   <string name="power_hide_mode_app_list_title">Choose apps to restrict</string>
   <string name="power_hide_mode_app_list_total">%d apps</string>

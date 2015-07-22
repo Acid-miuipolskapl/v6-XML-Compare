@@ -35,6 +35,8 @@
   <string name="app_update_background">Update app in background.</string>
   <string name="app_upgrade_version">Update available</string>
   <string name="app_version">Version</string>
+  <string name="app_wifi_mode">Wifi auto upgrade</string>
+  <string name="app_wifi_mode_summary">When in Wifi mode, auto upgrade to latest version.</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>

@@ -346,12 +346,14 @@
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Add contact</string>
+  <string name="contextmenu_call">Call</string>
   <string name="contextmenu_copy">Copy</string>
   <string name="contextmenu_copylink">Copy link URL</string>
   <string name="contextmenu_dial_dot">Dial…</string>
   <string name="contextmenu_feedback">Send feedback</string>
   <string name="contextmenu_help">Help</string>
   <string name="contextmenu_map">Map</string>
+  <string name="contextmenu_open">Open</string>
   <string name="contextmenu_openlink">Open in Browser</string>
   <string name="contextmenu_send_mail">Send email</string>
   <string name="contextmenu_sharelink">Share link</string>
@@ -363,6 +365,7 @@
   <string name="conversation_list_net_check">"Can't connect to the network"</string>
   <string name="conversation_overload_toast">This email is too big to load, please go through all on PC later</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+  <string name="copied">Copied</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
   <string name="create_action">New</string>
@@ -426,6 +429,7 @@
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_failed">"Couldn't download. Touch to retry."</string>
+  <string name="download_message_failed_for_too_large">The message is too big to download.</string>
   <string name="download_show_image">Download and display image</string>
   <string name="downloading_message_body">Downloading…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -825,6 +829,7 @@ CC: %4$s
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Preview</string>
   <string name="previous_action">Back</string>
+  <string name="print">Print</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol">Protocol</string>
   <string name="protocol_eas">eas</string>
