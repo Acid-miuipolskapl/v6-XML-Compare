@@ -1667,8 +1667,8 @@ Select your operating system:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_center">Power</string>
-  <string name="power_hide_mode_summary">Backstage behavior control applications, significant savings in electricity</string>
-  <string name="power_hide_mode_title">Hide Mode</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
+  <string name="power_hide_mode_title">Manage apps battery usage</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mgr">Battery</string>
   <string name="power_mode">Power settings</string>
@@ -2762,6 +2762,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
   <string name="wifi_eap_method">EAP method</string>
+  <string name="wifi_eap_sim_simcard">Choose SIM</string>
   <string name="wifi_eap_user_cert">User certificate</string>
   <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
