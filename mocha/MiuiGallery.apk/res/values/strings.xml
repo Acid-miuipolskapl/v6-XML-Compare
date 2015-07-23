@@ -684,6 +684,16 @@ with friends"</string>
   <string name="home_page_tab_local">Offline</string>
   <string name="home_page_tab_photo">Photos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_access_denied">Network access denied</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Release to refresh…</string>
+  <string name="hybrid_service_unavailiable">Service unavailable</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="ignore_album">"Don't show"</string>
   <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignore this person</string>
@@ -880,7 +890,7 @@ device"</string>
   <string name="qzone">QZone</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Recognizing picture…</string>
-  <string name="recommanded_face_abandon_tip">Removed from recommandation</string>
+  <string name="recommanded_face_abandon_tip">Removed from suggestions</string>
   <string name="recommanded_face_added_tip">Added to \"%s\"</string>
   <string name="redeye">Red eye</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
