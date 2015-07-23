@@ -149,7 +149,7 @@ For more info check the message you received from your carrier"</string>
   <string name="lock_screen_warning_value">data usage warning amount</string>
   <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
-  <string name="main_alert_message_no_mobile_package">"Data limit hasn't been set"</string>
+  <string name="main_alert_message_no_mobile_package">No data limit set</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
 a mobile data connection"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
@@ -176,11 +176,11 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s off-peak data used</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
   <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
-  <string name="main_toolbar_firewall">Restrict app data usage</string>
+  <string name="main_toolbar_firewall">Restrict data usage</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile data connection</string>
   <string name="main_toolbar_internet_by_pc_brige">Shared internet over USB</string>
   <string name="main_toolbar_internet_by_wifi">WLAN</string>
-  <string name="main_toolbar_purchase">Top-up</string>
+  <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_saving">Data saver</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
   <string name="main_traffic_overlimit_text">over</string>
@@ -337,15 +337,15 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_specified_adjust">Set custom data limit</string>
   <string name="pref_specified_traffic_settings">Data limit settings</string>
   <string name="pref_title_declaration">Important disclaimer</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
+  <string name="pref_title_diagnostics_show_float_notification">Floating notifications</string>
   <string name="pref_title_mobile_traffic">Show data usage while locked</string>
   <string name="pref_title_network_diagnostics">Test network</string>
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
   <string name="pref_title_update_notification">Show data usage notifications</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Reduce data usage for new apps</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically activate Data saver for newly installed apps for which data usage can be significantly reduced</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Allow smart exceptions</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically add apps with data-saving capability to exceptions</string>
   <string name="pref_traffic_saving_compressed">Compressed</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will turning on data saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Why isn't data saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data saver only kicks in when you're using your carrier's network to send or download content."</string>
