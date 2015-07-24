@@ -49,6 +49,7 @@
   <string name="button_ok">OK</string>
   <string name="button_return">Back</string>
   <string name="call_title">Call history</string>
+  <string name="camera_summary">Camera settings (not including photos)</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_backup">Stop</string>
   <string name="cancel_restore">Stop</string>
@@ -180,7 +181,7 @@
   <string name="select_backup_item">Choose items</string>
   <string name="select_storage_location">Choose backup location</string>
   <string name="service_stoped">Service stopped</string>
-  <string name="settings_summary">Data: phone and messaging settings</string>
+  <string name="settings_summary">Phone and messaging settings</string>
   <string name="sms_title">Messaging</string>
   <string name="software_backup_info">App data</string>
   <string name="st_antispam_mode_blacklist_state">11112121</string>
