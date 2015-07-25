@@ -44,6 +44,7 @@
         <item>Alibaba</item>
         <item>China Mcom</item>
         <item>SOSHARE MOBILE</item>
+        <item>Mi Mobile</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
@@ -89,6 +90,7 @@
         <item>46001</item>
         <item>46001</item>
         <item>46002</item>
+        <item>46001</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>46000</item>
@@ -134,6 +136,7 @@
         <item>阿里通信</item>
         <item>中麦通信</item>
         <item>分享通信</item>
+        <item>小米通信</item>
     </string-array>
     <string-array name="tian_gan">
         <item>甲</item>

@@ -146,6 +146,10 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 6. Switch keyboards or update to a newer version of Sogou.</string>
+  <string name="sogou_uninstall_negative_button">Update Sogou</string>
+  <string name="sogou_uninstall_positive_button">Switch keyboards</string>
+  <string name="sogou_uninstall_title">Keyboard compatibility</string>
   <string name="space_not_enough_msg">"Your device is too full to download this update. Clean up your device's storage and try again."</string>
   <string name="space_not_enough_title">Not enough storage space</string>
   <string name="stable_build">Stable</string>

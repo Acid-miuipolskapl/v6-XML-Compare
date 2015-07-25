@@ -26,6 +26,9 @@
   <string name="confirm_location_alert">Remember photo locations</string>
   <string name="confirm_location_message">Tag your photos and videos with the locations where they are taken. Other apps can access this information along with your saved images.</string>
   <string name="confirm_location_title">Remember photo locations?</string>
+  <string name="confirm_recording_fail_calling_alert">"Can't record during call."</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">"Another app may already be using the device's microphone to record."</string>
+  <string name="confirm_recording_fail_title">"Can't record"</string>
   <string name="confirm_restore_message">"Restore Camera's default settings?"</string>
   <string name="confirm_restore_title">Restore default settings</string>
   <string name="dialog_ok">OK</string>
@@ -99,7 +102,7 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Anti banding</string>
   <string name="pref_camera_asd_night_title">Enhance lowlight pictures automatically</string>
-  <string name="pref_camera_asd_popup_title">Prompt when flash is needed</string>
+  <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto-capture when stable</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>

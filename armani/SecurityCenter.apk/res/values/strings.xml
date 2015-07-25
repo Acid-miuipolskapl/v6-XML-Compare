@@ -65,6 +65,7 @@
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light</string>
   <string name="btn_text_cleanup_all">Clean up</string>
   <string name="btn_text_done">Done</string>
+  <string name="btn_text_power_cleanup">Deep clean</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_optimize">Optimize</string>
   <string name="btn_text_quick_scan">Scan</string>
@@ -191,6 +192,7 @@
   <string name="hints_virus_lib_update_default_summary">Last update time unknown</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
+  <string name="history_details_title">History details</string>
   <string name="info_and_call">Calls and messaging</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>

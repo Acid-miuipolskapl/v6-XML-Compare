@@ -134,6 +134,8 @@
   <string name="event_info_end">End\u0009\u0009\u0009</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
+  <string name="event_info_reminders_label_1">Reminder</string>
+  <string name="event_info_reminders_label_more">Reminder %d</string>
   <string name="event_info_repeat">Repeat\u0009</string>
   <string name="event_info_title">Event details</string>
   <string name="event_info_title_invite">Meeting invitation</string>
