@@ -85,8 +85,8 @@
   <string name="editmode_menu_delete">Delete</string>
   <string name="editmode_menu_share">Share</string>
   <string name="experience_xunlei_account_speed">Xunlei members can enjoy downloads at lightening speed.</string>
-  <string name="expire_notification_msg">您的迅雷会员即将到期，点击查看详情。</string>
-  <string name="expire_today_notification_msg">您的迅雷会员今天将到期，点击查看详情。</string>
+  <string name="expire_notification_msg">Xunlei membership expires soon.</string>
+  <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
   <string name="get_account_dialog_msg">Getting account info…</string>
@@ -108,9 +108,9 @@
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="no_downloads">No downloads</string>
-  <string name="no_vip_info">开通迅雷会员即可享受加速特权</string>
-  <string name="no_vip_show_info">"手机与电脑齐加速；
-畅享加速节省时间更给力！"</string>
+  <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
+  <string name="no_vip_show_info">"Speed up downloads
+across all your devices with Xunlei"</string>
   <string name="one_month">1 month</string>
   <string name="open_download">Open</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
@@ -155,14 +155,14 @@
   <string name="select_operation_items">Choose items</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
   <string name="show_more">Show %s more</string>
-  <string name="start_xunlei_speedup_info">会员登录后下载任务时自动开启高速通道</string>
-  <string name="third_web_cancel">取消</string>
-  <string name="third_web_confirm">确定</string>
-  <string name="third_web_default">设为默认保存路径，以后不再提醒</string>
-  <string name="third_web_filename_hint">文件名称</string>
-  <string name="third_web_filesize">文件大小:</string>
-  <string name="third_web_savepath">目录</string>
-  <string name="third_web_title">保存</string>
+  <string name="start_xunlei_speedup_info">Sign in to accelerate your downloads.</string>
+  <string name="third_web_cancel">Cancel</string>
+  <string name="third_web_confirm">OK</string>
+  <string name="third_web_default">Remember this location</string>
+  <string name="third_web_filename_hint">Name</string>
+  <string name="third_web_filesize">Size</string>
+  <string name="third_web_savepath">Location</string>
+  <string name="third_web_title">Save</string>
   <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
@@ -171,9 +171,12 @@
   <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
   <string name="valid_in_this_month">Valid for this month</string>
   <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
-  <string name="vip_expire_show_info">您的迅雷会员即将到期\\n立即续费尊享95折优惠</string>
-  <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\\n立即续费尊享95折优惠</string>
-  <string name="vip_show_info">500万迅雷会员的选择\\n专属加速特权，畅享快人一步的放肆</string>
+  <string name="vip_expire_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
+  <string name="vip_expire_today_show_info">"Xunlei membership expired.
+Renew now and get 5% off."</string>
+  <string name="vip_show_info">"5 million members.
+Accelerate downloads across all your devices."</string>
   <string name="xunlei_brand">Powered by Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Turn on</string>

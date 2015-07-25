@@ -626,7 +626,7 @@ with friends"</string>
   <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_albumset_use_tip">Automatically sort photos by the people that are in them.</string>
-  <string name="face_choose_tip">Select from exist album</string>
+  <string name="face_choose_tip">Choose from existing album</string>
   <string name="face_move_dialog_title">Choose an album</string>
   <string name="facelift">Face glow</string>
   <string name="facetan">Face tan</string>
@@ -690,7 +690,7 @@ with friends"</string>
   <string name="hybrid_network_access_denied">Network access denied</string>
   <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Pull to refresh…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Just a sec…</string>
   <string name="hybrid_pull_to_refresh_release_label">Release to refresh…</string>
   <string name="hybrid_service_unavailiable">Service unavailable</string>
   <string name="hybrid_try_again">Try again</string>
@@ -843,7 +843,7 @@ device"</string>
   <string name="paint_cancel_title">Abandon changes</string>
   <string name="paint_crop_cancel_context">Save cropped image?</string>
   <string name="paint_crop_cancel_title">Abandon changes</string>
-  <string name="paint_crop_tips">To get a better image, please try to place its interest parts on grid points by resizing and moving.</string>
+  <string name="paint_crop_tips">Place the target area of the image near the center of the grid.</string>
   <string name="paint_highlight">Highlight</string>
   <string name="paint_highlight_cancel_context">Save highlighted image?</string>
   <string name="paint_highlight_cancel_title">Abandon changes</string>
