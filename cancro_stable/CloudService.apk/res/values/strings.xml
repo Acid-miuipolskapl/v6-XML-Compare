@@ -235,6 +235,9 @@ You can turn this feature on and off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
 
 This feature encrypts and uploads your device's ID to Mi's servers."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS message used to activate this feature.
+
+This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>

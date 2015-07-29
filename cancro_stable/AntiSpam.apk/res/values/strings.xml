@@ -59,8 +59,8 @@
   <string name="bl_no_block_call">No blocked calls.</string>
   <string name="bl_no_block_sms">No blocked SMS.</string>
   <string name="blacklist_prefix_add_hint">Block all numbers that begin with this prefix</string>
-  <string name="block_message_number">SMS: %d</string>
-  <string name="block_phone_number">Calls: %d</string>
+  <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Calls: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Delete</string>
   <string name="button_to_setting">Settings</string>
   <string name="call_delete_hint">Delete all blocked calls from this number?</string>
