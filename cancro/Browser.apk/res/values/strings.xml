@@ -18,9 +18,9 @@
   <string name="account_prifix">Account:</string>
   <string name="action">Sign in</string>
   <string name="action_menu_text_add_bookmark">Add bookmark</string>
-  <string name="action_menu_text_bandwidth">Bandwidth</string>
-  <string name="action_menu_text_bandwidth_off">Bandwidth/Off</string>
-  <string name="action_menu_text_bandwidth_on">Bandwidth/On</string>
+  <string name="action_menu_text_bandwidth">Data saver</string>
+  <string name="action_menu_text_bandwidth_off">Data saver off</string>
+  <string name="action_menu_text_bandwidth_on">Data saver on</string>
   <string name="action_menu_text_bookmark_added">Bookmark added</string>
   <string name="action_menu_text_copy_url">Copy URL</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
@@ -93,7 +93,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
   <string name="browserFrameFileErrorLabel">File problem</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated."</string>
+  <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
   <string name="browserFrameNetworkErrorLabel">Connection problem</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs</string>
@@ -176,7 +176,7 @@
   <string name="dont_remind_again">Remember this choice</string>
   <string name="download_complete">Download complete</string>
   <string name="download_default_path_txt">Remember this choice</string>
-  <string name="download_dialog_default_path_invalid">Download path is invalid. Will use default download path instead.</string>
+  <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
   <string name="download_dialog_file_length_hint_txt">"File size: "</string>
   <string name="download_dialog_file_length_lessthan1kb">less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">"Couldn't download"</string>
@@ -214,7 +214,7 @@
   <string name="find_new_version">Updates available</string>
   <string name="find_next">Find next</string>
   <string name="find_on_page_cancel">Cancel</string>
-  <string name="find_on_page_hint">Please enter your query</string>
+  <string name="find_on_page_hint">Search page</string>
   <string name="find_on_page_next">Next</string>
   <string name="find_on_page_prev">Back</string>
   <string name="find_previous">Find previous</string>
@@ -234,7 +234,7 @@
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="history_saved_webpage">Save page</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="in_incognito">"You're incognito! Webpages you view in this tab won't appear in your browser history."</string>
+  <string name="in_incognito">"You're incognito! Web pages you view in this tab won't appear in your browser history."</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
   <string name="is_first_tab">This is the first tab</string>
   <string name="is_last_history_item">This is the last page in Browser history</string>
@@ -243,9 +243,9 @@
   <string name="is_page_top">"You're at the top of the page"</string>
   <string name="js_dialog_before_unload">"%s
 
-Are you sure you want to navigate away from this page?"</string>
-  <string name="js_dialog_before_unload_negative_button">Stay on this Page</string>
-  <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
+Leave this page?"</string>
+  <string name="js_dialog_before_unload_negative_button">Stay</string>
+  <string name="js_dialog_before_unload_positive_button">Leave</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
   <string name="js_dialog_title">The page at \"%s\" says:</string>
   <string name="js_dialog_title_default">JavaScript</string>
@@ -257,7 +257,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
   <string name="max_tabs_warning">"Can't open more tabs"</string>
-  <string name="maximum_input_alert">Maximum input 2048 characters</string>
+  <string name="maximum_input_alert">"Can't enter more than 2048 characters"</string>
   <string name="media_error_action_refresh">Refresh</string>
   <string name="media_error_action_replace_video_source">"Couldn't change source"</string>
   <string name="media_error_failure">"Can't play video"</string>
@@ -283,10 +283,10 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_bookmark_action_bar_new_group_title">New group</string>
   <string name="miui_content_copy">Copy</string>
   <string name="miui_content_cut">Cut</string>
-  <string name="miui_content_open_url">OpenURL</string>
+  <string name="miui_content_open_url">Open URL</string>
   <string name="miui_content_paste">Paste</string>
   <string name="miui_content_select">Select</string>
-  <string name="miui_content_select_all">SelectAll</string>
+  <string name="miui_content_select_all">Select all</string>
   <string name="miui_content_share">Share</string>
   <string name="miui_content_web_search">Search</string>
   <string name="miui_quicksearch_enable_pref_summary">Show link to search bar in the notification shade</string>
@@ -296,12 +296,12 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="miui_startpage">Start page</string>
   <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
   <string name="miuichromium_error_page_mobile">Mobile network</string>
-  <string name="miuichromium_error_page_reason_network">View link URL</string>
-  <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
+  <string name="miuichromium_error_page_reason_network">"Can't connect to network"</string>
+  <string name="miuichromium_error_page_reason_server">"Couldn't load this page"</string>
   <string name="miuichromium_error_page_reload">Reload</string>
   <string name="miuichromium_error_page_title">"Can't find this page"</string>
-  <string name="miuichromium_error_page_url">View page URL</string>
-  <string name="miuichromium_error_page_wlan">WLAN settings</string>
+  <string name="miuichromium_error_page_url">"Can't connect to the network"</string>
+  <string name="miuichromium_error_page_wlan">Wi-Fi settings</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
@@ -487,7 +487,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="save_image_success">Image saved</string>
   <string name="save_page_capture_tip">Open notification shade to view screenshot.</string>
   <string name="save_page_capture_to_camera">Screenshot saved</string>
-  <string name="save_password_message">Do you want the browser to remember this password?</string>
+  <string name="save_password_message">Remember this password?</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
   <string name="save_password_remember">Remember</string>
@@ -523,7 +523,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
   <string name="snapshot_failed">"Couldn't save for offline reading"</string>
-  <string name="snapshot_successed">Save for offline reading successed</string>
+  <string name="snapshot_successed">Save for offline reading</string>
   <string name="ssl_certificate">Security certificate</string>
   <string name="ssl_certificate_is_valid">This certificate is valid.</string>
   <string name="ssl_continue">Continue</string>
@@ -619,7 +619,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
   <string name="view_certificate">View certificate</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>
-  <string name="voice_title">Speak your command…</string>
+  <string name="voice_title">Say your command…</string>
   <string name="voice_title_distinguish">Processing…</string>
   <string name="voice_title_listening">Listening…</string>
   <string name="voice_title_please">Begin speaking…</string>

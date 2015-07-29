@@ -1935,6 +1935,7 @@ This setting affects all users on this phone."</string>
   <string name="runningservices_settings_title">Running services</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
+  <string name="screen_color_and_optimize">Colors &amp; Contrast</string>
   <string name="screen_color_temperature">Colors</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
