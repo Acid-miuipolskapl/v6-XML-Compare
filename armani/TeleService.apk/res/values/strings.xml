@@ -147,7 +147,7 @@
   <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
-  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
   <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
