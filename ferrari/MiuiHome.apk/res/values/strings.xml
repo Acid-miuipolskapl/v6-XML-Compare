@@ -111,7 +111,7 @@
   <string name="gadget_photo_24_label">Image 4x2</string>
   <string name="gadget_photo_44_label">Image 4x4</string>
   <string name="gadget_photo_label">Image</string>
-  <string name="gadget_power_clear_button_label">Super Cleaner</string>
+  <string name="gadget_power_clear_button_label">Deep clean</string>
   <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">"Touch to download MIUI's Weather app"</string>
   <string name="gadget_weather_aqi_title">"Air quality: "</string>

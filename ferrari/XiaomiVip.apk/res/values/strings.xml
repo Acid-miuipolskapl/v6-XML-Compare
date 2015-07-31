@@ -2,7 +2,7 @@
 <resources>
   <string name="action">View</string>
   <string name="already_used">Used</string>
-  <string name="app_name">XiaomiVip</string>
+  <string name="app_name">XiaomiVIP</string>
   <string name="award_taken">Points collected</string>
   <string name="award_time">Collected on %s</string>
   <string name="awarded_package_is_expired">Expired</string>
@@ -22,7 +22,7 @@
   <string name="fail_reach_server">"Can't connect to server"</string>
   <string name="giveup">Give up</string>
   <string name="in_progress">Sending request…</string>
-  <string name="invalid_json">Response is an invalid JSON string</string>
+  <string name="invalid_json">Something went wrong</string>
   <string name="level">Level</string>
   <string name="level_detail">Daily task limit: %d</string>
   <string name="level_exp_value" formatted="false">%d/%d</string>
@@ -33,8 +33,8 @@
   <string name="no_award">No awards</string>
   <string name="no_network">"Can't connect to network"</string>
   <string name="no_task">All tasks have been completed</string>
-  <string name="passive_task">Passive Tasks</string>
-  <string name="privilege">Privilege</string>
+  <string name="passive_task">Background tasks</string>
+  <string name="privilege">Privileges</string>
   <string name="promote">Level up</string>
   <string name="query_level_fail">"Couldn't get info"</string>
   <string name="query_user_tasks_fail">"Can't get task info"</string>
@@ -44,7 +44,7 @@
   <string name="task_begin">In progress…</string>
   <string name="task_completed">Completed</string>
   <string name="task_done">Done</string>
-  <string name="task_limit">No task left for today, see you tomorrow!</string>
+  <string name="task_limit">No tasks left today. See you tomorrow!</string>
   <string name="task_not_completed">Not completed</string>
   <string name="task_ongoing">Ongoing</string>
   <string name="task_score">%d points</string>
