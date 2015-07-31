@@ -16,6 +16,7 @@
   <string name="adjust_position_prev_media_notice">Last</string>
   <string name="ads_control">Show Ads</string>
   <string name="ads_control_desc">Display advertisements when opening app</string>
+  <string name="ads_ignore">Ignore</string>
   <string name="airkan_control_device_des">To control playback, touch the bar at the bottom</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">casting</string>

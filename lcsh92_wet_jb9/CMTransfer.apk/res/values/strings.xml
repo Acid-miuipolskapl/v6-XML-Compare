@@ -35,6 +35,7 @@
   <string name="cancel_recv">Yes</string>
   <string name="cancel_send">Cancel</string>
   <string name="ch_smalltech_ledflashlight_free_save_pic">LEDflashlight Pictures</string>
+  <string name="check_upgrade">Update</string>
   <string name="cmbrowser_audio">CM Browser Music</string>
   <string name="cmbrowser_video">CM Browser Videos</string>
   <string name="cn_andouya_save_pic">Xender Pictures</string>
@@ -358,6 +359,9 @@
   <string name="deezer_android_app_save_pic">Deezer Pictures</string>
   <string name="delete_not_exists_media">File dose not exists</string>
   <string name="devian_tubemate_home_save_pic">TubeMate Pictures</string>
+  <string name="dlg_self_upgrade_progress_msg">Updating...(%1$s,%2$s total)</string>
+  <string name="dlg_self_upgrade_progress_title">Latest version:%1$s</string>
+  <string name="dlg_sendmsg_contact_title">Select recipient</string>
   <string name="documents">Documents</string>
   <string name="dreamleague_video">Dream League Soccer Videos</string>
   <string name="elfyourself_video">ElfYourself Videos</string>
@@ -481,6 +485,8 @@
   <string name="msg_other_recv_wait">The phone is busy now, please try again later...</string>
   <string name="msg_pc_refuse_accept_files">Be refused</string>
   <string name="msg_sdcard_no_volume">Other phone lacks space, cannot send files</string>
+  <string name="msg_self_upgrade_loading">Checking for update,</string>
+  <string name="msg_self_upgrade_loading_second">please wait...</string>
   <string name="msg_send_other_wait">The phone is busy, please try again later...</string>
   <string name="msg_update_inbox_loading">Updating Inbox...</string>
   <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
@@ -571,9 +577,21 @@
   <string name="screenshots_save_pic">Screenshots</string>
   <string name="sdcard_path_txt">External SD card</string>
   <string name="select_send_error">Please select file first</string>
+  <string name="send_app">%1$d apps</string>
   <string name="send_confirm_back_msg">You have selected &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; files, are you sure you want to cancel?</string>
+  <string name="send_contact">%1$d contacts</string>
+  <string name="send_document">%1$d documents</string>
+  <string name="send_file">%1$d files</string>
   <string name="send_history_list_item_title">Sent %2$d files to %1$s</string>
+  <string name="send_image">%1$d photos</string>
+  <string name="send_message_content">Hey, I just sent you %s, you can receive them by installing CM Transfer.</string>
+  <string name="send_msg_finish">Please ask the recipient to check their messages</string>
+  <string name="send_msg_info_hint">You can also send to one of your contacts</string>
+  <string name="send_music">%1$d musics</string>
   <string name="send_name">CM Transfer</string>
+  <string name="send_no_contact">"Nobody's here"</string>
+  <string name="send_package">%1$d packages</string>
+  <string name="send_video">%1$d videos</string>
   <string name="send_waiting">Waiting for other person to receive files…</string>
   <string name="share_face_to_face">Share CM Transfer face-to-face</string>
   <string name="share_to">share to</string>
@@ -597,6 +615,9 @@
   <string name="toast_recv_cancel">Other person has canceled receiving the file</string>
   <string name="toast_transfer_break">Network problem, please try again</string>
   <string name="toast_transfer_cancel">Other person has canceled sending the file</string>
+  <string name="toast_upgrade_network_problem">Network error, please check the network settings</string>
+  <string name="toast_upgrade_newest_version">You already have the latest version</string>
+  <string name="toast_upgrade_sdcard_problem">Not enough space, please check and try again</string>
   <string name="top_com_mobogenie_free_save_music">Free Music</string>
   <string name="tr_music_download_paradise_save_music">Music download Music</string>
   <string name="trans_item_num">( %1$d )</string>
@@ -646,6 +667,12 @@
   <string name="upgrade_dialog_button_upgrade">Update Now</string>
   <string name="upgrade_dialog_checking">Checking for updates...</string>
   <string name="upgrade_dialog_latest">Already at newest version</string>
+  <string name="upgrade_dialog_network_btn_continue">Continue</string>
+  <string name="upgrade_dialog_network_title">Updating on &lt;font color=#47c580 &gt;%1$s&lt;/font&gt; will cost network fees, do you want to continue updating?</string>
+  <string name="upgrade_dialog_popup_btn_notnow">Not now</string>
+  <string name="upgrade_dialog_popup_btn_rightnow">Update now</string>
+  <string name="upgrade_dialog_popup_subtitle">"What's new(%s):"</string>
+  <string name="upgrade_dialog_popup_title">Please update to the latest version!</string>
   <string name="upgrade_dialog_publish_date">Release date: %s</string>
   <string name="upgrade_dialog_size_format">Update size: %s</string>
   <string name="upgrade_dialog_version_format">Please update CM Transfer to v%s</string>
