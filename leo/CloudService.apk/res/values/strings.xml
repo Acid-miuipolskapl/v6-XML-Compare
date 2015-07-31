@@ -46,8 +46,6 @@ Last backed up on %2$s"</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">Use mobile data connection to sync contacts, messages, call history, notes, WLAN settings, Browser data and playlists</string>
-  <string name="cloud_sync_setting_summary_wlan">Sync data when connected to WLAN</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="contact">Contacts</string>
@@ -250,7 +248,6 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
-  <string name="only_in_wlan">Off</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
   <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
@@ -308,8 +305,6 @@ Sync your photos, contacts, notes, and more across all your devices or access th
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
   <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
-  <string name="sync_setting">Mobile data usage</string>
-  <string name="sync_standard">SMS and call history</string>
   <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
