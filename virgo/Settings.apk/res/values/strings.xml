@@ -794,7 +794,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_usage_point">This name will be visible to other devices nearby.</string>
+  <string name="device_name_usage_point">Other devices nearby can see this name.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD card</string>
   <string name="device_security_settings_title">Security</string>
