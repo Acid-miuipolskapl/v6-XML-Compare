@@ -35,6 +35,7 @@
   <string name="cancel_recv">Yes</string>
   <string name="cancel_send">Cancel</string>
   <string name="ch_smalltech_ledflashlight_free_save_pic">LEDflashlight Pictures</string>
+  <string name="check_upgrade">Update</string>
   <string name="cmbrowser_audio">CM Browser Music</string>
   <string name="cmbrowser_video">CM Browser Videos</string>
   <string name="cn_andouya_save_pic">Xender Pictures</string>
@@ -356,16 +357,22 @@
   <string name="deadtrigger2_video">Dead Trigger 2 Videos</string>
   <string name="deezer_android_app_save_music">Deezer Music</string>
   <string name="deezer_android_app_save_pic">Deezer Pictures</string>
+  <string name="delete_not_exists_media">File dose not exists</string>
   <string name="devian_tubemate_home_save_pic">TubeMate Pictures</string>
+  <string name="dlg_self_upgrade_progress_msg">Updating...(%1$s,%2$s total)</string>
+  <string name="dlg_self_upgrade_progress_title">Latest version:%1$s</string>
+  <string name="dlg_sendmsg_contact_title">Select recipient</string>
   <string name="documents">Documents</string>
   <string name="dreamleague_video">Dream League Soccer Videos</string>
   <string name="elfyourself_video">ElfYourself Videos</string>
   <string name="feedback">Feedback</string>
-  <string name="feedback_commit">Submit</string>
+  <string name="feedback_check_msg">Data will only be used for problem solving. CM Transfer promises not to gather any of your private information.</string>
+  <string name="feedback_check_title">Gather logs to help solve the issue</string>
+  <string name="feedback_commit">SUBMIT</string>
   <string name="feedback_commit_success">Submitted successfully</string>
   <string name="feedback_content">Did you experience any issues when sending files?</string>
   <string name="feedback_content_title">Send us your questions:</string>
-  <string name="feedback_qq_title">Please leave your email address:</string>
+  <string name="feedback_qq_title">Please leave your Whatsapp/Email account:</string>
   <string name="file">Files</string>
   <string name="files">Files</string>
   <string name="flipagram_audio">Flipagram Music</string>
@@ -395,6 +402,7 @@
   <string name="image_browse_error">Send failure</string>
   <string name="imported">imported</string>
   <string name="inbox">Inbox</string>
+  <string name="inbox_contact_unknown_phone">Unknown phone</string>
   <string name="inbox_contacts_from_device">From</string>
   <string name="install">INSTALL</string>
   <string name="installed">installed</string>
@@ -477,7 +485,10 @@
   <string name="msg_other_recv_wait">The phone is busy now, please try again later...</string>
   <string name="msg_pc_refuse_accept_files">Be refused</string>
   <string name="msg_sdcard_no_volume">Other phone lacks space, cannot send files</string>
+  <string name="msg_self_upgrade_loading">Checking for update,</string>
+  <string name="msg_self_upgrade_loading_second">please wait...</string>
   <string name="msg_send_other_wait">The phone is busy, please try again later...</string>
+  <string name="msg_update_inbox_loading">Updating Inbox...</string>
   <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
   <string name="musixmatch_audio">musiXmatch Music</string>
   <string name="mxPlayer_video">MX Player Videos</string>
@@ -487,6 +498,9 @@
   <string name="net_audiko2_save_music">Audiko2 Music</string>
   <string name="net_mobigame_zombietsunami1_save_pic">Zombie Tsunami Pictures</string>
   <string name="net_zedge_android_save_music">Zedge Music</string>
+  <string name="new_function_butn_msg">START CM TRANSFER</string>
+  <string name="new_function_msg">quickly and safely</string>
+  <string name="new_function_title">Transfer Contacts</string>
   <string name="no_contact_tip">No contacts</string>
   <string name="no_file_tip">No files</string>
   <string name="nosdcard_txt">No SD card</string>
@@ -552,6 +566,7 @@
   <string name="recv_history_title">Received File</string>
   <string name="recv_info_doing_format" formatted="false">Receiving file (%d/%d) at %s</string>
   <string name="recv_info_gone_format" formatted="false">%d files received, average speed of %s</string>
+  <string name="recv_info_gone_format_one" formatted="false">%d file received, average speed of %s</string>
   <string name="recv_request_msg" formatted="false">%s is sending %s files, do you want to receive them?</string>
   <string name="recv_waiting">Waiting for other person to send files…</string>
   <string name="retry">Retry</string>
@@ -562,9 +577,21 @@
   <string name="screenshots_save_pic">Screenshots</string>
   <string name="sdcard_path_txt">External SD card</string>
   <string name="select_send_error">Please select file first</string>
+  <string name="send_app">%1$d apps</string>
   <string name="send_confirm_back_msg">You have selected &lt;font color=#47c580 &gt;%1$d&lt;/font&gt; files, are you sure you want to cancel?</string>
+  <string name="send_contact">%1$d contacts</string>
+  <string name="send_document">%1$d documents</string>
+  <string name="send_file">%1$d files</string>
   <string name="send_history_list_item_title">Sent %2$d files to %1$s</string>
+  <string name="send_image">%1$d photos</string>
+  <string name="send_message_content">Hey, I just sent you %s, you can receive them by installing CM Transfer.</string>
+  <string name="send_msg_finish">Please ask the recipient to check their messages</string>
+  <string name="send_msg_info_hint">You can also send to one of your contacts</string>
+  <string name="send_music">%1$d musics</string>
   <string name="send_name">CM Transfer</string>
+  <string name="send_no_contact">"Nobody's here"</string>
+  <string name="send_package">%1$d packages</string>
+  <string name="send_video">%1$d videos</string>
   <string name="send_waiting">Waiting for other person to receive files…</string>
   <string name="share_face_to_face">Share CM Transfer face-to-face</string>
   <string name="share_to">share to</string>
@@ -588,6 +615,9 @@
   <string name="toast_recv_cancel">Other person has canceled receiving the file</string>
   <string name="toast_transfer_break">Network problem, please try again</string>
   <string name="toast_transfer_cancel">Other person has canceled sending the file</string>
+  <string name="toast_upgrade_network_problem">Network error, please check the network settings</string>
+  <string name="toast_upgrade_newest_version">You already have the latest version</string>
+  <string name="toast_upgrade_sdcard_problem">Not enough space, please check and try again</string>
   <string name="top_com_mobogenie_free_save_music">Free Music</string>
   <string name="tr_music_download_paradise_save_music">Music download Music</string>
   <string name="trans_item_num">( %1$d )</string>
@@ -602,6 +632,7 @@
   <string name="transfer_history">Sending History</string>
   <string name="transfer_info_doing_format" formatted="false">Sending file (%d/%d) at %s</string>
   <string name="transfer_info_gone_format" formatted="false">%d files sent, average speed of %s</string>
+  <string name="transfer_info_gone_format_one" formatted="false">%d file sent, average speed of %s</string>
   <string name="transfer_phone">Phone</string>
   <string name="transfer_receive_timeout">Connection broken</string>
   <string name="transfer_recv_contact_msg">Import contacts easily</string>
@@ -622,6 +653,7 @@
   <string name="transfer_send_finish_contact_title">contacts sent</string>
   <string name="transfer_send_finish_contact_title_one">contact sent</string>
   <string name="transfer_send_finish_text">Sending Complete</string>
+  <string name="transfer_share">Share CM Transfer</string>
   <string name="tunein_player_save_music">Tunein Music</string>
   <string name="tunein_radio_save_pic">TuneIn Radio Pictures</string>
   <string name="tv_peel_samsung_app_save_pic">Samsung WatchON Pictures</string>
@@ -635,6 +667,12 @@
   <string name="upgrade_dialog_button_upgrade">Update Now</string>
   <string name="upgrade_dialog_checking">Checking for updates...</string>
   <string name="upgrade_dialog_latest">Already at newest version</string>
+  <string name="upgrade_dialog_network_btn_continue">Continue</string>
+  <string name="upgrade_dialog_network_title">Updating on &lt;font color=#47c580 &gt;%1$s&lt;/font&gt; will cost network fees, do you want to continue updating?</string>
+  <string name="upgrade_dialog_popup_btn_notnow">Not now</string>
+  <string name="upgrade_dialog_popup_btn_rightnow">Update now</string>
+  <string name="upgrade_dialog_popup_subtitle">"What's new(%s):"</string>
+  <string name="upgrade_dialog_popup_title">Please update to the latest version!</string>
   <string name="upgrade_dialog_publish_date">Release date: %s</string>
   <string name="upgrade_dialog_size_format">Update size: %s</string>
   <string name="upgrade_dialog_version_format">Please update CM Transfer to v%s</string>
