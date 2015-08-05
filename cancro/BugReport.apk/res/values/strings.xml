@@ -95,7 +95,7 @@
   <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
   <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
   <string name="submit_dialog_title">Send bug report</string>
-  <string name="suggestion_description">Write your suggestion here</string>
+  <string name="suggestion_description">Add description here</string>
   <string name="suggestion_problem1">"Tell us what features you'd like to see in future"</string>
   <string name="system_app_select">Built-in apps</string>
   <string name="systemui">Notification shade</string>

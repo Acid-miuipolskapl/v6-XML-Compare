@@ -381,7 +381,7 @@ Switch to the new provider anyway?"</string>
   <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
   <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
   <string name="ivr_mo_area_code_settings">Current area code</string>
-  <string name="ivr_mo_area_code_settings_hint">Please input current area code</string>
+  <string name="ivr_mo_area_code_settings_hint">Enter current area code</string>
   <string name="ivr_parameter_settings">IVR parameters settings</string>
   <string name="ivr_type_cm_1">M-Zone</string>
   <string name="ivr_type_cm_2">GoTone</string>
