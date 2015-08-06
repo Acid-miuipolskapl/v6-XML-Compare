@@ -1456,7 +1456,7 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>"To speed up device's performance, hide system animations"</item>
-        <item>"Showing system animations may slow down device's performance"</item>
+        <item>"System animations may slow down device's performance"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>

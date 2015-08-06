@@ -618,7 +618,7 @@ Switch to the new provider anyway?"</string>
   <string name="network_query_error">Error while searching for networks.</string>
   <string name="network_settings_auto_select_title">Close auto-select</string>
   <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
-  <string name="network_settings_confirm_message">Network maybe unavailable, are you sure?</string>
+  <string name="network_settings_confirm_message">Network may be unavailable. Change anyway?</string>
   <string name="network_settings_data_connected_change">You need to turn off mobile data while you switch to another network.</string>
   <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
   <string name="network_settings_forbidden">%s (forbidden)</string>
