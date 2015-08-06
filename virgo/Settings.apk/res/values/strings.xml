@@ -761,7 +761,7 @@ This setting affects all users on this phone."</string>
   <string name="debug_log">User Experience Program</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="default_date_format">MM/dd/yyyy</string>
-  <string name="default_input_method">Choose default input method</string>
+  <string name="default_input_method">Choose default keyboard</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
   <string name="deny">Deny</string>
@@ -980,17 +980,18 @@ Some apps may not work until updated by their developers."</string>
   <string name="fluency_mode">Optimize system performance</string>
   <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_huge">Huge</string>
-  <string name="font_size_large">Large</string>
-  <string name="font_size_medium">Medium</string>
-  <string name="font_size_normal">Standard</string>
+  <string name="font_size_large">Larger</string>
+  <string name="font_size_medium">Large</string>
+  <string name="font_size_normal">Small</string>
   <string name="font_size_preview">MIUI</string>
   <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_save">OK</string>
-  <string name="font_size_small">Small</string>
-  <string name="font_size_summary">Change the font size for text on the Home screen, notification shade, dialer, and just about everywhere else</string>
-  <string name="font_size_summary1">"
-If your system's text is still too small, try using "</string>
-  <string name="font_size_summary2">Lite mode</string>
+  <string name="font_size_small">Smaller</string>
+  <string name="font_size_summary">"Change the text size for the Home screen, notification shade, dialer, and system menus.
+
+"</string>
+  <string name="font_size_summary1">"If your system's text is still too small, try "</string>
+  <string name="font_size_summary2">Lite mode.</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
   <string name="force_msaa">Force 4x MSAA</string>
@@ -1115,7 +1116,7 @@ If your system's text is still too small, try using "</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
   <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
-  <string name="input_method">Input method</string>
+  <string name="input_method">Keyboard</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -1818,8 +1819,8 @@ Select your operating system:"</string>
   <string name="radioInfo_phone_idle">Idle</string>
   <string name="radioInfo_phone_offhook">Call in progress</string>
   <string name="radioInfo_phone_ringing">Ringing</string>
-  <string name="radioInfo_roaming_in">Roaming</string>
-  <string name="radioInfo_roaming_not">Not roaming</string>
+  <string name="radioInfo_roaming_in">Active</string>
+  <string name="radioInfo_roaming_not">Inactive</string>
   <string name="radioInfo_service_emergency">Emergency calls only</string>
   <string name="radioInfo_service_in">In service</string>
   <string name="radioInfo_service_off">Radio off</string>
@@ -2330,12 +2331,12 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
-  <string name="title_font_current">Choose system font</string>
-  <string name="title_font_current2">Choose system font</string>
+  <string name="title_font_current">System font</string>
+  <string name="title_font_current2">System font</string>
   <string name="title_font_size">Text size</string>
   <string name="title_hdmi_color_calibration">Color Correction preset</string>
-  <string name="title_layout_current">Choose font size</string>
-  <string name="title_layout_current2">Choose font size</string>
+  <string name="title_layout_current">Text size</string>
+  <string name="title_layout_current2">Text size</string>
   <string name="title_local_resource">Local resources</string>
   <string name="title_system_resource">System resources</string>
   <string name="toast_lockscreen_glogin_empty_password">Enter password</string>
