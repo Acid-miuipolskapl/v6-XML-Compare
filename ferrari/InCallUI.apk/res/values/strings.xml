@@ -144,8 +144,8 @@
   <string name="contacts_icon_label">Contacts</string>
   <string name="custom_message_cancel">Cancel</string>
   <string name="custom_message_send">Send</string>
-  <string name="data_enable_summary">Enable data access over Mobile network</string>
-  <string name="data_enabled">Data enabled</string>
+  <string name="data_enable_summary">Access data over Mobile network</string>
+  <string name="data_enabled">Mobile data</string>
   <string name="default_notification_description">Default sound (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
