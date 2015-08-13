@@ -67,15 +67,15 @@ Last backed up on %2$s"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_disabled_notice">You can turn this feature on and off anytime in Mi Cloud &gt; Settings.</string>
+  <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
-  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on and off anytime in Settings.
+  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.
 "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">. You can turn this feature on and off anytime in Settings.</string>
+  <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
@@ -116,6 +116,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">Downloading %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_pending">Waiting</string>
@@ -123,6 +124,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_preference_wlan">Sync on WLAN</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
   <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
@@ -233,18 +235,18 @@ Tap the Settings button to view more options"</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
-You can turn this feature on and off anytime in Settings."</string>
+You can turn this feature on or off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS messages used to activate this feature.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+  <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
   <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
-  <string name="mx_voip_dspt">Mi Communication</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
@@ -254,9 +256,10 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
-  <string name="pref_title_sync_my_profile_title">Sync profile</string>
+  <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="remind_later">Not now</string>
   <string name="restoreSync">Sync now</string>
@@ -295,7 +298,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
 Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". You can turn this feature on and off anytime in Settings.
+  <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings.
 "</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>

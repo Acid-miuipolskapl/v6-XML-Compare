@@ -50,19 +50,10 @@
   <string name="face_beauty_age_alias_male_45_60">Male 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Male 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Male 8-17</string>
-  <string name="face_beauty_enlarge_eye_high">-9</string>
-  <string name="face_beauty_enlarge_eye_low">-12</string>
-  <string name="face_beauty_enlarge_eye_medium">-12</string>
   <string name="face_beauty_intelligent_level_0">Off</string>
   <string name="face_beauty_intelligent_level_1">Low</string>
   <string name="face_beauty_intelligent_level_2">Mid</string>
   <string name="face_beauty_intelligent_level_3">High</string>
-  <string name="face_beauty_skin_color_high">-4</string>
-  <string name="face_beauty_skin_color_low">-10</string>
-  <string name="face_beauty_skin_color_medium">-8</string>
-  <string name="face_beauty_slim_face_high">0</string>
-  <string name="face_beauty_slim_face_low">-7</string>
-  <string name="face_beauty_slim_face_medium">-2</string>
   <string name="find_other_qrcode">QR code found</string>
   <string name="hide_priority_in_system_settings">0</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -142,6 +133,7 @@
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
+  <string name="pref_camera_delay_capture_entry_off">Off</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_denoise_default">denoise-on</string>
   <string name="pref_camera_exposuretime_default">0</string>
@@ -363,6 +355,7 @@
   <string name="pref_face_beauty_low">-11</string>
   <string name="pref_face_beauty_medium">-8</string>
   <string name="pref_face_beauty_title">Beautify</string>
+  <string name="pref_front_camera_delay_capture_default">-1</string>
   <string name="pref_front_mirror_default">auto</string>
   <string name="pref_front_mirror_entry_auto">When face is detected</string>
   <string name="pref_front_mirror_entry_off">Off</string>
@@ -371,7 +364,6 @@
   <string name="pref_front_mirror_entryvalue_off">off</string>
   <string name="pref_front_mirror_entryvalue_on">on</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
-  <string name="pref_hm_front_video_quality_default">110</string>
   <string name="pref_manual_exposure_title">Exposure time</string>
   <string name="pref_mi_front_video_quality_default">6</string>
   <string name="pref_mtk_video_quality_default">10</string>

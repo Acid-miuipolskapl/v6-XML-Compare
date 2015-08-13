@@ -16,6 +16,8 @@
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_unknown_title">&lt;Untitled&gt;</string>
+  <string name="enter_garbage_clean">Clean up internal storage.</string>
+  <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
