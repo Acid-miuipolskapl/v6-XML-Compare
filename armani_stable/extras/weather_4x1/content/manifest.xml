@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gadget version="1" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
+    <VariableBinders>
+         <ContentProviderBinder
+            uri="content://weather/weather"
+            columns="city_name,weather_type,temperature"
+            countName="hasweather">
+             <Variable name="weather_location" type="string" column="city_name"/>
+             <Variable name="weather_id" type="int" column="weather_type"/>
+             <Variable name="weather_temperature" type="int" column="temperature"/>
+         </ContentProviderBinder>
+    </VariableBinders>
+    <Var name="weather_description" expression="eval('@weather_type_'+#weather_id)" type="string"/>
+
+    <Var name="color" type="string" expression="ifelse(#applied_light_wallpaper,'#8a000000','#ffffffff')"/>
+    <Var name="light_color" type="string" expression="ifelse(#applied_light_wallpaper,'#50000000','#80ffffff')"/>
+    <Group y="#view_height-12">
+        <ImageNumber name="temp" number="#weather_temperature" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/temp.png'" x="58" alignV="bottom"/>
+        <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/temp_degree.png'" x="58+#temp.bmp_width" alignV="bottom"/>
+        <Group x="58+#temp.bmp_width+75" y="-#temp.bmp_height">
+            <Text name="text_description" text="@weather_description" size="38" color="@color"/>
+            <Text name="text_location" text="@weather_location" y="45" size="38" color="@light_color"/>
+        </Group>
+        <Image name="img_weather" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width-28" y="12" align="right" alignV="bottom" touchable="true">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand action="com.miui.weather.widget_weather_detail"/>
+                </Trigger>
+            </Triggers>
+        </Image>
+
+        <Button x="58" w="#temp.bmp_width+75+max(#text_description.text_width,#text_location.text_width)" h="#temp.bmp_height" alignV="bottom">
+            <Triggers>
+                <Trigger action="up">
+                    <IntentCommand action="com.miui.weather.widget_weather_detail"/>
+                </Trigger>
+            </Triggers>
+        </Button>
+    </Group>
+</Gadget>
+
