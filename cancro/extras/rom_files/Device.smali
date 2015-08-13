@@ -30,6 +30,8 @@
 
 .field public static final IS_HM3Y:Z
 
+.field public static final IS_HM3Z:Z
+
 .field public static final IS_HONGMI:Z
 
 .field public static final IS_MI1:Z
@@ -196,6 +198,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    const-string v0, "hennessy"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
     const-string v0, "dior"
 
     sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
@@ -269,6 +281,10 @@
     if-nez v0, :cond_2
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_2
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_9
 
@@ -462,7 +478,22 @@
     .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
     return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isEffectWatermarkFilted()Z
@@ -471,7 +502,30 @@
     .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
     return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isFaceDetectNeedRotation()Z
@@ -639,6 +693,10 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-nez v0, :cond_0
+
     const/4 v0, 0x1
 
     :goto_0
@@ -733,6 +791,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -911,6 +973,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -999,10 +1065,6 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
-
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1074,6 +1136,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -1195,6 +1261,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1249,6 +1319,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -1313,6 +1391,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -1404,10 +1486,6 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
     if-eqz v0, :cond_1
 
@@ -1588,6 +1666,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1655,6 +1737,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -1768,6 +1854,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1863,6 +1953,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
     if-eqz v0, :cond_1
 
@@ -1988,10 +2082,6 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
     if-eqz v0, :cond_1
 

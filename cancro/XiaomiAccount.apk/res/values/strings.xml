@@ -164,7 +164,7 @@ Please input the verification code in the email"</string>
   <string name="passport_active_email_visit">Check your inbox at %s</string>
   <string name="passport_activing_account">Activating…</string>
   <string name="passport_app_name">Mi Account</string>
-  <string name="passport_area_code_hot">Frequently used</string>
+  <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_btn_return">Back</string>
@@ -222,7 +222,7 @@ To activate your account, follow the
   <string name="passport_input_verify_code_hint">Enter verification code</string>
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="passport_loading">Loading…</string>
-  <string name="passport_login">Sign in</string>
+  <string name="passport_login">Sign in to an existing account</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
   <string name="passport_login_instead_reg_with_email">Use this Email</string>
@@ -236,7 +236,7 @@ To activate your account, follow the
   <string name="passport_phone_num_hint_text">Phone number</string>
   <string name="passport_prev">Back</string>
   <string name="passport_privacy_policy">Privacy Policy</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Skip&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
   <string name="passport_quick_login_dialog_title">Verify password</string>
   <string name="passport_quick_login_step2_title">2-step verification</string>
@@ -244,7 +244,7 @@ To activate your account, follow the
   <string name="passport_re_get_verify_code">Get code again</string>
   <string name="passport_re_register">Sign up again</string>
   <string name="passport_reg_failed">"Can't set up account"</string>
-  <string name="passport_reg_new">Create Mi Account</string>
+  <string name="passport_reg_new">Create a Mi Account for free</string>
   <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>

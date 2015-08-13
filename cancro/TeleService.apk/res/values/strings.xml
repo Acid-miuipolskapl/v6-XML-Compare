@@ -371,6 +371,8 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_sim_deactive">SIM card inactive</string>
   <string name="incall_error_turn_off_airplane_mode">Turn off Airplane mode</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
+  <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
+  <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
   <string name="international_disable">International news is off</string>
   <string name="international_enable">International news is on</string>
   <string name="international_roaming_setting">International roaming</string>
@@ -588,6 +590,7 @@ You may need to find an area with better coverage (near a window, or outside).
 Try again or call customer service for more options."</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_category">Other</string>
+  <string name="overseas_roaming_setting">Overseas roaming</string>
   <string name="password">Password</string>
   <string name="password_changed">Password changed</string>
   <string name="password_title">Password</string>
