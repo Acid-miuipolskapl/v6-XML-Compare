@@ -346,6 +346,20 @@
         <item>4320</item>
         <item>10080</item>
     </integer-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>5 hours</item>
+        <item>6 hours</item>
+        <item>1 day</item>
+    </string-array>
+    <integer-array name="travel_reminder_minutes_values">
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>1440</item>
+    </integer-array>
     <string-array name="repeat_frequency_spinner">
         <item>day</item>
         <item>week</item>

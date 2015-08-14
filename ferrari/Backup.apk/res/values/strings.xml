@@ -77,6 +77,7 @@
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Delete</string>
   <string name="delete_backup_process">Deleting…</string>
+  <string name="delete_backup_title">Delete backup</string>
   <string name="delete_failed_backup_confirm">This backup contains errors.</string>
   <string name="deselect_all">Deselect all</string>
   <string name="digit_percent">%</string>
@@ -121,7 +122,6 @@
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
-  <string name="menu_patch_delete">Delete backups</string>
   <string name="miliao_account_guide">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="miliao_account_login">Sign in with Mi Talk</string>
   <string name="mms_title">Multimedia messaging</string>
