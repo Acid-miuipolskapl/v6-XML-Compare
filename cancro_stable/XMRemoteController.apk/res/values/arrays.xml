@@ -89,13 +89,13 @@
         <item>Z</item>
     </string-array>
     <string-array name="epg_week_tab">
-        <item>周日</item>
-        <item>周一</item>
-        <item>周二</item>
-        <item>周三</item>
-        <item>周四</item>
-        <item>周五</item>
-        <item>周六</item>
+        <item>Sun.</item>
+        <item>Mon.</item>
+        <item>Tue.</item>
+        <item>Wed.</item>
+        <item>Thur.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
     </string-array>
     <string-array name="ac_mode_array">
         <item>Cooling</item>
@@ -104,13 +104,13 @@
         <item>Fan</item>
     </string-array>
     <string-array name="question">
-        <item>我的手机一直在搜索无线设备怎么办？</item>
-        <item>空调为什么只能开不能关？</item>
-        <item>小米3，红米，小米2支持红外控制电视空调等设备么？</item>
+        <item>"Phone can't detect devices on Wi-Fi network?"</item>
+        <item>"Can't change modes or temp on A/C?"</item>
+        <item>Do Mi 3, Mi 2, and Redmi support infrared control for TV, A/C, and other devices?</item>
     </string-array>
     <string-array name="answer">
-        <item>您的手机不支持红外发射，支持通过wifi控制小米盒子，小米电视及部分android标准智能盒子/电视。</item>
-        <item>您匹配的这套数据不是这个空调的数据。匹配按键第二个就是关空调，请注意手机上的提示，当匹配关空调时空调真正关闭时再选择有响应，请重新匹配。</item>
-        <item>不支持！目前小米系列只有小米4手机支持红外发射。</item>
+        <item>"You're device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi."</item>
+        <item>"Make sure you've selected A/C in the pairing process. Follow the prompts on your device until the pairing process is complete."</item>
+        <item>Unfortunately, only Mi 4 supports infrared control at the moment.</item>
     </string-array>
 </resources>
