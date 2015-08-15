@@ -84,16 +84,6 @@
         <item>5</item>
         <item>6</item>
     </string-array>
-    <string-array name="account_settings_types">
-        <item>@string/account_type_exchange</item>
-        <item>@string/account_type_pop3</item>
-        <item>@string/account_type_imap</item>
-    </string-array>
-    <string-array name="account_settings_types_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="alphabet_chars">
         <item>☆</item>
         <item>A</item>
@@ -184,13 +174,6 @@
         <item>@string/general_preference_text_zoom_large</item>
         <item>@string/general_preference_text_zoom_huge</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_size">
-        <item>0.8</item>
-        <item>0.9</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.5</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Tiny</item>
         <item>Small</item>
@@ -205,16 +188,6 @@
         <item>large</item>
         <item>huge</item>
     </string-array>
-    <array name="letter_tile_colors">
-        <item>#fff16364</item>
-        <item>#fff58559</item>
-        <item>#fff9a43e</item>
-        <item>#ffe4c62e</item>
-        <item>#ff67bf74</item>
-        <item>#ff59a2be</item>
-        <item>#ff2093cd</item>
-        <item>#ffad62a7</item>
-    </array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recently viewed</item>
         <item>Format</item>
@@ -232,30 +205,10 @@
         <item>Older message</item>
         <item>Inbox</item>
     </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Show newer conversation after you delete</item>
-        <item>Show older conversation after you delete</item>
-        <item>Show inbox after you delete</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Show archive only</item>
-        <item>Show delete only</item>
-        <item>Show archive &amp; delete</item>
-    </string-array>
     <string-array name="prefValues_autoAdvance">
         <item>newer</item>
         <item>older</item>
         <item>list</item>
-    </string-array>
-    <string-array name="prefValues_removal_action">
-        <item>archive</item>
-        <item>delete</item>
-        <item>archive-and-delete</item>
     </string-array>
     <string-array name="quote_devider_text_array">
         <item>@string/quote_divider_apple</item>
@@ -362,12 +315,5 @@
         <item>@string/special_text_3</item>
         <item>@string/special_text_4</item>
         <item>@string/special_text_5</item>
-    </string-array>
-    <string-array name="wait_for_sync_body_txt_array">
-        <item>@string/wait_for_sync_body_txt_array_1</item>
-        <item>@string/wait_for_sync_body_txt_array_2</item>
-        <item>@string/wait_for_sync_body_txt_array_3</item>
-        <item>@string/wait_for_sync_body_txt_array_4</item>
-        <item>@string/wait_for_sync_body_txt_array_5</item>
     </string-array>
 </resources>

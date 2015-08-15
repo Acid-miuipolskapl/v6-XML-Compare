@@ -16,4 +16,8 @@
         <item quantity="other">%1$s folders</item>
         <item quantity="one">%1$s folder</item>
     </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s haven't been synced"</item>
+        <item quantity="one">"%1$s hasn't been synced"</item>
+    </plurals>
 </resources>

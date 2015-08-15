@@ -20,7 +20,7 @@
 		</ContentProviderBinder>
 	</VariableBinders>
 	<Image x="#view_width/2" y="#view_height/2" align="center" alignV="center" src="notes_bg.png"/>
-	<Text x="#view_width/2-195" y="#view_height/2-289" color="#000000" alpha="204" size="34" text="@title_name" />
+	<Text enableFontScale="true" x="#view_width/2-195" y="#view_height/2-289" color="#000000" alpha="204" size="34" text="@title_name" />
 	<Button y="132" w="#view_width" h="#view_height-130" visibility="not(#note_count)">
         <Triggers>
             <Trigger action="up">
@@ -44,7 +44,7 @@
 				<Image x="#view_width/2-228" y="#view_height/2-214" w="456" src="list_pressed.png" />
 			</Pressed>
 		</Button>
-		<Text x="#view_width/2-194" y="#view_height/2-179" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_0)" spacingMult="10" multiLine="true" />
+		<Text enableFontScale="true" x="#view_width/2-194" y="#view_height/2-179" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_0)" spacingMult="10" multiLine="true" />
 		<DateTime x="#view_width/2+194" y="#view_height/2-179" align="right" color="#000000" alpha="102" size="26" value="#note_date_0" format="MM/dd" />
 	</Group>
 	<Group visibility="ge(#note_count,2)">
@@ -63,7 +63,7 @@
 				<Image x="#view_width/2-228" y="#view_height/2-113" w="456" src="list_pressed.png" />
 			</Pressed>
 		</Button>
-		<Text x="#view_width/2-194" y="#view_height/2-79" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_1)" spacingMult="10" multiLine="true" />
+		<Text enableFontScale="true" x="#view_width/2-194" y="#view_height/2-79" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_1)" spacingMult="10" multiLine="true" />
 		<DateTime x="#view_width/2+194" y="#view_height/2-79" align="right" color="#000000" alpha="102" size="26" value="#note_date_1" format="MM/dd" />
 	</Group>
 	<Group visibility="ge(#note_count,3)">
@@ -82,7 +82,7 @@
 				<Image x="#view_width/2-228" y="#view_height/2-12" w="456" src="list_pressed.png" />
 			</Pressed>
 		</Button>
-		<Text x="#view_width/2-194" y="#view_height/2+21" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_2)" spacingMult="10" multiLine="true" />
+		<Text enableFontScale="true" x="#view_width/2-194" y="#view_height/2+21" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_2)" spacingMult="10" multiLine="true" />
 		<DateTime x="#view_width/2+194" y="#view_height/2+21" align="right" color="#000000" alpha="102" size="26" value="#note_date_2" format="MM/dd"  />
 	</Group>
 	<Group  visibility="ge(#note_count,4)">
@@ -101,7 +101,7 @@
 				<Image x="#view_width/2-228" y="#view_height/2+91" w="456" src="list_pressed.png" />
 			</Pressed>
 		</Button>
-		<Text x="#view_width/2-194" y="#view_height/2+121" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_3)" spacingMult="10" multiLine="true" />
+		<Text enableFontScale="true" x="#view_width/2-194" y="#view_height/2+121" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_3)" spacingMult="10" multiLine="true" />
 		<DateTime x="#view_width/2+194" y="#view_height/2+121" align="right" color="#000000" alpha="102" size="26" value="#note_date_3" format="MM/dd" />
 	</Group>
 	<Group  visibility="ge(#note_count,5)">
@@ -120,7 +120,7 @@
 				<Image x="#view_width/2-228" y="#view_height/2+190" w="456" src="list_pressed.png" />
 			</Pressed>
 		</Button>
-		<Text x="#view_width/2-194" y="#view_height/2+221" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_4)" spacingMult="10" multiLine="true" />
+		<Text enableFontScale="true" x="#view_width/2-194" y="#view_height/2+221" w="313" h="45" color="#000000" alpha="178" size="26" textExp="strTrim(@note_snippet_4)" spacingMult="10" multiLine="true" />
 		<DateTime x="#view_width/2+194" y="#view_height/2+221" align="right" color="#000000" alpha="102" size="26" value="#note_date_4" format="MM/dd"  />
 	</Group>
 	<Button x="#view_width/2+130" y="#view_height/2-313" w="90" h="90">

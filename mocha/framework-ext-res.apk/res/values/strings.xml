@@ -59,6 +59,8 @@
   <string name="caller_info_name_delimiter">" or "</string>
   <string name="copy">Copy</string>
   <string name="cut">Cut</string>
+  <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
+  <string name="fc_dialog_jump_to_preview">View the summary</string>
   <string name="first_back_long_press_message">"Press &amp; hold the Back button to kill the current process and its background services.
 
 To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
@@ -69,6 +71,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="global_actions_reboot">Reboot</string>
   <string name="global_actions_shutdown">Power off</string>
   <string name="global_actions_silent_mode">Silent mode</string>
+  <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
+  <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
   <string name="handy_mode_summary">To close, tap the darkened area</string>
   <string name="handy_mode_title">One-handed mode</string>
   <string name="key_btn_ok">OK</string>
@@ -109,18 +113,12 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
   <string name="status_bar_toggle_ac">Screenlock</string>
   <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
-  <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
   <string name="status_bar_toggle_auto_brightness">Brightness</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-  <string name="status_bar_toggle_brightness">Brightness</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_data">Mobile data</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
-  <string name="status_bar_toggle_divider">More</string>
-  <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
-  <string name="status_bar_toggle_drive_mode">Car</string>
-  <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>
@@ -128,8 +126,6 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_lock">Lock</string>
   <string name="status_bar_toggle_mute">Silent</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_network_type">Network</string>
-  <string name="status_bar_toggle_network_type_action">com.android.phone/.PreferredNetworkTypeListPreference</string>
   <string name="status_bar_toggle_paper_mode">Read mode</string>
   <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Performance</string>
@@ -138,17 +134,12 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
-  <string name="status_bar_toggle_reboot">Reboot</string>
   <string name="status_bar_toggle_rotate">Rotate off</string>
   <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
   <string name="status_bar_toggle_screen_button">Disable</string>
   <string name="status_bar_toggle_screenshot">Screenshot</string>
-  <string name="status_bar_toggle_shutdown">Power</string>
   <string name="status_bar_toggle_sync">Sync</string>
   <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_sync_auto">Sync</string>
-  <string name="status_bar_toggle_sync_manual">Sync</string>
-  <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_torch">Torch</string>
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
