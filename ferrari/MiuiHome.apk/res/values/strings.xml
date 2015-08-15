@@ -39,7 +39,8 @@
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
-  <string name="choose_theme">Theme</string>
+  <string name="children_folder_title">Kids</string>
+  <string name="children_mode_exit">Exit</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -53,7 +54,6 @@
   <string name="default_folder_title_security">System</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
-  <string name="default_theme_name">Default</string>
   <string name="delete">Delete</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
@@ -240,10 +240,10 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="unnamed_folder_name">Unnamed folder</string>
   <string name="wallpaper">Wallpaper</string>
+  <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>
-  <string name="wallpaper_settings_for_pad">Wallpaper</string>
   <string name="wallpaper_success_message">Wallpaper applied</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favorite contacts</string>
