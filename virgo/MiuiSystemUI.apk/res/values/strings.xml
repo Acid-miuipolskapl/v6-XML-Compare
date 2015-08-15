@@ -55,6 +55,9 @@
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_title">Connect charger</string>
   <string name="battery_profiles">Use battery profiles</string>
+  <string name="block_record_notification_more_text">%1$s %2$d apps. Touch to view</string>
+  <string name="block_record_notification_text">%1$s. Touch to view</string>
+  <string name="block_record_notification_title">Block record</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
   <string name="call_status_dialing">Dialing</string>
   <string name="call_status_ringing">Ringing</string>
@@ -81,7 +84,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="description_direction_left">Swipe left for %s.</string>
   <string name="description_direction_up">Swipe up for %s.</string>
   <string name="description_target_search">Search</string>
-  <string name="disable_notification_summary">Never show notifications from this app.</string>
+  <string name="disable_notification_summary">"Hide apps' notifications"</string>
   <string name="disable_notification_title">Block notifications</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
@@ -89,6 +92,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">"You're in car mode"</string>
+  <string name="expanded_confirm_disable_notification">Confirm</string>
   <string name="expanded_notification_manager">Manage notifications</string>
   <string name="ext_media_badremoval_notification_message">Unmount USB storage before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">USB storage removed unexpectedly</string>
@@ -114,6 +118,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
   <string name="lockscreen_carrier_default">No service</string>
   <string name="mdb_entering">Starting…</string>
@@ -126,7 +131,9 @@ Use only the supplied charger."</string>
   <string name="media_projection_action_text">Start now</string>
   <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
   <string name="media_projection_remember_text">"Don't show again"</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Yes</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
   <string name="notification_otg_gamestick_out">Game controller disconnected</string>

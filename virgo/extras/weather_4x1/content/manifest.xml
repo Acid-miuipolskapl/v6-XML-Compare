@@ -18,8 +18,8 @@
         <ImageNumber name="temp" number="#weather_temperature" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/temp.png'" x="58" alignV="bottom"/>
         <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/temp_degree.png'" x="58+#temp.bmp_width" alignV="bottom"/>
         <Group x="58+#temp.bmp_width+75" y="-#temp.bmp_height">
-            <Text name="text_description" text="@weather_description" size="38" color="@color"/>
-            <Text name="text_location" text="@weather_location" y="45" size="38" color="@light_color"/>
+            <Text enableFontScale="true" name="text_description" text="@weather_description" size="38" color="@color"/>
+            <Text enableFontScale="true" name="text_location" text="@weather_location" y="#text_description.text_height+7" size="38" color="@light_color"/>
         </Group>
         <Image name="img_weather" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width-28" y="12" align="right" alignV="bottom" touchable="true">
             <Triggers>

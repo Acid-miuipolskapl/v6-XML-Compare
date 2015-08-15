@@ -252,6 +252,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_modem">MODEM test tools</string>
   <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
+  <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Open/Close Offline Log</string>
   <string name="cit_tool_nfc">NFC test tools</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>

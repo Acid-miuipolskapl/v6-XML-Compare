@@ -47,8 +47,8 @@
         <item>"Data saved "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Get message template automatically</item>
-        <item>Set message template manually</item>
+        <item>Get automatically</item>
+        <item>Set manually</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Show warning</item>
