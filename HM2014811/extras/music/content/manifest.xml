@@ -13,8 +13,8 @@
                 <Image x="0" y="0" w="963" h="513" src="album_mask.9.png" xfermode="dst_in"/>
             </Group>
             <Image x="0" y="0" w="963" h="513" src="album_overlay.9.png"/>
-            <Text x="722" y="84" w="400" size="44" bold="true" color="#ffffffff" align="center" format="%s" paras="@music_control.title"/>
-            <Text x="722" y="140" w="400" size="30" color="#99ffffff" align="center" format="%s" paras="@music_control.artist"/>
+            <Text name="music_title" x="722" y="84" w="400" size="44" bold="true" color="#ffffffff" align="center" format="%s" paras="@music_control.title"/>
+            <Text x="722" y="96+#music_title.text_height" w="400" size="30" color="#99ffffff" align="center" format="%s" paras="@music_control.artist"/>
             <Button name="music_prev" x="539" y="337" w="100" h="100">
                 <Normal>
                     <Circle x="591" y="385" r="38" strokeColor="#80ffffff" fillColor="#00000000" weight="1" strokeAlign="inner"/>
