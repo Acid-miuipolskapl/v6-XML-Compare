@@ -374,8 +374,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="bluetooth_ask_discovery">An app wants to make your phone visible to other Bluetooth devices for %1$d seconds.</string>
   <string name="bluetooth_ask_enablement">An app wants to turn on Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">wants to turn on Bluetooth and make your phone visible to other devices for %1$d seconds.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s wants to turn on Bluetooth and Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
+  <string name="bluetooth_ask_enablement_detected">wants to turn on Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s wants to turn on Bluetooth broadcasting to communicate with other devices nearby. You can change this later in Bluetooth settings.</string>
   <string name="bluetooth_auto_connect">Auto-connect</string>
@@ -607,6 +610,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="camera_key_action_title">Mi Button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_action">Cancel</string>
   <string name="cancel_alert">Discard your changes?</string>
   <string name="cancel_all_caps">CANCEL</string>
   <string name="cancel_download_buton_text">Cancel</string>
@@ -646,6 +650,11 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="checking_for_updates">Checking for updates…</string>
+  <string name="children_mode_enable_title">Parental controls</string>
+  <string name="children_mode_set_apps_title">Accessible apps</string>
+  <string name="children_mode_tips_off">After turning parental controls on, tap the Home button to return to Home screen</string>
+  <string name="children_mode_tips_on">After turning parental controls off, tap the Home button to return to Home screen</string>
+  <string name="children_mode_title">Parental controls</string>
   <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="cleaner">Cleaner</string>
@@ -687,6 +696,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Set up input methods</string>
+  <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
@@ -895,6 +905,8 @@ This setting affects all users on this phone."</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
   <string name="deny">Deny</string>
+  <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
+  <string name="deny_sms_title">Lock SMS</string>
   <string name="details_subtitle">Use details</string>
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
@@ -927,7 +939,7 @@ This setting affects all users on this phone."</string>
   <string name="device_name">Device name</string>
   <string name="device_name_input_error">"Couldn't save device name"</string>
   <string name="device_name_input_hint">Enter name</string>
-  <string name="device_name_usage_point">Other devices nearby can see this name.</string>
+  <string name="device_name_usage_point">Other nearby devices can see this name.</string>
   <string name="device_picker">Choose Bluetooth device</string>
   <string name="device_reset_title">Reset device</string>
   <string name="device_sd_memory">SD card</string>
@@ -979,7 +991,7 @@ This setting affects all users on this phone."</string>
   <string name="dndm_auto_button_title">Repeat do not disturb time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
   <string name="dndm_auto_time_setting">Set time</string>
-  <string name="dndm_auto_time_setting_summary">From %1$s to %2$s</string>
+  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">To</string>
   <string name="dndm_auto_time_turn_off_title">Automatically turn off do not disturb</string>
   <string name="dndm_auto_time_turn_on">From</string>
@@ -994,19 +1006,20 @@ This setting affects all users on this phone."</string>
   <string name="dndm_repeated_call_summary_3min">Ring when receiving a second call from the same number within 3 minutes</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
-  <string name="dndm_summary">Calls and notifications that arrive while your phone is locked will be silenced</string>
-  <string name="dndm_twelve_hour_time_format">h:mm a</string>
+  <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Allow calls from exceptions</string>
+  <string name="dndm_vip_call_setting_detal">Always accept calls from exceptions</string>
   <string name="dndm_vip_call_setting_title">Exceptions settings</string>
-  <string name="dndm_vip_call_summary_contact">All contacts</string>
-  <string name="dndm_vip_call_summary_custom">%d exceptions</string>
+  <string name="dndm_vip_call_summary_contact">All</string>
   <string name="dndm_vip_call_summary_none">Touch to configure</string>
   <string name="dndm_vip_list_contact">All Contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Exceptions list</string>
-  <string name="dndm_vip_user_setting_title">Exceptions</string>
+  <string name="dndm_wristband">Smart bracelet</string>
+  <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
+  <string name="dndm_wristband_detailed2">"Turn off Do Not Disturb if Mi Band detects you've woken up within an hour before scheduled end time"</string>
   <string name="do_not_disturb_mode">Do not disturb</string>
   <string name="dock_audio_media_disabled">All audio</string>
   <string name="dock_audio_media_enabled">Media audio only</string>
@@ -1123,6 +1136,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_mnc_not23">MNC field must be 2 or 3 digits.</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
+  <string name="every_day">Every day</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
@@ -1162,6 +1176,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
   <string name="fluency_mode">Optimize system performance</string>
   <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
+  <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Larger</string>
   <string name="font_size_medium">Large</string>
@@ -1239,7 +1254,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="google_wallet">Google Wallet</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
   <string name="handy_mode">One-handed mode</string>
-  <string name="handy_mode_enable">One-handed mode</string>
+  <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
   <string name="handy_mode_tips">Swipe left or right from the Home button to pull the screen closer to one side.</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
@@ -1402,15 +1417,21 @@ Some apps may not work until updated by their developers."</string>
   <string name="launching_cit">Launching CIT</string>
   <string name="launching_pho">Launching phone info, please wait.</string>
   <string name="launching_rep">Reporting…</string>
-  <string name="layout_size_large">Large</string>
-  <string name="layout_size_medium">Medium</string>
-  <string name="layout_size_normal">Normal</string>
+  <string name="layout_size_exhuge">Large</string>
+  <string name="layout_size_huge"/>
+  <string name="layout_size_large"/>
+  <string name="layout_size_medium"/>
+  <string name="layout_size_normal">Small</string>
   <string name="layout_size_small">Small</string>
   <string name="led_colors_summary">Notifications</string>
   <string name="led_frequence_summary">Set the interval between LED flashes</string>
   <string name="led_pulse_summary">Pulse notification light when new notification is received</string>
   <string name="led_settings">Notification light</string>
   <string name="legal_information">Legal information</string>
+  <string name="legal_workday">Legal workdays</string>
+  <string name="legal_workday_invalidate">Mon-Fri (holiday info expired)</string>
+  <string name="legal_workday_invalidate_message">Tap to update public holiday info.</string>
+  <string name="legal_workday_message">(Skip holidays)</string>
   <string name="license_title">License</string>
   <string name="lift_to_wake_title">Lift to wake</string>
   <string name="line_breaking_summary">Optimize paragraph line breaking</string>
@@ -1694,14 +1715,14 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="miui_allow_music">Media</string>
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
-  <string name="miui_disturb_title">Choose mode</string>
+  <string name="miui_disturb_title">Do not disturb</string>
   <string name="miui_screensaver_show_time">Duration</string>
   <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
   <string name="miui_screensaver_state_off">Off</string>
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
   <string name="miui_screensaver_usage">Screensaver begins 5 seconds after display turns off</string>
-  <string name="miui_silent_title">Silence phone</string>
+  <string name="miui_silent_title">Silent mode</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
@@ -1805,6 +1826,7 @@ Select your operating system:"</string>
   <string name="network_state_label">Network state:</string>
   <string name="networkid_label">Network ID:</string>
   <string name="networks">Operator selection</string>
+  <string name="never">Never</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
@@ -1908,6 +1930,8 @@ Select your operating system:"</string>
   <string name="page_layout_3">Gallery</string>
   <string name="page_layout_30">Zoey Jhone</string>
   <string name="page_layout_31">Chartte Yvon</string>
+  <string name="page_layout_32">Play Store</string>
+  <string name="page_layout_33">Google</string>
   <string name="page_layout_4">Music</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Apps</string>
@@ -1977,7 +2001,7 @@ Select your operating system:"</string>
   <string name="power_usage_list_summary">Use since last full charge</string>
   <string name="power_usage_not_available">"Battery usage data isn't available."</string>
   <string name="power_usage_summary">What has been using the battery</string>
-  <string name="power_usage_summary_title">Battery</string>
+  <string name="power_usage_summary_title">Battery &amp; performance</string>
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Button light</string>
   <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
@@ -2175,6 +2199,7 @@ Select your operating system:"</string>
   <string name="remove_device_admin">Deactivate</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
+  <string name="repeat">Repeat</string>
   <string name="repeat_title">Repeat</string>
   <string name="reset_app_preferences">Reset app preferences</string>
   <string name="reset_app_preferences_button">Reset apps</string>
@@ -2281,7 +2306,7 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Don't show again"</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Agree and Continue</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Agree</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">To update the list of apps that can use Read mode, you need to connect to the internet.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Terms and Conditions</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Update list of applications using reading mode over the network</string>
@@ -2298,9 +2323,9 @@ To use screen pinning:
 
 4. Touch the pin icon."</string>
   <string name="screen_pinning_title">Screen pinning</string>
-  <string name="screen_resolution_confirm">Confirm and reboot</string>
-  <string name="screen_resolution_summary">Reduce the resolution will reduce the screen fine degree, to some extent improve the power and fluency, and vice versa. The changes need to reboot the system.</string>
-  <string name="screen_resolution_switch">Switch screen resolution</string>
+  <string name="screen_resolution_confirm">Reboot</string>
+  <string name="screen_resolution_summary">"Lowering the display's resolution may increase battery life and system speed, however images on screen may be less clear. Your device must reboot to apply this change."</string>
+  <string name="screen_resolution_switch">Switch resolution</string>
   <string name="screen_resolution_title">Screen resolution</string>
   <string name="screen_saturation">Saturation</string>
   <string name="screen_timeout">Sleep</string>
@@ -2415,6 +2440,9 @@ To use screen pinning:
   <string name="service_stop">Stop</string>
   <string name="service_stop_description">App has started running service. Stopping may cause errors.</string>
   <string name="services_subtitle">Services</string>
+  <string name="set_password_action">Set password</string>
+  <string name="set_password_message">Set a password to turn off parental controls as well as to unlock this device</string>
+  <string name="set_password_title">Set password</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -2609,6 +2637,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_notification_led">Notification light</string>
+  <string name="status_bar_settings_notification_priority">Priority</string>
+  <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
   <string name="status_bar_settings_show_carrier">Show service provider</string>
   <string name="status_bar_settings_show_carrier_summary">Only display on lock screen</string>
@@ -2727,6 +2757,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tether_settings_title_wifi">Portable hotspot</string>
   <string name="tethering_help_button_text">Help</string>
   <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
+  <string name="theme_settings_title">Themes</string>
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
@@ -3557,7 +3588,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>
-  <string name="zen_mode_alarm_use">Alarms user config</string>
+  <string name="zen_mode_alarm_use">Sounds</string>
   <string name="zen_mode_automation_category">Automation</string>
   <string name="zen_mode_default_option">Until you turn this off</string>
   <string name="zen_mode_downtime_category">Downtime (priority interruptions only)</string>
@@ -3574,11 +3605,11 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="zen_mode_from_starred">Starred contacts only</string>
   <string name="zen_mode_important_category">Priority interruptions</string>
   <string name="zen_mode_messages">Messages</string>
-  <string name="zen_mode_miui_disturb_category">Mode</string>
+  <string name="zen_mode_miui_disturb_category">Do not disturb</string>
   <string name="zen_mode_miui_silent_category">Allow</string>
   <string name="zen_mode_option_important_interruptions">Allow only priority interruptions</string>
-  <string name="zen_mode_option_miui_silent">Silence phone</string>
-  <string name="zen_mode_option_miui_vibrate">Allow only priority interruptions</string>
+  <string name="zen_mode_option_miui_silent">Silent mode</string>
+  <string name="zen_mode_option_miui_vibrate">Do not disturb</string>
   <string name="zen_mode_option_no_interruptions">"Don't interrupt"</string>
   <string name="zen_mode_option_off">Always interrupt</string>
   <string name="zen_mode_option_title">When calls and notifications arrive</string>

@@ -5,12 +5,12 @@
   <string name="alert_action_edit_anyway">Continue editing</string>
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Modify</string>
-  <string name="alert_message_delete_folders">Delete %1$s?</string>
-  <string name="alert_message_delete_folders_notes">Delete %1$s and %2$s?</string>
+  <string name="alert_message_delete">Delete %1$s?</string>
   <string name="alert_message_delete_note">Delete this note?</string>
-  <string name="alert_message_delete_notes">Delete %1$s?</string>
   <string name="alert_message_edit_anyway">If you edit this note some of its contents may be lost.</string>
+  <string name="alert_title_delete">Delete note</string>
   <string name="alert_title_edit_anyway">This note contains unsupported contents</string>
+  <string name="all_terms">%1$s and %2$s</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="attachment_camera">Camera</string>
@@ -48,6 +48,7 @@
   <string name="menu_stick">Pin</string>
   <string name="menu_title_select_folder">Select folder</string>
   <string name="menu_unstick">Unpin</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Not now</string>
   <string name="note_alert_expired">Expired</string>
   <string name="note_link_email">Send email</string>

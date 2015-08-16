@@ -27,6 +27,8 @@
   <string name="auto_silence_summary">Alarms will silence after %d minutes</string>
   <string name="auto_silence_title">Auto-silence</string>
   <string name="battery_charging_level">%d%%</string>
+  <string name="birthday_alarm">Birthday alarm</string>
+  <string name="birthday_alarm_summary">Play \"Happy Birthday\" instead of default alarm sound on your birthday</string>
   <string name="cancel">Cancel</string>
   <string name="close_alarm">Close alarm</string>
   <string name="common_settings">Settings</string>
