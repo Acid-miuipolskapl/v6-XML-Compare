@@ -1107,6 +1107,15 @@
     goto :goto_0
 .end method
 
+.method public static isSupportedEdgeTouch()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    return v0
+.end method
+
 .method public static isSupportedFastCapture()Z
     .locals 1
 

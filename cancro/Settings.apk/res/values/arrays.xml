@@ -1010,7 +1010,7 @@
         <item>5 seconds</item>
         <item>10 seconds</item>
         <item>20 seconds</item>
-        <item>Always</item>
+        <item>Always on</item>
     </string-array>
     <string-array name="button_light_timeout_value">
         <item>1000</item>
