@@ -86,6 +86,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
   <string name="advanced_settings">Advanced settings</string>
   <string name="advanced_settings_summary">Enable more settings options</string>
+  <string name="advanced_text_layout">Enable advanced text layout function</string>
   <string name="agps_roaming">A-GPS when roaming</string>
   <string name="agps_roaming_dia">"Using A-GPS while roaming may increase your mobile data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="agps_roaming_dia_title">Use A-GPS when roaming</string>
@@ -508,7 +509,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
   <string name="button_disconnect_network">Disconnect from network</string>
-  <string name="button_light_timeout">Button light settings</string>
+  <string name="button_light_timeout">Button light duration</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
@@ -975,6 +976,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
   <string name="every_day">Every day</string>
+  <string name="experience_optimization_category">Experience optimization</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
@@ -1711,9 +1713,9 @@ Select your operating system:"</string>
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery &amp; performance</string>
   <string name="power_wifi">WLAN</string>
-  <string name="pref_button_light">Button light</string>
-  <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
-  <string name="pref_operational_key">Operational key</string>
+  <string name="pref_button_light">Button lights</string>
+  <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
+  <string name="pref_operational_key">Navigation buttons</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
   <string name="preference_change_password_title">Change password</string>
@@ -2230,9 +2232,9 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_disable_notification">Empty</string>
+  <string name="status_bar_app_disable_notification">Hide notifications</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
-  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
+  <string name="status_bar_app_enable_on_notificationBar">Show in notification shade</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2241,10 +2243,10 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_screen_key_recent_apps">Recent apps button</string>
   <string name="status_bar_settings">Notifications</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
-  <string name="status_bar_settings_all_app_display_loading">Loading…</string>
+  <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
-  <string name="status_bar_settings_custom_carrier">Edit service provider name</string>
+  <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
   <string name="status_bar_settings_enable_notification">Allow notifications</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
@@ -2256,8 +2258,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_notification_priority">Priority</string>
   <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
-  <string name="status_bar_settings_show_carrier">Show service provider</string>
-  <string name="status_bar_settings_show_carrier_summary">Only display on lock screen</string>
+  <string name="status_bar_settings_show_carrier">Show carrier name</string>
+  <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
   <string name="status_bar_settings_show_keyguard_notification">Floating notifications and lock screen</string>

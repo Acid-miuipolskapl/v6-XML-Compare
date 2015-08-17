@@ -70,6 +70,7 @@
   <string name="record_list_cloud_fm">Synced FM recordings</string>
   <string name="record_list_fm">FM recordings</string>
   <string name="record_name_hour">.</string>
+  <string name="record_name_minute"/>
   <string name="record_picker_title">Choose a recording</string>
   <string name="recording">Recording</string>
   <string name="recording_stopped">Stopped</string>
