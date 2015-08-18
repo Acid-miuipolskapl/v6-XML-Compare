@@ -130,6 +130,7 @@ Check your tracking number."</string>
   <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
   <string name="express_inquiry_untrace">"Don't track"</string>
   <string name="express_inquiry_untrace_success">Stopped tracking</string>
+  <string name="express_location_failed">Location failed, please enter your address.</string>
   <string name="express_no_address">Empty</string>
   <string name="express_no_order">No order</string>
   <string name="express_no_order_info">No order info</string>
