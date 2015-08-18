@@ -883,7 +883,7 @@ This setting affects all users on this phone."</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Exceptions list</string>
-  <string name="dndm_wristband">Smart bracelet</string>
+  <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
   <string name="dndm_wristband_detailed2">"Turn off Do Not Disturb if Mi Band detects you've woken up within an hour before scheduled end time"</string>
   <string name="do_not_disturb_mode">Do not disturb</string>

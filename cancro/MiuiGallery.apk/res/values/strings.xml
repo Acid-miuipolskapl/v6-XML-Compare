@@ -621,7 +621,7 @@ with friends"</string>
   <string name="effect">Filters</string>
   <string name="email_picker_title">Add shared Email</string>
   <string name="enable">Turn on</string>
-  <string name="enable_cloud_for_sharing">You need enable cloud albums to view shared pictures.</string>
+  <string name="enable_cloud_for_sharing">You need turn on Cloud albums to view shared pictures.</string>
   <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
@@ -774,10 +774,10 @@ with friends"</string>
   <string name="item_not_sync_for_origin_video">"Can't download videos that haven't been synced with Mi Cloud."</string>
   <string name="item_not_sync_for_refocus_data">"Can't get focus data for photos that haven't been synced with Mi Cloud."</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
-  <string name="kick_owner_user_title">Remove this member?</string>
-  <string name="kick_sharer">Remove shared used</string>
-  <string name="kick_sharer_failed">"Couldn't remove user"</string>
-  <string name="kick_sharer_successfully">User removed</string>
+  <string name="kick_owner_user_title">Remove this person?</string>
+  <string name="kick_sharer">Remove shared viewer</string>
+  <string name="kick_sharer_failed">"Couldn't remove this person"</string>
+  <string name="kick_sharer_successfully">This person was removed</string>
   <string name="last_chinese_new_year">Last Chinese New Year</string>
   <string name="last_new_year">Last New Years</string>
   <string name="last_valentine_day">Last Valentine Day</string>
@@ -886,7 +886,7 @@ device"</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Additional settings</string>
-  <string name="owner_album_subtitle">Shared with %1$s users</string>
+  <string name="owner_album_subtitle">Shared with %1$s people</string>
   <string name="paint_brush">Paint brush</string>
   <string name="paint_cancel_context">"Abandon the changes you've made to this image?"</string>
   <string name="paint_cancel_title">Abandon changes</string>
@@ -1034,7 +1034,7 @@ device"</string>
   <string name="share_current_album">Share current album</string>
   <string name="share_public_url_text">"I've shared the album %1$s with you. View it at %2$s"</string>
   <string name="share_title_more">More</string>
-  <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of users."</string>
+  <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
   <string name="sharpen">Sharpen</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
   <string name="show_all">Images and videos</string>

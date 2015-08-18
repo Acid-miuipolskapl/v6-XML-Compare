@@ -478,8 +478,8 @@ Switch to the new provider anyway?"</string>
   <string name="msim_enable_sim">Turn on</string>
   <string name="msim_general_setting">Settings</string>
   <string name="msim_has_been_disabled">(Disabled)</string>
-  <string name="msim_info_editor_name">Edit SIM card name</string>
-  <string name="msim_info_editor_number">Edit SIM card number</string>
+  <string name="msim_info_editor_name">SIM card name</string>
+  <string name="msim_info_editor_number">SIM card number</string>
   <string name="msim_info_editor_set_name_error">"Couldn't save name"</string>
   <string name="msim_mode_progress_activating_message">Turning on</string>
   <string name="msim_mode_progress_deactivating_message">Turning off</string>

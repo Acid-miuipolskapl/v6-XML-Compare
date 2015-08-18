@@ -150,6 +150,7 @@
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Message size limit reached.</string>
+  <string name="exceed_message_text_limitation">Message text length limit reached.</string>
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
