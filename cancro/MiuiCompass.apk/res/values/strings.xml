@@ -2,6 +2,10 @@
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Altitude</string>
+  <string name="altitude_uncalibrate_cancel">Cancel</string>
+  <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
+  <string name="altitude_uncalibrate_refresh">Try again</string>
+  <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
   <string name="altitude_unit">M</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_altitude">Calibrating…</string>

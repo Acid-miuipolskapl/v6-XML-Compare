@@ -88,6 +88,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
 %3$s's %4$s shared %5$s's album with you"</string>
   <string name="baby_album_sharer_recommand_face">Add existing photos of %1$s?</string>
+  <string name="baby_album_sharers_page_title">Share with families</string>
   <string name="baby_birthday">Birthday</string>
   <string name="baby_lock_wallpaper">Lock screen wallpaper</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Choose an album</string>
@@ -542,9 +543,6 @@ with friends"</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete %s photos?</string>
-  <string name="confirm_delete_has_cloud_image_video">&lt;Data&gt;Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;</string>
-  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Delete &amp;lt;xliff:g id=ITEM&amp;gt;%s&amp;lt;/xliff:g&amp;gt; photos from this device and from Mi Cloud?&lt;/Data&gt;" "</string>
-  <string name="confirm_delete_has_local_image_video">Delete %s items?</string>
   <string name="confirm_delete_init_message">Photo will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the Offline tab.</string>
   <string name="confirm_delete_init_title">Delete photo</string>
   <string name="confirm_download">You need to download %s.</string>
@@ -1115,6 +1113,7 @@ device"</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="videos">" videos"</string>
+  <string name="view_baby_album">View baby album</string>
   <string name="view_face_album">View album</string>
   <string name="view_sharers">View sharers</string>
   <string name="vignette">Vignette</string>

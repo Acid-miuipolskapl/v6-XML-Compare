@@ -201,7 +201,7 @@
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
   <string name="cursorError">Cursor error</string>
   <string name="data_enable_summary">Enable data access over Mobile network</string>
-  <string name="data_enabled">Data enabled</string>
+  <string name="data_enabled">Mobile data</string>
   <string name="deactivate_all">Cancel all</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_port">5060</string>

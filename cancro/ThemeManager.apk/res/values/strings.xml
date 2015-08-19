@@ -38,8 +38,8 @@
   <string name="download_preview_failed">"Can't load preview"</string>
   <string name="download_success">Download finished</string>
   <string name="fail_to_add_account">"Can't add account"</string>
-  <string name="favorite_list">Favorites</string>
-  <string name="favorite_list_format">Favorite %1$s</string>
+  <string name="favorite_list">Starred</string>
+  <string name="favorite_list_format">Starred %1$s</string>
   <string name="gift_anonymous">Anonymous</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel</string>
@@ -78,10 +78,10 @@
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
   <string name="loading_resource_detail_info">Loading…</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
-  <string name="lockscreen_magazine_summary">Get new wallpapers delivered straight to your lock screen</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s selected</string>
+  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen everyday.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
   <string name="lockscreen_magazine_system_title">Default</string>
-  <string name="lockscreen_magazine_title">Curated lock screens</string>
+  <string name="lockscreen_magazine_title">Daily lock screens</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customize</string>
   <string name="long_ringtone_resource">Long</string>
@@ -369,7 +369,7 @@
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Crop</string>
   <string name="wallpaper_decoded_error">"Can't load wallpaper"</string>
-  <string name="wallpaper_loading_text">Loading…</string>
+  <string name="wallpaper_loading_text">Just a sec…</string>
   <string name="wallpaper_set_as_both">Set both</string>
   <string name="wallpaper_set_as_destop">Set as Home screen</string>
   <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>

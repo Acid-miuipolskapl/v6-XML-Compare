@@ -13,6 +13,7 @@
   <string name="button_delete">Delete</string>
   <string name="button_next">Next</string>
   <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
+  <string name="click_try_to_restore_again">click to try again</string>
   <string name="cloud_app_backup_success">Finished backing up apps</string>
   <string name="cloud_app_check_data">Talking to Mi Cloud…</string>
   <string name="cloud_app_current_device">Current device</string>
