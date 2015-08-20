@@ -10,14 +10,14 @@
   <string name="account_type_name">Mi Account</string>
   <string name="account_updating_device">Updating…</string>
   <string name="account_updating_device_failed">"Couldn't sign in"</string>
-  <string name="account_verify_password">"You're using this service on another device. For security reasons, you need to verify your Mi Account on this device."</string>
+  <string name="account_verify_password">"You're already using this service on another device. For security reasons, you need to verify your Mi Account on this device."</string>
   <string name="account_yellowpage_favorite">Favorites</string>
   <string name="account_yellowpage_followed">Verified Accounts</string>
   <string name="account_yellowpage_recent">View history</string>
   <string name="agree">Agree</string>
   <string name="all_services">All</string>
   <string name="allow">Allow</string>
-  <string name="app_label">Yellow Pages</string>
+  <string name="app_label">Yellow pages</string>
   <string name="app_recommendation_install">Install</string>
   <string name="average_price">Average %d RMB</string>
   <string name="back">Back</string>
@@ -130,7 +130,7 @@ Check your tracking number."</string>
   <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
   <string name="express_inquiry_untrace">"Don't track"</string>
   <string name="express_inquiry_untrace_success">Stopped tracking</string>
-  <string name="express_location_failed">Location failed, please enter your address.</string>
+  <string name="express_location_failed">"Couldn't locate you. Enter your address."</string>
   <string name="express_no_address">Empty</string>
   <string name="express_no_order">No order</string>
   <string name="express_no_order_info">No order info</string>
@@ -232,7 +232,7 @@ Check your tracking number."</string>
   <string name="menu_correct_yellow_page">Report an issue</string>
   <string name="menu_delete_call_log">Delete call history</string>
   <string name="menu_delete_one">Remove from call history</string>
-  <string name="menu_enroll_in_yellow_page">Sign up for Yellow Pages</string>
+  <string name="menu_enroll_in_yellow_page">Sign up for Yellow pages</string>
   <string name="menu_follow_yellow_page">Follow</string>
   <string name="menu_remove_black_list">Remove from blocklist</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
@@ -286,11 +286,11 @@ Check your tracking number."</string>
   <string name="payment_failed_common_problems">Error occurred during payment</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
-  <string name="phone_event_setting_notice_text">"Yellow Pages wants to upload verified service numbers (like your cell service provider) to Mi's servers, so that you can receive service-related updates."</string>
+  <string name="phone_event_setting_notice_text">"Yellow pages wants to upload verified service numbers (like your cell service provider) to Mi's servers, so that you can receive service-related updates."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
-  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_refreshing_label">Just a sec…</string>
   <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="quick_yellow_page_tab_call_log">Call history</string>
   <string name="quick_yellow_page_tab_phones">Phone</string>
@@ -360,7 +360,7 @@ Total: RMB %3$s"</string>
   <string name="turn_on_smart_antispam_summary_off">Only search numbers saved on this device</string>
   <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown numbers in call logs and text messages</string>
   <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
-  <string name="turn_on_yellowpage_service_title">Use Yellow Pages</string>
+  <string name="turn_on_yellowpage_service_title">Use Yellow pages</string>
   <string name="upload_and_verify_fraud_num_off">Share unwanted calls info</string>
   <string name="upload_and_verify_fraud_num_on">Share unwanted calls info</string>
   <string name="uploads_disabled">File uploads are disabled</string>
@@ -369,8 +369,8 @@ Total: RMB %3$s"</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_title">Attention</string>
-  <string name="user_notice_yp_detail_summary_format">"Some of your Yellow Pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
-  <string name="user_notice_yp_detail_summary_format_cta">"Some of your Yellow Pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format">"Some of your Yellow pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format_cta">"Some of your Yellow pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="view_orders">View orders</string>
   <string name="voicemail">Voicemail</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
@@ -378,6 +378,6 @@ Total: RMB %3$s"</string>
   <string name="yellowpage_navigation_network_location_enable">Allow</string>
   <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
   <string name="yellowpage_navigation_network_location_enabled">Location access is on. You can turn it off anytime in Settings.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow Pages to access your location info.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow pages to access your location info.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
 </resources>

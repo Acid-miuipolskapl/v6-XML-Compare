@@ -78,7 +78,7 @@
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
   <string name="loading_resource_detail_info">Loading…</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
-  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen everyday.</string>
+  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
   <string name="lockscreen_magazine_system_title">Default</string>
   <string name="lockscreen_magazine_title">Daily lock screens</string>

@@ -332,7 +332,7 @@ Contact cards are turned off"</string>
   <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
-  <string name="dialer_empty_text_loading">Loading…</string>
+  <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
@@ -1089,8 +1089,8 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Yellow Pages</string>
-  <string name="yellowPageNavigationLabel">Yellow Pages</string>
+  <string name="yellowPageNavigationIconLabel">Yellow pages</string>
+  <string name="yellowPageNavigationLabel">Yellow pages</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
