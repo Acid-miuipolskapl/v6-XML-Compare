@@ -97,6 +97,7 @@
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
   <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
+  <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
   <string name="account_setup_incoming_delete_policy_never_label">Never</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
@@ -574,11 +575,13 @@
   <string name="outbox_alert_certificate_error">"Contact your email system's administrator and update your certificate."</string>
   <string name="outbox_alert_description_auth_error">Server authorization error while syncing outbox.</string>
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
+  <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
+  <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
-  <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the recipient's limit."</string>
+  <string name="outbox_alert_description_sent_failed">Attachment size exceeds the server limit.</string>
   <string name="outbox_alert_description_time_out">Network connection timed out</string>
   <string name="outbox_alert_duplicate_click">Still syncing…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>

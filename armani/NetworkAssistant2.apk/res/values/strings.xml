@@ -89,11 +89,12 @@ For more info check the message you received from your carrier"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="deleted_apps">Deleted Apps</string>
   <string name="detail_app_button">App info</string>
-  <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming Overseas, only apps you've added to exceptions can use mobile data."</string>
+  <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
   <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
-  <string name="dialog_roaming_message">Allow this app to use mobile data when roaming Overseas?</string>
+  <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
   <string name="dialog_roaming_title">Overseas roaming</string>
+  <string name="dialog_title_attention">Attention</string>
   <string name="disable_air_mode">Turn Airplane mode off first</string>
   <string name="dns_exception_summary">"Check router's DNS settings"</string>
   <string name="dns_exception_title">Check DNS settings</string>
@@ -364,9 +365,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_whitelist_setting">Manage exceptions</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
-  <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be uploaded to Mi's servers in order to update your data usage info."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"This feature needs to send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be uploaded to Mi's servers to get more info about data purchasing options."</string>
+  <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"This feature needs to encrypt and send your device's IMEI, phone number, and carrier information to Mi's servers in order get data usage stats from your carrier."</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="privacy_prompt_upload">Upload</string>
   <string name="protocol_exception_title">Network protocol diagnostics</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
@@ -379,6 +380,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="repair">Repair</string>
   <string name="repair_loading_text">Just a sec…</string>
   <string name="replace_dns">Replace DNS automatically</string>
+  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
   <string name="right_precent">100%</string>
   <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
   <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
@@ -389,6 +391,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_start_body">Touch to view data roaming exceptions.</string>
   <string name="roaming_start_title">Overseas roaming</string>
   <string name="root">Root Access</string>
+  <string name="saving_conflict_dialog_cancel">Cancel</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Attention</string>
+  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
   <string name="sc_allow_network_dialog_message">This app needs to connect to the internet to work normally.</string>
   <string name="sc_allow_network_dialog_tiltle">"Can't use this feature"</string>
   <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
