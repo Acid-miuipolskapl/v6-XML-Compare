@@ -4,7 +4,7 @@
     <string name="language">en</string>
     <string name="desc_date_format">EEEE, dd MMM</string>
     <string name="desc_time">'thời gian hiện tại' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', nhấp đúp để vào ứng dụng đồng hồ'</string>
-    <string name="weather_type_0">Quang đãng</string>
+    <string name="weather_type_0">Quang</string>
     <string name="weather_type_1">Nhiều mây</string>
     <string name="weather_type_2">Sương mù</string>
     <string name="weather_type_3">Sương mù</string>
@@ -18,7 +18,7 @@
     <string name="weather_type_11">Mưa phùn</string>
     <string name="weather_type_12">Mưa tuyết</string>
     <string name="weather_type_13">Bão tuyết</string>
-    <string name="weather_type_14">Tuyết rơi theo đợt</string>
+    <string name="weather_type_14">Tuyết rơi từng đợt</string>
     <string name="weather_type_15">Tuyết rơi dày</string>
     <string name="weather_type_16">Tuyết rơi</string>
     <string name="weather_type_17">Tuyết rơi nhẹ</string>

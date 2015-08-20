@@ -8,8 +8,8 @@
   <string name="account_bind_devices">Devices</string>
   <string name="account_bind_new_phone">Add new phone</string>
   <string name="account_bind_phone_notice">Use this phone number to sign in to your account, reset your password, or change security settings.</string>
-  <string name="account_bind_secure_email_title">Add recovery email</string>
-  <string name="account_bind_secure_phone_title">Add recovery phone</string>
+  <string name="account_bind_secure_email_title">Add email</string>
+  <string name="account_bind_secure_phone_title">Add phone number</string>
   <string name="account_bind_settings">Accounts</string>
   <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">Crop photo</string>
@@ -24,10 +24,10 @@
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
-  <string name="account_none_binded_secure_phone">No recovery phone</string>
+  <string name="account_none_binded_secure_phone">No phone number</string>
   <string name="account_none_user_name">None</string>
   <string name="account_settings">Account</string>
-  <string name="account_user_avatar">Profile picture</string>
+  <string name="account_user_avatar">Profile photo</string>
   <string name="account_user_avatar_from_album">Choose photo</string>
   <string name="account_user_avatar_from_camera">Take photo</string>
   <string name="account_user_base_info">Personal info</string>
@@ -43,9 +43,9 @@
   <string name="account_user_phone">Phone number</string>
   <string name="account_user_recovery_phone">Recovery phone</string>
   <string name="account_user_secure_info">Phone &amp; email</string>
-  <string name="account_user_using_facebook_avatar">Use Facebook profile picture</string>
-  <string name="account_user_using_qq_avatar">Use QQ profile picture</string>
-  <string name="account_user_using_weibo_avatar">Use Sina Weibo profile picture</string>
+  <string name="account_user_using_facebook_avatar">Use Facebook profile photo</string>
+  <string name="account_user_using_qq_avatar">Use QQ profile photo</string>
+  <string name="account_user_using_weibo_avatar">Use Sina Weibo profile photo</string>
   <string name="account_vip_level">Account</string>
   <string name="account_vip_task">Progress</string>
   <string name="account_xiaomi_service">Services</string>
@@ -123,7 +123,7 @@ Please input the verification code in the email"</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="loading">Just a sec…</string>
-  <string name="loading_micloud_sync_data">Loading…</string>
+  <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
   <string name="login_instead_reg">Use this number</string>
@@ -172,6 +172,7 @@ Please input the verification code in the email"</string>
   <string name="passport_button_cancel">Cancel</string>
   <string name="passport_captcha">Enter code</string>
   <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
+  <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
   <string name="passport_choose_which_one_sim">Choose a phone number</string>
@@ -181,6 +182,7 @@ To activate your account, follow the
  link in the message we've sent to your inbox."</string>
   <string name="passport_completed">Finish</string>
   <string name="passport_confirm">Confirm</string>
+  <string name="passport_confirm_recycle_account">Yes</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="passport_dspt_provision2">Learn more</string>
@@ -216,7 +218,9 @@ To activate your account, follow the
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
   <string name="passport_getting_verify_code">Getting</string>
+  <string name="passport_identitfication_expired">Verification code expired, start over</string>
   <string name="passport_input_captcha_hint">Enter code</string>
+  <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
   <string name="passport_input_password_hint">Enter password</string>
   <string name="passport_input_phone_hint">Enter phone number</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
@@ -244,6 +248,7 @@ To activate your account, follow the
   <string name="passport_quick_login_title">Enter your password</string>
   <string name="passport_re_get_verify_code">Get code again</string>
   <string name="passport_re_register">Sign up again</string>
+  <string name="passport_recycle_account_prompt">Is this your Mi Account?</string>
   <string name="passport_reg_failed">"Can't set up account"</string>
   <string name="passport_reg_new">Create a Mi Account for free</string>
   <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
@@ -261,12 +266,22 @@ To activate your account, follow the
   <string name="passport_register_account_goto_email">Go to your inbox</string>
   <string name="passport_register_account_verified_confirm">"You've already verified your account"</string>
   <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
+  <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
+  <string name="passport_register_restricted_title">"Can't use this phone number"</string>
+  <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Sign in again</string>
   <string name="passport_relogin_notice">You need to sign in again</string>
   <string name="passport_remove_confirm">Sign out</string>
   <string name="passport_remove_unactivated_account_notice">"Your account hasn't been activated."</string>
   <string name="passport_resend_active_email">Resend activation email</string>
+  <string name="passport_reset_fail_title">"Couldn't reset"</string>
+  <string name="passport_reset_password_prompt">Password is incorrect</string>
+  <string name="passport_reset_password_title">Reset password</string>
+  <string name="passport_restart">Start over</string>
+  <string name="passport_restart_register_prompt">Another verification message may be required to create your account.</string>
+  <string name="passport_restart_register_title">Create a Mi Account</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="passport_setting">Setting up…</string>
   <string name="passport_sim_index_info">SIM card %1$d - %2$s</string>
   <string name="passport_skip_login">Skip sign-in</string>
   <string name="passport_skip_register">Skip Sign-up</string>
@@ -284,8 +299,10 @@ To activate your account, follow the
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_verification_failed">Authentication failed</string>
   <string name="passport_verify">Verify</string>
+  <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
   <string name="passport_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">The code you entered is incorrect</string>
+  <string name="passport_wrong_password">Password is incorrect</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
@@ -296,7 +313,7 @@ To activate your account, follow the
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="phone_unactivated">Not activated</string>
   <string name="phone_unknown">Unknown</string>
-  <string name="photoPickerNotFoundText">No pictures available.</string>
+  <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="prev">Back</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="qq">QQ</string>

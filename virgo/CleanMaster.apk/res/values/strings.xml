@@ -50,7 +50,7 @@
   <string name="button_text_select_all">Select</string>
   <string name="button_text_select_pic">Select</string>
   <string name="button_text_uninstall">Uninstall</string>
-  <string name="button_text_uninstall_only">Uninstall</string>
+  <string name="button_text_uninstall_only">Uninstall %s</string>
   <string name="button_text_unselect_all">Unselect</string>
   <string name="button_text_unselect_pic">Unselect</string>
   <string name="button_text_view_detail">Details</string>
@@ -92,7 +92,7 @@
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
   <string name="empty_title_garbage_white_list">No exceptions.</string>
-  <string name="empty_title_installed_apps">empty</string>
+  <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
   <string name="empty_title_residual">No residuals found</string>
   <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
@@ -145,6 +145,7 @@
   <string name="hints_title_garbage">trash</string>
   <string name="item_title_process_mode">Choose an action</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
+  <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="msg_cleanup_db_update_time_unknown">Last update unknown</string>
   <string name="msg_update_error_code_already_running">Updating</string>

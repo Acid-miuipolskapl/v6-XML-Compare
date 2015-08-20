@@ -173,6 +173,7 @@
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Delete call history?</string>
   <string name="confirm_delete_selected_all_call_logs">Delete call history?</string>
+  <string name="confirm_delete_sim_entry_miui_title">Delete</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
@@ -194,9 +195,9 @@
   <string name="contact_detail_miprofile_exchange_closed">"No phone number is associated with this Mi Account
 Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_privacy_settings">Require permission to view</string>
-  <string name="contact_detail_miprofile_request">Tap to exchange cards</string>
+  <string name="contact_detail_miprofile_request">Exchange contact cards</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
-  <string name="contact_detail_miprofile_request_subtitle">After recipient accepts, profile photo and contact info will be updated automatically</string>
+  <string name="contact_detail_miprofile_request_subtitle">Update profile photo and contact info automatically</string>
   <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
   <string name="contact_detail_miprofile_save">Tap to get contact card</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
@@ -208,9 +209,9 @@ Contact cards are turned off"</string>
   <string name="contact_detail_profile_switch_off">Contact cards are off</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Couldn't turn off contact cards"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Contact cards turned off</string>
-  <string name="contact_detail_profile_switch_on">"View contacts' profile photo"</string>
+  <string name="contact_detail_profile_switch_on">"View contacts' profile photos"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Couldn't turn on contact cards"</string>
-  <string name="contact_detail_profile_switch_on_subtitle">Tap to turn this feature on.</string>
+  <string name="contact_detail_profile_switch_on_subtitle">Tap to turn on contact cards</string>
   <string name="contact_detail_profile_switch_on_success_toast">Contact cards are already on</string>
   <string name="contact_directory_description">Directory %1$s</string>
   <string name="contact_edit_title_edit">Edit contact</string>
@@ -331,7 +332,7 @@ Contact cards are turned off"</string>
   <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
-  <string name="dialer_empty_text_loading">Loading…</string>
+  <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
@@ -490,12 +491,15 @@ Reason: \"%s\""</string>
   <string name="in_call_show_delete_message">Delete your video?</string>
   <string name="in_call_show_delete_title">Delete video?</string>
   <string name="in_call_show_demo_present">Preview</string>
+  <string name="in_call_show_guide_intro">"Record a profile video
+ that will play on other MIUI users' devices when you call"</string>
   <string name="in_call_show_guide_start_recording">Record now</string>
+  <string name="in_call_show_guide_title">Profile video</string>
   <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
   <string name="in_call_show_pick_video">Choose video</string>
   <string name="in_call_show_preview">Preview</string>
   <string name="in_call_show_recording">Recording…</string>
-  <string name="in_call_show_reshoot">Retry</string>
+  <string name="in_call_show_reshoot">Record again</string>
   <string name="in_call_show_save_completed">Profile video saved</string>
   <string name="in_call_show_save_failed">"Couldn't save video"</string>
   <string name="in_call_show_tap_to_show_demo">Tap display to preview</string>
@@ -611,7 +615,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_edit_title">Edit profile</string>
   <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
   <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
-  <string name="miprofile_error_not_opened">Contact cards are off</string>
+  <string name="miprofile_error_not_opened">Turn off contact cards</string>
   <string name="miprofile_error_not_set">"Your contact card hasn't been synced to the server"</string>
   <string name="miprofile_error_unknown">Unknown error</string>
   <string name="miprofile_name">My profile</string>
@@ -910,8 +914,8 @@ To add a contact to your list of favorites:
   <string name="scan">Scan</string>
   <string name="scan_duplicate_message">%1$d contacts with identical info</string>
   <string name="scan_merge">Searching for duplicate contacts…</string>
-  <string name="scan_qrcode_card_hint1">Scan QR code</string>
-  <string name="scan_qrcode_card_hint2">Add to contacts</string>
+  <string name="scan_qrcode_card_hint1">Scan the QR code above</string>
+  <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
   <string name="searchHint">Search contacts</string>
@@ -1085,8 +1089,8 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Yellow Pages</string>
-  <string name="yellowPageNavigationLabel">Yellow Pages</string>
+  <string name="yellowPageNavigationIconLabel">Yellow pages</string>
+  <string name="yellowPageNavigationLabel">Yellow pages</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
