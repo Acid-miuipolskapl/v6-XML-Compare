@@ -8,8 +8,8 @@
   <string name="account_bind_devices">Devices</string>
   <string name="account_bind_new_phone">Add new phone</string>
   <string name="account_bind_phone_notice">Use this phone number to sign in to your account, reset your password, or change security settings.</string>
-  <string name="account_bind_secure_email_title">Add recovery email</string>
-  <string name="account_bind_secure_phone_title">Add recovery phone</string>
+  <string name="account_bind_secure_email_title">Add email</string>
+  <string name="account_bind_secure_phone_title">Add phone number</string>
   <string name="account_bind_settings">Accounts</string>
   <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">Crop photo</string>
@@ -24,10 +24,10 @@
   <string name="account_no_set">None</string>
   <string name="account_none">None</string>
   <string name="account_none_binded_info">None</string>
-  <string name="account_none_binded_secure_phone">No recovery phone</string>
+  <string name="account_none_binded_secure_phone">No phone number</string>
   <string name="account_none_user_name">None</string>
   <string name="account_settings">Account</string>
-  <string name="account_user_avatar">Profile picture</string>
+  <string name="account_user_avatar">Profile photo</string>
   <string name="account_user_avatar_from_album">Choose photo</string>
   <string name="account_user_avatar_from_camera">Take photo</string>
   <string name="account_user_base_info">Personal info</string>
@@ -43,9 +43,9 @@
   <string name="account_user_phone">Phone number</string>
   <string name="account_user_recovery_phone">Recovery phone</string>
   <string name="account_user_secure_info">Phone &amp; email</string>
-  <string name="account_user_using_facebook_avatar">Use Facebook profile picture</string>
-  <string name="account_user_using_qq_avatar">Use QQ profile picture</string>
-  <string name="account_user_using_weibo_avatar">Use Sina Weibo profile picture</string>
+  <string name="account_user_using_facebook_avatar">Use Facebook profile photo</string>
+  <string name="account_user_using_qq_avatar">Use QQ profile photo</string>
+  <string name="account_user_using_weibo_avatar">Use Sina Weibo profile photo</string>
   <string name="account_vip_level">Account</string>
   <string name="account_vip_task">Progress</string>
   <string name="account_xiaomi_service">Services</string>
@@ -123,7 +123,7 @@ Please input the verification code in the email"</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="loading">Just a sec…</string>
-  <string name="loading_micloud_sync_data">Loading…</string>
+  <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="login">Sign in</string>
   <string name="login_failed">"Can't sign in"</string>
   <string name="login_instead_reg">Use this number</string>
@@ -313,7 +313,7 @@ To activate your account, follow the
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="phone_unactivated">Not activated</string>
   <string name="phone_unknown">Unknown</string>
-  <string name="photoPickerNotFoundText">No pictures available.</string>
+  <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="prev">Back</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="qq">QQ</string>
