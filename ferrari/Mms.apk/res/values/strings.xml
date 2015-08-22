@@ -150,6 +150,7 @@
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Message size limit reached.</string>
+  <string name="exceed_message_text_limitation">Message text length limit reached.</string>
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
@@ -276,6 +277,9 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
+  <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+  <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
@@ -587,6 +591,9 @@ Attempt made: %s."</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
+  <string name="voip_enable">Mi Message and Voice</string>
+  <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+  <string name="voip_enable_popup_msg2">Privacy Policy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Send in %ds</string>
   <string name="xiaomi_service_number">Service number</string>

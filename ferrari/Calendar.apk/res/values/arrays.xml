@@ -328,6 +328,18 @@
         <item>2 days</item>
         <item>1 week</item>
     </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>No reminder</item>
+        <item>0 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>1 week</item>
+    </string-array>
     <integer-array name="online_reminder_minutes_values">
         <item>0</item>
         <item>5</item>

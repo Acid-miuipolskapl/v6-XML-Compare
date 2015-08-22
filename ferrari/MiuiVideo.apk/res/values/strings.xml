@@ -198,6 +198,9 @@
   <string name="mycamera">My videos</string>
   <string name="myfavorite">Star</string>
   <string name="myfavorite_onlylocal">Starred</string>
+  <string name="need_upgrade_button">Check</string>
+  <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
+  <string name="need_upgrade_title">Available in new version</string>
   <string name="negative_comment">Dislikes</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
