@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefer_inputmethod_list">
+        <item>com.touchtype.swiftkey.xiaomi/com.touchtype.KeyboardService</item>
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+    </string-array>
+    <string-array name="prefer_inputmethod_list_cm_customized">
+        <item>com.iflytek.inputmethod/.FlyIME</item>
+        <item>com.iflytek.inputmethod.oem/com.iflytek.inputmethod.FlyIME</item>
+        <item>com.iflytek.inputmethod.oem/.FlyIME</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>br</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>my</item>
+        <item>mx</item>
+        <item>mm</item>
+        <item>ph</item>
+        <item>ru</item>
+        <item>sg</item>
+        <item>tw</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>vn</item>
+        <item>ae</item>
+        <item>ao</item>
+        <item>bw</item>
+        <item>cm</item>
+        <item>ci</item>
+        <item>cd</item>
+        <item>gq</item>
+        <item>eg</item>
+        <item>et</item>
+        <item>gh</item>
+        <item>ke</item>
+        <item>ls</item>
+        <item>mw</item>
+        <item>mz</item>
+        <item>na</item>
+        <item>ng</item>
+        <item>rw</item>
+        <item>sn</item>
+        <item>za</item>
+        <item>sa</item>
+        <item>sz</item>
+        <item>tz</item>
+        <item>ug</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international_th">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international_vn">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international_my">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international_id">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+    <string-array name="organized_inputmethod_list_international_sg">
+        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
+        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
+        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
+        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
+    </string-array>
+</resources>

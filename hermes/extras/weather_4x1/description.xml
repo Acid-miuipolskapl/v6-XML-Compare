@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="weather" size="4:1">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Weather4x1</title>
+	<titles>
+		<title locale="zh_CN">天气4x1</title>
+		<title locale="zh_TW">天氣4x1</title>
+		<title locale="hu_HU">Időjárás4x1</title>
+	</titles>
+</MIUI-Theme>

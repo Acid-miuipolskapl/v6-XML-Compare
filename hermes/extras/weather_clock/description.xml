@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="clock" size="4:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Weather clock</title>
+	<titles>
+		<title locale="zh_CN">天气时钟</title>
+		<title locale="zh_TW">天氣時鐘</title>
+		<title locale="hu_HU">Óra időjárással</title>
+	</titles>
+</MIUI-Theme>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="tools" size="2:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Notes</title>
+	<titles>
+		<title locale="zh_CN">便签</title>
+		<title locale="zh_TW">便條</title>
+		<title locale="hu_HU">Jegyzetek</title>
+	</titles>
+</MIUI-Theme>
