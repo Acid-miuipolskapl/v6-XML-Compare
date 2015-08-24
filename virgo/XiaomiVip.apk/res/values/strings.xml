@@ -7,6 +7,7 @@
   <string name="award_time">Collected on %s</string>
   <string name="awarded_package_is_expired">Expired</string>
   <string name="awarded_package_was_redeemed">Redeemed</string>
+  <string name="browse">View</string>
   <string name="buff_enable">[ enable ]</string>
   <string name="cube_ptr_hours_ago"> hours ago</string>
   <string name="cube_ptr_last_update">last update: </string>

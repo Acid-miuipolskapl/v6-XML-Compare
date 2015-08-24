@@ -20,7 +20,7 @@
   <string name="backup_theme_progress_message">Backing up…</string>
   <string name="backup_theme_success_message">Your current theme settings have been backed up.</string>
   <string name="change_wallpaper">Wallpaper</string>
-  <string name="choose_new_themes">New themes</string>
+  <string name="choose_new_themes">Themes</string>
   <string name="close">Close</string>
   <string name="component_category_finest_title">GENERAL</string>
   <string name="component_category_more_title">ADVANCED</string>
@@ -364,7 +364,7 @@
   <string name="theme_yes">Yes</string>
   <string name="third_party_pickers_activity_title">Set %1$s</string>
   <string name="title_component">Customize theme</string>
-  <string name="title_system_resource">Offline</string>
+  <string name="title_system_resource">Downloaded</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="vip_level_value">LV%d</string>
   <string name="wallpaper_crop">Crop</string>
