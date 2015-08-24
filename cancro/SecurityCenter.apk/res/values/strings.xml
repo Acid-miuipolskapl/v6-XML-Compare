@@ -215,7 +215,7 @@
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">Exceptions</string>
   <string name="manual_white_list_header">%d exceptions</string>
-  <string name="memory_check_content_none">None</string>
+  <string name="memory_check_content_none">Empty</string>
   <string name="menu_item_about_content">Version %s</string>
   <string name="menu_item_about_summary">Version %s</string>
   <string name="menu_item_about_title">About</string>
@@ -545,7 +545,7 @@
   <string name="summary_virus">Found %2$d viruses</string>
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Update virus definitions automatically when connected to WLAN</string>
-  <string name="system_check_content">%1$d suspicious items</string>
+  <string name="system_check_content">%1$d risks</string>
   <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
   <string name="text_antivirus">Upload app names and details</string>
   <string name="text_antivirus_oversea">Update virus definitions</string>
