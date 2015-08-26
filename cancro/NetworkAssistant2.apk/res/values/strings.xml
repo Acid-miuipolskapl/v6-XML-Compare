@@ -150,7 +150,7 @@ For more info check the message you received from your carrier"</string>
   <string name="lock_screen_warning_value">Data usage warning</string>
   <string name="main_alert_message_month_limit_error">Data limit incorrect</string>
   <string name="main_alert_message_no_imsi">No SIM card detected</string>
-  <string name="main_alert_message_no_mobile_package">No data limit set</string>
+  <string name="main_alert_message_no_mobile_package">Set data limit</string>
   <string name="main_alert_message_slot_no_data_connection">"SIM card slot doesn't support
 a mobile data connection"</string>
   <string name="main_button_idel_traffic">Off-peak</string>
@@ -159,6 +159,7 @@ a mobile data connection"</string>
   <string name="main_button_usage_adjust_manual">Set data usage limit</string>
   <string name="main_button_usage_adjusting">Changing…</string>
   <string name="main_button_usage_package_setting">Set data usage limit</string>
+  <string name="main_message_no_package_by_dual">Set data limit for %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Off-peak data usage</string>
   <string name="main_primary_message_traffic_cur_normal">Under peak data limit</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Data limit exceeded</string>
