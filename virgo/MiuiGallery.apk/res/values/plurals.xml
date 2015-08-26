@@ -87,9 +87,9 @@
         <item quantity="one">You can select %d item</item>
     </plurals>
     <plurals name="number_of_images">
-        <item quantity="other">%1$d pictures</item>
-        <item quantity="zero">%1$d pictures</item>
-        <item quantity="one">%1$d picture</item>
+        <item quantity="other">%1$d photos</item>
+        <item quantity="zero">%1$d photos</item>
+        <item quantity="one">%1$d photo</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">%1$d items</item>
