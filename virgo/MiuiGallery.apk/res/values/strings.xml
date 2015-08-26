@@ -121,7 +121,7 @@
   <string name="camera_folder_display_name">Camera photos</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
-  <string name="camera_view_none_message">Photos and videos you take with the Camera app will be displayed here.</string>
+  <string name="camera_view_none_message">Pictures and videos you take with the Camera app will be displayed here.</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_hint">Operation canceled</string>
   <string name="cannot_delete_sharer_photo">"Can't delete %s items added by other members."</string>
@@ -129,8 +129,8 @@
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">No valid recipients</string>
   <string name="cant_delete_system_album">"Can't delete %s because it's a system album."</string>
-  <string name="change_to_face_mode">Sort by people</string>
-  <string name="change_to_photo_mode">Sort by albums</string>
+  <string name="change_to_face_mode">Chane to face mode</string>
+  <string name="change_to_photo_mode">Change to photo mode</string>
   <string name="choose_baby_sexy">Gender</string>
   <string name="choose_cloud_album">Choose album</string>
   <string name="choose_owner_relation">Relation</string>
@@ -565,7 +565,7 @@ with friends"</string>
   <string name="cool_portrait">Portrait</string>
   <string name="create_baby_album">Create a baby album</string>
   <string name="create_baby_album_dialog_msg">Create an album for \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Create a baby album anytime in Settings</string>
+  <string name="create_baby_album_later_toast">Later you can create baby album also on the top right menu</string>
   <string name="create_new_cloud_folder">Create new album</string>
   <string name="create_new_face">New person</string>
   <string name="create_quick_icon_on_desk">Create shortcuts</string>
@@ -622,7 +622,7 @@ with friends"</string>
   <string name="effect">Filters</string>
   <string name="email_picker_title">Add shared Email</string>
   <string name="enable">Turn on</string>
-  <string name="enable_cloud_for_sharing">You need turn on Cloud albums to view shared photos.</string>
+  <string name="enable_cloud_for_sharing">You need turn on Cloud albums to view shared pictures.</string>
   <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
@@ -652,7 +652,7 @@ with friends"</string>
   <string name="external_usb_device">USB storage</string>
   <string name="external_usb_device_hm">External USB storage</string>
   <string name="face_album">People</string>
-  <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
+  <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
   <string name="face_album_rename_hint">Enter name</string>
@@ -748,7 +748,7 @@ with friends"</string>
   <string name="impunity_declaration_title">Internet connection</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
   <string name="initial_cloud_button_text">Sign in</string>
-  <string name="initial_cloud_text">Store and view your photos from anywhere.</string>
+  <string name="initial_cloud_text">Store and view your pictures from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
   <string name="input_baby_name">Enter name</string>
   <string name="input_baby_nick_name">Enter nickname</string>
@@ -828,9 +828,9 @@ with friends"</string>
   <string name="moman">Moman Camera</string>
   <string name="moman_camera_drawing">Moman Camera drawing</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>
-  <string name="moman_camera_picture">Moman Camera photos</string>
+  <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">More</string>
-  <string name="more_face_album_name">More people</string>
+  <string name="more_face_album_name">More face</string>
   <string name="mosaic">Mosaic</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to</string>
@@ -859,7 +859,7 @@ device"</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
   <string name="not_is">not</string>
   <string name="not_now">Not now</string>
-  <string name="not_remind_any_more">"Don't show again"</string>
+  <string name="not_remind_any_more">"Don't remind later"</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Only show camera roll</string>
@@ -922,7 +922,7 @@ device"</string>
   <string name="picker_tab_face">@string/home_page_tab_face</string>
   <string name="picker_tab_local">@string/home_page_tab_local</string>
   <string name="picker_tab_photo">Photo</string>
-  <string name="pocket_camera_picture">Pocket Camera photos</string>
+  <string name="pocket_camera_picture">Pocket Camera pictures</string>
   <string name="pocket_camera_video">Pocket Camera videos</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterize</string>
@@ -1021,8 +1021,8 @@ device"</string>
   <string name="set_lock_or_wallpaper">Set as wallpaper</string>
   <string name="set_lockscreen">Setting wallpaper…</string>
   <string name="set_recent_album">Mark as favorite</string>
-  <string name="set_screensaver_path_message">Photos in this album will be displayed in screensaver.</string>
-  <string name="set_screensaver_path_message_if_only_charging">Photos in this album will be displayed in screensaver when your phone is charging.</string>
+  <string name="set_screensaver_path_message">Pictures in this album will be displayed in screensaver.</string>
+  <string name="set_screensaver_path_message_if_only_charging">Pictures in this album will be displayed in screensaver when your phone is charging.</string>
   <string name="set_screensaver_path_title">Screensaver slideshow</string>
   <string name="set_wallpaper">Setting wallpaper…</string>
   <string name="settings">Settings</string>

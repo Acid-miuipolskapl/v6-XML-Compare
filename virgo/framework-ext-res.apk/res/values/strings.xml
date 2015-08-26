@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Use top-up packages for domestic and international calls</string>
-  <string name="all_call_livetalk_remain_mins">Minutes remaining: (%1$s domestic) | %2$s (%3$s)</string>
   <string name="alwaysUsePrompt">Remember my choice</string>
   <string name="android_activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
   <string name="android_activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
@@ -77,10 +75,6 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
   <string name="handy_mode_summary">To close, tap the darkened area</string>
   <string name="handy_mode_title">One-handed mode</string>
-  <string name="internal_livetalk_enable">Use top-up packages for domestic calls</string>
-  <string name="internal_remain_mins">%1$s minutes remaining (domestic calls)</string>
-  <string name="international_livetalk_enable">Use top-up packages for international calls</string>
-  <string name="international_remain_mins">%1$s minutes remaining (%2$s calls)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Space</string>
   <string name="location_usage_restricted_body">Touch to remove restriction.</string>
