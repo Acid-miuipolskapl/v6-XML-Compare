@@ -652,8 +652,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
-  <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen</string>
-  <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen</string>
+  <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
+  <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
   <string name="children_mode_title">Child mode</string>
   <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
@@ -988,6 +988,15 @@ This setting affects all users on this phone."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
   <string name="dlg_ok">OK</string>
+  <string name="dndm_alarm_content">Sounds</string>
+  <string name="dndm_alarm_content_all">Allow all</string>
+  <string name="dndm_alarm_content_call">Calls</string>
+  <string name="dndm_alarm_content_call_sms">Calls &amp; messages</string>
+  <string name="dndm_alarm_content_event">Notifications</string>
+  <string name="dndm_alarm_content_event_and_call">Notifications &amp; calls</string>
+  <string name="dndm_alarm_content_event_and_sms">Notifications &amp; messages</string>
+  <string name="dndm_alarm_content_not_all">Silence all</string>
+  <string name="dndm_alarm_content_sms">Messages</string>
   <string name="dndm_auto_button_title">Repeat do not disturb time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
   <string name="dndm_auto_time_setting">Set time</string>
@@ -1006,12 +1015,14 @@ This setting affects all users on this phone."</string>
   <string name="dndm_repeated_call_summary_3min">Ring when receiving a second call from the same number within 3 minutes</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
+  <string name="dndm_summary">Calls and notifications that arrive while Do not disturb is on will be silenced.</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Allow calls from exceptions</string>
   <string name="dndm_vip_call_setting_detal">Always accept calls from exceptions</string>
   <string name="dndm_vip_call_setting_title">Exceptions</string>
   <string name="dndm_vip_call_summary_contact">All</string>
+  <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Touch to configure</string>
   <string name="dndm_vip_list_contact">All Contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
@@ -1780,6 +1791,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dolby_mode_movie">Video</string>
@@ -1896,7 +1908,7 @@ Select your operating system:"</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
-  <string name="only_when_charging">Only when plugged in</string>
+  <string name="only_when_charging">Only when connected to power source</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
@@ -1962,7 +1974,7 @@ Select your operating system:"</string>
   <string name="pico_not_installed">Not installed</string>
   <string name="pico_voice_summary_female">Female</string>
   <string name="pico_voice_summary_male">Male</string>
-  <string name="picture_source">Picture source</string>
+  <string name="picture_source">Photos</string>
   <string name="pin_failed">SIM PIN operation failed!</string>
   <string name="ping_test_label">Run ping test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
@@ -2442,7 +2454,7 @@ To use screen pinning:
   <string name="service_stop_description">App has started running service. Stopping may cause errors.</string>
   <string name="services_subtitle">Services</string>
   <string name="set_password_action">Set password</string>
-  <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device</string>
+  <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
@@ -3247,6 +3259,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_context_menu_connect">Connect</string>
   <string name="wifi_context_menu_forget">Forget</string>
   <string name="wifi_datanetwork_switch_not_remind">"Don't show again"</string>
+  <string name="wifi_dialog_remind_type_title">Mobile data network</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">WLAN was disconnected due to poor connection</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
@@ -3510,6 +3523,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_suspend_efficiency_title">Improve efficiency</string>
   <string name="wifi_suspend_optimizations">WLAN optimization</string>
   <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+  <string name="wifi_switch_to_gsm_message">Lost connection to WLAN. Use mobile data connection instead?</string>
+  <string name="wifi_switch_to_gsm_title">Use GSM?</string>
   <string name="wifi_tether_checkbox_text">Portable hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up portable hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
