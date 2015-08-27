@@ -206,7 +206,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_subtitle">Already exchanged cards</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Can't connect to the network"</string>
   <string name="contact_detail_profile_switch_fail_toast">Something went wrong with our server</string>
-  <string name="contact_detail_profile_switch_off">Contact cards are off</string>
+  <string name="contact_detail_profile_switch_off">Turn off contact cards</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Couldn't turn off contact cards"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Contact cards turned off</string>
   <string name="contact_detail_profile_switch_on">"View contacts' profile photos"</string>
@@ -487,7 +487,7 @@ Reason: \"%s\""</string>
   <string name="importing_vcard_description">Importing %s</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
   <string name="in_call_show">Video</string>
-  <string name="in_call_show_camera_open_error">Error happens when opening camera, please retry</string>
+  <string name="in_call_show_camera_open_error">"Couldn't open camera"</string>
   <string name="in_call_show_delete_message">Delete your video?</string>
   <string name="in_call_show_delete_title">Delete video?</string>
   <string name="in_call_show_demo_present">Preview</string>
@@ -506,7 +506,7 @@ Reason: \"%s\""</string>
   <string name="in_call_show_too_short">Too short. Try recording a longer video.</string>
   <string name="in_call_show_video_pick">Choose</string>
   <string name="in_call_show_video_pick_filter">"Video must be smaller than 3 MB and shorter than 20 seconds. "</string>
-  <string name="in_call_show_view_play_error">Error happens when playing video, please retry</string>
+  <string name="in_call_show_view_play_error">"Couldn't play video"</string>
   <string name="insertContactDescription">Create contact</string>
   <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"Contact doesn't exist"</string>
