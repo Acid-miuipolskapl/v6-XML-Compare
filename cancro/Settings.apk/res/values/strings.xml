@@ -1523,6 +1523,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
   <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Basic Edition</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Standard Edition</string>
   <string name="music_dirac_mode_piston_youth">Youth Edition</string>
   <string name="music_dolby_mode_movie">Video</string>
@@ -3021,7 +3022,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_tether_starting">Turning hotspot on…</string>
   <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_type_approval"/>
-  <string name="wifi_type_approval_dialog_title">NTC NO.</string>
+  <string name="wifi_type_approval_dialog_title">Regulatory information</string>
   <string name="wifi_type_approval_title">Type approval</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
