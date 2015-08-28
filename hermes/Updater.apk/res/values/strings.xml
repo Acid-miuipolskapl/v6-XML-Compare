@@ -182,7 +182,7 @@ But you can take part next Monday."</string>
   <string name="update_sad">Disappointed</string>
   <string name="update_success">Device updated</string>
   <string name="update_success_body">Version: %s</string>
-  <string name="update_success_reboot_immediately">Device updated</string>
+  <string name="update_success_reboot_immediately">Update downloaded</string>
   <string name="update_success_title">Device updated</string>
   <string name="updater_nolog">No update summary.</string>
   <string name="updater_nonetwork">"Can't connect to the network"</string>

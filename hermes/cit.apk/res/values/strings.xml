@@ -271,6 +271,7 @@ only in frame mode"</string>
   <string name="charger_out_test">Charger plug out</string>
   <string name="choose_channel">Channel select</string>
   <string name="cit_nv_flag">"CIT NV Flag: "</string>
+  <string name="cit_tp_default_info">null</string>
   <string name="combile">Assemble</string>
   <string name="confirm">Confirm</string>
   <string name="contmenu_item_delete">Remove from favorites</string>
@@ -689,6 +690,7 @@ mod:0-15"</string>
   <string name="tp_selftest_result">"Selftest result:  "</string>
   <string name="tp_selftest_working">Selftest proceeding, pls keep screen on</string>
   <string name="tp_version">TP Version:</string>
+  <string name="tplockdown_info">TP Lockdown Info:</string>
   <string name="tpversion">TP Version Upgrade</string>
   <string name="tx100_mod_info">tx100</string>
   <string name="tx99_mod_info">tx99</string>

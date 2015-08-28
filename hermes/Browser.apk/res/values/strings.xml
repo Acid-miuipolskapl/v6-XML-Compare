@@ -19,13 +19,13 @@
   <string name="action">Sign in</string>
   <string name="action_menu_text_add_bookmark">Add bookmark</string>
   <string name="action_menu_text_bandwidth">Data saver</string>
-  <string name="action_menu_text_bandwidth_off">Data saver off</string>
-  <string name="action_menu_text_bandwidth_on">Data saver on</string>
+  <string name="action_menu_text_bandwidth_off">Data saver</string>
+  <string name="action_menu_text_bandwidth_on">Data saver</string>
   <string name="action_menu_text_bookmark_added">Bookmark added</string>
   <string name="action_menu_text_copy_url">Copy URL</string>
   <string name="action_menu_text_create_qr_code">QR code</string>
   <string name="action_menu_text_exit">Exit</string>
-  <string name="action_menu_text_find_in_page">Find in page</string>
+  <string name="action_menu_text_find_in_page">Find on page</string>
   <string name="action_menu_text_fullscreen">Full screen</string>
   <string name="action_menu_text_history">Bookmarks &amp; History</string>
   <string name="action_menu_text_nightmode">Night mode</string>
@@ -74,7 +74,7 @@
   <string name="bookmark_folder_needs_title">Enter a group name</string>
   <string name="bookmark_group_lable">Group</string>
   <string name="bookmark_needs_title">Bookmark must have a name.</string>
-  <string name="bookmark_needs_url">Bookmark must have a location.</string>
+  <string name="bookmark_needs_url">Bookmark must contain a URL.</string>
   <string name="bookmark_not_saved">"Couldn't save bookmark"</string>
   <string name="bookmark_rename_group">Rename group</string>
   <string name="bookmark_saved">Saved to bookmarks</string>
@@ -249,7 +249,7 @@ Leave this page?"</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
   <string name="js_dialog_title">The page at \"%s\" says:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly</string>
+  <string name="js_disable_confirm_message">Disabling JavaScript may cause some websites to display incorrectly.</string>
   <string name="js_disable_confirm_title">Disable JavaScript?</string>
   <string name="last_month">Last month</string>
   <string name="license_activity_title">System WebView licenses</string>
@@ -363,7 +363,7 @@ Leave this page?"</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_enable_adblock_notification">Show Ad blocker notifications</string>
-  <string name="pref_extras_reset_default">Reset to default</string>
+  <string name="pref_extras_reset_default">Reset to defaults</string>
   <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
   <string name="pref_extras_reset_default_summary">Restore default settings</string>
   <string name="pref_extras_reset_default_title">Other</string>
@@ -441,7 +441,7 @@ Leave this page?"</string>
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
   <string name="qr_code_title">QR Code</string>
-  <string name="quicklink_bookmark_save">Save this page to</string>
+  <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>
   <string name="quicklink_saved">Saved to start page</string>
   <string name="quicklink_saved_before">This site has already been added</string>
@@ -624,7 +624,7 @@ Leave this page?"</string>
   <string name="voice_title_listening">Listening…</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
-  <string name="webpage_bookmark_title">Bookmark</string>
+  <string name="webpage_bookmark_title">Bookmarks</string>
   <string name="webpage_history_title">History</string>
   <string name="webpage_title">Bookmarks &amp; History</string>
   <string name="webview_find_on_page">Find on page</string>
