@@ -617,8 +617,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
-  <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen</string>
-  <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen</string>
+  <string name="children_mode_tips_off">After turning Child mode on, tap the Home button to return to Home screen.</string>
+  <string name="children_mode_tips_on">After turning Child mode off, tap the Home button to return to Home screen.</string>
   <string name="children_mode_title">Child mode</string>
   <string name="choose_smartcover_type">Choose case type</string>
   <string name="choose_timezone">Choose time zone</string>
@@ -1924,7 +1924,7 @@ Select your operating system:"</string>
   <string name="power_wifi">WLAN</string>
   <string name="pref_button_light">Button lights</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
-  <string name="pref_edge_handgrip">Edge handgrip</string>
+  <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Navigation buttons</string>
   <string name="pref_volume_wake_summary">Pressing Volume buttons wakes the device</string>
   <string name="pref_volume_wake_title">Wake with Volume buttons</string>
@@ -2368,7 +2368,7 @@ This setting affects all users on this tablet."</string>
   <string name="service_stoped">Service stopped</string>
   <string name="services_subtitle">Services</string>
   <string name="set_password_action">Set password</string>
-  <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device</string>
+  <string name="set_password_message">Set a password to turn off Child mode as well as to unlock this device.</string>
   <string name="set_password_title">Set password</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>

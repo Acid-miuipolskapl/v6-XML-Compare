@@ -41,6 +41,7 @@
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="children_folder_title">Kids</string>
   <string name="children_mode_exit">Exit</string>
+  <string name="children_mode_tips">Return to Settings and manage access to apps.</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -242,6 +243,7 @@
   <string name="wallpaper">Wallpaper</string>
   <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
+  <string name="wallpaper_scaling_message">Scaling to fixed size</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>
   <string name="wallpaper_success_message">Wallpaper applied</string>

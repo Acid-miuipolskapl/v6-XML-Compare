@@ -68,6 +68,7 @@
   <string name="delete_dialog_button">Delete</string>
   <string name="delete_failed">"Can't delete"</string>
   <string name="delete_file">Delete this file?</string>
+  <string name="delete_file_error">"Couldn't delete file"</string>
   <string name="delete_files">Delete %1$d files?</string>
   <string name="delete_folder">Delete this folder?</string>
   <string name="delete_folders">Delete %1$d folders?</string>
@@ -132,7 +133,7 @@
   <string name="group_title">%2$s from %1$s</string>
   <string name="instruction">Enter the following address into an FTP client:</string>
   <string name="instruction_pre">Touch to start FTP server</string>
-  <string name="just_now">Just now</string>
+  <string name="just_now">just now</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Category</string>
   <string name="kp_category_doc">Word</string>
@@ -233,6 +234,7 @@
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
   <string name="notification_title">Notify when new files are added to %1$s</string>
+  <string name="online_not_support">"Can't view this file online at the moment."</string>
   <string name="open_changed_file_message">"The file you are trying to open has been changed. Please:
 1. Download the file again to update it.
 2. Upload it your KuaiPan account."</string>
@@ -287,7 +289,7 @@
   <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
   <string name="rename_description">Renaming…</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
-  <string name="rlv_last_refreshing_time">Last scanned %1$s</string>
+  <string name="rlv_last_refreshing_time">Updated %1$s</string>
   <string name="rlv_loading_more">Just a sec…</string>
   <string name="rlv_pull_to_refresh">Pull to refresh</string>
   <string name="rlv_refreshing">Scanning files…</string>
@@ -347,6 +349,7 @@
   <string name="signin_error">"Can't connect to the server. Check your network connection."</string>
   <string name="signin_success">"You checked in!
 Free space added %1$s"</string>
+  <string name="smb_loading">Just a sec…</string>
   <string name="space_info">KuaiPan: %1$s available, %2$s in total</string>
   <string name="space_usage">Space used</string>
   <string name="start_server">Start server</string>
@@ -366,11 +369,11 @@ Free space added %1$s"</string>
   <string name="tab_local">Local</string>
   <string name="tab_more">More</string>
   <string name="tab_path">FOLDERS</string>
-  <string name="tab_source">Apps</string>
+  <string name="tab_source">APPS</string>
   <string name="tab_storage">STORAGE</string>
   <string name="terabyteShort">TB</string>
   <string name="title_more_source">More apps</string>
-  <string name="title_recent">Recent</string>
+  <string name="title_recent">RECENT</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
@@ -413,5 +416,5 @@ Free space added %1$s"</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yesterday">yesterday</string>
 </resources>
