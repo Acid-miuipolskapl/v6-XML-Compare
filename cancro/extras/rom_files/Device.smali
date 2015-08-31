@@ -4,6 +4,8 @@
 
 
 # static fields
+.field public static final IS_A9:Z
+
 .field public static final IS_CM:Z
 
 .field public static final IS_CM_TEST:Z
@@ -266,6 +268,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
 
+    const-string v0, "ido"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
+
     const-string v0, "libra"
 
     sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
@@ -285,6 +297,10 @@
     if-nez v0, :cond_2
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-nez v0, :cond_2
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
     if-eqz v0, :cond_9
 
@@ -394,6 +410,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
     if-eqz v0, :cond_1
 
@@ -1274,6 +1294,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1376,6 +1400,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
     if-nez v0, :cond_0
 
@@ -1679,6 +1707,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1750,6 +1782,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
     if-eqz v0, :cond_1
 
@@ -1867,6 +1903,10 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1966,6 +2006,10 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
     if-eqz v0, :cond_1
 
