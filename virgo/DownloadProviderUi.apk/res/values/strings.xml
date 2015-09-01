@@ -87,7 +87,9 @@
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
   <string name="download_wait_connect">Waiting to connect</string>
   <string name="download_when_network_connected">Download using data connection</string>
+  <string name="downloaded">Download complete</string>
   <string name="downloaded_empty">Empty</string>
+  <string name="downloading">Downloading…</string>
   <string name="downloading_empty">Empty</string>
   <string name="downloads_operating">Working…</string>
   <string name="dredge_xunlei_account">Create a Xunlei Account</string>
@@ -106,6 +108,8 @@
   <string name="high_speed_channel">Xunlei accelerator (paid):  </string>
   <string name="immediately_a_renewal">Renew now</string>
   <string name="input_valid_address">Enter a file path</string>
+  <string name="install">Install</string>
+  <string name="installing">Installing…</string>
   <string name="invalid_address">The file path you entered is invalid</string>
   <string name="keep_queued_download">Keep</string>
   <string name="media_filter">Media</string>
@@ -127,12 +131,14 @@
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
   <string name="one_month">1 month</string>
+  <string name="open">Open</string>
   <string name="open_download">Open</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
   <string name="original_price">Price</string>
   <string name="other_filter">Other</string>
   <string name="package_filter">Packages</string>
   <string name="pause_download">Pause</string>
+  <string name="paused">Paused</string>
   <string name="paused_by_app">Paused</string>
   <string name="paused_insufficient_space">Waiting for space</string>
   <string name="paused_queued_for_wifi">Waiting for network</string>
@@ -140,7 +146,7 @@ across all your devices with Xunlei"</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="paused_waiting_to_retry">Waiting to retry</string>
   <string name="period_of_validity">Validity:</string>
-  <string name="pref_download_revert_default">Use default downloads location</string>
+  <string name="pref_download_revert_default">Default</string>
   <string name="pref_download_settings_title">Download size limit</string>
   <string name="pref_download_storage_path">Create a new folder for downloads</string>
   <string name="pref_summary_any_bytes_popup">Always wait for WLAN connection to download files</string>
