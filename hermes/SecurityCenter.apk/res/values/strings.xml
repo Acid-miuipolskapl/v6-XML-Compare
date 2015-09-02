@@ -96,7 +96,7 @@
   <string name="button_text_cancel_optimize">Cancel</string>
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_clear">Clear</string>
-  <string name="button_text_create_shortcut">Create shortcut</string>
+  <string name="button_text_create_shortcut">Create</string>
   <string name="button_text_fix">Fix</string>
   <string name="button_text_ignore">Ignore</string>
   <string name="button_text_ignore_alert_title">Ignore this alert?</string>

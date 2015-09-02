@@ -212,7 +212,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_profile_switch_on">"View contacts' profile photos"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Couldn't turn on contact cards"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Tap to turn on contact cards</string>
-  <string name="contact_detail_profile_switch_on_success_toast">Contact cards turned on</string>
+  <string name="contact_detail_profile_switch_on_success_toast">Contact cards are already on</string>
   <string name="contact_directory_description">Directory %1$s</string>
   <string name="contact_edit_title_edit">Edit contact</string>
   <string name="contact_edit_title_insert">Save to %s</string>
@@ -1018,6 +1018,7 @@ To add a contact to your list of favorites:
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">Favorites</string>
+  <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin">Enter 2 and 8 to search for Alan Turing</string>
   <string name="t9_search_guide_zhuyin">Enter 2 and 8 to search for Alan Turing</string>
