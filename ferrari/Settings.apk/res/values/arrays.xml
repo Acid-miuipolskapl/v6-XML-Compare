@@ -1274,10 +1274,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Manually connect</item>
         <item>Always ask</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+    </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
@@ -1306,6 +1314,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Gallery</item>
         <item>Music</item>
         <item>Email</item>
+        <item>Video</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
