@@ -99,7 +99,7 @@
   <string name="hint_bar_select_image">%d selected</string>
   <string name="hint_clean_select_similar_image">Deleting duplicates…</string>
   <string name="hints_ad_header_left">Ad files</string>
-  <string name="hints_apk_header_left">Packages</string>
+  <string name="hints_apk_header_left">Install packages</string>
   <string name="hints_apk_version">Version %s</string>
   <string name="hints_app_uninstall_residual">Clean up residual uninstall files?</string>
   <string name="hints_cache_header_left">Cache files</string>

@@ -23,7 +23,6 @@
   <string name="click_to_play">Empty</string>
   <string name="confirm_delete_history_text">Delete selected items?</string>
   <string name="continue_play">Play</string>
-  <string name="default_cp_name">Qingting FM</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_title_download_quality">Download quality</string>
@@ -90,7 +89,7 @@
   <string name="priority_storage">Use external SD card</string>
   <string name="priority_storage_summary">Automatically download to external SD card if available</string>
   <string name="project_device">Mi Phone</string>
-  <string name="qingting_logo"> | %1$s </string>
+  <string name="qingting_logo"> | Qingting FM</string>
   <string name="remaining_time">"Time remaining: "</string>
   <string name="search_hint">Search</string>
   <string name="section">Featured</string>
@@ -98,7 +97,7 @@
   <string name="share">Share</string>
   <string name="share_button">Share</string>
   <string name="share_in_development"/>
-  <string name="share_text">from Xiaomi Radio [%1$s]</string>
+  <string name="share_text">from Radio</string>
   <string name="share_text_other">Listen to %1$s at %2$s.</string>
   <string name="similar_programs">Similar programs</string>
   <string name="sleep_mode_canceled">Sleep mode turned off</string>

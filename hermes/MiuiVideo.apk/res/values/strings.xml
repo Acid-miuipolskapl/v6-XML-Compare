@@ -355,7 +355,7 @@
   <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
   <string name="video_plugin">Video plug-in</string>
-  <string name="video_plugin_downloading">Downloading(%1$s), please wait a while.</string>
+  <string name="video_plugin_downloading">Downloading…</string>
   <string name="video_plugin_prepare">Just a sec…</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
@@ -398,7 +398,6 @@
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Watch HD video anywhere</string>
   <string name="vp_media_info">Show video info</string>
-  <string name="vp_media_type_banned">This type of media cannot be supported</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
   <string name="vp_mobile_network_using_negative">Cancel</string>
