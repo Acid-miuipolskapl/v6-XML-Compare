@@ -57,7 +57,6 @@
   <string name="face_beauty_intelligent_level_2">Mid</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="find_other_qrcode">QR code found</string>
-  <string name="hide_priority_in_system_settings">0</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">SD card is full</string>
@@ -353,11 +352,11 @@
   <string name="pref_camera_zsl_value_on">on</string>
   <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_default">0</string>
-  <string name="pref_face_beauty_close">off</string>
+  <string name="pref_face_beauty_close">i:0</string>
   <string name="pref_face_beauty_default">@string/pref_face_beauty_medium</string>
-  <string name="pref_face_beauty_high">0</string>
-  <string name="pref_face_beauty_low">-11</string>
-  <string name="pref_face_beauty_medium">-8</string>
+  <string name="pref_face_beauty_high">i:3</string>
+  <string name="pref_face_beauty_low">i:1</string>
+  <string name="pref_face_beauty_medium">i:2</string>
   <string name="pref_face_beauty_title">Beautify</string>
   <string name="pref_front_camera_delay_capture_default">-1</string>
   <string name="pref_front_mirror_default">auto</string>
