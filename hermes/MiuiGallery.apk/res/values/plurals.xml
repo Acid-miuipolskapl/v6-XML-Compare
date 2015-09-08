@@ -128,4 +128,28 @@
         <item quantity="other">%1$d days</item>
         <item quantity="one">%1$d day</item>
     </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d pictures to upload</item>
+        <item quantity="one">1 picture to upload</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d pictures to upload</item>
+        <item quantity="one">1 video to upload</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d videos and pictures to upload</item>
+        <item quantity="one">1 video and picture to upload</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Uploading %1$d images…</item>
+        <item quantity="one">Uploading 1 image…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Uploading %1$d videos…</item>
+        <item quantity="one">Uploading 1 video…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Uploading %1$d videos and pictures…</item>
+        <item quantity="one">Uploading 1 video and pitures…</item>
+    </plurals>
 </resources>
