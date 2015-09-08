@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources> 
     <string name="date_time">EEE, d MMM</string>
-    <string name="language">vi_VN</string>
+    <string name="language">vi</string>
     <string name="desc_date_format">EEE, d MMM</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', nhấp đúp để vào đồng hồ'</string>
     <string name="weather_type_0">Quang</string>
