@@ -1018,6 +1018,7 @@ To add a contact to your list of favorites:
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">Favorites</string>
+  <string name="success_message_import_from_account">Import done</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin">Enter 2 and 8 to search for Alan Turing</string>
   <string name="t9_search_guide_zhuyin">Enter 2 and 8 to search for Alan Turing</string>

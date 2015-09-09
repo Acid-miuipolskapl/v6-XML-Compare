@@ -182,7 +182,7 @@ Check your tracking number."</string>
   <string name="fraud_number_online_identification">Block unwanted calls</string>
   <string name="gallery">Gallery</string>
   <string name="general_btn_follow">Follow</string>
-  <string name="general_btn_follow_ok">Following</string>
+  <string name="general_btn_follow_ok">Followed</string>
   <string name="general_cancel_favorite_ok">Favorite removed</string>
   <string name="general_cancel_followed_ok">Unfollowed</string>
   <string name="general_delete_recent_ok">Recent deleted</string>
