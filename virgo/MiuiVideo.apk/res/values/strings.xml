@@ -415,6 +415,8 @@
   <string name="vp_offline_status_wait">Wait</string>
   <string name="vp_offline_title">Offline</string>
   <string name="vp_offline_title_name">Episode %d</string>
+  <string name="vp_play_youku_failed_get_video_info">"Couldn't get video info"</string>
+  <string name="vp_play_youku_time_out">Connection timed out</string>
   <string name="vp_player_plugin_dlg_neg_btn">Close</string>
   <string name="vp_player_plugin_dlg_no_content">No Video Player Plugin</string>
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
