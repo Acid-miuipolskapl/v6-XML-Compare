@@ -181,7 +181,7 @@ Please input the verification code in the email"</string>
 To activate your account, follow the 
  link in the message we've sent to your inbox."</string>
   <string name="passport_completed">Finish</string>
-  <string name="passport_confirm">Confirm</string>
+  <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Yes</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
@@ -190,7 +190,7 @@ To activate your account, follow the
   <string name="passport_email_or_id_hint_text">Email address or Mi Account ID</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_error_device_id">"Can't get device id"</string>
-  <string name="passport_error_dup_email">This email is already associated with another account</string>
+  <string name="passport_error_dup_email">The email you entered is already associated with another account.</string>
   <string name="passport_error_dup_phone">This phone number is already associated with another account</string>
   <string name="passport_error_email">The email address you entered is invalid</string>
   <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
@@ -200,7 +200,7 @@ To activate your account, follow the
   <string name="passport_error_empty_username">Enter your username</string>
   <string name="passport_error_empty_vcode">Enter verification code</string>
   <string name="passport_error_illegal_pwd">Invalid password</string>
-  <string name="passport_error_invalid_dev_id">Invalid device ID</string>
+  <string name="passport_error_invalid_dev_id">"Your device's ID is invalid."</string>
   <string name="passport_error_invalid_phone_num">Invalid phone number</string>
   <string name="passport_error_login">"Couldn't sign in"</string>
   <string name="passport_error_network">"Can't connect to network"</string>
@@ -210,11 +210,12 @@ To activate your account, follow the
   <string name="passport_error_sim_not_ready">"Can't find SIM card"</string>
   <string name="passport_error_ssl_hand_shake">Error with server connection. Try set your system date-time to current time.</string>
   <string name="passport_error_unknown">"Can't sign in"</string>
-  <string name="passport_error_user_name">Invalid username</string>
-  <string name="passport_error_verify_code">The code you entered is incorrect</string>
+  <string name="passport_error_user_name">The username you entered is invalid.</string>
+  <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">Forgot password</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
   <string name="passport_getting_verify_code">Getting</string>
@@ -232,6 +233,7 @@ To activate your account, follow the
   <string name="passport_login_instead_reg">Use this number</string>
   <string name="passport_login_instead_reg_with_email">Use this Email</string>
   <string name="passport_login_notice">Signing in…</string>
+  <string name="passport_login_short">Sign in</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
   <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
   <string name="passport_next">Next</string>
@@ -254,12 +256,12 @@ To activate your account, follow the
   <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
-  <string name="passport_reg_type_email">Create account using email</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Create account using other ways&lt;/u&gt;</string>
-  <string name="passport_reg_type_other_ways_title">Create account using other ways</string>
-  <string name="passport_reg_using_other_phone">Register using other phone number</string>
-  <string name="passport_reg_using_other_phone_number_prompt">Register using other phone number</string>
-  <string name="passport_reg_using_phone_number_prompt">Register with phone number</string>
+  <string name="passport_reg_type_email">Use email address</string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;Use your email address or an alternate number&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways_title">Create a Mi Account</string>
+  <string name="passport_reg_using_other_phone">Use alternate phone number</string>
+  <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
+  <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>

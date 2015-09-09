@@ -129,27 +129,27 @@
         <item quantity="one">%1$d day</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d pictures to upload</item>
-        <item quantity="one">1 picture to upload</item>
+        <item quantity="other">%1$d photos waiting to sync</item>
+        <item quantity="one">1 photo to upload</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d pictures to upload</item>
+        <item quantity="other">%1$d videos waiting to sync</item>
         <item quantity="one">1 video to upload</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d videos and pictures to upload</item>
-        <item quantity="one">1 video and picture to upload</item>
+        <item quantity="other">%1$d items waiting to sync</item>
+        <item quantity="one">1 item waiting to sync</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Uploading %1$d images…</item>
-        <item quantity="one">Uploading 1 image…</item>
+        <item quantity="other">Syncing %1$d photos…</item>
+        <item quantity="one">Syncing 1 photo…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Uploading %1$d videos…</item>
-        <item quantity="one">Uploading 1 video…</item>
+        <item quantity="other">Syncing %1$d videos…</item>
+        <item quantity="one">Syncing 1 video…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Uploading %1$d videos and pictures…</item>
-        <item quantity="one">Uploading 1 video and pitures…</item>
+        <item quantity="other">Syncing %1$d items…</item>
+        <item quantity="one">Syncing 1 item…</item>
     </plurals>
 </resources>
