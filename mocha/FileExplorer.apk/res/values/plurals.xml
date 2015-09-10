@@ -128,4 +128,28 @@
         <item quantity="few">Received %1$d files of App %2$s</item>
         <item quantity="many">Received %1$d files of App %2$s</item>
     </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Received %1$d files of WeChat</item>
+        <item quantity="zero">Received %1$d file of WeChat</item>
+        <item quantity="one">Received %1$d file of WeChat</item>
+        <item quantity="two">Received %1$d files of WeChat</item>
+        <item quantity="few">Received %1$d files of WeChat</item>
+        <item quantity="many">Received %1$d files of WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d files of WeChat Video will expire</item>
+        <item quantity="zero">%1$d file of WeChat Video will expire</item>
+        <item quantity="one">%1$d file of WeChat Video will expire</item>
+        <item quantity="two">%1$d files of WeChat Video will expire</item>
+        <item quantity="few">%1$d files of WeChat Video will expire</item>
+        <item quantity="many">%1$d files of WeChat Video will expire</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="zero">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="one">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="two">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="few">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="many">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+    </plurals>
 </resources>

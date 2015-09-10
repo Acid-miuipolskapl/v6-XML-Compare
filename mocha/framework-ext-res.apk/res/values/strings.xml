@@ -98,6 +98,8 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
   <string name="permlab_manageLocationPolicy">manage location policy</string>
   <string name="reboot_confirm_title">Your phone will reboot.</string>
+  <string name="reboot_info_auto_boot">Your phone will boot at %s due to auto boot schedule</string>
+  <string name="reboot_info_shutdown_alarm">Your phone will boot and alarm at %s</string>
   <string name="reboot_progress">Rebooting…</string>
   <string name="replace">Replace</string>
   <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>

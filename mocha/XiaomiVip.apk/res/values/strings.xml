@@ -42,7 +42,7 @@
   <string name="no_task">All challenges have been completed</string>
   <string name="passive_task">Background challenges</string>
   <string name="privilege">Privileges</string>
-  <string name="promote">Level up</string>
+  <string name="promote">Complete challenges to earn Pts</string>
   <string name="query_level_fail">"Couldn't get info"</string>
   <string name="query_user_tasks_fail">"Can't get challenge info"</string>
   <string name="seconds">%ds</string>
@@ -65,4 +65,5 @@
   <string name="upgraded">Account upgraded!</string>
   <string name="use">Use</string>
   <string name="validity">Expires on %s</string>
+  <string name="validity_unknown">Expiration unknown</string>
 </resources>
