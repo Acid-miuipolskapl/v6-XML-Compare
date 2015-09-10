@@ -1,3 +1,3 @@
-<strings>
-    <string name="title_name" value="Ghi chú" />
-</strings>
+<resources>
+    <string name="title_name">Ghi chú</string>
+</resources>

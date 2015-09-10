@@ -240,8 +240,8 @@
   <string name="menu_item_app_permissions_control">Permission manager</string>
   <string name="menu_item_control_app_permissions">Ask your permission before allowing apps to read your contacts, view your call history, change system settings, or access camera and other device resources</string>
   <string name="menu_item_force_stop">Force stop</string>
-  <string name="menu_item_notification_antispam_text_avail">Spam</string>
-  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Blocklist</string>
+  <string name="menu_item_notification_antispam_text_normal">Blocklist</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Error</string>
   <string name="menu_item_notification_power_text">Power</string>
@@ -263,7 +263,7 @@
   <string name="menu_text_networkassistants_danger">%s over</string>
   <string name="menu_text_networkassistants_remain">%s left</string>
   <string name="menu_text_power_manager">Battery usage</string>
-  <string name="menu_text_power_percent">%s battery</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="month_report_activity_label">Monthly report</string>
   <string name="month_report_click_reconnect_network">Try again</string>
   <string name="month_report_disconnect_tip">"Can't connect to the network"</string>

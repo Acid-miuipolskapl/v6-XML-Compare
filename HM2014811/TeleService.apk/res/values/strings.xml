@@ -1053,7 +1053,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
-  <string name="voip_setting">Voip settings</string>
+  <string name="voip_setting">VoIP settings</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="xdivert_button">X-Divert settings</string>
   <string name="xdivert_setting">X-Divert settings</string>

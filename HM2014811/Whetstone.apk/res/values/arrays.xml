@@ -9,6 +9,7 @@
         <item>com.miui.klo.bugreport/.service.FeedbackBackgroundService</item>
         <item>com.miui.voip/.service.RemoteMiuiVoipService</item>
         <item>com.miui.systemAdSolution/.splashscreen.SplashScreenService</item>
+        <item>com.xiaomi.metok/.MetokClService</item>
     </string-array>
     <string-array name="service_black_list">
         <item>com.igexin.sdk.PushService</item>
