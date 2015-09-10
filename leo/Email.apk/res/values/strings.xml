@@ -177,6 +177,7 @@
   <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
   <string name="attachment_download_all">Download all</string>
   <string name="attachment_image">Image</string>
+  <string name="attachment_list_search_hint">Search attachments</string>
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
   <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
@@ -322,7 +323,7 @@
   <string name="download_complete_not_cancel">Download finished</string>
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
-  <string name="download_message_failed_for_too_large">The message is too big to download.</string>
+  <string name="download_message_failed_for_too_large">Message is too big to download.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -408,7 +409,7 @@
   <string name="general_preference_text_zoom_small">Small</string>
   <string name="general_preference_text_zoom_tiny">Tiny</string>
   <string name="generic_attachment_problem">"Can't attach file."</string>
-  <string name="get_database_exception">Database abnormal, please clear data in App info of Mail</string>
+  <string name="get_database_exception">"Clear this app's data in Settings &gt; System apps and try again."</string>
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
   <string name="gmail_web_login_go">OK</string>
@@ -581,7 +582,7 @@
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
-  <string name="outbox_alert_description_sent_failed">Attachment size exceeds the server limit.</string>
+  <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
   <string name="outbox_alert_description_time_out">Network connection timed out</string>
   <string name="outbox_alert_duplicate_click">Still syncing…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
