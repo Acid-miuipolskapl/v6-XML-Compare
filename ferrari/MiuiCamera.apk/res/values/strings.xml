@@ -17,7 +17,7 @@
   <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
-  <string name="camera_face_beauty_simple_mode_open">i:2</string>
+  <string name="camera_face_beauty_simple_mode_open">@string/pref_face_beauty_medium</string>
   <string name="camera_label">Camera</string>
   <string name="camera_settings_label">Camera</string>
   <string name="camera_snap_mode_title">Quick snap mode</string>
@@ -57,7 +57,6 @@
   <string name="face_beauty_intelligent_level_2">Mid</string>
   <string name="face_beauty_intelligent_level_3">High</string>
   <string name="find_other_qrcode">QR code found</string>
-  <string name="hide_priority_in_system_settings">0</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">Internal storage is full</string>
@@ -209,7 +208,7 @@
   <string name="pref_camera_iso_value_iso3200">ISO3200</string>
   <string name="pref_camera_iso_value_iso400">ISO400</string>
   <string name="pref_camera_iso_value_iso800">ISO800</string>
-  <string name="pref_camera_jpegquality_default">@string/pref_camera_jpegquality_value_normal</string>
+  <string name="pref_camera_jpegquality_default">@string/pref_camera_jpegquality_value_high</string>
   <string name="pref_camera_jpegquality_entry_high">High</string>
   <string name="pref_camera_jpegquality_entry_low">Low</string>
   <string name="pref_camera_jpegquality_entry_normal">Standard</string>
@@ -354,10 +353,10 @@
   <string name="pref_capture_settings">Camera</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_face_beauty_close">i:0</string>
-  <string name="pref_face_beauty_default">i:2</string>
-  <string name="pref_face_beauty_high">0</string>
-  <string name="pref_face_beauty_low">-11</string>
-  <string name="pref_face_beauty_medium">-8</string>
+  <string name="pref_face_beauty_default">@string/pref_face_beauty_medium</string>
+  <string name="pref_face_beauty_high">i:3</string>
+  <string name="pref_face_beauty_low">i:1</string>
+  <string name="pref_face_beauty_medium">i:2</string>
   <string name="pref_face_beauty_title">Beautify</string>
   <string name="pref_front_camera_delay_capture_default">-1</string>
   <string name="pref_front_mirror_default">auto</string>

@@ -92,7 +92,7 @@
   <string name="call_recording_notification_title">Call recorded</string>
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
   <string name="call_recording_notification_toggle_title">Call recording notification</string>
-  <string name="call_settings">Call settings</string>
+  <string name="call_settings">Phone</string>
   <string name="call_title_redialing_with_times">Redialed %d times</string>
   <string name="caller_manage_header">Conference call %s</string>
   <string name="calling_via_template">Calling via %s</string>
