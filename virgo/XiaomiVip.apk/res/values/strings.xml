@@ -33,7 +33,7 @@
   <string name="level_exp_value" formatted="false">Points: %d/%d</string>
   <string name="level_info_format" formatted="false">"Level %d %d/%d
 %s"</string>
-  <string name="millis">%d milliseconds</string>
+  <string name="millis">%dms</string>
   <string name="minutes">%dm</string>
   <string name="my_award">My prizes</string>
   <string name="no_app">Install the app first</string>
@@ -42,7 +42,7 @@
   <string name="no_task">All challenges have been completed</string>
   <string name="passive_task">Background challenges</string>
   <string name="privilege">Privileges</string>
-  <string name="promote">Complete challenges to earn Pts</string>
+  <string name="promote">Complete challenges to earn points</string>
   <string name="query_level_fail">"Couldn't get info"</string>
   <string name="query_user_tasks_fail">"Can't get challenge info"</string>
   <string name="seconds">%ds</string>

@@ -840,7 +840,9 @@ with friends"</string>
   <string name="multiface_crop_help">Touch a face to begin</string>
   <string name="must_pick_file">Select an image</string>
   <string name="name_wrong">"This isn't %s"</string>
-  <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud now.</string>
+  <string name="need_to_turn_on_network">Connect to the internet</string>
+  <string name="need_to_turn_on_sync">"Turn on sync with Mi Cloud "</string>
+  <string name="need_to_turn_on_wlan">Connect to WLAN</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
@@ -864,6 +866,7 @@ device"</string>
   <string name="not_now">Not now</string>
   <string name="not_remind_any_more">"Don't show again"</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
+  <string name="number_of_uploading_finish">All files uploaded to Mi Cloud</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Only show camera roll</string>
   <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
@@ -1078,9 +1081,9 @@ device"</string>
   <string name="sync_album_in_proecess">Syncing album…</string>
   <string name="sync_album_set_error">"Can't sync photos. Check your data connection and try again."</string>
   <string name="sync_album_summary">Sync with Mi Cloud</string>
+  <string name="sync_cloud_space_full">Cloud storage full</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Downloading albums…</string>
-  <string name="sync_ok">Sync</string>
   <string name="sync_only_in_wifi">Only use Wi‑Fi to sync photos</string>
   <string name="sync_only_in_wifi_alert">Turning off this option may increase your mobile data usage.</string>
   <string name="sync_only_in_wifi_summary">Never use mobile data to sync photos</string>
