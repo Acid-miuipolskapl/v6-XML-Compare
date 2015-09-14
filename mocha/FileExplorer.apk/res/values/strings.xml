@@ -66,6 +66,7 @@
   <string name="compress_message">Compress to…</string>
   <string name="compress_title">Compress</string>
   <string name="confirm">OK</string>
+  <string name="confirm_clean">Clean up</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Prompt for internet connection</string>
   <string name="connection_error">"Couldn't connect"</string>
@@ -80,8 +81,12 @@
   <string name="decompress_cancel">Cancel</string>
   <string name="decompress_confirm">Extract</string>
   <string name="decompress_destination_error">"Extraction failed: can't extract files to here."</string>
+  <string name="decompress_encrypted_rar_not_supported">The encrypted rar file is not supported.</string>
   <string name="decompress_fail">Extraction failed: a file with the same name exists or the archive is corrupted.</string>
+  <string name="decompress_input_password">Please input password…</string>
+  <string name="decompress_password_error">Password is error. Please try again…</string>
   <string name="decompress_success">Extraction complete</string>
+  <string name="decompress_title">Extract</string>
   <string name="decompress_to">Extract to…</string>
   <string name="decompress_to_here">Extract here;</string>
   <string name="delete_dialog_button">Delete</string>
@@ -382,6 +387,7 @@ Free space added %1$s"</string>
   <string name="stay_awake_title">Stay awake</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_info">%1$s available</string>
+  <string name="storage_info_detail">Available:%1$s Total:%1$s</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
@@ -399,6 +405,7 @@ Free space added %1$s"</string>
   <string name="title_expire_video">About to expire</string>
   <string name="title_more_source">More apps</string>
   <string name="title_recent">Recent</string>
+  <string name="title_select_volume">Select Volume</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
