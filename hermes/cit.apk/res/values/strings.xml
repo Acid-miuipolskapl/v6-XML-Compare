@@ -413,6 +413,7 @@ the selected?"</string>
   <string name="keyboardlight_info">Please note if the keyboard light blink or not</string>
   <string name="keyled_off">Key led off</string>
   <string name="keyled_on">Key led</string>
+  <string name="keyled_on_open">Key led on</string>
   <string name="latitude">Latitude :</string>
   <string name="lcd_click_continue">Click screen to continue</string>
   <string name="lcd_test">Color</string>
