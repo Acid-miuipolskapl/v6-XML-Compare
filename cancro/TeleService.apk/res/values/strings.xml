@@ -655,13 +655,13 @@ Will use preferred network instead."</string>
   <string name="nw_subset_unlock_success">SIM Network Subset unlock successful.</string>
   <string name="ok">OK</string>
   <string name="old_password_label">Current 4-digit password</string>
-  <string name="old_pin2_label">Old PIN2</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">Old PIN</string>
   <string name="open_miui">Open</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
   <string name="order_by_name">Alphabetical</string>
   <string name="order_by_recent">Frequently used</string>
-  <string name="order_id">"Order ID: "</string>
+  <string name="order_id">Order ID:%1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Order status: failed</string>
   <string name="order_status_successful">Order status: complete</string>
@@ -1025,7 +1025,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="uplmn_list_setting_title">Preferred networks</string>
   <string name="uplmn_numeric_is_empty">Enter a network ID</string>
   <string name="use_history">Activity</string>
-  <string name="use_history_duration_hour">%1$h</string>
+  <string name="use_history_duration_hour">%1$shour</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Ended: %1$s</string>
   <string name="use_history_starttime">Started: %1$s</string>

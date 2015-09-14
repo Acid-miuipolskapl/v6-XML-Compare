@@ -528,6 +528,15 @@
     goto :goto_0
 .end method
 
+.method public static isDelayCaptureSeperated()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    return v0
+.end method
+
 .method public static isEffectWatermarkFilted()Z
     .locals 1
 
@@ -1228,6 +1237,15 @@
     goto :goto_0
 .end method
 
+.method public static isSupportedFishEyeMode()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    return v0
+.end method
+
 .method public static isSupportedFlashIconFlicker()Z
     .locals 1
 
@@ -1843,6 +1861,15 @@
     const/4 v0, 0x0
 
     goto :goto_0
+.end method
+
+.method public static isSupportedTiltShift()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
+
+    return v0
 .end method
 
 .method public static isSupportedTorchCapture()Z
