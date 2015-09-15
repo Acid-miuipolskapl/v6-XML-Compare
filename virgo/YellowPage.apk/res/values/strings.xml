@@ -178,6 +178,7 @@ Check your tracking number."</string>
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="follow_label">Follow %1$s</string>
+  <string name="follow_processing">processing</string>
   <string name="follow_success">Now following %1$s.</string>
   <string name="fraud_number_online_identification">Block unwanted calls</string>
   <string name="gallery">Gallery</string>
