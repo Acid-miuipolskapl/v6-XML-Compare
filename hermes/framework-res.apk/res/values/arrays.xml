@@ -279,9 +279,9 @@
         <item>10</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>2</item>
-        <item>9</item>
-        <item>11</item>
+        <item>15</item>
+        <item>18</item>
+        <item>23</item>
         <item>31</item>
         <item>81</item>
         <item>121</item>
@@ -297,7 +297,7 @@
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>8</item>
-        <item>40</item>
+        <item>8</item>
         <item>40</item>
         <item>40</item>
         <item>40</item>
