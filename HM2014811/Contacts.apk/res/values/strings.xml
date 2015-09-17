@@ -371,6 +371,7 @@ Contact cards are turned off"</string>
   <string name="email_mobile">Email mobile</string>
   <string name="email_other">Email</string>
   <string name="email_work">Email work</string>
+  <string name="emergency_number_label">Emergency number</string>
   <string name="emptyGroup">No people in this group</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Type person's name"</string>
@@ -452,7 +453,7 @@ Reason: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_button">Import contact</string>
-  <string name="import_failure_no_vcard_file">No vCard file found on the SD card.</string>
+  <string name="import_failure_no_vcard_file">No vCard files found on the SD card.</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -498,6 +499,7 @@ Reason: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
   <string name="in_call_show_pick_video">Choose video</string>
   <string name="in_call_show_preview">Preview</string>
+  <string name="in_call_show_preview_reshoot">Retry</string>
   <string name="in_call_show_recording">Recording…</string>
   <string name="in_call_show_reshoot">Record again</string>
   <string name="in_call_show_save_completed">Profile video saved</string>
@@ -612,6 +614,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_message">"You need to add this device's phone number to your Mi Account to use this feature."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Add number</string>
   <string name="miprofile_bind_account_alertdialog_title">Add phone number</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edit profile</string>
   <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
   <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
@@ -625,7 +628,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_agenda_yesterday">%1$s wants to exchange contact cards</string>
   <string name="miprofile_request_agree">Accept</string>
   <string name="miprofile_request_agree_exchange_profile">Exchanged contact cards</string>
-  <string name="miprofile_request_agreed">%1$s agreed to exchange contact cards</string>
+  <string name="miprofile_request_agreed">%1$s agreed to exchange contact card with me</string>
   <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
   <string name="miprofile_request_alertdialog_title">Exchange contacts cards</string>
   <string name="miprofile_request_clear_alertdialog_message">Clear contact card exchange history?</string>
@@ -1089,8 +1092,8 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Yellow pages</string>
-  <string name="yellowPageNavigationLabel">Yellow pages</string>
+  <string name="yellowPageNavigationIconLabel">Directory</string>
+  <string name="yellowPageNavigationLabel">Directory</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
