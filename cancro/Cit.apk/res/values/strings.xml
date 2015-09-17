@@ -206,7 +206,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sd_plugout_check_title">SD card (removal)</string>
   <string name="cit_sd_unmount">Unmount SD card</string>
   <string name="cit_sd_unmount_sucess">SD card unmounted</string>
-  <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below</string>
+  <string name="cit_sim_check_summary">Make sure SIM card info and status are displayed correctly.</string>
   <string name="cit_sim_check_title">SIM card</string>
   <string name="cit_sim_error_unknown">Unknown</string>
   <string name="cit_sim_network_operator">Network service provider:</string>
@@ -302,7 +302,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_usb_OTG_out">USB OTG device removed</string>
   <string name="cit_usb_charger_in">Charging via USB</string>
   <string name="cit_usb_charger_out">USB charger disconnected</string>
-  <string name="cit_version_check_summary">Below is OS version info. Confirm that the info highlighted in green is correct.</string>
+  <string name="cit_version_check_summary">"Device's info is below. Confirm that the info highlighted in green is correct."</string>
   <string name="cit_version_check_title">Check version info</string>
   <string name="cit_vga_camera_capture">Camera</string>
   <string name="cit_vga_camera_capture_fail">Failed to take picture</string>
