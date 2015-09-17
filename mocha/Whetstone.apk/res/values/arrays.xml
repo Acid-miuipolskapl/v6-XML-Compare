@@ -20,7 +20,17 @@
     </string-array>
     <string-array name="deepclean_normal_white_list">
         <item>com.miui.home</item>
+        <item>com.android.systemui</item>
         <item>android</item>
+        <item>com.miui.whetstone</item>
+        <item>com.android.phone</item>
+        <item>com.miui.bugreport</item>
+        <item>com.android.keyguard</item>
+        <item>com.miui.powerkeeper</item>
+        <item>com.google.android.music</item>
+        <item>com.android.bluetooth</item>
+        <item>com.miui.networkassistant</item>
+        <item>com.android.updater</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>
