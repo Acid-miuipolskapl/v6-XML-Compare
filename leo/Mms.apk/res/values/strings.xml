@@ -284,6 +284,7 @@
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
+  <string name="mx_b2c_message_desc">Network notifications</string>
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">%1$d SMS and %2$d MMS sent</string>
