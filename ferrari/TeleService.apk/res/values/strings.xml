@@ -673,7 +673,7 @@ Will use preferred network instead."</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Current 4-digit password</string>
-  <string name="old_pin2_label">Old PIN2</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">Old PIN</string>
   <string name="onHold">On hold</string>
   <string name="onscreenAddCallText">Add call</string>
