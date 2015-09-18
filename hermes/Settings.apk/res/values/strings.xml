@@ -72,7 +72,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">All</string>
+  <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
@@ -1071,6 +1071,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="edge_mode_back_summary">Double tap the edge of your phone to go back</string>
   <string name="edge_mode_clean">Clear system cache</string>
   <string name="edge_mode_clean_summary">Slide on both edges simultaneously to clear system cache</string>
+  <string name="edge_mode_guide_title">Touch the highlighted area to use edge controls</string>
+  <string name="edge_mode_notification_summary">Tap to learn more.</string>
+  <string name="edge_mode_notification_title">Use edge controls</string>
   <string name="edge_mode_photo">Take a photo</string>
   <string name="edge_mode_photo_summary">While in Camera app, tap the edge of your phone to trigger shutter, and tap again to take a photo</string>
   <string name="edge_mode_screenshot">Screenshot</string>
@@ -1270,8 +1273,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="google_wallet">Google Wallet</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
-  <string name="hand_mode_notification_summary">Tap to learn more.</string>
-  <string name="hand_mode_notification_title">Use edge controls</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>

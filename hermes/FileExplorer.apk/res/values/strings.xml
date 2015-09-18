@@ -62,7 +62,7 @@
   <string name="clean_trash_box">Empty trash</string>
   <string name="cleaning">Cleaning…</string>
   <string name="close">Close</string>
-  <string name="compress_fail">Compression failed: a file with the same name already exists.</string>
+  <string name="compress_fail">"Couldn't compress. A file with the same name already exists."</string>
   <string name="compress_message">Compress to…</string>
   <string name="compress_title">Compress</string>
   <string name="confirm">OK</string>
@@ -80,15 +80,15 @@
   <string name="data_capacity">Data %1$s</string>
   <string name="decompress_cancel">Cancel</string>
   <string name="decompress_confirm">Extract</string>
-  <string name="decompress_destination_error">"Extraction failed: can't extract files to here."</string>
-  <string name="decompress_encrypted_rar_not_supported">The encrypted rar file is not supported.</string>
-  <string name="decompress_fail">Extraction failed: a file with the same name exists or the archive is corrupted.</string>
-  <string name="decompress_input_password">Please input password…</string>
-  <string name="decompress_password_error">Password is error. Please try again…</string>
-  <string name="decompress_success">Extraction complete</string>
+  <string name="decompress_destination_error">"Can't extract files to this location."</string>
+  <string name="decompress_encrypted_rar_not_supported">Encrypted rar files are not supported.</string>
+  <string name="decompress_fail">"Couldn't extract files. A file with the same name exists or the archive is corrupted."</string>
+  <string name="decompress_input_password">Enter password</string>
+  <string name="decompress_password_error">The password you entered is incorrect.</string>
+  <string name="decompress_success">Finished extracting</string>
   <string name="decompress_title">Extract</string>
-  <string name="decompress_to">Extract to…</string>
-  <string name="decompress_to_here">Extract here;</string>
+  <string name="decompress_to">Extract files to…</string>
+  <string name="decompress_to_here">Extract here</string>
   <string name="delete_dialog_button">Delete</string>
   <string name="delete_failed">"Can't delete"</string>
   <string name="delete_file">Delete this file?</string>
@@ -141,10 +141,10 @@
   <string name="folder_name_empty">Folder name cannot be empty</string>
   <string name="folder_name_illegal">Invalid folder name</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Touch&lt;/a&gt;to go to trash</string>
-  <string name="ftp_account_req_notice">4-16 chars, letters and digits, case sensitive</string>
-  <string name="ftp_anonymous_login">Anonymous sign in</string>
-  <string name="ftp_invalid_username_or_password">Invalid username or password.</string>
-  <string name="ftp_open_port_error">Error opening port: check your network connection or reset port number.</string>
+  <string name="ftp_account_req_notice">4-16 characters, letters and digits, case sensitive</string>
+  <string name="ftp_anonymous_login">Anonymous sign-in</string>
+  <string name="ftp_invalid_username_or_password">The username or password you entered is invalid.</string>
+  <string name="ftp_open_port_error">"Couldn't open port. Check your network connection or reset port number."</string>
   <string name="ftp_password_hint">Password</string>
   <string name="ftp_port_number">Port number</string>
   <string name="ftp_transfer_secure">Security</string>
@@ -182,7 +182,7 @@
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Notice</string>
   <string name="kuaipan_prompt_message">"
- Unfortunately our server is down at the moment. Please try again later…
+Our server is down at the moment. Please try again later…
 "</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Login at kuaipan.cn</string>
@@ -372,7 +372,7 @@
   <string name="share_box">Shared</string>
   <string name="share_box_receive">Received</string>
   <string name="share_box_send">Sent</string>
-  <string name="share_link_failed">Failed to generate link.</string>
+  <string name="share_link_failed">"Couldn't generate link."</string>
   <string name="show_message">You need to download this file before you can open it.</string>
   <string name="sign_description">Signing in…</string>
   <string name="signin_error">"Can't connect to the server. Check your network connection."</string>

@@ -250,7 +250,7 @@ Contact cards are turned off"</string>
   <string name="default_ringtone">Default ringtone</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
-  <string name="deleteConfirmation_title">Delete</string>
+  <string name="deleteConfirmation_title">Delete this contact?</string>
   <string name="delete_call_log_message">Delete call history?</string>
   <string name="delete_call_log_selected_title">Delete selected call history?</string>
   <string name="delete_call_log_title">Choose call history</string>
@@ -371,6 +371,7 @@ Contact cards are turned off"</string>
   <string name="email_mobile">Email mobile</string>
   <string name="email_other">Email</string>
   <string name="email_work">Email work</string>
+  <string name="emergency_number_label">Emergency number</string>
   <string name="emptyGroup">No people in this group</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Type person's name"</string>
@@ -452,7 +453,7 @@ Reason: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_button">Import contact</string>
-  <string name="import_failure_no_vcard_file">No vCard file found on the SD card.</string>
+  <string name="import_failure_no_vcard_file">No vCard files found on the SD card.</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -498,6 +499,7 @@ Reason: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
   <string name="in_call_show_pick_video">Choose video</string>
   <string name="in_call_show_preview">Preview</string>
+  <string name="in_call_show_preview_reshoot">Retry</string>
   <string name="in_call_show_recording">Recording…</string>
   <string name="in_call_show_reshoot">Record again</string>
   <string name="in_call_show_save_completed">Profile video saved</string>
@@ -612,6 +614,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_message">"You need to add this device's phone number to your Mi Account to use this feature."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Add number</string>
   <string name="miprofile_bind_account_alertdialog_title">Add phone number</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Edit profile</string>
   <string name="miprofile_error_accept_self">"Can't exchange your own contact card"</string>
   <string name="miprofile_error_no_miaccount">Sign in to your Mi Account</string>
@@ -625,7 +628,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_agenda_yesterday">%1$s wants to exchange contact cards</string>
   <string name="miprofile_request_agree">Accept</string>
   <string name="miprofile_request_agree_exchange_profile">Exchanged contact cards</string>
-  <string name="miprofile_request_agreed">%1$s agreed to exchange contact cards</string>
+  <string name="miprofile_request_agreed">%1$s agreed to exchange contact card with me</string>
   <string name="miprofile_request_alertdialog_message">Your card will be sent automatically after this person accepts.</string>
   <string name="miprofile_request_alertdialog_title">Exchange contacts cards</string>
   <string name="miprofile_request_clear_alertdialog_message">Clear contact card exchange history?</string>
@@ -873,7 +876,7 @@ To add a contact to your list of favorites:
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">Cancel merge contacts</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains info from multiple accounts. Info from read-only accounts will be hidden in your contacts list.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contains info from multiple accounts. Any info that can't be deleted will be hidden from your contacts list."</string>
   <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
   <string name="readingSimContacts">Reading SIM card…</string>
   <string name="reading_vcard_canceled_title">Reading vCard data canceled</string>
@@ -936,7 +939,7 @@ To add a contact to your list of favorites:
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
   <string name="share_over_limit">"More than 1000, can't be shared"</string>
-  <string name="share_via">Send</string>
+  <string name="share_via">Send using</string>
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a shortcut</string>
   <string name="shortcutContact">Contact</string>
