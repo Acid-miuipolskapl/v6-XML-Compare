@@ -13,7 +13,7 @@
         <item quantity="one">1 song will be downloaded</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Delete%d playlists?</item>
+        <item quantity="other">Delete %d playlists?</item>
         <item quantity="one">Delete %d playlist?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">

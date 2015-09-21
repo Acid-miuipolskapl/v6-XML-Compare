@@ -64,7 +64,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">All</string>
+  <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
   <string name="activate_miui_screensaver">Screensaver during sleep</string>
