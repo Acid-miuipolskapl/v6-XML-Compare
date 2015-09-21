@@ -177,6 +177,26 @@
         <item>ct_1</item>
         <item>ct_2</item>
     </string-array>
+    <integer-array name="support_networktypes_cmda_master">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="support_networktypes_cmda_vice">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_master">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_vice">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
     <string-array name="clir_display_values">
         <item>Network default</item>
         <item>Hide number</item>
@@ -337,5 +357,17 @@
         <item>china_mobile</item>
         <item>china_unicom</item>
         <item>china_telecom</item>
+    </string-array>
+    <string-array name="wifi_calling_preference_choices">
+        <item>@string/wifi_preferred</item>
+        <item>@string/wifi_only</item>
+        <item>@string/cellular_preferred</item>
+        <item>@string/cellular_only</item>
+    </string-array>
+    <string-array name="wifi_calling_preference_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </string-array>
 </resources>

@@ -227,6 +227,8 @@
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
+  <string name="compose_attachment_number_limit">The number of attachment can not exceed 10 !</string>
+  <string name="compose_picturesexceedlimits">The number of inline image can not exceed 5 !</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
@@ -245,6 +247,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
+  <string name="contact_in_filter_call_phone_str">call: %s</string>
+  <string name="contact_in_filter_title">Comes from him(her).</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
@@ -452,7 +456,7 @@
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
-  <string name="mailbox_list_account_selector_combined_view">Combined inbox</string>
+  <string name="mailbox_list_account_selector_combined_view">Combined Account</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>

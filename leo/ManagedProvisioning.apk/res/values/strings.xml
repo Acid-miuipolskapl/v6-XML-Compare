@@ -36,6 +36,11 @@
   <string name="managed_provisioning_not_supported_by_launcher">"Your work profile isn't supported by this launcher app. You'll need to switch to a launcher that's compatible."</string>
   <string name="ok_setup">OK</string>
   <string name="pick_launcher">Ok</string>
+  <string name="profile_owner_cancel_cancel">No</string>
+  <string name="profile_owner_cancel_message">Are you sure you want to stop setting up?</string>
+  <string name="profile_owner_cancel_ok">Yes</string>
+  <string name="profile_owner_cancel_title">Stop setting up?</string>
+  <string name="profile_owner_cancelling">Cancelling...</string>
   <string name="progress_connect_to_wifi">Connecting to WLAN...</string>
   <string name="progress_data_process">Processing setup data...</string>
   <string name="progress_download">Downloading the admin app...</string>

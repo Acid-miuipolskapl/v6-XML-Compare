@@ -67,6 +67,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_blue_tooth_address_check_title">Get Bluetooth address</string>
   <string name="cit_blue_tooth_scan_check_summary">Below is the info of the Bluetooth devices that were detected nearby.</string>
   <string name="cit_blue_tooth_scan_check_title">Bluetooth scan</string>
+  <string name="cit_blue_torch_on">Turn on white flash light</string>
   <string name="cit_bluetooth_address_open_error">"Couldn't get Bluetooth address. An error occurred while opening Bluetooth device."</string>
   <string name="cit_bluetooth_not_support">"This device doesn't support Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Scan again</string>
@@ -76,6 +77,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_bluetooth_scanning_opening_bluetooth">Opening Bluetooth device…</string>
   <string name="cit_button_light_off">Buttons light off</string>
   <string name="cit_button_light_on">Buttons light on</string>
+  <string name="cit_button_light_writein">Brightness of button write in</string>
   <string name="cit_calibration_fail">Calibration failed</string>
   <string name="cit_calibration_pass">Calibration passed</string>
   <string name="cit_camera_calibration_summary">"Test instructions:
@@ -105,7 +107,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_fm_not_supported">"This device doesn't support FM"</string>
   <string name="cit_fm_open_1">Start FM - 88.5</string>
   <string name="cit_fm_open_2">Start FM - 107.9</string>
-  <string name="cit_fm_open_bluetooth">Opening Bluetooth…</string>
+  <string name="cit_fm_open_bluetooth">Opening FM…</string>
   <string name="cit_fm_start_service">Start audio</string>
   <string name="cit_front_camera_check_summary">"Test instructions:
 
@@ -162,6 +164,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
+  <string name="cit_left_button_light">Left button light</string>
   <string name="cit_light_sensor_check_summary">DAC value should appear below</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
@@ -174,6 +177,7 @@ Touch the screen to start GPS…"</string>
 4.Tap the Check icon. The system will save the photo automatically.
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
+  <string name="cit_minus_one">Minus 1</string>
   <string name="cit_name">Hardware tests</string>
   <string name="cit_not_available">"This test isn't available on this version of MIUI"</string>
   <string name="cit_notificationlight">Notification light</string>
@@ -186,6 +190,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_play_sd_mp3_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's external speakers when you open this test."</string>
   <string name="cit_play_sd_mp3_title">Play MP3 stored on SD card</string>
   <string name="cit_playing_sd_mp3">Playing music.mp3…</string>
+  <string name="cit_plus_one">Plus 1</string>
   <string name="cit_pointer_location_title">Touch sensor</string>
   <string name="cit_power_check_summary">The amount of battery charge should be expressed as a percentage below.</string>
   <string name="cit_power_check_title">Battery indicator</string>
@@ -197,6 +202,7 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
+  <string name="cit_right_button_light">Right button light</string>
   <string name="cit_sd_fail">An error occurred.</string>
   <string name="cit_sd_mount">Mount SD card</string>
   <string name="cit_sd_mount_sucess">SD card mounted</string>
@@ -241,6 +247,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_bluetooth_tx_l">Enter Bluetooth BR/EDR 2.402GHz Freq Test Mode</string>
   <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
+  <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
   <string name="cit_tool_log">Get logs</string>
   <string name="cit_tool_log_bugreport">Bug report</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -331,4 +338,5 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_wifi_ap_scanning">Scanning…</string>
   <string name="cit_wifi_fail_to_scan">"Couldn't scan for networks"</string>
   <string name="cit_wifi_state_refresh">Refresh</string>
+  <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
 </resources>

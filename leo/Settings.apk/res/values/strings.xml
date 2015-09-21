@@ -72,7 +72,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">All</string>
+  <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>

@@ -772,7 +772,7 @@ with friends"</string>
   <string name="invite_sharer_title">"Invite %1$s's %2$s"</string>
   <string name="invite_tip">"Share your baby's photos"</string>
   <string name="invited_tip">Invited</string>
-  <string name="is">Is</string>
+  <string name="is">Yes</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Can't download photos that haven't been synced with Mi Cloud."</string>
   <string name="item_not_sync_for_origin_video">"Can't download videos that haven't been synced with Mi Cloud."</string>
@@ -864,7 +864,7 @@ device"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
-  <string name="not_is">not</string>
+  <string name="not_is">No</string>
   <string name="not_now">Not now</string>
   <string name="not_remind_any_more">"Don't show again"</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
@@ -1012,7 +1012,7 @@ device"</string>
   <string name="select_auto_upload_albums">Choose albums to sync</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select items</string>
-  <string name="select_item_face">"Photos may be '%s'"</string>
+  <string name="select_item_face">"Is this '%s'?"</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
   <string name="select_video">Select video</string>
   <string name="send">Send</string>

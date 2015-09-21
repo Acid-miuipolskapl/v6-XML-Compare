@@ -137,6 +137,14 @@
         <item>中文 (简体)</item>
         <item>中文 (繁體)</item>
     </string-array>
+    <array name="sim_colors">
+        <item>@color/Teal_700</item>
+        <item>@color/Blue_700</item>
+        <item>@color/Indigo_700</item>
+        <item>@color/Purple_700</item>
+        <item>@color/Pink_700</item>
+        <item>@color/Red_700</item>
+    </array>
     <string-array name="config_statusBarIcons">
         <item>headset</item>
         <item>mikey</item>
@@ -233,6 +241,7 @@
         <item>7</item>
     </integer-array>
     <array name="config_cdma_dun_supported_types" />
+    <array name="config_tether_apndata" />
     <array name="config_usbHostBlacklist" />
     <array name="config_serialPorts" />
     <integer-array name="config_longPressVibePattern">
@@ -488,9 +497,15 @@
         <item>Trying to turn on mobile data</item>
     </string-array>
     <array name="boost_activityList" />
+    <string-array name="config_system_condition_providers">
+        <item>countdown</item>
+        <item>downtime</item>
+        <item>next_alarm</item>
+    </string-array>
     <string-array name="config_sms_convert_destination_number_support">
         <item>false</item>
     </string-array>
+    <array name="config_cdma_international_roaming_indicators" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
