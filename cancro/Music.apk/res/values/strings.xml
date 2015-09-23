@@ -2,8 +2,8 @@
 <resources>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
-  <string name="action_item_add">Add</string>
-  <string name="action_item_add_song">Add</string>
+  <string name="action_item_add">Add to playlist</string>
+  <string name="action_item_add_song">Add to playlist</string>
   <string name="action_item_add_to_current_playlist">Current playlist</string>
   <string name="action_item_add_to_favorite_playlist">Favorite playlist</string>
   <string name="action_item_add_to_new_playlist">New</string>
@@ -66,7 +66,7 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="delete">Delete</string>
-  <string name="delete_file_as_well">Delete local file as well</string>
+  <string name="delete_file_as_well">Permanently delete this song</string>
   <string name="delete_file_end">Delete permanently</string>
   <string name="delete_file_start">Delete selected files</string>
   <string name="desc_online_personal_radio">Just for you</string>
