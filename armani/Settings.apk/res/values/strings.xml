@@ -64,7 +64,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">All</string>
+  <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
   <string name="activate_miui_screensaver">Screensaver during sleep</string>
@@ -1622,6 +1622,7 @@ Select your operating system:"</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
   <string name="oldman_mode_settings_caption">Lite mode settings</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
+  <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="only_when_charging">Only when plugged in</string>
@@ -1746,8 +1747,9 @@ Select your operating system:"</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
-  <string name="preferred_app_settings_reset">Restore defaults</string>
-  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI factory presets.</string>
+  <string name="preferred_app_settings_reset">Reset to defaults</string>
+  <string name="preferred_app_settings_reset_button">Reset</string>
+  <string name="preferred_app_settings_reset_message">Default app preferences will be reset to MIUI factory presets.</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put phone contents at risk. Use %2$s instead.</string>
   <string name="preferred_application_warning_replace">Replace</string>
