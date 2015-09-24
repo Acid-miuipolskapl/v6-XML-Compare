@@ -92,7 +92,7 @@
   <string name="baby_album_sharers_page_title">Share with families</string>
   <string name="baby_birthday">Birthday</string>
   <string name="baby_lock_wallpaper">Lock screen wallpaper</string>
-  <string name="baby_lock_wallpaper_cancelled">Changed to default lock screen wallpaper</string>
+  <string name="baby_lock_wallpaper_cancelled">Restored default lock screen wallpaper</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Apply current settings?</string>
   <string name="baby_lock_wallpaper_title">"Use baby photos as lock screen's wallpaper"</string>
   <string name="baby_name_cannot_empty">Enter name</string>
@@ -124,7 +124,7 @@
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Photos and videos you take with the Camera app will be displayed here.</string>
   <string name="cancel">Cancel</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Cancel baby wallpaper and reset default lock screen wallpaper?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Restore default lock screen wallpaper?</string>
   <string name="cancel_hint">Operation canceled</string>
   <string name="cannot_delete_sharer_photo">"Can't delete %s items added by other members."</string>
   <string name="cannot_remove_creator">"Can't remove creator"</string>
@@ -772,7 +772,7 @@ with friends"</string>
   <string name="invite_sharer_title">"Invite %1$s's %2$s"</string>
   <string name="invite_tip">"Share your baby's photos"</string>
   <string name="invited_tip">Invited</string>
-  <string name="is">Is</string>
+  <string name="is">Yes</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">"Can't download photos that haven't been synced with Mi Cloud."</string>
   <string name="item_not_sync_for_origin_video">"Can't download videos that haven't been synced with Mi Cloud."</string>
@@ -864,7 +864,7 @@ device"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
-  <string name="not_is">not</string>
+  <string name="not_is">No</string>
   <string name="not_now">Not now</string>
   <string name="not_remind_any_more">"Don't show again"</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
@@ -1012,7 +1012,7 @@ device"</string>
   <string name="select_auto_upload_albums">Choose albums to sync</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select items</string>
-  <string name="select_item_face">"Photos may be '%s'"</string>
+  <string name="select_item_face">"Is this '%s'?"</string>
   <string name="select_too_much_to_send_tips">"Can't send that many items (maximum %d items)."</string>
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
@@ -1021,14 +1021,14 @@ device"</string>
   <string name="send_public_url">Send album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as lock screen wallpaper</string>
-  <string name="set_baby_icon_picker_default_title">Set baby icon</string>
+  <string name="set_baby_icon_picker_default_title">Set thumbnail photo</string>
   <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
   <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
-  <string name="set_bg_file_exist_message">Conflict between photo names</string>
+  <string name="set_bg_file_exist_message">This item already exists</string>
   <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
   <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
   <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
-  <string name="set_bg_picker_default_title">Set top thumbnail</string>
+  <string name="set_bg_picker_default_title">Set cover photo</string>
   <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
   <string name="set_bg_unknow_reasons">Unknown error</string>
   <string name="set_hidden_album">Hide</string>
@@ -1093,6 +1093,7 @@ device"</string>
   <string name="sync_album_in_proecess">Syncing album…</string>
   <string name="sync_album_set_error">"Can't sync photos. Check your data connection and try again."</string>
   <string name="sync_album_summary">Sync with Mi Cloud</string>
+  <string name="sync_battery_low">Low battery</string>
   <string name="sync_cloud_space_full">Cloud storage full</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Downloading albums…</string>

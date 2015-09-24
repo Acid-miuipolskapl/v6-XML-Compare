@@ -72,6 +72,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Choose a recording</string>
+  <string name="record_quliaty_preference_title">Recording quality</string>
   <string name="recording">Recording</string>
   <string name="recording_stopped">Stopped</string>
   <string name="rename">Rename</string>
