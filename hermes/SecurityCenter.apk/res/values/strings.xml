@@ -189,6 +189,7 @@
   <string name="hints_last_virus_scan_yesterday_virus">Scanned yesterday: Dangerous</string>
   <string name="hints_loading_text">Loading…</string>
   <string name="hints_need_quick_scan">Recommended quick scan</string>
+  <string name="hints_need_regular_scan">Scan your device regularly</string>
   <string name="hints_power_percent_title">battery</string>
   <string name="hints_remember_choice">Remember preference</string>
   <string name="hints_risk_apk_list_item_summary">Risk (apk)</string>

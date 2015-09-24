@@ -2,8 +2,8 @@
 <resources>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
-  <string name="action_item_add">Add</string>
-  <string name="action_item_add_song">Add</string>
+  <string name="action_item_add">Add to playlist</string>
+  <string name="action_item_add_song">Add to playlist</string>
   <string name="action_item_add_to_current_playlist">Current playlist</string>
   <string name="action_item_add_to_favorite_playlist">Favorite playlist</string>
   <string name="action_item_add_to_new_playlist">New</string>
@@ -66,7 +66,7 @@
   <string name="data_usage_warning">Data usage</string>
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="delete">Delete</string>
-  <string name="delete_file_as_well">Delete local file as well</string>
+  <string name="delete_file_as_well">Permanently delete this song</string>
   <string name="delete_file_end">Delete permanently</string>
   <string name="delete_file_start">Delete selected files</string>
   <string name="desc_online_personal_radio">Just for you</string>
@@ -198,8 +198,9 @@
   <string name="impunity_declaration_title">Terms of Service</string>
   <string name="in_searching_please_wait">Searching…</string>
   <string name="is_loading_data">Still loading songs. Wait a minute or two and try again.</string>
-  <string name="is_scanning">Scanning, please wait.</string>
-  <string name="is_scanning_support_online">Scanning, please wait or select music from online.</string>
+  <string name="is_scanning">Checking storage…</string>
+  <string name="is_scanning_support_online">"Checking storage…
+(In the meantinme, you can stream music online)"</string>
   <string name="japan_korea_female">Female artists (Japan/Korea)</string>
   <string name="japan_korea_group">Bands (Japan/Korea)</string>
   <string name="japan_korea_male">Male artists (Japan/Korea)</string>
@@ -222,7 +223,7 @@
   <string name="lyric_setting">Lyrics settings</string>
   <string name="male_artist">Male artists</string>
   <string name="max_sleep_time">90</string>
-  <string name="message_delete_playlist">Delete playlist %s ?</string>
+  <string name="message_delete_playlist">Delete playlist %s?</string>
   <string name="metered_alert">Data usage warning</string>
   <string name="metered_alert_msg">Using your mobile network to listen to music will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you fees.</string>
   <string name="metered_allow">Stream</string>
@@ -301,7 +302,7 @@
   <string name="ok">OK</string>
   <string name="one_month">1 month</string>
   <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
-  <string name="online_music_enabled_summary">Listen and download your favorite songs. View billboard charts and curated playlists wherever you go!</string>
+  <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="only_online_can_select_quality">You can only select quality for music you stream.</string>
@@ -387,7 +388,7 @@
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
-  <string name="start_to_download">Start downloading…</string>
+  <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
   <string name="stream_quality">Streaming quality</string>
   <string name="streamloadingtext">Connecting to %s</string>

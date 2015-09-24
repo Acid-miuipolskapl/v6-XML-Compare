@@ -427,7 +427,7 @@
   <string name="setting_top_text">Camera modes</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Turn off HDR capture</string>
-  <string name="simple_mode_button_text_audio_capture">Turn off shutter audio trigger</string>
+  <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>
   <string name="simple_mode_button_text_color_effect">Turn off filter</string>
   <string name="simple_mode_button_text_delay_capture">Turn off timer</string>
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
@@ -452,7 +452,7 @@
   <string name="toast_burst_snap_finished_end">photos</string>
   <string name="toast_burst_snap_finished_start">Burst shot</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Can't burst shoot while audio capture is on"</string>
-  <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
+  <string name="toast_start_audio_capture">Make a sound to take a photo</string>
   <string name="ubi_focus_capture_fail">"Couldn't take picture"</string>
   <string name="ubifocus_capture_warning_message">For best results, your picture should contain objects both near (less than 1 meter from the lens) and far</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
