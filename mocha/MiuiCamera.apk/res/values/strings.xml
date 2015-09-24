@@ -599,7 +599,6 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst shooting is not supported when enhance skin tones is enabled</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot is not supported when HDR is ON</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>

@@ -78,6 +78,11 @@
   <string name="create_share_link_description">Creating link#8230;</string>
   <string name="cution">Tips</string>
   <string name="data_capacity">Data %1$s</string>
+  <string name="data_consumption_cancel">Exit</string>
+  <string name="data_consumption_checkbox_hint">"Don't show again"</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
+  <string name="data_consumption_title">Internet connection</string>
   <string name="decompress_cancel">Cancel</string>
   <string name="decompress_confirm">Extract</string>
   <string name="decompress_destination_error">"Can't extract files to this location."</string>
@@ -259,6 +264,7 @@ Our server is down at the moment. Please try again later…
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
   <string name="notification_dialog_title">Notifications</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notifications</string>
   <string name="notification_summary">"%1$s doesn't support this feature yet"</string>
   <string name="notification_title">Notify when new files are added to %1$s</string>
