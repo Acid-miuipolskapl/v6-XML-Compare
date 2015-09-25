@@ -94,6 +94,8 @@
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Settings</string>
   <string name="time">Time</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">click on screen to stop ringing</string>
   <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>

@@ -299,7 +299,7 @@
         <item>2500</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>3</item>
+        <item>6</item>
         <item>20</item>
         <item>50</item>
         <item>90</item>

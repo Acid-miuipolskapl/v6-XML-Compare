@@ -455,6 +455,8 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
+  <string name="incoming_video_show_pref_summary">To view profile videos for incoming calls, turn on contact cards</string>
+  <string name="incoming_video_show_pref_title">Profile video</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
   <string name="international_roaming_setting">International roaming</string>
