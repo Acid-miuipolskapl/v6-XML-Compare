@@ -197,7 +197,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_privacy_settings">Require permission to view</string>
   <string name="contact_detail_miprofile_request">Exchange contact cards</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Update profile photo and contact info automatically</string>
+  <string name="contact_detail_miprofile_request_subtitle">"Automatically update this contact's info"</string>
   <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
   <string name="contact_detail_miprofile_save">Tap to get contact card</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
@@ -250,7 +250,7 @@ Contact cards are turned off"</string>
   <string name="default_ringtone">Default ringtone</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
-  <string name="deleteConfirmation_title">Delete</string>
+  <string name="deleteConfirmation_title">Delete this contact?</string>
   <string name="delete_call_log_message">Delete call history?</string>
   <string name="delete_call_log_selected_title">Delete selected call history?</string>
   <string name="delete_call_log_title">Choose call history</string>
@@ -876,7 +876,7 @@ To add a contact to your list of favorites:
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">Cancel merge contacts</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains info from multiple accounts. Info from read-only accounts will be hidden in your contacts list.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contains info from multiple accounts. Any info that can't be deleted will be hidden from your contacts list."</string>
   <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
   <string name="readingSimContacts">Reading SIM card…</string>
   <string name="reading_vcard_canceled_title">Reading vCard data canceled</string>
@@ -939,7 +939,7 @@ To add a contact to your list of favorites:
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
   <string name="share_over_limit">"More than 1000, can't be shared"</string>
-  <string name="share_via">Send</string>
+  <string name="share_via">Send using</string>
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a shortcut</string>
   <string name="shortcutContact">Contact</string>
@@ -1092,8 +1092,8 @@ Choose one of the following options:"</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
-  <string name="yellowPageNavigationIconLabel">Directory</string>
-  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowPageNavigationIconLabel">Yellow pages</string>
+  <string name="yellowPageNavigationLabel">Yellow pages</string>
   <string name="yellowpage_navigation_clear_search_history">Clear history</string>
   <string name="yellowpage_navigation_more_items">More</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
