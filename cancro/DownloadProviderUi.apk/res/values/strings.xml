@@ -21,6 +21,8 @@
   <string name="auth_activity_title">Xunlei Account</string>
   <string name="auth_fail">"Couldn't get authorization"</string>
   <string name="bind_xunlei_account">Add Xunlei Account</string>
+  <string name="bt_download">Download</string>
+  <string name="bt_xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>
   <string name="cancel">Cancel</string>
@@ -31,10 +33,12 @@
   <string name="confirm_delete_downloads_message">%d downloads will be deleted.</string>
   <string name="confirm_delete_the_download_item_message">Delete these downloads?</string>
   <string name="create_task">Create task</string>
+  <string name="delete">Delete</string>
   <string name="delete_download">Delete</string>
   <string name="delete_downloads_records">Delete downloads</string>
   <string name="delete_the_downloaded_file">Downloaded files will be deleted.</string>
   <string name="deselect_all">Deselect All</string>
+  <string name="deselect_subfile_all">Deselect all</string>
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
   <string name="dialog_confirm_delete_checkbox_message">Delete local files as well</string>
@@ -93,12 +97,15 @@
   <string name="downloading_empty">Empty</string>
   <string name="downloads_operating">Working…</string>
   <string name="dredge_xunlei_account">Create a Xunlei Account</string>
-  <string name="edit_hint"> Enter a URL (http or https)</string>
+  <string name="edit_hint"> Enter http, torrent, or eMule address</string>
   <string name="editmode_menu_delete">Delete</string>
   <string name="editmode_menu_share">Share</string>
+  <string name="engine_open">Open</string>
   <string name="experience_xunlei_account_speed">Xunlei members can enjoy downloads at lightening speed.</string>
   <string name="expire_notification_msg">Xunlei membership expires soon.</string>
   <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
+  <string name="extract_file">Unpacking file…</string>
+  <string name="file_exist_hint">This file is already waiting to download</string>
   <string name="file_picker">Choose a location</string>
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
@@ -106,6 +113,7 @@
   <string name="get_order_dialog_msg">Getting order info…</string>
   <string name="get_order_fail_msg">"Couldn't create order"</string>
   <string name="high_speed_channel">Xunlei accelerator (paid):  </string>
+  <string name="hint">Attention</string>
   <string name="immediately_a_renewal">Renew now</string>
   <string name="input_valid_address">Enter a file path</string>
   <string name="install">Install</string>
@@ -125,14 +133,18 @@
   <string name="mi_money_">Mi Credits</string>
   <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="network_error">"Can't connect to the network"</string>
-  <string name="new_add">New</string>
+  <string name="new_add">New download</string>
+  <string name="new_add_bt">Add torrent</string>
   <string name="no_downloads">No downloads</string>
+  <string name="no_file_hint">This file is already waiting to download</string>
   <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
   <string name="one_month">1 month</string>
+  <string name="only_support_torrent">Only torrent files are supported</string>
   <string name="open">Open</string>
   <string name="open_download">Open</string>
+  <string name="open_vip_hint">Tap to increase download speed by up to 50%</string>
   <string name="open_xunlei_speed_service">Start Xunlei download accelerator</string>
   <string name="original_price">Price</string>
   <string name="other_filter">Other</string>
@@ -146,6 +158,7 @@ across all your devices with Xunlei"</string>
   <string name="paused_waiting_for_network">Waiting for network</string>
   <string name="paused_waiting_to_retry">Waiting to retry</string>
   <string name="period_of_validity">Validity:</string>
+  <string name="play">Play</string>
   <string name="pref_download_revert_default">Default</string>
   <string name="pref_download_settings_title">Download size limit</string>
   <string name="pref_download_storage_path">Create a new folder for downloads</string>
@@ -174,13 +187,16 @@ across all your devices with Xunlei"</string>
   <string name="remove_download">Remove</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Resume</string>
-  <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try again."</string>
+  <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try
+        again."</string>
   <string name="retry_download">Retry</string>
   <string name="revert_default">Reset</string>
   <string name="revert_download_path">Use default downloads location?</string>
   <string name="save_path">"Save downloads to: "</string>
   <string name="select_all">Select All</string>
   <string name="select_operation_items">Choose items</string>
+  <string name="select_sub_file_download">Choose a file to download</string>
+  <string name="select_subfile_all">Select all</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
   <string name="setting_close_debug">Turned Debug mode off</string>
   <string name="setting_debug_fail">"Couldn't enter Debug mode"</string>
@@ -193,6 +209,12 @@ across all your devices with Xunlei"</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB storage</string>
+  <string name="subbt_downloading">Downloading…</string>
+  <string name="subbt_fail">Failed</string>
+  <string name="subbt_pause">Paused</string>
+  <string name="subbt_wait">Waiting…</string>
+  <string name="task_detail">Tasks</string>
+  <string name="task_detail_notfound_confirm">OK</string>
   <string name="third_web_cancel">Cancel</string>
   <string name="third_web_confirm">OK</string>
   <string name="third_web_default">Remember this location</string>
@@ -203,6 +225,8 @@ across all your devices with Xunlei"</string>
   <string name="title_tips">Attention</string>
   <string name="title_unbind_xunlei">Remove your Xunlei Account</string>
   <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
+  <string name="torrent_file_error">"Couldn't parse this torrent file"</string>
+  <string name="torrent_no_subfile">No subfiles in this torrent</string>
   <string name="turn_off_xunlei_message">You may experience slower download speeds.</string>
   <string name="turn_off_xunlei_tips">Xunlei download acceleration is off</string>
   <string name="turn_off_xunlei_title">Turn off Xunlei</string>
@@ -225,6 +249,7 @@ Accelerate downloads across all your devices."</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
   <string name="xunlei_member_annual_fee">1 year</string>
   <string name="xunlei_member_one_month">1 month</string>
+  <string name="xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
   <string name="xunlei_speed_service">Xunlei download accelerator</string>
   <string name="xunlei_switch">Xunlei download engine</string>
 </resources>

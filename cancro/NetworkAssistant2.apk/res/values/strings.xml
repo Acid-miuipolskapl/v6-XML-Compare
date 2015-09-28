@@ -280,6 +280,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_setted_error_notify_title">SIM card error</string>
   <string name="other_exception_summary">"You don't have an internet connection"</string>
   <string name="other_exception_title">Checking for other issues</string>
+  <string name="package_change_notification_summary">Tap to learn more.</string>
+  <string name="package_change_notification_title">Adjust data limit automatically</string>
+  <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
+  <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
   <string name="pay_charge">Purchase additional data</string>
   <string name="per_month_pkg_traffic_settings">Set data limit</string>
   <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>

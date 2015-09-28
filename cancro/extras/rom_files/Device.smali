@@ -112,7 +112,7 @@
 
     move-result v0
 
-    if-eqz v0, :cond_5
+    if-eqz v0, :cond_6
 
     sget-object v0, Lmiui/os/Build;->MODEL:Ljava/lang/String;
 
@@ -122,7 +122,7 @@
 
     move-result v0
 
-    if-eqz v0, :cond_5
+    if-eqz v0, :cond_6
 
     move v0, v1
 
@@ -135,7 +135,7 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI3TD:Z
 
-    if-eqz v0, :cond_6
+    if-eqz v0, :cond_7
 
     :cond_0
     move v0, v1
@@ -145,15 +145,15 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO:Z
 
-    if-eqz v0, :cond_7
+    if-eqz v0, :cond_8
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO_A:Z
 
-    if-nez v0, :cond_7
+    if-nez v0, :cond_8
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWO_S:Z
 
-    if-nez v0, :cond_7
+    if-nez v0, :cond_8
 
     move v0, v1
 
@@ -170,7 +170,7 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM2S:Z
 
-    if-eqz v0, :cond_8
+    if-eqz v0, :cond_9
 
     :cond_1
     move v0, v1
@@ -222,6 +222,22 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWOX:Z
 
+    if-nez v0, :cond_2
+
+    const-string v0, "HM2014816"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_a
+
+    :cond_2
+    move v0, v1
+
+    :goto_4
     sput-boolean v0, Lcom/android/camera/Device;->IS_H2XLTE:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWOX_LC:Z
@@ -290,46 +306,46 @@
 
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI:Z
 
-    if-nez v0, :cond_2
+    if-nez v0, :cond_3
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
-    if-nez v0, :cond_2
+    if-nez v0, :cond_3
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
-    if-nez v0, :cond_2
+    if-nez v0, :cond_3
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A9:Z
 
-    if-eqz v0, :cond_9
+    if-eqz v0, :cond_b
 
-    :cond_2
+    :cond_3
     move v0, v1
 
-    :goto_4
+    :goto_5
     sput-boolean v0, Lcom/android/camera/Device;->IS_HONGMI:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_XIAOMI:Z
 
-    if-nez v0, :cond_3
+    if-nez v0, :cond_4
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI9:Z
 
-    if-nez v0, :cond_3
+    if-nez v0, :cond_4
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
-    if-nez v0, :cond_3
+    if-nez v0, :cond_4
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
-    if-eqz v0, :cond_4
-
-    :cond_3
-    move v2, v1
+    if-eqz v0, :cond_5
 
     :cond_4
+    move v2, v1
+
+    :cond_5
     sput-boolean v2, Lcom/android/camera/Device;->IS_XIAOMI:Z
 
     sget-boolean v0, Lmiui/os/Build;->IS_CM_CUSTOMIZATION:Z
@@ -346,30 +362,35 @@
 
     return-void
 
-    :cond_5
+    :cond_6
     move v0, v2
 
     goto/16 :goto_0
 
-    :cond_6
+    :cond_7
     move v0, v2
 
     goto/16 :goto_1
 
-    :cond_7
+    :cond_8
     move v0, v2
 
     goto/16 :goto_2
 
-    :cond_8
+    :cond_9
     move v0, v2
 
     goto/16 :goto_3
 
-    :cond_9
+    :cond_a
     move v0, v2
 
-    goto :goto_4
+    goto/16 :goto_4
+
+    :cond_b
+    move v0, v2
+
+    goto :goto_5
 .end method
 
 .method public constructor <init>()V
