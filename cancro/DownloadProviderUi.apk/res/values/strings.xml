@@ -22,7 +22,7 @@
   <string name="auth_fail">"Couldn't get authorization"</string>
   <string name="bind_xunlei_account">Add Xunlei Account</string>
   <string name="bt_download">Download</string>
-  <string name="bt_xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="bt_xunlei_open_info">Use Xunlei Engine to open such links?</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>
   <string name="cancel">Cancel</string>
@@ -105,7 +105,7 @@
   <string name="expire_notification_msg">Xunlei membership expires soon.</string>
   <string name="expire_today_notification_msg">Xunlei membership expires today.</string>
   <string name="extract_file">Unpacking file…</string>
-  <string name="file_exist_hint">This file is already waiting to download</string>
+  <string name="file_exist_hint">This file already exists</string>
   <string name="file_picker">Choose a location</string>
   <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
   <string name="free_speedup_exp">Try Xunlei download accelerator for free</string>
@@ -136,7 +136,7 @@
   <string name="new_add">New download</string>
   <string name="new_add_bt">Add torrent</string>
   <string name="no_downloads">No downloads</string>
-  <string name="no_file_hint">This file is already waiting to download</string>
+  <string name="no_file_hint">Download task for this file already exists</string>
   <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
   <string name="no_vip_show_info">"Speed up downloads
 across all your devices with Xunlei"</string>
@@ -249,7 +249,7 @@ Accelerate downloads across all your devices."</string>
   <string name="xunlei_gaosu">Xunlei download accelerator</string>
   <string name="xunlei_member_annual_fee">1 year</string>
   <string name="xunlei_member_one_month">1 month</string>
-  <string name="xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="xunlei_open_info">Use Xunlei Engine to open such links?</string>
   <string name="xunlei_speed_service">Xunlei download accelerator</string>
   <string name="xunlei_switch">Xunlei download engine</string>
 </resources>

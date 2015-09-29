@@ -51,7 +51,7 @@
   <string name="receiver_in_progress_title">Sending file(-s)…</string>
   <string name="receiver_interrupt_summary">"Don't turn off WLAN when receiving files"</string>
   <string name="receiver_interrupt_summary_v21">"Don't turn off WLAN hotspot when receiving files"</string>
-  <string name="receiver_notification_turn_on">Recipient should turn on MiDrop in Notification shade</string>
+  <string name="receiver_notification_turn_on">Recipient must turn on Mi Drop</string>
   <string name="receiver_notification_turn_on_help">Turn on to find devices and send files.</string>
   <string name="receiver_pic_file_current">Receiving %2$d image(-s) from %1$s​…</string>
   <string name="receiver_pic_file_num">%2$d image(-s) from %1$s</string>
@@ -66,7 +66,7 @@
   <string name="sender_cancel">"Don't send"</string>
   <string name="sender_complete">Done</string>
   <string name="sender_fail">"Couldn't send"</string>
-  <string name="sender_file_num">Waiting for %1$d file(-s)</string>
+  <string name="sender_file_num">Waiting for %1$d files</string>
   <string name="sender_finish">Sent</string>
   <string name="sender_in_progress_later">Wait and try again</string>
   <string name="sender_in_progress_now">Cancel</string>

@@ -2777,6 +2777,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_available_title">Connect to WLAN</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
+  <string name="wifi_click_share_wlan">Tap to share password</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Connect</string>

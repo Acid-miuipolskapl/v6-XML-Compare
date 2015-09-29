@@ -17,7 +17,7 @@
   <string name="provider_label">Contacts</string>
   <string name="read_write_all_voicemail_description">Allows the app to store and retrieve all voicemails that this device can access.</string>
   <string name="read_write_all_voicemail_label">Access all voicemails</string>
-  <string name="search_the_yellowpage">Search the directory</string>
+  <string name="search_the_yellowpage">Search Yellow pages</string>
   <string name="send_sms">Send message</string>
   <string name="sharedUserLabel">Android Core Apps</string>
   <string name="third_party_delete_contact_info">"\"%s\" is trying to delete your contacts. This action can't be carried out by third-party apps. To delete contacts, use MIUI's built-in Contacts app instead."</string>
