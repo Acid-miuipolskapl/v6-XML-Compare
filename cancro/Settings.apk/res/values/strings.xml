@@ -2742,6 +2742,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_username">Username</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="wakeup_for_keyguard_notification_title"/>
   <string name="wallpaper_desktop">Home screen</string>
   <string name="wallpaper_live">Live wallpaper</string>
   <string name="wallpaper_lockscreen">Lock screen</string>
