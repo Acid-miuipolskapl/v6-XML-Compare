@@ -43,7 +43,7 @@
   <string name="missed_call_text">%d missed calls</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by Bluetooth device</string>
   <string name="open_camera_hint_text">Swipe left to open Camera</string>
-  <string name="open_remote_center_hint_text">Swipe right to open Mi Remote</string>
+  <string name="open_remote_center_hint_text">Swipe right to open Phone</string>
   <string name="open_wifi_settings">Open network connection</string>
   <string name="phone_locked_string">Phone has been locked</string>
   <string name="phone_locked_timeout_minutes_string">Try again in %s minutes</string>
