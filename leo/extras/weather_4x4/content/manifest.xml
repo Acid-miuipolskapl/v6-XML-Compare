@@ -47,7 +47,7 @@
     <Var name="line_color" type="string" expression="ifelse(#applied_light_wallpaper,'#33000000','#80ffffff')"/>
     <!-- top fragment -->
     <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width/2" y="235" align="center" alignV="center"/>
-    <Text enableFontScale="true" text="@weather_description" x="#view_width/2"  y="375" align="center" size="48" color="@color"/>
+    <Text enableFontScale="true" textExp="@weather_description+' '+eval(ifelse(le(#weather_aqilevel,0),@aqi_pure,le(#weather_aqilevel,50),@aqi_good,le(#weather_aqilevel,100),@aqi_moderate,le(#weather_aqilevel,150),@aqi_pollution,le(#weather_aqilevel,200),@aqi_unhealthy,le(#weather_aqilevel,300),@aqi_dangerous,lt(#weather_aqilevel,500),@aqi_hazardous,@aqi_break))" x="#view_width/2"  y="375" align="center" size="48" color="@color"/>
 
     <!-- based on first horizontal line -->
     <Group y="#view_height-467">
@@ -74,12 +74,12 @@
             <Text enableFontScale="true" format="%d&#xb0;/%d&#xb0;" paras="#weather_temphigh1,#weather_templow1" align="center" y="226" alignV="center" size="38" color="@color"/>
         </Group>
         <Group x="#padding+#interval*2">
-            <DateTime enableFontScale="true" value="#time_sys+86400000*2" format="d MMM" align="center" y="50" size="38" color="@color"/>
+            <DateTime enableFontScale="true" value="#time_sys+86400000*2" format="dd/MM" align="center" y="50" size="38" color="@color"/>
             <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/small_weather.png'" srcid="ifelse(gt(#weather_forecast_id2,24)+lt(#weather_forecast_id2,0),10000,#weather_forecast_id2)" align="center" y="160" alignV="center"/>
             <Text enableFontScale="true" format="%d&#xb0;/%d&#xb0;" paras="#weather_temphigh2,#weather_templow2" align="center" y="226" alignV="center" size="38" color="@color"/>
         </Group>
         <Group x="#view_width-#padding">
-            <DateTime enableFontScale="true" value="#time_sys+86400000*3" format="d MMM" align="center" y="50" size="38" color="@color"/>
+            <DateTime enableFontScale="true" value="#time_sys+86400000*3" format="dd/MM" align="center" y="50" size="38" color="@color"/>
             <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/small_weather.png'" srcid="ifelse(gt(#weather_forecast_id3,24)+lt(#weather_forecast_id3,0),10000,#weather_forecast_id3)" align="center" y="160" alignV="center"/>
             <Text enableFontScale="true" format="%d&#xb0;/%d&#xb0;" paras="#weather_temphigh3,#weather_templow3" align="center" y="226" alignV="center" size="38" color="@color"/>
         </Group>

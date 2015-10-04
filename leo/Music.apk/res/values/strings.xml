@@ -384,8 +384,8 @@
   <string name="song_name">Song</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_unit">items</string>
-  <string name="sort_by_language">Artist</string>
-  <string name="sort_by_name">Title</string>
+  <string name="sort_by_language">Language</string>
+  <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
   <string name="start_to_download">Downloading…</string>
