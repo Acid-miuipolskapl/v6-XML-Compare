@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">dd/MM E</string>
+    <string name="date_time">EEEE dd/MM</string>
     <string name="language">en</string>
     <string name="desc_date_format">dd MMM EEEE</string>
     <string name="desc_time">'เวลาปัจจุบัน' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', แตะสองครั้งติดกันเพื่อเข้าสู่แอปนาฬิกา'</string>

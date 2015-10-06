@@ -3233,6 +3233,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_username">Username</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="wakeup_for_keyguard_notification_title"/>
   <string name="wallpaper_attributions">Wallpapers</string>
   <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
@@ -3288,6 +3289,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
+  <string name="wifi_click_share_wlan">Tap to share password</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Connect</string>
