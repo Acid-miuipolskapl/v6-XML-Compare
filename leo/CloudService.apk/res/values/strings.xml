@@ -170,7 +170,7 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_member_advantage">Get more storage space.</string>
   <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
 
-%s Mi Credits"</string>
+%s Mi Credits per year"</string>
   <string name="micloud_member_buy_title">Confirm order</string>
   <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
   <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>

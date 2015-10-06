@@ -122,7 +122,6 @@
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
   <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
   <string name="expand_all">All</string>
-  <string name="extract">Extract</string>
   <string name="fail_to_create_folder">Not enough space or the folder already exists.</string>
   <string name="fail_to_create_folder_unknown">"Can't create folder"</string>
   <string name="fail_to_rename">A file with the same name already exists.</string>
@@ -195,9 +194,6 @@ Our server is down at the moment. Please try again later…
   <string name="load_err">"Can't load"</string>
   <string name="load_more">View more</string>
   <string name="loading">Loading…</string>
-  <string name="local_image">Photos</string>
-  <string name="local_music">Music</string>
-  <string name="local_video">Video</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
   <string name="megabyteShort">MB</string>
@@ -217,7 +213,6 @@ Our server is down at the moment. Please try again later…
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
-  <string name="move_to">Move to…</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="my_app">App data</string>
   <string name="my_app_desc"/>
@@ -375,9 +370,6 @@ Our server is down at the moment. Please try again later…
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Search</string>
   <string name="search_title_hint">Search</string>
-  <string name="select_image">Choose photos</string>
-  <string name="select_music">Choose songs</string>
-  <string name="select_video">Choose videos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">This file type is not supported.</string>
   <string name="server_control_advanced_settings">FTP settings</string>
@@ -401,13 +393,10 @@ Free space added %1$s"</string>
   <string name="stay_awake_title">Stay awake</string>
   <string name="stop_server">Stop server</string>
   <string name="storage_info">%1$s available</string>
-  <string name="storage_info_detail">Available:%1$s Total:%2$s</string>
+  <string name="storage_info_detail">Available:%1$s Total:%1$s</string>
   <string name="storage_internal">Internal storage</string>
-  <string name="storage_internal_description">Internal storage</string>
   <string name="storage_sd_card">SD card</string>
-  <string name="storage_sd_card_description">SD card</string>
   <string name="storage_usb">USB storage</string>
-  <string name="storage_usb_description">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
   <string name="sys_size_enable">" available"</string>
   <string name="system_alert">Internet connection</string>

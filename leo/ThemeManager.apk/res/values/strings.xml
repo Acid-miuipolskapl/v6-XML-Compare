@@ -347,7 +347,6 @@
   <string name="theme_precast_update_notification_title">MIUI 7 themes updated</string>
   <string name="theme_provision_default_theme_title">Default</string>
   <string name="theme_provision_loading_tips">Just a sec…</string>
-  <string name="theme_provision_oper_button_next">Next</string>
   <string name="theme_provision_title">Choose a theme</string>
   <string name="theme_purchased_list_empty">"You haven't purchased any themes."</string>
   <string name="theme_purchased_non_local">Online</string>

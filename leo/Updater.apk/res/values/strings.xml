@@ -68,7 +68,6 @@
   <string name="important_suggestion">Privacy Policy has changed</string>
   <string name="install">Install</string>
   <string name="install_failed">Update failed</string>
-  <string name="install_file_explorer">Install File Explorer first</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
@@ -80,11 +79,9 @@
   <string name="menu_title_pick_rom_file">Choose update package</string>
   <string name="menu_title_recovery">Reboot to Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">"  Update available  "</string>
+  <string name="miui_summary_has_new_version">Update available</string>
   <string name="miui_summary_no_new_version">No updates available</string>
   <string name="miui_summary_now_version">"Can't connect to the network"</string>
-  <string name="miui_summary_slogan">"  Yours by design  "</string>
-  <string name="miui_summary_updating">"  Updating…  "</string>
   <string name="monthly_build">Monthly</string>
   <string name="my_best_update">Best update</string>
   <string name="my_expect_update">Expectations</string>

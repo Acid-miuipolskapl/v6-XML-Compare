@@ -21,8 +21,8 @@
     <string-array name="search_engines_rCN">
         <item>baidu</item>
         <item>sogou</item>
-        <item>sm</item>
         <item>google</item>
+        <item>bing_zh_CN</item>
     </string-array>
     <string-array name="search_engines_default">
         <item>google</item>
@@ -33,7 +33,7 @@
         <item>s139</item>
         <item>baidu</item>
         <item>sogou</item>
-        <item>google</item>
+        <item>bing_zh_CN</item>
     </string-array>
     <string-array name="bookmarks_cm_customization">
         <item>MM网</item>
@@ -119,8 +119,13 @@
     <string-array name="search_bar_search_engines_rCN">
         <item>baidu</item>
         <item>sogou</item>
-        <item>sm</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
         <item>google</item>
+        <item>shipin</item>
+        <item>tupian</item>
     </string-array>
     <string-array name="search_bar_search_engines_cmcc">
         <item>s139</item>
@@ -248,11 +253,6 @@
         <item>search_baidu</item>
         <item>ic_search_engine_baidu</item>
         <item>baidu</item>
-    </string-array>
-    <string-array name="sm_in_list">
-        <item>search_sm</item>
-        <item>ic_search_engine_sm</item>
-        <item>sm</item>
     </string-array>
     <string-array name="sogou_in_list">
         <item>search_sogou</item>

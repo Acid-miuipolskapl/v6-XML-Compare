@@ -37,6 +37,7 @@
   <string name="backup_items_sysdata_tailer">" system data files,"</string>
   <string name="backup_new">New:</string>
   <string name="backup_progress">Backing up…</string>
+  <string name="backup_recently">" (most recent backup) "</string>
   <string name="backup_report">View details</string>
   <string name="backup_update">Update</string>
   <string name="batch_delete_backup_confirm">Delete selected backups?</string>
@@ -92,10 +93,7 @@
   <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s. To restore, delete the current account and sign in as %2$s.</string>
   <string name="err_authentication_failed">Authentication failed</string>
   <string name="err_bakfile_broken">"Can't use this backup."</string>
-  <string name="err_filesystem_mount">"Can't access router storage"</string>
   <string name="err_low_storage">Not enough space</string>
-  <string name="err_router_disconnected">"Check your router's connection and try again."</string>
-  <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
   <string name="err_unknown">Unknown error</string>
   <string name="err_version_too_old">Backup file is too old.</string>
   <string name="err_version_unsupported">"Backup version isn't supported."</string>
@@ -193,7 +191,6 @@
   <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Back up</string>
   <string name="start_restore">Restore</string>
-  <string name="state_mounting">Accessing router storage…</string>
   <string name="state_waiting">Just a sec…</string>
   <string name="succeed">Complete</string>
   <string name="summary_err_backup_encrypting">Sign in to your Mi Account.</string>
