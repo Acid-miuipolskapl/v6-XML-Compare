@@ -2649,6 +2649,7 @@ Attempts Remaining :"</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Touch sounds</string>
   <string name="sound_settings">Sound</string>
+  <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="spellchecker_language">Language</string>
   <string name="spellchecker_quick_settings">Settings</string>
   <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
