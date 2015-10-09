@@ -68,6 +68,7 @@
   <string name="important_suggestion">Privacy Policy has changed</string>
   <string name="install">Install</string>
   <string name="install_failed">Update failed</string>
+  <string name="install_file_explorer">Install File Explorer first</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
