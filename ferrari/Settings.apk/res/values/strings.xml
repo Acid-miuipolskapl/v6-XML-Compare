@@ -2649,6 +2649,7 @@ Attempts Remaining :"</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Touch sounds</string>
   <string name="sound_settings">Sound</string>
+  <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="spellchecker_language">Language</string>
   <string name="spellchecker_quick_settings">Settings</string>
   <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
@@ -3233,6 +3234,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_username">Username</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="wakeup_for_keyguard_notification_title"/>
   <string name="wallpaper_attributions">Wallpapers</string>
   <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
@@ -3288,6 +3290,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
+  <string name="wifi_click_share_wlan">Tap to share password</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Connect</string>
