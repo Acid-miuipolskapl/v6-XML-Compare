@@ -119,6 +119,7 @@
   <string name="download_is_in_tasklist">Queued</string>
   <string name="download_paused">Paused</string>
   <string name="download_percent_hint">Downloading %d%%</string>
+  <string name="download_progress">Downloading %s</string>
   <string name="download_progress_0p">0%</string>
   <string name="download_queue">Getting info…</string>
   <string name="download_running">Working…</string>
