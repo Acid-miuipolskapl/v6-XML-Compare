@@ -164,7 +164,6 @@ Please input the verification code in the email"</string>
   <string name="passport_account_not_actived">"Your account hasn't been activated"</string>
   <string name="passport_active_email_visit">Check your inbox at %s</string>
   <string name="passport_activing_account">Activating…</string>
-  <string name="passport_app_name">Mi Account</string>
   <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
@@ -184,8 +183,6 @@ To activate your account, follow the
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Yes</string>
   <string name="passport_delete_account">Sign out</string>
-  <string name="passport_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
-  <string name="passport_dspt_provision2">Learn more</string>
   <string name="passport_email">Email address</string>
   <string name="passport_email_or_id_hint_text">Email address or Mi Account ID</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
@@ -243,7 +240,6 @@ To activate your account, follow the
   <string name="passport_phone_num_hint_text">Phone number</string>
   <string name="passport_prev">Back</string>
   <string name="passport_privacy_policy">Privacy Policy</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
   <string name="passport_quick_login_dialog_title">Verify password</string>
   <string name="passport_quick_login_step2_title">2-step verification</string>
@@ -302,7 +298,6 @@ To activate your account, follow the
   <string name="passport_verification_failed">Authentication failed</string>
   <string name="passport_verify">Verify</string>
   <string name="passport_wait_for_sms_prompt">"Start over now? Verification messages may take to 10 minutes to be delivered when your phone is within range of your carrier's network."</string>
-  <string name="passport_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">The code you entered is incorrect</string>
   <string name="passport_wrong_password">Password is incorrect</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
@@ -318,6 +313,7 @@ To activate your account, follow the
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="prev">Back</string>
   <string name="privacy_policy">Privacy Policy</string>
+  <string name="provision_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-step verification</string>
   <string name="quick_login_dialog_title">Verify password</string>

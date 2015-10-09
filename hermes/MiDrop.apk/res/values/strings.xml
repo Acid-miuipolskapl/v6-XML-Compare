@@ -62,7 +62,7 @@
   <string name="receiver_video_file_current">Receiving %2$d​ video(-s) from %1$s…</string>
   <string name="receiver_video_file_num">%2$d​ video(-s) from %1$s</string>
   <string name="send_file_time_format_m">m:s</string>
-  <string name="send_file_time_format_s">s Seconds</string>
+  <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Don't send"</string>
   <string name="sender_complete">Done</string>
   <string name="sender_fail">"Couldn't send"</string>
