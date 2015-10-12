@@ -178,7 +178,7 @@ Please input the verification code in the email"</string>
   <string name="passport_click_email_to_valid">"
 
 To activate your account, follow the 
- link in the message we've sent to your inbox."</string>
+ link we've sent to your inbox."</string>
   <string name="passport_completed">Finish</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Yes</string>
@@ -261,8 +261,8 @@ To activate your account, follow the
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="passport_reging">Creating account…</string>
   <string name="passport_register">Create an account</string>
-  <string name="passport_register_account_goto_email">Go to your inbox</string>
-  <string name="passport_register_account_verified_confirm">"You've already verified your account"</string>
+  <string name="passport_register_account_goto_email">Go to inbox</string>
+  <string name="passport_register_account_verified_confirm">Account verified</string>
   <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
@@ -271,7 +271,7 @@ To activate your account, follow the
   <string name="passport_relogin_notice">You need to sign in again</string>
   <string name="passport_remove_confirm">Sign out</string>
   <string name="passport_remove_unactivated_account_notice">"Your account hasn't been activated."</string>
-  <string name="passport_resend_active_email">Resend activation email</string>
+  <string name="passport_resend_active_email">Resend email</string>
   <string name="passport_reset_fail_title">"Couldn't reset"</string>
   <string name="passport_reset_password_prompt">Password is incorrect</string>
   <string name="passport_reset_password_title">Reset password</string>
