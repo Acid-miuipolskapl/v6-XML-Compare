@@ -93,7 +93,6 @@
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>
-        <item>background_change</item>
     </string-array>
     <string-array name="shown_optional_event_name">
         <item>full_screen_enter</item>
@@ -124,6 +123,10 @@
         <item>selected</item>
         <item>unselected</item>
         <item>other selected</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>customed</item>
+        <item>suggested</item>
     </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">
