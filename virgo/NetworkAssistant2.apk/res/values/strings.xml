@@ -522,6 +522,8 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_msg_today">saved today</string>
   <string name="traffic_saving_need_optimize">Can be optimized</string>
   <string name="traffic_saving_notification_button_start">Activate</string>
+  <string name="traffic_saving_notify_no_apps_saving">No apps are using data saver</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on data saver.</string>
   <string name="traffic_saving_notify_start_content">%s saved this month.</string>
   <string name="traffic_saving_notify_start_title">Reduced your data usage</string>
   <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
