@@ -462,6 +462,8 @@ Leave this page?"</string>
   <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Scroll using volume buttons</string>
+  <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
+  <string name="pref_weather_location_title">Weather location</string>
   <string name="private_browsing_warning">This functionality is not supported in this version of Android.</string>
   <string name="profiler_error_toast">Failed to start profiler</string>
   <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
@@ -547,7 +549,8 @@ Leave this page?"</string>
   <string name="select_download_device">Choose device</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Check URL security</string>
+  <string name="show_security_tip_dialog_title">Terms of Service</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>

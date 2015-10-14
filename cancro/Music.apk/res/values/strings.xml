@@ -91,7 +91,7 @@
   <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
   <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal and payment."</string>
   <string name="disable_auto_payment_success">Turned off</string>
-  <string name="disable_auto_payment_success_message">Turned off automatic renewal and payment. Your subscription will not be renewed after your next payment is due.</string>
+  <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
   <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
@@ -121,9 +121,9 @@
   <string name="empty_page_no_document">No audio files.</string>
   <string name="empty_page_no_track">No songs.</string>
   <string name="enable_auto_payment_fail">"Couldn't turn on"</string>
-  <string name="enable_auto_payment_fail_message">"Could't turn on automatic renewal and payment​"</string>
+  <string name="enable_auto_payment_fail_message">"Could't turn on automatic renewal"</string>
   <string name="enable_auto_payment_success">Renew automatically</string>
-  <string name="enable_auto_payment_success_message">Turned on automatic renewal and payment. Next payment is on %s.</string>
+  <string name="enable_auto_payment_success_message">Turned on automatic renewal. Next payment due on %s.</string>
   <string name="enabled">Enabled</string>
   <string name="english_female">Female artists (US/Europe)</string>
   <string name="english_group">Bands (US/Europe)</string>
@@ -191,7 +191,7 @@
   <string name="handle_later">Not now</string>
   <string name="headset_settings">Headphones &amp; audio effects</string>
   <string name="high_quality">Higher</string>
-  <string name="higher_quality_music">Ultra gigh quality audio</string>
+  <string name="higher_quality_music">High quality audio</string>
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="home_tab_local">My music</string>
   <string name="home_tab_online">Discover</string>
@@ -467,7 +467,7 @@
   <string name="vip_auto_renew_title">Subscription renewal</string>
   <string name="vip_recommend_title">Get higher quality music</string>
   <string name="vip_renew_message">"You won't be able to enjoy high quality audio, but you can still stream some songs at normal quality."</string>
-  <string name="vip_renew_notification_message">"You won't be able to enjoy high quality audio after your subscription expires."</string>
+  <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
   <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
   <string name="vip_renew_title">Subscription expired</string>
   <string name="vip_required">Sorry, VIP is required</string>
