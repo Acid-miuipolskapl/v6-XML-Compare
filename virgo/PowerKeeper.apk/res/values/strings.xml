@@ -15,14 +15,14 @@
   <string name="alter_message_open_hide_title">"Manage apps' battery usage?"</string>
   <string name="alter_message_switch_mode">Switch modes?</string>
   <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
-  <string name="app_frozen_app_list_summary">App settings</string>
-  <string name="app_list_title">Choose apps to restrict</string>
+  <string name="app_frozen_app_list_summary">Background apps</string>
+  <string name="app_list_title">Choose apps</string>
   <string name="app_name">Battery saver</string>
   <string name="background">App is running in background</string>
   <string name="config_custom_description">When you need to be less than expected, use a custom configuration</string>
   <string name="config_custom_title">Custom</string>
   <string name="config_suggest_description">For applications, use different power saving configurations</string>
-  <string name="config_suggest_title">MIUI Suggest</string>
+  <string name="config_suggest_title">Suggested</string>
   <string name="disabled">Off</string>
   <string name="empty_title_apps_container_list">No apps</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
@@ -41,7 +41,7 @@
   <string name="location_disable_title">Forbidden</string>
   <string name="location_enable_description">Applications can use the location service in the background</string>
   <string name="location_enable_title">Allow</string>
-  <string name="location_mode_title">Background Location</string>
+  <string name="location_mode_title">Background location</string>
   <string name="low">Battery saving</string>
   <string name="low_power_auto_title">Restrict apps when battery is low</string>
   <string name="media">Media mode</string>
