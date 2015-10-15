@@ -107,7 +107,7 @@
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs</string>
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear_history">Clear history</string>
-  <string name="clear_most_visited">Record history</string>
+  <string name="clear_most_visited">Recent history</string>
   <string name="clear_search_history">Clear history</string>
   <string name="clip_dialog_title">Open the copied URL?</string>
   <string name="close_ads_choice_no">Allow</string>
@@ -246,7 +246,7 @@
   <string name="homepage_delete_card_menu">Delete</string>
   <string name="homepage_get_location">Get location</string>
   <string name="homepage_get_location_failed">"Couldn't get info, choose a city"</string>
-  <string name="homepage_more_cards">More cards</string>
+  <string name="homepage_more_cards">More services</string>
   <string name="homepage_more_sites">More websites</string>
   <string name="homepage_search_hint">Search</string>
   <string name="homepage_top_card_menu">Top</string>
@@ -332,7 +332,7 @@ Leave this page?"</string>
   <string name="miuishare_share_editor_title">Share</string>
   <string name="miuishare_title_more">More</string>
   <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">Wechat timeline</string>
+  <string name="miuishare_wechat_timeline_title">WeChat timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">SD card is required to modify this path.</string>
   <string name="month_picker_dialog_title">Set month</string>
@@ -361,7 +361,7 @@ Leave this page?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
   <string name="pref_adblock_counts">%d blocked</string>
   <string name="pref_adblock_title">Ad blocker</string>
-  <string name="pref_auto_update_under_wifi">Auto-Update under Wi-Fi</string>
+  <string name="pref_auto_update_under_wifi">Update using Wi-Fi</string>
   <string name="pref_category_hint">Category</string>
   <string name="pref_check_security_url_summary">"Send website URL to Mi's servers to check if it's secure"</string>
   <string name="pref_check_security_url_title">Check URL security</string>
@@ -385,15 +385,15 @@ Leave this page?"</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_enable_adblock_notification">Show Ad blocker notifications</string>
-  <string name="pref_enable_news">News Alerts</string>
-  <string name="pref_enable_novels">Novels Alerts</string>
-  <string name="pref_enable_videos">Videos Alerts</string>
+  <string name="pref_enable_news">News</string>
+  <string name="pref_enable_novels">Books</string>
+  <string name="pref_enable_videos">Videos</string>
   <string name="pref_extras_reset_default">Reset to defaults</string>
   <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
   <string name="pref_extras_reset_default_summary">Restore default settings</string>
   <string name="pref_extras_reset_default_title">Other</string>
   <string name="pref_extras_title">Advanced</string>
-  <string name="pref_extras_title_version">Version</string>
+  <string name="pref_extras_title_version">Version info</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Save files to Browser's default location"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restore default location</string>
   <string name="pref_file_download_default_path_prefix">Default location: %s</string>
@@ -415,7 +415,7 @@ Leave this page?"</string>
   <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_notifications_hint">Notifications</string>
-  <string name="pref_notifications_receive">New Notification Alerts</string>
+  <string name="pref_notifications_receive">Notifications</string>
   <string name="pref_notifications_title">Notifications</string>
   <string name="pref_other_title">Other</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
@@ -456,12 +456,14 @@ Leave this page?"</string>
   <string name="pref_set_homepage_to">Set to</string>
   <string name="pref_setting_title">Page settings</string>
   <string name="pref_ua_string">User agent string</string>
-  <string name="pref_version_info">Version Info</string>
+  <string name="pref_version_info">Version info</string>
   <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_value_always">ALWAYS</string>
   <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_action">Scroll using volume buttons</string>
+  <string name="pref_weather_location_summary">"Used by the browser's weather plug-in"</string>
+  <string name="pref_weather_location_title">Weather location</string>
   <string name="private_browsing_warning">This functionality is not supported in this version of Android.</string>
   <string name="profiler_error_toast">Failed to start profiler</string>
   <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
@@ -547,7 +549,8 @@ Leave this page?"</string>
   <string name="select_download_device">Choose device</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Check URL security</string>
+  <string name="show_security_tip_dialog_title">Terms of Service</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Weather services need your location info to provide you with up-to-date weather information in your browser. You can turn this feature off in Settings.</string>
   <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="skip_button_label">Skip</string>
   <string name="skip_current_version">Skip this version</string>
@@ -613,10 +616,10 @@ Leave this page?"</string>
   <string name="v5_deselect_all">Unselect all</string>
   <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_select_all">Select all</string>
-  <string name="version_check_button_checking">Checking</string>
-  <string name="version_check_button_default">Checking for updates</string>
+  <string name="version_check_button_checking">Checking…</string>
+  <string name="version_check_button_default">Check for updates</string>
   <string name="version_check_button_download_failed">Resume download</string>
-  <string name="version_check_button_downloading">Downloading</string>
+  <string name="version_check_button_downloading">Downloading…</string>
   <string name="version_check_button_install">Install</string>
   <string name="version_check_button_newest">No updates available</string>
   <string name="version_check_button_no_network">"Can't connect to the network"</string>
