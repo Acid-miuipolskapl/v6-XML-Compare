@@ -119,7 +119,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="sim_added_reboot_title">SIM card will activate after you reboot your device.</string>
   <string name="softap_notifif_summary">%d connected</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
-  <string name="status_bar_toggle_ac">Screenlock</string>
+  <string name="status_bar_toggle_ac">Lock apps</string>
   <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
   <string name="status_bar_toggle_auto_brightness">Brightness</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>

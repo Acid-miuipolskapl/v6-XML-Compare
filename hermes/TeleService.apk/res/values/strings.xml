@@ -394,6 +394,7 @@
   <string name="fdn_errorcode_storage_info">Failed,storage is full.</string>
   <string name="fdn_errorcode_unknown_info">Failed,unknown error occured,please try later.</string>
   <string name="fdn_failed">FDN operation failed.</string>
+  <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_phone_book_busy">Phone book is busy now,please try later.</string>
   <string name="fdn_puk_need_tips">PIN2 Blocked. Please change PIN2 and retry!</string>
