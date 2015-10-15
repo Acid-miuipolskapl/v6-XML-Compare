@@ -482,6 +482,7 @@ touch the Shutter button"</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_face_beauty_default">i:0</string>
   <string name="pref_face_beauty_title">Highlight skin tones</string>
+  <string name="pref_front_face_beauty_default">i:0</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_grp_advanced_settings">Advanced settings</string>
   <string name="pref_grp_capture_settings">Capture settings</string>
