@@ -446,6 +446,7 @@
   <string name="vp_skip">Skip intro and credits</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
+  <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Downloading…</string>
   <string name="vp_unknown_source">Unknown source</string>
   <string name="vp_using_16_9">Force 16:9</string>
