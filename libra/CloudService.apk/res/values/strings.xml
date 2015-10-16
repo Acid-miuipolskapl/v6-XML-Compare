@@ -294,12 +294,12 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Use Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Don't use Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Skip this step&lt;/u&gt;</string>
-  <string name="sync_dspt_provision">"Sync
-Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
+  <string name="sync_dspt_provision">"Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings.
 "</string>
+  <string name="sync_dspt_provision_header">Sync</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
   <string name="sync_item_calllog_title">Sync call history</string>

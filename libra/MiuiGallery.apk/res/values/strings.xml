@@ -559,7 +559,7 @@ with friends"</string>
   <string name="confirm_face">Match</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Not this person</string>
+  <string name="confirm_not_face">No match</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Are you sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
@@ -877,7 +877,7 @@ device"</string>
   <string name="no_such_item">"Couldn't find item"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
-  <string name="not_ask_any_more">"Don't ask again when next clicking on \"%s\""</string>
+  <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
   <string name="not_is">No</string>
   <string name="not_now">Not now</string>
@@ -902,7 +902,7 @@ device"</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_secret">Remove from hidden album</string>
   <string name="operation_rename">Rename</string>
-  <string name="operation_rename_baby">Input baby name</string>
+  <string name="operation_rename_baby">Enter name</string>
   <string name="operation_set_as_screensaver">Set as screensaver</string>
   <string name="operation_share">Share</string>
   <string name="operation_successful">Done</string>
