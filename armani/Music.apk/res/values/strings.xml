@@ -2,7 +2,7 @@
 <resources>
   <string name="account">Account</string>
   <string name="account_and_cloud">Account</string>
-  <string name="action_item_add">Add to playlist</string>
+  <string name="action_item_add">Add</string>
   <string name="action_item_add_song">Add to playlist</string>
   <string name="action_item_add_to_current_playlist">Current playlist</string>
   <string name="action_item_add_to_favorite_playlist">Favorite playlist</string>
@@ -34,12 +34,15 @@
   <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Choose a song</string>
   <string name="auto_download_in_wifi">Download favorite songs using WLAN</string>
-  <string name="auto_payment">Renew automatically</string>
+  <string name="auto_payment">Automatic renewal</string>
+  <string name="auto_payment_date">Next payment: %s</string>
   <string name="avail_services">Available</string>
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"Don't use mobile network to stream music"</string>
   <string name="avoid_to_use_traffic_title">Only use WLAN to stream music</string>
   <string name="baidu_music">Baidu music</string>
+  <string name="being_disable_auto_payment">Turning off…</string>
+  <string name="being_enable_auto_payment">Turning on…</string>
   <string name="bill_list_fragment_title">Charts</string>
   <string name="bluetooth_device">Bluetooth audio device</string>
   <string name="buffering">Buffering…</string>
@@ -58,6 +61,7 @@
   <string name="close_music_time">"Time remaining: "</string>
   <string name="cloud_enable">Sync music with Mi Cloud</string>
   <string name="cloud_settings">Sync settings</string>
+  <string name="confirm_to_renew">Renew</string>
   <string name="cp_info_first">Streaming service is provided by Ultimate Inc.</string>
   <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_playlist">Create playlist</string>
@@ -84,6 +88,10 @@
   <string name="dialog_title_name_playlist">Playlist name</string>
   <string name="dialog_title_remove_tracks">Remove</string>
   <string name="dialog_title_track_picker">Choose songs</string>
+  <string name="disable_auto_payment_fail">"Couldn't turn off"</string>
+  <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
+  <string name="disable_auto_payment_success">Turned off</string>
+  <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
   <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
@@ -112,6 +120,10 @@
   <string name="empty_page_no_artist">No artists.</string>
   <string name="empty_page_no_document">No audio files.</string>
   <string name="empty_page_no_track">No songs.</string>
+  <string name="enable_auto_payment_fail">"Couldn't turn on"</string>
+  <string name="enable_auto_payment_fail_message">"Couldn't turn on automatic renewal"</string>
+  <string name="enable_auto_payment_success">Renew automatically</string>
+  <string name="enable_auto_payment_success_message">Turned on automatic renewal. Next payment due on %s.</string>
   <string name="enabled">Enabled</string>
   <string name="english_female">Female artists (US/Europe)</string>
   <string name="english_group">Bands (US/Europe)</string>
@@ -310,10 +322,9 @@
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
   <string name="page_local_setting">Settings</string>
   <string name="pay">Pay:</string>
-  <string name="pay_now">Pay now</string>
+  <string name="pay_now">Current service</string>
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
-  <string name="period_format">%1$s-%2$s</string>
   <string name="play_all_song">Play all</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
   <string name="playlist_deleted_message">Playlist deleted</string>
@@ -336,6 +347,8 @@
   <string name="renew">Renew:</string>
   <string name="renew_1">Renew</string>
   <string name="renew_period">"Expires: "</string>
+  <string name="repeat_all_notif">Repeating all songs.</string>
+  <string name="repeat_current_notif">Repeating current song.</string>
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
   <string name="search_album">Search albums</string>
@@ -375,6 +388,8 @@
   <string name="share_end_note">From Mi Music</string>
   <string name="share_text_list">"Playlist from Mi Music: "</string>
   <string name="share_text_song">"Song in Mi Music: "</string>
+  <string name="shuffle_off_notif">Shuffle is off.</string>
+  <string name="shuffle_on_notif">Shuffle is on.</string>
   <string name="similar_songs">Similar songs</string>
   <string name="sleep_mode">Sleep timer</string>
   <string name="sleep_mode_canceled">Sleep mode turned off</string>
@@ -418,6 +433,7 @@
   <string name="title_online_suggest">You might like</string>
   <string name="title_search_history">Search history</string>
   <string name="title_search_hot">Popular</string>
+  <string name="to_mi_pay">Mi Credits</string>
   <string name="too_freq">Too many requests sent from this device.</string>
   <string name="tos">Terms of Service</string>
   <string name="track_list_control_download">Download</string>
@@ -444,9 +460,15 @@
   <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_to">Upgrade to</string>
   <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
-  <string name="valid_period">"Valid: "</string>
-  <string name="vip_expiration_message">"After your membership expires, you'll only be able to stream music at 128Kbps. Due to legal constraints, some songs are not available to download."</string>
-  <string name="vip_expiration_title">Membership expires soon</string>
+  <string name="valid_period">Valid: %s</string>
+  <string name="vip_auto_renew_message">Your Music subscription will be renewed automatically this evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+  <string name="vip_auto_renew_notification_message">Add Mi Credits to renew your Music subscription.</string>
+  <string name="vip_auto_renew_notification_title">Subscription payment</string>
+  <string name="vip_auto_renew_title">Subscription renewal</string>
   <string name="vip_recommend_title">Get higher quality music</string>
+  <string name="vip_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+  <string name="vip_renew_notification_message">"You won't be able to stream high quality audio after your subscription expires."</string>
+  <string name="vip_renew_notification_title">Subscription expires tomorrow</string>
+  <string name="vip_renew_title">Subscription expired</string>
   <string name="vip_required">Sorry, VIP is required</string>
 </resources>

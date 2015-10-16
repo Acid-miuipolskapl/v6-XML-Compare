@@ -46,6 +46,7 @@
   <string name="query_level_fail">"Couldn't get info"</string>
   <string name="query_user_tasks_fail">"Can't get challenge info"</string>
   <string name="seconds">%ds</string>
+  <string name="start_activity_error">"Can't launch app: %s"</string>
   <string name="take_awarded_package">Redeem</string>
   <string name="take_awarded_package_failed">"Couldn't redeem gift. Wait a minute or two and try again."</string>
   <string name="task">Challenges</string>
