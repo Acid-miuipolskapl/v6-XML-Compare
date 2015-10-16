@@ -404,6 +404,7 @@
   <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 blocked. Change PIN2 and try again.</string>
   <string name="fdn_enabled">Fixed Dialing Numbers are enabled</string>
   <string name="fdn_failed">FDN operation failed.</string>
+  <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_service_unavailable">FDN service is not available.</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>

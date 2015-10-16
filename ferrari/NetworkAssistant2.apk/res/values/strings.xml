@@ -67,7 +67,7 @@
   <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
   <string name="datausage_purchase_none_history">Empty</string>
   <string name="datausage_purchase_order_failure">Purchase failed</string>
-  <string name="datausage_purchase_order_failure_cause">Your purchase failed because…</string>
+  <string name="datausage_purchase_order_failure_cause">Purchase failed…</string>
   <string name="datausage_purchase_order_history">History</string>
   <string name="datausage_purchase_ordering">Purchasing…</string>
   <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
@@ -356,7 +356,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically add apps with data-saving capability to exceptions</string>
   <string name="pref_traffic_saving_compressed">Compressed</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will turning on data saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Why isn't data saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data saver only kicks in when you're using your carrier's network to send or download content."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Will turning on Data saver affect my privacy? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;No. Your data will remain private and will not be shared with third parties. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Why isn't Data saver working? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; Data saver only kicks in when you're using your carrier's network to send or download content."</string>
   <string name="pref_traffic_saving_no_compress">Uncompressed</string>
   <string name="pref_traffic_saving_notify_switch">Show in notification shade</string>
   <string name="pref_traffic_saving_notify_switch_hint">Show data usage stats in notification shade</string>
@@ -378,7 +378,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="protocol_exception_title">Network protocol diagnostics</string>
   <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
   <string name="reach_daily_limit_value_body">Reduce your mobile data usage.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data Saver.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tap to turn on Data saver.</string>
   <string name="reach_daily_limit_value_title">Daily data limit reached</string>
   <string name="read_number">86 articles</string>
   <string name="read_unit">" articles"</string>
@@ -522,6 +522,8 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_msg_today">saved today</string>
   <string name="traffic_saving_need_optimize">Can be optimized</string>
   <string name="traffic_saving_notification_button_start">Activate</string>
+  <string name="traffic_saving_notify_no_apps_saving">No apps are using Data saver</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
   <string name="traffic_saving_notify_start_content">%s saved this month.</string>
   <string name="traffic_saving_notify_start_title">Reduced your data usage</string>
   <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
@@ -537,7 +539,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_title">Data saver</string>
   <string name="traffic_saving_toast_start_mobile">Data saver is on</string>
   <string name="traffic_saving_toast_start_none_mobile">Data saver will start when you begin using mobile data</string>
-  <string name="traffic_saving_toast_start_unreachable">"Can't start data saver"</string>
+  <string name="traffic_saving_toast_start_unreachable">"Can't start Data saver"</string>
   <string name="traffic_saving_toast_stop">Data saver is off</string>
   <string name="traffic_saving_whitelist_btn_add">Add</string>
   <string name="traffic_saving_whitelist_btn_add_app">Add</string>
