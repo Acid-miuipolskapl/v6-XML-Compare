@@ -50,7 +50,7 @@ by %1$s"</string>
   <string name="alarm">Alarm</string>
   <string name="alarm_cycle">Repeat</string>
   <string name="alarm_device_not_connect">You still need to pair your band with this device.</string>
-  <string name="alarm_edit_complete">完成</string>
+  <string name="alarm_edit_complete">Done</string>
   <string name="alarm_notify">Vibrate when alarm sounds</string>
   <string name="alarm_notify_tips2">Band must be paired with your device using Bluetooth when alarm sounds.</string>
   <string name="alarm_once">Once</string>
@@ -59,8 +59,9 @@ by %1$s"</string>
   <string name="alarm_ring">ALARM</string>
   <string name="alarm_setting">Settings</string>
   <string name="alarm_tips">"Band will stop vibrating automatically when it detects you've gotten out of bed. Tap the band's sensor anytime to stop alarm manually. "</string>
-  <string name="alert_body_unable_start_camera">请检查是否已关闭相机权限，如是请开启相机权限。否则请重启手机。</string>
-  <string name="alert_title_unable_start_camera">无法启动相机</string>
+  <string name="alert_msg_unable_start_camera">"Allow Camera usage if you restricted it.
+If you didn't, restart the phone."</string>
+  <string name="alert_title_unable_start_camera">"Can't access Camera"</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mm a</string>
   <string name="ampm_format_hhmmss">hh:mm:ss a</string>
@@ -170,6 +171,8 @@ Can not connect device"</string>
   <string name="body_standard_ref">Weight Reference</string>
   <string name="bohee_subtitle">Tap to learn more.</string>
   <string name="bohee_title">Weight-loss programs available</string>
+  <string name="bracelet_disconnect_tips">手环连接已断开</string>
+  <string name="bracelet_disconnected">手环未连接</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s
@@ -199,6 +202,7 @@ Address: %2$s"</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_figure_bmi_causedby_age">"Can't calculate BMI for ages less than 7"</string>
   <string name="cannot_figure_bmi_causedby_height">"Can't calculate BMI for height less than 1 meter"</string>
+  <string name="cannot_heartrate">未绑定小米手环光感版</string>
   <string name="change_current_weight_report">"Not %1$s?
 Touch to add a new user to the scale."</string>
   <string name="change_weight_for_visitor">"Guest weigh-in history
@@ -295,7 +299,7 @@ Saved %2$s gallons of gas."</string>
   <string name="device_not_found">Device not found</string>
   <string name="device_not_found_not_knocked">"Can't find band. To pair, tap the metal part of the band when it flashes."</string>
   <string name="device_not_response">"Lights aren't flashing?"</string>
-  <string name="devices_miband_label">Band</string>
+  <string name="devices_miband_label">Mi Band</string>
   <string name="devices_scale_label">Scale</string>
   <string name="devices_shoes_label">Shoes</string>
   <string name="dialog_confirm">Got it</string>
@@ -352,7 +356,7 @@ wake up"</string>
   <string name="dynamic_title_weight">Weight</string>
   <string name="dynamic_title_weight_not_nearby">"Can't find scale"</string>
   <string name="dynamic_title_weight_unbind">Weight</string>
-  <string name="edit">编辑</string>
+  <string name="edit">Edit</string>
   <string name="enable_bluetooth">Enable bluetooth</string>
   <string name="enable_bluetooth_hint">Please click allow in the popup dialog</string>
   <string name="enable_debug_log">Debug mode is on</string>
@@ -438,6 +442,7 @@ Use Mi Scale to record your infant's weight"</string>
   <string name="health_goal_tips">Pair Mi Band first.</string>
   <string name="health_link">HealthLink</string>
   <string name="health_provider_desc">Personal health and fitness services.</string>
+  <string name="heartrate">心率</string>
   <string name="heartrate_version">HeartRate version</string>
   <string name="heavier_than_goal">%1$s heavier than goal</string>
   <string name="height_less_than_100">"Can't measure babies less than 100cm tall"</string>
@@ -460,6 +465,7 @@ Use Mi Scale to record your infant's weight"</string>
   <string name="host_change_success">切换主机地址成功</string>
   <string name="hot_des">Energy</string>
   <string name="hour_1">" "</string>
+  <string name="hr_item_date">MM月dd日 HH:mm</string>
   <string name="hug_baby_weight">Weigh infant in arms</string>
   <string name="in"/>
   <string name="incoming_call_notify">Incoming calls</string>
@@ -512,9 +518,11 @@ firmly on the center of the scale."</string>
   <string name="instruction_weight_title_6">Weighing in</string>
   <string name="invalid_name">The name you entered is invalid</string>
   <string name="join_improvement_plan_detial">Help improve Mi Band by sending usage data to Huami Inc.</string>
+  <string name="jump_measure_guide">跳过</string>
   <string name="keep_goal_succ">You maintained your goal</string>
   <string name="kg">kg</string>
   <string name="km">km</string>
+  <string name="lab_factory_average_pace_frequency">平均步频</string>
   <string name="lab_factory_cheat_toast">No cheating!</string>
   <string name="lab_factory_disconnected_reminder">Bluetooth connection notification</string>
   <string name="lab_factory_disconnected_reminder_disconnect">Connect your band and try again</string>
@@ -523,15 +531,21 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_exercise_state_ready">GO</string>
   <string name="lab_factory_exercise_state_stopped">Stop</string>
   <string name="lab_factory_exit_press_again">Touch again to exit</string>
+  <string name="lab_factory_frequency_unit">步/分钟</string>
   <string name="lab_factory_internal_test">运动模式分析测试</string>
   <string name="lab_factory_item_group_open">OPEN</string>
   <string name="lab_factory_item_group_others">Other</string>
   <string name="lab_factory_item_group_social">SOCIAL</string>
   <string name="lab_factory_item_group_sport">ACTIVITIES</string>
+  <string name="lab_factory_left_time">剩余时间</string>
+  <string name="lab_factory_pace_frequency_test">步频测试</string>
+  <string name="lab_factory_restart">重新开始</string>
+  <string name="lab_factory_rt_pace_frequency">实时步频</string>
   <string name="lab_factory_share_photo">Photo</string>
   <string name="lab_factory_share_photo_menu_camera">Camera</string>
   <string name="lab_factory_share_photo_menu_gallery">Gallery</string>
   <string name="lab_factory_share_photo_menu_title">Choose photo from</string>
+  <string name="lab_factory_shoes_not_connected">跑鞋未连接</string>
   <string name="lab_factory_sport_accumulate">%d times total</string>
   <string name="lab_factory_sport_analyser_activity_not_found">"Couldn't load UI"</string>
   <string name="lab_factory_sport_average_rate_per_minute">Velocity &lt;b&gt;%d&lt;/b&gt; time(s)/min</string>
@@ -556,6 +570,7 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_sport_monitor_bracelet_offline">"Band isn't connected"</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Connect your band before you begin %s.</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Sensor will track %s automatically.</string>
+  <string name="lab_factory_sport_monitor_shoes_offline_notice">Connect your shoes before you begin %s.</string>
   <string name="lab_factory_sport_monitor_timeout_notice">No activity detected.</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">"Can't choose more than one"</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Vote for more sports</string>
@@ -595,6 +610,8 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_sport_vote_result_desc">Thanks for voting</string>
   <string name="lab_factory_sport_vote_result_sub_desc">You voted for</string>
   <string name="lab_factory_sport_vote_sub_desc">Coming soon</string>
+  <string name="lab_factory_start">开始</string>
+  <string name="lab_factory_time_label">秒倒计时</string>
   <string name="lab_factory_title">Additional features</string>
   <string name="lab_step_test">踏步测试</string>
   <string name="label_accept_add_friend_by_him">Request accepted</string>
@@ -605,6 +622,7 @@ firmly on the center of the scale."</string>
   <string name="label_care_time_by_me">Nudge %s</string>
   <string name="label_care_time_by_other">%s nudged you</string>
   <string name="label_continue_record">Continue</string>
+  <string name="label_countdown">秒后开始测量</string>
   <string name="label_date_with_week">%1$s/%2$s %3$s</string>
   <string name="label_delete_friend">Remove Friend</string>
   <string name="label_empty_friend">Share fitness data with friends.</string>
@@ -689,6 +707,12 @@ Fell asleep at %3$s, Woke up at %4$s"</string>
   <string name="male">Male</string>
   <string name="marathon_format_0">" is about %1$s marathons"</string>
   <string name="marathon_format_1">" is over %1$s marathons"</string>
+  <string name="measure">测量心率</string>
+  <string name="measure_fail">测量失败</string>
+  <string name="measure_reminder">"测量时抬手臂至与胸同高，手环需避开手腕位置
+底部要紧贴皮肤，避免移动"</string>
+  <string name="measure_tips">请保持手环底部贴紧皮肤</string>
+  <string name="measuring">测量中</string>
   <string name="median">Median</string>
   <string name="message_title_care">Message</string>
   <string name="message_title_friend">Message</string>
@@ -737,6 +761,8 @@ Great work!"</string>
   <string name="new_version_available">Newer version available</string>
   <string name="next_step">Next</string>
   <string name="no_bracelet_tips">(only available when Mi Band is paired)</string>
+  <string name="no_measure_data">无测量信息</string>
+  <string name="no_measure_tips">不再提示</string>
   <string name="no_need_weight_goal">Remove weight goal?</string>
   <string name="no_network_connection">"Can't connect to the network."</string>
   <string name="no_network_connection_retry">Tap to retry.</string>
@@ -790,6 +816,7 @@ Keep at it!"</string>
   <string name="one_min">1 min ago</string>
   <string name="one_week">This week </string>
   <string name="only_one_decimal">"Can't enter more than 1 decimal place"</string>
+  <string name="open_bluetooth_tips">请保持蓝牙开启</string>
   <string name="open_gallery">Open gallery</string>
   <string name="orange">Orange</string>
   <string name="other">ADDITIONAL SETTINGS</string>
@@ -823,6 +850,8 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="please_knock_bracelet">To pair, tap the band.</string>
   <string name="please_set_sport_goal">Set a goal</string>
   <string name="pm">PM</string>
+  <string name="pre_hr_value">上次测量结果</string>
+  <string name="pre_measure">上次测量结果</string>
   <string name="prepare_log">Just a sec…</string>
   <string name="prev_step">Back</string>
   <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
@@ -853,6 +882,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_auto_pause_desc">Stop collecting info when run is paused</string>
   <string name="running_average_speed">Average</string>
   <string name="running_backgroud_notification">Running…</string>
+  <string name="running_bracelet_not_connect">手环未连接</string>
   <string name="running_btn_confirm">Yes</string>
   <string name="running_btn_continue">No</string>
   <string name="running_btn_history">History</string>
@@ -901,6 +931,33 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_gps_main_statistics_speed_disc_br">Speed(min/mile)</string>
   <string name="running_gps_poor_signal">Poor GPS signal. Make sure you have an unobstructed view of the sky.</string>
   <string name="running_gps_turnon">Turn on</string>
+  <string name="running_help">帮助</string>
+  <string name="running_help_foot_people">谁适合尝试前脚掌着地</string>
+  <string name="running_help_foot_suggest1">保持自己的跑步习惯</string>
+  <string name="running_help_foot_suggest2">建议跑者保持习惯的着地方式，不轻易更改。中后掌着地者可穿着缓冲性更好的跑鞋，减少落地冲击。</string>
+  <string name="running_help_foot_suggest3">需要对膝盖进行针对性保护的跑者可尝试跑步中提高 前脚掌着地的比例，并按照以下跑法练习</string>
+  <string name="running_help_foot_suggest4">你可以这样跑</string>
+  <string name="running_help_foot_suggest5">落地点在身体正下方，膝盖略微弯曲； 身体微向前倾；</string>
+  <string name="running_help_foot_suggest6">感觉踩着风火轮，流畅轮转前进；</string>
+  <string name="running_help_foot_suggest7">提速时，提高步频，小步快跑；</string>
+  <string name="running_help_foot_suggest8">连接智能跑鞋，检测前脚掌着地</string>
+  <string name="running_help_foot_suggest9">"跑步前，开启蓝牙，连接手环；
+跑步中，保持蓝牙连接；"</string>
+  <string name="running_help_pace_freq">步频</string>
+  <string name="running_help_pace_freq_illustra">步频就是跑步时每分钟迈出的步数。</string>
+  <string name="running_help_pace_freq_label">什么是步频？</string>
+  <string name="running_help_pace_freq_suggest1">专注于提高步频</string>
+  <string name="running_help_pace_freq_suggest2">一般跑者为了提高速度会本能的增加步幅，但步幅的增加很容易造成肌肉损伤；有经验的跑者会选择增加步频来提高速度。</string>
+  <string name="running_help_pace_freq_suggest3">优秀的长跑运动员每分钟迈出180步，我们也建议以180的步频作为长跑练习的目标。</string>
+  <string name="running_help_pace_freq_suggest4">连接手环，检测步频</string>
+  <string name="running_help_pace_freq_suggest5">"跑步前，开启蓝牙，连接手环；
+跑步中，保持蓝牙连接；"</string>
+  <string name="running_help_pace_freq_target">目标步频</string>
+  <string name="running_help_pre_foot">前脚掌着地</string>
+  <string name="running_help_pre_mid_foot">前脚掌/中后掌着地</string>
+  <string name="running_help_pros_cons">二者的利弊</string>
+  <string name="running_help_slow_run">慢跑时，多数人自然状态是中后掌着地，只有小部分 人是前掌。随着跑步速度的提升，前掌着地比例会提 升。例如100米赛跑，基本都是前脚掌着地。。</string>
+  <string name="running_help_slow_run_suggest">慢跑时，多数人自然状态是中后掌着地，只有小部分 人是前掌。随着跑步速度的提升，前掌着地比例会提 升。例如100米赛跑，基本都是前脚掌着地。。二者各有利弊，中后掌着地时，脚跟受到落地冲击，对膝盖的冲击较大。而前掌着地对膝盖冲击较小，但是对跟腱和小腿肌肉素质要求较高。</string>
   <string name="running_helper">Route tracker</string>
   <string name="running_history">History</string>
   <string name="running_history_child_date_format">%1$d</string>
@@ -955,6 +1012,7 @@ to Pause"</string>
   <string name="running_num_unknown">--</string>
   <string name="running_pace">Pace</string>
   <string name="running_pace_detail">%s/km</string>
+  <string name="running_pace_empty">--</string>
   <string name="running_pause">Pause</string>
   <string name="running_percent_mark">%</string>
   <string name="running_pound">pound</string>
@@ -981,7 +1039,10 @@ to Pause"</string>
   <string name="running_share_to_topic">\#Mi Fit#</string>
   <string name="running_share_to_watermark">My watermark photo</string>
   <string name="running_shoes">Shoes</string>
+  <string name="running_shoes_connected">已连接</string>
   <string name="running_shoes_mile_unit">%1$smile</string>
+  <string name="running_shoes_not_connect">跑鞋未连接</string>
+  <string name="running_shoes_not_connected">未连接</string>
   <string name="running_shoes_unbinded">Not bound</string>
   <string name="running_short_track_desc">You only ran %d meters. Cancel your run now?</string>
   <string name="running_signal_none">Off</string>
@@ -1001,6 +1062,12 @@ to Pause"</string>
   <string name="running_stop_sport_confirm">Stop activity?</string>
   <string name="running_synchronous">Synchronize</string>
   <string name="running_time_desc">Time</string>
+  <string name="running_tip_conn_shoes">跑鞋连接后，可显示步频</string>
+  <string name="running_tip_known">知道了</string>
+  <string name="running_tip_open_ble_content">手环连接后，可显示步频</string>
+  <string name="running_tip_open_ble_label">请开启蓝牙</string>
+  <string name="running_tip_use_bracelet_content">可检测实时步频</string>
+  <string name="running_tip_use_bracelet_label">使用手环后</string>
   <string name="running_today_null"/>
   <string name="running_unlogin_notice">"You haven't logged in. Data can't be synchronized to the server and may be lost during using the app. Log in now？"</string>
   <string name="running_unsynchronous">Unsynchronize</string>
@@ -1012,7 +1079,7 @@ to Pause"</string>
   <string name="running_year_null"/>
   <string name="s_mili">Mi Band</string>
   <string name="scan_label">Put the QRCode in the square to scan.</string>
-  <string name="sdcarderror">SDCard不存在或者写保护</string>
+  <string name="sdcarderror">"Make sure SD card is inserted and isn't read-only."</string>
   <string name="search_again">Try again</string>
   <string name="search_bracelet">Searching…</string>
   <string name="search_bracelet_ok">Band detected</string>
@@ -1146,11 +1213,13 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="shoes_bind_alert_title">"Couldn't pair"</string>
   <string name="shoes_bind_change_ok">Replace</string>
   <string name="shoes_bind_change_text" formatted="false">"You've already paired %s shoes, Pair %s instead?"</string>
-  <string name="shoes_bind_prompt">"Align core module's QR code in the frame above"</string>
+  <string name="shoes_bind_prompt">"请晃动华米智芯
+然后将华米智芯的二维码放在取景框中"</string>
   <string name="shoes_bind_success">Paired</string>
   <string name="shoes_bind_title">Pair shoes</string>
   <string name="shoes_binded">Paired</string>
   <string name="shoes_binding">Pairing…</string>
+  <string name="shoes_brand">李宁智能跑鞋</string>
   <string name="shoes_bt_disable_lable">Bluetooth is off</string>
   <string name="shoes_buy">Buy</string>
   <string name="shoes_calibrate_bind_first">Pair shoes first</string>
@@ -1165,7 +1234,7 @@ with Li-Ning logo facing up"</string>
   <string name="shoes_calibrate_suggestion">Remember to recalibrate every time after removing the sensor</string>
   <string name="shoes_calibrating">Calibrating…</string>
   <string name="shoes_cancel">Cancel</string>
-  <string name="shoes_check_upgrade_waiting">New firmware available, please wait…</string>
+  <string name="shoes_check_upgrade_waiting">Getting update info…</string>
   <string name="shoes_connect_failed">"Couldn't connect, shake sensor lightly to activate"</string>
   <string name="shoes_connected">Connected</string>
   <string name="shoes_connecting">Connecting…</string>
@@ -1206,15 +1275,17 @@ with Li-Ning logo facing up"</string>
   <string name="shoes_home_tips_sync_failed_retry">"Couldn't sync, try again"</string>
   <string name="shoes_introduction">About</string>
   <string name="shoes_mile_unit">%1$smiles</string>
+  <string name="shoes_not_binded">跑鞋未连接</string>
   <string name="shoes_not_connected">Shoes not connected</string>
   <string name="shoes_package_name">com.xiaomi.hm.health.shoes</string>
   <string name="shoes_put_done">Done</string>
   <string name="shoes_recalibrate">Try again</string>
   <string name="shoes_release_binding">Unpair</string>
+  <string name="shoes_reminder">未连接跑鞋时，跑步无法记录前脚掌着地数据</string>
   <string name="shoes_scanf_alert_msg">Scan the QR code placed on Huami core module</string>
   <string name="shoes_scanf_alert_title">QR code invalid</string>
   <string name="shoes_select_shoes">Select shoes</string>
-  <string name="shoes_show_battery_okay">Battery%s%%</string>
+  <string name="shoes_show_battery_okay">Battery %s%%</string>
   <string name="shoes_skip">Skip</string>
   <string name="shoes_skip_calibrate_prompt">You need to calibrate to get accurate data. Skip calibration?</string>
   <string name="shoes_smart_shoes">%s</string>
@@ -1227,9 +1298,13 @@ with Li-Ning logo facing up"</string>
   <string name="shoes_unbind_prompt">"Your shoes won't be able to sync running data with your phone."</string>
   <string name="shoes_unbind_success">Unpaired</string>
   <string name="shoes_usage">%s km</string>
-  <string name="shoes_used_distance">Life span</string>
+  <string name="shoes_used_distance">Shoes mileage</string>
   <string name="signal_strength">"Signal strength: "</string>
   <string name="skip">Skip</string>
+  <string name="sleep_assist">睡眠辅助</string>
+  <string name="sleep_assist_info">入睡后每2分钟自动测量心率使睡眠监测更准确</string>
+  <string name="sleep_assist_tips">夜间周期性测量心率以提高睡眠检测精度（开启会降低续航时间）</string>
+  <string name="sleep_assist_title">心率辅助睡眠检测</string>
   <string name="smaller_than_normal_with_value">%1$s below average</string>
   <string name="smart_alarm_clock">Alarm</string>
   <string name="smart_alarm_notify">Alarm</string>
@@ -1328,6 +1403,7 @@ with Li-Ning logo facing up"</string>
   <string name="tag_start">Start</string>
   <string name="tag_wait">Waiting</string>
   <string name="tag_waiting">请稍后………</string>
+  <string name="this_measure">本次测量结果</string>
   <string name="time_format_hour_min">%1$sh %2$sm</string>
   <string name="time_format_min">%s min</string>
   <string name="tips">REMINDER</string>
@@ -1335,8 +1411,6 @@ with Li-Ning logo facing up"</string>
   <string name="title_activity_baby_tips_detail">Weigh infant</string>
   <string name="title_activity_baby_weight">Weigh infant</string>
   <string name="title_activity_baby_weight_info">Weigh infant</string>
-  <string name="title_activity_heart_rate_main">HeartRateMainActivity</string>
-  <string name="title_activity_heart_rate_setting">HeartRateSettingActivity</string>
   <string name="title_activity_mark">MarkData</string>
   <string name="title_activity_open">Sync with account</string>
   <string name="title_activity_record_weight">Record weight</string>
@@ -1382,6 +1456,7 @@ with Li-Ning logo facing up"</string>
   <string name="unit_calorie">" Cal"</string>
   <string name="unit_foot">" feet"</string>
   <string name="unit_hour">"h "</string>
+  <string name="unit_hr">次/分</string>
   <string name="unit_inch">" inches"</string>
   <string name="unit_kilometer">" km"</string>
   <string name="unit_meter">" m"</string>
