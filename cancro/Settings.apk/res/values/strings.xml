@@ -177,7 +177,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">This app is not supported in restricted profiles</string>
-  <string name="app_notifications_switch_label">Custom notification</string>
+  <string name="app_notifications_switch_label">Notifications</string>
   <string name="app_ops_never_used">(Never used)</string>
   <string name="app_ops_running">Running</string>
   <string name="app_ops_settings">App ops</string>
@@ -2292,7 +2292,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_app_disable_notification">Hide notifications</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
-  <string name="status_bar_app_enable_on_notificationBar">Show in notification shade</string>
+  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>

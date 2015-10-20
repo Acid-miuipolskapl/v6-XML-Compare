@@ -156,6 +156,7 @@
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
   <string name="hint_apk_download">Install this application</string>
+  <string name="hint_apk_download_format">Install \"%1$s\" application</string>
   <string name="hint_apk_install">Install this app</string>
   <string name="hint_apk_text_update">Install update (%1$s) now?</string>
   <string name="hint_apk_title_update">Update available (%1$s)</string>
