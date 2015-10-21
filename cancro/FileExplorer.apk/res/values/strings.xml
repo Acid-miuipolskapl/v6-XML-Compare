@@ -36,6 +36,8 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Can't send that many items"</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_error">"Couldn't remove, try again"</string>
+  <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>
   <string name="category">Categories</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
@@ -94,7 +96,11 @@
   <string name="decompress_title">Extract</string>
   <string name="decompress_to">Extract files to…</string>
   <string name="decompress_to_here">Extract here</string>
+  <string name="decrypt">Remove from private</string>
+  <string name="decrypt_error">"Couldn't decrypt"</string>
+  <string name="decrypting">Decrypting…</string>
   <string name="delete_dialog_button">Delete</string>
+  <string name="delete_error">"Couldn't delete files, try again"</string>
   <string name="delete_failed">"Can't delete"</string>
   <string name="delete_file">Delete this file?</string>
   <string name="delete_file_error">"Couldn't delete file"</string>
@@ -109,6 +115,7 @@
   <string name="dialog_type_image">Images</string>
   <string name="dialog_type_text">Docs</string>
   <string name="dialog_type_video">Videos</string>
+  <string name="dir_not_support">"This folder can't be made private."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty</string>
   <string name="dlg_error_unmount_text">Failed to unmount USB storage.</string>
@@ -118,6 +125,9 @@
   <string name="downloading">Downloading</string>
   <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
+  <string name="encrypt_error">"Couldn't make files private, try again"</string>
+  <string name="encrypt_success">All files made private</string>
+  <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
   <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
@@ -197,9 +207,11 @@ Our server is down at the moment. Please try again later…
   <string name="loading">Loading…</string>
   <string name="local_image">Photos</string>
   <string name="local_music">Music</string>
+  <string name="local_sticker_str">Downloaded</string>
   <string name="local_video">Video</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
+  <string name="make_private">Make private</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Clean up</string>
   <string name="menu_item_ftp">FTP</string>
@@ -218,6 +230,7 @@ Our server is down at the moment. Please try again later…
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Can't cut"</string>
   <string name="move_to">Move to…</string>
+  <string name="msg_set_password">Set password first</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="my_app">App data</string>
   <string name="my_app_desc"/>
@@ -250,15 +263,29 @@ Our server is down at the moment. Please try again later…
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
   <string name="network_connect_confirm_des">File Explorer needs to connect to the internet to work normally.</string>
+  <string name="network_spent_reminding">Opening this page requires some traffic from your data plan.</string>
+  <string name="network_spent_reminding_title">Data usage notification</string>
   <string name="never_notify_network_connect">Remember preference</string>
   <string name="new_folder_name">Unnamed folder</string>
+  <string name="new_function">About Private folders</string>
+  <string name="new_function_info">"Private folder is a new MIUI feature.
+You can encrypt your files
+and store them in a safe place.
+
+Pull down on the home page to check it out."</string>
+  <string name="new_function_str">"WeChat stickers can now be collected automatically.
+Download them when you want
+and never miss the cool new ones!"</string>
+  <string name="new_function_title_str">About WeChat stickers</string>
   <string name="no">No</string>
   <string name="no_app_tags">Empty</string>
   <string name="no_display_file">"Can't display %1$s"</string>
   <string name="no_enough_storage_indication">"Device's storage space is full."</string>
   <string name="no_enough_storage_title">Not enough space</string>
   <string name="no_file">Empty</string>
+  <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
   <string name="no_more_space">Not enough space.</string>
+  <string name="no_network_str">"Couldn't connect to the network. Check your network connection and try again."</string>
   <string name="no_recent_files">No recent files</string>
   <string name="no_tasks">No tasks.</string>
   <string name="no_wifi">No network detected</string>
@@ -280,6 +307,7 @@ Our server is down at the moment. Please try again later…
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied.</string>
   <string name="open_file_failed">"Can't open"</string>
+  <string name="open_private_folder">Creating a private folder…</string>
   <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
   <string name="operation_add_fav">Adding to starred…</string>
@@ -320,15 +348,27 @@ Our server is down at the moment. Please try again later…
   <string name="operation_show_sys">Show hidden files</string>
   <string name="operation_unfavorite">Unstar</string>
   <string name="pan_settting">KuaiPan settings</string>
+  <string name="partial_cancel_successful">"Couldn't remove some files. The rest of the files moved to sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
+  <string name="partial_encrypt_success">"Couldn't make some files private, try again"</string>
+  <string name="partial_repair_done">Restored some files successfully</string>
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Phone</string>
   <string name="port_range">Port must be between 1024–65535</string>
+  <string name="private_files">Private</string>
+  <string name="private_folder">Private folder</string>
+  <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
   <string name="pull_to_signin">Swipe down to check in.</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>
   <string name="rename_description">Renaming…</string>
   <string name="rename_failed">"Can't rename %1$s"</string>
+  <string name="repair_done">Restored</string>
+  <string name="repair_error">"Couldn't restore"</string>
+  <string name="repair_file">Restore encrypted files</string>
+  <string name="reset_password">Reset password</string>
+  <string name="restoring">Restoring…</string>
   <string name="rlv_last_refreshing_time">Updated %1$s</string>
   <string name="rlv_loading_more">Just a sec…</string>
   <string name="rlv_pull_to_refresh">Pull to refresh</string>
@@ -387,6 +427,14 @@ Our server is down at the moment. Please try again later…
   <string name="share_box_receive">Received</string>
   <string name="share_box_send">Sent</string>
   <string name="share_link_failed">"Couldn't generate link."</string>
+  <string name="shared_sticker_network_permission_tip">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="shared_sticker_page_no_file">"Couldn't connect to the network. Check your network connection and try again."</string>
+  <string name="shared_sticker_str">Shared by Mi fans</string>
+  <string name="shared_sticker_suffix">Sticker at %s</string>
+  <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.
+(GIFs can be added to Custom in WeChat Stickers)."</string>
+  <string name="shared_sticker_use_tip_title">How to use stickers</string>
+  <string name="shared_str">Shared by %s</string>
   <string name="show_message">You need to download this file before you can open it.</string>
   <string name="sign_description">Signing in…</string>
   <string name="signin_error">"Can't connect to the server. Check your network connection."</string>
@@ -426,6 +474,8 @@ Free space added %1$s"</string>
   <string name="toast_file_not_can_read">No app was found to handle this action.</string>
   <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
+  <string name="transfer_done">Files moved successfully.</string>
+  <string name="transfer_private_data">Moving private files from SD card…</string>
   <string name="transing">Sending</string>
   <string name="trash_box_capacity">Recycle bin %1$s</string>
   <string name="trash_box_link">To empty your trash, visit &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -453,6 +503,7 @@ Free space added %1$s"</string>
   <string name="user_guide_save_file">Save your files using KuaiPan</string>
   <string name="user_guide_summary">A brief overview</string>
   <string name="user_guide_upload_to_kuaipan">Store items on KuaiPan from your phone</string>
+  <string name="user_not_login">Sign in first</string>
   <string name="utf8_summary">System FTP default encoding</string>
   <string name="utf8_title">UTF-8</string>
   <string name="wait_net">Waiting for network</string>
@@ -461,6 +512,7 @@ Free space added %1$s"</string>
   <string name="waiting">Waiting</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="wechat_video">Video at %s</string>
+  <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">WLAN network</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
