@@ -80,6 +80,19 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
+  <string name="add_fingerprint_done_msg">Now you can unlock your device with your fingerprint.</string>
+  <string name="add_fingerprint_done_title">Done!</string>
+  <string name="add_fingerprint_finished_button_text">Done</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the sensor.
+Make sure your finger covers the inner edge of the sensor"</string>
+  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
+  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
+  <string name="add_fingerprint_move_finger_title">Remove finger</string>
+  <string name="add_fingerprint_put_finger_edge_msg">After pressing the sensor, remove the finger, and repeat again.</string>
+  <string name="add_fingerprint_put_finger_msg">After pressing the sensor, remove the finger, and repeat again.</string>
+  <string name="add_fingerprint_put_finger_title">Place finger</string>
+  <string name="add_fingerprint_text">Add fingerprint</string>
+  <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
@@ -164,7 +177,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title"/>
   <string name="app_not_supported_in_limited">This app is not supported in restricted profiles</string>
-  <string name="app_notifications_switch_label">Custom notification</string>
+  <string name="app_notifications_switch_label">Notifications</string>
   <string name="app_ops_never_used">(Never used)</string>
   <string name="app_ops_running">Running</string>
   <string name="app_ops_settings">App ops</string>
@@ -184,7 +197,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="applications_settings">Installed apps</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
+  <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_password_to_category_title">Apply password to…</string>
   <string name="apply_update_fail">Update failed</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
@@ -773,6 +788,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_input_method">Choose default keyboard</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
+  <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+  <string name="delete_fingerprint_text">Remove fingerprint</string>
+  <string name="delete_legacy_fingerprint">Delete</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -988,6 +1007,11 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
+  <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
+  <string name="fingerprint_identificating_msg">Scanning fingerprint…</string>
+  <string name="fingerprint_identify_input_password_msg">Enter password</string>
+  <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+  <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
@@ -1133,6 +1157,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
   <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
+  <string name="information_dialog_button_text">Got it</string>
   <string name="input_method">Keyboard</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
@@ -1178,6 +1203,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="join_many_items_last">%1$s and %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s and %2$s</string>
+  <string name="keep_legacy_fingerprint">Keep</string>
   <string name="keep_screen_on">Stay awake</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
   <string name="kernel_version">Kernel version</string>
@@ -1412,6 +1438,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="master_clear_personal_data_sdcard">"Erase your personal info and content? You can't reverse this action!"</string>
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
+  <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
   <string name="media_button">Media button</string>
   <string name="media_feedback_enable_title">Vibrate with the beat</string>
   <string name="media_format_button_text">Erase SD card</string>
@@ -1688,6 +1715,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
+  <string name="password_entrance_title">Password</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performance</string>
@@ -2109,6 +2137,7 @@ This setting affects all users on this phone."</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
   <string name="search_wifi_display">wifi display</string>
+  <string name="secure_keyguard_business_title">Lock screen password</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
   <string name="security_keyguard_category_name">Lock screen</string>
@@ -2261,7 +2290,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_app_disable_notification">Hide notifications</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
-  <string name="status_bar_app_enable_on_notificationBar">Show in notification shade</string>
+  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2469,9 +2498,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
+  <string name="turn_off_common_password_confirm_msg">The password will be turned of as well.</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
+  <string name="turn_on_security_lock">Add security password</string>
   <string name="under_keyguard">Lock screen</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_text">Uninstall</string>

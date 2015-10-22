@@ -208,6 +208,7 @@
   <string name="notice_button_ok_and_go_on">同意并继续</string>
   <string name="notice_title_agreement">声明与条款</string>
   <string name="notice_title_request">Request</string>
+  <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">订阅日历</string>
   <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
   <string name="online_reminder_change_text">修改提醒</string>
