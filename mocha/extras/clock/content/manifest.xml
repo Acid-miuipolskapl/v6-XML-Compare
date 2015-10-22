@@ -203,7 +203,7 @@
 	<Image x="#view_width/2" y="#view_height/2" align="center" alignV="center" src="bg.png"/>
 	<!--时钟大刻度-->
 	<Group name="graduation_00">
-		<Image name="graduation_0" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="0" antiAlias="true">
+		<Rectangle name="graduation_0" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="0" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -216,8 +216,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_5" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="30" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_5" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="30" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -230,8 +230,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_10" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="60" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_10" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="60" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -244,8 +244,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_15" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="90" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_15" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="90" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -258,8 +258,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_20" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="120" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_20" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="120" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -272,8 +272,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_25" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="150" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_25" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="150" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -286,8 +286,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_30" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="180" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_30" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="180" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -300,8 +300,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_35" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="210" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_35" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="210" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -314,8 +314,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_40" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="240" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_40" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="240" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -328,8 +328,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_45" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="270" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_45" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="270" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -342,8 +342,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_50" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="300" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_50" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="300" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -356,8 +356,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_55" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" src="graduation_big.9.png" centerX="2" centerY="177" angle="330" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_55" x="#view_width/2" y="#view_height/2-177" w="4" h="29" align="center" centerX="2" centerY="177" fillColor="#ff4fa5f0" angle="330" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -370,12 +370,12 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
+		</Rectangle>
 		<!--时钟小刻度-->
 	</Group>
 	<Group name="graduation_02">
-		<Image name="graduation_1" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="6" antiAlias="true">
-			<AlphaAnimation>
+		<Rectangle name="graduation_1" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="6" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -387,9 +387,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_2" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="12" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_2" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="12" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -401,9 +401,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_3" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="18" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_3" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="18" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -415,9 +415,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_4" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="24" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_4" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="24" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -429,9 +429,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_6" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="36" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_6" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="36" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -443,9 +443,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_7" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="42" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_7" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="42" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -457,9 +457,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_8" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="48" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_8" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="48" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -471,9 +471,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_9" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="54" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_9" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="54" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -485,9 +485,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_11" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="66" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_11" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="66" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -499,9 +499,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_12" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="72" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_12" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="72" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -513,9 +513,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_13" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="78" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_13" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="78" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -527,9 +527,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_14" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="84" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_14" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="84" antiAlias="true">
+		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -541,9 +541,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_16" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="96" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_16" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="96" antiAlias="true">
+		    <AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -555,9 +555,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_17" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="102" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_17" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="102" antiAlias="true">
+     		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -569,9 +569,9 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_18" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="108" antiAlias="true">
-			<AlphaAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_18" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="108" antiAlias="true">
+    		<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
 				<Alpha a="255" time="9999999999"/>
@@ -583,8 +583,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_19" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="114" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_19" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="114" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -597,8 +597,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_21" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="126" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_21" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="126" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -611,8 +611,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_22" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="132" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_22" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="132" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -625,8 +625,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_23" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="138" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_23" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="138" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -639,8 +639,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_24" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="144" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_24" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="144" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -653,8 +653,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_26" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="156" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_26" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="156" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -667,8 +667,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_27" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="162" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_27" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="162" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -681,8 +681,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_28" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="168" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_28" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="168" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -695,8 +695,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_29" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="174" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_29" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="174" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -709,8 +709,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_31" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="186" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_31" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="186" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -723,8 +723,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_32" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="192" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_32" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="192" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -737,8 +737,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_33" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="198" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_33" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="198" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -751,8 +751,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_34" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="204" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_34" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="204" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -765,22 +765,22 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_36" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="216" antiAlias="true">
-		</Image>
-		<AlphaAnimation>
-			<Alpha a="0" time="0"/>
-			<Alpha a="255" time="400"/>
-			<Alpha a="255" time="9999999999"/>
-		</AlphaAnimation>
-		<PositionAnimation>
-			<Position x="-30*sin(216/180*3.1415926)" y="30*cos(216/180*3.1415926)" time="0"/>
-			<Position x="-30*sin(216/180*3.1415926)*2/3" y="30*cos(216/180*3.1415926)*2/3" time="50"/>
-			<Position x="-30*sin(216/180*3.1415926)*1/3" y="30*cos(216/180*3.1415926)*1/3" time="150"/>
-			<Position x="0" y="0" time="400"/>
-			<Position x="0" y="0" time="9999999999"/>
-		</PositionAnimation>
-		<Image name="graduation_37" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="222" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_36" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="216" antiAlias="true">
+		    <AlphaAnimation>
+		    	<Alpha a="0" time="0"/>
+		    	<Alpha a="255" time="400"/>
+		    	<Alpha a="255" time="9999999999"/>
+		    </AlphaAnimation>
+		    <PositionAnimation>
+		    	<Position x="-30*sin(216/180*3.1415926)" y="30*cos(216/180*3.1415926)" time="0"/>
+		    	<Position x="-30*sin(216/180*3.1415926)*2/3" y="30*cos(216/180*3.1415926)*2/3" time="50"/>
+		    	<Position x="-30*sin(216/180*3.1415926)*1/3" y="30*cos(216/180*3.1415926)*1/3" time="150"/>
+		    	<Position x="0" y="0" time="400"/>
+		    	<Position x="0" y="0" time="9999999999"/>
+		    </PositionAnimation>
+		</Rectangle>
+		<Rectangle name="graduation_37" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="222" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -793,8 +793,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_38" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="228" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_38" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="228" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -807,8 +807,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_39" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="234" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_39" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="234" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -821,8 +821,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_41" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="246" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_41" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="246" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -835,8 +835,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_42" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="252" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_42" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="252" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -849,8 +849,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_43" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="258" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_43" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="258" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -863,8 +863,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_44" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="264" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_44" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="264" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -877,8 +877,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_46" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="276" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_46" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="276" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -891,8 +891,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_47" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="282" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_47" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="282" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -905,8 +905,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_48" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="288" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_48" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="288" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -919,8 +919,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_49" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="294" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_49" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="294" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -933,8 +933,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_51" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="306" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_51" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="306" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -947,8 +947,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_52" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="312" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_52" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="312" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -961,8 +961,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_53" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="318" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_53" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="318" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -975,8 +975,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_54" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="324" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_54" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="324" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -989,8 +989,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_56" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="336" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_56" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="336" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -1003,8 +1003,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_57" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="342" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_57" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="342" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -1017,8 +1017,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_58" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="348" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_58" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="348" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -1031,8 +1031,8 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
-		<Image name="graduation_59" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" src="white.9.png" centerX="1" centerY="177" angle="354" antiAlias="true">
+		</Rectangle>
+		<Rectangle name="graduation_59" x="#view_width/2" y="#view_height/2-177" w="2" h="18" align="center" centerX="1" centerY="177" fillColor="#ffffffff" alpha="63.75" angle="354" antiAlias="true">
 			<AlphaAnimation>
 				<Alpha a="0" time="0"/>
 				<Alpha a="255" time="400"/>
@@ -1045,10 +1045,11 @@
 				<Position x="0" y="0" time="400"/>
 				<Position x="0" y="0" time="9999999999"/>
 			</PositionAnimation>
-		</Image>
+		</Rectangle>
 	</Group>
 	<!--时针 (x,y)图片左上角的绝对位置，(centerX,centerY)图片旋转时相对于自身的圆心-->
-	<Image name="second" x="#view_width/2" y="#view_height/2-61" w="5" h="186" align="center" alignV="center" centerX="2.5" centerY="154" src="hand_sceond.9.png" angle="#second*6" antiAlias="true">
+	
+	<Rectangle name="second" x="#view_width/2" y="#view_height/2-61" w="5" h="186" align="center" alignV="center" centerX="2.5" centerY="154" fillColor="#ff4fa5f0" angle="#second*6" antiAlias="true">
 		<AlphaAnimation>
 			<Alpha a="0" time="0"/>
 			<Alpha a="255" time="1000"/>
@@ -1063,9 +1064,9 @@
 			<Rotation angle="-0" time="1000"/>
 			<Rotation angle="0" time="9999999999"/>
 		</RotationAnimation>
-	</Image>
+	</Rectangle>
 	<!--分针-->
-	<Image name="minute" x="#view_width/2" y="#view_height/2-76" w="6" h="204" align="center" alignV="center" centerX="3" centerY="178" src="hand_minute.9.png" angle="#minute*6" antiAlias="true">
+	<Rectangle name="minute" x="#view_width/2" y="#view_height/2-76" w="6" h="204" align="center" alignV="center" centerX="3" centerY="178" fillColor="#ff9ecbf2" angle="#minute*6" antiAlias="true">
 		<AlphaAnimation>
 			<Alpha a="0" time="0"/>
 			<Alpha a="255" time="1000"/>
@@ -1080,9 +1081,9 @@
 			<Rotation angle="-0" time="1000"/>
 			<Rotation angle="0" time="9999999999"/>
 		</RotationAnimation>
-	</Image>
+    </Rectangle>
 	<!--时针-->
-	<Image name="hour" x="#view_width/2" y="#view_height/2-42" w="10" h="134" align="center" alignV="center" centerX="5" centerY="109" src="hand_hour.9.png" angle="#hour12*30+#minute/2" antiAlias="true">
+	<Rectangle name="hour" x="#view_width/2" y="#view_height/2-42" w="10" h="134" align="center" alignV="center" centerX="5" centerY="109" fillColor="#ffcee6fc" angle="#hour12*30+#minute/2" antiAlias="true">
 		<AlphaAnimation>
 			<Alpha a="0" time="0"/>
 			<Alpha a="255" time="1000"/>
@@ -1097,8 +1098,7 @@
 			<Rotation angle="-0" time="1000"/>
 			<Rotation angle="0" time="9999999999"/>
 		</RotationAnimation>
-	</Image>
-
+	</Rectangle>
 	<Button w="#view_width" h="#view_height">
 		<Triggers>
 			<Trigger action="up">

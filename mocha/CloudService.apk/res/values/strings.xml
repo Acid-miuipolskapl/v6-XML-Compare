@@ -85,9 +85,7 @@ Last backed up on %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
-  <string name="find_device_send_sms_alert">"
-
-If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
+  <string name="find_device_send_sms_alert">If you switch SIM cards, another SMS may be sent automatically to reactivate this feature.</string>
   <string name="find_device_status_ok">Find your device from anywhere at i.mi.com</string>
   <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
@@ -110,6 +108,11 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
+  <string name="micloud_all_sub_1_intl_sms">"International SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_all_sub_1_sms">"Regular SMS will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 text messages (regular and international) will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_all_sub_2_intl_sms">"2 international text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
+  <string name="micloud_all_sub_2_sms">"2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier. When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
   <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
