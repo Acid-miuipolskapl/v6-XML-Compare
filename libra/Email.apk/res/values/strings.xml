@@ -144,7 +144,7 @@
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
   <string name="add_account">Add account</string>
-  <string name="add_attachment">Attach Files</string>
+  <string name="add_attachment">Add attachment</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">Add folder</string>
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
@@ -160,7 +160,7 @@
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
-  <string name="att_file_not_exists">File %s is not found!</string>
+  <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Name</string>
@@ -173,15 +173,15 @@
   <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentation</string>
   <string name="attachment_audio">Audio</string>
-  <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
-  <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
+  <string name="attachment_canceling">Cancelling…</string>
+  <string name="attachment_decoding">Unpacking attachments…</string>
   <string name="attachment_download_all">Download all</string>
   <string name="attachment_image">Image</string>
   <string name="attachment_list_search_hint">Search attachments</string>
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
-  <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
-  <string name="attachment_open_SecurityException_title">Failed to open file</string>
+  <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
+  <string name="attachment_open_SecurityException_title">"Can't open file"</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -228,7 +228,7 @@
   <string name="colon">:</string>
   <string name="compose">Compose</string>
   <string name="compose_attachment_number_limit">The number of attachment can not exceed 10 !</string>
-  <string name="compose_picturesexceedlimits">The number of inline image can not exceed 5 !</string>
+  <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
@@ -247,8 +247,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
-  <string name="contact_in_filter_call_phone_str">call: %s</string>
-  <string name="contact_in_filter_title">Comes from him(her).</string>
+  <string name="contact_in_filter_call_phone_str">Call from %s</string>
+  <string name="contact_in_filter_title">" from this person."</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
@@ -309,6 +309,7 @@
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
+  <string name="disturb_switch">Do not disturb</string>
   <string name="done">Done</string>
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
@@ -416,6 +417,8 @@
   <string name="get_database_exception">"Clear this app's data in Settings &gt; System apps and try again."</string>
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
+  <string name="gmail_login_failed_non_proxy_title">Access Gmail server failed</string>
+  <string name="gmail_server_authorization_deleted">Fetch the access authorization failed,please re-cert.</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
@@ -582,12 +585,12 @@
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
   <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+  <string name="outbox_alert_description_fail_network">Network anomaly.</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
-  <string name="outbox_alert_description_time_out">Network connection timed out</string>
   <string name="outbox_alert_duplicate_click">Still syncing…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
@@ -740,8 +743,8 @@
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft_failed">Save draft failed</string>
-  <string name="save_power_summary">Notifications for emails that arrive will be silenced</string>
-  <string name="save_power_title">Do not disturb</string>
+  <string name="save_power_summary">Save energy in the setting time</string>
+  <string name="save_power_title">Power saving mode</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
   <string name="sdcard_cannot_use">"Can't use SD card"</string>
@@ -779,7 +782,7 @@
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
   <string name="settings_activity_title">Settings</string>
-  <string name="share_choose">Please choose</string>
+  <string name="share_choose">Choose file to share</string>
   <string name="sharing">Share</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
@@ -834,7 +837,7 @@
   <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
-  <string name="too_large_to_attach_single">"Can't attach file using %1$s."</string>
+  <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="trash_folder_selection_title">Select server trash folder for %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
