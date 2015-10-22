@@ -238,7 +238,10 @@
         <item>21</item>
     </integer-array>
     <integer-array name="config_virtualKeyVibePattern">
+        <item>0</item>
+        <item>10</item>
         <item>20</item>
+        <item>30</item>
     </integer-array>
     <integer-array name="config_keyboardTapVibePattern">
         <item>40</item>
