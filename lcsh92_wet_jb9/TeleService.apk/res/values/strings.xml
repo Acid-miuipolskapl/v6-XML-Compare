@@ -802,8 +802,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="place_a_call2">Subscription 2</string>
   <string name="place_a_call3">Subscription 3</string>
   <string name="plmn_list_setting_title">Preferred networks</string>
-  <string name="pocket_mode_summary">Lock automatically when placed in a pocket</string>
-  <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
