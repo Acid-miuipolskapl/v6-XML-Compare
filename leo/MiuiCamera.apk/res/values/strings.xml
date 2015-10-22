@@ -17,6 +17,7 @@
   <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
   <string name="camera_disabled">Camera has been disabled</string>
   <string name="camera_error_title">Camera error</string>
+  <string name="camera_face_beauty_parameter_key">xiaomi-still-beautify-values</string>
   <string name="camera_face_beauty_simple_mode_open">@string/pref_face_beauty_medium</string>
   <string name="camera_label">Camera</string>
   <string name="camera_settings_label">Camera</string>
@@ -131,7 +132,6 @@
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_entry_off">Off</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
-  <string name="pref_camera_denoise_default">denoise-on</string>
   <string name="pref_camera_exposuretime_default">0</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>

@@ -62,6 +62,7 @@
   <string name="androidesk_wallpapers">Android wallpapers</string>
   <string name="aperture">Aperture</string>
   <string name="app_name">Gallery</string>
+  <string name="app_name_edit_picture">Edit picture</string>
   <string name="app_name_view_picture">View picture</string>
   <string name="apply">Apply</string>
   <string name="appwidget_empty_text">No photos</string>
@@ -115,10 +116,14 @@
   <string name="black_white">Flat B&amp;W</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Display</string>
+  <string name="buy_member_tip">become a member.</string>
   <string name="by_email">Email</string>
   <string name="by_others">Others</string>
   <string name="by_sms">Text message</string>
   <string name="byteShort">B</string>
+  <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
   <string name="camera_black_white">Black &amp;White</string>
   <string name="camera_connected">Camera connected</string>
   <string name="camera_disconnected">Camera disconnected</string>
@@ -919,8 +924,8 @@ device"</string>
   <string name="paint_crop_cancel_context">Save cropped image?</string>
   <string name="paint_crop_cancel_title">Abandon changes</string>
   <string name="paint_crop_tips">Place the target area of the image near the center of the grid.</string>
-  <string name="paint_highlight">Highlight</string>
-  <string name="paint_highlight_cancel_context">Save highlighted image?</string>
+  <string name="paint_highlight">Doodle</string>
+  <string name="paint_highlight_cancel_context">Save doodle image?</string>
   <string name="paint_highlight_cancel_title">Abandon changes</string>
   <string name="path">Path</string>
   <string name="people">People</string>
@@ -1160,6 +1165,7 @@ device"</string>
   <string name="view_baby_album">View baby album</string>
   <string name="view_baby_info">Edit baby information</string>
   <string name="view_face_album">View album</string>
+  <string name="view_queuing_status">Check status</string>
   <string name="view_sharers">View sharers</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>

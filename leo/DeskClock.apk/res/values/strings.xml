@@ -85,6 +85,8 @@
   <string name="shutdown_alarm_enable_summary">Shutdown alarm is on</string>
   <string name="shutdown_alarm_title">Shutdown alarm</string>
   <string name="silent_alarm_summary">Silent</string>
+  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_once_hint">Turn off once on %s</string>
   <string name="slider_text">Swipe up to silence</string>
   <string name="snooze_confirm_cancel">Cancel snooze</string>
   <string name="snooze_duration_title">Snooze duration</string>
@@ -109,6 +111,10 @@
   <string name="timer_start_alarm">"Time's up!"</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>
+  <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
+  <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
+  <string name="turn_off_this_repeat_alarm">Turn off this repeating alarm</string>
   <string name="vibrate_pref_summary">Vibrate when alarm sounds</string>
   <string name="vibrate_when_ringing">Vibrate when ringing</string>
   <string name="volume_button_setting_summary">"Set volume buttons' function during alarm"</string>

@@ -299,6 +299,7 @@ Leave this page?"</string>
   <string name="miui_bookmark_action_bar_new_group_title">New group</string>
   <string name="miui_content_copy">Copy</string>
   <string name="miui_content_cut">Cut</string>
+  <string name="miui_content_extent_select">Select more</string>
   <string name="miui_content_open_url">Open URL</string>
   <string name="miui_content_paste">Paste</string>
   <string name="miui_content_select">Select</string>
