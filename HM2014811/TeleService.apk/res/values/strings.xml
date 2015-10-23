@@ -736,8 +736,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="place_a_call3">Subscription 3</string>
   <string name="please_choose_the_duration">Choose a duration.</string>
   <string name="please_choose_the_refueling_package">Choose top-up package</string>
-  <string name="pocket_mode_summary">Lock automatically when placed in a pocket</string>
-  <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Disabled</string>

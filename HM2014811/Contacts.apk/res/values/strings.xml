@@ -379,7 +379,7 @@ Contact cards are turned off"</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d skipped | %3$d remaining</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
@@ -649,6 +649,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="more_call_logs">More call records go i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
