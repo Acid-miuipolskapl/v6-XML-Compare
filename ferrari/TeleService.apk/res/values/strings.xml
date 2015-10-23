@@ -764,8 +764,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
-  <string name="pocket_mode_summary">Lock automatically when placed in a pocket</string>
-  <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Off</string>

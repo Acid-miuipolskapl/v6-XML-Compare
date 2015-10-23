@@ -14,7 +14,7 @@
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
   <string name="apn_exception_title">Check APN configurations</string>
   <string name="app_detail">Details</string>
-  <string name="app_mobile">Data</string>
+  <string name="app_mobile">Mobile</string>
   <string name="app_name">Data usage</string>
   <string name="app_version">Version</string>
   <string name="app_wifi">WLAN</string>
@@ -108,9 +108,9 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_fragment_tab_title_nonsys">Installed</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
-  <string name="firewall_network_restrict_notify_mobile">Mobile data</string>
+  <string name="firewall_network_restrict_notify_mobile">mobile data</string>
   <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s."</string>
-  <string name="firewall_rule_group_title_mobile">Data</string>
+  <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
@@ -198,10 +198,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Overseas roaming</string>
-  <string name="miuishare_title_more">More</string>
-  <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Touch to view details.</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
@@ -217,7 +213,6 @@ Peak: %1$s%2$s | %3$s used"</string>
  2. If you just topped up your device's balance, reboot your device and try again.
 
  3. Your carrier's network's signal may be weak in your current location."</string>
-  <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
   <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
@@ -252,7 +247,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="network_speed_for_apps_total">Connection speed</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>
-  <string name="no_network_btn">Try again</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notify_daily_data_usage_body">To limit data usage automatically, set up your monthly data plan.</string>
   <string name="notify_daily_limit_body">Tap to set data limit.</string>
@@ -507,16 +501,16 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_button_start">Turn on</string>
   <string name="traffic_saving_button_stop">Turn off</string>
   <string name="traffic_saving_can_optimized">Optimize</string>
+  <string name="traffic_saving_detail">Details</string>
   <string name="traffic_saving_history_title">History</string>
   <string name="traffic_saving_history_total_money">Total saved</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Saved this month: "</string>
   <string name="traffic_saving_history_total_month_default">Average savings per month</string>
-  <string name="traffic_saving_history_total_month_value">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Listen to &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; songs / Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; hours / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
   <string name="traffic_saving_history_total_rate">Rate</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data saved</string>
+  <string name="traffic_saving_mobile_usage">Mobile usage</string>
   <string name="traffic_saving_msg_month">Saved this month</string>
   <string name="traffic_saving_msg_not_started">Data saver is off</string>
   <string name="traffic_saving_msg_today">saved today</string>
@@ -536,6 +530,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activate</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
+  <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Data saver</string>
   <string name="traffic_saving_toast_start_mobile">Data saver is on</string>
   <string name="traffic_saving_toast_start_none_mobile">Data saver will start when you begin using mobile data</string>
@@ -548,6 +543,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
+  <string name="traffic_saving_wifi_usage">WLAN usage</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>

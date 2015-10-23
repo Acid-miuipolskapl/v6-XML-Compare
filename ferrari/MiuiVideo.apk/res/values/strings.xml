@@ -114,6 +114,7 @@
   <string name="dlna_list_name">DLNA device</string>
   <string name="dlna_name">Shared device</string>
   <string name="douban_score">Score</string>
+  <string name="download">Download</string>
   <string name="download_add_success">Added to download queue</string>
   <string name="download_error">Offline error</string>
   <string name="download_fail">Failed</string>
@@ -156,6 +157,7 @@
   <string name="gong_count_xiang">%d items</string>
   <string name="good">OK</string>
   <string name="hint_apk_download">Install this application</string>
+  <string name="hint_apk_download_format">Install \"%1$s\" application</string>
   <string name="hint_apk_install">Install this app</string>
   <string name="hint_apk_text_update">Install update (%1$s) now?</string>
   <string name="hint_apk_title_update">Update available (%1$s)</string>
@@ -282,6 +284,7 @@
   <string name="router_update">Update Mi Router app now.</string>
   <string name="score">Rating  </string>
   <string name="score_by">Score: %s</string>
+  <string name="score_douban">Douban Score %1$s</string>
   <string name="sdcard_storage">Internal memory</string>
   <string name="search">Search</string>
   <string name="search_hint">Search online video</string>
