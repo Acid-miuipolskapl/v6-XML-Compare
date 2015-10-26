@@ -243,7 +243,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
   <string name="network_speed_for_apps_others">Other</string>
-  <string name="network_speed_for_apps_title">Connection speed details</string>
+  <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">Connection speed</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>

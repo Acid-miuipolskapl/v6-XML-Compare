@@ -635,7 +635,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_clear_alertdialog_title">Clear history</string>
   <string name="miprofile_request_deleted">Card deleted</string>
   <string name="miprofile_request_empty_request">No exchange requests</string>
-  <string name="miprofile_request_exchange_title">Contact card request</string>
+  <string name="miprofile_request_exchange_title">Contact card finding</string>
   <string name="miprofile_request_menu_clear_request">Clear history</string>
   <string name="miprofile_request_message">%1$s people want to exchange contact cards</string>
   <string name="miprofile_request_notification_message">Accept to view profile photo and more info</string>
