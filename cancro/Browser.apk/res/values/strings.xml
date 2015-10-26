@@ -4,6 +4,7 @@
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">More</string>
   <string name="abc_action_mode_done">Done</string>
+  <string name="accept_cookies_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
   <string name="accessibility_button_clear">Clear input</string>
   <string name="accessibility_date_picker_month">Month</string>
   <string name="accessibility_date_picker_week">Week</string>
@@ -204,6 +205,7 @@
   <string name="empty_bookmark">Empty</string>
   <string name="empty_history_hint">History is empty</string>
   <string name="empty_snapshot_hint">Empty</string>
+  <string name="enable_geolocation_confirm_message">Turning this feature off may cause some websites to misbehave.</string>
   <string name="enter_developer_mode">Enter developer mode</string>
   <string name="enter_incongnito_mode">Enter incognito mode</string>
   <string name="error_console_eval_button_text">Evaluate</string>
@@ -357,6 +359,7 @@ Leave this page?"</string>
   <string name="page_info_view">View page info</string>
   <string name="password">Password</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
+  <string name="positive_confirm_message">Turn off anyway</string>
   <string name="pref_accessibility_title">Accessibility</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one press in the address bar</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
@@ -496,6 +499,7 @@ Leave this page?"</string>
   <string name="readmode_recommend_message">"You've read this book already. :)"</string>
   <string name="readmode_refresh">Refresh</string>
   <string name="readmodelist_bookmarks_to_show">Reading list</string>
+  <string name="remember_passwords_confirm_message">Turning this feature off may affect usage.</string>
   <string name="remove_bookmark">Delete bookmark</string>
   <string name="remove_bookmark_group">Delete group</string>
   <string name="remove_from_bookmarks">Remove from bookmarks</string>
@@ -514,6 +518,7 @@ Leave this page?"</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file_already_exist_alert_message">A file with the same name already exists, do you want to overwrite it?</string>
   <string name="save_file_already_exist_alert_title">Overwrite file?</string>
+  <string name="save_form_data_confirm_message">Turning this feature off may affect usage.</string>
   <string name="save_image_failed">"Couldn't save image"</string>
   <string name="save_image_success">Image saved</string>
   <string name="save_page_capture_tip">Open notification shade to view screenshot.</string>
@@ -545,7 +550,9 @@ Leave this page?"</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Download in App Store</string>
+  <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
   <string name="security_warning">Security warning</string>
+  <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
   <string name="select_dot">Select text</string>
   <string name="select_download_device">Choose device</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
@@ -658,6 +665,7 @@ Leave this page?"</string>
   <string name="voice_title_listening">Listening…</string>
   <string name="voice_title_please">Begin speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
+  <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
   <string name="webpage_bookmark_title">Bookmarks</string>
   <string name="webpage_history_title">History</string>
   <string name="webpage_title">Bookmarks &amp; History</string>

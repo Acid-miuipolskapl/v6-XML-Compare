@@ -509,6 +509,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_nsufficient_balance">Insufficient balance</string>
   <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
   <string name="livetalk_package_name">Top up balance</string>
+  <string name="livetalk_provider">Provide by %1$s</string>
   <string name="livetalk_provision">Terms of Service</string>
   <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
   <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
