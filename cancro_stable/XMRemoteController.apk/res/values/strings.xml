@@ -47,6 +47,8 @@
   <string name="application">Apps</string>
   <string name="back">Back</string>
   <string name="bedroom">Bedroom</string>
+  <string name="bind_stb_dlg">bind set top box to switch channel</string>
+  <string name="bind_stb_dlg_agree">bind now</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Select manufacturer</string>
   <string name="brand_title_all">All</string>
@@ -162,6 +164,8 @@
   <string name="hot_mode">Heat</string>
   <string name="hot_videos">Popular</string>
   <string name="hour">hours</string>
+  <string name="humidity">Humidity:</string>
+  <string name="humidity_frame">%1$d%%</string>
   <string name="input_complete">OK</string>
   <string name="input_source">Input source</string>
   <string name="input_speech_button">Press &amp; hold, then speak your command</string>
@@ -172,6 +176,7 @@
   <string name="ir_device_add">Add device</string>
   <string name="ir_device_air_cleaner">Air Purifier</string>
   <string name="ir_device_air_condition">A/C</string>
+  <string name="ir_device_all_ir">全部红外</string>
   <string name="ir_device_amp">Amplifiier</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_dvb_s">Cable/Sat box</string>
@@ -186,10 +191,12 @@
   <string name="ir_device_name">Device name</string>
   <string name="ir_device_other">Other</string>
   <string name="ir_device_prj">Projector</string>
+  <string name="ir_device_shared">附近可用</string>
   <string name="ir_device_sound">Speakers</string>
   <string name="ir_device_stb">Cable Box</string>
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Wi-Fi remote</string>
+  <string name="jump_to_mivideo">手机播放此节目</string>
   <string name="just_used">Just used</string>
   <string name="key_press_vibrate">Vibrate on touch</string>
   <string name="last_use_frame">%1$s ago</string>
@@ -212,7 +219,7 @@
   <string name="match_ac_intro_power">Release when A/C powers off</string>
   <string name="match_ac_name_mode">Cool</string>
   <string name="match_ac_name_power">Power off</string>
-  <string name="match_count_frame">Pair %1$d remote</string>
+  <string name="match_count_frame">Pair %1$d/%2$d remote</string>
   <string name="match_data">Pairing info</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
@@ -271,6 +278,7 @@
   <string name="network_unstable">· You have a stable connection</string>
   <string name="next_step">next step</string>
   <string name="no">No</string>
+  <string name="no_brand_service">暂无此品牌信息</string>
   <string name="no_current_play">"Now playing: - "</string>
   <string name="no_data">No info</string>
   <string name="no_introduction">No description</string>
@@ -279,6 +287,7 @@
   <string name="no_network">"· You're connected to the internet"</string>
   <string name="no_program">No content here.</string>
   <string name="no_qq">"QQ isn't installed on this device."</string>
+  <string name="no_save_brand_service">需要重新添加此遥控器才可以支持</string>
   <string name="not_respond">No response</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" will begin in 30 minutes.</string>
@@ -289,7 +298,6 @@
   <string name="operator">Operator</string>
   <string name="oscillation">Oscillation</string>
   <string name="other">Other</string>
-  <string name="outdoor_temp">Outdoor temp %1$d ℃</string>
   <string name="outdoor_temp_unknown">Unknown</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_hint_text">Email or phone number</string>
@@ -299,7 +307,7 @@
   <string name="passport_active_email_visit">Check your inbox at %s</string>
   <string name="passport_activing_account">Activating…</string>
   <string name="passport_app_name">Mi Account</string>
-  <string name="passport_area_code_hot">Frequently used</string>
+  <string name="passport_area_code_hot">FREQUENTLY USED</string>
   <string name="passport_area_code_title">Country code</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_btn_return">Back</string>
@@ -321,13 +329,14 @@ To activate your account, follow the
   <string name="passport_dspt_provision">"Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="passport_dspt_provision2">Learn more</string>
   <string name="passport_email">Email address</string>
-  <string name="passport_email_or_id_hint_text">Email or Mi Account ID</string>
+  <string name="passport_email_or_id_hint_text">Email address or Mi Account ID</string>
   <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_error_device_id">"Can't get device id"</string>
   <string name="passport_error_dup_email">This email is already associated with another account</string>
   <string name="passport_error_dup_phone">This phone number is already associated with another account</string>
   <string name="passport_error_email">The email address you entered is invalid</string>
   <string name="passport_error_empty_captcha_code">Enter passport_captcha code</string>
+  <string name="passport_error_empty_email">Enter your email address</string>
   <string name="passport_error_empty_phone_num">Enter phone number</string>
   <string name="passport_error_empty_pwd">Enter your password</string>
   <string name="passport_error_empty_username">Enter your username</string>
@@ -358,13 +367,13 @@ To activate your account, follow the
   <string name="passport_input_verify_code_hint">Enter verification code</string>
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
   <string name="passport_loading">Loading…</string>
-  <string name="passport_login">Sign in</string>
+  <string name="passport_login">Sign in to an existing account</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
   <string name="passport_login_instead_reg_with_email">Use this Email</string>
   <string name="passport_login_notice">Signing in…</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with another account&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Sign in with email address or Mi Account ID&lt;/u&gt;</string>
   <string name="passport_next">Next</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
   <string name="passport_password">Enter your password</string>
@@ -372,7 +381,7 @@ To activate your account, follow the
   <string name="passport_phone_num_hint_text">Phone number</string>
   <string name="passport_prev">Back</string>
   <string name="passport_privacy_policy">Privacy Policy</string>
-  <string name="passport_provision_skip_login">&lt;u&gt;Skip&lt;/u&gt;</string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
   <string name="passport_quick_login_dialog_title">Verify password</string>
   <string name="passport_quick_login_step2_title">2-step verification</string>
@@ -380,7 +389,7 @@ To activate your account, follow the
   <string name="passport_re_get_verify_code">Get code again</string>
   <string name="passport_re_register">Sign up again</string>
   <string name="passport_reg_failed">"Can't set up account"</string>
-  <string name="passport_reg_new">Create Mi Account</string>
+  <string name="passport_reg_new">Create a Mi Account for free</string>
   <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
@@ -410,14 +419,13 @@ To activate your account, follow the
   <string name="passport_title_reg">Create an account</string>
   <string name="passport_trust_device">Trust this device</string>
   <string name="passport_user_agreement">User Agreement</string>
-  <string name="passport_user_agreement_p1">"You're agreeing to our's
-  "</string>
+  <string name="passport_user_agreement_p1">Agree to </string>
   <string name="passport_user_agreement_p2">User Agreement</string>
-  <string name="passport_user_agreement_p3"> and  </string>
+  <string name="passport_user_agreement_p3"> and </string>
   <string name="passport_user_agreement_p4">Privacy Policy</string>
   <string name="passport_vcode">Verification code</string>
   <string name="passport_vcode_notification_title">Your sign-in verification is incomplete</string>
-  <string name="passport_vcode_prompt_long">Enter the verification code generated by your Mi Security token</string>
+  <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_verification_failed">Authentication failed</string>
   <string name="passport_verify">Verify</string>
   <string name="passport_welcome_skip_login">&lt;u&gt;Skip this step&lt;/u&gt;</string>
@@ -426,10 +434,11 @@ To activate your account, follow the
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="place_frame">"Location: "</string>
   <string name="play_on_tv">Play on TV</string>
   <string name="please_enter">"Input field can't be empty"</string>
+  <string name="pm_2.5">PM2.5:</string>
   <string name="power">Power</string>
   <string name="press_to_continue_match">Tap to continue</string>
   <string name="press_to_match">Tap to pair</string>
@@ -468,6 +477,7 @@ To activate your account, follow the
   <string name="select_area">Choose location</string>
   <string name="select_brand">%s selected</string>
   <string name="select_dvb_carrier">Choose service provider</string>
+  <string name="service_info">Service Information</string>
   <string name="setting_airkan">WIRELESS DISPLAY</string>
   <string name="setting_common">GENERAL</string>
   <string name="setting_version">Version %1$s</string>
@@ -490,14 +500,18 @@ To activate your account, follow the
   <string name="share_friends_not_find_text">Find friends</string>
   <string name="share_friends_search_hint_text">Search</string>
   <string name="share_friends_title">Share using Mi Talk</string>
+  <string name="share_from_others">来自他人共享，点击即可添加</string>
   <string name="share_media_actor">"Cast: "</string>
   <string name="share_media_area">"Country: "</string>
   <string name="share_media_director">"Director: "</string>
   <string name="share_media_score">"Reviews: "</string>
+  <string name="share_switch">遥控器共享</string>
+  <string name="share_tips">开启后，连接到当前WiFi的用户则无需再次配对</string>
   <string name="share_title_share_to">Share with</string>
   <string name="share_title_to_mitalk">Share with</string>
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Share using Sina Weibo</string>
+  <string name="share_to_others">共享给他人</string>
   <string name="similar">Related</string>
   <string name="somthing_wrong">Having problems?</string>
   <string name="sorry">Error</string>
@@ -507,6 +521,7 @@ To activate your account, follow the
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Pair</string>
   <string name="stb">Set-top box</string>
+  <string name="stb_detail_title_frame">%1$s - No. %2$d</string>
   <string name="steps">Attempt #%d</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Library</string>
@@ -519,6 +534,7 @@ To activate your account, follow the
   <string name="switch_place">Switch location</string>
   <string name="technical_support"/>
   <string name="temperature">Temp</string>
+  <string name="temprature_frame">%1$d ℃</string>
   <string name="timer">Timer</string>
   <string name="title_nodata_feedback">"Couldn't get device info"</string>
   <string name="to_qq">Open QQ and join group</string>
@@ -563,5 +579,6 @@ To activate your account, follow the
   <string name="virtual_keyhboard">Use device keyboard</string>
   <string name="virtual_keyhboard_intro">"Use your device's keyboard to type on display"</string>
   <string name="volume">﻿Volume</string>
+  <string name="weather_out">Outdoor Temperature:</string>
   <string name="yes">Yes</string>
 </resources>

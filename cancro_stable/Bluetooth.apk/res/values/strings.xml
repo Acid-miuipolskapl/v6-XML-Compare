@@ -114,6 +114,8 @@
   <string name="notification_sent">Bluetooth share: Sent %1$s</string>
   <string name="notification_sent_complete">100% complete</string>
   <string name="notification_sent_fail">Bluetooth share: File %1$s not sent</string>
+  <string name="notify_device_lose_connection_text">Tap to unpair %1$s</string>
+  <string name="notify_device_lose_connection_title">Lost connection with %1$s</string>
   <string name="notify_server">Notify TCP server</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Outbound transfers</string>
@@ -150,6 +152,10 @@
   <string name="transfer_menu_clear">Clear from list</string>
   <string name="transfer_menu_clear_all">Clear list</string>
   <string name="transfer_menu_open">Open</string>
+  <string name="unbind_device_alert_cancel">Cancel</string>
+  <string name="unbind_device_alert_content">Lost connection with %1$s. To save battery, unpair this device now.</string>
+  <string name="unbind_device_alert_ok">Unpair</string>
+  <string name="unbind_device_alert_title">Unpair device</string>
   <string name="unknownName">Unknown name</string>
   <string name="unknownNumber">Unknown</string>
   <string name="unknown_device">Unknown device</string>

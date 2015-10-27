@@ -212,12 +212,12 @@ touch it to the back of your device."</string>
   <string name="write_tag">Write</string>
   <string name="writing">Writing…</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Insert your SD card now</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Version %1$s
-Size %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Version %1$s
-Update size %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Update available for %1$s</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s update!</string>
 </resources>

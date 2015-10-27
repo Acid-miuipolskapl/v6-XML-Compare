@@ -59,6 +59,10 @@
   <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="close">Close</string>
+  <string name="cloud_recommend_msg">Tap to sync messages with Mi Cloud.</string>
+  <string name="cloud_state_disabled">Sync with Mi Cloud is off</string>
+  <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+  <string name="cloud_state_syncing">Syncing with Mi Cloud…</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>
@@ -84,7 +88,7 @@
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore Message</string>
   <string name="confirm_send_mms">One of your recipients includes an email address. This message will be sent as an MMS, which may result in extra charges from you carrier.</string>
-  <string name="context_menu_add_calendar">Show in Calendar</string>
+  <string name="context_menu_add_calendar">Add to Calendar</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_add_to_browser_favorite">Add to Browser bookmarks</string>
   <string name="context_menu_browse_web">Browse</string>
@@ -101,7 +105,7 @@
   <string name="conversation_style">bubble</string>
   <string name="converting_to_picture_message">Converting to multimedia message…</string>
   <string name="converting_to_text_message">Converting to text message…</string>
-  <string name="copy_message_text">Copy text</string>
+  <string name="copy_message_text">Copy</string>
   <string name="copy_message_text_success">Copy text done</string>
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
@@ -146,6 +150,7 @@
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Message size limit reached.</string>
+  <string name="exceed_message_text_limitation">Message text length limit reached.</string>
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
@@ -171,8 +176,9 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Upload messages from %1$s to %2$s?</string>
   <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
-  <string name="found_wild_messages">Messages from the numbers below have been stored in your Mi Cloud. %sDownload them now?</string>
-  <string name="found_wild_messages_title">Download messages</string>
+  <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
+  <string name="found_wild_messages_title">Sync SMS messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
   <string name="group_message">Group message</string>
   <string name="group_message_failed_title">"Couldn't send to %d contacts"</string>
@@ -196,9 +202,9 @@
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
   <string name="left_cancel">Swipe left to cancel</string>
-  <string name="loading_all_messages">Loading messages…</string>
-  <string name="loading_conversations">Loading conversations…</string>
-  <string name="loading_mms">Loading…</string>
+  <string name="loading_all_messages">Just a sec…</string>
+  <string name="loading_conversations">Just a sec…</string>
+  <string name="loading_mms">Just a sec…</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="me">Me</string>
   <string name="menu_add_black">Block this number</string>
@@ -242,12 +248,16 @@
   <string name="message_too_big_for_video">The message is too big to attach a video.</string>
   <string name="message_type_label">"Type: "</string>
   <string name="messagelist_sender_self">Me</string>
+  <string name="mipub_messaging_entry_title">Mi Message</string>
   <string name="mms">MMS</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Text message</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Pull down to view more</string>
   <string name="msglist_more_refreshing">Refreshing…</string>
   <string name="msglist_no_more_to_refresh">Already up to date</string>
@@ -256,6 +266,7 @@
   <string name="multimedia_notification">Multimedia message notification</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activate Mi Message</string>
+  <string name="mx_activate_dlg_title_ex">Activate Mi Message &amp; Voice</string>
   <string name="mx_activate_error_malformed_info">You need to reactivate Mi Message.</string>
   <string name="mx_activate_error_server">"Couldn't activate"</string>
   <string name="mx_activate_error_sim_change">"Looks like you've swapped SIM cards. You need to reactivate Mi Message."</string>
@@ -266,7 +277,9 @@
   <string name="mx_activate_int_hint_malformed_info">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_server">Your carrier may charge for an international SMS message used to reactivate Mi Message.</string>
   <string name="mx_activate_int_hint_sim_change">"Looks like you've swapped SIM cards. Your carrier may charge for an SMS message used to reactivate Mi Message."</string>
-  <string name="mx_activate_user_agreement_p1">"By using this service, you are agreeing to Mi Message's "</string>
+  <string name="mx_and_voip_enable">Mi Message &amp; Voice</string>
+  <string name="mx_and_voip_enable_popup_msg">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Privacy Policy</string>
   <string name="mx_auto_resend_mms">Send as MMS</string>
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
@@ -277,7 +290,10 @@
   <string name="mx_current_status">Data usage settings</string>
   <string name="mx_dspt">Send messages to other MIUI users without incurring SMS charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users without incurring SMS charges. Your carrier may charge for an SMS message used to activate this service.</string>
+  <string name="mx_dspt_provision_ex">"Send messages and make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View weihui's Privacy Policy."</string>
+  <string name="mx_dspt_provision_ex2">Privacy Policy</string>
   <string name="mx_enable">Mi Message</string>
+  <string name="mx_enable_ex">Mi Message &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi Message lets you send messages to other MIUI users without incurring SMS charges.</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_offline">Offline</string>
@@ -328,6 +344,8 @@
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_notification_settings_title">Notifications</string>
   <string name="pref_other_title">Additional settings</string>
+  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
+  <string name="pref_show_sms_template_in_summary">Automatically detect OTP in SMS messages</string>
   <string name="pref_show_sms_template_summary">Automatically copy and fill in verification codes</string>
   <string name="pref_sms_theme_title">Display</string>
   <string name="pref_summary_allow_si_sl_push">Allow WAP push messages (SI/SL)</string>
@@ -344,9 +362,10 @@
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
   <string name="pref_summary_on_system_mms_priority">"Set MIUI's Messaging app as the default app to send and receive MMS"</string>
   <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
-  <string name="pref_summary_show_recent_contacts">Display recent contacts when composing a new text</string>
+  <string name="pref_summary_show_recent_contacts">Show recent contacts when composing a new text</string>
   <string name="pref_summary_wake_up_screen">Wake the screen whenever a new text is received</string>
   <string name="pref_system_title">System</string>
+  <string name="pref_time_auto_group_disabled_summary">"It's not supported in current font size"</string>
   <string name="pref_time_auto_group_summary">Group messages that are received within a minute of each other into the same thread</string>
   <string name="pref_time_auto_group_title">Group by time</string>
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
@@ -409,11 +428,12 @@
   <string name="remove_video">Remove video</string>
   <string name="replace">Replace</string>
   <string name="replace_image">Replace picture</string>
+  <string name="reply_button_msg">Reply</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
   <string name="resource_price_free">Free</string>
   <string name="restore_all_button_msg">Restore all messages sent from this number</string>
-  <string name="restore_blocked_message">Restore message</string>
+  <string name="restore_blocked_message">Restore</string>
   <string name="restore_to_phone_memory_failed">"Couldn't restore"</string>
   <string name="restored_to_phone_memory">Restored</string>
   <string name="retrive_hms_tips">Retrieving…</string>
@@ -433,8 +453,10 @@
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
   <string name="secs">secs</string>
-  <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
+ "&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Report this number</string>
+  <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
   <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
@@ -526,7 +548,9 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Group carrier messages</string>
   <string name="title_date_type">Timestamp</string>
+  <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
+  <string name="title_show_sms_template_in">Check SMS for OTP</string>
   <string name="title_timed_message_dialog">Set timed message</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d recipients</string>
@@ -558,7 +582,7 @@ Attempt made: %s."</string>
   <string name="unsticked_conversation">Conversation is already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format.</string>
   <string name="user_agreement1">Read the applicable terms carefully before you install additional software or use this product.</string>
-  <string name="user_agreement2">User Agreement</string>
+  <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement3">" and "</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_agreement5">By touching OK, you agree to our Terms of Service and Privacy Policy.</string>
@@ -567,6 +591,9 @@ Attempt made: %s."</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
   <string name="view_hms_details">Details</string>
   <string name="view_message_details">View details</string>
+  <string name="voip_enable">Mi Message and Voice</string>
+  <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
+  <string name="voip_enable_popup_msg2">Privacy Policy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Send in %ds</string>
   <string name="xiaomi_service_number">Service number</string>

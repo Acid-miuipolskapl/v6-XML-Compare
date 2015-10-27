@@ -2,6 +2,10 @@
 <resources>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Altitude</string>
+  <string name="altitude_uncalibrate_cancel">Cancel</string>
+  <string name="altitude_uncalibrate_msg">"Can't calibrate altitude accurately without GPS or mobile data connection."</string>
+  <string name="altitude_uncalibrate_refresh">Try again</string>
+  <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
   <string name="altitude_unit">M</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_altitude">Calibrating…</string>
@@ -13,8 +17,9 @@
   <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
   <string name="calibrate_title">Calibrate compass</string>
   <string name="cannot_get_location">--</string>
+  <string name="dialog_body_no_network">"Can't connect to network"</string>
   <string name="dialog_calibrat_altitude">Calibrating…</string>
-  <string name="dialog_title_no_network">"Can't connect to network"</string>
+  <string name="dialog_title_no_network">Turn on Network</string>
   <string name="direction_east">E</string>
   <string name="direction_north">N</string>
   <string name="direction_north_east">NE</string>
@@ -24,6 +29,8 @@
   <string name="direction_south_west">SW</string>
   <string name="direction_west">W</string>
   <string name="do_not_show_next_time">"Don't show again"</string>
+  <string name="error_camera_unavailable">Check if another app is currently using Camera.</string>
+  <string name="error_camera_unavailable_title">Camera unavailable</string>
   <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
   <string name="first_using_dialog_title">Access permission</string>
   <string name="getting_location">Calibrating…</string>

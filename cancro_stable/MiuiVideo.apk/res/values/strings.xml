@@ -16,6 +16,7 @@
   <string name="adjust_position_prev_media_notice">Last</string>
   <string name="ads_control">Show Ads</string>
   <string name="ads_control_desc">Display advertisements when opening app</string>
+  <string name="ads_ignore">Ignore</string>
   <string name="airkan_control_device_des">To control playback, touch the bar at the bottom</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">casting</string>
@@ -35,12 +36,16 @@
   <string name="app_update_background">Update app in background.</string>
   <string name="app_upgrade_version">Update available</string>
   <string name="app_version">Version</string>
+  <string name="app_wifi_mode">Wifi auto upgrade</string>
+  <string name="app_wifi_mode_summary">When in Wifi mode, auto upgrade to latest version.</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>
   <string name="average_score">Average rating</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode">Picture Quality mode</string>
+  <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
   <string name="buffering">Buffering…</string>
   <string name="buffering_video_netplay_label_v5">Buffering…</string>
   <string name="cancel">Cancel</string>
@@ -126,6 +131,7 @@
   <string name="edit_comment">Add comment</string>
   <string name="empty_data">An error occurred</string>
   <string name="empty_keyword_hint">Enter your search in the box above</string>
+  <string name="empty_tv_exiting">Exiting ...</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
@@ -192,6 +198,9 @@
   <string name="mycamera">My videos</string>
   <string name="myfavorite">Star</string>
   <string name="myfavorite_onlylocal">Starred</string>
+  <string name="need_upgrade_button">Check</string>
+  <string name="need_upgrade_summary">This function is available in new version, please press update to install new version.</string>
+  <string name="need_upgrade_title">Available in new version</string>
   <string name="negative_comment">Dislikes</string>
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
@@ -346,7 +355,7 @@
   <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
   <string name="video_plugin">Video plug-in</string>
-  <string name="video_plugin_downloading">Downloading…</string>
+  <string name="video_plugin_downloading">Downloading(%1$s), please wait a while.</string>
   <string name="video_plugin_prepare">Just a sec…</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
@@ -389,6 +398,7 @@
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Watch HD video anywhere</string>
   <string name="vp_media_info">Show video info</string>
+  <string name="vp_media_type_banned">This type of media cannot be supported</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
   <string name="vp_mobile_network_using_negative">Cancel</string>

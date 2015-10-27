@@ -16,10 +16,11 @@
         <item>T Star</item>
         <item>Chunghwa</item>
         <item>TW Mobile</item>
+        <item>MobiFone</item>
         <item>CMHK</item>
         <item>CMHK</item>
-        <item>PCCW-HKT</item>
-        <item>PCCW-HKT</item>
+        <item>csl.</item>
+        <item>csl.</item>
         <item>SmarTone HK</item>
         <item>SmarTone HK</item>
         <item>SmarTone HK</item>
@@ -44,6 +45,7 @@
         <item>Alibaba</item>
         <item>China Mcom</item>
         <item>SOSHARE MOBILE</item>
+        <item>Mi Mobile</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
@@ -61,6 +63,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -89,6 +92,7 @@
         <item>46001</item>
         <item>46001</item>
         <item>46002</item>
+        <item>46001</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>46000</item>
@@ -106,6 +110,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -134,6 +139,7 @@
         <item>阿里通信</item>
         <item>中麦通信</item>
         <item>分享通信</item>
+        <item>小米移动</item>
     </string-array>
     <string-array name="tian_gan">
         <item>甲</item>
