@@ -1,17 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_to_recover">Just a sec…</string>
   <string name="app_name">Back up apps​</string>
-  <string name="back_up_task_in_process">backing up</string>
+  <string name="back_up_task_in_process">Backing up…</string>
   <string name="back_up_task_unfinished">Not finished backing up</string>
   <string name="backing_up_to_micloud">Backing up…</string>
-  <string name="backup_fail">Home screen apps​ backup fail</string>
+  <string name="backup_fail">"Couldn't back up Home screen apps​"</string>
   <string name="backup_size">Size: %s</string>
-  <string name="backup_success">Home screen apps​ backup success</string>
+  <string name="backup_success">Home screen apps​ backed up</string>
   <string name="backup_to_cloud">Back up app</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_delete">Delete</string>
   <string name="button_next">Next</string>
   <string name="cancel_recover_settings">&lt;u&gt;Cancel&lt;/u&gt;</string>
+  <string name="click_try_to_restore_again">Tap to try again</string>
   <string name="cloud_app_backup_success">Finished backing up apps</string>
   <string name="cloud_app_check_data">Talking to Mi Cloud…</string>
   <string name="cloud_app_current_device">Current device</string>
@@ -24,9 +26,9 @@
   <string name="cloud_app_restore_error">"Couldn't restore"</string>
   <string name="cloud_app_restore_success">Apps restored</string>
   <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>
-  <string name="cloud_back_up_task">Backing up</string>
+  <string name="cloud_back_up_task">Backing up…</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
-  <string name="cloud_restore_task">Restoring</string>
+  <string name="cloud_restore_task">Restoring…</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
   <string name="customization">&lt;u&gt;Customize&lt;/u&gt;</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -39,8 +41,8 @@
   <string name="device_delete_prompt">Delete backup of %s?</string>
   <string name="device_xiaomi">Mi Phone</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
-  <string name="download_settings">Download Home screen settings: %s%%</string>
-  <string name="download_settings_fail">Download Home screen settings fail</string>
+  <string name="download_settings">Downloading Home screen settings %s%%</string>
+  <string name="download_settings_fail">"Couldn't download Home screen settings"</string>
   <string name="error_unknown">Something went wrong</string>
   <string name="latest_backup_time_loading">Loading…</string>
   <string name="managespace_delete_backup">Delete backup</string>
@@ -57,10 +59,10 @@
   <string name="process_whole_recovery">Restoring \"%s\"</string>
   <string name="recover_from_micloud">Restore from Mi Cloud backup</string>
   <string name="recover_home_settings">Restore Home screen settings</string>
-  <string name="recover_miui_settings">Restore MIUI system settings</string>
+  <string name="recover_miui_settings">Restore system settings</string>
   <string name="recover_settings_description">Keep your device powered on</string>
   <string name="recovering">Restoring %s</string>
-  <string name="remove_task_in_process">removing</string>
+  <string name="remove_task_in_process">Removing…</string>
   <string name="remove_task_unfinished">Not finished removing</string>
   <string name="restore_from_cloud">Restore from Mi Cloud backup</string>
   <string name="restoreing_file_tile">Restoring %d files</string>
@@ -69,6 +71,6 @@
   <string name="settings_backup">System settings</string>
   <string name="start_backup_to_micloud">Back up apps to Mi Cloud</string>
   <string name="start_recover">Restore %s</string>
-  <string name="wait_icon_download">Downloading application icon</string>
+  <string name="wait_icon_download">Downloading apps icon</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

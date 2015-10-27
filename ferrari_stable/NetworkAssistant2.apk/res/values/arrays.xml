@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="traffic_uints">
-        <item>MB</item>
-        <item>GB</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>"Yesterday "</item>
         <item>"Today "</item>
@@ -51,20 +47,21 @@
         <item>"Data saved "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Get message template automatically</item>
-        <item>Set message template manually</item>
+        <item>Get automatically</item>
+        <item>Set manually</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Show warning</item>
         <item>Warn and turn mobile data off</item>
     </string-array>
-    <string-array name="min_limit_pkg_default">
-        <item>1 MB</item>
-        <item>2 MB</item>
-        <item>3 MB</item>
-    </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Frequently used</item>
         <item>Name</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>None</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
     </string-array>
 </resources>

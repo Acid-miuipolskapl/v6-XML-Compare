@@ -36,18 +36,16 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
-  <string name="cloud_back_up_open_info">"Back up Home screen app layout when connected to WLAN once every %1$s
-Last backup was on:%2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Back up Home screen app layout when connected to WLAN once every %1$s</string>
+  <string name="cloud_back_up_open_info">"Back up apps when connected to WLAN once every %1$s
+Last backed up on %2$s"</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back up apps when connected to WLAN once every %1$s</string>
   <string name="cloud_back_up_remove_success">Backup deleted</string>
-  <string name="cloud_back_up_title">Back up Home screen layout</string>
+  <string name="cloud_back_up_title">Back up apps</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
-  <string name="cloud_sync_setting_summary_standard">Use mobile data connection to sync contacts, messages, call history, notes, WLAN settings, Browser data and playlists</string>
-  <string name="cloud_sync_setting_summary_wlan">Sync data when connected to WLAN</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="contact">Contacts</string>
@@ -57,8 +55,8 @@ Last backup was on:%2$s"</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_micloud">Use Mi Cloud</string>
-  <string name="enable_sync">Turn on</string>
-  <string name="enable_sync_dspt">Sync is off</string>
+  <string name="enable_sync">Sync</string>
+  <string name="enable_sync_dspt">"Don't sync"</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
   <string name="error_data_in_transfer_title">Mi Cloud unavailable</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
@@ -69,15 +67,15 @@ Last backup was on:%2$s"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
   <string name="error_unknown">"Can't sign in"</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_disabled_notice">You can turn this feature on and off anytime in Mi Cloud &gt; Settings.</string>
+  <string name="find_device_disabled_notice">"You can turn this feature on or off anytime in Mi Cloud's Settings."</string>
   <string name="find_device_disabled_title">Find device is off</string>
   <string name="find_device_disabling">Turning off…</string>
   <string name="find_device_dspt">Locate, lock, or reset your device remotely</string>
-  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on and off anytime in Settings.
+  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on or off anytime in Settings.
 "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">. You can turn this feature on and off anytime in Settings.</string>
+  <string name="find_device_dspt_provision_3">. You can turn this feature on or off anytime in Settings.</string>
   <string name="find_device_dspt_provision_4">If you switch SIM cards, an SMS message will be sent automatically to reactivate this feature.</string>
   <string name="find_device_enabling">Turning on…</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
@@ -107,17 +105,18 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="i_know">OK</string>
   <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">Just a sec…</string>
   <string name="loading_hint">Loading</string>
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Last synced %s days ago</string>
-  <string name="micloud_buy_member">Upgrade membership</string>
+  <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivate Mi Cloud</string>
   <string name="micloud_check_sim_title">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
+  <string name="micloud_detail_download_syncing">Downloading %s</string>
   <string name="micloud_detail_fail">"Can't sync"</string>
   <string name="micloud_detail_lastest">Synced</string>
   <string name="micloud_detail_pending">Waiting</string>
@@ -125,6 +124,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_preference_wlan">Sync on WLAN</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_syncing">Syncing</string>
+  <string name="micloud_detail_upload_syncing">Uploading %s</string>
   <string name="micloud_detail_wlan">%d waiting to sync</string>
   <string name="micloud_detail_wlan_contact">%d contact photos waiting to sync</string>
   <string name="micloud_detail_wlan_mms">%d MMS waiting to sync</string>
@@ -185,18 +185,22 @@ Tap the Settings button to view more options"</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
-  <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
+  <string name="micloud_setting_antispam_summary">Exceptions and blocked phone numbers</string>
   <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
   <string name="micloud_setting_contact_summary">Contacts info and profile photos</string>
-  <string name="micloud_setting_deskclock_summary">Clocks settings</string>
+  <string name="micloud_setting_deskclock_summary">Timezone and alarm settings</string>
   <string name="micloud_setting_gallery_summary">Photos and videos</string>
   <string name="micloud_setting_music_summary">Playlists and favorites</string>
   <string name="micloud_setting_sms_summary">SMS and MMS messages</string>
   <string name="micloud_setting_wifi_summary">WLAN settings</string>
   <string name="micloud_single_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
-  <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+  <string name="micloud_space_applist_detail">Manage apps on your Home screen</string>
+  <string name="micloud_space_applist_title">Manage apps</string>
+  <string name="micloud_space_duokan_detail">Download and manage ebooks with the Duokan app.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">&lt;u&gt;What happens when I run out of space?&lt;/u&gt;</string>
+  <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
+  <string name="micloud_space_soundrecorder_title">Recordings</string>
   <string name="micloud_storage">Storage</string>
   <string name="micloud_storage_expires_auto_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
@@ -231,28 +235,33 @@ Tap the Settings button to view more options"</string>
   <string name="mx_dspt">Mi Message</string>
   <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
 
-You can turn this feature on and off anytime in Settings."</string>
+You can turn this feature on or off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
 
-This feature encrypts and uploads your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings.</string>
+This feature encrypts and sends your device's ID to Mi's servers."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS messages used to activate this feature.
+
+This feature encrypts and sends your device's ID to Mi's servers."</string>
+  <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
+  <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
+  <string name="mx_voip_dspt">Mi Voice</string>
   <string name="next">Next</string>
   <string name="noRemind">"Don't remind me"</string>
   <string name="no_sim">No SIM card detected</string>
-  <string name="only_in_wlan">Off</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Enter your password</string>
   <string name="phone_number_may_required_dspt_provision">"This service may require your phone number. "</string>
   <string name="phone_number_required_dspt_provision">"This service requires your phone number. "</string>
   <string name="photo">Photos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Only sync contacts' profile pictures when you're connected to a WLAN network"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Only sync contacts' profile videos when you're connected to a WLAN network"</string>
   <string name="pref_title_sync_contacts_title">Sync contacts</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Only use WLAN to sync photos</string>
-  <string name="pref_title_sync_my_profile_title">Sync profile</string>
+  <string name="pref_title_sync_video_on_wifi_only">Only use WLAN to sync video</string>
   <string name="privacy_policy">Privacy Policy</string>
-  <string name="remind_later">Later</string>
+  <string name="remind_later">Not now</string>
   <string name="restoreSync">Sync now</string>
   <string name="setting">Settings</string>
   <string name="settings_backup_title">Back up system settings</string>
@@ -268,7 +277,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-  <string name="sms">SMS</string>
+  <string name="sms">Messages</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>
@@ -289,7 +298,7 @@ This feature encrypts and uploads your device's ID to Mi's servers."</string>
 Sync your photos, contacts, notes, and more across all your devices or access them at "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". You can turn this feature on and off anytime in Settings.
+  <string name="sync_dspt_provision3">". You can turn this feature on or off anytime in Settings.
 "</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Sync records of calls made and received on this phone</string>
@@ -299,8 +308,6 @@ Sync your photos, contacts, notes, and more across all your devices or access th
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
   <string name="sync_resend_sms_dspt_provision">" If you switch SIM cards, your carrier may charge for an SMS message used to reactivate this service."</string>
-  <string name="sync_setting">Mobile data usage</string>
-  <string name="sync_standard">SMS and call history</string>
   <string name="sync_sub_1_intl_sms">Your carrier may charge for an international SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms">Your carrier may charge for an SMS message used to activate this service.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Your carrier may charge for 1 domestic and 1 international SMS message used to activate this service.</string>
@@ -328,7 +335,6 @@ By using this service, you're agreeing to "</string>
   <string name="verify">Verify</string>
   <string name="view_storage_title">Storage space</string>
   <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

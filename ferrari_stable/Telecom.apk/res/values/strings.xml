@@ -10,6 +10,7 @@
   <string name="headset_plugin_view_text">Headset is plugged in.</string>
   <string name="headset_plugin_view_title">Headset</string>
   <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
+  <string name="incall_error_call_failed">"Couldn't make call."</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="notification_missedCallTicker">Missed call from %s</string>

@@ -44,6 +44,8 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
+  <string name="activate_usb_message">To activate this feature, insert your SIM card.</string>
+  <string name="activate_usb_title">Activate USB</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
   <string name="app_label">System UI</string>
@@ -53,6 +55,9 @@
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_title">Connect charger</string>
   <string name="battery_profiles">Use battery profiles</string>
+  <string name="block_record_notification_more_text">Hiding notifications from %1$s &amp; %2$d apps.</string>
+  <string name="block_record_notification_text">Hiding notifications from %1$s.</string>
+  <string name="block_record_notification_title">Notifications hidden</string>
   <string name="bluetooth_tethered">Bluetooth tethered</string>
   <string name="call_status_dialing">Dialing</string>
   <string name="call_status_ringing">Ringing</string>
@@ -79,12 +84,16 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="description_direction_left">Swipe left for %s.</string>
   <string name="description_direction_up">Swipe up for %s.</string>
   <string name="description_target_search">Search</string>
+  <string name="disable_notification_summary">"Hide apps' notifications"</string>
+  <string name="disable_notification_title">Hide notifications</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
   <string name="dlg_confirm_kill_storage_users_title">Turn on USB storage</string>
   <string name="dlg_error_title">USB operation unsuccessful</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">"You're in car mode"</string>
+  <string name="drive_mode_tip">"You're in Car mode"</string>
+  <string name="expanded_confirm_disable_notification">Hide</string>
+  <string name="expanded_notification_manager">Manage notifications</string>
   <string name="ext_media_badremoval_notification_message">Unmount USB storage before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">USB storage removed unexpectedly</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
@@ -109,6 +118,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
@@ -122,8 +132,10 @@ Use only the supplied charger."</string>
   <string name="media_projection_action_text">Start now</string>
   <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
   <string name="media_projection_remember_text">"Don't show again"</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Yes</string>
-  <string name="no_notification_tips">No notifications</string>
+  <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_notification_tips">No notifications.</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
   <string name="notification_otg_gamestick_out">Game controller disconnected</string>
   <string name="notification_otg_keyboard_in">Keyboard connected</string>
@@ -140,12 +152,20 @@ Use only the supplied charger."</string>
   <string name="notification_otg_trackball_out">Trackball disconnected</string>
   <string name="notification_otg_unknow_in">OTG device connected</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
+  <string name="notification_template_text">" has a notification. Touch to view."</string>
   <string name="oldman_airplane_mode_text">airplane</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Rejecting call</string>
   <string name="return_to_incall_screen">Return to call</string>
+  <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
+  <string name="screen_button_notification_title">Navigation buttons are turned off</string>
+  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
+  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+  <string name="screen_pinning_negative">No thanks</string>
+  <string name="screen_pinning_positive">Got it</string>
+  <string name="screen_pinning_title">Screen is pinned</string>
   <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
   <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
@@ -195,6 +215,7 @@ Slide down to lock"</string>
   <string name="usb_debugging_title">Allow USB debugging?</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_device_permission_prompt">Allow the app %1$s to access USB device?</string>
+  <string name="usb_function_charging_text">Connected in charging mode</string>
   <string name="usb_mode_dont_ask">Remember this choice</string>
   <string name="usb_mode_mount_storage_title">Open USB storage?</string>
   <string name="usb_mode_notification">USB Storage</string>

@@ -219,7 +219,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_rat_4g">4G</string>
   <string name="config_tether_apndata"/>
   <string name="config_useragentprofile_url"/>
-  <string name="config_webViewPackageName">com.android.webview</string>
+  <string name="config_webViewPackageName">com.google.android.webview</string>
   <string name="config_wifi_p2p_device_type">10-0050F204-5</string>
   <string name="config_wifi_random_mac_oui">DA-A1-19</string>
   <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>

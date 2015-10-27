@@ -106,15 +106,23 @@
         <item quantity="one">%1$d selected</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block these %1$d numbers?</item>
-        <item quantity="one">Block this number?</item>
+        <item quantity="other">Block these %1$d phone numbers?</item>
+        <item quantity="one">Block this phone number?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock these %1$d numbers?</item>
-        <item quantity="one">Unblock this number?</item>
+        <item quantity="other">Unblock these %1$d phone numbers?</item>
+        <item quantity="one">Unblock this phone number?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Rang %d times</item>
         <item quantity="one">Rang %d time</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d contacts</item>
+        <item quantity="one">%1$d contact</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d contacts haven't been synced"</item>
+        <item quantity="one">"1 contact hasn't been synced"</item>
     </plurals>
 </resources>

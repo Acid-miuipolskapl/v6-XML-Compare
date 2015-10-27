@@ -80,10 +80,10 @@
   <string name="call_lost">Call has been lost.</string>
   <string name="call_record_button_label">Recording %s</string>
   <string name="call_record_wait_label">Waiting</string>
-  <string name="call_recording_error_low_storage">Not enough space: your SD card is too full</string>
+  <string name="call_recording_error_low_storage">Not enough space on SD card</string>
   <string name="call_recording_error_privacy">"Can't record while you're in Guest mode"</string>
   <string name="call_recording_error_sd_access">"Can't access SD card"</string>
-  <string name="call_recording_error_sd_unmounted">Recording has stopped: SD card is unmounted</string>
+  <string name="call_recording_error_sd_unmounted">Recording stopped: SD card unmounted</string>
   <string name="call_recording_error_start_failed">Recorder is being used by another app</string>
   <string name="call_recording_error_unknown">An unknown error occurred</string>
   <string name="call_recording_notification_message">Touch to listen.</string>
@@ -97,19 +97,19 @@
   <string name="caller_manage_header">Conference call %s</string>
   <string name="calling_via_template">Calling via %s</string>
   <string name="cancel">Cancel</string>
-  <string name="card_title_call_ended">Call ended</string>
+  <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_callback_number">"Your call back number
  %1$s"</string>
   <string name="card_title_callback_number_emergency">"Your emergency call back number
  %1$s"</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
-  <string name="card_title_hanging_up">Hanging up</string>
+  <string name="card_title_hanging_up">"Hanging up "</string>
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_incoming_call">Incoming call</string>
   <string name="card_title_my_phone_number">My number is %s</string>
-  <string name="card_title_on_hold">On hold</string>
+  <string name="card_title_on_hold">"On hold "</string>
   <string name="card_title_redialing">Retrying</string>
   <string name="card_title_threeway_call">Three-way call</string>
   <string name="card_title_video_call">Video call</string>
@@ -144,8 +144,8 @@
   <string name="contacts_icon_label">Contacts</string>
   <string name="custom_message_cancel">Cancel</string>
   <string name="custom_message_send">Send</string>
-  <string name="data_enable_summary">Enable data access over Mobile network</string>
-  <string name="data_enabled">Data enabled</string>
+  <string name="data_enable_summary">Access data over Mobile network</string>
+  <string name="data_enabled">Mobile data</string>
   <string name="default_notification_description">Default sound (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Not set&gt;</string>
@@ -162,16 +162,23 @@
   <string name="description_direction_up">Slide up for %s.</string>
   <string name="description_direction_up_left">Up Left</string>
   <string name="description_direction_up_right">Up Right</string>
+  <string name="description_image_button_answer">Swipe up to answer</string>
+  <string name="description_image_button_dialpad">Dialpad</string>
   <string name="description_image_button_eight">eight</string>
   <string name="description_image_button_five">five</string>
   <string name="description_image_button_four">four</string>
+  <string name="description_image_button_hangup">End</string>
+  <string name="description_image_button_message_enter">Swipe up to reply with message</string>
+  <string name="description_image_button_message_exit">Hide messages</string>
   <string name="description_image_button_nine">nine</string>
   <string name="description_image_button_one">one</string>
   <string name="description_image_button_pound">pound</string>
+  <string name="description_image_button_reject">Swipe up to decline</string>
   <string name="description_image_button_seven">seven</string>
   <string name="description_image_button_six">six</string>
   <string name="description_image_button_star">star</string>
   <string name="description_image_button_three">three</string>
+  <string name="description_image_button_tools">Options</string>
   <string name="description_image_button_two">two</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_accept_upgrade_to_video_request">Accept video request</string>
@@ -263,7 +270,7 @@
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fraud_call_answer">Answer</string>
   <string name="fraud_call_decline">Decline</string>
-  <string name="fraud_call_waring">Be careful: You should always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
+  <string name="fraud_call_waring">Always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -355,6 +362,7 @@ Switch to the new provider anyway?"</string>
   <string name="messageCFU">Always use this number</string>
   <string name="mhh_disable">Medical, Health, and Hospital disabled</string>
   <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
+  <string name="miprofile_stranger_card">Unknown number</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
   <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
   <string name="mobile_networks">Mobile network settings</string>
@@ -379,14 +387,14 @@ Switch to the new provider anyway?"</string>
   <string name="newPin2Label">New PIN2</string>
   <string name="newPinLabel">New PIN</string>
   <string name="no_change">No changes were made.</string>
-  <string name="no_internet_available">To place an Internet call, check your Internet connection first.</string>
+  <string name="no_internet_available">To place an Internet call, check your internet connection first.</string>
   <string name="no_internet_available_title">No Internet connection</string>
   <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Do you want to add one now?</string>
   <string name="no_sip_account_found_title">No Internet calling account</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="no_voip">Internet calling not supported</string>
-  <string name="no_wifi_available">You need to be connected to a WLAN network for Internet calls (use the Wireless &amp; Network settings).</string>
+  <string name="no_wifi_available">You need to be connected to a WLAN network for internet calls (use the Wireless &amp; Network settings).</string>
   <string name="no_wifi_available_title">No WLAN connection</string>
   <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
   <string name="non_ivr_menu_view_menu">View menu</string>
@@ -516,7 +524,7 @@ Try again or call customer service for more options."</string>
   <string name="port_title">Port number</string>
   <string name="prefer_2g">Use only 2G networks</string>
   <string name="prefer_2g_summary">Saves battery</string>
-  <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
+  <string name="preference_category_ringtone">Ringtone &amp; vibrate</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferred network mode: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Preferred network mode: CDMA / EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Preferred network mode: CDMA only</string>
@@ -718,6 +726,6 @@ Contact your carrier if this problem persists."</string>
 "</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
-  <string name="waiting_close_airplane_mode">Waiting to close airplane mode ...</string>
+  <string name="waiting_close_airplane_mode">Just a sec…</string>
   <string name="wild_prompt_str">Replace wild character with</string>
 </resources>
