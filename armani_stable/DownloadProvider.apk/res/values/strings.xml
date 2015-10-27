@@ -3,8 +3,10 @@
   <string name="app_label">Download Manager</string>
   <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
   <string name="button_cancel_download">Cancel</string>
+  <string name="button_download_now">Download now</string>
   <string name="button_queue_for_wifi">Queue</string>
   <string name="button_start_now">Start now</string>
+  <string name="button_wait_for_wifi">Wait</string>
   <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
   <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
   <string name="dialog_not_show_again">"Don't show again"</string>
@@ -16,6 +18,8 @@
   <string name="download_running">In progress</string>
   <string name="download_running_percent">In progress, %d%%</string>
   <string name="download_unknown_title">&lt;Untitled&gt;</string>
+  <string name="enter_garbage_clean">Clean up internal storage.</string>
+  <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
   <string name="notif_text_engine_off">Xunlei accelerator is off.</string>
   <string name="notif_text_engine_on">Accelerating…</string>
   <string name="notif_title_file_size">%1$d total</string>
@@ -48,6 +52,12 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">Using your mobile data connection to download these %s files (%s ) will increase your mobile data usage.</string>
+  <string name="recommended_file_one_in_mobile">Using your mobile data connection to download this file (%s ) will increase your mobile data usage.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"You're not connected to WLAN at the moment. %s
+
+Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Can't get file size info. To use your mobile data connection to download this file, tap %s. To wait and download this file when you're connected to WLAN, tap %s."</string>
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="warning_tip_cancel">Download</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">About this feature</string>
+  <string name="about_phone_event">About Service Info</string>
   <string name="about_smart_antispam_summary">About this feature</string>
   <string name="about_telephone_fraud">Watch out for fraud</string>
   <string name="account_address">Addresses</string>
@@ -9,14 +10,14 @@
   <string name="account_type_name">Mi Account</string>
   <string name="account_updating_device">Updating…</string>
   <string name="account_updating_device_failed">"Couldn't sign in"</string>
-  <string name="account_verify_password">"You're using this service on another device. For security reasons, you need to verify your Mi Account on this device."</string>
+  <string name="account_verify_password">"You're already using this service on another device. For security reasons, you need to verify your Mi Account on this device."</string>
   <string name="account_yellowpage_favorite">Favorites</string>
   <string name="account_yellowpage_followed">Verified Accounts</string>
   <string name="account_yellowpage_recent">View history</string>
   <string name="agree">Agree</string>
   <string name="all_services">All</string>
   <string name="allow">Allow</string>
-  <string name="app_label">Yellow Pages</string>
+  <string name="app_label">Yellow pages</string>
   <string name="app_recommendation_install">Install</string>
   <string name="average_price">Average %d RMB</string>
   <string name="back">Back</string>
@@ -78,6 +79,7 @@
   <string name="express_addressee_info">Addressee info</string>
   <string name="express_addressee_name">Addressee name</string>
   <string name="express_addressee_region">Addressee locale</string>
+  <string name="express_banner_header">%1$s / Tracking number</string>
   <string name="express_cancel_order">Cancel</string>
   <string name="express_company_list_empty">No companies</string>
   <string name="express_company_phone_prefix">"Contact: "</string>
@@ -128,16 +130,15 @@ Check your tracking number."</string>
   <string name="express_inquiry_trace_user_notice_content">"We'll let you know when your order's status changes."</string>
   <string name="express_inquiry_untrace">"Don't track"</string>
   <string name="express_inquiry_untrace_success">Stopped tracking</string>
+  <string name="express_location_failed">"Couldn't locate you. Enter your address."</string>
   <string name="express_no_address">Empty</string>
   <string name="express_no_order">No order</string>
   <string name="express_no_order_info">No order info</string>
   <string name="express_order_confirmation">Order confirmation</string>
-  <string name="express_order_created_time">Created</string>
   <string name="express_order_failed">Failed</string>
-  <string name="express_order_info">Order info</string>
-  <string name="express_order_internal_id">Order #</string>
   <string name="express_order_ongoing">Ordering…</string>
   <string name="express_order_result">Result</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accepted</string>
   <string name="express_order_state_allograph">Signed</string>
   <string name="express_order_state_cancelled">Canceled</string>
@@ -176,6 +177,8 @@ Check your tracking number."</string>
   <string name="express_view_status">Track</string>
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
+  <string name="follow_label">Follow %1$s</string>
+  <string name="follow_success">Now following %1$s.</string>
   <string name="fraud_number_online_identification">Block unwanted calls</string>
   <string name="gallery">Gallery</string>
   <string name="general_btn_follow">Follow</string>
@@ -185,16 +188,14 @@ Check your tracking number."</string>
   <string name="general_delete_recent_ok">Recent deleted</string>
   <string name="general_favorite_ok">Favorite added</string>
   <string name="general_favorite_title">Favorites</string>
-  <string name="general_follow_hint">"Once followed %1$s, you can receive information from %1$s, and get more service from %1$s.
-
-Confirm to follow this yellow page?"</string>
+  <string name="general_follow_hint">Follow %1$s to receive relevant updates</string>
   <string name="general_follow_hint_title">Hint</string>
   <string name="general_menu_delete_recent">Delete recent</string>
   <string name="general_menu_unfavorite">Remove from favorites</string>
   <string name="general_menu_unfollow">Unfollow</string>
   <string name="general_no_yellow_page">List is empty</string>
   <string name="general_recent_title">Recent</string>
-  <string name="general_unfollow_hint">Sure to unfollow %1$s?</string>
+  <string name="general_unfollow_hint">Stop following %1$s?</string>
   <string name="general_yellow_page_title">General</string>
   <string name="group_name_banner"/>
   <string name="group_name_basic"/>
@@ -231,7 +232,7 @@ Confirm to follow this yellow page?"</string>
   <string name="menu_correct_yellow_page">Report an issue</string>
   <string name="menu_delete_call_log">Delete call history</string>
   <string name="menu_delete_one">Remove from call history</string>
-  <string name="menu_enroll_in_yellow_page">Sign up for Yellow Pages</string>
+  <string name="menu_enroll_in_yellow_page">Sign up for Yellow pages</string>
   <string name="menu_follow_yellow_page">Follow</string>
   <string name="menu_remove_black_list">Remove from blocklist</string>
   <string name="menu_remove_from_favorite">Remove from favorites</string>
@@ -259,17 +260,17 @@ Confirm to follow this yellow page?"</string>
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">Show prompt when connecting to the internet</string>
   <string name="notify_connect_title">Internet connection notification</string>
-  <string name="order_date_label">Order date:</string>
+  <string name="order_date_label">Order date: %1$s</string>
   <string name="order_detail">Details</string>
   <string name="order_empty_hint">No orders</string>
-  <string name="order_id_label">"Order #: "</string>
+  <string name="order_id_label">Order #: %1$s</string>
+  <string name="order_info">Order info</string>
   <string name="order_merchant_title">My orders</string>
   <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">No orders</string>
-  <string name="order_price_label">"Order price: "</string>
-  <string name="order_product_name_label">"Product name: "</string>
-  <string name="order_status">%s</string>
-  <string name="order_status_label">"Order status: "</string>
+  <string name="order_price_label">Order price: %1$s</string>
+  <string name="order_product_name_label">Product name: %1$s</string>
+  <string name="order_status_label">Order status: %1$s</string>
   <string name="order_type_recharge">Top-up</string>
   <string name="packages_no_package">No recommended packages</string>
   <string name="packages_pay">Buy now</string>
@@ -285,16 +286,18 @@ Confirm to follow this yellow page?"</string>
   <string name="payment_failed_common_problems">Error occurred during payment</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
+  <string name="phone_event_setting_notice_text">"Yellow pages wants to upload verified service numbers (like your cell service provider) to Mi's servers, so that you can receive service-related updates."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
-  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_refreshing_label">Just a sec…</string>
   <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="quick_yellow_page_tab_call_log">Call history</string>
   <string name="quick_yellow_page_tab_phones">Phone</string>
   <string name="recharge_actual_price">Price:</string>
   <string name="recharge_charge_range">Price: RMB %1$s-%2$s</string>
   <string name="recharge_charge_value">Price: RMB %s</string>
+  <string name="recharge_follow_name">Top up</string>
   <string name="recharge_history">Top-up history</string>
   <string name="recharge_history_empty">Empty</string>
   <string name="recharge_input_phone_title">Enter phone number (China Mobile, China Unicom, or China Telecom)</string>
@@ -312,6 +315,7 @@ Confirm to follow this yellow page?"</string>
   <string name="recharge_payment_result_ok_title">Added RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
   <string name="recharge_phone">Top-up number:</string>
+  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">"The phone number can't be empty"</string>
   <string name="recharge_phone_number_error">The phone number you entered is invalid</string>
   <string name="recharge_select_money_title">Select top-up amount</string>
@@ -328,6 +332,7 @@ Total: RMB %3$s"</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">Be careful: Always verify the identity of the contact first by phone or video before responding to any messages involving your personal information.</string>
   <string name="remind_user_suspect_number_title">Suspicious number</string>
+  <string name="rmb">RMB</string>
   <string name="scan">Scan</string>
   <string name="select_package_before_buy">Select package</string>
   <string name="send_shortcut_failed">"Couldn't send"</string>
@@ -349,11 +354,13 @@ Total: RMB %3$s"</string>
   <string name="toast_finish_delete_call_log">Call history deleted</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="try_again">Try again</string>
+  <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
+  <string name="turn_on_phone_event_title">Receive service info</string>
   <string name="turn_on_smart_antispam_hint">"Identify calls from unknown numbers using Xiaomi's database"</string>
   <string name="turn_on_smart_antispam_summary_off">Only search numbers saved on this device</string>
   <string name="turn_on_smart_antispam_summary_on">Upload and identify unknown numbers in call logs and text messages</string>
   <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
-  <string name="turn_on_yellowpage_service_title">Use Yellow Pages</string>
+  <string name="turn_on_yellowpage_service_title">Use Yellow pages</string>
   <string name="upload_and_verify_fraud_num_off">Share unwanted calls info</string>
   <string name="upload_and_verify_fraud_num_on">Share unwanted calls info</string>
   <string name="uploads_disabled">File uploads are disabled</string>
@@ -362,8 +369,8 @@ Total: RMB %3$s"</string>
   <string name="user_notice_identify_summary_format">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Your phone will use MIUI's database to block unwanted calls when connected to WLAN. By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_title">Attention</string>
-  <string name="user_notice_yp_detail_summary_format">"Some of your Yellow Pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
-  <string name="user_notice_yp_detail_summary_format_cta">"Some of your Yellow Pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format">"Some of your Yellow pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
+  <string name="user_notice_yp_detail_summary_format_cta">"Some of your Yellow pages info is outdated. Do you want to update it? By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="view_orders">View orders</string>
   <string name="voicemail">Voicemail</string>
   <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
@@ -371,7 +378,6 @@ Total: RMB %3$s"</string>
   <string name="yellowpage_navigation_network_location_enable">Allow</string>
   <string name="yellowpage_navigation_network_location_enable_later">Not now</string>
   <string name="yellowpage_navigation_network_location_enabled">Location access is on. You can turn it off anytime in Settings.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow Pages to access your location info.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Improve search results by allowing Yellow pages to access your location info.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Location access</string>
-  <string name="yuan">Yuan</string>
 </resources>

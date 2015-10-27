@@ -5,7 +5,7 @@
         <item quantity="zero">Delete %1$d files</item>
         <item quantity="one">Delete %1$d file</item>
         <item quantity="two">Delete %1$d files</item>
-        <item quantity="few">%1$Delete %1$d files</item>
+        <item quantity="few">Delete %1$d files</item>
         <item quantity="many">Delete %1$d files</item>
     </plurals>
     <plurals name="delete_folders_confirm">
@@ -47,5 +47,85 @@
         <item quantity="two">%1$d selected</item>
         <item quantity="few">%1$d selected</item>
         <item quantity="many">%1$d selected</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d items)</item>
+        <item quantity="zero"> (%1$d items)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d items)</item>
+        <item quantity="few"> (%1$d items)</item>
+        <item quantity="many"> (%1$d items)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d items)</item>
+        <item quantity="zero"> (%1$d items)</item>
+        <item quantity="one"> (%1$d item)</item>
+        <item quantity="two"> (%1$d items)</item>
+        <item quantity="few"> (%1$d items)</item>
+        <item quantity="many"> (%1$d items)</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">App %1$s related files (%2$d items)</item>
+        <item quantity="zero">App %1$s related files (%2$d items)</item>
+        <item quantity="one">App %1$s related files (%2$d item)</item>
+        <item quantity="two">App %1$s related files (%2$d items)</item>
+        <item quantity="few">App %1$s related files (%2$d items)</item>
+        <item quantity="many">App %1$s related files (%2$d items)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s related files (%2$d items)</item>
+        <item quantity="zero">%1$s related files (%2$d items)</item>
+        <item quantity="one">%1$s related files (%2$d item)</item>
+        <item quantity="two">%1$s related files (%2$d items)</item>
+        <item quantity="few">%1$s related files (%2$d items)</item>
+        <item quantity="many">%1$s related files (%2$d items)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Tag %1$s related files (%2$d items)</item>
+        <item quantity="zero">Tag %1$s related files (%2$d items)</item>
+        <item quantity="one">Tag %1$s related files (%2$d item)</item>
+        <item quantity="two">Tag %1$s related files (%2$d items)</item>
+        <item quantity="few">Tag %1$s related files (%2$d items)</item>
+        <item quantity="many">Tag %1$s related files (%2$d items)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d mins ago</item>
+        <item quantity="zero">%1$d mins ago</item>
+        <item quantity="one">%1$d min ago</item>
+        <item quantity="two">%1$d mins ago</item>
+        <item quantity="few">%1$d mins ago</item>
+        <item quantity="many">%1$d mins ago</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d hours ago</item>
+        <item quantity="zero">%1$d hours ago</item>
+        <item quantity="one">%1$d hour ago</item>
+        <item quantity="two">%1$d hours ago</item>
+        <item quantity="few">%1$d hours ago</item>
+        <item quantity="many">%1$d hours ago</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d days ago</item>
+        <item quantity="zero">%1$d days ago</item>
+        <item quantity="one">%1$d day ago</item>
+        <item quantity="two">%1$d days ago</item>
+        <item quantity="few">%1$d days ago</item>
+        <item quantity="many">%1$d days ago</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">found %1$d new files</item>
+        <item quantity="zero">found %1$d new files</item>
+        <item quantity="one">found %1$d new file</item>
+        <item quantity="two">found %1$d new files</item>
+        <item quantity="few">found %1$d new files</item>
+        <item quantity="many">found %1$d new files</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Received %1$d files of App %2$s</item>
+        <item quantity="zero">Received %1$d file of App %2$s</item>
+        <item quantity="one">Received %1$d file of App %2$s</item>
+        <item quantity="two">Received %1$d files of App %2$s</item>
+        <item quantity="few">Received %1$d files of App %2$s</item>
+        <item quantity="many">Received %1$d files of App %2$s</item>
     </plurals>
 </resources>

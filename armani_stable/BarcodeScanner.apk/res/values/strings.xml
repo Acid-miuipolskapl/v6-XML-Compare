@@ -7,7 +7,7 @@
   <string name="app_details">App details:</string>
   <string name="app_name">Scanner</string>
   <string name="back">Back</string>
-  <string name="barcode_into_rectangle">Align the code in the frame below</string>
+  <string name="barcode_into_rectangle">Place code inside the frame below</string>
   <string name="birthday">Birthday:</string>
   <string name="camera_error">"There's something wrong with the camera"</string>
   <string name="cancel">Cancel</string>
@@ -43,7 +43,7 @@
   <string name="open_flash_error">"Can't turn on torch"</string>
   <string name="phone">Phone:</string>
   <string name="picker_lable">Photo</string>
-  <string name="place_barcode_into_rectangle">Align the code in the frame below</string>
+  <string name="place_barcode_into_rectangle">Place code inside the frame below</string>
   <string name="qq_details">QQ details:</string>
   <string name="qr_code_details">QR code details:</string>
   <string name="recognize">Scan</string>

@@ -19,6 +19,9 @@
   <string name="artist_name">Artist</string>
   <string name="artist_search_title">Artist</string>
   <string name="artist_view">Artist</string>
+  <string name="atmd_copyright_info">Streaming service is provided by Ultimate Inc.</string>
+  <string name="atmd_mail">service1@ultimobi.com</string>
+  <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Choose a song</string>
   <string name="auto_download_in_wifi">Download favorite songs using WLAN</string>
   <string name="available_playlist_name_format">New playlist %d</string>
@@ -151,7 +154,7 @@
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration">"Online content is provided by Baidu Online Music Service. By using this service, you're agreeing to Baidu's "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="impunity_declaration">This app needs to connect to the internet.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">Quit</string>
   <string name="impunity_declaration_positive_text">OK</string>
@@ -219,6 +222,9 @@
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>
+  <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
+  <string name="online_music_enabled_summary">Listen and download your favorite songs. View billboard charts and curated playlists wherever you go!</string>
+  <string name="online_music_enabled_title">Free streaming is here</string>
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="only_online_can_select_quality">You can only select quality for music you stream.</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>

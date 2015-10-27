@@ -27,10 +27,6 @@
         <item quantity="few">These conversations contain merged items. Delete them anyway?</item>
         <item quantity="many">These conversations contain merged items. Delete them anyway?</item>
     </plurals>
-    <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Discard drafts from these %1$d conversations?</item>
-        <item quantity="one">Discard drafts from this conversation?</item>
-    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d selected</item>
         <item quantity="zero">%d selected</item>
@@ -40,40 +36,36 @@
         <item quantity="many">%d selected</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b>%1$d&lt;/b> archived.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> archived.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> archived.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> archived.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> deleted.</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> deleted.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> deleted.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> deleted.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Changed folders.</item>
         <item quantity="one">Changed folder.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b>%1$d&lt;/b> muted</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> muted.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> muted</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> muted.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> messages removed from 'important' folder"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> removed from 'important' folder"</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b>" messages removed from 'important' folder"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" removed from 'important' folder"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&lt;b>%1$d&lt;/b> removed from 'spam' folder"</item>
-        <item quantity="one">"&lt;b>%1$d&lt;/b> removed from 'spam' folder"</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b>" removed from 'spam' folder"</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b>" removed from 'spam' folder"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b>%1$d&lt;/b> messages reported as spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> message reported as spam</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> messages reported as spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> message reported as spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b>%1$d&lt;/b> marked as spam</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b> marked as spam</item>
-    </plurals>
-    <plurals name="conversation_unstarred">
-        <item quantity="other">Unstarred %1$d conversations</item>
-        <item quantity="one">Unstarred %1$d conversation</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> marked as spam</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> marked as spam</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Drafts</item>
@@ -87,38 +79,6 @@
         <item quantity="few">%1$d messages will be permanently deleted.</item>
         <item quantity="many">%1$d messages will be permanently deleted.</item>
     </plurals>
-    <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%dB</item>
-        <item quantity="zero">%dB</item>
-        <item quantity="one">%dB</item>
-        <item quantity="two">%dB</item>
-        <item quantity="few">%dB</item>
-        <item quantity="many">%dB</item>
-    </plurals>
-    <plurals name="message_view_attachment_gigabytes">
-        <item quantity="other">%dGB</item>
-        <item quantity="zero">%dGB</item>
-        <item quantity="one">%dGB</item>
-        <item quantity="two">%dGB</item>
-        <item quantity="few">%dGB</item>
-        <item quantity="many">%dGB</item>
-    </plurals>
-    <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%dKB</item>
-        <item quantity="zero">%dKB</item>
-        <item quantity="one">%dKB</item>
-        <item quantity="two">%dKB</item>
-        <item quantity="few">%dKB</item>
-        <item quantity="many">%dKB</item>
-    </plurals>
-    <plurals name="message_view_attachment_megabytes">
-        <item quantity="other">%dMB</item>
-        <item quantity="zero">%dMB</item>
-        <item quantity="one">%dMB</item>
-        <item quantity="two">%dMB</item>
-        <item quantity="few">%dMB</item>
-        <item quantity="many">%dMB</item>
-    </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Move %1$d conversations</item>
         <item quantity="zero">Move %1$d conversations</item>
@@ -126,14 +86,6 @@
         <item quantity="two">Move %1$d conversations</item>
         <item quantity="few">Move %1$d conversations</item>
         <item quantity="many">Move %1$d conversations</item>
-    </plurals>
-    <plurals name="move_messages">
-        <item quantity="other">Move messages</item>
-        <item quantity="zero">Move messages</item>
-        <item quantity="one">Move message</item>
-        <item quantity="two">Move messages</item>
-        <item quantity="few">Move messages</item>
-        <item quantity="many">Move messages</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Show %1$d new messages.</item>
