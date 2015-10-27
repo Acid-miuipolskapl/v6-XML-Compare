@@ -594,7 +594,7 @@ Reason: \"%s\""</string>
   <string name="menu_removeStar">Unfavorite</string>
   <string name="menu_search">Search</string>
   <string name="menu_select_all">Select all</string>
-  <string name="menu_select_none">Unselect all</string>
+  <string name="menu_select_none">Deselect all</string>
   <string name="menu_sendSMS">Text contact</string>
   <string name="menu_sendTextMessage">Send text message</string>
   <string name="menu_set_ring_tone">Set ringtone</string>
@@ -635,7 +635,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_clear_alertdialog_title">Clear history</string>
   <string name="miprofile_request_deleted">Card deleted</string>
   <string name="miprofile_request_empty_request">No exchange requests</string>
-  <string name="miprofile_request_exchange_title">Contact card request</string>
+  <string name="miprofile_request_exchange_title">Find contact cards</string>
   <string name="miprofile_request_menu_clear_request">Clear history</string>
   <string name="miprofile_request_message">%1$s people want to exchange contact cards</string>
   <string name="miprofile_request_notification_message">Accept to view profile photo and more info</string>

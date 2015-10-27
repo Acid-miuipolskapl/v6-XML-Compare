@@ -109,7 +109,7 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">mobile data</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s."</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -243,7 +243,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
   <string name="network_speed_for_apps_others">Other</string>
-  <string name="network_speed_for_apps_title">Connection speed details</string>
+  <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">Connection speed</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>

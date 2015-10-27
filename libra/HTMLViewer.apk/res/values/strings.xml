@@ -7,5 +7,8 @@
 go to %s"</string>
   <string name="loading">Loading…</string>
   <string name="mibi_license">Mi Credit Terms of Service</string>
+  <string name="open_wifi_connect_summary">Tap to view details.</string>
+  <string name="open_wifi_connect_title">Connect to %1$s</string>
+  <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
   <string name="policy_name">Policy:%s</string>
 </resources>

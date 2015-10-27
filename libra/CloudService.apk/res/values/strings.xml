@@ -36,9 +36,9 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
-  <string name="cloud_back_up_open_info">"Back up apps when connected to WLAN once every %1$s
+  <string name="cloud_back_up_open_info">"Back up when connected to WLAN once every %1$s
 Last backed up on %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Back up apps when connected to WLAN once every %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Back up when connected to WLAN once every %1$s</string>
   <string name="cloud_back_up_remove_success">Backup deleted</string>
   <string name="cloud_back_up_title">Back up apps</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
@@ -152,13 +152,13 @@ To fix this, you can either clean out some old files to make room for new ones, 
   <string name="micloud_main_space_full">Not enough storage space.</string>
   <string name="micloud_main_space_low">Almost out of space…</string>
   <string name="micloud_main_stop_sync">Sync stopped</string>
-  <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
-Tap the Settings button to view more options"</string>
+  <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync.
+Tap the Sync settings button to view more options."</string>
   <string name="micloud_main_suggest_sync">"Couldn't sync everything"</string>
   <string name="micloud_main_sync_exception">Sync error</string>
   <string name="micloud_main_sync_init">Getting info</string>
   <string name="micloud_main_sync_now">Sync now</string>
-  <string name="micloud_main_sync_on_wifi">Use WLAN</string>
+  <string name="micloud_main_sync_on_wifi">Waiting for WLAN</string>
   <string name="micloud_main_sync_pause">Sync paused</string>
   <string name="micloud_main_sync_setting">Sync settings</string>
   <string name="micloud_main_sync_stop">Sync stopped</string>
