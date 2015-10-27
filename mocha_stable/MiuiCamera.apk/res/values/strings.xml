@@ -325,7 +325,7 @@ touch the Shutter button"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst shoot</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Long press Shutter button</string>
-  <string name="pref_camera_movie_solid_default">on</string>
+  <string name="pref_camera_movie_solid_default">off</string>
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
   <string name="pref_camera_movie_solid_title">Image stabilization</string>
@@ -507,7 +507,7 @@ touch the Shutter button"</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_entryvalue_default">auto</string>
   <string name="pref_video_focusmode_title">Focus mode</string>
-  <string name="pref_video_quality_default">5</string>
+  <string name="pref_video_quality_default">6</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_720p">HD</string>
@@ -515,7 +515,6 @@ touch the Shutter button"</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
-  <string name="pref_video_quality_pad_default">6</string>
   <string name="pref_video_quality_title">Video quality</string>
   <string name="pref_video_slow_speed_title_simple_mode">Fast-motion</string>
   <string name="pref_video_speed_default">normal</string>

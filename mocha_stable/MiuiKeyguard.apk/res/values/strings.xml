@@ -24,7 +24,7 @@
   <string name="input_puk_code">Input PUK</string>
   <string name="invalid_confirm_pin_hint">"PINs don't match"</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
-  <string name="lock_screen_date">EEE, MMMM dd</string>
+  <string name="lock_screen_date">EEEE, MMMM dd</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>

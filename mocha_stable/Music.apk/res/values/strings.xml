@@ -19,6 +19,10 @@
   <string name="artist_name">Artist</string>
   <string name="artist_search_title">Artist</string>
   <string name="artist_view">Artist</string>
+  <string name="atmd_copyright_info">Streaming service is provided by Ultimate Inc.</string>
+  <string name="atmd_mail">service1@ultimobi.com</string>
+  <string name="atmd_music">Ultimate</string>
+  <string name="atmd_tel">Support: 0755-86699030</string>
   <string name="audio_picker_title">Choose a song</string>
   <string name="auto_download_in_wifi">Download favorite songs using WLAN</string>
   <string name="available_playlist_name_format">New playlist %d</string>
@@ -151,7 +155,7 @@
   <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration">"Online content is provided by Baidu Online Music Service. By using this service, you're agreeing to Baidu's "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Terms of Service&lt;/a&gt;.</string>
+  <string name="impunity_declaration">This app needs to connect to the internet to view and stream online music.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_negative_text">Quit</string>
   <string name="impunity_declaration_positive_text">OK</string>
@@ -216,6 +220,7 @@
   <string name="normal_quality">Good</string>
   <string name="not_login">Not signed in</string>
   <string name="not_selected">Choose a song</string>
+  <string name="not_vip">Sorry, you are not Vip.</string>
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="online_music">Discover</string>

@@ -46,6 +46,7 @@
   <string name="download_error">Download error. Wait a minute or two and try again.</string>
   <string name="download_failed">"Couldn't download"</string>
   <string name="download_full">Download full</string>
+  <string name="download_success_reboot_immediately">Reboot to apply update</string>
   <string name="download_title">Downloading (%s)</string>
   <string name="download_title_first">Getting update info…</string>
   <string name="download_title_full_download">Getting package info…</string>
@@ -96,6 +97,7 @@
   <string name="no_wifi_msg">Using your mobile data connection to download the update will increase your data usage.</string>
   <string name="no_wifi_title">Data usage warning</string>
   <string name="not_open">Off</string>
+  <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
   <string name="notification_downloading">Downloading update…</string>
   <string name="notification_load_body_alpha">Get the latest updates for your device.</string>
   <string name="notification_load_body_dev">Get the latest updates for your device.</string>
@@ -173,6 +175,7 @@ But you can take part next Tuesday."</string>
   <string name="update_sad">Meh (not good)</string>
   <string name="update_success">Update complete</string>
   <string name="update_success_body">Version: %s</string>
+  <string name="update_success_reboot_immediately">Update downloaded</string>
   <string name="update_success_title">Device updated</string>
   <string name="updater_nolog">No change logs.</string>
   <string name="updater_nonetwork">Connect to network to view change log</string>

@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state">
+        <item>@string/st_antispam_mode_smart_state</item>
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
+    <string-array name="st_antispam_mode_defined_state_international">
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europe</item>
@@ -76,16 +95,18 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
+        <item>normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
@@ -218,7 +239,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Always</item>
         <item>Only when plugged in</item>
-        <item>Never (increases data usage)</item>
+        <item>Never (uses more mobile data)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Always</item>
@@ -1008,7 +1029,7 @@
         <item>5 seconds</item>
         <item>10 seconds</item>
         <item>20 seconds</item>
-        <item>Always</item>
+        <item>Always on</item>
     </string-array>
     <string-array name="button_light_timeout_value">
         <item>1000</item>
@@ -1019,10 +1040,11 @@
         <item>-1</item>
     </string-array>
     <string-array name="font_size_title">
-        <item>@string/font_size_small</item>
-        <item>@string/font_size_normal</item>
-        <item>@string/font_size_medium</item>
-        <item>@string/font_size_large</item>
+        <item>@string/layout_size_normal</item>
+        <item>@string/layout_size_medium</item>
+        <item>@string/layout_size_large</item>
+        <item>@string/layout_size_huge</item>
+        <item>@string/layout_size_exhuge</item>
     </string-array>
     <integer-array name="font_size_preference_preview_size">
         <item>14</item>
@@ -1236,6 +1258,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Gallery</item>
         <item>Music</item>
         <item>Email</item>
+        <item>Video</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>
@@ -1396,11 +1419,31 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Show system animations</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"To speed up device's performance, hide system animations"</item>
-        <item>"Showing system animations may slow down device's performance"</item>
+        <item>"Speeds up device's performance"</item>
+        <item>"May slow down device's performance"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
+    </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="alarm_repeat_type">
+        <item>Everyday</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Everyday</item>
+        <item>Weekdays</item>
+        <item>Custom</item>
     </string-array>
 </resources>

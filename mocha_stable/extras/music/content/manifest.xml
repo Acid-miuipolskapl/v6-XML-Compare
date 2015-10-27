@@ -6,8 +6,8 @@
 			<Image name="music_album_cover" x="230" y="346" w="700" h="700" align="center" alignV="center" antiAlias="true"/>
 			<Image x="230" y="346" w="700" h="700" align="center" alignV="center" antiAlias="true" src="album_overlay.png"/>
 		</Group>
-		<Text x="230" y="55" w="400" marqueeSpeed="30" size="28" color="#ffffffff" align="center" format="%s" paras="@music_control.title"/>
-		<Text x="230" y="95" w="200" marqueeSpeed="30" size="28" color="#99ffffff" align="center" format="%s" paras="@music_control.artist"/>
+		<Text enableFontScale="true" name="music_title" x="230" y="55" w="400" marqueeSpeed="30" size="28" color="#ffffffff" align="center" format="%s" paras="@music_control.title"/>
+		<Text enableFontScale="true" x="230" y="67+#music_title.text_height" w="200" marqueeSpeed="30" size="28" color="#99ffffff" align="center" format="%s" paras="@music_control.artist"/>
 		<Button name="music_prev" x="47" y="525" w="90" h="90" >
 			<Normal>
 				<Image src="music_pre_n.png" x="47" y="525" />

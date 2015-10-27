@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
+  <string name="app_already_exist">App already exists</string>
   <string name="app_being_backup_message">App is being backed up</string>
+  <string name="app_being_restored_message">App is being restored</string>
   <string name="app_category_books">Books</string>
   <string name="app_category_education">Education</string>
   <string name="app_category_entertainment">Entertainment</string>
@@ -37,6 +39,9 @@
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
+  <string name="children_folder_title">Kids</string>
+  <string name="children_mode_exit">Exit</string>
+  <string name="children_mode_tips">Return to Settings and manage access to apps.</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -53,6 +58,7 @@
   <string name="delete">Delete</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -106,6 +112,7 @@
   <string name="gadget_photo_24_label">Image 4x2</string>
   <string name="gadget_photo_44_label">Image 4x4</string>
   <string name="gadget_photo_label">Image</string>
+  <string name="gadget_power_clear_button_label">Deep clean</string>
   <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">"Touch to download MIUI's Weather app"</string>
   <string name="gadget_weather_aqi_title">"Air quality: "</string>
@@ -116,7 +123,7 @@
   <string name="gadget_weather_loading">No data</string>
   <string name="gadget_weather_low_temp">Low temp</string>
   <string name="gadget_weather_theme_type">Gadget type</string>
-  <string name="gadget_weather_time_format">EEE MM/d</string>
+  <string name="gadget_weather_time_format">EEEE, MMMM dd</string>
   <string name="gadget_weather_title">Weather</string>
   <string name="gadget_weather_title_14">Weather</string>
   <string name="gadget_weather_title_24">Weather</string>
@@ -186,8 +193,14 @@
   <string name="preferences_general_title">Additional settings</string>
   <string name="preferences_title">Launcher settings</string>
   <string name="process"/>
+  <string name="recommend_apps_default_title">Empty</string>
+  <string name="recommend_apps_notice">Recommended apps</string>
+  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen.</string>
+  <string name="recommend_apps_switch_title">Recommended apps</string>
+  <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
+  <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
@@ -228,7 +241,9 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="unnamed_folder_name">Unnamed folder</string>
   <string name="wallpaper">Wallpaper</string>
+  <string name="wallpaper_auto_change_title">Lock screen</string>
   <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
+  <string name="wallpaper_scaling_message">Scaling to fixed size</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>
   <string name="wallpaper_success_message">Wallpaper applied</string>
