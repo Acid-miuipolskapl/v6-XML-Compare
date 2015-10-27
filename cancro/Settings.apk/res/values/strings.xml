@@ -234,7 +234,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
   <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
   <string name="background_location_control_title">Background location access</string>
-  <string name="background_location_deselect_apps">Unselect all</string>
+  <string name="background_location_deselect_apps">Deselect all</string>
   <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
   <string name="background_location_requests_title">Allow background location</string>
   <string name="background_location_select_apps">Select all</string>
@@ -2135,6 +2135,7 @@ This setting affects all users on this phone."</string>
   <string name="search_sync">sync</string>
   <string name="search_tether">tether</string>
   <string name="search_unlock_set">unlock set</string>
+  <string name="search_virtual_sim">virtual sim</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
@@ -2677,6 +2678,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
   <string name="virtual_sim_category_title">Virtual Sim</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
