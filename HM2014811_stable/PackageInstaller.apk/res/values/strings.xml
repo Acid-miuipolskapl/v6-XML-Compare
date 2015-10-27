@@ -10,6 +10,10 @@ Allow this now and in the future?"</string>
   <string name="app_name">Package installer</string>
   <string name="app_not_found_dlg_text">The app was not found in the list of installed apps.</string>
   <string name="app_not_found_dlg_title">App not found</string>
+  <string name="app_store_install_hint">Install now</string>
+  <string name="app_store_installing_message">Installing…</string>
+  <string name="app_store_missing_message">"Looks like you haven't installed our official App Store. Install it now?"</string>
+  <string name="app_store_missing_title">"App Store isn't installed"</string>
   <string name="auto_startup_dialog_msg">This app can start without your permission.</string>
   <string name="button_text_cancel">Cancel</string>
   <string name="button_text_delete">Delete</string>
@@ -78,6 +82,7 @@ All existing user data will be saved."</string>
   <string name="permission_group_title_settings_related">Settings</string>
   <string name="permission_send_sms_descx">App can send SMS and MMS</string>
   <string name="privacy_relative">Privacy</string>
+  <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
   <string name="safe_guard_support">Technical support provided by %1$s</string>
   <string name="safe_relative">Security</string>
   <string name="security_settings_desc">Allow this app to:</string>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">dd.MM. EEEE</string>
+    <string name="date_format">dd.MM.EEEE</string>
     <string name="today">Денес</string>
     <string name="tomorrow">Утре</string>
     <string name="aqi_pure"/>

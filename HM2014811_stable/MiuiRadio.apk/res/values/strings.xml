@@ -23,6 +23,7 @@
   <string name="click_to_play">Empty</string>
   <string name="confirm_delete_history_text">Delete selected items?</string>
   <string name="continue_play">Play</string>
+  <string name="default_cp_name">Qingting FM</string>
   <string name="device_connected">Connected</string>
   <string name="device_not_connected">Not connected</string>
   <string name="dialog_title_download_quality">Download quality</string>
@@ -42,7 +43,7 @@
   <string name="first_program">Program</string>
   <string name="get_channel_failed">"Couldn't get channel info"</string>
   <string name="has_no_program_now">Empty</string>
-  <string name="high_quality">Higher (48 bps)</string>
+  <string name="high_quality">Higher (48 kbps)</string>
   <string name="hotlist_name">Featured</string>
   <string name="impunity_declaration">Radio needs to connect to the internet and access your location info to work normally.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
@@ -66,6 +67,8 @@
   <string name="metered_play_toast">Using mobile data connection to stream Radio</string>
   <string name="min_sleep_time">1</string>
   <string name="more">More</string>
+  <string name="multi_subscriptions_subtitle_title">Tap to listen %1$s/%2$s.</string>
+  <string name="multi_subscriptions_title">%1$d subscriptions updated</string>
   <string name="my_favorite">FAVORITES</string>
   <string name="my_program">Offline</string>
   <string name="no_display_channel_text">No programs</string>
@@ -76,17 +79,18 @@
   <string name="no_network_button_refresh">Refresh</string>
   <string name="no_network_text">"Can't connect to the network."</string>
   <string name="no_program">Empty</string>
-  <string name="normal_quality">Normal (24 bps)</string>
+  <string name="normal_quality">Normal (24 kbps)</string>
   <string name="not_login">Not signed in</string>
   <string name="notification_description_from_radio">Radio</string>
   <string name="ok">OK</string>
+  <string name="one_subscription_title">%1$s updated</string>
   <string name="play_local_sound">Playing offline: %1$s</string>
   <string name="play_quality_toast">Choose stream quality</string>
   <string name="presonal_center">Account</string>
   <string name="priority_storage">Use external SD card</string>
   <string name="priority_storage_summary">Automatically download to external SD card if available</string>
   <string name="project_device">Mi Phone</string>
-  <string name="qingting_logo"> | Qingting FM</string>
+  <string name="qingting_logo"> | %1$s </string>
   <string name="remaining_time">"Time remaining: "</string>
   <string name="search_hint">Search</string>
   <string name="section">Featured</string>
@@ -94,7 +98,7 @@
   <string name="share">Share</string>
   <string name="share_button">Share</string>
   <string name="share_in_development"/>
-  <string name="share_text">from Radio</string>
+  <string name="share_text">from Xiaomi Radio [%1$s]</string>
   <string name="share_text_other">Listen to %1$s at %2$s.</string>
   <string name="similar_programs">Similar programs</string>
   <string name="sleep_mode_canceled">Sleep mode turned off</string>
@@ -112,7 +116,7 @@
   <string name="title_tone_quality">Radio sound quality</string>
   <string name="tone_high_quality">Always stream high quality</string>
   <string name="tone_high_quality_summary">Use mobile data connection to stream high quality audio</string>
-  <string name="ultra_high_quality">Good (64 bps)</string>
+  <string name="ultra_high_quality">Good (64 kbps)</string>
   <string name="unfavorite">Unfavorite</string>
   <string name="updated">" updated"</string>
   <string name="use_fm_radio_failed">"This devices can't use FM radio"</string>

@@ -63,8 +63,8 @@
         <item>@string/pref_video_focusmode_entry_continuous</item>
     </string-array>
     <string-array name="pref_video_focusmode_entryvalues">
-        <item>auto</item>
-        <item>continuous-video</item>
+        <item>@string/pref_video_focusmode_entryvalue_auto</item>
+        <item>@string/pref_video_focusmode_entryvalue_continuous</item>
     </string-array>
     <string-array name="pref_camera_picturesize_entries">
         <item>@string/pref_camera_picturesize_entry_4208x3120</item>
@@ -147,22 +147,22 @@
         <item>continuous-picture</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entries">
+        <item>@string/pref_camera_flashmode_entry_off</item>
         <item>@string/pref_camera_flashmode_entry_auto</item>
         <item>@string/pref_camera_flashmode_entry_on</item>
         <item>@string/pref_camera_flashmode_entry_torch</item>
-        <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
+        <item>off</item>
         <item>auto</item>
         <item>on</item>
         <item>torch</item>
-        <item>off</item>
     </string-array>
     <array name="camera_flashmode_icons">
+        <item>@drawable/v6_ic_flash_button_off</item>
         <item>@drawable/v6_ic_flash_button_auto</item>
         <item>@drawable/v6_ic_flash_button_on</item>
         <item>@drawable/v6_ic_flash_button_torch</item>
-        <item>@drawable/v6_ic_flash_button_off</item>
     </array>
     <array name="camera_skin_beautify_icons">
         <item>@drawable/ic_camera_skin_beatify_close</item>
@@ -669,24 +669,24 @@
         <item>@string/pref_camera_hdr_entryvalue_off</item>
     </string-array>
     <string-array name="pref_camera_hdr_entries">
+        <item>@string/pref_camera_hdr_entry_off</item>
         <item>@string/pref_camera_hdr_entry_auto</item>
         <item>@string/pref_camera_hdr_entry_normal</item>
         <item>@string/pref_camera_hdr_entry_live</item>
-        <item>@string/pref_camera_hdr_entry_off</item>
     </string-array>
     <string-array name="pref_camera_hdr_entryvalues">
+        <item>@string/pref_camera_hdr_entryvalue_off</item>
         <item>@string/pref_camera_hdr_entryvalue_auto</item>
         <item>@string/pref_camera_hdr_entryvalue_normal</item>
         <item>@string/pref_camera_hdr_entryvalue_live</item>
-        <item>@string/pref_camera_hdr_entryvalue_off</item>
     </string-array>
     <string-array name="pref_simple_hdr_entries">
-        <item>@string/pref_simple_hdr_entry_on</item>
         <item>@string/pref_simple_hdr_entry_off</item>
+        <item>@string/pref_simple_hdr_entry_on</item>
     </string-array>
     <string-array name="pref_simple_hdr_entryvalues">
-        <item>on</item>
         <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_delay_capture_entries">
         <item>@string/pref_camera_delay_capture_entry_audio</item>
@@ -699,6 +699,18 @@
         <item>3</item>
         <item>5</item>
         <item>10</item>
+    </string-array>
+    <string-array name="pref_front_camera_delay_capture_entries">
+        <item>@string/pref_camera_delay_capture_entry_off</item>
+        <item>@string/pref_camera_delay_capture_entry_3s</item>
+        <item>@string/pref_camera_delay_capture_entry_5s</item>
+        <item>@string/pref_camera_delay_capture_entry_audio</item>
+    </string-array>
+    <string-array name="pref_front_camera_delay_capture_entryvalues">
+        <item>-1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>0</item>
     </string-array>
     <string-array name="pref_camera_peak_entries">
         <item>@string/pref_camera_peak_entry_on</item>

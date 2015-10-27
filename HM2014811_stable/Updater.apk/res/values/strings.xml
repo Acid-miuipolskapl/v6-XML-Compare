@@ -146,7 +146,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="sina_share_success">Sent</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-  <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 6. Switch keyboards or update to a newer version of Sogou.</string>
+  <string name="sogou_uninstall_msg">Sogou keyboard (Mi Edition) is no longer compatible with MIUI 7. Switch keyboards or update to a newer version of Sogou.</string>
   <string name="sogou_uninstall_negative_button">Update Sogou</string>
   <string name="sogou_uninstall_positive_button">Switch keyboards</string>
   <string name="sogou_uninstall_title">Keyboard compatibility</string>
@@ -169,20 +169,20 @@ http://zhushou.xiaomi.com"</string>
   <string name="update_downfull_no_info_title">"Can't download update"</string>
   <string name="update_feedback">Rate this update</string>
   <string name="update_feedback_end">"You missed this week's vote"</string>
-  <string name="update_feedback_end_sum">You can join in every Tuesday.</string>
+  <string name="update_feedback_end_sum">You can join in every Monday.</string>
   <string name="update_feedback_expired">"You missed this week's vote.
-But you can take part next Tuesday."</string>
+But you can take part next Monday."</string>
   <string name="update_feedback_need_account">You need to sign in to your Mi Account first</string>
   <string name="update_feedback_need_network">Connect to network first</string>
   <string name="update_feedback_need_update">You need to update your system to the latest build first.</string>
   <string name="update_feel">What do you think?</string>
   <string name="update_general">So-so</string>
-  <string name="update_happy">Awesome!</string>
+  <string name="update_happy">Satisfied!</string>
   <string name="update_monthly_build_only">Only update monthly builds</string>
-  <string name="update_sad">Meh (not good)</string>
+  <string name="update_sad">Disappointed</string>
   <string name="update_success">Device updated</string>
   <string name="update_success_body">Version: %s</string>
-  <string name="update_success_reboot_immediately">Device updated</string>
+  <string name="update_success_reboot_immediately">Update downloaded</string>
   <string name="update_success_title">Device updated</string>
   <string name="updater_nolog">No update summary.</string>
   <string name="updater_nonetwork">"Can't connect to the network"</string>
@@ -218,6 +218,6 @@ Couldn't submit feedback"</string>
   <string name="weekly_build">Weekly</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">"You're ready to rock"</string>
-  <string name="welcom_title">Welcome to MIUI 6</string>
+  <string name="welcom_title">Welcome to MIUI 7</string>
   <string name="worst_update">Worst update so far</string>
 </resources>

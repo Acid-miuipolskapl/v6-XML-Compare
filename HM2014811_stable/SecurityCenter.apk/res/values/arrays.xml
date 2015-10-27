@@ -38,11 +38,11 @@
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Turn off</item>
         <item>Turn on</item>
-        <item>"Don't change"</item>
+        <item>Default</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Never vibrate</item>
-        <item>Vibrate when ringer is silenced</item>
+        <item>Vibrate when silenced</item>
         <item>Always vibrate</item>
     </string-array>
     <string-array name="power_dialog_vibration_items_values">

@@ -16,10 +16,11 @@
         <item>T Star</item>
         <item>Chunghwa</item>
         <item>TW Mobile</item>
+        <item>MobiFone</item>
         <item>CMHK</item>
         <item>CMHK</item>
-        <item>PCCW-HKT</item>
-        <item>PCCW-HKT</item>
+        <item>csl.</item>
+        <item>csl.</item>
         <item>SmarTone HK</item>
         <item>SmarTone HK</item>
         <item>SmarTone HK</item>
@@ -44,6 +45,45 @@
         <item>Alibaba</item>
         <item>China Mcom</item>
         <item>SOSHARE MOBILE</item>
+        <item>Mi Mobile</item>
+        <item>movistar</item>
+        <item>movistar</item>
+        <item>Claro</item>
+        <item>Tigo</item>
+        <item>Tigo</item>
+        <item>Avantel</item>
+        <item>TELCEL</item>
+        <item>movistar</item>
+        <item>Iusacell</item>
+        <item>Unefon</item>
+        <item>Unefon</item>
+        <item>Unefon</item>
+        <item>Nextel</item>
+        <item>Nextel</item>
+        <item>movistar</item>
+        <item>Claro</item>
+        <item>CNT</item>
+        <item>Tigo</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>Tigo</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>Tigo</item>
+        <item>Claro</item>
+        <item>Claro</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>ICE Kolbi</item>
+        <item>ICE Kolbi</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>Entel</item>
+        <item>Claro</item>
+        <item>movistar</item>
+        <item>Virgin</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
@@ -61,6 +101,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -89,6 +130,45 @@
         <item>46001</item>
         <item>46001</item>
         <item>46002</item>
+        <item>46001</item>
+        <item>732001</item>
+        <item>732123</item>
+        <item>732101</item>
+        <item>732103</item>
+        <item>732111</item>
+        <item>732130</item>
+        <item>334020</item>
+        <item>334030</item>
+        <item>334050</item>
+        <item>334040</item>
+        <item>334070</item>
+        <item>334080</item>
+        <item>334010</item>
+        <item>334090</item>
+        <item>74000</item>
+        <item>74001</item>
+        <item>74002</item>
+        <item>70402</item>
+        <item>70401</item>
+        <item>70403</item>
+        <item>70603</item>
+        <item>70601</item>
+        <item>70604</item>
+        <item>708002</item>
+        <item>708001</item>
+        <item>71021</item>
+        <item>71073</item>
+        <item>710300</item>
+        <item>71201</item>
+        <item>71202</item>
+        <item>71203</item>
+        <item>71204</item>
+        <item>71403</item>
+        <item>714020</item>
+        <item>73001</item>
+        <item>73003</item>
+        <item>73002</item>
+        <item>73007</item>
     </string-array>
     <string-array name="mobile_operator_numeric_values">
         <item>46000</item>
@@ -106,6 +186,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -134,6 +215,45 @@
         <item>阿里通信</item>
         <item>中麦通信</item>
         <item>分享通信</item>
+        <item>小米移动</item>
+        <item>732001</item>
+        <item>732123</item>
+        <item>732101</item>
+        <item>732103</item>
+        <item>732111</item>
+        <item>732130</item>
+        <item>334020</item>
+        <item>334030</item>
+        <item>334050</item>
+        <item>334040</item>
+        <item>334070</item>
+        <item>334080</item>
+        <item>334010</item>
+        <item>334090</item>
+        <item>74000</item>
+        <item>74001</item>
+        <item>74002</item>
+        <item>70402</item>
+        <item>70401</item>
+        <item>70403</item>
+        <item>70603</item>
+        <item>70601</item>
+        <item>70604</item>
+        <item>708002</item>
+        <item>708001</item>
+        <item>71021</item>
+        <item>71073</item>
+        <item>710300</item>
+        <item>71201</item>
+        <item>71202</item>
+        <item>71203</item>
+        <item>71204</item>
+        <item>71403</item>
+        <item>714020</item>
+        <item>73001</item>
+        <item>73003</item>
+        <item>73002</item>
+        <item>73007</item>
     </string-array>
     <string-array name="tian_gan">
         <item>甲</item>

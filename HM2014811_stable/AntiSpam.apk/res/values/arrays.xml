@@ -87,4 +87,17 @@
         <item>@string/antispam_notificaiton_type_show_except_blacklist</item>
         <item>@string/antispam_notificaiton_type_show_none</item>
     </string-array>
+    <string-array name="contact_infotype_entries">
+        <item>@string/name</item>
+        <item>@string/nickname</item>
+        <item>@string/phone</item>
+        <item>@string/email</item>
+        <item>@string/organization</item>
+        <item>@string/im</item>
+        <item>@string/sip_phone</item>
+        <item>@string/birthday</item>
+        <item>@string/website</item>
+        <item>@string/address</item>
+        <item>@string/note</item>
+    </string-array>
 </resources>
