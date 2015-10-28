@@ -10,7 +10,7 @@
     <string name="aqi_dangerous"/>
     <string name="aqi_hazardous"/>
     <string name="aqi_break"/>
-    <string name="weather_type_0">Limpo</string>
+    <string name="weather_type_0">Céu Limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>

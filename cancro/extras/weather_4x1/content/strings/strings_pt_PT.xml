@@ -1,5 +1,5 @@
 <resources>
-    <string name="weather_type_0">Limpo</string>
+    <string name="weather_type_0">Céu Limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>

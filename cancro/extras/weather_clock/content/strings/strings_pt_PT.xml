@@ -4,7 +4,7 @@
     <string name="language">pt_PT</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
     <string name="desc_time">'tempo actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toque duplo para ver relógio'</string>
-    <string name="weather_type_0">Limpo</string>
+    <string name="weather_type_0">Céu Limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>
