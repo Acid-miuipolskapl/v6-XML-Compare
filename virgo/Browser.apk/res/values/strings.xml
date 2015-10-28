@@ -628,7 +628,7 @@ Leave this page?"</string>
   <string name="user_defined_webpage">Add to start page</string>
   <string name="user_defined_webpage_title">Add to start page</string>
   <string name="username">Name</string>
-  <string name="v5_deselect_all">Unselect all</string>
+  <string name="v5_deselect_all">Deselect all</string>
   <string name="v5_edit_mode_title_empty">0 selected</string>
   <string name="v5_select_all">Select all</string>
   <string name="version_check_button_checking">Checking…</string>
