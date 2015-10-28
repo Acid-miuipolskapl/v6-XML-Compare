@@ -96,7 +96,7 @@
   <string name="decompress_title">Extract</string>
   <string name="decompress_to">Extract files to…</string>
   <string name="decompress_to_here">Extract here</string>
-  <string name="decrypt">Remove from private</string>
+  <string name="decrypt">Remove</string>
   <string name="decrypt_error">"Couldn't decrypt"</string>
   <string name="decrypting">Decrypting…</string>
   <string name="delete_dialog_button">Delete</string>
@@ -126,6 +126,7 @@
   <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="encrypt_error">"Couldn't make files private, try again"</string>
+  <string name="encrypt_prefix">PRIVATE</string>
   <string name="encrypt_success">All files made private</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
@@ -269,8 +270,8 @@ Our server is down at the moment. Please try again later…
   <string name="new_folder_name">Unnamed folder</string>
   <string name="new_function">About Private folders</string>
   <string name="new_function_info">"Private folder is a new MIUI feature.
-You can encrypt your files
-and store them in a safe place.
+You can encrypt your files and store them
+in a safe place.
 
 Pull down on the home page to check it out."</string>
   <string name="new_function_str">"WeChat stickers can now be collected automatically.
