@@ -572,7 +572,7 @@ Reason: \"%s\""</string>
   <string name="menu_removeStar">Remove from favorites</string>
   <string name="menu_search">Search</string>
   <string name="menu_select_all">Select all</string>
-  <string name="menu_select_none">Unselect all</string>
+  <string name="menu_select_none">Deselect all</string>
   <string name="menu_sendSMS">Text contact</string>
   <string name="menu_sendTextMessage">Send text message</string>
   <string name="menu_set_ring_tone">Set ringtone</string>

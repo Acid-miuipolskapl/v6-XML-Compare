@@ -37,7 +37,7 @@
   <string name="bookmark_menu_moveout_group_txt">Move</string>
   <string name="bookmark_needs_url">Enter a URL for this bookmark</string>
   <string name="bookmark_select_all">Select all</string>
-  <string name="bookmark_unselect_all">Unselect all</string>
+  <string name="bookmark_unselect_all">Deselect all</string>
   <string name="browser_filechooser_title">Choose file to upload</string>
   <string name="browser_no_more_tab">No more tabs</string>
   <string name="cancel">Cancel</string>
