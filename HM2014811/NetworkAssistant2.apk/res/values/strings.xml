@@ -109,7 +109,9 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_fragment_tab_title_sys">System</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">mobile data</string>
-  <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s."</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
+  <string name="firewall_restrict_android_dialog_content">"If you don't allow Android to connect to the internet, some key features, such as WLAN hotspot, may be affected."</string>
+  <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
@@ -136,6 +138,7 @@ For more info check the message you received from your carrier"</string>
   <string name="international_roaming_setting">Overseas roaming</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
   <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"Couldn't load"</string>
@@ -193,6 +196,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_traffic_used_text">used</string>
   <string name="manual_input_free_traffic">Set off-peak data usage</string>
   <string name="manual_input_traffic">Set data usage</string>
+  <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -243,7 +247,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="network_speed_for_apps_close_app_dlg_msg">Force stop this app?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Can't force stop system apps."</string>
   <string name="network_speed_for_apps_others">Other</string>
-  <string name="network_speed_for_apps_title">Connection speed details</string>
+  <string name="network_speed_for_apps_title">Connection</string>
   <string name="network_speed_for_apps_total">Connection speed</string>
   <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
   <string name="networkchanged_exception_title">Connection changed</string>
@@ -345,7 +349,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_title_over_traffic_limit_warning">When exceeded</string>
   <string name="pref_title_traffic_limit_number">Size</string>
   <string name="pref_title_traffic_speed_state">Show network speed</string>
-  <string name="pref_title_update_notification">Show data usage notifications</string>
+  <string name="pref_title_update_notification">Data usage notifications</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Allow smart exceptions</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically add apps with data-saving capability to exceptions</string>
   <string name="pref_traffic_saving_compressed">Compressed</string>

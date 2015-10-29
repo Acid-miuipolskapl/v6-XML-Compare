@@ -184,6 +184,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Call cheaper</string>
+  <string name="chose_product_title">Refueling Package</string>
   <string name="clir_choices_hide_number">Hide number</string>
   <string name="clir_choices_network_default">Network default</string>
   <string name="clir_choices_show_number">Show number</string>
@@ -509,6 +511,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_nsufficient_balance">Insufficient balance</string>
   <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
   <string name="livetalk_package_name">Top up balance</string>
+  <string name="livetalk_provider">Provided by %1$s</string>
   <string name="livetalk_provision">Terms of Service</string>
   <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
   <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
@@ -521,7 +524,8 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_white_list_number_title">Make regular call</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="load_rates_failed">"Couldn't load"</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">Just a sec</string>
+  <string name="loading_product">Just a sec</string>
   <string name="loading_recent_failed">"Couldn't load"</string>
   <string name="local_disable">Local news is off</string>
   <string name="local_enable">Local news is on</string>
@@ -735,7 +739,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="place_a_call2">Subscription 2</string>
   <string name="place_a_call3">Subscription 3</string>
   <string name="please_choose_the_duration">Choose a duration.</string>
-  <string name="please_choose_the_refueling_package">Choose top-up package</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Disabled</string>
@@ -782,21 +785,20 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
   <string name="purchase">Purchase</string>
-  <string name="purchase_confirm">Purchase</string>
+  <string name="purchase_description_summary">"- Operator unlimited, area unlimited;
+- No conflict with operator services;
+- Immediately after recharge, never cleared;
+- Simple, use dirtectly."</string>
+  <string name="purchase_description_title">Description</string>
   <string name="purchase_limit">You reached the top up limit</string>
   <string name="purchase_list">Purchase history</string>
   <string name="purchase_notification">"Prices above are for domestic calls. For international calls see the "</string>
-  <string name="purchase_notification_title">Check supported regions</string>
-  <string name="purchase_rates_title">Rates</string>
   <string name="query">Query</string>
   <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
   <string name="rates_correspond">Corresponding rates.</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="rc_unlock_success">RUIM Corporate unlock successful.</string>
   <string name="reading_settings">Reading settings…</string>
-  <string name="refueling_package_a">Package A</string>
-  <string name="refueling_package_b">Package B</string>
-  <string name="refueling_package_c">Package C</string>
   <string name="regional_disable">Regional news is off</string>
   <string name="regional_enable">Regional news is on</string>
   <string name="register_automatically">Automatic registration…</string>
@@ -816,6 +818,10 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="reject_via_sms">Quick responses</string>
   <string name="reject_via_sms_summary">Edit pre-written text messages</string>
   <string name="reject_via_sms_title">Quick responses</string>
+  <string name="remain_mins_divider">Or</string>
+  <string name="remain_mins_domestic">domestic remain</string>
+  <string name="remain_mins_international">international remain</string>
+  <string name="remain_mins_unit">Min</string>
   <string name="remember_my_choice">Always use to place internet calls</string>
   <string name="remove">Delete</string>
   <string name="remove_ims_account">Remove account</string>
@@ -1004,7 +1010,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="time_statistic">%1$d minutes of network time saved</string>
   <string name="title_country">Locale</string>
   <string name="title_duration">Duration</string>
-  <string name="title_purchase">Top up</string>
+  <string name="title_purchase">Refueling Package Top up</string>
   <string name="title_rates">Rates</string>
   <string name="title_user_config">Activate SIM card</string>
   <string name="transport">Protocol</string>
@@ -1029,6 +1035,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="uplmn_numeric_is_empty">Enter a network ID</string>
   <string name="use_history">Activity</string>
   <string name="use_history_duration_min">%1$s mins</string>
+  <string name="use_range">Use Range</string>
   <string name="username">UserName</string>
   <string name="username_title">Username</string>
   <string name="ussdRunning">USSD code running…</string>
