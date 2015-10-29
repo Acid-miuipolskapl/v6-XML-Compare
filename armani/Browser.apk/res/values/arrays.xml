@@ -165,6 +165,14 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
+    <string-array name="sm">
+        <item>神马</item>
+        <item>sm.cn</item>
+        <item>http://stlogo.sm.cn/wap/sm/img/favicon.ico</item>
+        <item>http://m.yz.sm.cn/s?q={searchTerms}&amp;from=wy920328</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>

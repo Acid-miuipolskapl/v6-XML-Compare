@@ -36,6 +36,7 @@
   <string name="buffering">Buffering…</string>
   <string name="cancel_action">Cancel</string>
   <string name="cancel_btn_label">Cancel</string>
+  <string name="cant_edit_lock_screen">"Can't edit lock screen style."</string>
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
