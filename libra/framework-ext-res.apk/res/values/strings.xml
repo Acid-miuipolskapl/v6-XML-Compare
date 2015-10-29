@@ -65,7 +65,7 @@
   <string name="cancel_action">Cancel</string>
   <string name="copy">Copy</string>
   <string name="cut">Cut</string>
-  <string name="enable_livetalk">Turn on Top-up package</string>
+  <string name="enable_livetalk">Enable Refueling Package</string>
   <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
   <string name="fc_dialog_jump_to_preview">View summary</string>
   <string name="first_back_long_press_message">"Press &amp; hold the Back button to kill the current process and its background services.
@@ -85,7 +85,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="internal_livetalk_enable">Using top-up package for domestic calls</string>
   <string name="internal_remain_mins">%1$s minutes remaining (domestic)</string>
   <string name="international_livetalk_enable">Using top-up package for international calls</string>
-  <string name="international_remain_mins">%1$s minutes remaining (%2$s)</string>
+  <string name="international_remain_mins">%1$s minutes remaining （%2$s）</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Space</string>
   <string name="livetalk_not_enable">Top-up package off</string>
@@ -115,7 +115,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Back and Volume up buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the orange area of the screen"</string>
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
-  <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Additional settings &gt; Read mode.</string>
+  <string name="screen_paper_mode_enter_toast">Read mode is on. You can turn this feature on and off anytime in Display settings &gt; Read mode.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
