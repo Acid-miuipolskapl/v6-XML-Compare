@@ -159,6 +159,7 @@
   <string name="archive">Archive</string>
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
+  <string name="att_download_failed_network_slow">Network is slow, please download again later</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
   <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
@@ -203,6 +204,13 @@
   <string name="bottom_bar_more_share">Share</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Remind</string>
+  <string name="calendar_remind_gridview_month_later">Month Later</string>
+  <string name="calendar_remind_gridview_nextweek">Next Week</string>
+  <string name="calendar_remind_gridview_pick_date">Pick Date</string>
+  <string name="calendar_remind_gridview_tomorrow">Tomorrow</string>
+  <string name="calendar_remind_gridview_tonight">Tonight</string>
+  <string name="calendar_remind_gridview_weekend">Weekend</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
   <string name="cant_move_or_change_labels">"Can't move because selection contains multiple accounts."</string>
@@ -227,7 +235,7 @@
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
-  <string name="compose_attachment_number_limit">The number of attachment can not exceed 10 !</string>
+  <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
   <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
@@ -418,7 +426,7 @@
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
   <string name="gmail_login_failed_non_proxy_title">Access Gmail server failed</string>
-  <string name="gmail_server_authorization_deleted">Fetch the access authorization failed,please re-cert.</string>
+  <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
@@ -585,13 +593,13 @@
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
   <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
-  <string name="outbox_alert_description_fail_network">Network anomaly.</string>
+  <string name="outbox_alert_description_fail_network">"Couldn't connect to the network."</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
-  <string name="outbox_alert_duplicate_click">Still syncing…</string>
+  <string name="outbox_alert_duplicate_click">Still sending…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
@@ -729,6 +737,7 @@
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
+  <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Reply all</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="reply_subject_label">Re:</string>
@@ -743,8 +752,8 @@
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft_failed">Save draft failed</string>
-  <string name="save_power_summary">Save energy in the setting time</string>
-  <string name="save_power_title">Power saving mode</string>
+  <string name="save_power_summary">Schedule times to reduce battery usage</string>
+  <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
   <string name="sdcard_cannot_use">"Can't use SD card"</string>
