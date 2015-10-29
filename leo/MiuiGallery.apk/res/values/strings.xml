@@ -609,7 +609,7 @@ with friends"</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
-  <string name="deselect_all">Unselect all</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
