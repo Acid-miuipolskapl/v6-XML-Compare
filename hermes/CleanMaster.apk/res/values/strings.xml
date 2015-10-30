@@ -54,8 +54,8 @@
   <string name="button_text_select_pic">Select</string>
   <string name="button_text_uninstall">Uninstall</string>
   <string name="button_text_uninstall_only">Uninstall %s</string>
-  <string name="button_text_unselect_all">Unselect</string>
-  <string name="button_text_unselect_pic">Unselect</string>
+  <string name="button_text_unselect_all">Deselect</string>
+  <string name="button_text_unselect_pic">Deselect</string>
   <string name="button_text_view_detail">Details</string>
   <string name="button_text_view_file">File</string>
   <string name="buy_immediately">Buy</string>

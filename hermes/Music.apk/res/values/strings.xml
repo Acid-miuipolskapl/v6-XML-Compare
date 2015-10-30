@@ -181,12 +181,12 @@
   <string name="format_not_support">"This format isn't supported."</string>
   <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
   <string name="fragment_more">More</string>
-  <string name="fragment_title_artist">ARTISTS</string>
-  <string name="fragment_title_artist_album">ALBUMS</string>
-  <string name="fragment_title_bill">PLAYLISTS</string>
-  <string name="fragment_title_channel">FM</string>
-  <string name="fragment_title_personal">PERSONAL</string>
-  <string name="fragment_title_recommend">FEATURED</string>
+  <string name="fragment_title_artist">Artists</string>
+  <string name="fragment_title_artist_album">Albums</string>
+  <string name="fragment_title_bill">Playlists</string>
+  <string name="fragment_title_channel">Radio</string>
+  <string name="fragment_title_personal">Personal</string>
+  <string name="fragment_title_recommend">Featured</string>
   <string name="group_artist">Bands</string>
   <string name="handle_later">Not now</string>
   <string name="headset_settings">Headphones &amp; audio effects</string>
@@ -428,7 +428,7 @@
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
   <string name="title_online_recommend">Featured playlists</string>
-  <string name="title_online_release">New</string>
+  <string name="title_online_release">New albums</string>
   <string name="title_online_song">Popular songs</string>
   <string name="title_online_suggest">You might like</string>
   <string name="title_search_history">Search history</string>
