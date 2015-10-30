@@ -164,6 +164,7 @@
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="waiting_close_airplane_mode">Just a sec…</string>
