@@ -19,4 +19,5 @@
     <Preference android:title="@string/development_settings_title" android:key="development_settings" android:fragment="com.android.settings.DevelopmentSettings" />
     <PreferenceCategory />
     <Preference android:title="@string/privacy_settings" android:key="privacy_settings" android:fragment="com.android.settings.PrivacySettings" />
+    <Preference android:title="@string/onekey_migrate" android:key="one_key_migrate" />
 </PreferenceScreen>
