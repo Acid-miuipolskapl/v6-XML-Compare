@@ -38,6 +38,7 @@
   <string name="android_shutdown_confirm_question">@android:string/shutdown_confirm_question</string>
   <string name="android_shutdown_progress">@android:string/shutdown_progress</string>
   <string name="android_ssl_certificate">@android:string/ssl_certificate</string>
+  <string name="android_storage_uicc">@android:string/storage_uicc</string>
   <string name="android_storage_usb">@android:string/storage_usb</string>
   <string name="android_usb_cd_installer_notification_title">@android:string/usb_cd_installer_notification_title</string>
   <string name="android_usb_mtp_notification_title">@android:string/usb_mtp_notification_title</string>
@@ -166,5 +167,6 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+  <string name="subinfo_default_name">SIM %d</string>
   <string name="unknown_caller">Unknown number</string>
 </resources>

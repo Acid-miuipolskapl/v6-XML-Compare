@@ -418,6 +418,32 @@
     return v0
 .end method
 
+.method public static getContinuousShotCallbackClass()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    const-string v0, "camera_continuous_shot_callback_class"
+
+    invoke-static {v0}, Lmiui/util/FeatureParser;->getString(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public static getContinuousShotCallbackSetter()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    const-string v0, "camera_continuous_shot_callback_setter"
+
+    invoke-static {v0}, Lmiui/util/FeatureParser;->getString(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
 .method public static isCaptureStopFaceDetection()Z
     .locals 1
 
