@@ -1949,6 +1949,7 @@ Select your operating system:"</string>
   <string name="oldman_mode_settings_caption">Lite mode settings</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
   <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
+  <string name="onekey_migrate">Transfer</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="only_when_charging">Only when connected to power source</string>
@@ -2698,9 +2699,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_disable_notification">Hide notifications</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
-  <string name="status_bar_app_enable_on_notificationBar">Notification shade</string>
+  <string name="status_bar_app_des_separator">,</string>
+  <string name="status_bar_app_disable_notification">Notifications hidden</string>
+  <string name="status_bar_app_enable_floating">Floating notifications</string>
+  <string name="status_bar_app_enable_keyguard">Lock screen</string>
+  <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2726,10 +2729,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_notification_sound_vibrate">Sound &amp; vibration</string>
   <string name="status_bar_settings_show_carrier">Show carrier name</string>
   <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
+  <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Floating and lock screen</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
+  <string name="status_bar_settings_show_keyguard_notification">Lock screen</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icons</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
