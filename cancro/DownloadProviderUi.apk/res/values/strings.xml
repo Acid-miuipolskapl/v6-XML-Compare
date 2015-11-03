@@ -188,8 +188,7 @@ across all your devices with Xunlei"</string>
   <string name="remove_download">Remove</string>
   <string name="restart_download">Restart</string>
   <string name="resume_download">Resume</string>
-  <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try
-        again."</string>
+  <string name="retry_after_network_available">"Can't connect to the network. Check your data connection and try again."</string>
   <string name="retry_download">Retry</string>
   <string name="revert_default">Reset</string>
   <string name="revert_download_path">Use default downloads location?</string>
@@ -226,7 +225,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_result_num_prefix">Found</string>
   <string name="sniff_result_num_video_suffix">items</string>
   <string name="sniff_result_num_website_suffix">websites</string>
-  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
+  <string name="sniff_result_website_intro">Total &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; items | Source: %2$s</string>
   <string name="sniff_sniffing_btn_text">Looking for source…</string>
   <string name="sniff_terms_agree">Accept</string>
   <string name="sniff_terms_msg">You should accept \"Terms of Use\" to start using a third party search engine.</string>

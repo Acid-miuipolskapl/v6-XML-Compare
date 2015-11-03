@@ -2292,7 +2292,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_des_separator">、</string>
+  <string name="status_bar_app_des_separator">,</string>
   <string name="status_bar_app_disable_notification">Notifications hidden</string>
   <string name="status_bar_app_enable_floating">Floating notifications</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
@@ -2505,7 +2505,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
-  <string name="turn_off_common_password_confirm_msg">The password will be turned of as well.</string>
+  <string name="turn_off_common_password_confirm_msg">The password will be turned off as well.</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
