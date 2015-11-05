@@ -188,6 +188,7 @@
   <string name="hints_last_virus_scan_yesterday_safe">Scanned yesterday: Safe</string>
   <string name="hints_last_virus_scan_yesterday_virus">Scanned yesterday: Dangerous</string>
   <string name="hints_loading_text">Loading…</string>
+  <string name="hints_need_quick_clean">Find and delete dangerous files</string>
   <string name="hints_need_quick_scan">Recommended quick scan</string>
   <string name="hints_need_regular_scan">Scan your device regularly</string>
   <string name="hints_power_percent_title">battery</string>
@@ -265,20 +266,8 @@
   <string name="menu_text_networkassistants_remain">%s left</string>
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="month_report_activity_label">Monthly report</string>
-  <string name="month_report_click_reconnect_network">Try again</string>
-  <string name="month_report_disconnect_tip">"Can't connect to the network"</string>
-  <string name="month_report_history_activity_label">Report history</string>
+  <string name="menu_text_power_percent_title">Battery %s</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
-  <string name="month_report_network_dialog_description">Allow this app to connect to the internet to get report info?</string>
-  <string name="month_report_network_dialog_positive">Allow</string>
-  <string name="month_report_network_dialog_title">"Can't get report info"</string>
-  <string name="month_report_result_share">Share</string>
-  <string name="month_report_share_img_fail">"Couldn't share"</string>
-  <string name="month_report_share_loading">Just a sec…</string>
-  <string name="month_report_warning_dialog_description">"To view monthly report, turn this feature on in Security app's Settings."</string>
-  <string name="month_report_warning_dialog_positive">Turn on</string>
-  <string name="month_report_warning_dialog_title">Monthly security report</string>
   <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
@@ -561,6 +550,7 @@
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
+  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
@@ -596,6 +586,7 @@
   <string name="title_garbage_lib">Automatic updates</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
+  <string name="title_live_talk_purchase">Top up now</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>

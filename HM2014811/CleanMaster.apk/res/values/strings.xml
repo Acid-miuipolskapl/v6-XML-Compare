@@ -172,6 +172,7 @@
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="login_immediately">Sign in</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
+  <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
   <string name="memeory_check_content">%1$d apps, memory %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">Checking for updates...</string>
@@ -281,7 +282,7 @@
   <string name="similar_image_empty">No duplicates found</string>
   <string name="similar_image_scaning">Checking…</string>
   <string name="similar_image_title">Photos</string>
-  <string name="start_install">Start Install</string>
+  <string name="start_install">Install now</string>
   <string name="summary_auto_cleaner">Clean your system automatically every 3 days?</string>
   <string name="summary_delete_cache">"All this app's data will be deleted permanently (including all files, settings, and accounts)."</string>
   <string name="summary_delete_large_file">"Some big files may be useful when you don't have an internet connection (e.g. maps, schedules, etc.). Make sure you don't need this file."</string>
