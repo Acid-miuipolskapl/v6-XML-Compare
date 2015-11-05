@@ -570,6 +570,7 @@ with friends"</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Set as contact photo</string>
+  <string name="contact_tip">Contacts</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
@@ -770,10 +771,12 @@ with friends"</string>
   <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your photos from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
+  <string name="input_a_name">Enter name</string>
   <string name="input_baby_name">Enter name</string>
   <string name="input_baby_nick_name">Enter nickname</string>
   <string name="input_cloudfolder_name">Album name</string>
   <string name="input_nickname_toast">"Enter baby's name"</string>
+  <string name="input_or_select_a_name">Enter or choose a name</string>
   <string name="internal_camera_folder_display_name">Internal camera photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>

@@ -26,6 +26,7 @@
   <string name="all_music">All songs</string>
   <string name="all_tracks">All songs</string>
   <string name="all_tracks_short">All songs</string>
+  <string name="already_download">Downloading…</string>
   <string name="artist">Artists</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
@@ -106,11 +107,14 @@
   <string name="download_auto_when_all_network">Use mobile network and WLAN</string>
   <string name="download_auto_when_free_network">Use WLAN only</string>
   <string name="download_auto_when_free_network_summary">Additional settings for songs that you favorite</string>
+  <string name="download_complete">Download complete</string>
+  <string name="download_complete_start_install">Installing…</string>
   <string name="download_completed">Downloaded</string>
   <string name="download_method">Download</string>
   <string name="download_processing">Downloading…</string>
   <string name="download_quality">Download quality</string>
   <string name="download_quality_summary">Additional settings for songs that you download</string>
+  <string name="download_start">Starting download…</string>
   <string name="download_while_playing_summary">Automatically download songs you stream online</string>
   <string name="download_while_playing_title">Download while streaming</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -212,7 +216,7 @@
   <string name="is_loading_data">Still loading songs. Wait a minute or two and try again.</string>
   <string name="is_scanning">Checking storage…</string>
   <string name="is_scanning_support_online">"Checking storage…
-(In the meantinme, you can stream music online)"</string>
+(In the meantime, you can stream music online)"</string>
   <string name="japan_korea_female">Female artists (Japan/Korea)</string>
   <string name="japan_korea_group">Bands (Japan/Korea)</string>
   <string name="japan_korea_male">Male artists (Japan/Korea)</string>
@@ -247,16 +251,16 @@
   <string name="miuishare_account_login_cancel">Cancel</string>
   <string name="miuishare_account_login_confirmation">Signing in required</string>
   <string name="miuishare_account_login_ok">Sign in</string>
-  <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
-  <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
-  <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">No network for share</string>
+  <string name="miuishare_account_need_activate">"Add your Weibo account to the current Mi Account to share. Looks like your Mi Account hasn't been activated. Activate now?"</string>
+  <string name="miuishare_account_need_login">Add your Weibo account to the current Mi Account to share. Sign in to share now?</string>
+  <string name="miuishare_app_name">MIUI Share</string>
+  <string name="miuishare_no_network">"Can't connect to the network."</string>
   <string name="miuishare_publish">Send</string>
-  <string name="miuishare_share_done">Share content is sent.</string>
+  <string name="miuishare_share_done">Shared successfully</string>
   <string name="miuishare_share_editor_title">Share</string>
   <string name="miuishare_title_more">More</string>
   <string name="miuishare_title_share">Share</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_wechat_timeline_title">Wechat moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_lyric">Edit lyrics</string>
   <string name="modify_progress">Change lyrics scroll speed</string>
