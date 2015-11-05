@@ -379,6 +379,9 @@
     <string-array name="no_ems_support_sim_operators">
         <item>20404;suffix;BAE0000000000000</item>
     </string-array>
+    <string-array name="config_sms_convert_destination_number_support">
+        <item>false</item>
+    </string-array>
     <string-array name="config_gpsParameters">
         <item>SUPL_HOST=supl.google.com</item>
         <item>SUPL_PORT=7275</item>

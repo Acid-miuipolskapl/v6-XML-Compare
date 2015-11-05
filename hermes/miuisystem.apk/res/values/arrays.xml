@@ -16,6 +16,7 @@
         <item>T Star</item>
         <item>Chunghwa</item>
         <item>TW Mobile</item>
+        <item>MobiFone</item>
         <item>CMHK</item>
         <item>CMHK</item>
         <item>csl.</item>
@@ -27,6 +28,18 @@
         <item>3 (2G)</item>
         <item>SmarTone MAC</item>
         <item>China Telecom</item>
+        <item>Singtel</item>
+        <item>Singtel</item>
+        <item>M1</item>
+        <item>M1</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
+        <item>Maxis</item>
         <item>XL</item>
         <item>INDOSAT</item>
         <item>Alibaba</item>
@@ -50,6 +63,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -61,6 +75,18 @@
         <item>45404</item>
         <item>45500</item>
         <item>45507</item>
+        <item>52501</item>
+        <item>52502</item>
+        <item>52503</item>
+        <item>52504</item>
+        <item>50213</item>
+        <item>502145</item>
+        <item>502148</item>
+        <item>50219</item>
+        <item>50212</item>
+        <item>502142</item>
+        <item>502147</item>
+        <item>50217</item>
         <item>51011</item>
         <item>51021</item>
         <item>46001</item>
@@ -84,6 +110,7 @@
         <item>46689</item>
         <item>46692</item>
         <item>46697</item>
+        <item>45201</item>
         <item>45412</item>
         <item>45413</item>
         <item>45416</item>
@@ -95,12 +122,24 @@
         <item>45404</item>
         <item>45500</item>
         <item>45507</item>
+        <item>52501</item>
+        <item>52502</item>
+        <item>52503</item>
+        <item>52504</item>
+        <item>50213</item>
+        <item>502145</item>
+        <item>502148</item>
+        <item>50219</item>
+        <item>50212</item>
+        <item>502142</item>
+        <item>502147</item>
+        <item>50217</item>
         <item>51011</item>
         <item>51021</item>
         <item>阿里通信</item>
         <item>中麦通信</item>
         <item>分享通信</item>
-        <item>小米通信</item>
+        <item>小米移动</item>
     </string-array>
     <string-array name="tian_gan">
         <item>甲</item>

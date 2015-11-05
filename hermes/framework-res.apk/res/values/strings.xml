@@ -67,6 +67,7 @@
   <string name="android_system_label">Android System</string>
   <string name="android_upgrading_apk">Optimizing app %1$d of %2$d.</string>
   <string name="android_upgrading_complete">Finishing boot.</string>
+  <string name="android_upgrading_fstrim">Optimizing storage.</string>
   <string name="android_upgrading_starting_apps">Starting apps.</string>
   <string name="android_upgrading_title">Android is upgrading…</string>
   <string name="anr_activity_application">"%2$s isn't responding.

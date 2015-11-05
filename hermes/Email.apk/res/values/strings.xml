@@ -159,7 +159,7 @@
   <string name="archive">Archive</string>
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
-  <string name="att_download_failed_network_slow">Network is slow, please download again later</string>
+  <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
   <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
@@ -205,9 +205,9 @@
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Remind</string>
-  <string name="calendar_remind_gridview_month_later">Month Later</string>
-  <string name="calendar_remind_gridview_nextweek">Next Week</string>
-  <string name="calendar_remind_gridview_pick_date">Pick Date</string>
+  <string name="calendar_remind_gridview_month_later">Next month</string>
+  <string name="calendar_remind_gridview_nextweek">Next week</string>
+  <string name="calendar_remind_gridview_pick_date">Pick date</string>
   <string name="calendar_remind_gridview_tomorrow">Tomorrow</string>
   <string name="calendar_remind_gridview_tonight">Tonight</string>
   <string name="calendar_remind_gridview_weekend">Weekend</string>
@@ -403,7 +403,7 @@
   <string name="folder_trash_name_en2">Deleted Message</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
+  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Forward</string>
   <string name="forward_attachment">Forward</string>
   <string name="forward_attribution">---------- Forwarded message ----------&lt;br&gt;From: %1$s&lt;br&gt;Date: %2$s&lt;br&gt;Subject: %3$s&lt;br&gt;To: %4$s&lt;br&gt;</string>
@@ -425,7 +425,7 @@
   <string name="get_database_exception">"Clear this app's data in Settings &gt; System apps and try again."</string>
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
-  <string name="gmail_login_failed_non_proxy_title">Access Gmail server failed</string>
+  <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
   <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
@@ -467,7 +467,7 @@
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
-  <string name="mailbox_list_account_selector_combined_view">Combined Account</string>
+  <string name="mailbox_list_account_selector_combined_view">Combined account</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -599,7 +599,7 @@
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
-  <string name="outbox_alert_duplicate_click">Still sending…</string>
+  <string name="outbox_alert_duplicate_click">Sending now…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
@@ -752,7 +752,7 @@
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft_failed">Save draft failed</string>
-  <string name="save_power_summary">Schedule times to reduce battery usage</string>
+  <string name="save_power_summary">Set power saving time</string>
   <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
