@@ -521,12 +521,12 @@ Try again in %d seconds."</string>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Home and the Power button at the same time."</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Home and the Power button at the same time."</string>
-  <string name="lock_to_app_toast">To unpin this screen, touch and hold Home and the Power button at the same time.</string>
-  <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold Home and the Power button at the same time.</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
+  <string name="lock_to_app_toast">To unpin this screen, press and hold Home and the Power button at the same time.</string>
+  <string name="lock_to_app_toast_accessible">To unpin this screen, press and hold Home and the Power button at the same time.</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>

@@ -33,6 +33,8 @@
   <string name="all">all</string>
   <string name="all_ep">All ep</string>
   <string name="all_episode">All Episodes</string>
+  <string name="app_charging_wifi_mode">Charging to update app</string>
+  <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
   <string name="app_latest_version">No updates available</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installed</string>
@@ -40,7 +42,7 @@
   <string name="app_upgrade_version">Update available</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">Update automatically</string>
-  <string name="app_wifi_mode_summary">Update app automatically when connected to WLAN</string>
+  <string name="app_wifi_mode_summary">Update app automatically when launch app and connected to WLAN</string>
   <string name="authenticated_failed">"Couldn't sign in"</string>
   <string name="authenticating">&lt;CDATA&gt;Verifying&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Couldn't authenticate"</string>

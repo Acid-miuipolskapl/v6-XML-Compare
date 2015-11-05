@@ -1499,10 +1499,12 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="common_password_business_keys">
         <item>keyguard</item>
         <item>childrenmode</item>
+        <item>file_explorer</item>
     </string-array>
     <string-array name="common_password_business_names">
-        <item>Keyguard</item>
-        <item>Children mode</item>
+        <item>Lock screen</item>
+        <item>Child mode</item>
+        <item>File explorer</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

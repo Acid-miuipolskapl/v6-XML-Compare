@@ -207,7 +207,7 @@
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">not synced</string>
   <string name="notice_button_ok">Agree</string>
-  <string name="notice_title_agreement">Terms of Use</string>
+  <string name="notice_title_agreement">Terms of Service</string>
   <string name="notice_title_request">Request</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">订阅日历</string>
@@ -273,7 +273,7 @@
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$ss</string>
+  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Choose day</string>
   <string name="repeat_label_choose_month">Choose month</string>
