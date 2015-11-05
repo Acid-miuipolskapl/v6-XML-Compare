@@ -529,8 +529,8 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_pic_compress_orig">Original</string>
   <string name="traffic_saving_ratio">Data usage reduced %.2f%%</string>
   <string name="traffic_saving_ratio_low">"Can't significantly reduce data usage"</string>
-  <string name="traffic_saving_recommanded_close">Turn this item off</string>
-  <string name="traffic_saving_recommanded_open">Turn this item on</string>
+  <string name="traffic_saving_recommanded_close">Turn off</string>
+  <string name="traffic_saving_recommanded_open">Turn on</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activate</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>

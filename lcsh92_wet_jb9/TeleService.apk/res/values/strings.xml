@@ -459,6 +459,8 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="incall_toast_unhold">Unhold</string>
+  <string name="incoming_video_show_pref_summary">To view profile videos for incoming calls, turn on contact cards</string>
+  <string name="incoming_video_show_pref_title">Profile video</string>
   <string name="international_dialing_add_country_code" formatted="false">"It's detected that you're dialing a %s number. Do you want to add the country code (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"It's detected that you are dialing a number in %1$s, %2$s. Do you want to add the country code and the area code (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Do you want to add the country code and the area code?</string>
