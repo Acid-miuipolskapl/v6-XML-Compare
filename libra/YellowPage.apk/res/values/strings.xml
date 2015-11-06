@@ -50,6 +50,7 @@
   <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">An error occurred</string>
+  <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
