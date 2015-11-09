@@ -115,7 +115,6 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="headset_custom">Dismiss</string>
   <string name="headset_info">Tap to view settings.</string>
   <string name="headset_settings">Headphones connected</string>
-  <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
