@@ -250,6 +250,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"This feature may require your phone number. Your carrier may charge for two SMS messages used to activate this feature.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature when SIM card detected.
+
+This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
   <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>

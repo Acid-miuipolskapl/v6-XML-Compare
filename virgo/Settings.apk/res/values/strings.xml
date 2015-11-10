@@ -1001,8 +1001,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
-  <string name="failed_to_check_find_device_status_content">Failed to check find device status, Wait a minute or two and try again.</string>
-  <string name="failed_to_check_find_device_status_title">Failed to check Find device status</string>
+  <string name="failed_to_check_find_device_status_content">"Couldn't check find device status, Wait a minute or two and try again."</string>
+  <string name="failed_to_check_find_device_status_title">"Couldn't check Find device status"</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
   <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
   <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
@@ -3112,7 +3112,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD card does not have an AS certificate.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Enter AS certificate name</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Failed to create directory.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create a folder."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">A directory with that name already exists.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter directory name</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
