@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_format">E d/MM</string>
+    <string name="date_format">EEEE, d MMMM</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
     <string name="weather_type_0">Helder</string>

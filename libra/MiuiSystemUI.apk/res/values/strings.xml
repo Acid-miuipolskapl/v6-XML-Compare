@@ -115,7 +115,6 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="headset_custom">Dismiss</string>
   <string name="headset_info">Tap to view settings.</string>
   <string name="headset_settings">Headphones connected</string>
-  <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -166,7 +165,7 @@ Use only the supplied charger."</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
-  <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
+  <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
