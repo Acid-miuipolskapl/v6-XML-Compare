@@ -511,6 +511,7 @@
   <string name="preferred_app_entries_music">Music</string>
   <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
+  <string name="prompt_input_time_illegal">"Can't set this time, change it and try again"</string>
   <string name="protection_category_dangerous_title">Risks (%d)</string>
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
