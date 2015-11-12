@@ -17,6 +17,7 @@
   <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
   <string name="app_frozen_app_list_summary">Background apps</string>
   <string name="app_list_title">Choose apps</string>
+  <string name="app_list_total">%d apps</string>
   <string name="app_name">Battery saver</string>
   <string name="background">App is running in background</string>
   <string name="config_custom_description">"If suggested configurations don't meet your requirements, you can customize them"</string>
@@ -36,7 +37,7 @@
   <string name="hints_loading_text">Just a sec…</string>
   <string name="invalid_size_value">"Couldn't get package size."</string>
   <string name="keep_connect_description">Apps can connect to the network in the background</string>
-  <string name="keep_connect_title">Stay conneted</string>
+  <string name="keep_connect_title">Stay connected</string>
   <string name="location_disable_description">Apps in the background can only access location services for a brief period of time while continious access is restricted</string>
   <string name="location_disable_title">Restrict</string>
   <string name="location_enable_description">Apps can use location services in the background</string>
@@ -74,6 +75,10 @@
   <string name="power_config_cpu_mode_title">CPU mode</string>
   <string name="power_config_data_connect_summary">Allow apps to connect to the network in the background</string>
   <string name="power_config_data_connect_title">Data connection</string>
+  <string name="power_config_disable_description">MIUI不会限制后台应用的功能</string>
+  <string name="power_config_disable_title">关闭</string>
+  <string name="power_config_enhance_description">MIUI将进一步尝试降低后台应用的活动性</string>
+  <string name="power_config_enhance_title">增强省电</string>
   <string name="power_config_event_delete">Delete</string>
   <string name="power_config_idle_notification_summary">Only show first notification from app</string>
   <string name="power_config_idle_notification_title">Only show first notification</string>
@@ -83,11 +88,16 @@
   <string name="power_config_lcd_mode_title">LCD mode</string>
   <string name="power_config_location_summary">"Allow app to view your device's location"</string>
   <string name="power_config_location_title">Location access</string>
+  <string name="power_config_mode_title">后台功耗控制级别</string>
+  <string name="power_config_normal_description">依照应用配置，MIUI将限制后台应用的网络和定位功能</string>
+  <string name="power_config_normal_title">标准省电</string>
   <string name="power_config_phone_charging_title">Charging</string>
   <string name="power_config_phone_idle_title">Idle</string>
   <string name="power_config_select_apps_empty">Tap to select apps</string>
   <string name="power_config_select_apps_title">Apps</string>
   <string name="power_config_title">Settings</string>
+  <string name="power_config_ultimate_description">MIUI将进一步尝试冻结后台应用</string>
+  <string name="power_config_ultimate_title">终极省电</string>
   <string name="power_configure_screen_brightness_enable">Set screen brightness</string>
   <string name="power_customize_giveup_change">Abandon changes?</string>
   <string name="power_dialog_cancel">Cancel</string>
