@@ -57,7 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Try saying:</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3/hotquery</string>
+  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
   <string name="xiaomi_search_label">Results</string>
-  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3/sug</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>

@@ -31,8 +31,8 @@
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Share files with nearby devices</string>
   <string name="intro_page1_text2">"Now it's easier than ever"</string>
-  <string name="intro_page2_choose_files">Choose files and tap \"Share\"</string>
-  <string name="intro_page2_click_to_send">Tap \"Share\"</string>
+  <string name="intro_page2_choose_files">Choose files and tap \"Send\"</string>
+  <string name="intro_page2_click_to_send">Tap \"Send\"</string>
   <string name="intro_page3_choose_midrop">Choose \"Mi Drop\"</string>
   <string name="intro_page3_choose_midrop2">Files are sent instantly!</string>
   <string name="newText">New Text</string>

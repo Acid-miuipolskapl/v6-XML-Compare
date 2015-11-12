@@ -54,6 +54,7 @@
   <string name="bmp_quality_mode_desc">"Improve video's picture quality"</string>
   <string name="buffering">Buffering…</string>
   <string name="buffering_video_netplay_label_v5">Buffering…</string>
+  <string name="buy_vip">buy vip</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_favorite_success">Unstarred</string>
   <string name="check_app_version">Checking for updates…</string>
@@ -68,6 +69,9 @@
   <string name="clear_search_history">Clear search history</string>
   <string name="click_star_rate">Tap stars to rate</string>
   <string name="click_to_login">Tap to sign in.</string>
+  <string name="clubber">clubber</string>
+  <string name="clubber_center">clubber center</string>
+  <string name="clubber_info">clubber information</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comments</string>
   <string name="comment_count_less_tip">Comment must be at least %1$s characters</string>
@@ -143,6 +147,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">No results</string>
   <string name="error_empty_title">Something went wrong.</string>
+  <string name="expire_time">expire time</string>
   <string name="favorite">Favorite</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">File error</string>
@@ -191,6 +196,7 @@
   <string name="memory_mode_desc">Reduce memory usage</string>
   <string name="menu_item_enable_audio_enhance">Enhance audio</string>
   <string name="menu_name">Settings</string>
+  <string name="mibi">mibi</string>
   <string name="mine_info_account_summary_none">Not signed in</string>
   <string name="mine_info_account_title">Account info</string>
   <string name="minute"> Minute</string>
@@ -214,7 +220,10 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">To submit comments, sign in with your Mi Account</string>
   <string name="no_longer_tips">"Don't show again"</string>
+  <string name="no_pay_record">no pay record</string>
   <string name="no_sdcard_no_download">Not enough storage space.</string>
+  <string name="not_buy_vip">no vip</string>
+  <string name="not_exist_openid">getting account info, please wait...</string>
   <string name="not_login">Not signed in</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
@@ -246,9 +255,11 @@
   <string name="online_video_oneweek_ago">1 week ago</string>
   <string name="operator_test">Operator test</string>
   <string name="operator_test_summary">Run app in Operator test mode</string>
+  <string name="original_price">original price</string>
   <string name="other_info">Other</string>
   <string name="other_setting">Additional</string>
   <string name="pause">Pause</string>
+  <string name="pay_record">pay record</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Improve player performance</string>
   <string name="performance_mode_desc">"Maximize video player's performance"</string>
@@ -369,6 +380,7 @@
   <string name="video_plugin">Video plug-in</string>
   <string name="video_plugin_downloading">Downloading (%1$s)</string>
   <string name="video_plugin_prepare">Just a sec…</string>
+  <string name="vip_package">vip package</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
@@ -376,6 +388,7 @@
   <string name="vp_VideoView_error_title">Unknown error</string>
   <string name="vp_adapt_height">Fit height</string>
   <string name="vp_adapt_width">Fit width</string>
+  <string name="vp_app_download">Application download</string>
   <string name="vp_app_name">Video Player</string>
   <string name="vp_audio">Volume</string>
   <string name="vp_auto_select">Auto</string>
@@ -392,6 +405,7 @@
   <string name="vp_datastream_alert_positive_button">Continue</string>
   <string name="vp_datastream_alert_title">Data usage warning</string>
   <string name="vp_device_list">Devices</string>
+  <string name="vp_download_apk_from_video_ad">Install the application</string>
   <string name="vp_download_connect_fail">"Couldn't get link"</string>
   <string name="vp_download_file_fail">"Couldn't write file. Make sure you have enough space on your device."</string>
   <string name="vp_exit">Exit</string>
