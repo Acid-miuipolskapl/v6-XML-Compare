@@ -120,8 +120,8 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="micloud_all_sub_2_intl_sms">2 international text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_2_sms">2 regular text messages will be sent to activate your SIM card. You will be charged by the carrier.</string>
   <string name="micloud_all_sub_resend_sms">"When you turn on 'Find device', an activation SMS may be sent after you switch SIM cards."</string>
-  <string name="micloud_battery_low_notification_message">charge and resync</string>
-  <string name="micloud_battery_low_notification_title">Not enough power</string>
+  <string name="micloud_battery_low_notification_message">Connect charger to sync</string>
+  <string name="micloud_battery_low_notification_title">Low battery</string>
   <string name="micloud_buy_member">Account</string>
   <string name="micloud_check_sim_notify_text">"Look's like you've changed SIM cards. Sign in
 to your Mi Account to reactivate Mi Cloud."</string>
@@ -132,7 +132,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_account_name">"Mi Account ID: "</string>
   <string name="micloud_confusion_account_notify_text">Your Mi Account has been modified from another device.</string>
   <string name="micloud_confusion_account_notify_title">Verify account</string>
-  <string name="micloud_confusion_account_question">Does the Mi Account ID: %s belong to you?</string>
+  <string name="micloud_confusion_account_question">Does the Mi Account ID %s belong to you?</string>
   <string name="micloud_confusion_account_title">Mi Account ID</string>
   <string name="micloud_confusion_alert_message">Info in your Mi Account has been modified from a %s.</string>
   <string name="micloud_confusion_alert_negative">Later</string>
@@ -142,15 +142,15 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_check_account_title">Reactivate Mi Cloud</string>
   <string name="micloud_confusion_entrance_hint">"To keep your cloud secure, don't access data you've stored in Mi Cloud on shared devices."</string>
   <string name="micloud_confusion_entrance_notify_text">Touch to view details.</string>
-  <string name="micloud_confusion_entrance_notify_title">Your Mi Cloud has been modified</string>
+  <string name="micloud_confusion_entrance_notify_title">Mi Cloud content has been modified</string>
   <string name="micloud_confusion_entrance_question">Did you sign in and make changes to data in your Mi Cloud using a %s?</string>
-  <string name="micloud_confusion_entrance_title">Your Mi Cloud has been modified</string>
+  <string name="micloud_confusion_entrance_title">Mi Cloud content has been modified</string>
   <string name="micloud_confusion_finish_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
   <string name="micloud_confusion_finish_message">Make that sure none of your old or inactive devices are still syncing with your Mi Cloud.</string>
   <string name="micloud_confusion_finish_title">Account verified</string>
   <string name="micloud_confusion_no">No</string>
   <string name="micloud_confusion_ok">OK</string>
-  <string name="micloud_confusion_setting_notify_text">that sure none of your old or inactive devices are still syncing with your Mi Cloud.</string>
+  <string name="micloud_confusion_setting_notify_text">Make sure none of your old or inactive devices are still syncing with your Mi Cloud.</string>
   <string name="micloud_confusion_setting_notify_title">Protect your account</string>
   <string name="micloud_confusion_setting_password_error">The password you entered is incorrect</string>
   <string name="micloud_confusion_setting_question">Turn off syncing for other devices associated with your account.</string>

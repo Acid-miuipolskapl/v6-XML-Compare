@@ -2491,6 +2491,7 @@ To use screen pinning:
   <string name="search_sync">sync</string>
   <string name="search_tether">tether</string>
   <string name="search_unlock_set">unlock set</string>
+  <string name="search_virtual_sim">virtual sim</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
@@ -3174,6 +3175,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
   <string name="virtual_sim_category_title">Virtual Sim</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
