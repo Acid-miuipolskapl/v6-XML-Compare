@@ -410,6 +410,7 @@
   <string name="heavenly_stems_wu">戊</string>
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
+  <string name="hybrid_provider">The web page provided by %1$s .</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -457,6 +458,7 @@
   <string name="name">Name</string>
   <string name="nickname">Nickname</string>
   <string name="night">PM</string>
+  <string name="no_network">"Can't connect to the network"</string>
   <string name="no_sim">No SIM card detected.</string>
   <string name="noon">PM</string>
   <string name="note">Note</string>
@@ -574,6 +576,7 @@
   <string name="web_sso_login_fail">You need to sign in again</string>
   <string name="web_sso_login_message">Signing in…</string>
   <string name="website">Website</string>
+  <string name="webview_reload">retry</string>
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">W</string>

@@ -30,6 +30,7 @@
   <string name="no_network_btn">Try again</string>
   <string name="ok_button">OK</string>
   <string name="open_browser">Open in browser</string>
+  <string name="pm_lable_name">About root access</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
   <string name="share">Share</string>
