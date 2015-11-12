@@ -84,6 +84,7 @@
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="invalid_conversation">Invalid conversation</string>
   <string name="left_cancel">Swipe left to cancel</string>
+  <string name="low_memory">low_memory!</string>
   <string name="menu_add_black">Block this number</string>
   <string name="menu_add_contact">Add to existing contact</string>
   <string name="menu_call">Call</string>
@@ -186,6 +187,7 @@
   <string name="restore_blocked_message">Restore message</string>
   <string name="retrive_hms_tips">Retrieving…</string>
   <string name="save">Save</string>
+  <string name="scan_result">scan result</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
   <string name="search_label">Messaging</string>

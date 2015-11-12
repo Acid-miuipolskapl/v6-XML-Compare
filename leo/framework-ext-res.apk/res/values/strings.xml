@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
-  <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic | %2$s international</string>
+  <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic Or %2$s international</string>
   <string name="alwaysUsePrompt">Remember my choice</string>
   <string name="android_activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
   <string name="android_activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
@@ -65,7 +65,9 @@
   <string name="cancel_action">Cancel</string>
   <string name="copy">Copy</string>
   <string name="cut">Cut</string>
-  <string name="enable_livetalk">Enable Refueling Package</string>
+  <string name="default_name">Default</string>
+  <string name="enable_livetalk_summary">¥ 0.05 per minute for domestic calls</string>
+  <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
   <string name="fc_dialog_jump_to_preview">View summary</string>
   <string name="first_back_long_press_message">"Press &amp; hold the Back button to kill the current process and its background services.
@@ -78,14 +80,17 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="global_actions_reboot">Reboot</string>
   <string name="global_actions_shutdown">Power off</string>
   <string name="global_actions_silent_mode">Silent mode</string>
+  <string name="group_name_contacts">Contacts</string>
+  <string name="group_name_coworkers">Colleagues</string>
+  <string name="group_name_family">Family</string>
+  <string name="group_name_friends">Friends</string>
   <string name="handy_mode_enter_dlg_msg">Enter One-handed mode?</string>
   <string name="handy_mode_enter_dlg_title">Enter One-handed mode</string>
   <string name="handy_mode_summary">To close, tap the darkened area</string>
   <string name="handy_mode_title">One-handed mode</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Place your finger on the Home button</string>
   <string name="internal_livetalk_enable">Using top-up package for domestic calls</string>
-  <string name="internal_remain_mins">%1$s minutes remaining (domestic)</string>
   <string name="international_livetalk_enable">Using top-up package for international calls</string>
-  <string name="international_remain_mins">%1$s minutes remaining （%2$s）</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Space</string>
   <string name="livetalk_not_enable">Top-up package off</string>
@@ -95,6 +100,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
+  <string name="maml_component_customization_title">Settings</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
   <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
   <string name="miui">miui</string>
@@ -108,6 +114,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="reboot_info_shutdown_alarm">Your phone will boot and alarm at %s</string>
   <string name="reboot_progress">Rebooting…</string>
   <string name="replace">Replace</string>
+  <string name="resource_select">Select</string>
   <string name="screen_button_disabled_message">Navigation buttons disabled. To re-enable them, touch Home and the Power button simultaneously.</string>
   <string name="screen_button_enabled_message">Navigation buttons enabled.</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>

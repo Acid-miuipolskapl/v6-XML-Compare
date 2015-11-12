@@ -46,6 +46,7 @@
   <string name="download_current_rom">Reboot to apply update</string>
   <string name="download_diff">Download diff</string>
   <string name="download_error">Something went wrong. Wait a minute or two and try again.</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_full">Download full</string>
   <string name="download_success_reboot_immediately">Reboot to apply update</string>
   <string name="download_title">Downloading (%s)</string>
@@ -118,6 +119,17 @@
   <string name="open_now">Turn on</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
+  <string name="pm_root_acquired_button">Root access</string>
+  <string name="pm_root_acquired_notification_title">Getting root access</string>
+  <string name="pm_root_acquired_rooting">Getting root access %s</string>
+  <string name="pm_root_checking">Checking system info…</string>
+  <string name="pm_root_fail_button_retry">Retry</string>
+  <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
+  <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
+  <string name="pm_root_fail_title">"Couldn't get root access"</string>
+  <string name="pm_root_notification_download_title">Downloading</string>
+  <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
+  <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">Previous</string>
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="reboot">Reboot</string>
@@ -130,6 +142,9 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_power_not_enough_msg_plugged">Battery must be above 15% before device can update</string>
   <string name="recovery_power_not_enough_title">Low battery</string>
   <string name="repeat">Retry</string>
+  <string name="root_acquired">Allow root access</string>
+  <string name="root_agree_check_box_title">I understand the risks of root access</string>
+  <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates automatically when connected to WLAN.</string>
   <string name="set_auto_update_title">Download updates automatically</string>
@@ -138,6 +153,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">"Can't update"</string>
   <string name="set_network_msg">To download this update, connect to a WLAN network.</string>
+  <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
   <string name="set_network_title">Connect to WLAN</string>
   <string name="set_only_wifi">Use WLAN only</string>
   <string name="share">Share</string>
@@ -193,6 +209,8 @@ But you can take part next Monday."</string>
   <string name="updater_nolog">No update summary.</string>
   <string name="updater_nonetwork">"Can't connect to the network"</string>
   <string name="updater_nonetwork_clause">"Can't connect to the network"</string>
+  <string name="updater_service_busy_msg">This app uses the Updater Service to obtain root access to the required source files.</string>
+  <string name="updater_service_busy_title">Updater service is busy</string>
   <string name="updater_wait_for_unzip">Unpacking update…</string>
   <string name="upgrade_close">Close</string>
   <string name="upgrade_kernel">System kernel is outdated</string>

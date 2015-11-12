@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">E dd/MM</string>
+    <string name="date_time">EEEE, d MMMM</string>
     <string name="language">en</string>
-    <string name="desc_date_format">EEEE, MMM dd</string>
+    <string name="desc_date_format">EEEE, d MMMM</string>
     <string name="desc_time">'ora attuale' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', doppio tap per entrare nell'applicazione orologio'</string>
     <string name="weather_type_0">Sereno</string>
     <string name="weather_type_1">Nuvoloso</string>

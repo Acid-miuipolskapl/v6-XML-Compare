@@ -256,6 +256,8 @@
   <string name="msg_type_hint_mms">Multimedia message (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
+  <string name="msg_type_hint_mx_b2c">Network notification</string>
+  <string name="msg_type_hint_mx_b2c_omit">Network notification</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Text message</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -287,6 +289,8 @@
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to WLAN. You will incur regular charges from your carrier."</string>
   <string name="mx_b2c_message_desc">Network notifications</string>
+  <string name="mx_b2c_message_resend_not_online">"Can't resend message. Mi Message is offline."</string>
+  <string name="mx_b2c_message_server">Server</string>
   <string name="mx_btn_enable">Activate</string>
   <string name="mx_btn_enable_now">Activate</string>
   <string name="mx_count_dspt">%1$d SMS and %2$d MMS sent</string>

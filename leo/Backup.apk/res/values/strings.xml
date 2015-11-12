@@ -27,11 +27,13 @@
   <string name="backup_delete">Delete:</string>
   <string name="backup_empty">No backups.</string>
   <string name="backup_empty_info">" Back up your data, settings, and apps"</string>
+  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
   <string name="backup_error">"Couldn't back up"</string>
   <string name="backup_failed">"Couldn't back up"</string>
   <string name="backup_file_error">"Couldn't back up"</string>
   <string name="backup_finished">Backed up successfully</string>
   <string name="backup_hint">Keep your device powered on</string>
+  <string name="backup_hint_onpad">Keep your device powered on</string>
   <string name="backup_is_running">Backing up device</string>
   <string name="backup_items_app_tailer">" app data files"</string>
   <string name="backup_items_sysdata_tailer">" system data files,"</string>
@@ -69,6 +71,7 @@
   <string name="compute_delete_contact_info">Getting info…</string>
   <string name="contact_title">Contacts</string>
   <string name="current_account">Hi %s</string>
+  <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Phone</string>
   <string name="current_sim">Current SIM card</string>
   <string name="custom_progress">%d items</string>
