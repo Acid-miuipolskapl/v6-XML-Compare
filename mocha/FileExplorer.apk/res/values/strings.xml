@@ -40,8 +40,8 @@
   <string name="cancel">Cancel</string>
   <string name="cancel_error">"Couldn't remove, try again"</string>
   <string name="cancel_operation">Cancel operation</string>
-  <string name="cancel_success">Removed successfully, all files moved to sdcard/fileexplorer/decryption</string>
-  <string name="cancelled_by_user">Operation cancelled</string>
+  <string name="cancel_success">Removed successfully, all files moved to %s</string>
+  <string name="cancelled_by_user">Operation canceled</string>
   <string name="category">Categories</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
@@ -119,7 +119,7 @@
   <string name="dialog_type_image">Images</string>
   <string name="dialog_type_text">Docs</string>
   <string name="dialog_type_video">Videos</string>
-  <string name="dir_not_support">"This folder can't be made private."</string>
+  <string name="dir_not_support">"Can't hide this folder."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty</string>
   <string name="dlg_error_unmount_text">Failed to unmount USB storage.</string>
@@ -130,9 +130,9 @@
   <string name="downloading">Downloading</string>
   <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
-  <string name="encrypt_error">"Couldn't make files private, try again"</string>
-  <string name="encrypt_prefix">PRIVATE</string>
-  <string name="encrypt_success">All files made private</string>
+  <string name="encrypt_error">"Couldn't hide files, try again"</string>
+  <string name="encrypt_prefix">HIDDEN</string>
+  <string name="encrypt_success">All files hidden</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
@@ -219,7 +219,7 @@ Our server is down at the moment. Please try again later…
   <string name="local_video">Video</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
-  <string name="make_private">Make private</string>
+  <string name="make_private">Hide</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Clean up</string>
   <string name="menu_item_ftp">FTP</string>
@@ -276,12 +276,8 @@ Our server is down at the moment. Please try again later…
   <string name="network_spent_reminding_title">Data usage notification</string>
   <string name="never_notify_network_connect">Remember preference</string>
   <string name="new_folder_name">Unnamed folder</string>
-  <string name="new_function">About Private folders</string>
-  <string name="new_function_info">"Private folder is a new MIUI feature.
-You can encrypt your files and store them
-in a safe place.
-
-Pull down on the home page to check it out."</string>
+  <string name="new_function">Hidden folders</string>
+  <string name="new_function_info">To create a hidden folder, swipe down to the bottom of the screen from the first row of icons on the start page.</string>
   <string name="new_function_str">"WeChat stickers can now be collected automatically.
 Download them when you want
 and never miss the cool new ones!"</string>
@@ -312,15 +308,15 @@ and never miss the cool new ones!"</string>
   <string name="notification_title">Notify when new files are added to %1$s</string>
   <string name="notification_wechat_expired_empty">WeChat has already deleted these video clips.</string>
   <string name="notification_wechat_title">WeChat video notifications</string>
-  <string name="notify_private_folder_msg">Tap to learn about private folders.</string>
-  <string name="notify_private_folder_title">Protect your personal files</string>
+  <string name="notify_private_folder_msg">Tap to learn more.</string>
+  <string name="notify_private_folder_title">Create hidden folders</string>
   <string name="online_not_support">"Can't view this file online at the moment."</string>
   <string name="open_changed_file_message">"The file you are trying to open has been changed. Please:
 1. Download the file again to update it.
 2. Upload it your KuaiPan account."</string>
   <string name="open_changed_file_title">Change applied.</string>
   <string name="open_file_failed">"Can't open"</string>
-  <string name="open_private_folder">Creating a private folder…</string>
+  <string name="open_private_folder">Creating hidden folder…</string>
   <string name="operate_confirm_in_3g">Use your mobile data connection to download this large file?</string>
   <string name="operating">Processing…</string>
   <string name="operation_add_fav">Adding to starred…</string>
@@ -363,17 +359,17 @@ and never miss the cool new ones!"</string>
   <string name="operation_show_sys">Show hidden files</string>
   <string name="operation_unfavorite">Unstar</string>
   <string name="pan_settting">KuaiPan settings</string>
-  <string name="partial_cancel_successful">"Couldn't remove some files. The rest of the files moved to sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">"Couldn't remove some files. Moved the rest of the files to %s."</string>
   <string name="partial_delete_failure">"Couldn't delete some files, try again"</string>
-  <string name="partial_encrypt_success">"Couldn't make some files private, try again"</string>
+  <string name="partial_encrypt_success">"Couldn't hide some files, try again"</string>
   <string name="partial_repair_done">Restored some files successfully</string>
   <string name="paused">Paused</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Tablet</string>
   <string name="pick_folder">Choose folder</string>
   <string name="port_range">Port must be between 1024–65535</string>
-  <string name="private_files">Private</string>
-  <string name="private_folder">Private folder</string>
+  <string name="private_files">Hidden</string>
+  <string name="private_folder">Hidden folder</string>
   <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
   <string name="pull_to_signin">Swipe down to check in.</string>
   <string name="qq_not_installed">"QQ isn't installed"</string>
@@ -435,6 +431,7 @@ and never miss the cool new ones!"</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Search</string>
   <string name="search_title_hint">Search</string>
+  <string name="select_dest_folder">Select folder</string>
   <string name="select_image">Choose photos</string>
   <string name="select_music">Choose songs</string>
   <string name="select_video">Choose videos</string>
@@ -497,7 +494,7 @@ Free space added %1$s"</string>
   <string name="tools">TOOLS</string>
   <string name="trans_task">Network transfer</string>
   <string name="transfer_done">Files moved successfully.</string>
-  <string name="transfer_private_data">Moving private files from SD card…</string>
+  <string name="transfer_private_data">Moving hidden folders from SD card…</string>
   <string name="transing">Sending</string>
   <string name="trash_box_capacity">Recycle bin %1$s</string>
   <string name="trash_box_link">To empty your trash, visit &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
@@ -542,5 +539,5 @@ Free space added %1$s"</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>
-  <string name="yesterday">yesterday</string>
+  <string name="yesterday">Yesterday</string>
 </resources>

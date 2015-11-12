@@ -205,7 +205,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Apply password to…</string>
+  <string name="apply_password_to_category_title">Require password</string>
   <string name="apply_update_fail">Update failed</string>
   <string name="apps_and_data_item_desc">Apps and data</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
@@ -270,6 +270,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="backup_delete">Delete:</string>
   <string name="backup_empty">No backups.</string>
   <string name="backup_empty_info">" Back up your data, settings, and apps"</string>
+  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
   <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, and app data, and erase all copies on Google servers?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_error">"Couldn't back up"</string>
@@ -277,6 +278,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="backup_file_error">"Couldn't back up"</string>
   <string name="backup_finished">Backed up successfully</string>
   <string name="backup_hint">Keep your device powered on</string>
+  <string name="backup_hint_onpad">Keep your device powered on</string>
   <string name="backup_is_running">Backing up device</string>
   <string name="backup_items_app_tailer">" app data files"</string>
   <string name="backup_items_sysdata_tailer">" system data files,"</string>
@@ -626,8 +628,10 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display</string>
   <string name="change_password">Change password</string>
   <string name="change_security_lock">Try other ways to unlock</string>
+  <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
+  <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
@@ -748,6 +752,7 @@ Encryption takes an hour or more. You must start with a charged battery and keep
   <string name="current_account">Hi %s</string>
   <string name="current_backup_pw_prompt">Type your current full backup password here</string>
   <string name="current_input_method">Default</string>
+  <string name="current_pad_location">Pad</string>
   <string name="current_phone_location">Phone</string>
   <string name="current_sim">Current SIM card</string>
   <string name="current_use_ese">Using embedded secure element</string>
@@ -1097,7 +1102,11 @@ Some apps may not work until updated by their developers."</string>
   <string name="external_data_size_label">SD card</string>
   <string name="factory_reset_summary">"Erase all data from your pad's internal storage"</string>
   <string name="fail">Failed</string>
+  <string name="failed_to_check_find_device_status_content">"Couldn't check Find device status. Wait a minute or two and try again."</string>
+  <string name="failed_to_check_find_device_status_title">"Couldn't check Find device status"</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+  <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
+  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="feature_title_account">Account</string>
   <string name="feature_title_call_log">Call history</string>
@@ -2397,6 +2406,7 @@ This setting affects all users on this tablet."</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
   <string name="security_passwords_title">Passwords</string>
+  <string name="security_patch">Android security patch level</string>
   <string name="security_privacy_settings_title">Privacy</string>
   <string name="security_relative">Security</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
@@ -2473,6 +2483,10 @@ This setting affects all users on this tablet."</string>
   <string name="show_touches">Show touches</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
+  <string name="shuting_down_find_device">Turning off Find device…</string>
   <string name="silent_mode_title">Silent mode</string>
   <string name="sim_bad_pin">Type a PIN that is 4 to 8 numbers</string>
   <string name="sim_change_failed">"Can't change PIN.
@@ -2558,7 +2572,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="state_waiting">Just a sec…</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_des_separator">,</string>
+  <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Notifications hidden</string>
   <string name="status_bar_app_enable_floating">Floating notifications</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
@@ -2592,7 +2606,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Lock screen</string>
+  <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icons</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
@@ -3047,7 +3061,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_auto_update">Update automatically</string>
   <string name="virus_scanner_date_formater">MMM dd yyyy</string>
   <string name="virus_scanner_lib_already_latest">"You're already using the latest definitions"</string>
-  <string name="virus_scanner_lib_update_failed">Update failed</string>
+  <string name="virus_scanner_lib_update_failed">"Couldn't update"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated %s</string>
   <string name="virus_scanner_provider">Definitions provided by %s</string>
@@ -3447,7 +3461,7 @@ Tablet setup can require significant network activity."</string>
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD card does not have an AS certificate.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Enter AS certificate name</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Failed to create directory.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create a folder."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">A directory with that name already exists.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter directory name</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
