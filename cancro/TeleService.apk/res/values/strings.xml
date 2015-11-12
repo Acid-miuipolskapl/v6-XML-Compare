@@ -509,10 +509,10 @@ Top up and start talking"</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
   <string name="livetalk_user_config_title">Verify phone number</string>
   <string name="livetalk_version">Version 0.9 | Beta</string>
-  <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minute for domestic calls and ¥ 0.03 for international.
+  <string name="livetalk_welcome_description_text">"• ¥ 0.05 per minute for domestic calls and ¥ 0.3 for international.
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
-  <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on."</string>
+  <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data. Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on."</string>
   <string name="livetalk_white_list_number_title">Make regular call</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
@@ -889,7 +889,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
   <string name="sim_ndp_unlock_text">Unlock</string>
-  <string name="sim_no_activated">"Couldn't verify SIM card 2"</string>
+  <string name="sim_no_activated">"Couldn't verify SIM card"</string>
   <string name="sim_unlock_failed">SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>

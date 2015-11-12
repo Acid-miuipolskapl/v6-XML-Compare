@@ -65,6 +65,7 @@ All existing user data will be saved."</string>
   <string name="message_appstore_verify_has_new_version">A newer version of this app is available in our App Store. Do you want to install it?</string>
   <string name="message_appstore_verify_inconsistent">"This app's signature is different from that in App Store, it will be safer to install the app from there."</string>
   <string name="message_appstore_verify_ok">The version of this app in App Store has passed our security tests, we recommend you to install the app from there.</string>
+  <string name="message_install_in_market">We recommend you to install the app from AppStore</string>
   <string name="message_security_scaning">Scanning…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Other</string>

@@ -333,7 +333,7 @@
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
   <string name="one_month">1 month</string>
-  <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted the device.</string>
+  <string name="online_list_delete_message">All downloaded songs in this playlist will be deleted from the device.</string>
   <string name="online_music_enabled_subtitle">Tap to stream your favorite songs.</string>
   <string name="online_music_enabled_summary">Listen and download your favorite songs. View top songs and curated playlists wherever you go!</string>
   <string name="online_music_enabled_title">Free streaming is here</string>
