@@ -22,6 +22,11 @@
                 <Pressed>
                     <Circle x="591" y="385" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
                 </Pressed>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_prev" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
             </Button>
             <Image x="591" y="385" align="center" alignV="center" src="music_pre.png"/>
             <Button name="music_next" x="805" y="337" w="100" h="100">
@@ -31,6 +36,11 @@
                 <Pressed>
                     <Circle x="855" y="385" r="38" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
                 </Pressed>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_next" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
             </Button>
             <Image x="855" y="385" align="center" alignV="center" src="music_next.png"/>
             <Button name="music_play" x="652" y="314" w="140" h="140">
@@ -41,6 +51,11 @@
                     <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
                 </Pressed>
                 <Image x="696" y="350" src="music_play.png"/>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_play" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
             </Button>
             <Button name="music_pause" x="652" y="314" w="140" h="140">
                 <Normal>
@@ -50,6 +65,11 @@
                     <Circle x="723" y="384" r="56" strokeColor="#80ffffff" fillColor="#26ffffff" weight="1" strokeAlign="inner"/>
                 </Pressed>
                 <Image x="710" y="364" src="music_pause.png"/>
+                <Triggers>
+                    <Trigger action="up">
+                        <ExternCommand command="track_music_pause" strPara="@music_control.package"/>
+                    </Trigger>
+                </Triggers>
             </Button>
 
             <Var name="progress" expression="ifelse(#music_control.music_duration,#music_control.music_position/#music_control.music_duration,0)" />
@@ -71,6 +91,7 @@
                 <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))">
                     <Extra name="intent_sender" type="string" expression="'home_widget'"/>
                 </IntentCommand>
+                <ExternCommand command="track_music_enter" strPara="@music_control.package"/>
             </Trigger>
         </Triggers>
     </Button>
