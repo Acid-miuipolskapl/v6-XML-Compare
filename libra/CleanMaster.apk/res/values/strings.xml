@@ -63,6 +63,7 @@
   <string name="cache_title_empty_folder">Empty folder (%d)</string>
   <string name="cache_title_empty_folder2">Empty folder</string>
   <string name="cache_title_system_cache">System cache</string>
+  <string name="cached_garbage">Cache</string>
   <string name="cancel">Cancel</string>
   <string name="clean_content_all">All</string>
   <string name="clean_content_one">1 item</string>
@@ -108,11 +109,13 @@
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
   <string name="empty_title_residual">No residuals found</string>
+  <string name="flow_rank_title">Data usage</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>
   <string name="go_to">Proceed</string>
   <string name="goto_set">Set</string>
+  <string name="grabage_rank_title">Cleaned today</string>
   <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
   <string name="header_optimizer">By using this feature, you are agreeing to %s.</string>
   <string name="hint_bar_select_image">%d selected</string>
@@ -269,7 +272,7 @@
   <string name="privacy_clipboard_type">Clipboard</string>
   <string name="privacy_search_desc">Search history</string>
   <string name="privacy_search_type">Google Search</string>
-  <string name="promotion">"Editor's picks"</string>
+  <string name="promotion">Ad</string>
   <string name="recommended">Featured</string>
   <string name="safety_check_detail">%1$d times, earned %2$d points</string>
   <string name="safety_rank">Ahead of %d%% MIUI users in terms of safety</string>
@@ -334,7 +337,9 @@
   <string name="toast_selecte_group_restore_succeed">Photos restored</string>
   <string name="toast_uninstall_success">Uninstall complete</string>
   <string name="total_clean">Total cleaned: %s</string>
+  <string name="total_clean_text">Clear</string>
   <string name="traffic_top">TOP 5 data consuming apps</string>
+  <string name="unlike">No thanks</string>
   <string name="virus_scan">Virus scan</string>
   <string name="white_list_ad_header">Ad files: %d</string>
   <string name="white_list_apk_header">Install packages: %d</string>
