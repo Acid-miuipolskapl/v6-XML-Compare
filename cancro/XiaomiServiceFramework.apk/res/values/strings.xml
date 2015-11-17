@@ -7,6 +7,7 @@
   <string name="activate_auto_sms_notification_title">SIM card activation</string>
   <string name="activate_feature_call_log_sync">Sync call history</string>
   <string name="activate_feature_find_device">Find Device</string>
+  <string name="activate_feature_live_talk">Phone Top-up package</string>
   <string name="activate_feature_mms_sync">Sync SMS messages</string>
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
