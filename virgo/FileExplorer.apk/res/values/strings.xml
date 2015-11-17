@@ -285,7 +285,7 @@ Our server is down at the moment. Please try again later…
   <string name="never_notify_network_connect">Remember preference</string>
   <string name="new_folder_name">Unnamed folder</string>
   <string name="new_function">Hidden folders</string>
-  <string name="new_function_info">To create a hidden folder, swipe down to the bottom of the screen from the first row of icons on the start page.</string>
+  <string name="new_function_info">To create a hidden folder, pull down to the bottom of the screen from the first row of icons on the start page.</string>
   <string name="new_function_str">"WeChat stickers can now be collected automatically.
 Download them when you want
 and never miss the cool new ones!"</string>
@@ -384,7 +384,7 @@ and never miss the cool new ones!"</string>
   <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
   <string name="private_toast_hint3">Pull down to open Hidden folders</string>
   <string name="promot_enctypt_password">Enter password used to unlock your device or to turn off Child mode</string>
-  <string name="pull_to_signin">Swipe down to check in.</string>
+  <string name="pull_to_signin">Pull down to check in.</string>
   <string name="qq_not_installed">"QQ isn't installed"</string>
   <string name="release_to_signin">Release to check in</string>
   <string name="rename_alert">"If you change this file's extension, you may not be able to open it."</string>

@@ -1031,7 +1031,7 @@ device"</string>
   <string name="script">Script</string>
   <string name="sd_not_available">"Couldn't access SD card."</string>
   <string name="sdcard_root">SD card root directory</string>
-  <string name="secret_album_display_name">Secret album</string>
+  <string name="secret_album_display_name">Hidden album</string>
   <string name="select_all">Select all</string>
   <string name="select_auto_upload_albums">Choose albums to sync</string>
   <string name="select_image">Select photo</string>
