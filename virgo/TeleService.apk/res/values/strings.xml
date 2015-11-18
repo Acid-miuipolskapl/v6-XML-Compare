@@ -486,8 +486,8 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_complete_introduction">Top-up package has been added to your Mi Account and will be used on your next call.</string>
   <string name="livetalk_complete_name">Switch to top-up package</string>
   <string name="livetalk_complete_title">Call to complete top-up</string>
-  <string name="livetalk_continue_button">Quickly Use</string>
-  <string name="livetalk_continue_button_creat_account">Creating account</string>
+  <string name="livetalk_continue_button">Use</string>
+  <string name="livetalk_continue_button_creat_account">Create account</string>
   <string name="livetalk_creat_account_fialed">Account error</string>
   <string name="livetalk_dial_direct">Dial direct</string>
   <string name="livetalk_experience_button">Try now</string>
