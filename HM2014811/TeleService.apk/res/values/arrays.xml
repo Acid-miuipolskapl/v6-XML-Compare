@@ -283,7 +283,6 @@
         <item>never</item>
     </string-array>
     <string-array name="livetalk_about_info_array">
-        <item>• Rates: ¥ 0.05 per minute for domestic calls and ¥ 0.03 for international;</item>
         <item>• Use: Call any phone in the world, there are no carrier restrictions;</item>
         <item>• Requirements: Every call requires 1KB of mobile data;</item>
         <item>• Other: Top up and start calling, there are no complicated settings;</item>

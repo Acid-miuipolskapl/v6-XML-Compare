@@ -107,8 +107,8 @@
   <string name="jeejen_end_call_text">End call</string>
   <string name="jeejen_reject_call_text">Reject call</string>
   <string name="jeejen_toggle_dialpad_text">Dialpad</string>
-  <string name="livetalk_dial">Using Refueling Package</string>
-  <string name="livetalk_left_minute">%s Mins Left</string>
+  <string name="livetalk_dial">Using Top-up package</string>
+  <string name="livetalk_left_minute">%s min left</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Stranger card</string>
   <string name="modify_call_failure_str">"Modify Call request failed
