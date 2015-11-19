@@ -547,7 +547,7 @@ Free space added %1$s"</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="wechat_video">Video at %s</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
-  <string name="weixin_sticker_tag_str">WeChat stickers</string>
+  <string name="weixin_sticker_tag_str">Stickers</string>
   <string name="wifi_state">WLAN network</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>

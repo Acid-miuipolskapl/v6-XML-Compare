@@ -266,12 +266,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
   <string name="background_data_dialog_title">Disable background data?</string>
   <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
-  <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
-  <string name="background_location_control_title">Background location access</string>
-  <string name="background_location_deselect_apps">Unselect all</string>
-  <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
-  <string name="background_location_requests_title">Allow background location</string>
-  <string name="background_location_select_apps">Select all</string>
   <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
   <string name="backup_configure_account_title">Backup account</string>
@@ -716,6 +710,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>

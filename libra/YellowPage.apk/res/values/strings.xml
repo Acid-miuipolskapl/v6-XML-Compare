@@ -262,6 +262,7 @@ Check your tracking number."</string>
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">Show prompt when connecting to the internet</string>
   <string name="notify_connect_title">Internet connection notification</string>
+  <string name="open_installed_app">Open</string>
   <string name="order_date_label">Order date: %1$s</string>
   <string name="order_detail">Details</string>
   <string name="order_empty_hint">No orders</string>

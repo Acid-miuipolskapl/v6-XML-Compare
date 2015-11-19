@@ -25,13 +25,13 @@
         <item quantity="many">%1$d days ago</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">Downloaded by %1$d peoples</item>
+        <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Downloaded by %1$d peoples</item>
+        <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Downloaded by %1$d peoples</item>
+        <item quantity="other">Downloaded by %1$d people</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d views</item>
