@@ -28,6 +28,8 @@
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading update?</string>
   <string name="cancel_download_buton_text">Cancel</string>
+  <string name="check_local_package_validate_error_button">OK</string>
+  <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
