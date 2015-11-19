@@ -576,7 +576,7 @@
   <string name="web_sso_login_fail">You need to sign in again</string>
   <string name="web_sso_login_message">Signing in…</string>
   <string name="website">Website</string>
-  <string name="webview_reload">retry</string>
+  <string name="webview_reload">Try again</string>
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">W</string>

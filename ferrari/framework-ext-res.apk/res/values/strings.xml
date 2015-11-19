@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
-  <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic Or %2$s international</string>
+  <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
   <string name="alwaysUsePrompt">Remember my choice</string>
   <string name="android_activity_resolver_use_always">@android:string/activity_resolver_use_always</string>
   <string name="android_activity_resolver_use_once">@android:string/activity_resolver_use_once</string>
