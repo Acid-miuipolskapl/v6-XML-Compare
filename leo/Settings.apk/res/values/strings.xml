@@ -710,6 +710,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
