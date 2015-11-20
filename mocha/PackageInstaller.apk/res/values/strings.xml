@@ -69,7 +69,7 @@ All user data will be saved."</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_apps_dlg_text">"For security reasons, your pad doesn't allow you to install apps from third party sources by default.We cannot guarantee the safety or validity of any of the apps that you download from third party sources.You assume full responsibility any damage or loss that may as a result of subsequent use.
 
-You can toggle this setting in Settings &gt; Security &gt; Unknown sources."</string>
+You can toggle this setting in Settings &gt; Additional settings &gt; Privacy &gt; Device administration &gt; Unknown sources."</string>
   <string name="update_log_default">No change log.</string>
   <string name="update_time">%4$s released on %2$s/%3$s/%1$s.</string>
   <string name="update_title">%1$s is up to date.</string>

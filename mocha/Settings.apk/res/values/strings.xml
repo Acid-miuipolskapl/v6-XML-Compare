@@ -254,12 +254,6 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
   <string name="background_data_dialog_title">Disable background data?</string>
   <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
-  <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
-  <string name="background_location_control_title">Background location access</string>
-  <string name="background_location_deselect_apps">Deselect all</string>
-  <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
-  <string name="background_location_requests_title">Allow background location</string>
-  <string name="background_location_select_apps">Select all</string>
   <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
   <string name="backup">Backup</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
@@ -692,6 +686,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -1299,8 +1294,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your pad and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your pad or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
-  <string name="install_no_market_app_summary">Allow installation of apps from sources other than the App Store</string>
-  <string name="install_no_market_app_title">Unknown sources</string>
+  <string name="install_no_market_app_summary">Scan third-party apps for viruses before installing</string>
+  <string name="install_no_market_app_title">Scan third-party apps</string>
   <string name="install_preinstall_app">Loading apps…</string>
   <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
@@ -1463,6 +1458,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>

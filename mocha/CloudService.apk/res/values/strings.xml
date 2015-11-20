@@ -141,12 +141,12 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_confusion_cancel">Cancel</string>
   <string name="micloud_confusion_check_account_title">Reactivate Mi Cloud</string>
   <string name="micloud_confusion_entrance_hint">"To keep your cloud secure, don't access data you've stored in Mi Cloud on shared devices."</string>
-  <string name="micloud_confusion_entrance_notify_text">Touch to view details.</string>
+  <string name="micloud_confusion_entrance_notify_text">Tap to view details.</string>
   <string name="micloud_confusion_entrance_notify_title">Mi Cloud content has been modified</string>
   <string name="micloud_confusion_entrance_question">Did you sign in and make changes to data in your Mi Cloud using a %s?</string>
   <string name="micloud_confusion_entrance_title">Mi Cloud content has been modified</string>
   <string name="micloud_confusion_finish_hint">"Changes you make on this device will be synced to all your devices. To protect your account, we recommend that you turn off syncing for other devices when you're not using them."</string>
-  <string name="micloud_confusion_finish_message">Make that sure none of your old or inactive devices are still syncing with your Mi Cloud.</string>
+  <string name="micloud_confusion_finish_message">Make sure that none of your old or inactive devices are still syncing with your Mi Cloud.</string>
   <string name="micloud_confusion_finish_title">Account verified</string>
   <string name="micloud_confusion_no">No</string>
   <string name="micloud_confusion_ok">OK</string>
@@ -176,7 +176,8 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_dspt_provision">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
   <string name="micloud_find_device_finish">Done</string>
   <string name="micloud_find_device_guide_button">Turn on Find device</string>
-  <string name="micloud_find_device_guide_content">When you switch your SIM card, a message will be sent automatically\u0009o reactivate this feature.</string>
+  <string name="micloud_find_device_guide_content">"When you switch your SIM card, a message will be sent automatically
+to reactivate this feature."</string>
   <string name="micloud_find_device_guide_fail_reopen">Turn on Find device in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Check your network connection and try again.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connection timed out. Try again later.</string>
