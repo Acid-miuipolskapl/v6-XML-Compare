@@ -160,4 +160,12 @@
         <item quantity="few">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
         <item quantity="many">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
     </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d new WeChat stickers today</item>
+        <item quantity="zero">%1$d new WeChat sticker today</item>
+        <item quantity="one">%1$d new WeChat sticker today</item>
+        <item quantity="two">%1$d new WeChat stickers today</item>
+        <item quantity="few">%1$d new WeChat stickers today</item>
+        <item quantity="many">%1$d new WeChat stickers today</item>
+    </plurals>
 </resources>

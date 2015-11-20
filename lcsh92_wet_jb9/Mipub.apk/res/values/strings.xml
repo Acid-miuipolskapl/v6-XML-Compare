@@ -97,6 +97,9 @@
   <string name="menu_new_contact">New contact</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_yellowpage">View %s</string>
+  <string name="message_block_confirmation">Confirm to not receive messages?</string>
+  <string name="message_block_processing">processing</string>
+  <string name="message_block_reminder">Reminder</string>
   <string name="message_failed">Failed</string>
   <string name="message_pending">Sending</string>
   <string name="message_readed">Read</string>
