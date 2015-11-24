@@ -549,14 +549,14 @@ with friends"</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">"Couldn't load data. Wait a minute or two and try again."</string>
-  <string name="cloudfolder_loading_data">Loading…</string>
+  <string name="cloudfolder_loading_data">Just a sec…</string>
   <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
   <string name="cloudfolder_name_reserved">Album name is reserved</string>
   <string name="comfirm_delete_current_album">Delete this album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Delete %s photos?</string>
-  <string name="confirm_delete_init_message">Photo will be deleted from this device and from Mi Cloud. If you only want to delete it from your device, try this action from within the Offline tab.</string>
+  <string name="confirm_delete_init_message">"Photo will be deleted from device's internal storage and from Mi Cloud. To delete photos from your device's internal storage and keep photos in Mi Cloud, go to the Offline tab."</string>
   <string name="confirm_delete_init_title">Delete photo</string>
   <string name="confirm_download">You need to download %s.</string>
   <string name="confirm_download_video_message">You need to finish downloading this video before you can watch it. Download will resume when WLAN is available.</string>
