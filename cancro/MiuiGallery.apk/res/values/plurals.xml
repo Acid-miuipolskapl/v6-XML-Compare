@@ -19,7 +19,7 @@
         <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Selected items are photos in Mi Cloud, delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this photo from Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
@@ -53,7 +53,7 @@
         <item quantity="one">&lt;Data>Delete this video from %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d images&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d photos&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this photo from %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="number_of_items_selected">
@@ -80,7 +80,7 @@
     </plurals>
     <plurals name="message_no_delete_access_with_count">
         <item quantity="other">"You don't have permission to delete these %d files."</item>
-        <item quantity="one">"You don't have permission to delete these %d file."</item>
+        <item quantity="one">"You don't have permission to delete this %d file."</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">You can select %d items</item>
