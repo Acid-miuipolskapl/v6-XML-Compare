@@ -110,7 +110,7 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
   <string name="firewall_network_restrict_notify_mobile">mobile data</string>
   <string name="firewall_network_restrict_notify_title">"%1$s can't use %2$s"</string>
-  <string name="firewall_restrict_android_dialog_content">"If you don't allow Android to connect to the internet, some key features, such as WLAN hotspot, may be affected."</string>
+  <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
   <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
@@ -199,7 +199,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>
-  <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Overseas roaming</string>
   <string name="network_assistant_upgraded_body">Touch to view details.</string>
@@ -520,10 +519,10 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_msg_today">saved today</string>
   <string name="traffic_saving_need_optimize">Can be optimized</string>
   <string name="traffic_saving_notification_button_start">Activate</string>
-  <string name="traffic_saving_notify_no_apps_saving">No apps are using Data saver</string>
+  <string name="traffic_saving_notify_no_apps_saving">Reduce data usage</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
   <string name="traffic_saving_notify_start_content">%s saved this month.</string>
-  <string name="traffic_saving_notify_start_title">Reduced your data usage</string>
+  <string name="traffic_saving_notify_start_title">Data usage reduced</string>
   <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
   <string name="traffic_saving_optimized">Already optimized</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -537,7 +536,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
   <string name="traffic_saving_title">Data saver</string>
   <string name="traffic_saving_toast_start_mobile">Data saver is on</string>
-  <string name="traffic_saving_toast_start_none_mobile">Data saver will start when you begin using mobile data</string>
+  <string name="traffic_saving_toast_start_none_mobile">Data saver will activate whenever you use mobile data</string>
   <string name="traffic_saving_toast_start_unreachable">"Can't start Data saver"</string>
   <string name="traffic_saving_toast_stop">Data saver is off</string>
   <string name="traffic_saving_whitelist_btn_add">Add</string>
