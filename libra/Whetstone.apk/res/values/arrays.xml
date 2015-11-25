@@ -32,6 +32,7 @@
         <item>com.android.bluetooth</item>
         <item>com.miui.networkassistant</item>
         <item>com.android.updater</item>
+        <item>com.android.providers.contacts</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>

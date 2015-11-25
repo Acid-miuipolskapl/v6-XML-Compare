@@ -9,7 +9,7 @@
   <string name="def_backup_transport">android/com.android.internal.backup.LocalTransport</string>
   <string name="def_car_dock_sound">/system/media/audio/ui/Dock.ogg</string>
   <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
-  <string name="def_date_format">MM-dd-yyyy</string>
+  <string name="def_date_format"/>
   <string name="def_desk_dock_sound">/system/media/audio/ui/Dock.ogg</string>
   <string name="def_desk_undock_sound">/system/media/audio/ui/Undock.ogg</string>
   <string name="def_device_name">%1$s %2$s</string>
