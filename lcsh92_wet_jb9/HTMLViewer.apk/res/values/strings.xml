@@ -11,4 +11,11 @@ go to %s"</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
   <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
   <string name="policy_name">Policy:%s</string>
+  <string name="settings_license_activity_loading">Loading…</string>
+  <string name="settings_license_activity_title">Open source licenses</string>
+  <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
+  <string name="settings_safetylegal_activity_loading">Loading…</string>
+  <string name="settings_safetylegal_activity_title">Safety information</string>
+  <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
+  <string name="settings_safetylegal_title">Safety information</string>
 </resources>
