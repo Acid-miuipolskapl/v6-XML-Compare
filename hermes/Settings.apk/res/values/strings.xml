@@ -99,10 +99,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
 Make sure your finger covers the inner edge of the sensor"</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
   <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
-  <string name="add_fingerprint_move_finger_title">Remove finger</string>
   <string name="add_fingerprint_put_finger_edge_msg">After pressing the sensor, remove the finger, and repeat again.</string>
   <string name="add_fingerprint_put_finger_msg">After pressing the sensor, remove the finger, and repeat again.</string>
-  <string name="add_fingerprint_put_finger_title">Place finger</string>
+  <string name="add_fingerprint_put_finger_title">Place finger and remove finger</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
@@ -1663,6 +1662,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="manageapplications_settings_title">Manage apps</string>
   <string name="managed_device_admin_title">Work</string>
   <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
+  <string name="managed_profile_location_category">Work profile</string>
+  <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+  <string name="managed_profile_location_switch_title">Location for work profile</string>
   <string name="managed_profile_not_available_label">"Work profile isn't available yet"</string>
   <string name="managed_user_title">Work profile</string>
   <string name="manually_add_network">Add network</string>
