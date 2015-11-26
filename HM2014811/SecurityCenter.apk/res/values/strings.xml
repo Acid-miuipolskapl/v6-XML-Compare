@@ -89,7 +89,7 @@
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_optimize">Optimize</string>
   <string name="btn_text_quick_scan">Scan</string>
-  <string name="btn_text_start_check">Check</string>
+  <string name="btn_text_start_check">Scan</string>
   <string name="btn_text_stop">Stop</string>
   <string name="btn_text_virus_scan">Scan</string>
   <string name="button_text_accept">Accept</string>
@@ -99,7 +99,7 @@
   <string name="button_text_cancel_optimize">Cancel</string>
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_clear">Clear</string>
-  <string name="button_text_create_shortcut">Create shortcut</string>
+  <string name="button_text_create_shortcut">Create shortcut on Home screen</string>
   <string name="button_text_fix">Fix</string>
   <string name="button_text_ignore">Ignore</string>
   <string name="button_text_ignore_alert_title">Ignore this alert?</string>
@@ -111,7 +111,7 @@
   <string name="button_text_reject_timer">Reject (%d)</string>
   <string name="button_text_security">Security</string>
   <string name="button_text_start_optimize">Check</string>
-  <string name="button_text_uninstall_shortcut">Remove</string>
+  <string name="button_text_uninstall_shortcut">Remove shortcut from Home screen</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
   <string name="cache_check_content_none">@string/memory_check_content_none</string>
