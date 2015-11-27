@@ -91,10 +91,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
 Make sure your finger covers the inner edge of the sensor"</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
   <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
-  <string name="add_fingerprint_move_finger_title">Remove finger</string>
   <string name="add_fingerprint_put_finger_edge_msg">After pressing the sensor, remove the finger, and repeat again.</string>
   <string name="add_fingerprint_put_finger_msg">After pressing the sensor, remove the finger, and repeat again.</string>
-  <string name="add_fingerprint_put_finger_title">Place finger</string>
+  <string name="add_fingerprint_put_finger_title">Place finger and remove finger</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="additional_system_update"/>

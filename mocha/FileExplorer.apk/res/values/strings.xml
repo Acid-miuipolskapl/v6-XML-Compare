@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>
+  <string name="add_private">Add files to hidden folders</string>
   <string name="add_private_files">Add files</string>
   <string name="add_task">Add tasks</string>
   <string name="adding_upload_tasks">Adding tasks#8230;</string>
@@ -77,7 +78,7 @@
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Prompt for internet connection</string>
   <string name="connection_error">"Couldn't connect"</string>
-  <string name="copy_failed">"Can't copy"</string>
+  <string name="copy_failed">"Couldn't copy, looks like storage is full"</string>
   <string name="copy_file_to_kuaipan">Copy file to Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Place on Home screen</string>
   <string name="create_new_folder_desctiption">Creating folder…</string>
@@ -140,6 +141,7 @@
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
   <string name="encrypt_prefix">HIDDEN</string>
   <string name="encrypt_success">All files hidden</string>
+  <string name="encrypt_success_first_five">"Encrypted successfully. Pull down on the File Explorer's start page to view files."</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
   <string name="error_info_cant_send_folder">"Can't send this type of file."</string>
@@ -380,6 +382,8 @@ and never miss the cool new ones!"</string>
   <string name="port_range">Port must be between 1024–65535</string>
   <string name="private_files">Hidden</string>
   <string name="private_folder">Hidden folder</string>
+  <string name="private_folder_no_file_hints">Hold a file or folder to hide it.</string>
+  <string name="private_folder_update">Updating hidden folders</string>
   <string name="private_toast_hint1">Tap to add files to hidden folders</string>
   <string name="private_toast_hint2">To hide a file, press and hold it, then add it to a hidden folder.</string>
   <string name="private_toast_hint3">Pull down to open Hidden folders</string>
@@ -393,7 +397,7 @@ and never miss the cool new ones!"</string>
   <string name="repair_done">Restored</string>
   <string name="repair_error">"Couldn't restore"</string>
   <string name="repair_file">Restore encrypted files</string>
-  <string name="reset_password">Reset password</string>
+  <string name="reset_password">Change password</string>
   <string name="restoring">Restoring…</string>
   <string name="rlv_last_refreshing_time">Updated %1$s</string>
   <string name="rlv_loading_more">Just a sec…</string>
