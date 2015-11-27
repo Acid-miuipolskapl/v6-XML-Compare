@@ -2,7 +2,7 @@
 <resources> 
     <string name="date_time">d MMMM</string>
     <string name="language">pl</string>
-    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format">EEEE, d MMM</string>
     <string name="desc_time">'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', naciśnij 2x by przejść do aplikacji'</string>
     <string name="weather_type_0">Bezchmurnie</string>
     <string name="weather_type_1">Pochmurnie</string>
