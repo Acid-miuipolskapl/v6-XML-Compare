@@ -249,10 +249,11 @@
   <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
-  <string name="contact_edit_set_black_list">Set blocklist</string>
-  <string name="contact_edit_set_black_list_from">Delete all mails from this sender</string>
-  <string name="contact_edit_set_black_list_receive">Delete mail with this recipient</string>
+  <string name="contact_edit_set_black_list_filtering">Filtering...</string>
+  <string name="contact_edit_set_black_list_from">Move all mails from this sender to Junk</string>
+  <string name="contact_edit_set_black_list_receive">Move mail with this recipient to Junk(only new mails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
+  <string name="contact_edit_set_black_list_title">Set blacklist</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_in_filter_call_phone_str">Call from %s</string>
@@ -360,6 +361,7 @@
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Expand recipient details</string>
+  <string name="fail_get_email_message">Get message failed.</string>
   <string name="failed">"Couldn't load image"</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Message</string>
@@ -378,8 +380,11 @@
   <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
+  <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
   <string name="folder_junk_name_en0">Junk</string>
   <string name="folder_junk_name_en1">Bulk Mail</string>
+  <string name="folder_junk_name_en2">Junk Mail</string>
+  <string name="folder_junk_name_en3">Junk E-Mail</string>
   <string name="folder_list_display_all">Display all folders</string>
   <string name="folder_list_display_only_import">Only display important folders</string>
   <string name="folder_picker_title">Choose folders</string>
@@ -470,7 +475,7 @@
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
-  <string name="mailbox_name_display_junk">Spam</string>
+  <string name="mailbox_name_display_junk">Junk</string>
   <string name="mailbox_name_display_outbox">Outbox</string>
   <string name="mailbox_name_display_sent">Sent</string>
   <string name="mailbox_name_display_starred">Starred</string>

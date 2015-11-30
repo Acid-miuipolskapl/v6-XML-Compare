@@ -225,6 +225,10 @@
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">getting account info, please wait...</string>
   <string name="not_login">Not signed in</string>
+  <string name="notification_default_title">Offline video</string>
+  <string name="notification_sub_title">Total %d download task(s) completed</string>
+  <string name="notification_ticker_text">Offline video download completion</string>
+  <string name="notification_title">\"%s\" download completion</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
   <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>

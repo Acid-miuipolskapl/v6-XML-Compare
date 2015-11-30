@@ -8,6 +8,10 @@
 
 .field public static final IS_A10:Z
 
+.field private static final IS_A4:Z
+
+.field private static final IS_A7:Z
+
 .field public static final IS_A9:Z
 
 .field public static final IS_CM:Z
@@ -304,6 +308,26 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
 
+    const-string v0, "capricorn"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    const-string v0, "scorpio"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
     const-string v0, "libra"
 
     sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
@@ -367,7 +391,7 @@
     :cond_7
     move v1, v2
 
-    goto :goto_4
+    goto/16 :goto_4
 .end method
 
 .method public constructor <init>()V
@@ -480,6 +504,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
     if-eqz v0, :cond_1
@@ -585,6 +617,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
     if-eqz v0, :cond_1
@@ -614,6 +654,30 @@
     move-result v0
 
     return v0
+.end method
+
+.method public static isHalDoesCafWhenFlashOn()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isHoldBlurBackground()Z
@@ -894,6 +958,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
     if-eqz v0, :cond_1
@@ -931,6 +1003,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
 
     if-nez v0, :cond_0
 
@@ -999,6 +1079,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
 
     if-nez v0, :cond_0
 
@@ -1431,6 +1519,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
 
     if-nez v0, :cond_0
 
