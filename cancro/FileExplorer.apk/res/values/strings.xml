@@ -141,7 +141,7 @@
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
   <string name="encrypt_prefix">HIDDEN</string>
-  <string name="encrypt_success">All files hidden</string>
+  <string name="encrypt_success">Hidden successfully</string>
   <string name="encrypt_success_first_five">"Encrypted and hid file. You can view hidden files by pulling down on Explorer's start page."</string>
   <string name="encrypting">Encrypting…</string>
   <string name="error_filename_too_long">The filename you entered is too long.</string>
