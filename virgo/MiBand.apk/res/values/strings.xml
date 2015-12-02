@@ -123,6 +123,8 @@ The method above can only be used to determine if the weight of a child is norma
   <string name="bind_fail">"Couldn't sync with Google Fit"</string>
   <string name="bind_google_fit">Sync with Google Fit</string>
   <string name="bind_google_fit_tip">Sync fitness data from Mi Band with Google Fit</string>
+  <string name="bind_heartrate">Pair Mi Band Pulse</string>
+  <string name="bind_heartrate_text">Pair Mi Band Pulse to monitor your heart rate</string>
   <string name="bind_mi_band">Pair Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;Mi Band Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="bind_mi_weight">Pair Mi Scale</string>
@@ -132,8 +134,8 @@ The method above can only be used to determine if the weight of a child is norma
   <string name="bind_new_mili">Add new band</string>
   <string name="bind_qq">Add QQ</string>
   <string name="bind_qq_health">Sync with QQ Health</string>
-  <string name="bind_qq_health_tip">"Sync steps and sleep info to qq health platform,
-you need available network."</string>
+  <string name="bind_qq_health_tip">"Sync steps and sleep info with QQ Health,
+the app needs network connection to do that."</string>
   <string name="bind_qq_health_tip_another_qq">Sign in to QQ and check your progress in QQ Health Center.</string>
   <string name="bind_qq_health_tip_init">Sign in to QQ Health.</string>
   <string name="bind_qq_health_title">Add QQ Account</string>
@@ -185,7 +187,7 @@ Address: %2$s"</string>
   <string name="bracelet_login_title">"Let's get started!"</string>
   <string name="bracelet_not_connected_bat_unknown">No band detected</string>
   <string name="bracelet_not_found_info">"Make sure your band's battery is charged and stay closed."</string>
-  <string name="bracelet_not_found_title">Mi band not found</string>
+  <string name="bracelet_not_found_title">Mi Band not found</string>
   <string name="bracelet_notify_text">"Don't forget to wear your band."</string>
   <string name="bracelet_notify_title">Battery charged</string>
   <string name="bracelet_store_desc">Mi Store</string>
@@ -467,33 +469,40 @@ Use Mi Scale to record your infant's weight"</string>
   <string name="host_change_success">切换主机地址成功</string>
   <string name="hot_des">Energy</string>
   <string name="hour_1">" "</string>
+  <string name="hr">Your %s</string>
   <string name="hr_battery_low">Less than 10% battery left in your band</string>
+  <string name="hr_btn">Not working out</string>
+  <string name="hr_detail_description">People who exercise a lot usually have a slower heart rate. Regular exercise and healthy lifestyle improve your heart condition.</string>
+  <string name="hr_detail_description1">Keeping the heart rate at this level helps burn more body fat and avoid damage.</string>
+  <string name="hr_detail_fast">Your heart rate is fast</string>
+  <string name="hr_detail_normal">Your heart rate is normal</string>
+  <string name="hr_detail_slow">Your heart rate is slow</string>
+  <string name="hr_detail_sports">Heart rate is usually faster during workout sessions</string>
+  <string name="hr_detail_title">&lt;b&gt;Normal heart rate: 60-100 bpm&lt;/b&gt;</string>
+  <string name="hr_detail_title1" formatted="false">&lt;b&gt;"Ideal heart rate during workout sessions:
+60%-80% from maximum heart rate (220-age)"&lt;/b&gt;</string>
   <string name="hr_dialog_ble">Keep Mi Band connected to your device via Bluetooth</string>
   <string name="hr_dialog_go">Start</string>
-  <string name="hr_dialog_pace">Connect Mi Band ti view pace</string>
-  <string name="hr_dialog_title">Watch how your heart rate changes during the sesion</string>
+  <string name="hr_dialog_pace">Connect Mi Band to view pace</string>
+  <string name="hr_dialog_title">Watch how your heart rate changes during the session</string>
   <string name="hr_dialog_wear">Fasten your band tightly to increase the accuracy of the data</string>
   <string name="hr_empty_data">--</string>
+  <string name="hr_fast">Heart rate is fast</string>
+  <string name="hr_in">"You're engaged in %s"</string>
   <string name="hr_item_date">MM/dd HH:mm</string>
+  <string name="hr_normal">Heart rate is normal</string>
   <string name="hr_not_wear_bracelet">Put the band on</string>
+  <string name="hr_reminder">Heart rate alert</string>
+  <string name="hr_slow">Heart rate is slow</string>
+  <string name="hr_sports">Physical activity</string>
   <string name="hr_tips1">"Turn on Bluetooth and connect shoes before running.
 Keep Bluetooth on when running."</string>
-  <string name="hr_tips10">Anaerrobic exercise consumes more sugar.</string>
-  <string name="hr_tips11">If you run slower, your body is able to stay in aerobic mode and consume more fat, keeping your heart rate at relatively low level.</string>
-  <string name="hr_tips12">Aerobic exercise consumes more fat.</string>
+  <string name="hr_tips10">Ideal heart rate during workout sessions for different ages</string>
+  <string name="hr_tips12" formatted="false">"Ideal heart rate during workout sessions:
+60%-80% from maximum aerobic heart rate (220-age)"</string>
   <string name="hr_tips2">Connect Mi Band Pulse to measure heart rate.</string>
-  <string name="hr_tips3">"It is recommended to keep the heart rate slightly below your maximum aerobic level when running. Average Huami user is 25 years old, works a lot, and lacks physical activity. Maximum aerobic heart rate in this case would be 180-25-5=150 BPM. Thus, it's better to keep it at 140-150 BPM when running."</string>
-  <string name="hr_tips4">Breathe deeply to avoid possible damage and lose calories effectively.</string>
-  <string name="hr_tips5">"1. Basic heart rate = 180-Age (BPM).
-2. Adjust basic heart rate according to your current situation.
-a) If you've had major diseases lately, subtract 10.
-b) If you've had injuries, didn't feel well or lacked physical activity, subtract 5.
-c) If you've had 4 workout sessions per week for the last 2 years, add 5.
-Note: These instructions are valid for people between 16 and 65 years old."</string>
-  <string name="hr_tips6">Calculate maximum aerobic heart rate</string>
-  <string name="hr_tips7">Maximum aerobic heart rate varies for different people. Keep your actual heart rate slightly below maximum level to increase the effect of the workout and lose more calories.If your heart rate will be above maximum, your body will switch to anaerobic mode, thus consuming more sugar than fat.</string>
-  <string name="hr_tips8">Maximum aerobic heart rate</string>
-  <string name="hr_tips9">If you run faster, your body will switch to anaerobic mode, which requires consuming more sugar rather than fat.</string>
+  <string name="hr_tips3" formatted="false">For example: Jack is 20, his ideal heart rate during workout sessions is 120-160 bpm (60%-80% from 200=220-20).</string>
+  <string name="hr_unit">BPM</string>
   <string name="hr_unit_label">Heart rate (BPM)</string>
   <string name="hug_baby_weight">Weigh infant in arms</string>
   <string name="in"/>
@@ -566,7 +575,7 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_item_group_others">Other</string>
   <string name="lab_factory_item_group_social">SOCIAL</string>
   <string name="lab_factory_item_group_sport">ACTIVITIES</string>
-  <string name="lab_factory_left_time">剩余时间</string>
+  <string name="lab_factory_left_time">Remaining time/sec</string>
   <string name="lab_factory_pace_frequency_test">步频测试</string>
   <string name="lab_factory_restart">重新开始</string>
   <string name="lab_factory_rt_pace_frequency">实时步频</string>
@@ -599,7 +608,7 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_sport_monitor_bracelet_offline">"Band isn't connected"</string>
   <string name="lab_factory_sport_monitor_bracelet_offline_notice">Connect your band before you begin %s.</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Sensor will track %s automatically.</string>
-  <string name="lab_factory_sport_monitor_shoes_offline_notice">Connect your shoes before you begin %s.</string>
+  <string name="lab_factory_sport_monitor_shoes_offline_notice">Connect shoes to start</string>
   <string name="lab_factory_sport_monitor_timeout_notice">No activity detected.</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">"Can't choose more than one"</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Vote for more sports</string>
@@ -640,7 +649,7 @@ firmly on the center of the scale."</string>
   <string name="lab_factory_sport_vote_result_sub_desc">You voted for</string>
   <string name="lab_factory_sport_vote_sub_desc">Coming soon</string>
   <string name="lab_factory_start">开始</string>
-  <string name="lab_factory_time_label">秒倒计时</string>
+  <string name="lab_factory_time_label">Countdown/sec</string>
   <string name="lab_factory_title">Additional features</string>
   <string name="lab_step_test">踏步测试</string>
   <string name="label_accept_add_friend_by_him">Request accepted</string>
@@ -665,8 +674,8 @@ firmly on the center of the scale."</string>
   <string name="label_message">Message</string>
   <string name="label_message_empty">Empty</string>
   <string name="label_message_too_busy">Too many nudges. Try again later.</string>
-  <string name="label_mileage">Mileage (Km)</string>
-  <string name="label_mileage_dynamic">Mileage (%s)</string>
+  <string name="label_mileage">Distance (km)</string>
+  <string name="label_mileage_dynamic">Distance (%s)</string>
   <string name="label_more">More</string>
   <string name="label_my_qrcode">QR code</string>
   <string name="label_no_care_time_by_me">Empty</string>
@@ -682,6 +691,7 @@ firmly on the center of the scale."</string>
   <string name="label_release_to_load">Release to load</string>
   <string name="label_release_to_refresh">Release to refresh</string>
   <string name="label_remark_name">Rename</string>
+  <string name="label_remind">When your heart rate goes above this level, the band will shortly vibrate twice.</string>
   <string name="label_request_add_friend">Send friend request</string>
   <string name="label_runner_group">Running group</string>
   <string name="label_scan_add">Scan QR code</string>
@@ -736,10 +746,11 @@ Fell asleep at %3$s, Woke up at %4$s"</string>
   <string name="male">Male</string>
   <string name="marathon_format_0">" is about %1$s marathons"</string>
   <string name="marathon_format_1">" is over %1$s marathons"</string>
+  <string name="max_hr">Maximum heart rate</string>
   <string name="measure">Measure heart rate</string>
   <string name="measure_fail">"Couldn't measure"</string>
-  <string name="measure_reminder">"Keep your wrist at your chest level
-and the sensor close to your skin"</string>
+  <string name="measure_reminder">&lt;b&gt;"Press the sensor against your skin, don't move"&lt;/b&gt;</string>
+  <string name="measure_reminder_small">Keep your hand at the chest level while measuring</string>
   <string name="measure_tips">Keep band sensor close to your skin</string>
   <string name="measuring">Measuring…</string>
   <string name="median">Median</string>
@@ -790,6 +801,7 @@ Great work!"</string>
   <string name="new_version_available">Newer version available</string>
   <string name="next_step">Next</string>
   <string name="no_bracelet_tips">(only available when Mi Band is paired)</string>
+  <string name="no_heartrate">"I don't have a band"</string>
   <string name="no_measure_data">No results</string>
   <string name="no_measure_tips">"Don't show again"</string>
   <string name="no_need_weight_goal">Remove weight goal?</string>
@@ -905,6 +917,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="restart_bluetooth_tips">Restart Bluetooth now.</string>
   <string name="retry">Retry</string>
   <string name="right_hand">Right hand</string>
+  <string name="run_hr_instruct">(Running assistant#)</string>
   <string name="runed">Ran</string>
   <string name="running_altitude">Altitude</string>
   <string name="running_auto_pause">Paused</string>
@@ -921,6 +934,7 @@ or about 12,000 steps a day for a healthy lifestyle."</string>
   <string name="running_cal_burnt">%d Cal</string>
   <string name="running_cal_desc">Burned</string>
   <string name="running_cal_with_unit">Burned (Cal)</string>
+  <string name="running_cancel">Cancel</string>
   <string name="running_confirm">OK</string>
   <string name="running_contour_track_failed_to_create">"Couldn't share, check if there's enough free storage"</string>
   <string name="running_cost_cal">%.1fCal</string>
@@ -1010,7 +1024,7 @@ Keep Bluetooth on when running."</string>
   <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
   <string name="running_hour_sec" formatted="false">%dh %ds</string>
   <string name="running_hr">Heart rate</string>
-  <string name="running_hr_check">Measure heart rate</string>
+  <string name="running_hr_check">Monitor heart rate</string>
   <string name="running_hr_disabled_tips">Turn on heart rate sensor in Settings</string>
   <string name="running_hr_unit_desc">Heart rate (BPM)</string>
   <string name="running_kg">Cal</string>
@@ -1252,14 +1266,14 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="shoes_bind_alert_msg">"Scan Huami core module's QR code to pair."</string>
   <string name="shoes_bind_alert_title">"Couldn't pair"</string>
   <string name="shoes_bind_change_ok">Replace</string>
-  <string name="shoes_bind_change_text" formatted="false">"You've already paired %s shoes, Pair %s instead?"</string>
-  <string name="shoes_bind_prompt">"Shake Huami core module
-and then put the QR code inside the scan range"</string>
+  <string name="shoes_bind_change_text" formatted="false">"You've already paired %s shoes. Pair %s instead?"</string>
+  <string name="shoes_bind_prompt">"Shake Huami sensor,
+then align the QR code in the frame"</string>
   <string name="shoes_bind_success">Paired</string>
   <string name="shoes_bind_title">Pair shoes</string>
   <string name="shoes_binded">Paired</string>
   <string name="shoes_binding">Pairing…</string>
-  <string name="shoes_brand">LN Rider Smart</string>
+  <string name="shoes_brand">Li-Ning Running Shoes</string>
   <string name="shoes_bt_disable_lable">Bluetooth is off</string>
   <string name="shoes_buy">Buy</string>
   <string name="shoes_calibrate_bind_first">Pair shoes first</string>
@@ -1321,7 +1335,7 @@ with Li-Ning logo facing up"</string>
   <string name="shoes_put_done">Done</string>
   <string name="shoes_recalibrate">Try again</string>
   <string name="shoes_release_binding">Unpair</string>
-  <string name="shoes_reminder">Forefoot data can only be recorded while shoes connected.</string>
+  <string name="shoes_reminder">Connect shoes to get accurate running data</string>
   <string name="shoes_scanf_alert_msg">Scan the QR code placed on Huami core module</string>
   <string name="shoes_scanf_alert_title">QR code invalid</string>
   <string name="shoes_select_shoes">Select shoes</string>
@@ -1359,6 +1373,7 @@ with Li-Ning logo facing up"</string>
   <string name="sport_ranking_desc_poor">%s: Most users placed ahead of you.</string>
   <string name="sport_running_helper">Route tracker</string>
   <string name="sport_running_helper_test">跑步助手测试</string>
+  <string name="sport_setting">Workout settings</string>
   <string name="sport_share">Share now</string>
   <string name="standard_figure">"Average
 "</string>
@@ -1410,7 +1425,7 @@ with Li-Ning logo facing up"</string>
   <string name="state_open">On</string>
   <string name="state_unbind_success">Removed QQ Account</string>
   <string name="state_unbinded">Signed out</string>
-  <string name="statistic">States</string>
+  <string name="statistic">Stats</string>
   <string name="statistic_day_average">Daily avg.</string>
   <string name="statistic_detail">Details</string>
   <string name="statistic_total">Total</string>
