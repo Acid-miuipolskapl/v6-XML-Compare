@@ -327,6 +327,7 @@ only in frame mode"</string>
   <string name="efuse_get_error">get efuse state error!</string>
   <string name="efuse_text">efuse state</string>
   <string name="empty_list">Channel list is empty.</string>
+  <string name="entry_qc2">退出抽检1，进入抽检2</string>
   <string name="error">Error</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Unsupported format</string>
@@ -444,6 +445,7 @@ the selected?"</string>
   <string name="longitude">Longitude :</string>
   <string name="magnetic">Magnetic</string>
   <string name="magnetic_calibration_hint">Need calibration, Please rotate the device like 8 shape to calibrate</string>
+  <string name="magnetic_chip_loss_hint">Chip self-test data:</string>
   <string name="magnetic_info_finish">Finished</string>
   <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
   <string name="magnetic_test">Magnetic sensor</string>
@@ -650,7 +652,8 @@ mod:0-15"</string>
   <string name="serial_no">Serial No</string>
   <string name="shake_phone">If the result is error below, please shake the phone</string>
   <string name="short_vib">Short Vibration</string>
-  <string name="sim_status_test">SIM Test</string>
+  <string name="sim_out_status_test">SIM Plug Out Test</string>
+  <string name="sim_status_test">SIM Plug In Test</string>
   <string name="sine_mod_info">sine</string>
   <string name="sleeptest">Sleep test</string>
   <string name="sn">[ S/N]:</string>

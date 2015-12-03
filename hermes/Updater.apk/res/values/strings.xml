@@ -28,8 +28,14 @@
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading update?</string>
   <string name="cancel_download_buton_text">Cancel</string>
+  <string name="check_local_package_update_btn">Reboot and update</string>
+  <string name="check_local_package_update_msg">"You're going to update to MIUI version %s. The phone will reboot automatically during the update."</string>
+  <string name="check_local_package_update_title">Update</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
+  <string name="check_local_package_wipe_btn">Erase and update</string>
+  <string name="check_local_package_wipe_msg">"You're going to switch to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure you back up all important items before you start the process."</string>
+  <string name="check_local_package_wipe_title">Erase data</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
@@ -42,6 +48,9 @@
   <string name="comment_upload_hint">Thank you for your feedback!</string>
   <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
   <string name="comment_upload_success">Sent</string>
+  <string name="confirm_local_package_wipe_btn">Erase and update</string>
+  <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure you back up all important items before you start the process.</string>
+  <string name="confirm_local_package_wipe_title">Erase data?</string>
   <string name="daily_build">Nightly</string>
   <string name="download_again">Try again</string>
   <string name="download_cancel">Cancel</string>
