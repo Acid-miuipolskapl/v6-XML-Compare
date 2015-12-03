@@ -1152,6 +1152,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop">Force stop</string>
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
+  <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your pad will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
@@ -2198,6 +2199,7 @@ Select your operating system:"</string>
  You will not lose any app data."</string>
   <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="reset_legacy_password_settings_preface_text">You need to reset your lock screen password.</string>
+  <string name="resolver_settings_label">Sort</string>
   <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
   <string name="restore">Restore</string>
   <string name="restore_backup">Restore</string>
@@ -2774,9 +2776,20 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_detail_category_sysdata">System data</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Device disconnected</string>
+  <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
   <string name="trans_one_key_migrate">Transfer</string>
+  <string name="trans_operate_new_phone_tips">"Scan QR code using new device
+Go to Settings &gt; Additional Settings &gt; Transfer
+ Tap [I'm a recipient] to create a QR code"</string>
+  <string name="trans_operate_old_phone_tips1">"Method A
+1. Install the Transfer app on your old device
+2. Open the app and select [I'm a sender]
+3. Scan the QR code with your old device"</string>
+  <string name="trans_operate_old_phone_tips2">"Method B
+Go to Settings &gt; Additional Settings &gt; Transfer
+ Tap [I'm a sender]"</string>
   <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
@@ -2788,6 +2801,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_receiving_completed">Data received</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_scan_invalid_qrcode">QR code invalid</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
   <string name="trans_select_device_send">Select one device to transfer data.</string>
   <string name="trans_sender">"I'm a sender"</string>
@@ -2796,6 +2811,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
   <string name="trans_sending_completed">Data sent</string>
+  <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
   <string name="trans_time_format_second">less than one minute</string>
   <string name="trans_time_remained">, ready in</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
