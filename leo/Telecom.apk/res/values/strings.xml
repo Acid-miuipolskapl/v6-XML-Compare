@@ -5,6 +5,8 @@
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
   <string name="add_vm_number_str">Add number</string>
   <string name="default_connection_manager_component"/>
+  <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
+  <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
   <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="handle_restricted">RESTRICTED</string>
   <string name="headset_plugin_view_text">Headset is plugged in.</string>
@@ -45,6 +47,7 @@
   <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unknown">Unknown</string>
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
+  <string name="voice_dial_out">Voice call</string>
   <string name="voice_report_incoming_call">Calling</string>
   <string name="voice_report_unknown_num">Unknown number</string>
 </resources>

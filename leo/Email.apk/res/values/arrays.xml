@@ -131,6 +131,10 @@
         <item>Reply all</item>
         <item>Forward</item>
     </string-array>
+    <string-array name="contact_edit_set_black_list_array">
+        <item>@string/contact_edit_set_black_list_from</item>
+        <item>@string/contact_edit_set_black_list_receive</item>
+    </string-array>
     <string-array name="default_quick_responses">
         <item>@string/quick_1</item>
         <item>@string/quick_2</item>
@@ -146,8 +150,11 @@
     </string-array>
     <string-array name="folder_junk_name_array">
         <item>@string/folder_junk_name_en1</item>
+        <item>@string/folder_junk_name_en2</item>
+        <item>@string/folder_junk_name_en3</item>
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
+        <item>@string/folder_junk_name_cn2</item>
     </string-array>
     <string-array name="folder_sent_name_array">
         <item>@string/folder_sent_name_en1</item>

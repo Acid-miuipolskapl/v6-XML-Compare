@@ -56,10 +56,19 @@
   <string name="card_title_in_call">In call</string>
   <string name="card_title_in_call_short">In call</string>
   <string name="card_title_incoming_call">Incoming call</string>
+  <string name="card_title_incoming_conference_call">Incoming conference call</string>
   <string name="card_title_on_hold">"On hold "</string>
   <string name="card_title_threeway_call">Three-way call</string>
+  <string name="card_title_upgrade_video_call_error">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">"Couldn't update video"</string>
+  <string name="card_title_upgrade_video_call_requesting">Requesting video</string>
+  <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
+  <string name="card_title_video_call">Video call</string>
+  <string name="card_title_video_call_paused">Video paused</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s people</string>
+  <string name="conference_caller_info_name">"%1$s's conference call"</string>
+  <string name="conference_caller_name_me">Me</string>
   <string name="contactPhoto">contact photo</string>
   <string name="contacts_icon_label">Contacts</string>
   <string name="description_image_button_answer">Swipe up to answer</string>
@@ -95,6 +104,7 @@
   <string name="incall_error_supp_service_switch">Unable to switch calls.</string>
   <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
+  <string name="incoming_answer_voice_text">Voice answer</string>
   <string name="incoming_call_forwarded_title">Forward incoming calls</string>
   <string name="ivr_menu_dialing_msg">Forwarding…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
@@ -130,6 +140,7 @@
   <string name="notification_action_end_call">Hang up</string>
   <string name="notification_dialing">Dialing</string>
   <string name="notification_incoming_call">Incoming call</string>
+  <string name="notification_incoming_video_call">Incoming video call</string>
   <string name="notification_on_hold">On hold</string>
   <string name="notification_ongoing_call">Ongoing call</string>
   <string name="notification_requesting_video_call">Incoming video request</string>
@@ -147,14 +158,20 @@
   <string name="onscreen_audio_mode_speaker">Speaker</string>
   <string name="onscreen_audio_switch_mode">Switch audio</string>
   <string name="onscreen_call_record">Record</string>
+  <string name="onscreen_change_to_video">Video call</string>
+  <string name="onscreen_change_to_voice">Voice call</string>
+  <string name="onscreen_close_preview_camera">Close camera</string>
   <string name="onscreen_hold_text">Hold</string>
   <string name="onscreen_merge_calls_text">Merge calls</string>
   <string name="onscreen_mute_text">Mute</string>
+  <string name="onscreen_rcs_text">Messages</string>
   <string name="onscreen_swap_calls_text">Swap</string>
+  <string name="onscreen_switch_camera">Switch camera</string>
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Yes</string>
   <string name="payphone">Payphone</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
@@ -162,8 +179,8 @@
   <string name="suspect_info">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
   <string name="unknown">Unknown</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
-  <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
-  <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Turn off TTY mode first</string>
+  <string name="video_switch_to_voice_call_prompt">Switch to voice call</string>
   <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>

@@ -98,8 +98,10 @@
   <string name="callrecordview_item_op_time_rejected">Rejected</string>
   <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
+  <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Delete batch</string>
+  <string name="callrecordview_menu_conference">Call conference</string>
   <string name="callrecordview_menu_delete">Delete call history</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
   <string name="callrecordview_menu_delete_all">Delete call history</string>
@@ -664,6 +666,11 @@ Reason: \"%s\""</string>
   <string name="missing_name">(No name)</string>
   <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
+  <string name="multi_number_menu_call">Call</string>
+  <string name="multi_number_menu_delete">Delete</string>
+  <string name="multi_number_menu_group">New Group</string>
+  <string name="multi_number_menu_message">Message</string>
+  <string name="multi_number_title">Call conference</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
   <string name="my_in_call_show">My video</string>
@@ -941,6 +948,7 @@ To add a contact to your list of favorites:
   <string name="search_settings_description">Names of your contacts</string>
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
   <string name="select_all">Select all</string>
+  <string name="select_done">No more to select</string>
   <string name="select_groups">Select groups</string>
   <string name="select_none">Nothing selected</string>
   <string name="select_show_contacts">Contact list</string>
@@ -1085,6 +1093,7 @@ Choose one of the following options:"</string>
   <string name="vcard_import_will_start_message">%s will be imported shortly.</string>
   <string name="vcard_import_will_start_message_with_default_name">The file will be imported shortly.</string>
   <string name="vcard_unknown_filename">contact</string>
+  <string name="video_call">Video call</string>
   <string name="video_chat">Video chat</string>
   <string name="viewContactDesription">View contact</string>
   <string name="viewContactTitle">Contact details</string>
