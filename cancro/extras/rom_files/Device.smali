@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static final IS_A1:Z
+.field public static final IS_A1:Z
 
 .field public static final IS_A10:Z
 
@@ -394,15 +394,6 @@
     goto/16 :goto_4
 .end method
 
-.method public constructor <init>()V
-    .locals 0
-
-    .prologue
-    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
-
-    return-void
-.end method
-
 .method public static adjustScreenLight()Z
     .locals 2
 
@@ -656,30 +647,6 @@
     return v0
 .end method
 
-.method public static isHalDoesCafWhenFlashOn()Z
-    .locals 1
-
-    .prologue
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
-
-    if-nez v0, :cond_0
-
-    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
-
-    if-eqz v0, :cond_1
-
-    :cond_0
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_1
-    const/4 v0, 0x0
-
-    goto :goto_0
-.end method
-
 .method public static isHoldBlurBackground()Z
     .locals 2
 
@@ -919,6 +886,30 @@
     goto :goto_0
 .end method
 
+.method public static isSupportedAgeWaterMark()Z
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedAoHDR()Z
     .locals 2
 
@@ -1055,7 +1046,7 @@
 .end method
 
 .method public static isSupportedAsdNight()Z
-    .locals 1
+    .locals 2
 
     .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI5:Z
@@ -1092,7 +1083,17 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Z:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
+
     if-eqz v0, :cond_1
+
+    const/16 v0, 0x15
+
+    sget v1, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    if-gt v0, v1, :cond_1
 
     :cond_0
     const/4 v0, 0x1

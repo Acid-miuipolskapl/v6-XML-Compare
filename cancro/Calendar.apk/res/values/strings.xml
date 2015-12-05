@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_add_reminder">Add reminder</string>
   <string name="accessibility_all_day">All day event</string>
@@ -23,6 +24,7 @@
   <string name="acessibility_cal_notification">Calendar notification</string>
   <string name="acessibility_selected_marker_description">Selected event</string>
   <string name="acessibility_snooze_notification">Snooze notification</string>
+  <string name="action_label">Return</string>
   <string name="action_text_new_event">New event</string>
   <string name="action_text_online">订阅</string>
   <string name="action_text_today">Today</string>
@@ -107,7 +109,7 @@
   <string name="dismiss_all_label">Dismiss all</string>
   <string name="do_not_check">Do NOT check -&gt;</string>
   <string name="does_not_repeat">One-time event</string>
-  <string name="done">Return</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -197,7 +199,7 @@
   <string name="monthly">Monthly</string>
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">简介</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
