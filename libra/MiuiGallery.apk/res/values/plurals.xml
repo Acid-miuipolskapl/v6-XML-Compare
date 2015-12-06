@@ -5,35 +5,35 @@
         <item quantity="one">Delete this album (%s total)?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>"Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from device's internal storage and from Mi Cloud?"&lt;/Data></item>
+        <item quantity="other">&lt;Data>"Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> items from device's internal storage and from Mi Cloud?"&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>"Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from device's internal storage and from Mi Cloud?"&lt;/Data></item>
+        <item quantity="other">&lt;Data>"Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> photos from device's internal storage and from Mi Cloud?"&lt;/Data></item>
         <item quantity="one">&lt;Data>"Delete this photo from device's internal storage and from Mi Cloud?"&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>"Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from device's internal storage and from Mi Cloud?"&lt;/Data></item>
+        <item quantity="other">&lt;Data>"Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos from device's internal storage and from Mi Cloud?"&lt;/Data></item>
         <item quantity="one">&lt;Data>"Delete this video from device's internal storage and from Mi Cloud?"&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> items from Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> photos from Mi Cloud?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this photo from Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from Mi Cloud?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos from Mi Cloud?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this video from Mi Cloud?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> items from this album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> items from this album?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Delete %s items?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> photos from this album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> photos from this album?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this photo from this album?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
@@ -41,19 +41,19 @@
         <item quantity="one">Delete this photo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> videos from this album?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> video from this album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> videos from this album?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &lt;xliff:g id=ITEM>%s&lt;/xliff:g> video from this album?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Delete %s videos?</item>
         <item quantity="one">Delete this video?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d videos&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this video from %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Delete &amp;lt;xliff:g id=ITEM>%1$d photos&amp;lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d photos&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
         <item quantity="one">&lt;Data>Delete this photo from %2$d albums?&lt;/Data></item>
     </plurals>
     <plurals name="number_of_items_selected">
