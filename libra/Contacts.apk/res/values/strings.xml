@@ -101,7 +101,7 @@
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
   <string name="callrecordview_menu_batch_delete">Delete batch</string>
-  <string name="callrecordview_menu_conference">Conference call</string>
+  <string name="callrecordview_menu_conference">Call conference</string>
   <string name="callrecordview_menu_delete">Delete call history</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
   <string name="callrecordview_menu_delete_all">Delete call history</string>
@@ -670,7 +670,7 @@ Reason: \"%s\""</string>
   <string name="multi_number_menu_delete">Delete</string>
   <string name="multi_number_menu_group">New Group</string>
   <string name="multi_number_menu_message">Message</string>
-  <string name="multi_number_title">Conference call</string>
+  <string name="multi_number_title">Call conference</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
   <string name="my_in_call_show">My video</string>

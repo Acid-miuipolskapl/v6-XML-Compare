@@ -84,7 +84,7 @@
   <string name="deepclean_list_item_from_dcim_thumbnails">Thumbails</string>
   <string name="deepclean_list_item_from_download">Download</string>
   <string name="deepclean_list_item_from_gallery">Gallery</string>
-  <string name="deepclean_list_item_from_sdcard">SD card</string>
+  <string name="deepclean_list_item_from_sdcard">Sdcard</string>
   <string name="deepclean_similar_ignore">Ignore</string>
   <string name="deepclean_title_large_file">Delete big files</string>
   <string name="deepclean_title_uninstall_apps">Rarely used apps</string>

@@ -458,10 +458,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tips_dialog_title">"Don't know your limit"</string>
   <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
-  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
-  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
-  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
 
 Will you take this?"</string>
@@ -475,8 +471,9 @@ Your plan's monthly off-peak data usage limit is %1$s. This is different from th
 Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-peak data usage limit."</string>
   <string name="traffic_config_alert_body_normal">"
 Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
-  <string name="traffic_config_alert_package">"
-Rolled over extra data"</string>
+  <string name="traffic_config_alert_cancel">Cancel</string>
+  <string name="traffic_config_alert_nomore">"Don't show again"</string>
+  <string name="traffic_config_alert_ok">OK</string>
   <string name="traffic_config_alert_setted">Settings applied</string>
   <string name="traffic_config_alert_title">%s Correction</string>
   <string name="traffic_correction_failed">"Can't get info"</string>
@@ -484,10 +481,9 @@ Rolled over extra data"</string>
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_correction_success_notify_message">Tap to view details.</string>
-  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
-  <string name="traffic_limit_error_alert_package">"
-
-Remaining data includes data that has been rolled over from the previous month."</string>
+  <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
+  <string name="traffic_limit_error_alert_iknow">OK</string>
+  <string name="traffic_limit_error_alert_reset">Reset limit</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
   <string name="traffic_over_purchase_body">Touch to view details.</string>
