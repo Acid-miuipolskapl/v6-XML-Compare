@@ -31,18 +31,19 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="click_to_enabled">Touch to sync.</string>
   <string name="cloud_back_up_button_ok">Force stop</string>
   <string name="cloud_back_up_close_info">Tap to back up.</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Stop back up in progress? If you stop now, you won't be able to use this backup to restore apps."</string>
-  <string name="cloud_back_up_interval_long">7 days</string>
-  <string name="cloud_back_up_interval_short">1 day</string>
   <string name="cloud_back_up_network_unavailable">"Couldn't remove. Connect to WLAN and try again."</string>
   <string name="cloud_back_up_open_info">"Back up when connected to WLAN once every %1$s
 Last backed up on %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Back up when connected to WLAN once every %1$s</string>
   <string name="cloud_back_up_remove_success">Backup deleted</string>
-  <string name="cloud_back_up_title">Back up apps</string>
+  <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
+  <string name="cloud_back_up_title">Back up device</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
+  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
+  <string name="cloud_restore_title">Restore from backup</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Couldn't get storage info"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
@@ -103,8 +104,10 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">About RMB 143 per year</string>
+  <string name="header_cloud_backup_settings">Back up and restore</string>
+  <string name="header_cloud_restore_summary">Reinstall apps and restore Home screen layout and system settings from a backup in Mi Cloud</string>
   <string name="header_data_and_synchronization">Data &amp; sync</string>
-  <string name="header_other_settings">Additional settings</string>
+  <string name="header_find_device_settings">Find device</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Enter password</string>
   <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
