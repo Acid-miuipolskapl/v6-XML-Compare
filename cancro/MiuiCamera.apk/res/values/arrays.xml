@@ -16,6 +16,18 @@
         <item>@string/pref_video_quality_default</item>
         <item>@string/pref_mtk_video_quality_default</item>
     </string-array>
+    <array name="video_quality_largeicons">
+        <item>@drawable/bg_indicator_quality_4kuhd</item>
+        <item>@drawable/bg_indicator_quality_1080p</item>
+        <item>@drawable/bg_indicator_quality_720p</item>
+        <item>@drawable/bg_indicator_quality_480p</item>
+    </array>
+    <array name="video_quality_icons">
+        <item>@drawable/bg_quality_4kuhd</item>
+        <item>@drawable/bg_quality_1080p</item>
+        <item>@drawable/bg_quality_720p</item>
+        <item>@drawable/bg_quality_480p</item>
+    </array>
     <string-array name="pref_video_time_lapse_frame_interval_entries">
         <item>@string/pref_video_time_lapse_frame_interval_entry_2</item>
         <item>@string/pref_video_time_lapse_frame_interval_entry_4</item>
@@ -116,6 +128,16 @@
         <item>@string/pref_camera_jpegquality_value_normal</item>
         <item>@string/pref_camera_jpegquality_value_low</item>
     </string-array>
+    <string-array name="pref_camera_snap_entries">
+        <item>@string/pref_camera_snap_entry_take_picture</item>
+        <item>@string/pref_camera_snap_entry_take_movie</item>
+        <item>@string/pref_camera_snap_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_snap_entryvalues">
+        <item>@string/pref_camera_snap_value_take_picture</item>
+        <item>@string/pref_camera_snap_value_take_movie</item>
+        <item>@string/pref_camera_snap_value_off</item>
+    </string-array>
     <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
         <item>@string/pref_camera_focusmode_entry_macro</item>
@@ -126,6 +148,11 @@
         <item>macro</item>
         <item>manual</item>
     </string-array>
+    <array name="camera_focusmode_icons">
+        <item>@drawable/bg_focus_mode_auto</item>
+        <item>@drawable/bg_focus_mode_macro</item>
+        <item>@drawable/bg_focus_mode_manual</item>
+    </array>
     <string-array name="pref_camera_focusmode_default_array">
         <item>continuous-picture</item>
     </string-array>
@@ -449,6 +476,18 @@
         <item>@string/pref_camera_hfr_value_2x</item>
         <item>@string/pref_camera_hfr_value_3x</item>
     </string-array>
+    <string-array name="pref_video_speed_entries">
+        <item>@string/pref_video_speed_entry_normal</item>
+        <item>@string/pref_video_speed_entry_slow</item>
+    </string-array>
+    <string-array name="pref_video_speed_entryvalues">
+        <item>@string/pref_video_speed_value_normal</item>
+        <item>@string/pref_video_speed_value_slow</item>
+    </string-array>
+    <array name="pref_video_speed_largeicons">
+        <item>@drawable/bg_video_speed_normal</item>
+        <item>@drawable/bg_video_speed_slow</item>
+    </array>
     <string-array name="pref_camera_histogram_entryvalues">
         <item>@string/pref_camera_histogram_value_enable</item>
         <item>@string/pref_camera_histogram_value_disable</item>
@@ -515,6 +554,14 @@
         <item>@string/pref_camera_zsl_value_on</item>
         <item>@string/pref_camera_zsl_value_off</item>
     </string-array>
+    <array name="camera_coloreffect_largeIcons">
+        <item>@drawable/ic_camera_coloreffect_none</item>
+        <item>@drawable/ic_camera_coloreffect_mono</item>
+        <item>@drawable/ic_camera_coloreffect_sepia</item>
+        <item>@drawable/ic_camera_coloreffect_negative</item>
+        <item>@drawable/ic_camera_coloreffect_posterize</item>
+        <item>@drawable/ic_camera_coloreffect_aqua</item>
+    </array>
     <string-array name="pref_camera_exposuretime_entries">
         <item>@string/pref_camera_exposuretime_entry_auto</item>
         <item>@string/pref_camera_exposuretime_entry_1000</item>
