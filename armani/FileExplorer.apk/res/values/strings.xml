@@ -230,6 +230,9 @@ Our server is down at the moment. Please try again later…
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
   <string name="make_private">Hide</string>
+  <string name="make_private_msg_1">Hide this file?</string>
+  <string name="make_private_msg_2">Hide these files?</string>
+  <string name="make_private_msg_3">All files in this folder will be hidden.</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Clean up</string>
   <string name="menu_item_ftp">FTP</string>
