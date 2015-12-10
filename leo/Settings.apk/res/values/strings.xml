@@ -2020,7 +2020,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_normal_title">NORMAL</string>
   <string name="page_layout_page2_small_summary">SMALL</string>
   <string name="page_layout_page2_small_title">SMALL</string>
-  <string name="page_layout_page2_title">列表预览图</string>
+  <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">SMALL</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
   <string name="password_entrance_title">Password</string>
