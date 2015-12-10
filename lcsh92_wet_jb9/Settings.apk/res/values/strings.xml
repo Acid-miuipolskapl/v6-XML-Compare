@@ -591,6 +591,10 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
+  <string name="cloud_backup_section_title">Mi Cloud backup</string>
+  <string name="cloud_backup_settings_section_title">Backup settings</string>
+  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
+  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
@@ -1066,6 +1070,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_user_agreement_allow">Allow</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -2272,7 +2277,7 @@ Possibly incorrect PIN."</string>
   <string name="sms_received_sound_title">Message received</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; vibrate</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>

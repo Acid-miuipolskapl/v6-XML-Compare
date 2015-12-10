@@ -254,14 +254,14 @@
   <string name="trans_one_key_migrate">Transfer</string>
   <string name="trans_operate_new_phone_tips">"Scan QR code using new device
 Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a recipient] to create a QR code"</string>
+Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_operate_old_phone_tips1">"Method A
 1. Install the Transfer app on your old device
 2. Open the app and select [I'm a sender]
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Method B
 Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a sender]"</string>
+Tap [I'm a sender]"</string>
   <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
