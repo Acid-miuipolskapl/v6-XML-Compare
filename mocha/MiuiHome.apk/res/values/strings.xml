@@ -24,6 +24,7 @@
   <string name="apply_action">Apply</string>
   <string name="apply_as_lock_screen">Lock screen</string>
   <string name="apply_as_lock_wallpaper_message">Apply wallpaper to lock screen too?</string>
+  <string name="apply_as_lockwallpaper_action">Lock screen</string>
   <string name="apply_as_wallpaper">Home screen</string>
   <string name="apply_both">Set both</string>
   <string name="apply_negative_action">"Don't apply"</string>

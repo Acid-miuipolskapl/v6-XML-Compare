@@ -648,12 +648,16 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
   <string name="cloud_backup_hint">To access your backups, sign in now</string>
   <string name="cloud_backup_login">Sign in to your Mi Account</string>
+  <string name="cloud_backup_section_title">Mi Cloud backup</string>
+  <string name="cloud_backup_settings_section_title">Backup settings</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"Last backed up on "</string>
   <string name="cloud_no_backup">No backups</string>
   <string name="cloud_restore_guide">To restore user data for %s, touch Restore</string>
+  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
+  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
   <string name="cloud_restore_title">Restore backup data</string>
   <string name="cloud_restore_window_title">Mi Cloud restore</string>
   <string name="cloud_search">Searching…</string>
@@ -1176,6 +1180,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_user_agreement_allow">Allow</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -2534,7 +2539,7 @@ Possibly incorrect PIN."</string>
   <string name="software_backup_info">App data</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; vibrate</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>
@@ -2782,14 +2787,14 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_one_key_migrate">Transfer</string>
   <string name="trans_operate_new_phone_tips">"Scan QR code using new device
 Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a recipient] to create a QR code"</string>
+Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_operate_old_phone_tips1">"Method A
 1. Install the Transfer app on your old device
 2. Open the app and select [I'm a sender]
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Method B
 Go to Settings &gt; Additional Settings &gt; Transfer
- Tap [I'm a sender]"</string>
+Tap [I'm a sender]"</string>
   <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
