@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
+  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Front and rear camera switch</string>
+  <string name="accessibility_countdown">Count Down button</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
-  <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
+  <string name="accessibility_peak">Focus Peak button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Additional settings button</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Turn off Audio Focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
