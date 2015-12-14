@@ -668,7 +668,7 @@ Reason: \"%s\""</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
   <string name="multi_number_menu_delete">Delete</string>
-  <string name="multi_number_menu_group">New Group</string>
+  <string name="multi_number_menu_group">New group</string>
   <string name="multi_number_menu_message">Message</string>
   <string name="multi_number_title">Conference call</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
