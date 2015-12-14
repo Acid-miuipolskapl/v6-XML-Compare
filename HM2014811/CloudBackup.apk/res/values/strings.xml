@@ -39,7 +39,7 @@
 Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Backup schedule</string>
   <string name="cloud_back_up_frequence_long">Every 7 days</string>
-  <string name="cloud_back_up_frequence_short">Everyday</string>
+  <string name="cloud_back_up_frequence_short">Every day</string>
   <string name="cloud_back_up_interval_long">7 days</string>
   <string name="cloud_back_up_interval_short">Every day</string>
   <string name="cloud_back_up_no_network_warn">"Can't connect to the network"</string>
@@ -50,12 +50,12 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Backing up…</string>
   <string name="cloud_backup_detail_frequence">Backup schedule</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Back up one time</string>
-  <string name="cloud_backup_detail_manage">Manage back up</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Back up, occupy size:%2$s</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s Back up once</string>
+  <string name="cloud_backup_detail_manage">Manage backups</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Backups, size:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
-  <string name="cloud_backup_detail_time">, Back up time:%1$s</string>
+  <string name="cloud_backup_detail_time">, back up time:%1$s</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>

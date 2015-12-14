@@ -1400,6 +1400,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
+  <string name="login_account_dialog_title">Sign in with Mi Account</string>
+  <string name="login_action">Sign in</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1556,6 +1559,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>

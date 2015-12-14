@@ -496,6 +496,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_name">Top-up package</string>
   <string name="livetalk_network_confirm">OK</string>
   <string name="livetalk_network_confirm_summary">Top-up package uses about 1KB of mobile data each time a call is connected.</string>
+  <string name="livetalk_network_unavailable">Network unavailable</string>
   <string name="livetalk_next_step">Next</string>
   <string name="livetalk_nsufficient_balance">Insufficient balance</string>
   <string name="livetalk_package_introduction_text">"Cheap calls to any phone
