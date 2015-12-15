@@ -29,7 +29,7 @@
   <string name="cloud_app_restore_success">Apps restored</string>
   <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Back up the data will be backed up to your Mi Cloud when your device is connected to WLAN: 
+  <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to WLAN: 
 *\u0009\u0009\u0009\u0009Apps and Home screen layout 
 *\u0009\u0009\u0009\u0009Ringtones, wallpapers, and fonts 
 *\u0009\u0009\u0009\u0009Alarm clock and time settings 

@@ -138,6 +138,7 @@
   <string name="download_start_message">Download and install %1$s?</string>
   <string name="download_task_with">%d tasks</string>
   <string name="download_url_waiting">Getting URL info…</string>
+  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
   <string name="download_with">Downloading %1$s/%2$s</string>
   <string name="downloading_app_plugin">Downloading %1$s…</string>
   <string name="edit">Edit</string>
