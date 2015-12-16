@@ -30,11 +30,9 @@
   <string name="cloud_app_restore_wifi_prompt">To restore from a Mi Cloud backup, you must connect to a WLAN network.</string>
   <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
   <string name="cloud_back_up_detail_discription">"These items will be backed up to Mi Cloud when your device is connected to WLAN: 
-*\u0009\u0009\u0009\u0009Apps and Home screen layout 
-*\u0009\u0009\u0009\u0009Ringtones, wallpapers, and fonts 
-*\u0009\u0009\u0009\u0009Alarm clock and time settings 
+*\u0009\u0009\u0009\u0009Apps, Home screen layout, and wallpapers 
+*\u0009\u0009\u0009\u0009Alarm, clock, and time settings 
 *\u0009\u0009\u0009\u0009Notification settings 
-*\u0009\u0009\u0009\u0009Do not disturb mode settings 
 *\u0009\u0009\u0009\u0009MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Backup schedule</string>
@@ -50,9 +48,9 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_back_up_share_activity_title">Upgrade Mi Account</string>
   <string name="cloud_back_up_task">Backing up…</string>
   <string name="cloud_backup_detail_frequence">Backup schedule</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Back up once</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s back up once</string>
   <string name="cloud_backup_detail_manage">Manage backups</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Backups, size:%2$s</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s backups, size:%2$s</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
   <string name="cloud_backup_detail_time">, back up time:%1$s</string>
