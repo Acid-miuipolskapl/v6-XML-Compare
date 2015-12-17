@@ -138,6 +138,7 @@
   <string name="download_start_message">Download and install %1$s?</string>
   <string name="download_task_with">%d tasks</string>
   <string name="download_url_waiting">Getting URL info…</string>
+  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
   <string name="download_with">Downloading %1$s/%2$s</string>
   <string name="downloading_app_plugin">Downloading %1$s…</string>
   <string name="edit">Edit</string>
@@ -308,6 +309,8 @@
   <string name="search">Search</string>
   <string name="search_hint">Search online video</string>
   <string name="search_result_empty_text">"Didn't find anything"</string>
+  <string name="search_snack_more">More Information</string>
+  <string name="search_snack_sniff">Sniffing Download</string>
   <string name="second"> Second</string>
   <string name="see_all_count_comment">%d more comments</string>
   <string name="select_all">Select all</string>

@@ -262,8 +262,8 @@ To activate your account, follow the
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and Mi Store, from anywhere.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud will be turned on automatically.</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Internet connection is required to sign in to your Mi Account. Location access and Mi Cloud will be turned on automatically.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Internet connection is required to sign in to your Mi Account. Location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="phone_activated">%s activated</string>
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="phone_unactivated">Not activated</string>

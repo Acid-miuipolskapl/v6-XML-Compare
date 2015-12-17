@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="rank_up_by">
+        <item quantity="other">Gone up %d positions since yesterday</item>
+        <item quantity="one">Gone up %d position since yesterday</item>
+    </plurals>
+    <plurals name="rank_down_by">
+        <item quantity="other">Gone down %d positions since yesterday</item>
+        <item quantity="one">Gone down %d position since yesterday</item>
+    </plurals>
+</resources>
