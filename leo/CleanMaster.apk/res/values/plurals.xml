@@ -54,7 +54,7 @@
         <item quantity="one">%d app installed, you can delete this one</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">Found %d big files, you can delete the unimporntant ones</item>
+        <item quantity="other">Found %d big files, you can delete the unimportant ones</item>
         <item quantity="one">Found %d big file, you can delete this one</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
