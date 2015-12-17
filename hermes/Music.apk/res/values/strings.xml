@@ -76,6 +76,8 @@
   <string name="close_music_time">"Time remaining: "</string>
   <string name="cloud_enable">Sync music with Mi Cloud</string>
   <string name="cloud_settings">Sync settings</string>
+  <string name="cloud_space_full">No storage space left</string>
+  <string name="cloud_space_full_message">Not enough room in your Mi Cloud to add more songs. To get more space, upgrade your Mi Account.</string>
   <string name="confirm_download">Download</string>
   <string name="confirm_to_renew">Renew</string>
   <string name="cp_info_first">Streaming service is provided by Ultimate Inc.</string>
@@ -109,6 +111,7 @@
   <string name="disable_auto_payment_success">Turned off</string>
   <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
   <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
+  <string name="do_not_remind_again">"Don't show again"</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
   <string name="download_all_song">Download all</string>
@@ -329,6 +332,7 @@
   <string name="no_song_downloaded">"Couldn't connect to server"</string>
   <string name="normal_quality">Good</string>
   <string name="not_login">Not signed in</string>
+  <string name="not_now">Not now</string>
   <string name="not_selected">Choose a song</string>
   <string name="nowplaying_menu_item_delete">Delete</string>
   <string name="ok">OK</string>
@@ -486,6 +490,7 @@
   <string name="upgrade">Upgrade:</string>
   <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_immediate">Update now</string>
+  <string name="upgrade_membership">Get more space</string>
   <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
   <string name="upgrade_remind">Update available</string>
   <string name="upgrade_services">Updates</string>

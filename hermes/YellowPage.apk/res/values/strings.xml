@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_fraud_num_online_identification">About Phishing Number Identification Online</string>
-  <string name="about_phone_event">About Service Messages</string>
-  <string name="about_smart_antispam_summary">About Intelligent Number Identification</string>
+  <string name="about_fraud_num_online_identification">About Online phishing identification</string>
+  <string name="about_phone_event">About service messages</string>
+  <string name="about_smart_antispam_summary">About Unknown number identification</string>
   <string name="about_telephone_fraud">Watch out for fraud</string>
   <string name="account_address">Addresses</string>
   <string name="account_order">Order history</string>
@@ -16,7 +16,7 @@
   <string name="account_yellowpage_recent">View history</string>
   <string name="agree">Agree</string>
   <string name="agree_to_continue">Continue</string>
-  <string name="agree_to_turn_on">I agree to open this feature</string>
+  <string name="agree_to_turn_on">Agree</string>
   <string name="all_services">All</string>
   <string name="allow">Allow</string>
   <string name="app_label">Yellow pages</string>
@@ -214,7 +214,7 @@ Check your tracking number."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(No subject)</string>
   <string name="hms_notification">Messages</string>
-  <string name="homepage_barcode_prompt">Scan to enter my homepage.</string>
+  <string name="homepage_barcode_prompt">Scan to open homepage.</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">"Couldn't find your location"</string>
   <string name="login_before_use">You need to sign in first</string>
@@ -292,7 +292,7 @@ Check your tracking number."</string>
   <string name="payment_failed_common_problems">Error occurred during payment</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
-  <string name="phone_event_setting_notice_text">Intelligent identification service can help you recognize the strange numbers in calling and messages.Allow MIUI verified public service number to push message will provider you with some convenience after you hang up.If you agree, we concern you in of %1$s and %2$s.</string>
+  <string name="phone_event_setting_notice_text">"Unknown nubmer identification helps you understand which service providers call or text you. A message containing service provider's info will be pushed to your phone after it's verified by Xiaomi. You should read and agree with %1$s and %2$s to use this feature."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
@@ -361,9 +361,9 @@ Total: RMB %3$s"</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="try_again">Try again</string>
   <string name="turn_off_hint_title">Hint</string>
-  <string name="turn_off_phone_event_hint">Are you sure to turn off the switch so that you can not receive service messages no longer after you hang up?</string>
-  <string name="turn_off_smart_antispam_hint">Are you sure to turn off the protection when the stranger calls?</string>
-  <string name="turn_on_phone_event_dialog_title">Update terms of number identification</string>
+  <string name="turn_off_phone_event_hint">"If you turn this feature off, you won't be able to use it after you hang up."</string>
+  <string name="turn_off_smart_antispam_hint">Turn off protection for calls from strangers?</string>
+  <string name="turn_on_phone_event_dialog_title">Update number identification database</string>
   <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
   <string name="turn_on_phone_event_title">Receive service info</string>
   <string name="turn_on_smart_antispam_hint">"Identify calls from unknown numbers using Xiaomi's database"</string>
