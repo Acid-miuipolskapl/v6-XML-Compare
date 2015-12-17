@@ -1527,6 +1527,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
+  <string name="login_account_dialog_title">Sign in with Mi Account</string>
+  <string name="login_action">Sign in</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2017,6 +2020,7 @@ Select your operating system:"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">Cancel</string>
   <string name="print_cancelling_state_title_template">Cancelling %1$s</string>
+  <string name="print_enable">Enable printing</string>
   <string name="print_failed_state_title_template">Printer error %1$s</string>
   <string name="print_feature_state_off">Off</string>
   <string name="print_feature_state_on">On</string>
@@ -2032,6 +2036,7 @@ Select your operating system:"</string>
   <string name="print_print_job">Print job</string>
   <string name="print_print_jobs">Print jobs</string>
   <string name="print_printing_state_title_template">Printing %1$s</string>
+  <string name="print_remind">Enable printing first</string>
   <string name="print_restart">Restart</string>
   <string name="print_search_box_hidden_utterance">Search box hidden</string>
   <string name="print_search_box_shown_utterance">Search box shown</string>
