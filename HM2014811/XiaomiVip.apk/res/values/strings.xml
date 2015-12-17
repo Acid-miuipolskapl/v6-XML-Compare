@@ -103,7 +103,7 @@
   <string name="task_begin">In progress…</string>
   <string name="task_completed">Completed</string>
   <string name="task_done">Completed</string>
-  <string name="task_limit">No challenges left today. See you tomorrow!</string>
+  <string name="task_limit">No challenges left today.</string>
   <string name="task_not_completed">Not completed</string>
   <string name="task_ongoing">In progress</string>
   <string name="task_score">%d points</string>
