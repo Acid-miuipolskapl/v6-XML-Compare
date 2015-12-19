@@ -488,12 +488,16 @@ Use Mi Scale to record your infant's weight"</string>
   <string name="hr_dialog_wear">Fasten your band tightly to increase the accuracy of the data</string>
   <string name="hr_empty_data">--</string>
   <string name="hr_fast">Heart rate is fast</string>
+  <string name="hr_fast_label">Fast</string>
   <string name="hr_in">"You're engaged in %s"</string>
   <string name="hr_item_date">MM/dd HH:mm</string>
+  <string name="hr_me">My heart rate</string>
   <string name="hr_normal">Heart rate is normal</string>
+  <string name="hr_normal_label">Normal</string>
   <string name="hr_not_wear_bracelet">Put the band on</string>
   <string name="hr_reminder">Heart rate alert</string>
   <string name="hr_slow">Heart rate is slow</string>
+  <string name="hr_slow_label">Slow</string>
   <string name="hr_sports">Physical activity</string>
   <string name="hr_tips1">"Turn on Bluetooth and connect shoes before running.
 Keep Bluetooth on when running."</string>
@@ -502,6 +506,9 @@ Keep Bluetooth on when running."</string>
 60%-80% from maximum aerobic heart rate (220-age)"</string>
   <string name="hr_tips2">Connect Mi Band Pulse to measure heart rate.</string>
   <string name="hr_tips3" formatted="false">For example: Jack is 20, his ideal heart rate during workout sessions is 120-160 bpm (60%-80% from 200=220-20).</string>
+  <string name="hr_tips_180">180 steps/min</string>
+  <string name="hr_tips_age">Age</string>
+  <string name="hr_tips_arrange">Ideal workout heart rate (BPM)</string>
   <string name="hr_unit">BPM</string>
   <string name="hr_unit_label">Heart rate (BPM)</string>
   <string name="hug_baby_weight">Weigh infant in arms</string>
@@ -1032,10 +1039,10 @@ Keep Bluetooth on when running."</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Labels</string>
-  <string name="running_lable_km_slowest">Fastest km</string>
+  <string name="running_lable_avg_hr">Average heart rate (BPM)</string>
   <string name="running_lable_mile_fastest">Fastest mile</string>
   <string name="running_lable_mile_slowest">Slowest mile</string>
-  <string name="running_lable_miles_fastest">Fastest mile</string>
+  <string name="running_lable_pace">Average pace (min)</string>
   <string name="running_long_press_to_pause">Hold to pause</string>
   <string name="running_main_avoid_use_indoor">Avoid using GPS indoors</string>
   <string name="running_main_back_button_in_dialog">Back</string>
