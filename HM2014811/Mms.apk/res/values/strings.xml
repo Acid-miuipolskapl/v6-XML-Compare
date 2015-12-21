@@ -488,6 +488,7 @@
   <string name="select_link_title">Choose action</string>
   <string name="select_local_audio">Select audio</string>
   <string name="select_local_video">Select video</string>
+  <string name="select_message_send_sim">Choose SIM card</string>
   <string name="select_recipient">Choose recipients</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
