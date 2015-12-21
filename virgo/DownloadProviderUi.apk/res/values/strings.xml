@@ -213,6 +213,7 @@ across all your devices with Xunlei"</string>
   <string name="setting_debug_fail">"Couldn't enter Debug mode"</string>
   <string name="setting_open_debug">Debug mode turned on. Tap here 6 times to turn Debug mode off.</string>
   <string name="show_more">Show %s more</string>
+  <string name="sniff_associate_text">Tap the keyword below to find more sources</string>
   <string name="sniff_bt_text">Torrent file</string>
   <string name="sniff_btn_text">Find source</string>
   <string name="sniff_connect_error_page_tips">"Couldn't open URL"</string>
@@ -223,6 +224,7 @@ across all your devices with Xunlei"</string>
   <string name="sniff_find_some_suffix">items</string>
   <string name="sniff_finding_resource_prompt">Looking for source…</string>
   <string name="sniff_no_network_tip">Check your network connection and try again</string>
+  <string name="sniff_no_result_text">No results found</string>
   <string name="sniff_result_empty_prompt">"Couldn't find source"</string>
   <string name="sniff_result_num_prefix">Found</string>
   <string name="sniff_result_num_video_suffix">items</string>
@@ -286,7 +288,7 @@ Accelerate downloads across all your devices."</string>
   <string name="xiaomi_account_not_exist_message">"This Mi Account doesn't exist"</string>
   <string name="xl_annual_vip_open">Yearly membership (%1$s Mi Credits or %2$s monthly)</string>
   <string name="xl_annual_vip_renew">Renew for 1 year (%1$s Mi Credits or %2$s monthly)</string>
-  <string name="xl_bind_account">Add existing Xunlei account</string>
+  <string name="xl_bind_account">Add existing Xunlei account </string>
   <string name="xl_highway_autoopen">High-speed channel</string>
   <string name="xl_highway_autoopen_info">Turn on high-speed channel automatically</string>
   <string name="xl_highway_title">High-speed channel:   </string>

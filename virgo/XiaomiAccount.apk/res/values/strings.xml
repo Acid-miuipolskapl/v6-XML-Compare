@@ -48,6 +48,7 @@
   <string name="account_vip_level">Account</string>
   <string name="account_vip_task">Progress</string>
   <string name="account_xiaomi_service">Services</string>
+  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="add_account">Connect account</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
@@ -62,6 +63,7 @@
   <string name="binded">Connected</string>
   <string name="binded_description" formatted="false">%s has been connected to your Mi Account. Your profile has been updated with info from your %s Account.</string>
   <string name="button_unbind">Disconnect</string>
+  <string name="change_activate_email">Change email address</string>
   <string name="change_email_address">Change email address</string>
   <string name="change_password">Change password</string>
   <string name="change_phone_number">Change phone number</string>
@@ -69,8 +71,7 @@
   <string name="cloud_service">Mi Cloud</string>
   <string name="cloud_service_dspt">Sync your photos, contacts, notes, apps, and more across all your devices.</string>
   <string name="completed">All set</string>
-  <string name="confirm_email_address_dialog_message">Verification code will be sent to: %s.</string>
-  <string name="confirm_email_address_dialog_title">Confirm email address</string>
+  <string name="confirm_activate_email">Verified</string>
   <string name="confirm_phone_number_dialog_message">Verification code will be sent to: %s.</string>
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
@@ -87,8 +88,6 @@
   <string name="device_list__header">My devices</string>
   <string name="device_list_title">My devices</string>
   <string name="device_trust_info">Trusted device</string>
-  <string name="email_send_verify_code_prompt">"Send an email to %s
-Please input the verification code in the email"</string>
   <string name="empty_device_list_notice">No devices</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
@@ -96,8 +95,8 @@ Please input the verification code in the email"</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
-  <string name="get_email_verifycode_exceed_limit">Too many verification codes have been sent to this email address. Wait 24 hours and try again.</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+  <string name="input_email_address_notice">"We'll use this address to verify your account"</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="logout_failed">"Can't sign out"</string>
@@ -262,7 +261,8 @@ To activate your account, follow the
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
   <string name="passport_xiaomi_account_dspt">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and Mi Store, from anywhere.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Internet connection is required to sign in to your Mi Account. Location access and Mi Cloud will be turned on automatically.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Internet connection is required to sign in to your Mi Account. Location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="phone_activated">%s activated</string>
   <string name="phone_send_verify_code_prompt">Send verification code to %s</string>
   <string name="phone_unactivated">Not activated</string>
@@ -277,12 +277,15 @@ To activate your account, follow the
   <string name="removing_account">Signing out…</string>
   <string name="rename_current_device">Change device name</string>
   <string name="replace_binded_phone">Replace phone</string>
+  <string name="resend_active_email">Resend</string>
+  <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+  <string name="resend_email_reach_limit_title">"Can't send email"</string>
+  <string name="resend_email_success">Resent email</string>
   <string name="restart_action">Restart</string>
-  <string name="restart_email_bind_message">An email with a verification code will be sent to this address.</string>
-  <string name="restart_email_bind_title">Change recovery email</string>
-  <string name="restart_phone_bind_message">A text message with a verification code will be sent to this number.</string>
+  <string name="restart_phone_bind_message">It takes some time to receive sms, make sure that change recovery phone？</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
+  <string name="send_email_activate_message">Sent verification email</string>
   <string name="service_error">Service error</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>

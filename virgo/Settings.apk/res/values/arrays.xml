@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting…</item>
+        <item>Authenticating…</item>
+        <item>Obtaining IP address…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Disconnecting…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanning…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Obtaining IP address from %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>America</item>
         <item>Europe</item>
@@ -8,12 +36,6 @@
         <item>Australia</item>
         <item>Pacific</item>
         <item>All</item>
-    </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 seconds</item>
@@ -143,34 +165,6 @@
         <item>spa</item>
         <item>kor</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>Scanning…</item>
-        <item>Connecting…</item>
-        <item>Authenticating…</item>
-        <item>Obtaining IP address…</item>
-        <item>Connected</item>
-        <item>Suspended</item>
-        <item>Disconnecting…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
-    </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>Scanning…</item>
-        <item>Connecting to %1$s…</item>
-        <item>Authenticating with %1$s…</item>
-        <item>Obtaining IP address from %1$s…</item>
-        <item>Connected to %1$s</item>
-        <item>Suspended</item>
-        <item>Disconnecting from %1$s…</item>
-        <item>Disconnected</item>
-        <item>Unsuccessful</item>
-        <item>Blocked</item>
-        <item>Temporarily avoiding poor connection</item>
-    </string-array>
     <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
@@ -186,7 +180,6 @@
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa</item>
         <item>@string/wifi_security_wpa2</item>
     </string-array>
     <string-array name="wifi_eap_method">
@@ -194,6 +187,22 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_full">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_only">
+        <item>@string/wifi_ap_choose_2G</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push button</item>
@@ -222,7 +231,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Always</item>
         <item>Only when plugged in</item>
-        <item>Never (uses more mobile data)</item>
+        <item>Never</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Always</item>
@@ -234,8 +243,12 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Last 30 days</item>
+        <item>Set usage cycle...</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Auto</item>
+        <item>Automatic</item>
         <item>5 GHz only</item>
         <item>2.4 GHz only</item>
     </string-array>
@@ -246,7 +259,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Usage time</item>
-        <item>Launch count</item>
+        <item>Last time used</item>
         <item>App name</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -274,24 +287,7 @@
     <string-array name="wifi_proxy_settings">
         <item>None</item>
         <item>Manual</item>
-    </string-array>
-    <string-array name="emergency_tone_entries">
-        <item>Off</item>
-        <item>Alert</item>
-        <item>Vibrate</item>
-    </string-array>
-    <string-array name="emergency_tone_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="special_locale_codes">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-    </string-array>
-    <string-array name="special_locale_names">
-        <item>中文 (简体)</item>
-        <item>中文 (繁體)</item>
+        <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>None</item>
@@ -316,14 +312,40 @@
         <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Unspecified</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
         <item>0</item>
+        <item>14</item>
+        <item>15</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>13</item>
+        <item>12</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>None</item>
@@ -398,6 +420,13 @@
         <item>keep awake</item>
         <item>monitor location</item>
         <item>monitor high power location</item>
+        <item>get usage stats</item>
+        <item>mute/unmute microphone</item>
+        <item>project media</item>
+        <item>activate VPN</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Location</item>
@@ -443,6 +472,13 @@
         <item>Keep awake</item>
         <item>Location</item>
         <item>Location</item>
+        <item>Get usage stats</item>
+        <item>Mute/unmute microphone</item>
+        <item>Project media</item>
+        <item>Activate VPN</item>
+        <item>Write wallpaper</item>
+        <item>Assist structure</item>
+        <item>Assist screenshot</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
@@ -458,15 +494,23 @@
         <item>Default</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
         <item>Serif</item>
-        <item>Monospace</item>
+        <item>Serif monospace</item>
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Small capitals</item>
     </string-array>
     <string-array name="captioning_typeface_selector_values">
         <item></item>
         <item>sans-serif</item>
         <item>sans-serif-condensed</item>
+        <item>sans-serif-monospace</item>
         <item>serif</item>
-        <item>monospace</item>
+        <item>serif-monospace</item>
+        <item>casual</item>
+        <item>cursive</item>
+        <item>sans-serif-smallcaps</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Very small</item>
@@ -483,16 +527,23 @@
         <item>2.0</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
+        <item>Default</item>
         <item>None</item>
         <item>Outline</item>
         <item>Drop shadow</item>
+        <item>Raised</item>
+        <item>Depressed</item>
     </string-array>
     <integer-array name="captioning_edge_type_selector_values">
+        <item>-1</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
     </integer-array>
     <string-array name="captioning_color_selector_titles">
+        <item>@string/color_unspecified</item>
         <item>@string/color_white</item>
         <item>@string/color_black</item>
         <item>@string/color_red</item>
@@ -503,6 +554,7 @@
         <item>@string/color_magenta</item>
     </string-array>
     <integer-array name="captioning_color_selector_values">
+        <item>0xffffff</item>
         <item>0xffffffff</item>
         <item>0xff000000</item>
         <item>0xffff0000</item>
@@ -581,6 +633,7 @@
         <item>0xffffffff</item>
     </integer-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Use app defaults</item>
         <item>White on black</item>
         <item>Black on white</item>
         <item>Yellow on black</item>
@@ -588,26 +641,38 @@
         <item>Custom</item>
     </string-array>
     <integer-array name="captioning_preset_selector_values">
+        <item>4</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>-1</item>
     </integer-array>
-    <string-array name="select_runtime_titles">
-        <item>Dalvik</item>
-        <item>ART</item>
-        <item>ART (debug)</item>
+    <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
     </string-array>
-    <string-array name="select_runtime_values">
-        <item>libdvm.so</item>
-        <item>libart.so</item>
-        <item>libartd.so</item>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
-    <string-array name="select_runtime_summaries">
-        <item>Use Dalvik</item>
-        <item>Use ART</item>
-        <item>Use ART debug build</item>
+    <string-array name="select_logd_size_values">
+        <item>65536</item>
+        <item>262144</item>
+        <item>1048576</item>
+        <item>4194304</item>
+        <item>16777216</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Never check</item>
@@ -680,22 +745,30 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
-        <item>720x480/160</item>
-        <item>720x480/160,secure</item>
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
         <item>1280x720/213</item>
         <item>1280x720/213,secure</item>
         <item>1920x1080/320</item>
         <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -723,26 +796,22 @@
     <string-array name="track_frame_time_entries">
         <item>Off</item>
         <item>On screen as bars</item>
-        <item>On screen as lines</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
         <item>visual_bars</item>
-        <item>visual_lines</item>
         <item>true</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
-        <item>Show overdraw counter</item>
     </string-array>
     <string-array name="debug_hw_overdraw_values">
         <item>false</item>
         <item>show</item>
         <item>show_deuteranomaly</item>
-        <item>count</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standard limit</item>
@@ -804,10 +873,102 @@
         <item>Always allow</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normal</item>
-        <item>moderate</item>
-        <item>low</item>
-        <item>critical</item>
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+        <item>\?</item>
+    </string-array>
+    <array name="ram_colors">
+        <item>@color/memory_normal</item>
+        <item>@color/memory_moderate</item>
+        <item>@color/memory_low</item>
+        <item>@color/memory_critical</item>
+    </array>
+    <string-array name="daltonizer_type_entries">
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="daltonizer_type_values">
+        <item>12</item>
+        <item>11</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="simulate_color_space_entries">
+        <item>@string/daltonizer_mode_disabled</item>
+        <item>@string/daltonizer_mode_monochromacy</item>
+        <item>@string/daltonizer_mode_deuteranomaly</item>
+        <item>@string/daltonizer_mode_protanomaly</item>
+        <item>@string/daltonizer_mode_tritanomaly</item>
+    </string-array>
+    <string-array name="simulate_color_space_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <integer-array name="battery_saver_trigger_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+    </integer-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistent</item>
+        <item>Top activity</item>
+        <item>Important (foreground)</item>
+        <item>Important (background)</item>
+        <item>Backup</item>
+        <item>Heavy weight</item>
+        <item>Service (running)</item>
+        <item>Service (restarting)</item>
+        <item>Receiver</item>
+        <item>Home</item>
+        <item>Last activity</item>
+        <item>Cached (activity)</item>
+        <item>Cached (activity client)</item>
+        <item>Cached (empty)</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Teal</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Red</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="night_mode_entries">
+        <item>@string/night_mode_no</item>
+        <item>@string/night_mode_yes</item>
+        <item>@string/night_mode_auto</item>
+    </string-array>
+    <string-array name="night_mode_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
@@ -818,6 +979,14 @@
         <item>@string/input_method_selector_show_automatically_value</item>
         <item>@string/input_method_selector_always_show_value</item>
         <item>@string/input_method_selector_always_hide_value</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>WLAN preferred</item>
+        <item>Cellular preferred</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Strong</item>
@@ -835,8 +1004,8 @@
         <item>Light</item>
     </string-array>
     <string-array name="media_feedback_level_values">
-        <item>15</item>
-        <item>7</item>
+        <item>2</item>
+        <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
@@ -888,15 +1057,6 @@
         <item>white</item>
         <item>\#FFAA00AA</item>
     </string-array>
-    <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Violet</item>
-    </string-array>
     <string-array name="mi1_led_color_values">
         <item>blue</item>
         <item>red</item>
@@ -913,23 +1073,16 @@
         <item>Violet</item>
         <item>Purple</item>
     </string-array>
-    <string-array name="pink_panel_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Lilac</item>
-        <item>Ruby</item>
-        <item>Orange</item>
+    <string-array name="led_color_entries">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Yellow</item>
         <item>Green</item>
-        <item>Magenta</item>
+        <item>Cyan</item>
+        <item>White</item>
+        <item>Violet</item>
     </string-array>
     <string-array name="always_enabled_app_list">
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
         <item>com.android.providers.applications</item>
         <item>com.android.providers.calendar</item>
         <item>com.android.providers.contacts</item>
@@ -1036,45 +1189,6 @@
         <item>22</item>
         <item>27</item>
     </integer-array>
-    <string-array name="dolby_mode_entries">
-        <item>@string/dolby_mode_off</item>
-        <item>@string/dolby_mode_music</item>
-        <item>@string/dolby_mode_movie</item>
-    </string-array>
-    <string-array name="dolby_bassboost_ranks">
-        <item>@string/dolby_bassboost_low</item>
-        <item>@string/dolby_bassboost_normal</item>
-        <item>@string/dolby_bassboost_high</item>
-    </string-array>
-    <string-array name="dolby_bassboost_rank_valus">
-        <item>0</item>
-        <item>3</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="dolby_roomsize_ranks">
-        <item>@string/dolby_roomsize_low</item>
-        <item>@string/dolby_roomsize_normal</item>
-        <item>@string/dolby_roomsize_high</item>
-    </string-array>
-    <string-array name="dolby_roomsize_rank_valus">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="dolby_equalizer_preset_values">
-        <item>0,0,0,0,0,0,0</item>
-        <item>16,8,0,-8,0,8,16</item>
-        <item>0,0,-4,-8,-8,-4,0</item>
-        <item>-8,-20,4,12,8,8,8</item>
-        <item>4,0,0,-8,-4,0,0</item>
-        <item>16,4,-4,-4,4,4,4</item>
-        <item>16,-4,0,-8,0,-4,-4</item>
-        <item>4,0,-4,-8,0,4,8</item>
-        <item>16,4,-8,-4,-8,-4,0</item>
-        <item>0,-4,-4,-4,-8,-4,-8</item>
-        <item>16,12,-24,-24,-16,12,16</item>
-        <item>24,14,-20,6,12,16,8</item>
-    </string-array>
     <string-array name="wfd_status">
         <item>Starting session…</item>
         <item>Session started</item>
@@ -1198,8 +1312,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Password</item>
     </string-array>
     <string-array name="dndm_vip_list_group_array">
-        <item>@string/dndm_vip_list_custom</item>
+        <item>@string/dndm_vip_list_all</item>
         <item>@string/dndm_vip_list_contact</item>
+        <item>@string/dndm_vip_list_starred_contact</item>
+        <item>@string/dndm_vip_list_custom</item>
     </string-array>
     <string-array name="dndm_auto_time_trun_on_off">
         <item>@string/dndm_auto_time_turn_on</item>
@@ -1210,10 +1326,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Manually connect</item>
         <item>Always ask</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Automatically connect</item>
+        <item>Manually connect</item>
+    </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="wifi_ssid_type_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
@@ -1330,16 +1454,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 inches</item>
-        <item>4.0 inches</item>
-        <item>3.5 inches</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
     <string-array name="agps_network_values">
         <item>0</item>
         <item>1</item>
@@ -1374,13 +1488,15 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Turn on (recommended)</item>
-        <item>"Don't use (dangerous)"</item>
+    <string-array name="handy_mode_size_text_entries">
+        <item>4.5 inches</item>
+        <item>4.0 inches</item>
+        <item>3.5 inches</item>
     </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Turn on</item>
-        <item>"Don't use"</item>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
@@ -1409,6 +1525,14 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ultrahigh (2K)</item>
+        <item>Normal (720p)</item>
+    </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
