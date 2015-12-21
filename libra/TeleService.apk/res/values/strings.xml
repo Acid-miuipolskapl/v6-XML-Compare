@@ -1089,6 +1089,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="sim_absent">Absent</string>
   <string name="sim_activated">Verified</string>
   <string name="sim_card_activate">Current SIM card</string>
+  <string name="sim_card_num">SIM%s</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_description_default">SIM card, slot: %s</string>

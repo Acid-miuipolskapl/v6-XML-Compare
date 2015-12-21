@@ -46,11 +46,11 @@
     <Var name="light_color" type="string" expression="ifelse(#applied_light_wallpaper,'#50000000','#80ffffff')"/>
     <Var name="line_color" type="string" expression="ifelse(#applied_light_wallpaper,'#33000000','#80ffffff')"/>
     <!-- top fragment -->
-    <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width/2" y="235" align="center" alignV="center"/>
-    <Text enableFontScale="true" textExp="@weather_description+' '+eval(ifelse(le(#weather_aqilevel,0),@aqi_pure,le(#weather_aqilevel,50),@aqi_good,le(#weather_aqilevel,100),@aqi_moderate,le(#weather_aqilevel,150),@aqi_pollution,le(#weather_aqilevel,200),@aqi_unhealthy,le(#weather_aqilevel,300),@aqi_dangerous,lt(#weather_aqilevel,500),@aqi_hazardous,@aqi_break))" x="#view_width/2"  y="375" align="center" size="48" color="@color"/>
-
+    <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather.png'" srcid="ifelse(gt(#weather_id,24)+lt(#weather_id,0),10000,#weather_id)" x="#view_width/2" y="235" align="center" alignV="center" visibility="#hasweather"/>
+    <Text enableFontScale="true" textExp="@weather_description+' '+eval(ifelse(le(#weather_aqilevel,0),@aqi_pure,le(#weather_aqilevel,50),@aqi_good,le(#weather_aqilevel,100),@aqi_moderate,le(#weather_aqilevel,150),@aqi_pollution,le(#weather_aqilevel,200),@aqi_unhealthy,le(#weather_aqilevel,300),@aqi_dangerous,lt(#weather_aqilevel,500),@aqi_hazardous,@aqi_break))" x="#view_width/2"  y="375" align="center" size="48" color="@color" visibility="#hasweather"/>
+    <Text enableFontScale="true" textExp="'暂无数据'" x="#view_width/2"  y="375" align="center" size="48" color="@color" visibility="1-#hasweather"/>
     <!-- based on first horizontal line -->
-    <Group y="#view_height-467">
+    <Group y="#view_height-467" visibility="#hasweather">
         <!-- center fragment -->
         <DateTime enableFontScale="true" format="@date_format" x="72" y="-104" alignV="bottom" size="38" color="@color"/>
         <Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/location.png'" x="77" y="-45" alignV="bottom" visibility="#is_location_city"/>
@@ -86,7 +86,15 @@
 
         <Line x="50" y="305" x1="#view_width-50" y1="305" strokeColor="@line_color" weight="2"/>
     </Group>
-
+    
+	<Group y="#view_height-467" visibility="1-#hasweather">
+	    <DateTime enableFontScale="true" format="@date_format" x="72" y="-104" alignV="bottom" size="38" color="@color"/>
+		<Image srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/weather_null.png'" x="#view_width-82" align="right" y="-77" alignV="bottom"/>
+		<Line x="50" x1="#view_width-50" strokeColor="@line_color" weight="2"/>
+		<Text enableFontScale="true" textExp="'暂无数据'" align="center" x="#view_width/2" y="160" alignV="center" size="38" color="@color"/>
+        <Line x="50" y="305" x1="#view_width-50" y1="305" strokeColor="@line_color" weight="2"/>
+	</Group>
+	
     <Button x="#view_width/2" y="255" w="380" h="460" align="center" alignV="center">
         <Triggers>
             <Trigger action="up">
