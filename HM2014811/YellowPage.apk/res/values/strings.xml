@@ -292,7 +292,7 @@ Check your tracking number."</string>
   <string name="payment_failed_common_problems">Error occurred during payment</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
-  <string name="phone_event_setting_notice_text">"Unknown nubmer identification helps you understand which service providers call or text you. A message containing service provider's info will be pushed to your phone after it's verified by Xiaomi. You should read and agree with %1$s and %2$s to use this feature."</string>
+  <string name="phone_event_setting_notice_text">"Unknown number identification helps you understand which service providers call or text you. A message containing service provider's info will be pushed to your phone after it's verified by Xiaomi. You should read and agree with %1$s and %2$s to use this feature."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
