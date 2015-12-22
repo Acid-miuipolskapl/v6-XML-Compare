@@ -717,6 +717,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
+  <string name="convenience_key_category_title">Convenience key</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -1249,6 +1250,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
+  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
