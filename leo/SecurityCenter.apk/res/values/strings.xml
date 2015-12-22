@@ -124,6 +124,7 @@
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancel</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
@@ -283,11 +284,7 @@
   <string name="permission_action_reject">Deny</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
   <string name="permission_close_permission_control_dialog_title">Turn off?</string>
-  <string name="permission_group_title_charges_related">Charges</string>
-  <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_others">Others</string>
-  <string name="permission_group_title_privacy_related">Privacy</string>
-  <string name="permission_group_title_settings_related">Settings</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
@@ -515,6 +512,7 @@
   <string name="protection_category_dangerous_title">Risks (%d)</string>
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
+  <string name="reject_all">Restrict all</string>
   <string name="risk_list_header_title">%d suspicious apps detected</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
