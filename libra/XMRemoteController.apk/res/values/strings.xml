@@ -209,7 +209,7 @@
   <string name="ir_device_amp">Amplifier</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
-  <string name="ir_device_dvb_s">Set-top box</string>
+  <string name="ir_device_dvb_s">Cable / Satellite box</string>
   <string name="ir_device_dvd">DVD Player</string>
   <string name="ir_device_fan">Fan</string>
   <string name="ir_device_iptv">IPTV</string>
@@ -350,6 +350,7 @@ wait a moment after the action."</string>
   <string name="no_program">No content here</string>
   <string name="no_qq">Install QQ first</string>
   <string name="no_save_brand_service">Add this remote again</string>
+  <string name="none">无</string>
   <string name="not_respond">No response</string>
   <string name="notification_found_shared_remote_text">Tap to control it</string>
   <string name="notification_found_shared_remote_title">Found a %1$s nearby</string>
@@ -500,6 +501,7 @@ To activate your account, follow the
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="place_frame">"Location: "</string>
+  <string name="play_in_phone">手机播放</string>
   <string name="play_on_tv">Play on TV</string>
   <string name="playing_time">播出时间</string>
   <string name="please_enter">"Can't be empty"</string>
@@ -666,7 +668,9 @@ To activate your account, follow the
   <string name="volume">﻿Volume</string>
   <string name="weather_out">Outside temperature:</string>
   <string name="wind_direct">Direction</string>
+  <string name="wind_direct_automatic">自动风向</string>
   <string name="wind_direct_down">Down</string>
+  <string name="wind_direct_manual">手动风向</string>
   <string name="wind_direct_middle">Middle</string>
   <string name="wind_direct_up">Up</string>
   <string name="wind_speed">Speed</string>

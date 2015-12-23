@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="livetalk_about_info_array">
-        <item>• Use: Call any phone in the world, there are no carrier restrictions;</item>
-        <item>• Requirements: Every call requires 1KB of mobile data;</item>
-        <item>• Other: Top up and start calling, there are no complicated settings;</item>
-        <item>• If you need help, please call 400-100-5678.</item>
-    </string-array>
     <string-array name="wifi_calling_preference_choices">
         <item>@string/wifi_preferred</item>
         <item>@string/wifi_only</item>
