@@ -32,6 +32,7 @@
   <string name="device_charge_times">Times charged</string>
   <string name="device_unlock_screen_times">Screen unlocked</string>
   <string name="device_usage_data">Phone usage stats</string>
+  <string name="download_fail">"Can't download app: %s"</string>
   <string name="download_message">Download %s?</string>
   <string name="download_progress">%d%%</string>
   <string name="download_title">Download this app?</string>
