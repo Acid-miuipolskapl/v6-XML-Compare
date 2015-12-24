@@ -1272,6 +1272,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_user_agreement_allow">Allow</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>

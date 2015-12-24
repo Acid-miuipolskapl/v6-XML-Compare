@@ -130,6 +130,10 @@
         <item>0</item>
         <item>172800</item>
     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Sync all messages</item>
+        <item>Sync messages from selected SIM cards</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>
         <item>2 seconds</item>

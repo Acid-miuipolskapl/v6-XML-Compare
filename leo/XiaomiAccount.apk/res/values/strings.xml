@@ -96,7 +96,7 @@
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="input_email_address_notice">"We'll use this address to verify your account"</string>
+  <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="logout_failed">"Can't sign out"</string>
@@ -280,12 +280,12 @@ To activate your account, follow the
   <string name="resend_active_email">Resend</string>
   <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
   <string name="resend_email_reach_limit_title">"Can't send email"</string>
-  <string name="resend_email_success">Resent email</string>
-  <string name="restart_action">Restart</string>
-  <string name="restart_phone_bind_message">It takes some time to receive sms, make sure that change recovery phone？</string>
+  <string name="resend_email_success">Email resent</string>
+  <string name="restart_action">Start over</string>
+  <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
   <string name="restart_phone_bind_title">Change recovery phone</string>
   <string name="scan_barcode_title">To sign in to your Mi Account, scan the QR code</string>
-  <string name="send_email_activate_message">Sent verification email</string>
+  <string name="send_email_activate_message">Verification email sent</string>
   <string name="service_error">Service error</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
