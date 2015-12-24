@@ -283,6 +283,8 @@
   <string name="geolocation_settings_page_summary_allowed">This site can access your location</string>
   <string name="geolocation_settings_page_summary_not_allowed">"This site can't access your location"</string>
   <string name="geolocation_settings_page_title">Clear location access</string>
+  <string name="go_supermarket_button">Go</string>
+  <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="history_saved_webpage">Save page</string>
