@@ -224,10 +224,10 @@ Our server is down at the moment. Please try again later…
   <string name="load_err">"Can't load"</string>
   <string name="load_more">View more</string>
   <string name="loading">Loading…</string>
-  <string name="local_image">Photos</string>
-  <string name="local_music">Music</string>
+  <string name="local_image">Images</string>
+  <string name="local_music">Audio files</string>
   <string name="local_sticker_str">Offline</string>
-  <string name="local_video">Video</string>
+  <string name="local_video">Video files</string>
   <string name="login_reg_content">Store files and sync across multiple devices.</string>
   <string name="login_reg_content0">Use KuaiPan from anywhere.</string>
   <string name="make_private">Hide</string>
@@ -458,9 +458,9 @@ and never miss the cool new ones!"</string>
   <string name="search_title">Search</string>
   <string name="search_title_hint">Search</string>
   <string name="select_dest_folder">Select folder</string>
-  <string name="select_image">Choose photos</string>
-  <string name="select_music">Choose songs</string>
-  <string name="select_video">Choose videos</string>
+  <string name="select_image">Images</string>
+  <string name="select_music">Audio files</string>
+  <string name="select_video">Video files</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">This file type is not supported.</string>
   <string name="send_to_qq">Send to QQ</string>
