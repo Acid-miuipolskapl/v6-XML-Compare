@@ -1,5 +1,5 @@
 <resources> 
-    <string name="date_format">EEE, dd/MM</string>
+    <string name="date_format">EEE, dd.MM</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
