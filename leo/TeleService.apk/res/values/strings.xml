@@ -723,6 +723,8 @@ Top up and start talking"</string>
 Will use preferred network instead."</string>
   <string name="network_settings_turn_off">off</string>
   <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
+  <string name="network_unconnected_message_livetalk">Network error,Try to make a regular call. It will be charged by the operator.</string>
+  <string name="network_unconnected_title">Network error</string>
   <string name="networks">Network operators</string>
   <string name="networks_title">Cellular networks</string>
   <string name="newPin2Label">New PIN2</string>

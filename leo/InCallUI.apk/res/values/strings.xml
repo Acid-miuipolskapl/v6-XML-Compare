@@ -67,6 +67,7 @@
   <string name="card_title_video_call_paused">Video paused</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s people</string>
+  <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">"%1$s's conference call"</string>
   <string name="conference_caller_name_me">Me</string>
   <string name="contactPhoto">contact photo</string>
