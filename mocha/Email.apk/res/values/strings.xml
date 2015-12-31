@@ -83,15 +83,19 @@
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
   <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
+  <string name="account_setup_failed_dlg_bar_title">Login tips of %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
+  <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Couldn't set up account"</string>
+  <string name="account_setup_failed_dlg_todo1">Please set account as below or try login with exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Please set account as below.</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
   <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
@@ -345,7 +349,10 @@
   <string name="edit_quick_response_dialog">Quick reply</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
+  <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
@@ -862,6 +869,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Try login with exchange</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
