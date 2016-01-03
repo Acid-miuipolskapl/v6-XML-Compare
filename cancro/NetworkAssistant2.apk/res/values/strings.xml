@@ -272,9 +272,6 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="operator_setted_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
-  <string name="operator_setted_error_notify_message">Tap to change SIM location.</string>
-  <string name="operator_setted_error_notify_title">SIM card error</string>
   <string name="other_exception_summary">"You don't have an internet connection"</string>
   <string name="other_exception_title">Checking for other issues</string>
   <string name="package_change_notification_summary">Tap to learn more.</string>
@@ -408,6 +405,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="show_traffic_dialog_title">Show usage in notification shade</string>
   <string name="signal_exception_summary">"Can't connect to network in this area."</string>
   <string name="signal_exception_title">Test signal strength</string>
+  <string name="sim_location_error_dialog_message">"The SIM you're using is from %1$s. This is different from the location you set manually (%2$s). Change SIM location to %3$s?"</string>
+  <string name="sim_location_error_notify_message">Tap to change SIM location.</string>
+  <string name="sim_location_error_notify_title">SIM card error</string>
   <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="songs_number">18 songs</string>
   <string name="songs_unit">" songs"</string>
@@ -458,6 +458,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="tips_dialog_title">"Don't know your limit"</string>
   <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
   <string name="title_limit_traffic_per_day">Daily data usage limit</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Monthly plan changed to %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
+  <string name="traffic_config_alert_auto_modify">Update data plan automatically</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting shows :%s.
 
 Will you take this?"</string>
@@ -471,9 +475,8 @@ Your plan's monthly off-peak data usage limit is %1$s. This is different from th
 Your plan's monthly off-peak data usage limit is %1$s. You haven't set an off-peak data usage limit."</string>
   <string name="traffic_config_alert_body_normal">"
 Your plan's monthly peak-time data usage limit is %1$s. This is different from the %2$s limit you set manually."</string>
-  <string name="traffic_config_alert_cancel">Cancel</string>
-  <string name="traffic_config_alert_nomore">"Don't show again"</string>
-  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
   <string name="traffic_config_alert_setted">Settings applied</string>
   <string name="traffic_config_alert_title">%s Correction</string>
   <string name="traffic_correction_failed">"Can't get info"</string>
@@ -481,9 +484,10 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_correction_start_correction_failed">Request failed, please check the operator settings</string>
   <string name="traffic_correction_success">Data usage updated</string>
   <string name="traffic_correction_success_notify_message">Tap to view details.</string>
-  <string name="traffic_limit_error_alert_body">"Your carrier's accounting shows that you have %1$s remaining this month. That's more than the %2$s limit you've set manually."</string>
-  <string name="traffic_limit_error_alert_iknow">OK</string>
-  <string name="traffic_limit_error_alert_reset">Reset limit</string>
+  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
   <string name="traffic_over_purchase_body">Touch to view details.</string>
@@ -513,7 +517,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_history_total_rate">Rate</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data saved</string>
-  <string name="traffic_saving_mobile_usage">Mobile usage</string>
+  <string name="traffic_saving_mobile_usage">Data saver</string>
   <string name="traffic_saving_msg_month">Saved this month</string>
   <string name="traffic_saving_msg_not_started">Data saver is off</string>
   <string name="traffic_saving_msg_today">saved today</string>
@@ -546,7 +550,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
-  <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="traffic_saving_wifi_usage">Wifi saver</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
@@ -559,6 +563,7 @@ Your plan's monthly peak-time data usage limit is %1$s. This is different from t
   <string name="traffic_setting_fragment_button1_text">Cancel</string>
   <string name="traffic_setting_fragment_button2_text">Save</string>
   <string name="traffic_setting_fragment_get_template_falure">"Can't connect to network. Check your data connection and try again."</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">"Don't show again"</string>
   <string name="traffic_setting_fragment_loading_text">Getting network info…</string>
   <string name="traffic_setting_fragment_no_network">"Can't connect to network"</string>
   <string name="traffic_setting_fragment_null">Empty</string>

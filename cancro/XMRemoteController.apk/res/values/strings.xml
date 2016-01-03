@@ -88,6 +88,9 @@
   <string name="control_vol_by_cellphone">Use device to control volume</string>
   <string name="controller_list">Remotes</string>
   <string name="cool_mode">Cool</string>
+  <string name="create_shortcut_cancel">No thanks</string>
+  <string name="create_shortcut_confirm">Create</string>
+  <string name="create_shortcut_done">Created successfully</string>
   <string name="current_place">"Current location: "</string>
   <string name="current_play">Now playing: </string>
   <string name="current_stb">"Current: "</string>
@@ -95,6 +98,7 @@
   <string name="current_version_latest">No updates available</string>
   <string name="data_request_error">"Couldn't get info"</string>
   <string name="day">d</string>
+  <string name="day_string">日</string>
   <string name="delete">Delete</string>
   <string name="delete_confirm">Delete device?</string>
   <string name="delete_desc">"You won't be able to control “%s” using Mi Remote."</string>
@@ -122,15 +126,26 @@
   <string name="edit_controller">Edit remote</string>
   <string name="edit_ir_device">Rename device</string>
   <string name="eject">﻿Eject</string>
+  <string name="empty_name_tip">遥控器还没有名字哦~</string>
+  <string name="epg_all_channels">全部频道</string>
+  <string name="epg_bookable">预约</string>
+  <string name="epg_booked">已预约</string>
   <string name="epg_booked_str">Scheduled</string>
   <string name="epg_bottom_subtitle_textview_str">Pair set-top box to view more details</string>
   <string name="epg_bottom_subtitle_textview_str2">Tap to view remote</string>
   <string name="epg_bottom_title_textview_str">Tap to pair set-top box</string>
+  <string name="epg_change_channel">换台</string>
   <string name="epg_channel_group_open">Show all</string>
   <string name="epg_detail_title_text">Desciption</string>
+  <string name="epg_details_episode">第%1$s集</string>
   <string name="epg_episode_open">Show all</string>
+  <string name="epg_fav_channels">频道收藏</string>
+  <string name="epg_hot_channels">热门频道</string>
+  <string name="epg_hot_programs">热门节目</string>
+  <string name="epg_loading_hint">手机控制机顶盒一键换台</string>
   <string name="epg_name">TV shows</string>
   <string name="epg_status_playing_text">Playing…</string>
+  <string name="epg_status_playing_text_v5">直播中</string>
   <string name="epg_unbooked_str">Not scheduled</string>
   <string name="episode_intro_title_text">Episode summary</string>
   <string name="episode_title">Episode %1$d</string>
@@ -163,6 +178,7 @@
   <string name="gesture_pad_sencond_line_tips">· Tap &amp; hold the central area of the screen to view the menu. Slide up or down to adjust volume.</string>
   <string name="gesture_pad_vol_tips">"Use phone's volume buttons to adjust the volume on the connected device"</string>
   <string name="get_info_failed">"Couldn't get info"</string>
+  <string name="get_location_fail_tip">自动获取位置失败，请手动选择城市</string>
   <string name="guid_one">· Connect to the same Wi-Fi network as the target device</string>
   <string name="guid_three">"· Some controls may not be available if your TV or set-top box doesn't support Android"</string>
   <string name="guid_two">· Turn off router AP Isolation</string>
@@ -193,7 +209,7 @@
   <string name="ir_device_amp">Amplifier</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
-  <string name="ir_device_dvb_s">Set-top box</string>
+  <string name="ir_device_dvb_s">Cable / Satellite box</string>
   <string name="ir_device_dvd">DVD Player</string>
   <string name="ir_device_fan">Fan</string>
   <string name="ir_device_iptv">IPTV</string>
@@ -213,6 +229,7 @@
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Wi-Fi remote</string>
   <string name="jump_to_mivideo">View on mobile device</string>
+  <string name="just_now">Just now</string>
   <string name="just_used">Just now</string>
   <string name="key_press_vibrate">Vibrate on touch</string>
   <string name="last_use_frame">%1$s ago</string>
@@ -240,8 +257,8 @@
   <string name="match_count_frame">Pair %1$d/%2$d remote</string>
   <string name="match_count_tip_frame">Test buttons (%1$d/%2$d)</string>
   <string name="match_data">Pairing info</string>
-  <string name="match_data_error_tips">"没有获取到可用数据，十分抱歉
-如需继续使用，请返回"</string>
+  <string name="match_data_error_tips">"Couldn't get info
+Go back to continue"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Do direction buttons work?</string>
   <string name="match_dvd_intro_pause">Release when DVD playback pauses</string>
@@ -258,7 +275,7 @@
   <string name="match_guide_sub_frame">Paired %1$d buttons</string>
   <string name="match_intro_power">Release when device powers on</string>
   <string name="match_is_respond">Does the device respond?</string>
-  <string name="match_main_tip_frame">"Point the remote at %1$s and hold the button
+  <string name="match_main_tip_frame">"Point the remote at %1$s and press the button
 Release when %1$s responds"</string>
   <string name="match_mibox_first">    Mi TV found</string>
   <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
@@ -313,6 +330,8 @@ wait a moment after the action."</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant version %1$s</string>
   <string name="mode">Mode</string>
+  <string name="month">月</string>
+  <string name="month_day_format">MMM dd</string>
   <string name="more">More</string>
   <string name="mute">Mute</string>
   <string name="network_diagnosis">Test network</string>
@@ -320,7 +339,7 @@ wait a moment after the action."</string>
   <string name="network_ok">No problems detected</string>
   <string name="network_unstable">· You have a stable connection</string>
   <string name="next_step">Next</string>
-  <string name="no">Cancel</string>
+  <string name="no">No</string>
   <string name="no_brand_service">Brand currently not available</string>
   <string name="no_current_play">"Now playing: - "</string>
   <string name="no_data">No info</string>
@@ -331,6 +350,7 @@ wait a moment after the action."</string>
   <string name="no_program">No content here</string>
   <string name="no_qq">Install QQ first</string>
   <string name="no_save_brand_service">Add this remote again</string>
+  <string name="none">无</string>
   <string name="not_respond">No response</string>
   <string name="notification_found_shared_remote_text">Tap to control it</string>
   <string name="notification_found_shared_remote_title">Found a %1$s nearby</string>
@@ -481,21 +501,23 @@ To activate your account, follow the
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="place_frame">"Location: "</string>
+  <string name="play_in_phone">手机播放</string>
   <string name="play_on_tv">Play on TV</string>
+  <string name="playing_time">播出时间</string>
   <string name="please_enter">"Can't be empty"</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Power</string>
   <string name="press_to_continue_match">Tap to continue</string>
   <string name="press_to_match">Tap to pair</string>
-  <string name="privacy_content">"By using this product, you're agreeing to our "&lt;u&gt;Privacy Policy&lt;/u&gt; and &lt;u&gt;Terms of Service&lt;/u&gt;. Mi Remote needs to connect to the internet to work normally.</string>
+  <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"Don't show again"</string>
   <string name="privacy_title">Terms and Conditions</string>
   <string name="projection_failed_for_disconnect">Devices not connected</string>
   <string name="province">Province</string>
   <string name="pull_down_refresh">Pull down to refresh</string>
   <string name="pull_up_refresh">Pull up to refresh</string>
-  <string name="push_add">发现一个分享的遥控器</string>
-  <string name="push_add_desc">是否使用它来遥控附近的%1$s</string>
+  <string name="push_add">Found a remote shared to you</string>
+  <string name="push_add_desc">Control the nearby %1$s with this remote?</string>
   <string name="rc">Remote</string>
   <string name="rc_name">Remote</string>
   <string name="refreshing">Refreshing…</string>
@@ -568,6 +590,8 @@ To activate your account, follow the
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Share using Sina Weibo</string>
   <string name="share_to_others">Share</string>
+  <string name="shortcut_pop_desc">Looks like you use Mi Remote quite often. Create a Home screen shortcut?</string>
+  <string name="shortcut_pop_title">Shortcut</string>
   <string name="similar">Related</string>
   <string name="somthing_wrong">Having problems?</string>
   <string name="sorry">Error</string>
@@ -596,6 +620,8 @@ To activate your account, follow the
   <string name="to_qq">Open QQ and join our group</string>
   <string name="to_qq_maintext">Join our QQ group and send us feedback</string>
   <string name="to_qq_subtext">QQ group: 259685862</string>
+  <string name="today">今天</string>
+  <string name="tomorrow">明天</string>
   <string name="tv_broadcast">TV and radio</string>
   <string name="tv_mirror">Display controls</string>
   <string name="tv_mirror_intro">Show display controls in landscape mode</string>
@@ -634,10 +660,17 @@ To activate your account, follow the
   <string name="video_play_count_label">"Views: "</string>
   <string name="virtual_keyhboard">Use device keyboard</string>
   <string name="virtual_keyhboard_intro">"Use your device's keyboard to type on display"</string>
+  <string name="voice_download_tips">未检测到科大讯飞语音服务，点击\"确认\"下载...</string>
+  <string name="voice_download_title">提示</string>
+  <string name="voice_engine_ifly_fail">启动讯飞语音识别失败</string>
+  <string name="voice_record_start">开始录制语音</string>
+  <string name="voice_resolving">正在进行语音识别</string>
   <string name="volume">﻿Volume</string>
   <string name="weather_out">Outside temperature:</string>
   <string name="wind_direct">Direction</string>
+  <string name="wind_direct_automatic">自动风向</string>
   <string name="wind_direct_down">Down</string>
+  <string name="wind_direct_manual">手动风向</string>
   <string name="wind_direct_middle">Middle</string>
   <string name="wind_direct_up">Up</string>
   <string name="wind_speed">Speed</string>
@@ -646,5 +679,7 @@ To activate your account, follow the
   <string name="wind_speed_low">Low</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Fan</string>
-  <string name="yes">Delete</string>
+  <string name="year_month_day_format">MMM dd, yyyy</string>
+  <string name="yes">Yes</string>
+  <string name="yesterday">Yesterday</string>
 </resources>

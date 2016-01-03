@@ -83,15 +83,20 @@
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
   <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
+  <string name="account_setup_failed_dlg_bar_title">Login tips of %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
+  <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Couldn't set up account"</string>
+  <string name="account_setup_failed_dlg_todo1">Please set account as below or try login with exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Please set account as below.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
   <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
@@ -130,6 +135,7 @@
   <string name="account_setup_options_mail_window_auto">Automatic</string>
   <string name="account_setup_options_mail_window_default">Use account default</string>
   <string name="account_setup_options_mail_window_label">Sync mail from</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Keep for</string>
   <string name="account_setup_options_title">Account settings</string>
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Require sign-in</string>
@@ -205,12 +211,7 @@
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Remind</string>
-  <string name="calendar_remind_gridview_month_later">Next month</string>
-  <string name="calendar_remind_gridview_nextweek">Next week</string>
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
-  <string name="calendar_remind_gridview_tomorrow">Tomorrow</string>
-  <string name="calendar_remind_gridview_tonight">Tonight</string>
-  <string name="calendar_remind_gridview_weekend">Weekend</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
   <string name="cant_move_or_change_labels">"Can't move because selection contains multiple accounts."</string>
@@ -249,15 +250,15 @@
   <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
-  <string name="contact_edit_set_black_list_filtering">Filtering...</string>
-  <string name="contact_edit_set_black_list_from">Move all mails from this sender to Junk</string>
-  <string name="contact_edit_set_black_list_receive">Move mail with this recipient to Junk(only new mails)</string>
+  <string name="contact_edit_set_black_list_filtering">Filtering…</string>
+  <string name="contact_edit_set_black_list_from">Move all emails from this sender to Trash</string>
+  <string name="contact_edit_set_black_list_receive">Move emails with this recipient to Trash (only new emails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
-  <string name="contact_edit_set_black_list_title">Set blacklist</string>
+  <string name="contact_edit_set_black_list_title">Add to blocklist</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_in_filter_call_phone_str">Call from %s</string>
-  <string name="contact_in_filter_title">" from this person."</string>
+  <string name="contact_in_filter_title">Sender</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
@@ -301,6 +302,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Mi phone</string>
+  <string name="del_account_questionnair_hint">"Could you tell us why you're deleting this account?"</string>
   <string name="delete">Delete</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Activate</string>
@@ -309,8 +311,9 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Can't receive new messages. Sync is off."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
+  <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
@@ -346,7 +349,10 @@
   <string name="edit_quick_response_dialog">Quick reply</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
+  <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
@@ -381,10 +387,11 @@
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
-  <string name="folder_junk_name_en0">Junk</string>
+  <string name="folder_junk_name_en0">Spam</string>
   <string name="folder_junk_name_en1">Bulk Mail</string>
   <string name="folder_junk_name_en2">Junk Mail</string>
   <string name="folder_junk_name_en3">Junk E-Mail</string>
+  <string name="folder_junk_name_en4">Junk</string>
   <string name="folder_list_display_all">Display all folders</string>
   <string name="folder_list_display_only_import">Only display important folders</string>
   <string name="folder_picker_title">Choose folders</string>
@@ -445,7 +452,6 @@
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Reply all</string>
-  <string name="ignore_spam_warning">Ignore, I trust this message</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
@@ -475,7 +481,7 @@
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
-  <string name="mailbox_name_display_junk">Junk</string>
+  <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Outbox</string>
   <string name="mailbox_name_display_sent">Sent</string>
   <string name="mailbox_name_display_starred">Starred</string>
@@ -691,6 +697,15 @@
   <string name="push_wps_confirm_message">Try using WPS Office to open this attachment.</string>
   <string name="push_wps_confirm_title">Try WPS Office</string>
   <string name="push_wps_no_response_app">No application found to handle this action</string>
+  <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
+  <string name="questionnair_confirm_delete">Delete</string>
+  <string name="questionnair_instability">Unstable app, crashes frequently</string>
+  <string name="questionnair_not_send">"Can't send mail"</string>
+  <string name="questionnair_not_sync">Unstable sync</string>
+  <string name="questionnair_other_reasons">Other reasons</string>
+  <string name="questionnair_title">Deleting account</string>
+  <string name="questionnair_ui_not_pretty">"Don't like the design"</string>
+  <string name="questionnair_waste_resource">Deleting might free up storage</string>
   <string name="quick_1">Thanks!</string>
   <string name="quick_2">Sounds good to me!</string>
   <string name="quick_3">"I'll read this later and get back to you."</string>
@@ -737,8 +752,6 @@
   <string name="release_to_refresh">Release to refresh</string>
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
-  <string name="remove_account_confirm">\"%1$s\" will be removed from Mail.</string>
-  <string name="remove_account_confirm_title">Remove account</string>
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
@@ -789,9 +802,9 @@
   <string name="ser_resp_err_map_certificate_validator_err">"Couldn't validate server certificate
 \u0009 (Make sure'Auto sync time' is turned on in Settings)"</string>
   <string name="ser_resp_err_map_nouser">"User doesn't exist"</string>
-  <string name="ser_resp_err_map_or">or</string>
+  <string name="ser_resp_err_map_or">%1$s or %2$s</string>
   <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
-  <string name="ser_resp_err_map_serclosed">Server is closed</string>
+  <string name="ser_resp_err_map_serclosed">%s server closed</string>
   <string name="ser_resp_err_map_ssl">"Choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
@@ -856,6 +869,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Try login with exchange</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>

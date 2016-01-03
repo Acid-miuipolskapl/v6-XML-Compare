@@ -115,6 +115,14 @@
         <item>\#</item>
         <item>∅</item>
     </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Tonight</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>Next week</item>
+        <item>Next month</item>
+        <item>Pick date</item>
+    </string-array>
     <array name="combined_view_account_colors">
         <item>@color/combined_view_account_color_1</item>
         <item>@color/combined_view_account_color_2</item>
@@ -152,6 +160,7 @@
         <item>@string/folder_junk_name_en1</item>
         <item>@string/folder_junk_name_en2</item>
         <item>@string/folder_junk_name_en3</item>
+        <item>@string/folder_junk_name_en4</item>
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
         <item>@string/folder_junk_name_cn2</item>

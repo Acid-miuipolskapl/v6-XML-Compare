@@ -45,12 +45,10 @@
   <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
   <string name="call_recording_notification_title">Call recorded</string>
   <string name="call_recording_notification_title_error">"Couldn't record call"</string>
-  <string name="call_self">"Can't dial own number"</string>
   <string name="call_title_redialing_with_times">Redialed %d times</string>
   <string name="caller_manage_header">Conference call %s</string>
   <string name="calling_via_template">Calling via %s</string>
   <string name="cancel">Cancel</string>
-  <string name="cancel_call">Hang up</string>
   <string name="card_title_call_ended">"Call ended "</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
@@ -84,7 +82,6 @@
   <string name="description_image_button_two">two</string>
   <string name="description_image_button_zero">zero</string>
   <string name="description_target_answer">Answer</string>
-  <string name="dial_with_gsm_phone">Regular call</string>
   <string name="emergency_call_dialog_number_for_display">Emergency number</string>
   <string name="fraud_call_answer">Answer</string>
   <string name="fraud_call_decline">Decline</string>
@@ -107,8 +104,8 @@
   <string name="jeejen_end_call_text">End call</string>
   <string name="jeejen_reject_call_text">Reject call</string>
   <string name="jeejen_toggle_dialpad_text">Dialpad</string>
-  <string name="livetalk_dial">Using Top-up package</string>
-  <string name="livetalk_left_minute">%s min left</string>
+  <string name="livetalk_dial">Topping up</string>
+  <string name="livetalk_left_minute">%sm remaining</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Stranger card</string>
   <string name="modify_call_failure_str">"Modify Call request failed
@@ -121,16 +118,10 @@
   <string name="modify_call_prompt_no">No</string>
   <string name="modify_call_prompt_yes">Yes</string>
   <string name="msim_select_default_time_left">(%d s)</string>
-  <string name="network_error_message">Try to make a regular call. It will be charged by the operator.</string>
-  <string name="network_error_title">Network error</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
-  <string name="no_balance_title">Insufficient funds</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="non_ivr_menu_collapse_menu">Collapse menu</string>
   <string name="non_ivr_menu_view_menu">View menu</string>
-  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
-  <string name="not_support_title">"Number isn't supported"</string>
   <string name="notification_action_accept">Accept</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Voice</string>
@@ -164,8 +155,8 @@
   <string name="payphone">Payphone</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="private_num">Private number</string>
-  <string name="purchase_now">Top up</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
+  <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="separate_from_conference">Separate call</string>
   <string name="suspect_info">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
@@ -173,6 +164,7 @@
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="voicemail">Voicemail</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
   <string name="waiting_close_airplane_mode">Just a sec…</string>

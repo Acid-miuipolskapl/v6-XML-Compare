@@ -18,6 +18,7 @@
   <string name="notification_missedCallTicker">Missed call from %s</string>
   <string name="notification_missedCallTitle">Missed call</string>
   <string name="notification_missedCall_call_back">Call back</string>
+  <string name="notification_missedCall_call_back_miui">Call</string>
   <string name="notification_missedCall_message">Message</string>
   <string name="notification_missedCallsMsg">%s missed calls</string>
   <string name="notification_missedCallsTitle">Missed calls</string>

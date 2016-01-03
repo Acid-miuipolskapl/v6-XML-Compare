@@ -49,7 +49,7 @@
   <string name="add_bookmark_group">Add group</string>
   <string name="add_new_bookmark">Add bookmark</string>
   <string name="add_new_quicklink">Add to start page</string>
-  <string name="add_ql_bm_title">Add</string>
+  <string name="add_ql_bm_title">Save</string>
   <string name="add_quicklink_to_popular">Add to start page</string>
   <string name="add_quicklinks">Add to start page</string>
   <string name="add_to_bookmark">Bookmarks</string>
@@ -283,6 +283,8 @@
   <string name="geolocation_settings_page_summary_allowed">This site can access your location</string>
   <string name="geolocation_settings_page_summary_not_allowed">"This site can't access your location"</string>
   <string name="geolocation_settings_page_title">Clear location access</string>
+  <string name="go_supermarket_button">Go</string>
+  <string name="go_supermarket_title">More apps, faster speed, and less data usage in App Store</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="history_saved_webpage">Save page</string>
@@ -536,6 +538,12 @@ Leave this page?"</string>
   <string name="profiler_started_toast">Profiler started</string>
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
+  <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+  <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+  <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_release_label">Release to go to the Recommend and refresh</string>
   <string name="qr_code_title">QR Code</string>
   <string name="quicklink_bookmark_save">BOOKMARK LOCATION</string>
   <string name="quicklink_not_saved">"Couldn't add to start page"</string>

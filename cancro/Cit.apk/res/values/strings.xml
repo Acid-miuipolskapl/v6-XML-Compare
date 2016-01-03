@@ -63,6 +63,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_blue_tooth_address_check_title">Get Bluetooth address</string>
   <string name="cit_blue_tooth_scan_check_summary">Below is the info of the Bluetooth devices that were detected nearby.</string>
   <string name="cit_blue_tooth_scan_check_title">Bluetooth scan</string>
+  <string name="cit_blue_torch_on">Turn on blue flash light</string>
   <string name="cit_bluetooth_address_open_error">"Couldn't get Bluetooth address. An error occurred while opening Bluetooth device."</string>
   <string name="cit_bluetooth_not_support">"This device doesn't support Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Scan again</string>
@@ -335,4 +336,5 @@ Turn the phone, Speak to microphone at the position of the receiver, you should 
 
 Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
   <string name="cit_x5_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+  <string name="cit_yellow_torch_on">Turn on yellow flash light</string>
 </resources>

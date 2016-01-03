@@ -4,13 +4,13 @@
 
 
 # static fields
-.field private static final IS_A1:Z
+.field public static final IS_A1:Z
 
 .field public static final IS_A10:Z
 
-.field private static final IS_A4:Z
+.field public static final IS_A4:Z
 
-.field private static final IS_A7:Z
+.field public static final IS_A7:Z
 
 .field public static final IS_A9:Z
 
@@ -35,6 +35,8 @@
 .field public static final IS_HM2S_LTE:Z
 
 .field public static final IS_HM3:Z
+
+.field public static final IS_HM3A:Z
 
 .field public static final IS_HM3LTE:Z
 
@@ -220,6 +222,16 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_HM3LTE:Z
 
+    const-string v0, "kenzo"
+
+    sget-object v3, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
+
     sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_TWOX:Z
 
     if-nez v0, :cond_2
@@ -394,15 +406,6 @@
     goto/16 :goto_4
 .end method
 
-.method public constructor <init>()V
-    .locals 0
-
-    .prologue
-    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
-
-    return-void
-.end method
-
 .method public static adjustScreenLight()Z
     .locals 2
 
@@ -532,14 +535,32 @@
     .locals 2
 
     .prologue
-    const-string v0, "is_camera_app_water_mark"
+    const/4 v0, 0x0
 
-    const/4 v1, 0x0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI3W:Z
 
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+    if-nez v1, :cond_0
 
-    move-result v0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI4:Z
 
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-nez v1, :cond_0
+
+    const-string v1, "is_camera_app_water_mark"
+
+    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :cond_1
     return v0
 .end method
 
@@ -1399,14 +1420,23 @@
     .locals 2
 
     .prologue
-    const-string v0, "support_camera_torch_capture"
+    const/4 v0, 0x0
 
-    const/4 v1, 0x0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_HM3A:Z
 
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+    if-nez v1, :cond_0
 
-    move-result v0
+    const-string v1, "support_camera_torch_capture"
 
+    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_0
+
+    const/4 v0, 0x1
+
+    :cond_0
     return v0
 .end method
 

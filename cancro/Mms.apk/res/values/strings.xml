@@ -54,6 +54,7 @@
   <string name="cannot_resend_audio">"Couldn't send recording"</string>
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
+  <string name="card_insert_to_contact">Import contact</string>
   <string name="change_duration_activity">Change duration</string>
   <string name="check_all">Select all</string>
   <string name="chenghu_disable_mms">"You can't use nicknames in MMS"</string>
@@ -179,6 +180,7 @@
   <string name="found_old_messages_title">Upload messages from your other SIM cards?</string>
   <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Sync messages from Mi Cloud in Messaging Settings.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Sync not started yet</string>
   <string name="found_wild_messages_title">Sync messages from Mi Cloud</string>
   <string name="from_label">"From: "</string>
   <string name="group_message">Group message</string>
@@ -488,6 +490,7 @@
   <string name="select_link_title">Choose action</string>
   <string name="select_local_audio">Select audio</string>
   <string name="select_local_video">Select video</string>
+  <string name="select_message_send_sim">Choose SIM card</string>
   <string name="select_recipient">Choose recipients</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
@@ -620,6 +623,8 @@ Attempt made: %s."</string>
   <string name="voip_enable_popup_msg2">Privacy Policy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Send in %ds</string>
+  <string name="wild_msg_processing">Processing...</string>
+  <string name="wild_msg_title">Enable cloud syncing</string>
   <string name="xiaomi_service_number">Service number</string>
   <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
   <string name="yes">OK</string>
