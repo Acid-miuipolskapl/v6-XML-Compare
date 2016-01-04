@@ -169,6 +169,7 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
   <string name="can_not_call_self">"Can't dial own number"</string>
+  <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
   <string name="cancel">Cancel</string>
   <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
   <string name="card_title_MTcall_forwarding">Incoming Call is Forwarded</string>
@@ -204,6 +205,8 @@
   <string name="carrier_settings_title">Carrier settings</string>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
+  <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
   <string name="cdma_display_precise_call_state_title">Display call status</string>
@@ -245,6 +248,7 @@
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="cmcc_ut_data_enable_prompt">"Couldn't connect using VoLTE network. Turn on your mobile data connection now."</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
+  <string name="config_default_data_sim">Settings</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Confirm new PIN2</string>
   <string name="confirmPinLabel">Confirm new PIN</string>
@@ -454,6 +458,7 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">go private</string>
+  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
@@ -1088,8 +1093,9 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="simContacts_title">Manage SIM card contacts</string>
   <string name="sim_absent">Absent</string>
   <string name="sim_activated">Verified</string>
-  <string name="sim_card_activate">Current SIM card</string>
+  <string name="sim_card_activate">SIM verification</string>
   <string name="sim_card_num">SIM%s</string>
+  <string name="sim_card_summary_no_sim_card">Please insert the SIM card</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_description_default">SIM card, slot: %s</string>
