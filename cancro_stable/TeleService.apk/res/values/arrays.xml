@@ -283,10 +283,9 @@
         <item>never</item>
     </string-array>
     <string-array name="livetalk_about_info_array">
-        <item>- Supports domestic and international phone numbers.</item>
-        <item>"- Each call uses 1Kb of mobile data (uses regular cellular network when you don't have a mobile data connection)."</item>
-        <item>- Your carrier may charge you for roaming while using this service.</item>
-        <item>- You need to turn on Free Listening to use this service, otherwise your carrier may charge you while roaming.</item>
-        <item>- Service support: YunZhiXun, RonLianYunTongXun, LTSC</item>
+        <item>• Use: Call any phone in the world, there are no carrier restrictions;</item>
+        <item>• Requirements: Every call requires 1KB of mobile data;</item>
+        <item>• Other: Top up and start calling, there are no complicated settings;</item>
+        <item>• If you need help, please call 400-100-5678.</item>
     </string-array>
 </resources>

@@ -12,7 +12,7 @@
 Before you calibrate the device, place it on a flat surface."</string>
   <string name="cit_accelermeter_sensor_check_title">Accelerometer</string>
   <string name="cit_aud_spkcal">Calibrate</string>
-  <string name="cit_audio_cali_done">Calibration Done!</string>
+  <string name="cit_audio_cali_done">Done calibrating</string>
   <string name="cit_audio_cali_failed">Calibration Failed, please Retry!</string>
   <string name="cit_audio_cali_file_existed">Music file do not exist,can not do calibration!</string>
   <string name="cit_audio_cali_playing">Press button to do calibration</string>
@@ -105,8 +105,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_fm_start_service">Start audio</string>
   <string name="cit_front_camera_check_summary">"Test instructions:
 
-1.Tap the Camera button below to enter front Camera interface
-2.Tap the shutter button
+1.Tap the Camera button below to enter front Camera interface.
+2.Tap the shutter button.
 3.Tap the Check icon. The system will save the photo automatically.
 4.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_front_camera_check_title">Front camera</string>
@@ -158,15 +158,15 @@ Touch the screen to start GPS…"</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Backlight, notification light, and flash light (rear), should respond when corresponding button is pressed.</string>
   <string name="cit_leds_check_title">Notification light (LED)</string>
-  <string name="cit_light_sensor_check_summary">DAC value should appear below</string>
+  <string name="cit_light_sensor_check_summary">DAC value should appear below.</string>
   <string name="cit_light_sensor_check_title">Light sensor</string>
   <string name="cit_magnetic_sensor_check_summary">Values for X，Y，Z, coordinates should appear below</string>
   <string name="cit_magnetic_sensor_check_title">Magnetic sensor</string>
   <string name="cit_main_camera_check_summary">"Test instructions:
 
-1.Tap the Camera button below to enter rear Camera interface
-2.Make sure the flash is enabled
-3.Tap the shutter button
+1.Tap the Camera button below to enter rear Camera interface.
+2.Make sure the flash is enabled.
+3.Tap the shutter button.
 4.Tap the Check icon. The system will save the photo automatically.
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
@@ -206,7 +206,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sd_plugout_check_title">SD card (removal)</string>
   <string name="cit_sd_unmount">Unmount SD card</string>
   <string name="cit_sd_unmount_sucess">SD card unmounted</string>
-  <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below</string>
+  <string name="cit_sim_check_summary">Make sure SIM card info and status are displayed correctly.</string>
   <string name="cit_sim_check_title">SIM card</string>
   <string name="cit_sim_error_unknown">Unknown</string>
   <string name="cit_sim_network_operator">Network service provider:</string>
@@ -267,29 +267,29 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
-  <string name="cit_tool_wifi_rx_count_error">Output value is not a number</string>
+  <string name="cit_tool_wifi_rx_count_error">Output value is not a number.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">An error occurred while running the program</string>
+  <string name="cit_tool_wifi_rx_error">An error occurred while running the program.</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>
   <string name="cit_tool_wifi_rx_stop">Stop</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">channel:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxn_test_bw">Bandwidth:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">Channel:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_chan">channel:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_st_chan">Channel:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
   <string name="cit_torch_off">Turn off flash light</string>
   <string name="cit_torch_on">Turn on flash light</string>
@@ -302,13 +302,13 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_usb_OTG_out">USB OTG device removed</string>
   <string name="cit_usb_charger_in">Charging via USB</string>
   <string name="cit_usb_charger_out">USB charger disconnected</string>
-  <string name="cit_version_check_summary">Below is OS version info. Confirm that the info highlighted in green is correct.</string>
+  <string name="cit_version_check_summary">"Device's info is below. Confirm that the info highlighted in green is correct."</string>
   <string name="cit_version_check_title">Check version info</string>
   <string name="cit_vga_camera_capture">Camera</string>
   <string name="cit_vga_camera_capture_fail">Failed to take picture</string>
   <string name="cit_vga_camera_delete">Delete</string>
   <string name="cit_vga_camera_deleted">Photo deleted</string>
-  <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally</string>
+  <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally.</string>
   <string name="cit_vibrator_check_title">Vibration</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Haptic</string>

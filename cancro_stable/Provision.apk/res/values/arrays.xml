@@ -14,6 +14,7 @@
         <item>ao</item>
         <item>ar</item>
         <item>bh</item>
+        <item>be</item>
         <item>bo</item>
         <item>bw</item>
         <item>br</item>
@@ -40,14 +41,17 @@
         <item>id</item>
         <item>ir</item>
         <item>iq</item>
+        <item>il</item>
         <item>jo</item>
         <item>ke</item>
         <item>kw</item>
         <item>lb</item>
         <item>ls</item>
         <item>ly</item>
+        <item>lt</item>
         <item>mw</item>
         <item>my</item>
+        <item>mr</item>
         <item>mx</item>
         <item>ma</item>
         <item>mz</item>
@@ -56,6 +60,7 @@
         <item>ni</item>
         <item>ng</item>
         <item>om</item>
+        <item>ps</item>
         <item>pa</item>
         <item>py</item>
         <item>pe</item>
@@ -66,11 +71,14 @@
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
+        <item>so</item>
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
+        <item>sd</item>
         <item>sr</item>
         <item>sz</item>
+        <item>ch</item>
         <item>sy</item>
         <item>tw</item>
         <item>tz</item>

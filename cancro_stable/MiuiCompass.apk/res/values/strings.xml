@@ -8,7 +8,6 @@
   <string name="altitude_uncalibrate_tip">"Can't calibrate altitude"</string>
   <string name="altitude_unit">M</string>
   <string name="app_label">Compass</string>
-  <string name="calibrate_altitude">Calibrating…</string>
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">"Can't calibrate"</string>
   <string name="calibrate_failed_timeout">"Can't connect to the server"</string>
@@ -33,7 +32,6 @@
   <string name="error_camera_unavailable_title">Camera unavailable</string>
   <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
   <string name="first_using_dialog_title">Access permission</string>
-  <string name="getting_location">Calibrating…</string>
   <string name="guide_toast">To calibrate, move your phone in the motion below.</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
@@ -46,13 +44,12 @@
   <string name="location_south">SL</string>
   <string name="location_west">WL</string>
   <string name="longitude">LON</string>
-  <string name="menu_calibrate">Calibrate compass</string>
   <string name="mobiledata_alert_dialog_message">Connect to the internet to calibrate altitude?</string>
   <string name="mobiledata_alert_dialog_title">Data usage warning</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressure</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Shake to calibrate</string>
-  <string name="using_camera_confirm_cancel">Quit</string>
+  <string name="using_camera_confirm_cancel">Exit</string>
   <string name="using_camera_confirm_ok">Agree</string>
 </resources>

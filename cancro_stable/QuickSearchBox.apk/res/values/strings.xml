@@ -3,6 +3,7 @@
   <string name="app_name">Search</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_history">Clear history</string>
   <string name="clear_shortcuts">Clear shortcuts</string>
   <string name="clear_shortcuts_agree">Clear shortcuts</string>
   <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
@@ -34,30 +35,29 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="hot_search">Popular</string>
   <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+  <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
-  <string name="search_in_app_store">Search app market</string>
+  <string name="search_history">History</string>
+  <string name="search_in_app_store">Search Mi App Store</string>
   <string name="search_in_web">Search online</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
   <string name="search_widget">Search</string>
-  <string name="searchable_lable_app">app</string>
-  <string name="searchable_lable_browser">browser</string>
-  <string name="searchable_lable_duokan">duokan</string>
-  <string name="searchable_lable_music">music</string>
-  <string name="searchable_lable_o2o">o2o</string>
-  <string name="searchable_lable_video">video</string>
-  <string name="searchable_sources">Online</string>
   <string name="send_secret_code">Send code</string>
+  <string name="show_more">Show more</string>
   <string name="system_search_category_title">Phone</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
-  <string name="voice_search_hint_title">Try saying:</string>
+  <string name="voice_search_hint_title">"Try saying "</string>
+  <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+  <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
   <string name="xiaomi_search_label">Results</string>
-  <string name="xiaomi_suggest_base">http://global.search.xiaomi.net/global/v2/sug</string>
+  <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
 </resources>
