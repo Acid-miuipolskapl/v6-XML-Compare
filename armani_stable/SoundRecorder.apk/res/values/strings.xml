@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Delete selected recordings?</string>
-  <string name="alert_message_delete_record_title">Delete Record</string>
+  <string name="alert_message_delete_record_title">Delete recording?</string>
   <string name="app_name">Recorder</string>
   <string name="back">Back</string>
   <string name="button_queue_for_wifi">Wait</string>
   <string name="button_start_now">Download</string>
   <string name="call_record">Recorded calls (%d)</string>
   <string name="cloud_record">%d synced</string>
+  <string name="cloud_record_open">Sync recordings</string>
+  <string name="cloud_record_tip">Sync recordings with Mi Cloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Not now</string>
+  <string name="cloud_status_full_dialog_msg">"Your cloud storage is full, can't sync recordings. Upgrade your account to get more storage space."</string>
+  <string name="cloud_status_full_dialog_ok">Upgrade</string>
+  <string name="cloud_status_full_dialog_title">Mi Cloud storage full</string>
   <string name="data_connection_body">Using your mobile data connection to download this file will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Data usage warning</string>
@@ -27,10 +33,8 @@
   <string name="error_sdcard_access">"Can't access storage"</string>
   <string name="error_sdcard_unmounted">Insert SD card now</string>
   <string name="fm_record">Radio recordings (%d)</string>
-  <string name="loading_recording">Loading</string>
   <string name="low_battery_error">Less than 5% battery remaining. To ensure that your recording is not lost, recording has been paused and saved.</string>
   <string name="message_file_size_error">Recording has reached the maximum length supported by %s</string>
-  <string name="no_downloading_file">No files are downloading.</string>
   <string name="no_file">Empty</string>
   <string name="notification_message_all_paused">Waiting for WLAN connection.</string>
   <string name="notification_playback">Playing…</string>
@@ -45,21 +49,14 @@
   <string name="preference_led_indicator">Lock screen notifications</string>
   <string name="preference_led_indicator_prompt">While recording, show in status bar and pulse notification light at lock screen</string>
   <string name="preference_record_scenes_dialog_title">Choose recording type</string>
-  <string name="preference_record_type_dialog_title">Choose a recording type</string>
-  <string name="preference_record_type_title">Recording type</string>
   <string name="preference_scenes">Recording type</string>
   <string name="preference_silent_mode">Mute ringer when recording</string>
   <string name="preference_tip_rename">Name recordings manually</string>
   <string name="record_back_pressed_hint">To stop recording, touch Back again</string>
   <string name="record_download">Download from Mi Cloud</string>
-  <string name="record_download_activity">Download list</string>
-  <string name="record_download_complete">Complete</string>
-  <string name="record_download_failed">Failed</string>
+  <string name="record_download_complete">Downloaded</string>
   <string name="record_download_msg">Recordings can only be played after they have finished downloading.</string>
   <string name="record_download_msg_reload">"This recording doesn't exist."</string>
-  <string name="record_download_paused">Paused</string>
-  <string name="record_download_pending">Pending</string>
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Downloading…</string>
   <string name="record_downloading_notification_complete">Download complete</string>
   <string name="record_downloading_notification_count">%d downloading</string>
@@ -72,6 +69,7 @@
   <string name="record_name_hour">.</string>
   <string name="record_name_minute"/>
   <string name="record_picker_title">Choose a recording</string>
+  <string name="record_quliaty_preference_title">Recording quality</string>
   <string name="recording">Recording</string>
   <string name="recording_stopped">Stopped</string>
   <string name="rename">Rename</string>
@@ -88,7 +86,6 @@
   <string name="sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
   <string name="sync_records">Sync with Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Still downloading</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Explorer app isn't installed"</string>
   <string name="wifi_recommended_body" formatted="false">Using your mobile data connection to download this file (%s) will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees. To wait for a WLAN connection to download this file, tap %s.</string>

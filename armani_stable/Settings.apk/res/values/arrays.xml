@@ -81,8 +81,10 @@
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
     <string-array name="entryvalues_font_size">
+        <item>small</item>
         <item>normal</item>
         <item>medium</item>
         <item>large</item>
@@ -1021,6 +1023,7 @@
         <item>-1</item>
     </string-array>
     <string-array name="font_size_title">
+        <item>@string/layout_size_small</item>
         <item>@string/layout_size_normal</item>
         <item>@string/layout_size_medium</item>
         <item>@string/layout_size_large</item>
@@ -1372,12 +1375,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>COLD</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
-        <item>Ask permission for risky apps</item>
-        <item>Allow</item>
+        <item>Turn on (recommended)</item>
+        <item>"Don't use (dangerous)"</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-        <item>Ask permission</item>
-        <item>Allow</item>
+        <item>Turn on</item>
+        <item>"Don't use"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
@@ -1406,6 +1409,107 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
+    </string-array>
+    <string-array name="organized_locales">
+        <item>dz</item>
+        <item>ao</item>
+        <item>ar</item>
+        <item>bh</item>
+        <item>be</item>
+        <item>bo</item>
+        <item>bw</item>
+        <item>br</item>
+        <item>cm</item>
+        <item>cl</item>
+        <item>co</item>
+        <item>cd</item>
+        <item>cr</item>
+        <item>ci</item>
+        <item>ec</item>
+        <item>eg</item>
+        <item>sv</item>
+        <item>gq</item>
+        <item>et</item>
+        <item>fk</item>
+        <item>fr</item>
+        <item>gf</item>
+        <item>gh</item>
+        <item>gt</item>
+        <item>gy</item>
+        <item>hn</item>
+        <item>hk</item>
+        <item>in</item>
+        <item>id</item>
+        <item>ir</item>
+        <item>iq</item>
+        <item>il</item>
+        <item>jo</item>
+        <item>ke</item>
+        <item>kw</item>
+        <item>lb</item>
+        <item>ls</item>
+        <item>ly</item>
+        <item>lt</item>
+        <item>mw</item>
+        <item>my</item>
+        <item>mr</item>
+        <item>mx</item>
+        <item>ma</item>
+        <item>mz</item>
+        <item>mm</item>
+        <item>na</item>
+        <item>ni</item>
+        <item>ng</item>
+        <item>om</item>
+        <item>ps</item>
+        <item>pa</item>
+        <item>py</item>
+        <item>pe</item>
+        <item>ph</item>
+        <item>qa</item>
+        <item>ru</item>
+        <item>rw</item>
+        <item>sa</item>
+        <item>sn</item>
+        <item>sg</item>
+        <item>so</item>
+        <item>za</item>
+        <item>gs</item>
+        <item>kr</item>
+        <item>sd</item>
+        <item>sr</item>
+        <item>sz</item>
+        <item>ch</item>
+        <item>sy</item>
+        <item>tw</item>
+        <item>tz</item>
+        <item>th</item>
+        <item>tn</item>
+        <item>tr</item>
+        <item>ug</item>
+        <item>ua</item>
+        <item>ae</item>
+        <item>uy</item>
+        <item>ve</item>
+        <item>vn</item>
+        <item>ye</item>
+        <item>zm</item>
+        <item>zw</item>
+    </string-array>
+    <string-array name="common_password_business_keys">
+        <item>keyguard</item>
+        <item>childrenmode</item>
+        <item>file_explorer</item>
+    </string-array>
+    <string-array name="common_password_business_clickable_default">
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+    </string-array>
+    <string-array name="common_password_business_names">
+        <item>Lock screen</item>
+        <item>Child mode</item>
+        <item>File Explorer</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>

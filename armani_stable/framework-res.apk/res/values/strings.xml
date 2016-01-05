@@ -519,6 +519,14 @@ Try again in %d seconds."</string>
   <string name="loading">Loading…</string>
   <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">square</string>
+  <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
+  <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
+
+To unpin, press and hold Home and the Power button at the same time."</string>
+  <string name="lock_to_app_toast">To unpin this screen, press and hold Home and the Power button at the same time.</string>
+  <string name="lock_to_app_toast_accessible">To unpin this screen, press and hold Home and the Power button at the same time.</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
@@ -774,6 +782,7 @@ Try again in %d seconds."</string>
   <string name="permdesc_bindDeviceAdmin">Allows the holder to send intents to a device administrator. Should never be needed for normal apps.</string>
   <string name="permdesc_bindGadget">Allows the app to tell the system which widgets can be used by which app. An app with this permission can give access to personal data to other apps. Not for use by normal apps.</string>
   <string name="permdesc_bindInputMethod">Allows the holder to bind to the top-level interface of an input method. Should never be needed for normal apps.</string>
+  <string name="permdesc_bindJobService">This permission allows the Android system to run the application in the background when requested.</string>
   <string name="permdesc_bindNfcService">Allows the holder to bind to applications that are emulating NFC cards. Should never be needed for normal apps.</string>
   <string name="permdesc_bindNotificationListenerService">Allows the holder to bind to the top-level interface of a notification listener service. Should never be needed for normal apps.</string>
   <string name="permdesc_bindPackageVerifier">Allows the holder to make requests of package verifiers. Should never be needed for normal apps.</string>
@@ -1054,6 +1063,7 @@ for account %s."</string>
   <string name="permlab_bindDeviceAdmin">interact with a device admin</string>
   <string name="permlab_bindGadget">choose widgets</string>
   <string name="permlab_bindInputMethod">bind to an input method</string>
+  <string name="permlab_bindJobService">"run the application's scheduled background work"</string>
   <string name="permlab_bindNfcService">bind to NFC service</string>
   <string name="permlab_bindNotificationListenerService">bind to a notification listener service</string>
   <string name="permlab_bindPackageVerifier">bind to a package verifier</string>
