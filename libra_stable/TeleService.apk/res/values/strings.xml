@@ -404,6 +404,7 @@
   <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 blocked. Change PIN2 and try again.</string>
   <string name="fdn_enabled">Fixed Dialing Numbers are enabled</string>
   <string name="fdn_failed">FDN operation failed.</string>
+  <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_service_unavailable">FDN service is not available.</string>
   <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
@@ -674,7 +675,7 @@ Will use preferred network instead."</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Current 4-digit password</string>
-  <string name="old_pin2_label">Old PIN2</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">Old PIN</string>
   <string name="onHold">On hold</string>
   <string name="onscreenAddCallText">Add call</string>
@@ -765,8 +766,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
-  <string name="pocket_mode_summary">Lock automatically when placed in a pocket</string>
-  <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Off</string>

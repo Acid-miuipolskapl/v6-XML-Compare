@@ -26,6 +26,7 @@
   <string name="apply_as_lock_wallpaper_message">Apply wallpaper to lock screen too?</string>
   <string name="apply_as_wallpaper">Home screen</string>
   <string name="apply_both">Set both</string>
+  <string name="apply_negative_action">"Don't apply"</string>
   <string name="aqi_quality_index_dangerous">Dangerous</string>
   <string name="aqi_quality_index_good">Good</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>
@@ -36,6 +37,7 @@
   <string name="buffering">Buffering…</string>
   <string name="cancel_action">Cancel</string>
   <string name="cancel_btn_label">Cancel</string>
+  <string name="cant_edit_lock_screen">"Can't edit lock screen style."</string>
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
   <string name="cant_remove_system_app">"Can't remove system app"</string>
@@ -123,7 +125,7 @@
   <string name="gadget_weather_loading">No data</string>
   <string name="gadget_weather_low_temp">Low temp</string>
   <string name="gadget_weather_theme_type">Gadget type</string>
-  <string name="gadget_weather_time_format">EEEE, MMMM dd</string>
+  <string name="gadget_weather_time_format">EEEE, MMMM d</string>
   <string name="gadget_weather_title">Weather</string>
   <string name="gadget_weather_title_14">Weather</string>
   <string name="gadget_weather_title_24">Weather</string>
@@ -195,7 +197,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_notice">Recommended apps</string>
-  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen.</string>
+  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen</string>
   <string name="recommend_apps_switch_title">Recommended apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
@@ -212,11 +214,11 @@
   <string name="sort_by_not_defined">Auto-sort</string>
   <string name="start_activity_failed">"Can't start launcher"</string>
   <string name="starting_preset_app">Starting…</string>
-  <string name="status_downloaded">downloaded</string>
-  <string name="status_downloading">downloading</string>
-  <string name="status_installing">installing</string>
-  <string name="status_paused">paused</string>
-  <string name="status_pending">pending</string>
+  <string name="status_downloaded">Downloaded</string>
+  <string name="status_downloading">Downloading</string>
+  <string name="status_installing">Installing</string>
+  <string name="status_paused">Paused</string>
+  <string name="status_pending">Waiting</string>
   <string name="title_select_live_folder">Select folder</string>
   <string name="title_select_shortcut">Select shortcut</string>
   <string name="toggle_select_title">Choose toggle</string>

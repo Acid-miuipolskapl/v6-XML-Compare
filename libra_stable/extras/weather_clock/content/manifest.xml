@@ -20,7 +20,7 @@
 	<Image name="hour_second" x="#offset_x+#hour_first.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/l.png'" srcid="#hour%10"/>
 	<Image name="minute_first" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute/10"/>
 	<Image name="minute_second" x="#offset_x+#hour_first.bmp_width+#hour_second.bmp_width+#dot.bmp_width+#minute_first.bmp_width" y="21" srcExp="ifelse(#applied_light_wallpaper,'dark','light')+'/s.png'" srcid="#minute%10"/>
-	<DateTime enableFontScale="true" name="today_date_time" x="35" y="252" format="@date_time" size="37.5" color="@color" contentDescriptionFormat="@desc_date_format" w="400" h="50"/>
+	<DateTime enableFontScale="true" name="today_date_time" x="35" y="252" format="@date_time" size="37.5" color="@color" contentDescriptionFormat="@desc_date_format"/>
 	<Text enableFontScale="true" textExp="#weather_temperature+'&#xb0; '+@weather_description" x="35" y="276+#today_date_time.text_height" size="37.5" color="@color"/>
 	<Button x="7" width="480" height="250" contentDescriptionExp="eval(@desc_time)">
 	    <Triggers>

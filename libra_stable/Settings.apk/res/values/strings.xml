@@ -72,7 +72,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_add">Add</string>
   <string name="account_autostar_label">Autostart</string>
-  <string name="account_list">All</string>
+  <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_settings_menu_auto_sync">Auto-sync data</string>
   <string name="account_settings_menu_auto_sync_personal">Auto-sync personal data</string>
@@ -92,6 +92,19 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
+  <string name="add_fingerprint_done_msg">Now you can unlock your device with your fingerprint.</string>
+  <string name="add_fingerprint_done_title">Done!</string>
+  <string name="add_fingerprint_finished_button_text">Done</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the sensor.
+Make sure your finger covers the inner edge of the sensor"</string>
+  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
+  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
+  <string name="add_fingerprint_move_finger_title">Remove finger</string>
+  <string name="add_fingerprint_put_finger_edge_msg">After pressing the sensor, remove the finger, and repeat again.</string>
+  <string name="add_fingerprint_put_finger_msg">After pressing the sensor, remove the finger, and repeat again.</string>
+  <string name="add_fingerprint_put_finger_title">Place finger</string>
+  <string name="add_fingerprint_text">Add fingerprint</string>
+  <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
 
 Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device's location information."</string>
@@ -216,7 +229,9 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="applications_settings">Installed apps</string>
   <string name="applications_settings_header">App settings</string>
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
+  <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
+  <string name="apply_password_to_category_title">Require password</string>
   <string name="apply_update_fail">Update failed</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
@@ -251,12 +266,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
   <string name="background_data_dialog_title">Disable background data?</string>
   <string name="background_data_summary">Apps can sync, send, and receive data at any time</string>
-  <string name="background_location_control_summary">"Allow or prevent apps from getting your device's location info in the background"</string>
-  <string name="background_location_control_title">Background location access</string>
-  <string name="background_location_deselect_apps">Unselect all</string>
-  <string name="background_location_requests_summary">"Allow apps to use location service when you're not using them"</string>
-  <string name="background_location_requests_title">Allow background location</string>
-  <string name="background_location_select_apps">Select all</string>
   <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
   <string name="backup_configure_account_default_summary">No account is currently storing backed up data</string>
   <string name="backup_configure_account_title">Backup account</string>
@@ -647,8 +656,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="cellular_data_title">Cellular data</string>
   <string name="change_password">Change password</string>
   <string name="change_security_lock">Try other ways to unlock</string>
+  <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
+  <string name="checking_find_device_status">Checking Find device status…</string>
   <string name="checking_for_updates">Checking for updates…</string>
   <string name="children_mode_enable_title">Child mode</string>
   <string name="children_mode_set_apps_title">Accessible apps</string>
@@ -699,6 +710,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -902,6 +914,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="default_sound">Default sound</string>
   <string name="default_usb_mode">USB connection</string>
   <string name="delete">Delete</string>
+  <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
+  <string name="delete_fingerprint_text">Remove fingerprint</string>
+  <string name="delete_legacy_fingerprint">Delete</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1165,7 +1181,11 @@ Some apps may not work until updated by their developers."</string>
   <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
   <string name="extreme_threats_title">Extreme threats</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
+  <string name="failed_to_check_find_device_status_content">Failed to check find device status, Wait a minute or two and try again.</string>
+  <string name="failed_to_check_find_device_status_title">Failed to check Find device status</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
+  <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
+  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="field_info_card_label">Choose card:</string>
   <string name="field_info_cell_id_label">Cell ID:</string>
@@ -1189,12 +1209,17 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
+  <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
+  <string name="fingerprint_identificating_msg">Scanning fingerprint…</string>
+  <string name="fingerprint_identify_input_password_msg">Enter password</string>
+  <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+  <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android version</string>
   <string name="floating_window_switch_label">Turn on floating windows</string>
   <string name="floating_window_switch_label_disable">Turn off floating windows</string>
-  <string name="fluency_mode">Optimize system performance</string>
+  <string name="fluency_mode">System animations</string>
   <string name="fluency_mode_confirm_and_reboot">Reboot now</string>
   <string name="font_size_exhuge">Extra Huge</string>
   <string name="font_size_huge">Huge</string>
@@ -1324,8 +1349,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
-  <string name="high_performance_notif_summary">"Performance mode disables temperature controls and battery consumption limits allowing your device to run at maximum capacity. This may cause your device to heat up and reduce it's battery life."</string>
-  <string name="high_performance_notif_title">Battery usage warning</string>
+  <string name="high_performance_notif_summary">Device may heat up during heavy use.</string>
+  <string name="high_performance_notif_title">Performance mode is on</string>
   <string name="high_performance_title">"Looks like you're running a benchmark test. Set power management to \"Performance\" for best results."</string>
   <string name="history_details_title">History details</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
@@ -1341,6 +1366,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
   <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
+  <string name="information_dialog_button_text">Got it</string>
   <string name="input_method">Keyboard</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
@@ -1388,6 +1414,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="join_many_items_last">%1$s and %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s and %2$s</string>
+  <string name="keep_legacy_fingerprint">Keep</string>
   <string name="keep_screen_on">Stay awake</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
   <string name="kernel_version">Kernel version</string>
@@ -1548,6 +1575,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>
@@ -1672,6 +1700,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="master_clear_title">Factory data reset</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
   <string name="media_button">Media button</string>
   <string name="media_category">Media</string>
   <string name="media_feedback_enable_title">Vibrate with the beat</string>
@@ -1921,6 +1950,8 @@ Select your operating system:"</string>
   <string name="oldman_mode_entry_title">Lite mode</string>
   <string name="oldman_mode_settings_caption">Lite mode settings</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
+  <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
+  <string name="onekey_migrate">Transfer</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="only_when_charging">Only when connected to power source</string>
@@ -1984,9 +2015,10 @@ Select your operating system:"</string>
   <string name="page_layout_page2_normal_title">NORMAL</string>
   <string name="page_layout_page2_small_summary">SMALL</string>
   <string name="page_layout_page2_small_title">SMALL</string>
-  <string name="page_layout_page2_title">列表预览图</string>
+  <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">SMALL</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
+  <string name="password_entrance_title">Password</string>
   <string name="password_guard">Password</string>
   <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
@@ -2031,7 +2063,7 @@ Select your operating system:"</string>
   <string name="power_discharge_remaining">%1$s remaining</string>
   <string name="power_discharging_duration">%1$d%% - approx. %2$s left</string>
   <string name="power_flashlight">Flashlight</string>
-  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS"</string>
+  <string name="power_hide_mode_summary">"Save battery by restricting individual apps' background processes, WLAN and mobile data connections, and GPS usage"</string>
   <string name="power_hide_mode_title">Manage apps battery usage</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mgr">Battery</string>
@@ -2058,8 +2090,9 @@ Select your operating system:"</string>
   <string name="preference_change_password_title">Change password</string>
   <string name="preferred_app_settings">Defaults</string>
   <string name="preferred_app_settings_default">Default</string>
-  <string name="preferred_app_settings_reset">Restore defaults</string>
-  <string name="preferred_app_settings_reset_message">Default app preferences will be restored to MIUI factory presets.</string>
+  <string name="preferred_app_settings_reset">Reset to defaults</string>
+  <string name="preferred_app_settings_reset_button">Reset</string>
+  <string name="preferred_app_settings_reset_message">Default app preferences will be reset to MIUI factory presets.</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put phone contents at risk. Use %2$s instead.</string>
   <string name="preferred_application_warning_replace">Replace</string>
@@ -2176,6 +2209,11 @@ Select your operating system:"</string>
   <string name="quick_launch_shortcut">Search + %1$s</string>
   <string name="quick_launch_summary">Set keyboard shortcuts to launch apps</string>
   <string name="quick_launch_title">Quick launch</string>
+  <string name="quiet">Do not disturb</string>
+  <string name="quiet_group">Do not disturb</string>
+  <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
+  <string name="quiet_mode">Silence all disturbances</string>
+  <string name="quiet_off_mode">Always allow disturbances</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Connected</string>
   <string name="radioInfo_data_connecting">Connecting</string>
@@ -2449,15 +2487,18 @@ To use screen pinning:
   <string name="search_sync">sync</string>
   <string name="search_tether">tether</string>
   <string name="search_unlock_set">unlock set</string>
+  <string name="search_virtual_sim">virtual sim</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
+  <string name="secure_keyguard_business_title">Lock screen password</string>
   <string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
   <string name="security_keyguard_category_name">Lock screen</string>
   <string name="security_password_category_name">Screen lock</string>
   <string name="security_passwords_title">Passwords</string>
+  <string name="security_patch">Android security patch level</string>
   <string name="security_privacy_settings_title">Privacy</string>
   <string name="security_relative">Security</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
@@ -2533,6 +2574,10 @@ To use screen pinning:
   <string name="show_touches">Show touches</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
+  <string name="shuting_down_find_device">Turning off Find device…</string>
   <string name="silent_mode_title">Silent mode</string>
   <string name="sim_absent">No SIM/RUIM</string>
   <string name="sim_bad_pin">PIN must be 4-8 letters long</string>
@@ -2640,6 +2685,7 @@ Attempts Remaining :"</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Touch sounds</string>
   <string name="sound_settings">Sound</string>
+  <string name="sound_vibrate_settings">Sound &amp; vibration</string>
   <string name="spellchecker_language">Language</string>
   <string name="spellchecker_quick_settings">Settings</string>
   <string name="spellchecker_security_warning">This spell checker may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
@@ -2661,9 +2707,11 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_awaiting_tap">Tap a tag to write...</string>
   <string name="status_awake_time">Awake time</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_disable_notification">Hide notifications</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Lock screen, notification shade</string>
-  <string name="status_bar_app_enable_on_notificationBar">Show in notification shade</string>
+  <string name="status_bar_app_des_separator">", "</string>
+  <string name="status_bar_app_disable_notification">Notifications hidden</string>
+  <string name="status_bar_app_enable_floating">Floating notifications</string>
+  <string name="status_bar_app_enable_keyguard">Lock screen</string>
+  <string name="status_bar_app_enable_message">Badges</string>
   <string name="status_bar_key_position_custom">Custom key position</string>
   <string name="status_bar_screen_button_key">Screen virtual keys</string>
   <string name="status_bar_screen_key_back">Back button</string>
@@ -2677,22 +2725,23 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Edit carrier name</string>
   <string name="status_bar_settings_custom_wifi_name">Edit WLAN name</string>
-  <string name="status_bar_settings_enable_notification">Allow notifications</string>
+  <string name="status_bar_settings_enable_notification">Show notifications</string>
   <string name="status_bar_settings_expandable_under_keyguard">Show on lock screen</string>
   <string name="status_bar_settings_long_click_sort">Press &amp; hold to pick up a toggle</string>
-  <string name="status_bar_settings_manage_notification">Manage notifications</string>
+  <string name="status_bar_settings_manage_notification">App notifications</string>
   <string name="status_bar_settings_no_carrier">None</string>
   <string name="status_bar_settings_notification_bar">Notification shade</string>
   <string name="status_bar_settings_notification_led">Notification light</string>
   <string name="status_bar_settings_notification_priority">Priority</string>
   <string name="status_bar_settings_notification_priority_summary">Show notifications at the top of the list</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Sounds &amp; vibrations</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Sound &amp; vibration</string>
   <string name="status_bar_settings_show_carrier">Show carrier name</string>
   <string name="status_bar_settings_show_carrier_summary">Carrier name is still displayed on the lock screen and in the notification shade when this feature is off</string>
+  <string name="status_bar_settings_show_floating_notification">Floating notifications</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Floating notifications will disappear automatically after they're shown at the top of the screen"</string>
   <string name="status_bar_settings_show_flow_info">Show flow details</string>
   <string name="status_bar_settings_show_home_message">App icon badge</string>
-  <string name="status_bar_settings_show_keyguard_notification">Floating notifications and lock screen</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary"/>
+  <string name="status_bar_settings_show_keyguard_notification">Lock screen notifications</string>
   <string name="status_bar_settings_show_network_speed">Show connection speed</string>
   <string name="status_bar_settings_show_notification_icon">Show notification icons</string>
   <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
@@ -2889,9 +2938,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
+  <string name="turn_off_common_password_confirm_msg">The password will be turned of as well.</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
+  <string name="turn_on_security_lock">Add security password</string>
   <string name="uicc_eject">Unmount UICC storage</string>
   <string name="uicc_eject_summary">Unmount the UICC storage so you can safely remove it</string>
   <string name="uicc_format">Erase UICC storage</string>
@@ -3120,6 +3171,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
   <string name="virtual_sim_category_title">Virtual Sim</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
@@ -3140,7 +3192,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_auto_update">Update automatically</string>
   <string name="virus_scanner_date_formater">MMM dd yyyy</string>
   <string name="virus_scanner_lib_already_latest">"You're already using the latest definitions"</string>
-  <string name="virus_scanner_lib_update_failed">Update failed</string>
+  <string name="virus_scanner_lib_update_failed">"Couldn't update"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated %s</string>
   <string name="virus_scanner_provider">Definitions provided by %s</string>
@@ -3224,6 +3276,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vpn_username">Username</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
+  <string name="wakeup_for_keyguard_notification_title">Wake lock screen for notifications</string>
   <string name="wallpaper_attributions">Wallpapers</string>
   <string name="wallpaper_attributions_values">"Satellite imagery providers:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
@@ -3279,6 +3332,7 @@ Wi‑Fi Assistant"</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
+  <string name="wifi_click_share_wlan">Tap to share password</string>
   <string name="wifi_config_info">WLAN config</string>
   <string name="wifi_configured_ap_list">Previously configured APs</string>
   <string name="wifi_connect">Connect</string>

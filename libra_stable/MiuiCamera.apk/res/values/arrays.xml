@@ -171,10 +171,10 @@
         <item>@drawable/ic_camera_skin_beatify_i_3</item>
     </array>
     <string-array name="pref_camera_skin_beautify_entryvalues">
-        <item>i:0</item>
-        <item>i:1</item>
-        <item>i:2</item>
-        <item>i:3</item>
+        <item>@string/pref_face_beauty_close</item>
+        <item>@string/pref_face_beauty_low</item>
+        <item>@string/pref_face_beauty_medium</item>
+        <item>@string/pref_face_beauty_high</item>
     </string-array>
     <string-array name="pref_camera_skin_beautify_entries">
         <item>@string/face_beauty_intelligent_level_0</item>
@@ -595,10 +595,10 @@
         <item>@string/face_beauty_intelligent_level_3</item>
     </string-array>
     <string-array name="pref_face_beauty_entryvalues">
-        <item>i:0</item>
-        <item>i:1</item>
-        <item>i:2</item>
-        <item>i:3</item>
+        <item>@string/pref_face_beauty_close</item>
+        <item>@string/pref_face_beauty_low</item>
+        <item>@string/pref_face_beauty_medium</item>
+        <item>@string/pref_face_beauty_high</item>
     </string-array>
     <string-array name="pref_camera_show_gender_age_entries">
         <item>@string/pref_camera_show_gender_age_entry_on</item>

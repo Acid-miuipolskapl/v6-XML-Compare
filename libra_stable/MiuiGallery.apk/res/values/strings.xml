@@ -62,6 +62,7 @@
   <string name="androidesk_wallpapers">Android wallpapers</string>
   <string name="aperture">Aperture</string>
   <string name="app_name">Gallery</string>
+  <string name="app_name_edit_picture">Edit picture</string>
   <string name="app_name_view_picture">View picture</string>
   <string name="apply">Apply</string>
   <string name="appwidget_empty_text">No photos</string>
@@ -84,6 +85,8 @@
   <string name="autohomemain">Autohomemain</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_new_photo_page_title">"%1$s's album"</string>
+  <string name="baby_album_new_photo_remind">There are new photos in your baby album.</string>
+  <string name="baby_album_no_share_user_tip">No followers currently</string>
   <string name="baby_album_picker_default_title">"Select %1$s's face"</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -113,9 +116,14 @@
   <string name="black_white">Flat B&amp;W</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Display</string>
+  <string name="buy_member_tip">become a member.</string>
   <string name="by_email">Email</string>
   <string name="by_others">Others</string>
   <string name="by_sms">Text message</string>
+  <string name="byteShort">B</string>
+  <string name="calculated_pictures_time_tip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually. To speed up this process, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Sorted photos from %1$s till now. Remaining photos will be sorted gradually.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Sorted photos from %1$s till now. Remaining photos will be sorted soon.</string>
   <string name="camera_black_white">Black &amp;White</string>
   <string name="camera_connected">Camera connected</string>
   <string name="camera_disconnected">Camera disconnected</string>
@@ -526,6 +534,7 @@
   <string name="cloud_be_shared_guide_title">This album comes from a friend</string>
   <string name="cloud_camera_display_name">Camera photos</string>
   <string name="cloud_folder_chooser_move">Delete images from original album</string>
+  <string name="cloud_full_tip_str">Not enough space in Cloud</string>
   <string name="cloud_gallery_recyclebin_full">Your trash is full. Empty your trash at www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Not enough space in your cloud</string>
   <string name="cloud_gallery_space_full_buy_more">"Can't sync new photos with your Mi Cloud. To sync more photos, buy additional storage space."</string>
@@ -555,8 +564,13 @@ with friends"</string>
   <string name="confirm_face">Match</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Merge this album with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Not this person</string>
+  <string name="confirm_not_face">No match</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Are you sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
   <string name="contact_photo">Set as contact photo</string>
+  <string name="contact_tip">Contacts</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
@@ -596,7 +610,7 @@ with friends"</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
-  <string name="deselect_all">Unselect all</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
@@ -620,6 +634,7 @@ with friends"</string>
   <string name="duration">Duration</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit">Edit</string>
+  <string name="edit_baby_info">View baby information</string>
   <string name="edited_photo_bucket_name">Edited</string>
   <string name="effect">Filters</string>
   <string name="email_picker_title">Add shared Email</string>
@@ -631,6 +646,7 @@ with friends"</string>
   <string name="error_cloud_not_active">No photos in cloud.</string>
   <string name="error_forbidden">Sync has been disabled due to problems with your Mi Account.</string>
   <string name="error_invalid_link">Invalid link</string>
+  <string name="error_link_has_expired">Link has expired</string>
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_repeat_apply">This album has already been shared</string>
   <string name="error_share_not_support">"This feature isn't supported yet"</string>
@@ -673,6 +689,7 @@ with friends"</string>
   <string name="fail_to_pick_email">Email invalid</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
   <string name="family_member_invitation_text">Other family member</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_not_exist_message">"File doesn't exist"</string>
   <string name="file_size">Size</string>
   <string name="filllight">Fill light</string>
@@ -703,6 +720,7 @@ with friends"</string>
   <string name="gallery_cloud_provider_name">Mi Cloud photos</string>
   <string name="gallery_setting">Gallery</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_setting">Settings</string>
   <string name="go_setting">View settings</string>
   <string name="grain">Film grain</string>
@@ -743,7 +761,7 @@ with friends"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import failed</string>
-  <string name="impunity_declaration">"Some of Gallery's features require an internet connection to work normally."</string>
+  <string name="impunity_declaration">"By using this service, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Internet connection notification</string>
@@ -753,10 +771,12 @@ with friends"</string>
   <string name="initial_cloud_button_text">Sign in</string>
   <string name="initial_cloud_text">Store and view your photos from anywhere.</string>
   <string name="initializing_cloud">Initializing…</string>
+  <string name="input_a_name">Enter name</string>
   <string name="input_baby_name">Enter name</string>
   <string name="input_baby_nick_name">Enter nickname</string>
   <string name="input_cloudfolder_name">Album name</string>
   <string name="input_nickname_toast">"Enter baby's name"</string>
+  <string name="input_or_select_a_name">Enter or choose a name</string>
   <string name="internal_camera_folder_display_name">Internal camera photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal screenshots</string>
   <string name="internal_sd_card">Internal storage</string>
@@ -782,6 +802,7 @@ with friends"</string>
   <string name="kick_sharer">Remove shared viewer</string>
   <string name="kick_sharer_failed">"Couldn't remove this person"</string>
   <string name="kick_sharer_successfully">This person was removed</string>
+  <string name="kilobyteShort">KB</string>
   <string name="last_chinese_new_year">Last Chinese New Year</string>
   <string name="last_new_year">Last New Years</string>
   <string name="last_valentine_day">Last Valentine Day</string>
@@ -803,6 +824,7 @@ with friends"</string>
   <string name="maker">Maker</string>
   <string name="manual">Manual</string>
   <string name="me">me</string>
+  <string name="megabyteShort">MB</string>
   <string name="menu_item_sort">Sort</string>
   <string name="menu_item_sort_date">Date</string>
   <string name="menu_item_sort_date_asc">Date (ascending)</string>
@@ -842,9 +864,9 @@ with friends"</string>
   <string name="multiface_crop_help">Touch a face to begin</string>
   <string name="must_pick_file">Select an image</string>
   <string name="name_wrong">"This isn't %s"</string>
-  <string name="need_to_turn_on_network">Connect to the internet</string>
-  <string name="need_to_turn_on_sync">"Turn on sync with Mi Cloud "</string>
-  <string name="need_to_turn_on_wlan">Connect to WLAN</string>
+  <string name="need_to_turn_on_network">"You don't have an internet connection."</string>
+  <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud first</string>
+  <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
@@ -863,12 +885,13 @@ device"</string>
   <string name="no_such_item">"Couldn't find item"</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="none_picture">No images</string>
+  <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
   <string name="not_auto_create_recent_album">Undo create favorites</string>
   <string name="not_is">No</string>
   <string name="not_now">Not now</string>
   <string name="not_remind_any_more">"Don't show again"</string>
   <string name="not_show_hidden_albums">"Don't show hidden albums"</string>
-  <string name="number_of_uploading_finish">All files uploaded to Mi Cloud</string>
+  <string name="number_of_uploading_finish">Synced with Mi Cloud</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Only show camera roll</string>
   <string name="only_show_camera_in_first_page_summary">"Only show photos from your Mi Cloud's camera roll"</string>
@@ -887,7 +910,7 @@ device"</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_secret">Remove from hidden album</string>
   <string name="operation_rename">Rename</string>
-  <string name="operation_rename_baby">Input baby name</string>
+  <string name="operation_rename_baby">Enter name</string>
   <string name="operation_set_as_screensaver">Set as screensaver</string>
   <string name="operation_share">Share</string>
   <string name="operation_successful">Done</string>
@@ -904,12 +927,13 @@ device"</string>
   <string name="paint_crop_cancel_context">Save cropped image?</string>
   <string name="paint_crop_cancel_title">Abandon changes</string>
   <string name="paint_crop_tips">Place the target area of the image near the center of the grid.</string>
-  <string name="paint_highlight">Highlight</string>
-  <string name="paint_highlight_cancel_context">Save highlighted image?</string>
+  <string name="paint_highlight">Doodle</string>
+  <string name="paint_highlight_cancel_context">Save doodle image?</string>
   <string name="paint_highlight_cancel_title">Abandon changes</string>
   <string name="path">Path</string>
   <string name="people">People</string>
   <string name="pet_album_display_name">Pet photos</string>
+  <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Add phone number</string>
   <string name="photo_page_always_rotate">Auto-rotate images</string>
   <string name="photo_page_detail_show_in_the_map">Show the location in the map</string>
@@ -1007,7 +1031,7 @@ device"</string>
   <string name="script">Script</string>
   <string name="sd_not_available">"Couldn't access SD card."</string>
   <string name="sdcard_root">SD card root directory</string>
-  <string name="secret_album_display_name">Secret album</string>
+  <string name="secret_album_display_name">Hidden album</string>
   <string name="select_all">Select all</string>
   <string name="select_auto_upload_albums">Choose albums to sync</string>
   <string name="select_image">Select photo</string>
@@ -1021,14 +1045,14 @@ device"</string>
   <string name="send_public_url">Send album URL</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as lock screen wallpaper</string>
-  <string name="set_baby_icon_picker_default_title">Set thumbnail photo</string>
+  <string name="set_baby_icon_picker_default_title">Set baby icon</string>
   <string name="set_bg_cloud_space_full_message">@string/add_to_cloud_space_full_message</string>
   <string name="set_bg_exceeded_the_size_message">@string/add_to_cloud_exceeded_the_size_message</string>
   <string name="set_bg_file_exist_message">This item already exists</string>
   <string name="set_bg_file_not_exist_message">@string/file_not_exist_message</string>
   <string name="set_bg_image_limit_exceeded_message">@string/add_to_cloud_image_limit_exceeded_message</string>
   <string name="set_bg_local_space_full_message">@string/add_to_cloud_local_space_full_message</string>
-  <string name="set_bg_picker_default_title">Set cover photo</string>
+  <string name="set_bg_picker_default_title">Set top thumbnail</string>
   <string name="set_bg_type_not_support_message">@string/add_to_cloud_type_not_support_message</string>
   <string name="set_bg_unknow_reasons">Unknown error</string>
   <string name="set_hidden_album">Hide</string>
@@ -1094,7 +1118,7 @@ device"</string>
   <string name="sync_album_set_error">"Can't sync photos. Check your data connection and try again."</string>
   <string name="sync_album_summary">Sync with Mi Cloud</string>
   <string name="sync_battery_low">Low battery</string>
-  <string name="sync_cloud_space_full">Cloud storage full</string>
+  <string name="sync_cloud_space_full">Not enough space in Cloud</string>
   <string name="sync_history_power_on">Sync image history only when charging</string>
   <string name="sync_in_progress_message">Downloading albums…</string>
   <string name="sync_only_in_wifi">Only use Wi‑Fi to sync photos</string>
@@ -1111,6 +1135,7 @@ device"</string>
   <string name="tencent_mobile_qq_img_save">QQ</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="terabyteShort">TB</string>
   <string name="there_is_no_image">No images in this file</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Time</string>
@@ -1134,12 +1159,16 @@ device"</string>
   <string name="unpublishing">Cancelling…</string>
   <string name="untagged">Untagged</string>
   <string name="upgrade_micloud_space">Get more space</string>
+  <string name="user_agreement">" Terms of Service"</string>
   <string name="user_alias_self">Self</string>
+  <string name="user_policy">Privacy Policy</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="videos">" videos"</string>
   <string name="view_baby_album">View baby album</string>
+  <string name="view_baby_info">Edit baby information</string>
   <string name="view_face_album">View album</string>
+  <string name="view_queuing_status">Check status</string>
   <string name="view_sharers">View sharers</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
