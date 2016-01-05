@@ -119,7 +119,8 @@
   <string name="download_is_in_tasklist">Queued</string>
   <string name="download_paused">Paused</string>
   <string name="download_percent_hint">Downloading %d%%</string>
-  <string name="download_progress_0p">Downloading %s</string>
+  <string name="download_progress">Downloading %s</string>
+  <string name="download_progress_0p">0%</string>
   <string name="download_queue">Getting info…</string>
   <string name="download_running">Working…</string>
   <string name="download_start_message">Download and install %1$s?</string>
@@ -332,6 +333,7 @@
   <string name="total_episode">%1$s Episodes</string>
   <string name="tudou">Tudou</string>
   <string name="tv_channel_empty_hint">No Channel</string>
+  <string name="tv_cp_info_format">support by %1$s</string>
   <string name="ui_style">App layout</string>
   <string name="ui_style_summary">Choose content layout style</string>
   <string name="unfavorite">Unstar</string>
@@ -365,7 +367,7 @@
   <string name="video_info_resolution_label">Video resolution:</string>
   <string name="video_info_video_coding_label">Video encoding format:</string>
   <string name="video_plugin">Video plug-in</string>
-  <string name="video_plugin_downloading">Downloading…</string>
+  <string name="video_plugin_downloading">Downloading(%1$s), please wait a while.</string>
   <string name="video_plugin_prepare">Just a sec…</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">"Can't connect to the network"</string>
@@ -408,11 +410,18 @@
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Watch HD video anywhere</string>
   <string name="vp_media_info">Show video info</string>
+  <string name="vp_media_type_unsported">This type of media cannot be supported</string>
   <string name="vp_milink">Mi Link</string>
   <string name="vp_milink_function">Cast to display</string>
   <string name="vp_mobile_network_using_negative">Cancel</string>
   <string name="vp_mobile_network_using_positive">Continue</string>
   <string name="vp_mobile_network_using_warning">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
+  <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="vp_mplayer_error_io">IO operation error</string>
+  <string name="vp_mplayer_error_malformed">Malformed media content</string>
+  <string name="vp_mplayer_error_server_died">Media server died</string>
+  <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
   <string name="vp_offline">Offline</string>
@@ -424,6 +433,8 @@
   <string name="vp_offline_status_wait">Wait</string>
   <string name="vp_offline_title">Offline</string>
   <string name="vp_offline_title_name">Episode %d</string>
+  <string name="vp_play_youku_failed_get_video_info">"Couldn't get video info"</string>
+  <string name="vp_play_youku_time_out">Connection timed out</string>
   <string name="vp_player_plugin_dlg_neg_btn">Close</string>
   <string name="vp_player_plugin_dlg_no_content">No Video Player Plugin</string>
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>

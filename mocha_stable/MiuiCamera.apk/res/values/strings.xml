@@ -482,6 +482,7 @@ touch the Shutter button"</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_face_beauty_default">i:0</string>
   <string name="pref_face_beauty_title">Highlight skin tones</string>
+  <string name="pref_front_face_beauty_default">i:0</string>
   <string name="pref_front_mirror_title">Mirror front camera</string>
   <string name="pref_grp_advanced_settings">Advanced settings</string>
   <string name="pref_grp_capture_settings">Capture settings</string>
@@ -599,7 +600,6 @@ touch the Shutter button"</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Burst shooting is not supported when enhance skin tones is enabled</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shoot is not supported when HDR is ON</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"You need to set ISO 'auto'"</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
   <string name="toast_start_audio_capture">Make a sound to trigger the shutter</string>
   <string name="undo">Undo</string>
   <string name="unit_mm">mm</string>

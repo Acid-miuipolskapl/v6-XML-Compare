@@ -37,7 +37,7 @@
   <string name="bookmark_menu_moveout_group_txt">Move</string>
   <string name="bookmark_needs_url">Enter a URL for this bookmark</string>
   <string name="bookmark_select_all">Select all</string>
-  <string name="bookmark_unselect_all">Unselect all</string>
+  <string name="bookmark_unselect_all">Deselect all</string>
   <string name="browser_filechooser_title">Choose file to upload</string>
   <string name="browser_no_more_tab">No more tabs</string>
   <string name="cancel">Cancel</string>
@@ -96,6 +96,12 @@
   <string name="delete">Delete</string>
   <string name="done">OK</string>
   <string name="dont_remind_again">"Don't show again"</string>
+  <string name="download_default_path_txt">" Set as default location"</string>
+  <string name="download_dialog_default_path_invalid">"The download location you've selected is invalid. Saving to default location…"</string>
+  <string name="download_dialog_file_length_hint_txt">Size：</string>
+  <string name="download_dialog_file_length_lessthan1kb">Less than 1KB</string>
+  <string name="download_dialog_file_length_nolength_error_txt">"Couldn't get info"</string>
+  <string name="download_dialog_file_length_nolength_txt">Getting info...</string>
   <string name="download_fail">"Couldn't download"</string>
   <string name="download_managent">Downloads</string>
   <string name="download_nosdcard">Insert SD card to download %s.</string>
@@ -109,6 +115,11 @@
   <string name="error_not_acceptable">Sync has been disabled.</string>
   <string name="error_title">"Couldn't sync"</string>
   <string name="error_unauthorized">Sync has been disabled due to too many sign-in attempts.</string>
+  <string name="file_dir">Folders</string>
+  <string name="file_name">Name</string>
+  <string name="file_picker">Choose location</string>
+  <string name="filename_empty_alert_message">"File name can't be blank"</string>
+  <string name="filename_illegal_alert_message">Invalid characters deleted from the name automatically</string>
   <string name="find_in_page">Search page</string>
   <string name="find_in_page_close_accessibility_text">Close</string>
   <string name="find_in_page_down_accessibility_text">Next</string>
@@ -229,6 +240,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="same_bookmarks_warning">This bookmark already exists</string>
   <string name="same_folder_name_warning">This folder already exists</string>
   <string name="save">Save</string>
+  <string name="save_dialog_title">Save</string>
   <string name="save_password_message">Do you want the browser to remember this password?</string>
   <string name="save_password_never">Never</string>
   <string name="save_password_notnow">Not now</string>
@@ -262,6 +274,9 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Mi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
   <string name="show_check_security_url_check_tip_dialog_title">Check URL security</string>
   <string name="start_page">Start page</string>
+  <string name="storage_internal">Internal storage</string>
+  <string name="storage_sd_card">SD card</string>
+  <string name="storage_usb">USB storage</string>
   <string name="sub_sync_item_browser_title_bookmark">Sync bookmark</string>
   <string name="sub_sync_item_browser_title_bookmark_summary">Sync browser bookmark</string>
   <string name="sub_sync_item_browser_title_cloud_tab">Sync tabs</string>

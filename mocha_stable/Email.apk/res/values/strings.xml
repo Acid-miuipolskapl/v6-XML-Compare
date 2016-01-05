@@ -144,7 +144,7 @@
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
   <string name="add_account">Add account</string>
-  <string name="add_attachment">Attach Files</string>
+  <string name="add_attachment">Add attachment</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">Add folder</string>
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
@@ -159,8 +159,9 @@
   <string name="archive">Archive</string>
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
+  <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
-  <string name="att_file_not_exists">File %s is not found!</string>
+  <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
   <string name="att_mgr_title_order_mime">Format</string>
   <string name="att_mgr_title_order_name">Name</string>
@@ -173,14 +174,15 @@
   <string name="attachment_application_vnd_ms_excel">Spreadsheet</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentation</string>
   <string name="attachment_audio">Audio</string>
-  <string name="attachment_canceling">It is canceling now, please wait a minute!</string>
-  <string name="attachment_decoding">The attachment is downloaded completely, it is decoding now, please waiting.</string>
+  <string name="attachment_canceling">Cancelling…</string>
+  <string name="attachment_decoding">Unpacking attachments…</string>
   <string name="attachment_download_all">Download all</string>
   <string name="attachment_image">Image</string>
+  <string name="attachment_list_search_hint">Search attachments</string>
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
-  <string name="attachment_open_SecurityException_hint">Check permissions, damage, etc.</string>
-  <string name="attachment_open_SecurityException_title">Failed to open file</string>
+  <string name="attachment_open_SecurityException_hint">You may not have permission to open this file or the file may be damaged.</string>
+  <string name="attachment_open_SecurityException_title">"Can't open file"</string>
   <string name="attachment_stop_all">Stop</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
@@ -202,6 +204,13 @@
   <string name="bottom_bar_more_share">Share</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
+  <string name="calendar_remind_dialog_title">Remind</string>
+  <string name="calendar_remind_gridview_month_later">Next month</string>
+  <string name="calendar_remind_gridview_nextweek">Next week</string>
+  <string name="calendar_remind_gridview_pick_date">Pick date</string>
+  <string name="calendar_remind_gridview_tomorrow">Tomorrow</string>
+  <string name="calendar_remind_gridview_tonight">Tonight</string>
+  <string name="calendar_remind_gridview_weekend">Weekend</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
   <string name="cant_move_or_change_labels">"Can't move because selection contains multiple accounts."</string>
@@ -226,6 +235,8 @@
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
+  <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
+  <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
@@ -244,6 +255,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Delete mail that includes this recipient in the To or Cc field</string>
   <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
   <string name="contact_edit_title_phone_contact">Phone contacts list</string>
+  <string name="contact_in_filter_call_phone_str">Call from %s</string>
+  <string name="contact_in_filter_title">" from this person."</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
@@ -304,6 +317,7 @@
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
+  <string name="disturb_switch">Do not disturb</string>
   <string name="done">Done</string>
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
@@ -322,7 +336,7 @@
   <string name="download_complete_not_cancel">Download finished</string>
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
-  <string name="download_message_failed_for_too_large">The message is too big to download.</string>
+  <string name="download_message_failed_for_too_large">Message is too big to download.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -389,7 +403,7 @@
   <string name="folder_trash_name_en2">Deleted Message</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s%2$s</string>
+  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Forward</string>
   <string name="forward_attachment">Forward</string>
   <string name="forward_attribution">---------- Forwarded message ----------&lt;br&gt;From: %1$s&lt;br&gt;Date: %2$s&lt;br&gt;Subject: %3$s&lt;br&gt;To: %4$s&lt;br&gt;</string>
@@ -408,9 +422,11 @@
   <string name="general_preference_text_zoom_small">Small</string>
   <string name="general_preference_text_zoom_tiny">Tiny</string>
   <string name="generic_attachment_problem">"Can't attach file."</string>
-  <string name="get_database_exception">Database abnormal, please clear data in App info of Mail</string>
+  <string name="get_database_exception">"Clear this app's data in Settings &gt; System apps and try again."</string>
   <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
+  <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
+  <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="header_category_account">Accounts</string>
@@ -451,7 +467,7 @@
   <string name="mail">Mail</string>
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
-  <string name="mailbox_list_account_selector_combined_view">Combined inbox</string>
+  <string name="mailbox_list_account_selector_combined_view">Combined account</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -577,13 +593,13 @@
   <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_email_size_error">The maximum size of Email has been reached.</string>
   <string name="outbox_alert_description_fail_authentication">Username or password is incorrect.</string>
+  <string name="outbox_alert_description_fail_network">"Couldn't connect to the network."</string>
   <string name="outbox_alert_description_http_error">HTTP error while syncing outbox.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
   <string name="outbox_alert_description_provision_error">Server provision error while syncing outbox.</string>
   <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
-  <string name="outbox_alert_description_sent_failed">Attachment size exceeds the server limit.</string>
-  <string name="outbox_alert_description_time_out">Network connection timed out</string>
-  <string name="outbox_alert_duplicate_click">Still syncing…</string>
+  <string name="outbox_alert_description_sent_failed">"Attachment size exceeds the server's limit."</string>
+  <string name="outbox_alert_duplicate_click">Sending now…</string>
   <string name="outbox_alert_edit_resend">Edit and resend</string>
   <string name="outbox_alert_failed_edit_resend">"Couldn't send. Edit and try again."</string>
   <string name="outbox_alert_mailbox_not_found">Email address not found</string>
@@ -721,6 +737,7 @@
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
+  <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Reply all</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
   <string name="reply_subject_label">Re:</string>
@@ -735,8 +752,8 @@
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft_failed">Save draft failed</string>
-  <string name="save_power_summary">Notifications for emails that arrive will be silenced</string>
-  <string name="save_power_title">Do not disturb</string>
+  <string name="save_power_summary">Set power saving time</string>
+  <string name="save_power_title">Battery saver</string>
   <string name="saved">Saved,  %s</string>
   <string name="saving">Saving…</string>
   <string name="sdcard_cannot_use">"Can't use SD card"</string>
@@ -774,7 +791,7 @@
   <string name="set_network">Set network</string>
   <string name="setting_default_lable"/>
   <string name="settings_activity_title">Settings</string>
-  <string name="share_choose">Please choose</string>
+  <string name="share_choose">Choose file to share</string>
   <string name="sharing">Share</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_elided">▶ Show quoted text</string>
@@ -829,7 +846,7 @@
   <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
-  <string name="too_large_to_attach_single">"Can't attach file using %1$s."</string>
+  <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="trash_folder_selection_title">Select server trash folder for %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
