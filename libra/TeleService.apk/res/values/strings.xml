@@ -612,6 +612,7 @@ Top up and start talking"</string>
   <string name="livetalk_white_list_number_title">Make regular call</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
+  <string name="loading_order">Just a sec…</string>
   <string name="loading_product">Just a sec…</string>
   <string name="local_disable">Local news disabled</string>
   <string name="local_enable">Local news enabled</string>
