@@ -50,6 +50,7 @@
   <string name="currency_character">RMB</string>
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">An error occurred</string>
+  <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
@@ -178,11 +179,12 @@ Check your tracking number."</string>
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="follow_label">Follow %1$s</string>
+  <string name="follow_processing">processing</string>
   <string name="follow_success">Now following %1$s.</string>
   <string name="fraud_number_online_identification">Block unwanted calls</string>
   <string name="gallery">Gallery</string>
   <string name="general_btn_follow">Follow</string>
-  <string name="general_btn_follow_ok">Following</string>
+  <string name="general_btn_follow_ok">Followed</string>
   <string name="general_cancel_favorite_ok">Favorite removed</string>
   <string name="general_cancel_followed_ok">Unfollowed</string>
   <string name="general_delete_recent_ok">Recent deleted</string>
@@ -260,6 +262,7 @@ Check your tracking number."</string>
   <string name="no_price">No price info</string>
   <string name="notify_connect_summary">Show prompt when connecting to the internet</string>
   <string name="notify_connect_title">Internet connection notification</string>
+  <string name="open_installed_app">Open</string>
   <string name="order_date_label">Order date: %1$s</string>
   <string name="order_detail">Details</string>
   <string name="order_empty_hint">No orders</string>

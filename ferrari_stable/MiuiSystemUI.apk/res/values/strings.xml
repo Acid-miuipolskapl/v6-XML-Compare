@@ -113,9 +113,8 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="headset_custom">Dismiss</string>
-  <string name="headset_info">Tap to configure settings</string>
+  <string name="headset_info">Tap to view settings.</string>
   <string name="headset_settings">Headphones connected</string>
-  <string name="hint_for_long_press_app_switch_key">Press &amp; hold for menu</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -152,7 +151,7 @@ Use only the supplied charger."</string>
   <string name="notification_otg_trackball_out">Trackball disconnected</string>
   <string name="notification_otg_unknow_in">OTG device connected</string>
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
-  <string name="notification_template_text">" has a notification. Touch to view."</string>
+  <string name="notification_template_text">New notification. Tap to view.</string>
   <string name="oldman_airplane_mode_text">airplane</string>
   <string name="oldman_incall_text">incall</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
@@ -161,12 +160,12 @@ Use only the supplied charger."</string>
   <string name="return_to_incall_screen">Return to call</string>
   <string name="screen_button_notification_text">To turn them on, press the Home and Power buttons simultaneously.</string>
   <string name="screen_button_notification_title">Navigation buttons are turned off</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
+  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Home and the Power button at the same time to unpin.</string>
   <string name="screen_pinning_negative">No thanks</string>
   <string name="screen_pinning_positive">Got it</string>
   <string name="screen_pinning_title">Screen is pinned</string>
-  <string name="screenshot_failed_text">"Couldn't save screenshot. Storage may be in use."</string>
+  <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
   <string name="screenshot_saved_text">Touch to view your screenshot.</string>
   <string name="screenshot_saved_title">Screenshot captured</string>
   <string name="screenshot_saving_text">Screenshot is being saved</string>
@@ -201,6 +200,7 @@ Slide down to lock"</string>
   <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN connected</string>
   <string name="status_bar_style_settings">Notifications</string>
+  <string name="task_access_locked_app_msg">"App's content is hidden."</string>
   <string name="title_usb_accessory">USB accessory</string>
   <string name="torch_activity_hint">Hold [icon] to turn on torch at the lock screen</string>
   <string name="torch_activity_name">Torch</string>

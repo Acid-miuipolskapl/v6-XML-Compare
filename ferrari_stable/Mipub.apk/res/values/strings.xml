@@ -8,6 +8,7 @@
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Timed</string>
   <string name="already_followed">"You're already following this number"</string>
+  <string name="app_name">com.miui.mipub</string>
   <string name="attach_image">Pictures</string>
   <string name="attach_slideshow">Slideshow</string>
   <string name="attach_sound">Audio</string>
@@ -83,6 +84,7 @@
   <string name="hms_uri_param_err">"URL can't be empty"</string>
   <string name="invalid_conversation">Invalid conversation</string>
   <string name="left_cancel">Swipe left to cancel</string>
+  <string name="low_memory">low_memory!</string>
   <string name="menu_add_black">Block this number</string>
   <string name="menu_add_contact">Add to existing contact</string>
   <string name="menu_call">Call</string>
@@ -95,6 +97,9 @@
   <string name="menu_new_contact">New contact</string>
   <string name="menu_unlock">Unstar</string>
   <string name="menu_yellowpage">View %s</string>
+  <string name="message_block_confirmation">Confirm to not receive messages?</string>
+  <string name="message_block_processing">processing</string>
+  <string name="message_block_reminder">Reminder</string>
   <string name="message_failed">Failed</string>
   <string name="message_pending">Sending</string>
   <string name="message_readed">Read</string>
@@ -185,6 +190,7 @@
   <string name="restore_blocked_message">Restore message</string>
   <string name="retrive_hms_tips">Retrieving…</string>
   <string name="save">Save</string>
+  <string name="scan_result">scan result</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messaging</string>
   <string name="search_label">Messaging</string>
