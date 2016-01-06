@@ -1013,8 +1013,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
-  <string name="fingerprint_identificating_msg">Scanning fingerprint…</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
+  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
   <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
