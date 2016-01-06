@@ -9,7 +9,7 @@
     <string-array name="answer">
         <item>Your device can only pair with Mi TV, Mi Box, and a handful of other Android devices using Wi-Fi.</item>
         <item>"Make sure you've selected the right A/C model in the pairing process. Follow the prompts on your device until the pairing is complete."</item>
-        <item>Unfortunately, only Mi 4 can be used as an IR remote at the moment.</item>
+        <item>No. Currently you can use Mi 4, Mi 4c, and Redmi Note 2 as IR remotes.</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Sun</item>

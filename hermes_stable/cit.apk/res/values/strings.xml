@@ -169,6 +169,7 @@ only in frame mode"</string>
   <string name="audio_db_playlist_name">My recordings</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="autotest">QC test</string>
+  <string name="autotest2">QC test 2</string>
   <string name="back_camera">Back Camera</string>
   <string name="back_to_test">Back</string>
   <string name="background_result">Back ground test result</string>
@@ -217,6 +218,7 @@ only in frame mode"</string>
   <string name="battery_test">Battery</string>
   <string name="battery_vol_test">Battery capacity</string>
   <string name="bearing">North to East:</string>
+  <string name="black">Black</string>
   <string name="blackcardtest">黑卡测试</string>
   <string name="blow_from_mic_to_rec">Blowing on the MIC, the receiver playback. Judge whether there is sound.</string>
   <string name="blow_to_earphone_mic">Blowing on the earphone MIC, the earphone speaker playback. Judge whether there is sound.</string>
@@ -272,6 +274,7 @@ only in frame mode"</string>
   <string name="choose_channel">Channel select</string>
   <string name="cit_nv_flag">"CIT NV Flag: "</string>
   <string name="cit_tp_default_info">null</string>
+  <string name="close">have not otp partition</string>
   <string name="combile">Assemble</string>
   <string name="confirm">Confirm</string>
   <string name="contmenu_item_delete">Remove from favorites</string>
@@ -321,7 +324,10 @@ only in frame mode"</string>
   <string name="edit_local_freq">Edit local frequence</string>
   <string name="edit_recording_name_hint">Type file name here</string>
   <string name="efs_version">EFS version:</string>
+  <string name="efuse_get_error">get efuse state error!</string>
+  <string name="efuse_text">efuse state</string>
   <string name="empty_list">Channel list is empty.</string>
+  <string name="entry_qc2">退出抽检1，进入抽检2</string>
   <string name="error">Error</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Unsupported format</string>
@@ -335,12 +341,13 @@ only in frame mode"</string>
   <string name="exit_hint">All tested records will be cleared, exit?</string>
   <string name="external_version">External Version:</string>
   <string name="factory_restore">Factory Restore</string>
+  <string name="fastboot_lock_text">fastboot lock state</string>
   <string name="favorite_manager">Channel list</string>
   <string name="field_netinfo">network information</string>
   <string name="field_state">state</string>
   <string name="field_test">Field Test</string>
   <string name="fieldtest">Field Test</string>
-  <string name="fingerprint">指纹</string>
+  <string name="fingerprint">Fingerprint test</string>
   <string name="fingerprint_fail">读取芯片信息失败</string>
   <string name="fingerprint_ok">芯片信息:</string>
   <string name="firmware_version">Firmware version:</string>
@@ -368,11 +375,13 @@ only in frame mode"</string>
   <string name="front_camera">FrontCamera</string>
   <string name="getadc_fail">黑卡测试失败</string>
   <string name="getadc_pass">黑卡测试成功</string>
+  <string name="golden">Golden</string>
   <string name="gotoairplane">Go to airplane mode</string>
   <string name="gotosleep">Go to sleep</string>
   <string name="gps">[ GPS]:</string>
   <string name="gps_result">[GPS]:</string>
   <string name="gps_test">Gps</string>
+  <string name="green">Green</string>
   <string name="greenledblink">Green led blink?</string>
   <string name="greenledtest">Green LED</string>
   <string name="gyroscope">Gyroscope</string>
@@ -428,6 +437,7 @@ the selected?"</string>
   <string name="lightsensorinfo">No Light Sensor</string>
   <string name="list_text">FM Radio</string>
   <string name="location_time">Location Time:</string>
+  <string name="lock">lock</string>
   <string name="lockpassword_cancel_label">Cancel</string>
   <string name="lockpassword_confirm_passwords_dont_match">Password do not correct</string>
   <string name="lockpassword_continue_label">Continue</string>
@@ -435,6 +445,7 @@ the selected?"</string>
   <string name="longitude">Longitude :</string>
   <string name="magnetic">Magnetic</string>
   <string name="magnetic_calibration_hint">Need calibration, Please rotate the device like 8 shape to calibrate</string>
+  <string name="magnetic_chip_loss_hint">Chip self-test data:</string>
   <string name="magnetic_info_finish">Finished</string>
   <string name="magnetic_info_hint">Please rotate the device like 8 shape</string>
   <string name="magnetic_test">Magnetic sensor</string>
@@ -493,11 +504,15 @@ off---Disabling continuous Tx"</string>
   <string name="no_test">Not tested</string>
   <string name="none"/>
   <string name="not_available">Currently not available</string>
+  <string name="not_otp_permission">have not otp permission</string>
+  <string name="not_update">not update</string>
   <string name="notestdata">There is no test data!</string>
   <string name="null_channel">NULL</string>
+  <string name="off">off</string>
   <string name="off_mod_info">off</string>
   <string name="ok">Ok</string>
   <string name="old">Old</string>
+  <string name="on">on</string>
   <string name="only_eng_available">Only available in Eng build</string>
   <string name="open_device_error">Fail: open accelarate device error!</string>
   <string name="open_gps">"You need to open GPS.
@@ -516,6 +531,7 @@ off---Disabling continuous Tx"</string>
   <string name="otg_in_test">OTG plug in</string>
   <string name="otg_out_test">OTG plug out</string>
   <string name="others">Other</string>
+  <string name="otp_lock_text">otp lock state</string>
   <string name="pass">Pass</string>
   <string name="patterninfo">Pattern:</string>
   <string name="patternlimit">[0-5]</string>
@@ -525,12 +541,13 @@ off---Disabling continuous Tx"</string>
   <string name="patternout">Pattern should be from 0 to 5!</string>
   <string name="phone_test">Phone</string>
   <string name="phoneruning_error_msg">"You can't use FM when the phone is in calling."</string>
+  <string name="pink">Pink</string>
   <string name="pkgsizeinfo">Package size:</string>
   <string name="pkgsizelimit">[32-1500]</string>
   <string name="pkgsizeout">package size should be from 32 to 1500!</string>
   <string name="play_music">Play Music on SD</string>
   <string name="play_music_info">Play music on SD card. Please place music.mp3 to SD card</string>
-  <string name="play_music_no_sd">播放mp3</string>
+  <string name="play_music_no_sd">Play mp3</string>
   <string name="play_music_no_sd_hint">请听喇叭是否播放声音</string>
   <string name="play_music_on_sd">Play mp3 on SD card</string>
   <string name="play_over_and_judge">Play over, please to judge if pass or fail</string>
@@ -563,6 +580,7 @@ mod:0-15"</string>
   <string name="press_record">Press: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 and Press record</string>
   <string name="pretestresult">Previous result</string>
   <string name="proximity_sensor_test">Proximity sensor</string>
+  <string name="purple">Purple</string>
   <string name="qc_nv_flag">"QC NV Flag: "</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_display_asu">asu</string>
@@ -601,6 +619,7 @@ mod:0-15"</string>
   <string name="record_your_message">Record your message</string>
   <string name="recording">Recording</string>
   <string name="recording_stopped">Recording stopped</string>
+  <string name="red">Red</string>
   <string name="redledblink">Red led blink?</string>
   <string name="redledtest">Red LED</string>
   <string name="register_listener">register listener</string>
@@ -613,6 +632,9 @@ mod:0-15"</string>
   <string name="review_message">Review message</string>
   <string name="rom_size">ROM size :</string>
   <string name="rom_title">ROM :</string>
+  <string name="sample1_fail">Sample test 1 fail, need to re-test Sample test 1</string>
+  <string name="sample2_fail">Sample test 2 fail, need to re-test Sample test 2</string>
+  <string name="sample2_test_not_entry">This project need not to test sample2 test.</string>
   <string name="save">Save</string>
   <string name="save_local_freq">Save local frequence</string>
   <string name="sd_u_test">SD_U disk</string>
@@ -621,6 +643,7 @@ mod:0-15"</string>
   <string name="search">Search</string>
   <string name="searching">Searching... %d Channels</string>
   <string name="sec_available">%ds available</string>
+  <string name="secureboot_text">secureboot state</string>
   <string name="seeking">\u0009Searching...</string>
   <string name="selectall">Select all</string>
   <string name="send">Send</string>
@@ -629,7 +652,8 @@ mod:0-15"</string>
   <string name="serial_no">Serial No</string>
   <string name="shake_phone">If the result is error below, please shake the phone</string>
   <string name="short_vib">Short Vibration</string>
-  <string name="sim_status_test">SIM Test</string>
+  <string name="sim_out_status_test">SIM Plug Out Test</string>
+  <string name="sim_status_test">SIM Plug In Test</string>
   <string name="sine_mod_info">sine</string>
   <string name="sleeptest">Sleep test</string>
   <string name="sn">[ S/N]:</string>
@@ -651,6 +675,7 @@ mod:0-15"</string>
   <string name="status_unavailable">unavailable</string>
   <string name="stop">Stop</string>
   <string name="storage_is_full">Storage is full</string>
+  <string name="switch_language">switch language</string>
   <string name="swversion">SW Version</string>
   <string name="system_info">Version</string>
   <string name="test">Test</string>
@@ -691,6 +716,7 @@ mod:0-15"</string>
   <string name="tp_selftest_result">"Selftest result:  "</string>
   <string name="tp_selftest_working">Selftest proceeding, pls keep screen on</string>
   <string name="tp_version">TP Version:</string>
+  <string name="tplockdown_color_info_title">TP surface color:</string>
   <string name="tplockdown_info">TP Lockdown Info:</string>
   <string name="tpversion">TP Version Upgrade</string>
   <string name="tx100_mod_info">tx100</string>
@@ -700,8 +726,11 @@ mod:0-15"</string>
   <string name="uit87">[ UIT87]:</string>
   <string name="uit88">[ UIT88]:</string>
   <string name="uit89">[ UIT89]:</string>
+  <string name="unique_id_null">unique id is null</string>
+  <string name="unique_id_text">unique id</string>
   <string name="unit">" MHz"</string>
   <string name="unknown">未知</string>
+  <string name="unlock">unlock</string>
   <string name="unmodulated">Unmodulated</string>
   <string name="usrdata_version">Userdata Version</string>
   <string name="version">Version</string>
@@ -714,6 +743,7 @@ MEID:%s
 pESN:%s
 "</string>
   <string name="versionnumber">Version number</string>
+  <string name="white">White</string>
   <string name="wifi_addr_test">WLAN Address</string>
   <string name="wifi_aw700">Wifi</string>
   <string name="wifi_result">[WIFI]:</string>
@@ -725,6 +755,7 @@ pESN:%s
   <string name="wifistateunknown">Wifi state unknown</string>
   <string name="work_error">Work error</string>
   <string name="work_well">Work well</string>
+  <string name="yellow">Yellow</string>
   <string name="yes">Yes</string>
   <string name="you_can_use_vol_key">you can use volume key to adjust frequency</string>
 </resources>

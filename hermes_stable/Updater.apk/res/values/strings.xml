@@ -28,6 +28,14 @@
   <string name="button_text_update">Update</string>
   <string name="cancel_download">Stop downloading update?</string>
   <string name="cancel_download_buton_text">Cancel</string>
+  <string name="check_local_package_update_btn">Reboot and update</string>
+  <string name="check_local_package_update_msg">"You're going to update to MIUI version %s. The phone will reboot automatically during the update."</string>
+  <string name="check_local_package_update_title">Update</string>
+  <string name="check_local_package_validate_error_button">OK</string>
+  <string name="check_local_package_validate_error_msg">"Couldn't verify update package."</string>
+  <string name="check_local_package_wipe_btn">Erase and update</string>
+  <string name="check_local_package_wipe_msg">"You're going to switch to MIUI version %s, which is older than the current version. Your personal data will be erased. Make sure you back up all important items before you start the process."</string>
+  <string name="check_local_package_wipe_title">Erase data</string>
   <string name="check_new_version">Check</string>
   <string name="check_update_policy">Settings</string>
   <string name="check_update_when_wifi_available">Check using WLAN only</string>
@@ -40,12 +48,16 @@
   <string name="comment_upload_hint">Thank you for your feedback!</string>
   <string name="comment_upload_not_logined">You need to sign in to your Mi Account first</string>
   <string name="comment_upload_success">Sent</string>
+  <string name="confirm_local_package_wipe_btn">Erase and update</string>
+  <string name="confirm_local_package_wipe_msg">Your personal data will be erased. Make sure you back up all important items before you start the process.</string>
+  <string name="confirm_local_package_wipe_title">Erase data?</string>
   <string name="daily_build">Nightly</string>
   <string name="download_again">Try again</string>
   <string name="download_cancel">Cancel</string>
   <string name="download_current_rom">Reboot to apply update</string>
   <string name="download_diff">Download diff</string>
   <string name="download_error">Something went wrong. Wait a minute or two and try again.</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_full">Download full</string>
   <string name="download_success_reboot_immediately">Reboot to apply update</string>
   <string name="download_title">Downloading (%s)</string>
@@ -68,6 +80,7 @@
   <string name="important_suggestion">Privacy Policy has changed</string>
   <string name="install">Install</string>
   <string name="install_failed">Update failed</string>
+  <string name="install_file_explorer">Install File Explorer first</string>
   <string name="install_local">Install local</string>
   <string name="install_qq">"Get Tencent's Weibo app"</string>
   <string name="internal_build">Internal</string>
@@ -79,9 +92,11 @@
   <string name="menu_title_pick_rom_file">Choose update package</string>
   <string name="menu_title_recovery">Reboot to Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
-  <string name="miui_summary_has_new_version">Update available</string>
+  <string name="miui_summary_has_new_version">"  Update available  "</string>
   <string name="miui_summary_no_new_version">No updates available</string>
   <string name="miui_summary_now_version">"Can't connect to the network"</string>
+  <string name="miui_summary_slogan">"  Yours by design  "</string>
+  <string name="miui_summary_updating">"  Updating…  "</string>
   <string name="monthly_build">Monthly</string>
   <string name="my_best_update">Best update</string>
   <string name="my_expect_update">Expectations</string>
@@ -115,6 +130,17 @@
   <string name="open_now">Turn on</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pause</string>
+  <string name="pm_root_acquired_button">Root access</string>
+  <string name="pm_root_acquired_notification_title">Getting root access</string>
+  <string name="pm_root_acquired_rooting">Getting root access %s</string>
+  <string name="pm_root_checking">Checking system info…</string>
+  <string name="pm_root_fail_button_retry">Retry</string>
+  <string name="pm_root_fail_msg">"This app couldn't get root access. Try again."</string>
+  <string name="pm_root_fail_service_busy">Wait until your device has finished updating and try again.</string>
+  <string name="pm_root_fail_title">"Couldn't get root access"</string>
+  <string name="pm_root_notification_download_title">Downloading</string>
+  <string name="pm_root_success_msg">Restart your device to complete the last step.</string>
+  <string name="pm_root_success_title">Root access enabled</string>
   <string name="previous">Previous</string>
   <string name="progress_title_checking">Checking for updates…</string>
   <string name="reboot">Reboot</string>
@@ -123,7 +149,13 @@
 http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
   <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
+  <string name="recovery_power_not_enough_msg">Connect charger to update if less than 30% of battery is left</string>
+  <string name="recovery_power_not_enough_msg_plugged">Battery must be above 15% before device can update</string>
+  <string name="recovery_power_not_enough_title">Low battery</string>
   <string name="repeat">Retry</string>
+  <string name="root_acquired">Allow root access</string>
+  <string name="root_agree_check_box_title">I understand the risks of root access</string>
+  <string name="root_dangerous_msg">Allowing root access is extremely risky and may expose your device and personal data to attacks from malicious apps. You agree that you are solely responsible for any damage to your device or loss of data that may result from allowing root access.</string>
   <string name="set_auto">Check for updates automatically</string>
   <string name="set_auto_msg">Download updates automatically when connected to WLAN.</string>
   <string name="set_auto_update_title">Download updates automatically</string>
@@ -132,6 +164,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="set_installfail_title">Try to download update again?</string>
   <string name="set_installfail_title_full">"Can't update"</string>
   <string name="set_network_msg">To download this update, connect to a WLAN network.</string>
+  <string name="set_network_root_msg">To get root access, connect to a WLAN network.</string>
   <string name="set_network_title">Connect to WLAN</string>
   <string name="set_only_wifi">Use WLAN only</string>
   <string name="share">Share</string>
@@ -187,6 +220,8 @@ But you can take part next Monday."</string>
   <string name="updater_nolog">No update summary.</string>
   <string name="updater_nonetwork">"Can't connect to the network"</string>
   <string name="updater_nonetwork_clause">"Can't connect to the network"</string>
+  <string name="updater_service_busy_msg">This app uses the Updater Service to obtain root access to the required source files.</string>
+  <string name="updater_service_busy_title">Updater service is busy</string>
   <string name="updater_wait_for_unzip">Unpacking update…</string>
   <string name="upgrade_close">Close</string>
   <string name="upgrade_kernel">System kernel is outdated</string>

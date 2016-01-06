@@ -50,7 +50,6 @@
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_metric"/>
-  <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
@@ -102,6 +101,7 @@
   <string name="delete_topic_dialog_title">确认要退订\"%s\"吗？</string>
   <string name="delete_topic_success">退订\"%s\"成功</string>
   <string name="deleting_calendar">退订中</string>
+  <string name="departure">Departure</string>
   <string name="description_label">Description</string>
   <string name="directory_searching_fmt">Searching %s…</string>
   <string name="discard_label">Cancel</string>
@@ -148,10 +148,12 @@
   <string name="event_view">View event</string>
   <string name="every_weekday">Weekdays (Mon–Fri)</string>
   <string name="exist_calendar">已订阅</string>
+  <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
   <string name="from_google_group_calendar">Google calendar</string>
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
   <string name="goto_today">Today</string>
+  <string name="guide_card_hint_text">Tap to open Mi Cloud</string>
   <string name="hide_controls">Hide controls</string>
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Description</string>
@@ -159,6 +161,9 @@
   <string name="hint_where">Location</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
+  <string name="huangli_label"/>
+  <string name="internet_connection_notification">Internet connection notification</string>
+  <string name="internet_connection_notification_descrip">Show internet connection notification every time you open Calendar</string>
   <string name="jump_date">Jump</string>
   <string name="jump_date_full">Jump to date</string>
   <string name="label_recent_events">近期事件</string>
@@ -203,12 +208,14 @@
   <string name="no_title_label">(No title)</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">not synced</string>
-  <string name="notice_button_ok">Agree</string>
-  <string name="notice_button_ok_and_go_on">同意并继续</string>
-  <string name="notice_title_agreement">声明与条款</string>
+  <string name="notice_button_exit">Exit</string>
+  <string name="notice_button_ok">OK</string>
+  <string name="notice_declaration_ignore">"Don't show again"</string>
+  <string name="notice_title_agreement">Internet connection</string>
   <string name="notice_title_request">Request</string>
+  <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">订阅日历</string>
-  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+  <string name="online_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
@@ -270,7 +277,7 @@
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$ss</string>
+  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Choose day</string>
   <string name="repeat_label_choose_month">Choose month</string>
@@ -280,6 +287,7 @@
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
   <string name="repeat_label_week">Week</string>
+  <string name="repeat_lunar_yearly"/>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
   <string name="repeats_label">Repeat</string>
@@ -322,7 +330,9 @@
   <string name="timezone_label">Time zone</string>
   <string name="today">Today</string>
   <string name="today_at_time_fmt">Today at %s</string>
+  <string name="today_flight_event">Flight</string>
   <string name="today_no_events">No events</string>
+  <string name="today_train_event">Train</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
   <string name="topic_dialog_title">退订订阅</string>
@@ -351,7 +361,6 @@
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">Just a sec…</string>
   <string name="travel_local">Destination</string>
-  <string name="travel_notice_message">Calendar needs to connect to the internet and access your location in order to display travel information.</string>
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
@@ -368,6 +377,7 @@
   <string name="widget_events">Next event</string>
   <string name="widget_no_events">No events</string>
   <string name="widget_select_style">Choose a style</string>
+  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">五行</string>
   <string name="xiaomi_calendar_display_name">Mi Account Calendar</string>

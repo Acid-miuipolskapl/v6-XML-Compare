@@ -4,7 +4,7 @@
     <string name="language">pt_PT</string>
     <string name="desc_date_format">EEEE, MMM dd</string>
     <string name="desc_time">'tempo actual' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', toque duplo para ver relógio'</string>
-    <string name="weather_type_0">Céu Limpo</string>
+    <string name="weather_type_0">Céu limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>
     <string name="weather_type_3">Nevoeiro</string>
@@ -21,7 +21,7 @@
     <string name="weather_type_14">Fraca queda de neve</string>
     <string name="weather_type_15">Nevão</string>
     <string name="weather_type_16">Neve</string>
-    <string name="weather_type_17">Nevasca</string>
+    <string name="weather_type_17">Nevão</string>
     <string name="weather_type_18">Forte tempestade de areia</string>
     <string name="weather_type_19">Tempestade de areia</string>
     <string name="weather_type_20">Fraca tempestade de areia</string>

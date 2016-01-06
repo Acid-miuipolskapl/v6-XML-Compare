@@ -67,6 +67,7 @@
   <string name="android_system_label">Android System</string>
   <string name="android_upgrading_apk">Optimizing app %1$d of %2$d.</string>
   <string name="android_upgrading_complete">Finishing boot.</string>
+  <string name="android_upgrading_fstrim">Optimizing storage.</string>
   <string name="android_upgrading_starting_apps">Starting apps.</string>
   <string name="android_upgrading_title">Android is upgrading…</string>
   <string name="anr_activity_application">"%2$s isn't responding.
@@ -562,17 +563,17 @@ Try again in %d seconds."</string>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Back and Overview at the same time."</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Overview."</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_exit">Screen unpinned</string>
   <string name="lock_to_app_negative">NO, THANKS</string>
   <string name="lock_to_app_positive">START</string>
   <string name="lock_to_app_start">Screen pinned</string>
   <string name="lock_to_app_title">Use screen pinning?</string>
-  <string name="lock_to_app_toast">To unpin this screen, touch and hold Back and Overview at the same time.</string>
-  <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold Overview.</string>
+  <string name="lock_to_app_toast">To unpin this screen, press and hold Home and the Power button at the same time.</string>
+  <string name="lock_to_app_toast_accessible">To unpin this screen, press and hold Home and the Power button at the same time.</string>
   <string name="lock_to_app_toast_locked">"Screen is pinned. Unpinning isn't allowed by your organization."</string>
   <string name="lock_to_app_unlock_password">Ask for password before unpinning</string>
   <string name="lock_to_app_unlock_pattern">Ask for unlock pattern before unpinning</string>

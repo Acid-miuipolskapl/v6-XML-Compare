@@ -74,9 +74,9 @@
   <string name="gift_use_fail_dlg_title">Something went wrong</string>
   <string name="gift_used">Sent</string>
   <string name="live_wallpaper">Live wallpaper</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">Just a sec…</string>
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
-  <string name="loading_resource_detail_info">Loading…</string>
+  <string name="loading_resource_detail_info">Just a sec…</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
   <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
@@ -124,13 +124,13 @@
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking history…</string>
   <string name="resource_comment_edit_text_default">Write a comment</string>
-  <string name="resource_comment_edit_title">Edit comment: %1$s</string>
+  <string name="resource_comment_edit_title">Comment about %1$s</string>
   <string name="resource_comment_entry_tips">Comments (%1$s)</string>
   <string name="resource_comment_expand_full_text">Expand all text▼</string>
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
   <string name="resource_comment_good_comments">Positive</string>
   <string name="resource_comment_invalid">Touch the stars to rate the theme</string>
-  <string name="resource_comment_loading_list">Loading…</string>
+  <string name="resource_comment_loading_list">Just a sec…</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">No comments</string>
@@ -139,7 +139,7 @@
   <string name="resource_comment_rating_star_tips">Touch stars to rate:</string>
   <string name="resource_comment_score_count">%1$s users</string>
   <string name="resource_comment_sending">Sending comment…</string>
-  <string name="resource_comment_title">Comments: %1$s</string>
+  <string name="resource_comment_title">Comments about %1$s</string>
   <string name="resource_comment_upload_data_invalid">The comment you entered is invalid</string>
   <string name="resource_comment_upload_failed">"Can't send comment"</string>
   <string name="resource_comment_upload_hint">Your comment will be displayed after a brief review.</string>
@@ -337,7 +337,7 @@
   <string name="theme_immediately_apply_tip">Apply theme update now?</string>
   <string name="theme_import_from_sdcard">Import</string>
   <string name="theme_is_external_priority_storage">Save to SD card</string>
-  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
+  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediately to take effect</string>
   <string name="theme_multiple_button_title_customize">Customize</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>
@@ -347,6 +347,7 @@
   <string name="theme_precast_update_notification_title">MIUI 7 themes updated</string>
   <string name="theme_provision_default_theme_title">Default</string>
   <string name="theme_provision_loading_tips">Just a sec…</string>
+  <string name="theme_provision_oper_button_next">Next</string>
   <string name="theme_provision_title">Choose a theme</string>
   <string name="theme_purchased_list_empty">"You haven't purchased any themes."</string>
   <string name="theme_purchased_non_local">Online</string>
