@@ -119,6 +119,7 @@
   <string name="do_not_check">Do NOT check -&gt;</string>
   <string name="does_not_repeat">One-time event</string>
   <string name="done">Return</string>
+  <string name="download">Download</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -316,6 +317,7 @@
   <string name="select_synced_calendars_button">Calendars to sync</string>
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="select_visible_calendars_title">Calendars to display</string>
+  <string name="set_as_wallpaper">Set as wallpaper</string>
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="show_controls">Show controls</string>
   <string name="show_day_view">Show day</string>
