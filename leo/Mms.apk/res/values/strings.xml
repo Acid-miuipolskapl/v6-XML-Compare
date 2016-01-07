@@ -624,7 +624,7 @@ Attempt made: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Send in %ds</string>
   <string name="wild_msg_processing">Processing...</string>
-  <string name="wild_msg_title">Enable cloud syncing</string>
+  <string name="wild_msg_title">Choose phone number to sync</string>
   <string name="xiaomi_service_number">Service number</string>
   <string name="yellowpage_recommend_msg">"Try out MIUI's SMS message features"</string>
   <string name="yes">OK</string>

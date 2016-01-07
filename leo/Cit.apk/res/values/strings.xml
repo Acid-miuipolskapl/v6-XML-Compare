@@ -104,6 +104,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_external_sd_check_summary">This test will check SD card status</string>
   <string name="cit_external_sd_check_title">SD card test</string>
   <string name="cit_fail">Fail</string>
+  <string name="cit_finger_check_title">Finger Print Test(FPC)</string>
   <string name="cit_fm_audio_path">Configure audio path</string>
   <string name="cit_fm_audio_path_headset">Headphones</string>
   <string name="cit_fm_audio_path_speaker">Speaker</string>
@@ -115,6 +116,10 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_fm_open_2">Start FM - 107.9</string>
   <string name="cit_fm_open_bluetooth">Opening FM…</string>
   <string name="cit_fm_start_service">Start audio</string>
+  <string name="cit_fpc_checkerboard_test">CHECKERBOARD TEST</string>
+  <string name="cit_fpc_selftest">SELF-TEST</string>
+  <string name="cit_fpc_sensor_check_summary">FPC sensor test, press the button and wait for the pass info highlighted in green is correct.</string>
+  <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
   <string name="cit_front_camera_check_summary">"Test instructions:
 
 1.Tap the Camera button below to enter front Camera interface
