@@ -478,7 +478,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
   <string name="livetalk_before_provision">"I've read and accepted"</string>
   <string name="livetalk_charge_now">Top up</string>
-  <string name="livetalk_common_problem">FQA</string>
+  <string name="livetalk_common_problem">FAQ</string>
   <string name="livetalk_complete">Done</string>
   <string name="livetalk_complete_domestic_phone">Make domestic calls using top-up package.</string>
   <string name="livetalk_complete_international_phone">Make international calls using top-up package.</string>
@@ -503,7 +503,7 @@ Top up and start talking"</string>
   <string name="livetalk_package_name">Top up balance</string>
   <string name="livetalk_provider">Provided by %1$s</string>
   <string name="livetalk_provision">&lt;b&gt;Terms of Service&lt;/b&gt;</string>
-  <string name="livetalk_provision_title">Provision</string>
+  <string name="livetalk_provision_title">Terms of Service</string>
   <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
   <string name="livetalk_setting">Top-up package</string>
   <string name="livetalk_sim_card_not_activated">"This card isn't activated"</string>
