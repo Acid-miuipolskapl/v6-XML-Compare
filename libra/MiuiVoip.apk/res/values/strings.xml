@@ -12,6 +12,7 @@
   <string name="app_name_which_call">Application:%s</string>
   <string name="app_version_which_call">Application version:%s</string>
   <string name="confirm_activation">Activate</string>
+  <string name="create_voip_shortcut_success">Shortcut created</string>
   <string name="cur_activated_number_tag">%s (current number)</string>
   <string name="engine_activate_successfully">Mi Voice activated</string>
   <string name="engine_activate_unsuccessfully">"Couldn't activate Mi Voice"</string>
@@ -19,6 +20,8 @@
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, 
 go to %s"</string>
   <string name="loading">Just a sec…</string>
+  <string name="menu_create_contact_shortcut">Place on Home screen</string>
+  <string name="missing_name">(No name)</string>
   <string name="msim_sim1">"SIM 1 "</string>
   <string name="msim_sim2">"SIM 2 "</string>
   <string name="mx_activate_dlg_title">Activate Mi Voice</string>
@@ -29,10 +32,12 @@ go to %s"</string>
   <string name="net_connect_fails">"You don't have an internet connection."</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
   <string name="no_sim_found">No SIM card detected.</string>
+  <string name="no_voip_contacts">No VOIP contacts</string>
   <string name="notification_activate_failed">"Can't activate Mi Voice"</string>
   <string name="notification_missedCallTicker">Missed call from %s</string>
   <string name="notification_missedCallsMsg">%s missed calls</string>
   <string name="notification_missedCallsTitle">Missed calls</string>
+  <string name="other_contacts">Other contacts</string>
   <string name="phone_switch_tip">Switch to GSM</string>
   <string name="policy_name">Policy: %s</string>
   <string name="pref_alpha_tools_title">Alpha tools</string>
@@ -52,9 +57,13 @@ go to %s"</string>
   <string name="pref_users_list_title">Users</string>
   <string name="process_leakcanary">:leakcanary</string>
   <string name="process_ui">:ui</string>
+  <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+  <string name="pull_to_refresh_refreshing_label">Loading…</string>
+  <string name="pull_to_refresh_release_label">Release to refresh…</string>
   <string name="show_dev_on">"You're now a Mi Voice developer!"</string>
   <string name="show_nondev_on">"You're not a Mi Voice developer!"</string>
   <string name="st_show_num_number">" numbers"</string>
+  <string name="starred_contacts">Favorites</string>
   <string name="statusbar_notification_action_end_call">Hang up</string>
   <string name="statusbar_notification_dialing">Dialing…</string>
   <string name="statusbar_notification_incoming_call">Incoming call</string>
@@ -83,11 +92,14 @@ go to %s"</string>
   <string name="voip_callee_offline">The person you called is offline.</string>
   <string name="voip_callee_offline_and_dial_phone">"The person you called is offline.
 Switching to GSM  in %1$d sec…"</string>
+  <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_droped_call">%1$s disconnected</string>
   <string name="voip_ending_call">Hanging up…</string>
   <string name="voip_free_video_tip">Mi Voice video call</string>
   <string name="voip_gsm_online">"Can't set up Mi Voice while GSM is in use."</string>
   <string name="voip_incall">"Can't set up Mi Voice during call."</string>
+  <string name="voip_loading_contact">Just a sec…</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_support_net_tips">Use a WLAN or 3G or higher mobile data connection</string>
   <string name="voip_the_other_is_on_the_phone">Busy</string>
 </resources>
