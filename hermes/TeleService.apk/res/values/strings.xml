@@ -281,7 +281,7 @@
   <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
   <string name="dial_emergency_error">Call not sent. %s is not an emergency number!</string>
   <string name="dial_pad_autocomplete">Dial pad autocomplete</string>
-  <string name="dial_related_setting_catory">Dial</string>
+  <string name="dial_related_setting_catory">Dialer</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_activate_livetalk">Verify</string>
@@ -376,7 +376,7 @@
   <string name="enable_in_progress">Please wait…</string>
   <string name="enable_pin">Enable/disable SIM PIN</string>
   <string name="enable_pin_ok">SIM PIN enabled.</string>
-  <string name="enable_proximity_summary">Turn off screen during calls</string>
+  <string name="enable_proximity_summary">"Turn off the screen automatically when you're holding the device to your ear during a call"</string>
   <string name="enable_proximity_title">Proximity sensor</string>
   <string name="enable_sim_pin">Enable SIM PIN</string>
   <string name="enable_video_calling_dialog_close">Close</string>
@@ -434,7 +434,7 @@
   <string name="feedback">Feedback</string>
   <string name="femtocell_point_list_title">Femtocells</string>
   <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
-  <string name="flash_when_ring_title">Flash when ringing</string>
+  <string name="flash_when_ring_title">Flash notification light when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -455,7 +455,7 @@ Switch to the new provider anyway?"</string>
   <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
   <string name="hac_mode_title">Hearing aids</string>
   <string name="handon_ringer_summary">"Reduce ringer volume for incoming call when phone is raised. This feature doesn't work when vibration for incoming calls is on."</string>
-  <string name="handon_ringer_title">Stop vibrating when lifted</string>
+  <string name="handon_ringer_title">Quiet ringer when lifted</string>
   <string name="importAllSimEntries">Import all</string>
   <string name="importSimEntry">Import</string>
   <string name="importToFDNfromContacts">Import from contacts</string>
@@ -587,6 +587,7 @@ Top up and start talking"</string>
   <string name="livetalk_white_list_number_title">Make regular call</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
+  <string name="loading_order">Just a sec…</string>
   <string name="loading_product">Just a sec…</string>
   <string name="local_disable">Local news disabled</string>
   <string name="local_enable">Local news enabled</string>
@@ -1000,8 +1001,9 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="simContacts_emptyLoading">Reading from SIM card…</string>
   <string name="simContacts_title">Select contacts to import</string>
   <string name="sim_activated">Verified</string>
-  <string name="sim_card_activate">Current SIM card</string>
-  <string name="sim_card_num">SIM%s</string>
+  <string name="sim_card_activate">SIM verification</string>
+  <string name="sim_card_num">SIM %s</string>
+  <string name="sim_card_summary_no_sim_card">Please insert the SIM card</string>
   <string name="sim_contact_name">Name</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_description_default">SIM card, slot: %s</string>
@@ -1125,8 +1127,8 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="transport_title">Transport type</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_title">TTY mode</string>
-  <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ring</string>
-  <string name="turnover_mute_title">Flip to silence ring</string>
+  <string name="turnover_mute_summary">When phone is rotated horizontally, flip it over to silence ringer</string>
+  <string name="turnover_mute_title">Flip to silence ringer</string>
   <string name="ui_default_package">com.android.dialer</string>
   <string name="unable_dial_livetalk">"Can't complete call"</string>
   <string name="unblock_pin2">Unblock PIN2</string>
