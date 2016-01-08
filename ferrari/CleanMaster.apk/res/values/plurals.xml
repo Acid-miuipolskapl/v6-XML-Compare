@@ -61,4 +61,12 @@
         <item quantity="other">Found %d photos, you can delete duplicates or redundant images</item>
         <item quantity="one">Found %d photo, you can delete duplicates or redundant images</item>
     </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Found %d APKs, you can delete the unnecessary ones.</item>
+        <item quantity="one">Found %d APK, you can delete this one.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Found %d videos, you can delete the unnecessary ones.​</item>
+        <item quantity="one">Found %d video, you can delete this one.</item>
+    </plurals>
 </resources>

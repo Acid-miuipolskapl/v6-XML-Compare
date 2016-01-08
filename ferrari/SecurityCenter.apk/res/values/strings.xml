@@ -291,7 +291,7 @@
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
-  <string name="power_20s_enter_mode">At %1$ds battery switch to %2$s</string>
+  <string name="power_20s_enter_mode">Switching to %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
   <string name="power_apply_toast">Switched to %s</string>
   <string name="power_bluetooth">Bluetooth</string>

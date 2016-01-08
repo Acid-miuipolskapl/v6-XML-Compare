@@ -39,14 +39,19 @@
         <item>"View file's location"</item>
         <item>Add file to exceptions</item>
     </string-array>
+    <string-array name="video_clean_menu">
+        <item>Clean up this file</item>
+        <item>Open</item>
+        <item>Add file to exceptions</item>
+    </string-array>
     <string-array name="empty_floder_clean_menu">
         <item>Clean up</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Clean up</item>
+        <item>Install this apk</item>
         <item>"View apk's location"</item>
         <item>Add to exceptions</item>
-        <item>Install this apk</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Uninstall</item>
