@@ -648,7 +648,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_find_profile_loading">Loading</string>
   <string name="miprofile_find_profile_no_recommend">No recommend profile</string>
   <string name="miprofile_find_profile_subtitle">Add to view photo and more info</string>
-  <string name="miprofile_finding_label">Contact card finding</string>
+  <string name="miprofile_finding_label">Find contact cards</string>
   <string name="miprofile_name">My profile</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Enter nickname</string>
