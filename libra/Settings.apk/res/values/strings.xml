@@ -344,6 +344,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_info_voltage_label">Battery voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Battery level</string>
+  <string name="battery_light_title">Battery light</string>
   <string name="battery_msg_unaccounted">Battery use is an approximation of power use and does not include every source of battery drain. Miscellaneous is the difference between the computed approximate power use and the actual drain observed on the battery.</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_turn_on_automatically_never">Never</string>

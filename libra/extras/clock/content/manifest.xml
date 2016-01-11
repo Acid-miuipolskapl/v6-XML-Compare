@@ -80,7 +80,7 @@
 	<Button w="#view_width" h="#view_height">
 		<Triggers>
 			<Trigger action="up">
-				<IntentCommand action="android.intent.action.MAIN" package="com.android.deskclock" class="com.android.deskclock.DeskClockTabActivity"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;component=com.android.deskclock/.DeskClockTabActivity;end'"/>
 			</Trigger>
 		</Triggers>
 	</Button>
