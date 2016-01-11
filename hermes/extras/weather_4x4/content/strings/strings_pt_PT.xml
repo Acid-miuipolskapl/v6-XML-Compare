@@ -10,6 +10,7 @@
     <string name="aqi_dangerous"/>
     <string name="aqi_hazardous"/>
     <string name="aqi_break"/>
+	<string name="weather_type_null">'Sem dados'</string>
     <string name="weather_type_0">Céu limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>
