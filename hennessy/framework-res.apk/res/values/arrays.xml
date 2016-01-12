@@ -177,7 +177,7 @@
     <string-array name="networkAttributes">
         <item>wifi,1,1,1,-1,true</item>
         <item>mobile,0,0,0,-1,true</item>
-        <item>mobile_mms,2,0,2,300000,true</item>
+        <item>mobile_mms,2,0,4,300000,true</item>
         <item>mobile_supl,3,0,2,300000,true</item>
         <item>mobile_dun,4,0,2,300000,true</item>
         <item>mobile_hipri,5,0,3,300000,true</item>
@@ -297,7 +297,6 @@
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>8</item>
-        <item>8</item>
         <item>40</item>
         <item>40</item>
         <item>40</item>
@@ -308,10 +307,11 @@
         <item>40</item>
         <item>40</item>
         <item>40</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
+        <item>40</item>
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
+        <item>150</item>
     </integer-array>
     <array name="config_autoBrightnessButtonBacklightValues" />
     <array name="config_autoBrightnessKeyboardBacklightValues" />
@@ -378,6 +378,9 @@
     <array name="config_cdma_home_system" />
     <string-array name="no_ems_support_sim_operators">
         <item>20404;suffix;BAE0000000000000</item>
+    </string-array>
+    <string-array name="config_sms_convert_destination_number_support">
+        <item>false</item>
     </string-array>
     <string-array name="config_gpsParameters">
         <item>SUPL_HOST=supl.google.com</item>

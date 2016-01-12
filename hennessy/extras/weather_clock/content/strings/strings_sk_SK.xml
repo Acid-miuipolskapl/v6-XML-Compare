@@ -4,6 +4,7 @@
     <string name="language">sk</string>
     <string name="desc_date_format">dd.MM. EEEE</string>
     <string name="desc_time">'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dotknite sa znova pre otvorenie hodín'</string>
+    <string name="weather_type_null">Žiadne dáta</string>
     <string name="weather_type_0">Jasno</string>
     <string name="weather_type_1">Oblačno</string>
     <string name="weather_type_2">Zamračené</string>

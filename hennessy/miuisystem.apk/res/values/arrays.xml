@@ -32,10 +32,11 @@
         <item>Singtel</item>
         <item>M1</item>
         <item>M1</item>
-        <item>MY Celcom</item>
-        <item>MY Celcom</item>
-        <item>MY Celcom</item>
-        <item>MY Celcom</item>
+        <item>Circles</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
+        <item>Celcom</item>
         <item>Maxis</item>
         <item>Maxis</item>
         <item>Maxis</item>
@@ -79,6 +80,7 @@
         <item>52502</item>
         <item>52503</item>
         <item>52504</item>
+        <item>Circles</item>
         <item>50213</item>
         <item>502145</item>
         <item>502148</item>
@@ -126,6 +128,7 @@
         <item>52502</item>
         <item>52503</item>
         <item>52504</item>
+        <item>Circles</item>
         <item>50213</item>
         <item>502145</item>
         <item>502148</item>
@@ -139,7 +142,7 @@
         <item>阿里通信</item>
         <item>中麦通信</item>
         <item>分享通信</item>
-        <item>小米通信</item>
+        <item>小米移动</item>
     </string-array>
     <string-array name="tian_gan">
         <item>甲</item>

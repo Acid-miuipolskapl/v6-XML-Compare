@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_format">E dd/MM</string>
+    <string name="date_format">EEEE, d MMMM</string>
     <string name="today">ఈ రోజు</string>
     <string name="tomorrow">రేపు</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
@@ -11,7 +11,8 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">నిర్మలంగా ఉంది</string>
+    <string name="weather_type_null">'డేటా లేదు'</string>
+	<string name="weather_type_0">నిర్మలంగా ఉంది</string>
     <string name="weather_type_1">మేఘావృతం</string>
     <string name="weather_type_2">మబ్బుగా ఉంది</string>
     <string name="weather_type_3">పొగమంచుతో నిండి ఉంది</string>

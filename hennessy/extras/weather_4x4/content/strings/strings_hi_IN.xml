@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_format">E dd/MM</string>
+    <string name="date_format">EEEE, d MMMM</string>
     <string name="today">आज</string>
     <string name="tomorrow">आनेवाला कल</string>
     <string name="aqi_pure">'AQI '+#weather_aqilevel</string>
@@ -11,7 +11,8 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_0">खिली धूप</string>
+    <string name="weather_type_null">'कोई डेटा नहीं'</string>
+	<string name="weather_type_0">खिली धूप</string>
     <string name="weather_type_1">बादल</string>
     <string name="weather_type_2">धुंधला</string>
     <string name="weather_type_3">कोहरा</string>

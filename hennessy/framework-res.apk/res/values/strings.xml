@@ -67,6 +67,7 @@
   <string name="android_system_label">Android System</string>
   <string name="android_upgrading_apk">Optimizing app %1$d of %2$d.</string>
   <string name="android_upgrading_complete">Finishing boot.</string>
+  <string name="android_upgrading_fstrim">Optimizing storage.</string>
   <string name="android_upgrading_starting_apps">Starting apps.</string>
   <string name="android_upgrading_title">Android is upgrading…</string>
   <string name="anr_activity_application">"%2$s isn't responding.
@@ -326,21 +327,21 @@ using %s"</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="eventTypeOther">Other</string>
   <string name="expires_on">Expires on:</string>
-  <string name="ext_media_badremoval_notification_message">Unmount SD card before removing to avoid data loss.</string>
-  <string name="ext_media_badremoval_notification_title">SD card unexpectedly removed</string>
+  <string name="ext_media_badremoval_notification_message">Unmount USB storage before removing to avoid data loss.</string>
+  <string name="ext_media_badremoval_notification_title">USB storage unexpectedly removed</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
-  <string name="ext_media_checking_notification_title">Preparing SD card</string>
-  <string name="ext_media_nofs_notification_message">SD card is blank or has unsupported filesystem.</string>
-  <string name="ext_media_nofs_notification_title">Blank SD card</string>
-  <string name="ext_media_nomedia_notification_message">SD card removed. Insert a new one.</string>
-  <string name="ext_media_nomedia_notification_title">Removed SD card</string>
-  <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card.</string>
-  <string name="ext_media_safe_unmount_notification_title">SD card safe to remove</string>
-  <string name="ext_media_unmountable_notification_message">SD card is damaged. Try reformatting it.</string>
-  <string name="ext_media_unmountable_notification_title">Damaged SD card</string>
+  <string name="ext_media_checking_notification_title">Preparing USB storage</string>
+  <string name="ext_media_nofs_notification_message">USB storage is blank or has unsupported filesystem.</string>
+  <string name="ext_media_nofs_notification_title">Blank USB storage</string>
+  <string name="ext_media_nomedia_notification_message">USB storage removed. Insert new media.</string>
+  <string name="ext_media_nomedia_notification_title">Removed USB storage</string>
+  <string name="ext_media_safe_unmount_notification_message">You can safely remove USB storage.</string>
+  <string name="ext_media_safe_unmount_notification_title">USB storage safe to remove</string>
+  <string name="ext_media_unmountable_notification_message">USB storage is damaged. Try reformatting it.</string>
+  <string name="ext_media_unmountable_notification_title">Damaged USB storage</string>
   <string name="extmedia_format_button_format">Format</string>
-  <string name="extmedia_format_message">All data on your card will be lost.</string>
-  <string name="extmedia_format_title">Format SD card?</string>
+  <string name="extmedia_format_message">"All files stored in your USB storage will be erased. This action can't be reversed!"</string>
+  <string name="extmedia_format_title">Format USB storage?</string>
   <string name="extract_edit_menu_button">Edit</string>
   <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
   <string name="factorytest_failed">Factory test failed</string>
@@ -370,7 +371,7 @@ using %s"</string>
   <string name="font_family_subhead_material">sans-serif</string>
   <string name="font_family_title_material">sans-serif-medium</string>
   <string name="force_close">OK</string>
-  <string name="format_error">"Couldn't erase SD card."</string>
+  <string name="format_error">"Couldn't erase USB storage."</string>
   <string name="forward_intent_to_owner">"You're using this app outside of your work profile"</string>
   <string name="forward_intent_to_work">"You're using this app in your work profile"</string>
   <string name="gadget_host_error_inflating">"Couldn't add widget."</string>
@@ -562,17 +563,17 @@ Try again in %d seconds."</string>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Back and Overview at the same time."</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_description_accessible">"Screen pinning locks the display in a single view.
 
-To unpin, touch and hold Overview."</string>
+To unpin, press and hold Home and the Power button at the same time."</string>
   <string name="lock_to_app_exit">Screen unpinned</string>
   <string name="lock_to_app_negative">NO, THANKS</string>
   <string name="lock_to_app_positive">START</string>
   <string name="lock_to_app_start">Screen pinned</string>
   <string name="lock_to_app_title">Use screen pinning?</string>
-  <string name="lock_to_app_toast">To unpin this screen, touch and hold Back and Overview at the same time.</string>
-  <string name="lock_to_app_toast_accessible">To unpin this screen, touch and hold Overview.</string>
+  <string name="lock_to_app_toast">To unpin this screen, press and hold Home and the Power button at the same time.</string>
+  <string name="lock_to_app_toast_accessible">To unpin this screen, press and hold Home and the Power button at the same time.</string>
   <string name="lock_to_app_toast_locked">"Screen is pinned. Unpinning isn't allowed by your organization."</string>
   <string name="lock_to_app_unlock_password">Ask for password before unpinning</string>
   <string name="lock_to_app_unlock_pattern">Ask for unlock pattern before unpinning</string>
@@ -651,7 +652,7 @@ Try again in %d seconds."</string>
   <string name="managed_profile_label_badge">Work %1$s</string>
   <string name="me">Me</string>
   <string name="media_bad_removal">SD card was removed before being unmounted.</string>
-  <string name="media_checking">SD card is currently being checked.</string>
+  <string name="media_checking">USB storage is currently being checked.</string>
   <string name="media_removed">SD card has been removed.</string>
   <string name="media_route_button_content_description">Cast</string>
   <string name="media_route_chooser_extended_settings">Settings</string>
@@ -664,7 +665,7 @@ Try again in %d seconds."</string>
   <string name="media_route_status_in_use">In use</string>
   <string name="media_route_status_not_available">Not available</string>
   <string name="media_route_status_scanning">Scanning...</string>
-  <string name="media_shared">SD card is currently in use by a computer.</string>
+  <string name="media_shared">USB storage is currently in use by a computer.</string>
   <string name="media_unknown_state">External media in unknown state.</string>
   <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
   <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
@@ -993,8 +994,8 @@ Try again in %d seconds."</string>
   <string name="permdesc_runSetActivityWatcher">Allows the app to monitor and control how the system launches activities. Malicious apps may completely compromise the system. This permission is only needed for development, never for normal use.</string>
   <string name="permdesc_scoreNetworks">Allows the app to rank networks and influence which networks the phone should prefer.</string>
   <string name="permdesc_sdcardAccessAll">Allows the app to access external storage for all users.</string>
-  <string name="permdesc_sdcardRead">Allows the app to read the contents of your SD card.</string>
-  <string name="permdesc_sdcardWrite">Allows the app to write to the SD card.</string>
+  <string name="permdesc_sdcardRead">Allows the app to read the contents of your USB storage.</string>
+  <string name="permdesc_sdcardWrite">Allows the app to write to the USB storage.</string>
   <string name="permdesc_sendRespondViaMessageRequest">Allows the app to send requests to other messaging apps to handle respond-via-message events for incoming calls.</string>
   <string name="permdesc_sendSms">Allows the app to send SMS messages. This may result in unexpected charges. Malicious apps may cost you money by sending messages without your confirmation.</string>
   <string name="permdesc_serialPort">Allows the holder to access serial ports using the SerialManager API.</string>
@@ -1075,7 +1076,7 @@ Try again in %d seconds."</string>
   <string name="permgroupdesc_screenlock">Ability to affect behavior of the lock screen on your device.</string>
   <string name="permgroupdesc_socialInfo">Direct access to information about your contacts and social connections.</string>
   <string name="permgroupdesc_statusBar">Change the device status bar settings.</string>
-  <string name="permgroupdesc_storage">Access the SD card.</string>
+  <string name="permgroupdesc_storage">Access the USB storage.</string>
   <string name="permgroupdesc_syncSettings">Access to the sync settings.</string>
   <string name="permgroupdesc_systemClock">Change the device time or timezone.</string>
   <string name="permgroupdesc_systemTools">Lower-level access and control of the system.</string>
@@ -1258,8 +1259,8 @@ for account %s."</string>
   <string name="permlab_modifyNetworkAccounting">modify network usage accounting</string>
   <string name="permlab_modifyParentalControls">modify parental controls</string>
   <string name="permlab_modifyPhoneState">modify phone state</string>
-  <string name="permlab_mount_format_filesystems">erase SD Card</string>
-  <string name="permlab_mount_unmount_filesystems">access SD Card filesystem</string>
+  <string name="permlab_mount_format_filesystems">erase USB storage</string>
+  <string name="permlab_mount_unmount_filesystems">access USB storage filesystem</string>
   <string name="permlab_movePackage">move app resources</string>
   <string name="permlab_nfc">control Near Field Communication</string>
   <string name="permlab_packageVerificationAgent">verify packages</string>
@@ -1305,8 +1306,8 @@ for account %s."</string>
   <string name="permlab_runSetActivityWatcher">monitor and control all app launching</string>
   <string name="permlab_scoreNetworks">score networks</string>
   <string name="permlab_sdcardAccessAll">access external storage of all users</string>
-  <string name="permlab_sdcardRead">read the contents of your SD card</string>
-  <string name="permlab_sdcardWrite">modify or delete the contents of your SD card</string>
+  <string name="permlab_sdcardRead">read the contents of your USB storage</string>
+  <string name="permlab_sdcardWrite">modify or delete the contents of your USB storage</string>
   <string name="permlab_sendRespondViaMessageRequest">send respond-via-message events</string>
   <string name="permlab_sendSms">send SMS messages</string>
   <string name="permlab_serialPort">access serial ports</string>
@@ -1419,8 +1420,8 @@ for account %s."</string>
   <string name="preposition_for_year">in %s</string>
   <string name="print_service_installed_message">Tap to enable</string>
   <string name="print_service_installed_title">%s service installed</string>
-  <string name="progress_erasing">Erasing SD card…</string>
-  <string name="progress_unmounting">Unmounting SD card…</string>
+  <string name="progress_erasing">Erasing USB storage…</string>
+  <string name="progress_unmounting">Unmounting USB storage…</string>
   <string name="quick_contacts_not_available">No application found to view this contact.</string>
   <string name="radial_numbers_typeface">sans-serif</string>
   <string name="reason_service_unavailable">Print service not enabled</string>
@@ -1627,13 +1628,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="usb_ptp_notification_title">Connected as a camera</string>
   <string name="usb_storage_activity_title">USB mass storage</string>
   <string name="usb_storage_button_mount">Turn on USB storage</string>
-  <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
-  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's SD card."</string>
+  <string name="usb_storage_error_message">"There's a problem using your USB storage for USB mass storage."</string>
+  <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's USB storage."</string>
   <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
   <string name="usb_storage_notification_title">USB connected</string>
   <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
   <string name="usb_storage_stop_error_message">"There was a problem turning off USB storage. Check that you've unmounted the USB host, then try again."</string>
-  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's SD card from your computer."</string>
+  <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's USB storage from your computer."</string>
   <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
   <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
   <string name="usb_storage_stop_title">USB storage in use</string>

@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="broadcast_general_type_restricted">
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.net.wifi.RSSI_CHANGED</item>
+        <item>android.net.wifi.SCAN_RESULTS</item>
+        <item>android.intent.action.USER_PRESENT</item>
+    </string-array>
+    <integer-array name="alarm_general_type_restricted">
+        <item>-1</item>
+    </integer-array>
     <string-array name="cpu_actions_device">
         <item>cancro</item>
     </string-array>
@@ -93,7 +103,6 @@
     </string-array>
     <string-array name="shown_mandatory_event_name">
         <item>foreground_change</item>
-        <item>background_change</item>
     </string-array>
     <string-array name="shown_optional_event_name">
         <item>full_screen_enter</item>
@@ -124,6 +133,36 @@
         <item>selected</item>
         <item>unselected</item>
         <item>other selected</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>customed</item>
+        <item>suggested</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>using</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>too much right now</item>
+        <item>too much in these day</item>
     </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">

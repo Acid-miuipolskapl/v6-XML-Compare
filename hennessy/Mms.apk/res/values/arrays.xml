@@ -72,6 +72,7 @@
         <item>Website</item>
         <item>Address</item>
         <item>Note</item>
+        <item>Relation</item>
     </string-array>
     <string-array name="contact_values">
         <item>vnd.android.cursor.item/name</item>
@@ -85,8 +86,13 @@
         <item>vnd.android.cursor.item/website</item>
         <item>vnd.android.cursor.item/postal-address_v2</item>
         <item>vnd.android.cursor.item/note</item>
+        <item>vnd.android.cursor.item/relation</item>
     </string-array>
     <string-array name="entries_date_type">
+        <item>Received</item>
+        <item>Sent</item>
+    </string-array>
+    <string-array name="entries_date_type_rightvalue">
         <item>Received</item>
         <item>Sent</item>
     </string-array>
@@ -125,6 +131,10 @@
     <string-array name="entries_mms_validity_period_value">
         <item>0</item>
         <item>172800</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Sync all messages</item>
+        <item>Sync messages from selected SIM cards</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>

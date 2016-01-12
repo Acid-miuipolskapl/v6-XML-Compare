@@ -27,9 +27,7 @@
 		<Button name="list_0" x="#view_width/2-198" y="#view_height/2-161" w="396" h="101">
 			<Triggers>
 				<Trigger action="up">
-					<IntentCommand action="android.intent.action.VIEW" type="vnd.android.cursor.item/text_note">
-						<Extra name="android.intent.extra.UID" type="long" expression="#id_0" />
-					</IntentCommand>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.item/text_note;l.android.intent.extra.UID='+#id_0+';end'"/>
 				</Trigger>
 			</Triggers>
 			<Normal>
@@ -45,9 +43,7 @@
 		<Button name="list_1" x="#view_width/2-198" y="#view_height/2-59" w="396" h="101">
 			<Triggers>
 				<Trigger action="up">
-					<IntentCommand action="android.intent.action.VIEW" type="vnd.android.cursor.item/text_note">
-						<Extra name="android.intent.extra.UID" type="long" expression="#id_1" />
-					</IntentCommand>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.item/text_note;l.android.intent.extra.UID='+#id_1+';end'"/>
 				</Trigger>
 			</Triggers>
 			<Normal>
@@ -63,9 +59,7 @@
 		<Button name="list_2" x="#view_width/2-198" y="#view_height/2+43" w="396" h="101">
 			<Triggers>
 				<Trigger action="up">
-					<IntentCommand action="android.intent.action.VIEW" type="vnd.android.cursor.item/text_note">
-						<Extra name="android.intent.extra.UID" type="long" expression="#id_2" />
-					</IntentCommand>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.item/text_note;l.android.intent.extra.UID='+#id_2+';end'"/>
 				</Trigger>
 			</Triggers>
 			<Pressed>
@@ -79,9 +73,7 @@
 		<Button name="list_3" x="#view_width/2-198" y="#view_height/2+145" w="396" h="101">
 			<Triggers>
 				<Trigger action="up">
-					<IntentCommand action="android.intent.action.VIEW" type="vnd.android.cursor.item/text_note">
-						<Extra name="android.intent.extra.UID" type="long" expression="#id_3" />
-					</IntentCommand>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.VIEW;type=vnd.android.cursor.item/text_note;l.android.intent.extra.UID='+#id_3+';end'"/>
 				</Trigger>
 			</Triggers>
 			<Pressed>
@@ -94,7 +86,7 @@
 	<Button x="#view_width/2+134" y="#view_height/2-263" w="94" h="94">
 		<Triggers>
 			<Trigger action="up">
-				<IntentCommand action="android.intent.action.INSERT_OR_EDIT" type="vnd.android.cursor.item/text_note"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.INSERT_OR_EDIT;type=vnd.android.cursor.item/text_note;end'"/>
 			</Trigger>
 		</Triggers>
 		<Image x="#view_width/2+163" y="#view_height/2-233" src="icon_add.png" />
@@ -102,7 +94,7 @@
 	<Button y="#view_height/2-263" w="140" h="94">
 		<Triggers>
 			<Trigger action="up">
-				<IntentCommand action="android.intent.action.MAIN" package="com.miui.notes" class="com.miui.notes.ui.NotesListActivity"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.MAIN;component=com.miui.notes/.ui.NotesListActivity;end'"/>
 			</Trigger>
 		</Triggers>
 	</Button>
