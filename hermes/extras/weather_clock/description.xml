@@ -16,5 +16,6 @@
 		<title locale="fr_FR">Horl. météo</title>
 		<title locale="tr_TR">Saat+Hava D.</title>
 		<title locale="es_ES">Reloj+tiempo</title>
+		<title locale="ro_RO">Ceas+meteo</title>
 	</titles>
 </MIUI-Theme>
