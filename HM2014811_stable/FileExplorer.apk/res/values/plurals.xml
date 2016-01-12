@@ -64,6 +64,14 @@
         <item quantity="few"> (%1$d items)</item>
         <item quantity="many"> (%1$d items)</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other"> %1$d items</item>
+        <item quantity="zero"> %1$d items</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d items</item>
+        <item quantity="few"> %1$d items</item>
+        <item quantity="many"> %1$d items</item>
+    </plurals>
     <plurals name="search_head_hint_app">
         <item quantity="other">App %1$s related files (%2$d items)</item>
         <item quantity="zero">App %1$s related files (%2$d items)</item>
@@ -113,12 +121,12 @@
         <item quantity="many">%1$d days ago</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">found %1$d new files</item>
-        <item quantity="zero">found %1$d new files</item>
-        <item quantity="one">found %1$d new file</item>
-        <item quantity="two">found %1$d new files</item>
-        <item quantity="few">found %1$d new files</item>
-        <item quantity="many">found %1$d new files</item>
+        <item quantity="other">Found %1$d new files</item>
+        <item quantity="zero">Found %1$d new files</item>
+        <item quantity="one">Found %1$d new file</item>
+        <item quantity="two">Found %1$d new files</item>
+        <item quantity="few">Found %1$d new files</item>
+        <item quantity="many">Found %1$d new files</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Received %1$d files of App %2$s</item>
@@ -127,5 +135,37 @@
         <item quantity="two">Received %1$d files of App %2$s</item>
         <item quantity="few">Received %1$d files of App %2$s</item>
         <item quantity="many">Received %1$d files of App %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Received %1$d files of WeChat</item>
+        <item quantity="zero">Received %1$d file of WeChat</item>
+        <item quantity="one">Received %1$d file of WeChat</item>
+        <item quantity="two">Received %1$d files of WeChat</item>
+        <item quantity="few">Received %1$d files of WeChat</item>
+        <item quantity="many">Received %1$d files of WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d files of WeChat Video will expire</item>
+        <item quantity="zero">%1$d file of WeChat Video will expire</item>
+        <item quantity="one">%1$d file of WeChat Video will expire</item>
+        <item quantity="two">%1$d files of WeChat Video will expire</item>
+        <item quantity="few">%1$d files of WeChat Video will expire</item>
+        <item quantity="many">%1$d files of WeChat Video will expire</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="zero">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="one">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="two">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="few">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="many">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d new WeChat stickers today</item>
+        <item quantity="zero">%1$d new WeChat sticker today</item>
+        <item quantity="one">%1$d new WeChat sticker today</item>
+        <item quantity="two">%1$d new WeChat stickers today</item>
+        <item quantity="few">%1$d new WeChat stickers today</item>
+        <item quantity="many">%1$d new WeChat stickers today</item>
     </plurals>
 </resources>

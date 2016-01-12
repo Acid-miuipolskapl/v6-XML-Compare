@@ -122,6 +122,7 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
+  <string name="calls_voip_prompt">VOIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
@@ -191,13 +192,13 @@
   <string name="contact_detail_miprofile_accept">Exchange contact cards</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Couldn't exchange contact cards"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Exchanged contact cards</string>
-  <string name="contact_detail_miprofile_binded_label">Added</string>
+  <string name="contact_detail_miprofile_binded_label">Verified</string>
   <string name="contact_detail_miprofile_exchange_closed">"No phone number is associated with this Mi Account
 Contact cards are turned off"</string>
   <string name="contact_detail_miprofile_privacy_settings">Require permission to view</string>
   <string name="contact_detail_miprofile_request">Exchange contact cards</string>
   <string name="contact_detail_miprofile_request_fail_toast">"Couldn't send request"</string>
-  <string name="contact_detail_miprofile_request_subtitle">Update profile photo and contact info automatically</string>
+  <string name="contact_detail_miprofile_request_subtitle">"Automatically update this contact's info"</string>
   <string name="contact_detail_miprofile_request_success_toast">Request sent</string>
   <string name="contact_detail_miprofile_save">Tap to get contact card</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Couldn't get contact card"</string>
@@ -214,6 +215,7 @@ Contact cards are turned off"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Tap to turn on contact cards</string>
   <string name="contact_detail_profile_switch_on_success_toast">Contact cards turned on</string>
   <string name="contact_directory_description">Directory %1$s</string>
+  <string name="contact_edit_save_error_empty">Contact is empty</string>
   <string name="contact_edit_title_edit">Edit contact</string>
   <string name="contact_edit_title_insert">Save to %s</string>
   <string name="contact_edit_title_readonly">Read-only contact</string>
@@ -241,6 +243,7 @@ Contact cards are turned off"</string>
   <string name="create_group_dialog_title">Create new group</string>
   <string name="create_group_item_label">Create new group</string>
   <string name="create_qrcode_fail_message">"Can't create QR code"</string>
+  <string name="create_voip_shortcut_success">Shortcut created</string>
   <string name="customLabelPickerTitle">Custom label name</string>
   <string name="custom_list_filter">Define custom view</string>
   <string name="custom_nickname_hint">Enter nickname</string>
@@ -250,7 +253,7 @@ Contact cards are turned off"</string>
   <string name="default_ringtone">Default ringtone</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
-  <string name="deleteConfirmation_title">Delete</string>
+  <string name="deleteConfirmation_title">Delete this contact?</string>
   <string name="delete_call_log_message">Delete call history?</string>
   <string name="delete_call_log_selected_title">Delete selected call history?</string>
   <string name="delete_call_log_title">Choose call history</string>
@@ -371,6 +374,7 @@ Contact cards are turned off"</string>
   <string name="email_mobile">Email mobile</string>
   <string name="email_other">Email</string>
   <string name="email_work">Email work</string>
+  <string name="emergency_number_label">Emergency number</string>
   <string name="emptyGroup">No people in this group</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Type person's name"</string>
@@ -378,7 +382,7 @@ Contact cards are turned off"</string>
   <string name="eventTypeCustom">Custom</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
-  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d skipped | %3$d remaining</string>
+  <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
@@ -452,7 +456,8 @@ Reason: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_button">Import contact</string>
-  <string name="import_failure_no_vcard_file">No vCard file found on the SD card.</string>
+  <string name="import_failure_no_vcard_file">No vCard files found on SD card.</string>
+  <string name="import_from_onekey_migrate">Import with Transfer</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -469,7 +474,7 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_finish">Contacts imported</string>
   <string name="import_to_xiaomi_account_progress_message">Importing…</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
-  <string name="import_to_xiaomi_account_title">Import the following contacts into your Mi Account?</string>
+  <string name="import_to_xiaomi_account_title">Import to Mi Account</string>
   <string name="import_vcard_description">Import contacts from your SD card</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
@@ -491,6 +496,15 @@ Reason: \"%s\""</string>
   <string name="in_call_show_delete_message">Delete your video?</string>
   <string name="in_call_show_delete_title">Delete video?</string>
   <string name="in_call_show_demo_present">Preview</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">An error occurred, please retry.</string>
+  <string name="in_call_show_filter_processing">Processing...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="in_call_show_guide_intro">"Record a profile video
  that will play on other MIUI users' devices when you call"</string>
   <string name="in_call_show_guide_start_recording">Record now</string>
@@ -498,6 +512,7 @@ Reason: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Press &amp; hold to record</string>
   <string name="in_call_show_pick_video">Choose video</string>
   <string name="in_call_show_preview">Preview</string>
+  <string name="in_call_show_preview_reshoot">Retry</string>
   <string name="in_call_show_recording">Recording…</string>
   <string name="in_call_show_reshoot">Record again</string>
   <string name="in_call_show_save_completed">Profile video saved</string>
@@ -592,7 +607,7 @@ Reason: \"%s\""</string>
   <string name="menu_removeStar">Unfavorite</string>
   <string name="menu_search">Search</string>
   <string name="menu_select_all">Select all</string>
-  <string name="menu_select_none">Unselect all</string>
+  <string name="menu_select_none">Deselect all</string>
   <string name="menu_sendSMS">Text contact</string>
   <string name="menu_sendTextMessage">Send text message</string>
   <string name="menu_set_ring_tone">Set ringtone</string>
@@ -605,7 +620,7 @@ Reason: \"%s\""</string>
   <string name="menu_viewContact">View contact</string>
   <string name="merge_contact_message">%1$d contacts with partially identical info</string>
   <string name="messageShortcutActivityTitle">Choose a number to message</string>
-  <string name="miprofile_account_type">Mi Account</string>
+  <string name="miprofile_account_type">Contact cards</string>
   <string name="miprofile_alertdialog_edit">Enter name</string>
   <string name="miprofile_alertdialog_message">Show this name to contacts when you ask to exchange cards.</string>
   <string name="miprofile_alertdialog_title">Enter name</string>
@@ -633,7 +648,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_clear_alertdialog_title">Clear history</string>
   <string name="miprofile_request_deleted">Card deleted</string>
   <string name="miprofile_request_empty_request">No exchange requests</string>
-  <string name="miprofile_request_exchange_title">Contact card finding</string>
+  <string name="miprofile_request_exchange_title">Find contact cards</string>
   <string name="miprofile_request_menu_clear_request">Clear history</string>
   <string name="miprofile_request_message">%1$s people want to exchange contact cards</string>
   <string name="miprofile_request_notification_message">Accept to view profile photo and more info</string>
@@ -647,6 +662,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete info from multiple accounts.</string>
@@ -749,6 +765,7 @@ To add a contact to your list of favorites:
   <string name="no_contacts_dialog_title">"Can't find contacts"</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No SD card was found.</string>
+  <string name="no_voip_contacts">No Mi Voice contacts</string>
   <string name="non_phone_add_to_contacts">Add to contacts</string>
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
@@ -778,7 +795,7 @@ To add a contact to your list of favorites:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Phone</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Mi Voice</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
@@ -817,8 +834,8 @@ To add a contact to your list of favorites:
   <string name="pref_key_sim_manage1">Set up SIM card 1</string>
   <string name="pref_key_sim_manage2">Set up SIM card 2</string>
   <string name="pref_summary_import_from_account">Transfer contacts from Google and Exchange accounts to my Mi Account</string>
-  <string name="pref_title_account_import">Import from account</string>
-  <string name="pref_title_import_from_account">Import from Mi Account</string>
+  <string name="pref_title_account_import">Import contacts</string>
+  <string name="pref_title_import_from_account">Import to Mi Account</string>
   <string name="preference_auto_ip_summary_disable">Off</string>
   <string name="preference_auto_ip_summary_on">Carrier IP prefix: %s</string>
   <string name="preference_auto_ip_title">Automatic IP prefix</string>
@@ -868,13 +885,13 @@ To add a contact to your list of favorites:
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
   <string name="pull_to_refresh_refreshing_label">Loading…</string>
   <string name="pull_to_refresh_release_label">Release to refresh…</string>
-  <string name="qr_card_card">My QR Code</string>
+  <string name="qr_card_card">QR code</string>
   <string name="qrcode_card_title">QR code</string>
   <string name="quickcontact_missing_app">No app was found to handle this action</string>
   <string name="quit_dialog_confirm_message">"You haven't merged any contacts"</string>
   <string name="quit_dialog_confirm_title">Cancel merge contacts</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contains info from multiple accounts. Info from read-only accounts will be hidden in your contacts list.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contains info from multiple accounts. Any info that can't be deleted will be hidden from your contacts list."</string>
   <string name="readOnlyContactWarning">"You can't delete contacts from read-only accounts, but you can hide them in your contacts lists."</string>
   <string name="readingSimContacts">Reading SIM card…</string>
   <string name="reading_vcard_canceled_title">Reading vCard data canceled</string>
@@ -937,7 +954,7 @@ To add a contact to your list of favorites:
   <string name="set_photo_failed_msg">"Couldn't assign picture."</string>
   <string name="share_error">"This contact can't be shared"</string>
   <string name="share_over_limit">"More than 1000, can't be shared"</string>
-  <string name="share_via">Send</string>
+  <string name="share_via">Send using</string>
   <string name="share_visible_contacts">Share contacts</string>
   <string name="shortcutActivityTitle">Choose a shortcut</string>
   <string name="shortcutContact">Contact</string>
@@ -1019,6 +1036,7 @@ To add a contact to your list of favorites:
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
   <string name="strequentList">Favorites</string>
+  <string name="success_message_import_from_account">Import done</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide_pinyin">Enter 2 and 8 to search for Alan Turing</string>
   <string name="t9_search_guide_zhuyin">Enter 2 and 8 to search for Alan Turing</string>
@@ -1039,6 +1057,7 @@ To add a contact to your list of favorites:
   <string name="toast_making_personal_copy">Creating a personal copy…</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="today">Today</string>
+  <string name="transfer_accounts">Transfer accounts</string>
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
   <string name="type_mx_msg">Mi Message</string>
@@ -1086,6 +1105,12 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_configure_voicemail">Set up your voicemail.</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
+  <string name="voip_contact_label">Mi Voice</string>
+  <string name="voip_contacts_entry">Mi Voice</string>
+  <string name="voip_loading_contact">Just a sec…</string>
+  <string name="voip_name">Mi Voice</string>
+  <string name="voip_recommend_msg">Tap to use Mi Voice</string>
+  <string name="voip_shortcut_name">Mi Voice</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
