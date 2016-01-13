@@ -6,6 +6,8 @@
   <string name="change_default_dialer_dialog_title">Change default Dialer app?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Use %s as your default dialer app?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Use %1$s instead of %2$s as your default dialer app?</string>
+  <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
+  <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
   <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="duplicate_video_call_not_allowed">Call cannot be added at this time.</string>
   <string name="enable_account_preference_title">Calling accounts</string>
@@ -48,6 +50,7 @@
   <string name="unknown">Unknown</string>
   <string name="userCallActivityLabel">Phone</string>
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
+  <string name="voice_dial_out">Voice call</string>
   <string name="voice_report_incoming_call">Incoming call</string>
   <string name="voice_report_unknown_num">Unknown number</string>
 </resources>
