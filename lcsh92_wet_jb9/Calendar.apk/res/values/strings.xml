@@ -120,6 +120,10 @@
   <string name="does_not_repeat">One-time event</string>
   <string name="done">Return</string>
   <string name="download">Download</string>
+  <string name="download_finished">下载完成</string>
+  <string name="downloaded">已下载</string>
+  <string name="downloading">下载中</string>
+  <string name="downloading_wallpaper">原图下载中</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
