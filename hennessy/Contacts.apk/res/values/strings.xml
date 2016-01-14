@@ -41,6 +41,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_view_description">Click to return to previous screen</string>
   <string name="batch_delete">Delete batch</string>
   <string name="blacklist">Block</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
@@ -284,13 +285,18 @@ Contact cards are turned off"</string>
   <string name="description_dial_button">Dial</string>
   <string name="description_dial_phone_number">Dial phone %1$s</string>
   <string name="description_digits_edittext">Number to dial</string>
+  <string name="description_image_button_comma">comma</string>
+  <string name="description_image_button_dial">dial</string>
   <string name="description_image_button_eight">eight</string>
   <string name="description_image_button_five">five</string>
   <string name="description_image_button_four">four</string>
   <string name="description_image_button_nine">nine</string>
   <string name="description_image_button_one">one</string>
+  <string name="description_image_button_plus">plus</string>
   <string name="description_image_button_pound">Pound</string>
   <string name="description_image_button_seven">seven</string>
+  <string name="description_image_button_sim1_dial">dial by sim one</string>
+  <string name="description_image_button_sim2_dial">dial by sim two</string>
   <string name="description_image_button_six">six</string>
   <string name="description_image_button_star">star</string>
   <string name="description_image_button_three">three</string>
@@ -340,6 +346,7 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
+  <string name="dialer_menu_description">Click to open dialer menu</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
   <string name="dialog_import">Import contacts</string>
@@ -432,6 +439,7 @@ Reason: \"%s\""</string>
   <string name="group_create_fail_toast">"Couldn't create group"</string>
   <string name="group_create_success_toast">Group created</string>
   <string name="group_delete_success_toast">Group deleted</string>
+  <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Group name</string>
   <string name="group_member_remove_toast">Removed from group</string>
   <string name="group_name">My groups</string>
@@ -1129,12 +1137,14 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_configure_voicemail">Set up your voicemail.</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
+  <string name="voip_audio_description">Click to voip audio</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Just a sec…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
+  <string name="voip_video_description">Click to voip video</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
