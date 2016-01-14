@@ -3,7 +3,7 @@
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>
-  <string name="addBlackList">Add to blocklist</string>
+  <string name="addBlackList">Block</string>
   <string name="add_attachment">Add attachments</string>
   <string name="add_contact">Contact</string>
   <string name="add_festival">Greetings</string>
