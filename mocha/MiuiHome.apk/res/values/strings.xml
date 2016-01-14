@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
+  <string name="add_screen">Add screen button</string>
   <string name="app_already_exist">App already exists</string>
   <string name="app_being_backup_message">App is being backed up</string>
   <string name="app_being_restored_message">App is being restored</string>
@@ -59,6 +60,7 @@
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Delete</string>
+  <string name="delete_screen">Delete screen button</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
   <string name="deselect_all">Deselect all</string>
@@ -198,10 +200,10 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_notice">Recommended apps</string>
-  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen</string>
   <string name="recommend_apps_switch_title">Recommended apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="screen_number">The %d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
