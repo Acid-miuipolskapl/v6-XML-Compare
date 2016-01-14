@@ -307,6 +307,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="battery_info_voltage_label">Battery voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Battery level</string>
+  <string name="battery_light_title">Battery light</string>
   <string name="battery_settings">Battery</string>
   <string name="battery_settings_title">Battery</string>
   <string name="battery_since_reset">Battery use since reset</string>
