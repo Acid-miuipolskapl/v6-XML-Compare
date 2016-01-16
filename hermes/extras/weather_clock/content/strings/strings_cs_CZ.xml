@@ -29,4 +29,5 @@
     <string name="weather_type_22">Krupobití</string>
     <string name="weather_type_23">Prach</string>
     <string name="weather_type_24">Mrznoucí déšť</string>
+    <string name="weather_type_null">Žádná data</string>
 </resources>
