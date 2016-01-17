@@ -20,7 +20,6 @@
   <string name="accessibility_data_three_bars">Data three bars.</string>
   <string name="accessibility_data_two_bars">Data two bars.</string>
   <string name="accessibility_home">Home</string>
-  <string name="accessibility_managed_profile">Work profile</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
   <string name="accessibility_no_phone">No phone.</string>
@@ -85,7 +84,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="description_direction_left">Swipe left for %s.</string>
   <string name="description_direction_up">Swipe up for %s.</string>
   <string name="description_target_search">Search</string>
-  <string name="disable_notification_summary">Never show notifications from selected apps</string>
+  <string name="disable_notification_summary">"Hide apps' notifications"</string>
   <string name="disable_notification_title">Hide notifications</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
@@ -113,13 +112,15 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
+  <string name="headset_custom">Dismiss</string>
+  <string name="headset_info">Tap to view settings.</string>
+  <string name="headset_settings">Headphones connected</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
-  <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
   <string name="mdb_restore_info1">"Restore your phone's data"</string>

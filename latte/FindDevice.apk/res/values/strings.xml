@@ -12,7 +12,6 @@
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_find_device_success">Find device is on</string>
   <string name="find_device">Find device</string>
-  <string name="find_device_crash">Find device closed unexpectedly</string>
   <string name="find_device_error_account_sys_timeout">"Couldn't connect to Mi Account"</string>
   <string name="find_device_error_network">Check your data connection and try again.</string>
   <string name="find_device_error_password_changed">Account password has been recently changed.</string>
