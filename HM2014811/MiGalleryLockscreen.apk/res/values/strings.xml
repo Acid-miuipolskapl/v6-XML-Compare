@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">gallery</string>
+  <string name="at_least_one">Please select at least one category</string>
   <string name="cancel">Exit</string>
   <string name="change_time">Switch Interval</string>
   <string name="day">1 day</string>

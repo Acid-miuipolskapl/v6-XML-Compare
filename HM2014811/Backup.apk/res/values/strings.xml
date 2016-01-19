@@ -45,7 +45,7 @@
   <string name="button_backup">Back up</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_continue">Continue</string>
-  <string name="button_finish">OK</string>
+  <string name="button_finish">Finish</string>
   <string name="button_next">Next</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Back</string>
@@ -221,7 +221,7 @@
   <string name="task_backup_cancel_progress">Stopping…</string>
   <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
-  <string name="task_canceled_all_local">Cancel</string>
+  <string name="task_canceled_all_local">Canceled</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"Backup isn't finished. Stop anyway?"</string>
   <string name="task_failed">"Couldn't back up"</string>
@@ -248,7 +248,7 @@
   <string name="total_num">%d items,</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_cancel_confirm">Transfer in progress, cancel now?</string>
+  <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
@@ -278,14 +278,14 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
-  <string name="trans_receiver_time_remained">"%s remaining. Keep device charged.
-Don't turn off Hotspot. Keep both devices close to each other."</string>
-  <string name="trans_receiving_completed">Data received</string>
+  <string name="trans_receiver_time_remained">"%s remaining.
+Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
+  <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
-  <string name="trans_select_data">Choose Data</string>
+  <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"%s available on the new device
 Select files again or free up storage"</string>
   <string name="trans_select_data_tips">"Select files to transfer
@@ -297,14 +297,14 @@ Similar files on the new device will be overwritten"</string>
   <string name="trans_sender_searching">Searching for new devices</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
-  <string name="trans_sender_time_remained">"%s remaining. Keep device charged.
-Don't turn off WLAN. Keep both devices close to each other."</string>
-  <string name="trans_sending_completed">Data sent</string>
+  <string name="trans_sender_time_remained">"%s remaining.
+Don't turn off WLAN. Keep devices close to each other."</string>
+  <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_time_format_second">less than one minute</string>
+  <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
-Time spent %s"</string>
+Time spent: %s"</string>
   <string name="trans_wait_trans_data">"Connected to the old device.
 Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
