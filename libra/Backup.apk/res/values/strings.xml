@@ -258,18 +258,18 @@
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Device disconnected</string>
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
-  <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
+  <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_one_key_migrate">Transfer</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
   <string name="trans_operate_new_phone_tips">"Scan QR code using new device
-Go to Settings &gt; Additional Settings &gt; Transfer
+Go to Settings &gt; Additional Settings &gt; Mi Mover
 Tap [I'm a recipient] to create a QR code"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Install the Transfer app on your old device
+  <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
 2. Open the app and select [I'm a sender]
 3. Scan the QR code with your old device"</string>
-  <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Transfer, Tap [I'm a sender]"</string>
+  <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
@@ -308,7 +308,7 @@ Time spent: %s"</string>
   <string name="trans_wait_trans_data">"Connected to the old device.
 Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
-and Transfer is enabled"</string>
+and Mi Mover is on"</string>
   <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" items"</string>
