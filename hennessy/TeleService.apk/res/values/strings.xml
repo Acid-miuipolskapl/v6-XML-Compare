@@ -988,7 +988,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
   <string name="set_smsc_address_timeout">Connection timed out</string>
-  <string name="set_smsc_address_title">Set SMS center number</string>
+  <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="setting_activate_domestic_title">Domestic calls</string>
   <string name="setting_activate_international_title">International calls</string>
   <string name="settings_label">Network settings</string>
