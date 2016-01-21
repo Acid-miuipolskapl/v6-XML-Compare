@@ -17,5 +17,8 @@
 		<title locale="pt_BR">Musica</title>
 		<title locale="el_GR">Μουσική</title>
 		<title locale="es_ES">Música</title>
+		<title locale="de_DE">Musik</title>
+		<title locale="tr_TR">Müzik</title>
+		<title locale="vi_VN">Nhạc</title>
 		</titles>
 </MIUI-Theme>
