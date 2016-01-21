@@ -6,6 +6,7 @@
   <string name="change_time">Switch Interval</string>
   <string name="day">1 day</string>
   <string name="declaration">Enjoy free subscriptions to the top global media. Keep up to date with the latest news, movie releases, and celebrity buzz.</string>
+  <string name="declaration_lockscreen_title">Enable Daily lock screens</string>
   <string name="declaration_title">Terms and Conditions</string>
   <string name="hour_1">1 hour</string>
   <string name="hour_3">3 hour</string>
@@ -15,7 +16,8 @@
   <string name="lockscreen_magazine_system_title">Default</string>
   <string name="lockscreen_magazine_title">Daily lock screens</string>
   <string name="no_long_show">"Don't show again"</string>
-  <string name="ok">Agree</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Agree and enable Daily lock screens</string>
   <string name="resource_apply">Apply</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
   <string name="setting_head">Settings</string>

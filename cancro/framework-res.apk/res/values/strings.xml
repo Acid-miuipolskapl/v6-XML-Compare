@@ -191,6 +191,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="condition_provider_service_binding_label">Condition provider</string>
   <string name="config_activityRecognitionHardwarePackageName">@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
+  <string name="config_cameraLaunchGestureSensorStringType"/>
   <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
   <string name="config_chooseTypeAndAccountActivity">android/android.accounts.ChooseTypeAndAccountActivity</string>
   <string name="config_comboNetworkLocationProvider">com.qualcomm.location</string>
@@ -218,11 +219,14 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_mobile_hotspot_provision_response"/>
   <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
   <string name="config_ntpServer">2.android.pool.ntp.org</string>
+  <string name="config_orientationSensorType">@null</string>
+  <string name="config_packagedKeyboardName"/>
   <string name="config_persistentDataPackageName">com.google.android.gms</string>
   <string name="config_radio_access_family"/>
   <string name="config_rat_2g">2G</string>
   <string name="config_rat_3g">3G</string>
   <string name="config_rat_4g">4G</string>
+  <string name="config_rat_unknown"/>
   <string name="config_useragentprofile_url"/>
   <string name="config_webViewPackageName">com.google.android.webview</string>
   <string name="config_wifi_framework_sap_2G_channel_list">1,6,11</string>
@@ -282,6 +286,9 @@ using %s"</string>
   <string name="db_default_sync_mode">FULL</string>
   <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Decline</string>
+  <string name="def_custom_bt_defname"/>
+  <string name="def_wifi_direct_name"/>
+  <string name="def_wifi_wifihotspot_pass"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="default_audio_route_category_name">System</string>
@@ -621,6 +628,7 @@ Try again in %d seconds."</string>
   <string name="launch_warning_title">App redirected</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Loading…</string>
+  <string name="locale_codes"/>
   <string name="locale_replacement"/>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
@@ -848,6 +856,8 @@ Try again in %d seconds."</string>
   <string name="older">Older</string>
   <string name="oneMonthDurationPast">1 month ago</string>
   <string name="open_permission_deny">"You don't have permission to open this page."</string>
+  <string name="operator_config_url"/>
+  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Custom</string>
   <string name="orgTypeOther">Other</string>
   <string name="orgTypeWork">Work</string>
@@ -1470,6 +1480,7 @@ Do you want to close it?"</string>
   <string name="year">year</string>
   <string name="years">years</string>
   <string name="yes">OK</string>
+  <string name="zen_mode_alarm">Until %1$s (next alarm)</string>
   <string name="zen_mode_default_events_name">Event</string>
   <string name="zen_mode_default_weekends_name">Weekend</string>
   <string name="zen_mode_default_weeknights_name">Weeknight</string>

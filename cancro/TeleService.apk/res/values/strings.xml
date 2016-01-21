@@ -845,6 +845,16 @@ Will use preferred network instead."</string>
   <string name="onscreenVideoCallText">Video call</string>
   <string name="open_miui">Open</string>
   <string name="operation_successfully">Operation successfully!</string>
+  <string name="operator_first_mins_hint">xx minutes</string>
+  <string name="operator_first_mins_none_summary">Top-up package first</string>
+  <string name="operator_first_mins_none_title">Operator package minutes all used</string>
+  <string name="operator_first_no_set">no value</string>
+  <string name="operator_first_set_failed">Fialed</string>
+  <string name="operator_first_sim_card_changed_summary">Reset operator package minutes</string>
+  <string name="operator_first_sim_card_changed_title">Sim Card Change</string>
+  <string name="operator_first_title">Operator first</string>
+  <string name="operator_remain_mins">Operator package minutes</string>
+  <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="optional_summary">&lt;Optional&gt;</string>
   <string name="order_by_recent">Frequency</string>
   <string name="order_id">Order ID: %1$s</string>
@@ -1109,7 +1119,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
   <string name="set_smsc_address_timeout">Connection timed out</string>
-  <string name="set_smsc_address_title">Set SMS center number</string>
+  <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
   <string name="set_time_period">Set time period</string>
   <string name="setting_activate_domestic_title">Domestic calls</string>
   <string name="setting_activate_international_title">International calls</string>
