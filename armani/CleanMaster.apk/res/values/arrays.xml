@@ -49,8 +49,8 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Clean up</item>
-        <item>Install this apk</item>
-        <item>"View apk's location"</item>
+        <item>Install this app</item>
+        <item>View in folder</item>
         <item>Add to exceptions</item>
     </string-array>
     <string-array name="app_clean_menu">
