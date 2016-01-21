@@ -111,8 +111,8 @@
   <string name="disable_auto_payment_fail_message">"Couldn't turn off automatic renewal"</string>
   <string name="disable_auto_payment_success">Turned off</string>
   <string name="disable_auto_payment_success_message">"Turned off automatic renewal. After your current subscription expires, you'll have to subscribe again to download songs."</string>
-  <string name="disallow_add_to_fm">FM is read only</string>
-  <string name="disallow_add_to_personal_radio">Personal radio is read only</string>
+  <string name="disallow_add_to_fm">"Can't add songs to FM radio"</string>
+  <string name="disallow_add_to_personal_radio">"Can't add songs to Personal radio"</string>
   <string name="do_not_remind_again">"Don't show again"</string>
   <string name="done">Done</string>
   <string name="download">Download</string>
