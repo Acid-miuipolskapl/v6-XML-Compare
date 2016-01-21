@@ -16,5 +16,8 @@
 		<title locale="fr_FR">Horl. météo</title>
 		<title locale="tr_TR">Saat+Hava D.</title>
 		<title locale="es_ES">Reloj+tiempo</title>
+		<title locale="de_DE">Wetteruhr</title>
+		<title locale="tr_TR">Hava durumu saat</title>
+		<title locale="vi_VN">Đ.hồ T.tiết</title>
 	</titles>
 </MIUI-Theme>
