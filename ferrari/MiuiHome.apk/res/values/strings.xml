@@ -22,6 +22,7 @@
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Travel</string>
   <string name="application_name">System launcher</string>
+  <string name="apply">Apply</string>
   <string name="apply_action">Apply</string>
   <string name="apply_as_lock_screen">Lock screen</string>
   <string name="apply_as_lock_wallpaper_message">Apply wallpaper to lock screen too?</string>
@@ -145,6 +146,8 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
+  <string name="like">Like</string>
+  <string name="liked">Liked</string>
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_wallpaper">Downloaded</string>
@@ -209,7 +212,9 @@
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
+  <string name="settings">Settings</string>
   <string name="settings_shortcut">Settings</string>
+  <string name="share">Share</string>
   <string name="sharedUserId"/>
   <string name="show_all">Show all</string>
   <string name="sort_by_abc">Sort by name</string>
