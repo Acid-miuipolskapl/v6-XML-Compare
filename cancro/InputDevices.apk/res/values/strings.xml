@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Input Devices</string>
+  <string name="keyboard_layout_arabic">Arabic</string>
   <string name="keyboard_layout_belgian">Belgian</string>
   <string name="keyboard_layout_brazilian">Brazilian</string>
   <string name="keyboard_layout_bulgarian">Bulgarian</string>
@@ -17,9 +18,13 @@
   <string name="keyboard_layout_french_ca_label">French (Canada)</string>
   <string name="keyboard_layout_french_label">French</string>
   <string name="keyboard_layout_german_label">German</string>
+  <string name="keyboard_layout_greek">Greek</string>
+  <string name="keyboard_layout_hebrew">Hebrew</string>
   <string name="keyboard_layout_hungarian">Hungarian</string>
   <string name="keyboard_layout_icelandic">Icelandic</string>
   <string name="keyboard_layout_italian">Italian</string>
+  <string name="keyboard_layout_latvian">Latvian</string>
+  <string name="keyboard_layout_lithuanian">Lithuanian</string>
   <string name="keyboard_layout_norwegian">Norwegian</string>
   <string name="keyboard_layout_portuguese">Portuguese</string>
   <string name="keyboard_layout_russian_label">Russian</string>
@@ -27,6 +32,7 @@
   <string name="keyboard_layout_slovak">Slovak</string>
   <string name="keyboard_layout_slovenian">Slovenian</string>
   <string name="keyboard_layout_spanish_label">Spanish</string>
+  <string name="keyboard_layout_spanish_latin">Spanish (Latin)</string>
   <string name="keyboard_layout_swedish">Swedish</string>
   <string name="keyboard_layout_swiss_french_label">Swiss French</string>
   <string name="keyboard_layout_swiss_german_label">Swiss German</string>

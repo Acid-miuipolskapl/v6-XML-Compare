@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_add_reminder">Add reminder</string>
   <string name="accessibility_all_day">All day event</string>
@@ -23,6 +24,7 @@
   <string name="acessibility_cal_notification">Calendar notification</string>
   <string name="acessibility_selected_marker_description">Selected event</string>
   <string name="acessibility_snooze_notification">Snooze notification</string>
+  <string name="action_label">Return</string>
   <string name="action_text_new_event">New event</string>
   <string name="action_text_online">订阅</string>
   <string name="action_text_today">Today</string>
@@ -52,10 +54,10 @@
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday</string>
   <string name="birthday_event_description_days_ago">%1$s days ago</string>
   <string name="birthday_event_description_days_later">%1$s days later</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s%3$s%4$s"</string>
+  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Today</string>
   <string name="birthday_event_description_tomorrow">Tomorrow</string>
   <string name="birthday_event_description_yesterday">Yesterday</string>
@@ -95,11 +97,6 @@
 • Back up your events securely"</string>
   <string name="creating_event">Event created</string>
   <string name="creating_event_with_guest">Invitations will be sent</string>
-  <string name="cta_notice_checkbox">Remember preference</string>
-  <string name="cta_notice_message">"Calendar needs to read your contacts' info in order to set up birthday reminders."</string>
-  <string name="cta_notice_ok">Allow</string>
-  <string name="cta_notice_title">Permission request</string>
-  <string name="cta_notify_settings">Ask me first</string>
   <string name="custom">"Custom (can't customize on phone)"</string>
   <string name="daily">Daily</string>
   <string name="data_notice_change_settings">更改设置</string>
@@ -123,7 +120,12 @@
   <string name="dismiss_all_label">Dismiss all</string>
   <string name="do_not_check">Do NOT check -&gt;</string>
   <string name="does_not_repeat">One-time event</string>
-  <string name="done">Return</string>
+  <string name="download">Download</string>
+  <string name="download_finished">下载完成</string>
+  <string name="downloaded">已下载</string>
+  <string name="downloading">下载中</string>
+  <string name="downloading_wallpaper">原图下载中</string>
+  <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
   <string name="edit_event_all_day_label">All Day</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -183,12 +185,9 @@
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="huangli_label"/>
-  <string name="internet_connection_notification">Internet connection notification</string>
-  <string name="internet_connection_notification_descrip">Show internet connection notification every time you open Calendar</string>
   <string name="joke_card_icon_text">|  %1$s 人笑过</string>
   <string name="jump_date">Jump</string>
   <string name="jump_date_full">Jump to date</string>
-  <string name="jump_text">%1$s &gt;</string>
   <string name="label_recent_events">近期事件</string>
   <string name="loading">Just a sec…</string>
   <string name="local_calendar_display_name">Local calendar</string>
@@ -220,25 +219,21 @@
   <string name="monthly">Monthly</string>
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s %2$s)</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">+%1$d</string>
   <string name="movable_list_header_label">简介</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
   <string name="new_event_dialog_label">New event</string>
   <string name="new_event_dialog_option">New event</string>
   <string name="no_calendars_found">Before you can add an event, you must add at least one Calendar account to your device and make a calendar visible. Touch Add Account to add an account (if you just added an account, wait for it to finish syncing and try again). Or touch Cancel and make sure at least one calendar is visible.</string>
   <string name="no_local_calendar">没有订阅日历 :)</string>
   <string name="no_network">无网络，请联网再刷新一下试试 :)</string>
+  <string name="no_network_btn">Try again</string>
   <string name="no_syncable_calendars">No calendars</string>
   <string name="no_title_label">(No title)</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">not synced</string>
-  <string name="notice_button_exit">Exit</string>
-  <string name="notice_button_ok">OK</string>
-  <string name="notice_declaration_ignore">"Don't show again"</string>
-  <string name="notice_title_agreement">Internet connection</string>
-  <string name="notice_title_request">Request</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">订阅日历</string>
-  <string name="online_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection to work normally."</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
@@ -328,6 +323,7 @@
   <string name="select_synced_calendars_button">Calendars to sync</string>
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="select_visible_calendars_title">Calendars to display</string>
+  <string name="set_as_wallpaper">Set as wallpaper</string>
   <string name="setting_wifi_mode">仅WLAN下同步大图</string>
   <string name="show_controls">Show controls</string>
   <string name="show_day_view">Show day</string>
@@ -392,6 +388,13 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="user_notice_button_exit">Exit</string>
+  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_declaration_ignore">"Don't show again"</string>
+  <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection, location and contact access to work normally."</string>
+  <string name="user_notice_title">User Notification</string>
+  <string name="user_notification">User notification</string>
+  <string name="user_notification_descrip">Show user notification every time you open Calendar</string>
   <string name="view_all_matches">查看所有赛程</string>
   <string name="view_event_calendar_label">Calendar:</string>
   <string name="view_event_organizer_label">Organizer:</string>
