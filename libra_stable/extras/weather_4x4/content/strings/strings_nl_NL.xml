@@ -3,6 +3,7 @@
     <string name="date_format">EEEE, d MMMM</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
+	<string name="weather_type_null">'Geen data'</string>
     <string name="weather_type_0">Helder</string>
     <string name="weather_type_1">Bewolkt</string>
     <string name="weather_type_2">Nevelig</string>

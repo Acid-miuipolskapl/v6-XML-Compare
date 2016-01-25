@@ -1,4 +1,5 @@
 <resources>
+<string name="weather_type_null">Žádná data</string>
     <string name="date_format">dd.MM. EEEE</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zítra</string>

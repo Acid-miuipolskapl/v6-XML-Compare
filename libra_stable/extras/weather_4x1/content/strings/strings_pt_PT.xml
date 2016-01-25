@@ -1,4 +1,5 @@
 <resources>
+    <string name="weather_type_null">'Sem dados'</string>
     <string name="weather_type_0">Céu limpo</string>
     <string name="weather_type_1">Nublado</string>
     <string name="weather_type_2">Nebuloso</string>

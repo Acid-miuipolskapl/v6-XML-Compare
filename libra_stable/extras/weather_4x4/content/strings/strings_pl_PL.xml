@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">EEE dd MMMM</string>
+    <string name="date_format">EEE d MMM</string>
     <string name="today">Dziś</string>
     <string name="tomorrow">Jutro</string>
     <string name="aqi_pure"/>
@@ -10,6 +10,7 @@
     <string name="aqi_dangerous"/>
     <string name="aqi_hazardous"/>
     <string name="aqi_break"/>
+    <string name="weather_type_null">'Brak danych'</string>
     <string name="weather_type_0">Bezchmurnie</string>
     <string name="weather_type_1">Pochmurnie</string>
     <string name="weather_type_2">Zamglenie</string>
