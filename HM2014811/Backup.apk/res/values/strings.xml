@@ -128,7 +128,7 @@
   <string name="local_no_backup">No backups.</string>
   <string name="local_restore_window_title">Local restore</string>
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
-  <string name="local_select_audio">Audios</string>
+  <string name="local_select_audio">Audio files</string>
   <string name="local_select_doc">Documents</string>
   <string name="local_select_files">SD card</string>
   <string name="local_select_image">Images</string>
@@ -249,7 +249,7 @@
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
-  <string name="trans_cancelling">Canceling</string>
+  <string name="trans_cancelling">Canceling…</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
@@ -279,7 +279,8 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
-Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
+Don't turn off WLAN Hotspot.
+Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
@@ -288,7 +289,7 @@ Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"%s available on the new device
 Select files again or free up storage"</string>
-  <string name="trans_select_data_tips">"Select files to transfer
+  <string name="trans_select_data_tips">"Select items to transfer
 Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
   <string name="trans_select_device_send">Select one device to transfer data.</string>
@@ -298,7 +299,8 @@ Similar files on the new device will be overwritten"</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
   <string name="trans_sender_time_remained">"%s remaining.
-Don't turn off WLAN. Keep devices close to each other."</string>
+Don't turn off WLAN.
+Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
