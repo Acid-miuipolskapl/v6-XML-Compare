@@ -680,6 +680,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
   <string name="close_dialog">OK</string>
+  <string name="close_miui_optimization_title">Turn off MIUI optimization</string>
+  <string name="close_miui_optimization_warning_message">Your device will reboot to apply this change. Note: turning this feature off will bring major changes to layouts and other elements of the UI.</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
   <string name="color_calibration_none">Native</string>
@@ -1663,6 +1665,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="manageapplications_settings_title">Manage apps</string>
   <string name="managed_device_admin_title">Work</string>
   <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
+  <string name="managed_profile_location_category">Work profile</string>
+  <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+  <string name="managed_profile_location_switch_title">Location for work profile</string>
   <string name="managed_profile_not_available_label">"Work profile isn't available yet"</string>
   <string name="managed_user_title">Work profile</string>
   <string name="manually_add_network">Add network</string>
@@ -1771,6 +1776,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miui_allow_vibrate">Vibrations</string>
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
   <string name="miui_disturb_title">Do not disturb</string>
+  <string name="miui_experience_optimization">Turn on MIUI optimization</string>
   <string name="miui_screensaver_show_time">Duration</string>
   <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
   <string name="miui_screensaver_state_off">Off</string>
@@ -1956,8 +1962,13 @@ Select your operating system:"</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="only_when_charging">Only when connected to power source</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
+  <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
+  <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
+  <string name="optimization_cancel">Cancel</string>
+  <string name="optimization_close">Turn off &amp; reboot</string>
+  <string name="optimization_open">Turn on</string>
   <string name="other_advanced_settings">Additional settings</string>
   <string name="other_personal_settings">Additional settings</string>
   <string name="other_relative">Other</string>
