@@ -394,6 +394,7 @@
   <string name="fdn_errorcode_storage_info">Failed,storage is full.</string>
   <string name="fdn_errorcode_unknown_info">Failed,unknown error occured,please try later.</string>
   <string name="fdn_failed">FDN operation failed.</string>
+  <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
   <string name="fdn_invalid_number">"FDN wasn't updated because the number can't exceed 20 digits."</string>
   <string name="fdn_phone_book_busy">Phone book is busy now,please try later.</string>
   <string name="fdn_puk_need_tips">PIN2 Blocked. Please change PIN2 and retry!</string>
@@ -642,7 +643,7 @@ Will use preferred network instead."</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Current 4-digit password</string>
-  <string name="old_pin2_label">Old PIN2</string>
+  <string name="old_pin2_label">PIN2</string>
   <string name="old_pin_label">Old PIN</string>
   <string name="onHold">On hold</string>
   <string name="one_retry_left">1 retry left</string>
@@ -736,8 +737,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
   <string name="plmn_list_setting_add_plmn">New PLMN</string>
   <string name="plmn_list_setting_title">Preferred networks</string>
-  <string name="pocket_mode_summary">Lock automatically when placed in a pocket</string>
-  <string name="pocket_mode_title">Prevent pocket dials</string>
   <string name="port">Port</string>
   <string name="port_title">Port number</string>
   <string name="preference_auto_ip_summary_disable">Off</string>

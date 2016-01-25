@@ -18,6 +18,7 @@
   <string name="add_device_remote">Add %1$s remote</string>
   <string name="add_more">Add more IR devices</string>
   <string name="add_new_control">Add remote</string>
+  <string name="add_new_tv">添加新电视…</string>
   <string name="agree">Agree</string>
   <string name="airkan_disconnect">Devices not connected</string>
   <string name="airkan_disconnect_display_name">Devices not connected</string>
@@ -66,6 +67,7 @@
   <string name="by_position">By location</string>
   <string name="camera_shoot">Shutter</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_share">取消分享</string>
   <string name="carrier_data">Carrier info</string>
   <string name="channel">Channel</string>
   <string name="channel_catogory_name">Channels</string>
@@ -104,6 +106,7 @@
   <string name="delete_desc">"You won't be able to control “%s” using Mi Remote."</string>
   <string name="delete_device_frame">Delete %1$s?</string>
   <string name="delete_frame">Delete \"%1$s\"?</string>
+  <string name="device_bluetoothi">蓝牙遥控器</string>
   <string name="device_brand">Brand</string>
   <string name="device_model">Model</string>
   <string name="device_responsed">Device responded</string>
@@ -171,6 +174,7 @@
   <string name="feedback_error_tips">Having problems using this remote, tap to report a problem</string>
   <string name="find_adb_frame">%1$d ADB devices detected</string>
   <string name="find_milink_frame">%1$d Mi devices detected</string>
+  <string name="from_share">来自分享</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">"Can't use landscape orientation in Gamepad mode"</string>
   <string name="gesture_pad_first_line_tips">Use the Volume buttons on your device to adjust volume</string>
@@ -209,7 +213,7 @@
   <string name="ir_device_amp">Amplifier</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
-  <string name="ir_device_dvb_s">Set-top box</string>
+  <string name="ir_device_dvb_s">Cable / Satellite box</string>
   <string name="ir_device_dvd">DVD Player</string>
   <string name="ir_device_fan">Fan</string>
   <string name="ir_device_iptv">IPTV</string>
@@ -233,6 +237,7 @@
   <string name="just_used">Just now</string>
   <string name="key_press_vibrate">Vibrate on touch</string>
   <string name="last_use_frame">%1$s ago</string>
+  <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Living room</string>
   <string name="loading_brand">Getting info…</string>
   <string name="loading_brand_info">Just a sec…</string>
@@ -350,12 +355,14 @@ wait a moment after the action."</string>
   <string name="no_program">No content here</string>
   <string name="no_qq">Install QQ first</string>
   <string name="no_save_brand_service">Add this remote again</string>
+  <string name="none">无</string>
   <string name="not_respond">No response</string>
   <string name="notification_found_shared_remote_text">Tap to control it</string>
   <string name="notification_found_shared_remote_title">Found a %1$s nearby</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" will begin in 30 minutes.</string>
   <string name="notification_title">Timer notification</string>
+  <string name="num_keys">数字键</string>
   <string name="office">Office</string>
   <string name="open">On</string>
   <string name="open_close">Power</string>
@@ -500,9 +507,11 @@ To activate your account, follow the
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">Signing in to your Mi Account requires an internet connection. In addition, location access, Mi Cloud, and Mi VIP will be turned on automatically.</string>
   <string name="place_frame">"Location: "</string>
+  <string name="play_in_phone">手机播放</string>
   <string name="play_on_tv">Play on TV</string>
   <string name="playing_time">播出时间</string>
   <string name="please_enter">"Can't be empty"</string>
+  <string name="please_select_tv">请选择电视</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Power</string>
   <string name="press_to_continue_match">Tap to continue</string>
@@ -517,6 +526,9 @@ To activate your account, follow the
   <string name="push_add">Found a remote shared to you</string>
   <string name="push_add_desc">Control the nearby %1$s with this remote?</string>
   <string name="rc">Remote</string>
+  <string name="rc_add_distance">%1$dm</string>
+  <string name="rc_add_distance_far">&gt;1000km</string>
+  <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Remote</string>
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_no_point">Refreshing…</string>
@@ -560,6 +572,7 @@ To activate your account, follow the
   <string name="share">Share</string>
   <string name="share_action_cancel">Cancel</string>
   <string name="share_action_confirm">Send</string>
+  <string name="share_address_title">信息位置（可选）</string>
   <string name="share_app_category">"Category: "</string>
   <string name="share_app_downloads">"Downloads: "</string>
   <string name="share_comment_hint">Write your review here…</string>
@@ -570,6 +583,9 @@ To activate your account, follow the
   <string name="share_content_type_app_to_sina_weibo">App</string>
   <string name="share_content_type_other_to_sina_weibo">Other</string>
   <string name="share_content_type_video_to_sina_weibo">Video</string>
+  <string name="share_device_name">共享遥控器名称</string>
+  <string name="share_done">分享成功</string>
+  <string name="share_fail">连接失败，请您重试</string>
   <string name="share_friends_cancel">Cancel</string>
   <string name="share_friends_confirm">OK</string>
   <string name="share_friends_none_text">No friends found</string>
@@ -577,10 +593,18 @@ To activate your account, follow the
   <string name="share_friends_search_hint_text">Search friends</string>
   <string name="share_friends_title">Share using Mi Talk</string>
   <string name="share_from_others">Somebody shared a device with you, tap to add</string>
+  <string name="share_level_private">共享给连接到%1$s的用户</string>
+  <string name="share_level_public">共享给附近所有用户</string>
+  <string name="share_level_title">共享方式（必选）</string>
   <string name="share_media_actor">"Cast: "</string>
   <string name="share_media_area">"Country: "</string>
   <string name="share_media_director">"Director: "</string>
   <string name="share_media_score">"Reviews: "</string>
+  <string name="share_popup_desc">尝试用它们来遥控附近的电器吧</string>
+  <string name="share_popup_single_desc">尝试用它来遥控附近的%1$s吧</string>
+  <string name="share_popup_single_title">%1$s下有人分享了一个%2$s遥控器</string>
+  <string name="share_popup_title">%1$s下有人分享了新的遥控器</string>
+  <string name="share_rc_title">分享遥控器</string>
   <string name="share_switch">Share remote</string>
   <string name="share_tips">Share the remote with a person connected to the same Wi-Fi</string>
   <string name="share_title_share_to">Share with</string>
@@ -588,6 +612,7 @@ To activate your account, follow the
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Share using Sina Weibo</string>
   <string name="share_to_others">Share</string>
+  <string name="sharerc_tips">分享后，附近的人也可以方便的添加和使用这个遥控器了</string>
   <string name="shortcut_pop_desc">Looks like you use Mi Remote quite often. Create a Home screen shortcut?</string>
   <string name="shortcut_pop_title">Shortcut</string>
   <string name="similar">Related</string>
@@ -600,6 +625,7 @@ To activate your account, follow the
   <string name="start_match">Pair</string>
   <string name="stb">Set-top box</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
+  <string name="stb_power">机顶盒开关</string>
   <string name="steps">Attempt #%d</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Study</string>
@@ -620,9 +646,11 @@ To activate your account, follow the
   <string name="to_qq_subtext">QQ group: 259685862</string>
   <string name="today">今天</string>
   <string name="tomorrow">明天</string>
+  <string name="tv">电视</string>
   <string name="tv_broadcast">TV and radio</string>
   <string name="tv_mirror">Display controls</string>
   <string name="tv_mirror_intro">Show display controls in landscape mode</string>
+  <string name="tv_power">电视开关</string>
   <string name="unknown">Unknown</string>
   <string name="unkown_device_input_hint">Enter device model</string>
   <string name="unkown_device_main">"Can't pair this device."</string>
@@ -638,6 +666,8 @@ To activate your account, follow the
   <string name="upgrade_now">Update</string>
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">Updating…</string>
+  <string name="use_tv_power_key">"使用%1$s开关键
+如需更改，请长按电视开关键"</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
@@ -666,7 +696,9 @@ To activate your account, follow the
   <string name="volume">﻿Volume</string>
   <string name="weather_out">Outside temperature:</string>
   <string name="wind_direct">Direction</string>
+  <string name="wind_direct_automatic">自动风向</string>
   <string name="wind_direct_down">Down</string>
+  <string name="wind_direct_manual">手动风向</string>
   <string name="wind_direct_middle">Middle</string>
   <string name="wind_direct_up">Up</string>
   <string name="wind_speed">Speed</string>

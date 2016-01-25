@@ -19,6 +19,7 @@
   <string name="button_new_note">New note</string>
   <string name="call_record_folder_name">Call notes</string>
   <string name="default_folder_name">Unnamed folder</string>
+  <string name="dlg_delete_message">Deleting…</string>
   <string name="dlg_desc_confirm_alarm_silent">Active alarms will not sound when ringer is silenced.</string>
   <string name="dlg_info_creating_message">Creating message…</string>
   <string name="dlg_title_confirm_alarm_silent">Silence alarms</string>
@@ -68,6 +69,7 @@
   <string name="pref_title_common">Additional settings</string>
   <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Note style</string>
+  <string name="pref_title_recover_help">Recover notes</string>
   <string name="redo">Redo</string>
   <string name="search">Notes</string>
   <string name="search_hint">Search Notes</string>

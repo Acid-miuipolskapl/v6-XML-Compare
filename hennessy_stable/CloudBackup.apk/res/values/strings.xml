@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Just a sec…</string>
-  <string name="app_name">Back up apps​</string>
+  <string name="app_name">Back up Home screen layout</string>
   <string name="back_up_task_in_process">Backing up…</string>
   <string name="back_up_task_unfinished">Not finished backing up</string>
   <string name="backing_up_to_micloud">Backing up…</string>

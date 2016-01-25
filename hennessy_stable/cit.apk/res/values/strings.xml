@@ -272,7 +272,16 @@ only in frame mode"</string>
   <string name="charger_in_test">Charger plug in</string>
   <string name="charger_out_test">Charger plug out</string>
   <string name="choose_channel">Channel select</string>
+  <string name="cit_apk_signature_failed">apk signature FAILED</string>
+  <string name="cit_apk_signature_passed">apk signature PASSED</string>
+  <string name="cit_build_finger_failed">build fingerprint FAILED</string>
+  <string name="cit_build_finger_passed">build fingerprint PASSED</string>
+  <string name="cit_get_signature_failed">get signature FAILED</string>
   <string name="cit_nv_flag">"CIT NV Flag: "</string>
+  <string name="cit_recovery_signature_failed">recovery signature FAILED</string>
+  <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
+  <string name="cit_signature_check_label">signature check:</string>
+  <string name="cit_te_test_fail">TE test fail</string>
   <string name="cit_tp_default_info">null</string>
   <string name="close">have not otp partition</string>
   <string name="combile">Assemble</string>
@@ -327,6 +336,7 @@ only in frame mode"</string>
   <string name="efuse_get_error">get efuse state error!</string>
   <string name="efuse_text">efuse state</string>
   <string name="empty_list">Channel list is empty.</string>
+  <string name="entry_qc2">退出抽检1，进入抽检2</string>
   <string name="error">Error</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Unsupported format</string>
@@ -650,7 +660,8 @@ mod:0-15"</string>
   <string name="serial_no">Serial No</string>
   <string name="shake_phone">If the result is error below, please shake the phone</string>
   <string name="short_vib">Short Vibration</string>
-  <string name="sim_status_test">SIM Test</string>
+  <string name="sim_out_status_test">SIM Plug Out Test</string>
+  <string name="sim_status_test">SIM Plug In Test</string>
   <string name="sine_mod_info">sine</string>
   <string name="sleeptest">Sleep test</string>
   <string name="sn">[ S/N]:</string>
