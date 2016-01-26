@@ -45,8 +45,8 @@
   <string name="account_user_using_facebook_avatar">Use Facebook profile photo</string>
   <string name="account_user_using_qq_avatar">Use QQ profile photo</string>
   <string name="account_user_using_weibo_avatar">Use Sina Weibo profile photo</string>
+  <string name="account_vip_achievements">Achievements</string>
   <string name="account_vip_level">Account</string>
-  <string name="account_vip_task">Progress</string>
   <string name="account_xiaomi_service">Services</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="add_account">Connect account</string>
@@ -115,7 +115,7 @@
   <string name="nobind">Not connected</string>
   <string name="other_devices">Other devices</string>
   <string name="passport_access_denied">Access denied</string>
-  <string name="passport_account_hint_text">Email or phone number</string>
+  <string name="passport_account_hint_text">Email address or Mi Account ID</string>
   <string name="passport_account_identity_title">Verify your identity</string>
   <string name="passport_account_name">Account: %1$s</string>
   <string name="passport_account_not_activated">"Account hasn't been activated"</string>
@@ -302,7 +302,6 @@ To activate your account, follow the
   <string name="updated_nothing">Updated</string>
   <string name="user_avatar_update_title">Change profile photo</string>
   <string name="user_avatar_uploading">Just a sec…</string>
-  <string name="vip_level_value">%d</string>
   <string name="wipe_data_dialog_msg">%s will be deleted if you continue.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>

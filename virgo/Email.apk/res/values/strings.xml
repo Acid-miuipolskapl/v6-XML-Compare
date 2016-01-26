@@ -74,7 +74,7 @@
   <string name="account_setup_check_settings_retr_info_msg">Retrieving account information…</string>
   <string name="account_setup_correct_address_tips">Enter email address</string>
   <string name="account_setup_creating_account_msg">Creating account…</string>
-  <string name="account_setup_deleting_account_msg">Deleting account…</string>
+  <string name="account_setup_deleting_account_msg">Removing account…</string>
   <string name="account_setup_exchange_certificate_title">Client certificate</string>
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
   <string name="account_setup_exchange_no_certificate">None</string>
@@ -83,15 +83,19 @@
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
   <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
+  <string name="account_setup_failed_dlg_bar_title">Ways to sign in to %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
+  <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Can't connect to server.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">"Couldn't set up account"</string>
+  <string name="account_setup_failed_dlg_todo1">Set account as shown below or try signing in with EXCHANGE.</string>
+  <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
   <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
@@ -206,7 +210,7 @@
   <string name="bottom_bar_more_share">Share</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Remind</string>
+  <string name="calendar_remind_dialog_title">Reminder</string>
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
@@ -298,7 +302,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFAULT SETTINGS</string>
   <string name="default_signature">Sent from my Mi phone</string>
-  <string name="del_account_questionnair_hint">"Could you tell us why you're deleting this account?"</string>
+  <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
   <string name="delete">Delete</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Activate</string>
@@ -345,7 +349,10 @@
   <string name="edit_quick_response_dialog">Quick reply</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri"/>
+  <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
   <string name="empty_email_tip">"Can't send blank message"</string>
@@ -691,14 +698,14 @@
   <string name="push_wps_confirm_title">Try WPS Office</string>
   <string name="push_wps_no_response_app">No application found to handle this action</string>
   <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
-  <string name="questionnair_confirm_delete">Delete</string>
-  <string name="questionnair_instability">Unstable app, crashes frequently</string>
+  <string name="questionnair_confirm_delete">Remove</string>
+  <string name="questionnair_instability">Crashes frequently</string>
   <string name="questionnair_not_send">"Can't send mail"</string>
   <string name="questionnair_not_sync">Unstable sync</string>
-  <string name="questionnair_other_reasons">Other reasons</string>
-  <string name="questionnair_title">Deleting account</string>
-  <string name="questionnair_ui_not_pretty">"Don't like the design"</string>
-  <string name="questionnair_waste_resource">Deleting might free up storage</string>
+  <string name="questionnair_other_reasons">Other</string>
+  <string name="questionnair_title">Remove account?</string>
+  <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
+  <string name="questionnair_waste_resource">Not enough storage space</string>
   <string name="quick_1">Thanks!</string>
   <string name="quick_2">Sounds good to me!</string>
   <string name="quick_3">"I'll read this later and get back to you."</string>
@@ -862,6 +869,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Sign in with EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>

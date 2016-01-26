@@ -517,7 +517,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_history_total_rate">Rate</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Data saved</string>
-  <string name="traffic_saving_mobile_usage">Mobile usage</string>
+  <string name="traffic_saving_mobile_usage">Data saver</string>
   <string name="traffic_saving_msg_month">Saved this month</string>
   <string name="traffic_saving_msg_not_started">Data saver is off</string>
   <string name="traffic_saving_msg_today">saved today</string>
@@ -550,7 +550,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
-  <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="traffic_saving_wifi_usage">WLAN saver</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
