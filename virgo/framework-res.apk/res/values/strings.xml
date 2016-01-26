@@ -909,6 +909,7 @@ Try again in %d seconds."</string>
   <string name="permdesc_receiveSms">Allows the app to receive and process SMS messages. This means the app could monitor or delete messages sent to your device without showing them to you.</string>
   <string name="permdesc_receiveWapPush">Allows the app to receive and process WAP messages. This permission includes the ability to monitor or delete messages sent to you without showing them to you.</string>
   <string name="permdesc_recordAudio">Allows the app to record audio with the microphone. This permission allows the app to record audio at any time without your confirmation.</string>
+  <string name="permdesc_recovery">Allows an application to interact with the recovery system and system updates.</string>
   <string name="permdesc_removeTasks">Allows the app to remove tasks and kill their apps. Malicious apps may disrupt the behavior of other apps.</string>
   <string name="permdesc_reorderTasks">Allows the app to move tasks to the foreground and background. The app may do this without your input.</string>
   <string name="permdesc_retrieve_window_content">Allows the app to retrieve the content of the active window. Malicious apps may retrieve the entire window content and examine all its text except passwords.</string>
@@ -1190,6 +1191,7 @@ for account %s."</string>
   <string name="permlab_receiveSms">receive text messages (SMS)</string>
   <string name="permlab_receiveWapPush">receive text messages (WAP)</string>
   <string name="permlab_recordAudio">record audio</string>
+  <string name="permlab_recovery">Interact with update and recovery system</string>
   <string name="permlab_removeTasks">stop running apps</string>
   <string name="permlab_reorderTasks">reorder running apps</string>
   <string name="permlab_retrieve_window_content">retrieve screen content</string>

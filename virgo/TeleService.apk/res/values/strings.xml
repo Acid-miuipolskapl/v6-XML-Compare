@@ -469,8 +469,6 @@ Switch to the new provider anyway?"</string>
   <string name="list_language_dtitle">Languages</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
-  <string name="livetalk_about">About</string>
-  <string name="livetalk_about_info">Top-up Package</string>
   <string name="livetalk_activate">Activate top-up package</string>
   <string name="livetalk_activate_number">Verify SIM card</string>
   <string name="livetalk_activate_number_1">Verify SIM 1</string>
@@ -480,6 +478,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_add_white_list_info">Add phone number to dial directly.</string>
   <string name="livetalk_before_provision">"I've read and accepted"</string>
   <string name="livetalk_charge_now">Top up</string>
+  <string name="livetalk_common_problem">FQA</string>
   <string name="livetalk_complete">Done</string>
   <string name="livetalk_complete_domestic_phone">Make domestic calls using top-up package.</string>
   <string name="livetalk_complete_international_phone">Make international calls using top-up package.</string>
@@ -496,6 +495,7 @@ Switch to the new provider anyway?"</string>
   <string name="livetalk_name">Top-up package</string>
   <string name="livetalk_network_confirm">OK</string>
   <string name="livetalk_network_confirm_summary">Top-up package uses about 1KB of mobile data each time a call is connected.</string>
+  <string name="livetalk_network_unavailable">Network unavailable</string>
   <string name="livetalk_next_step">Next</string>
   <string name="livetalk_nsufficient_balance">Insufficient balance</string>
   <string name="livetalk_package_introduction_text">"Cheap calls to any phone
@@ -503,13 +503,13 @@ Top up and start talking"</string>
   <string name="livetalk_package_name">Top up balance</string>
   <string name="livetalk_provider">Provided by %1$s</string>
   <string name="livetalk_provision">&lt;b&gt;Terms of Service&lt;/b&gt;</string>
+  <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
   <string name="livetalk_setting">Top-up package</string>
   <string name="livetalk_sim_card_not_activated">"This card isn't activated"</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
   <string name="livetalk_user_config_title">Verify phone number</string>
-  <string name="livetalk_version">Version 0.9 | Beta</string>
-  <string name="livetalk_welcome_description_text">"• Low rates starting at ¥ 0.06 per minute for domestic calls and ¥ 0.36 for international.
+  <string name="livetalk_welcome_description_text">"• Save 70% on your calling charges.
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
   <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
@@ -755,7 +755,6 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="private_num">Private number</string>
   <string name="proceed">Proceed</string>
   <string name="progress_dialog_exiting_ecm">Exiting Emergency Callback mode</string>
-  <string name="provision_title">Terms of Service</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Outbound proxy address</string>
   <string name="pstn_phone">Cell phone call</string>
@@ -775,7 +774,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="purchase_description_title">About</string>
   <string name="purchase_limit">You reached the top up limit</string>
   <string name="purchase_list">Purchase history</string>
-  <string name="purchase_notes">"Note: It can be used for international calls. Top-up package allows you to pay the same amount of money for 50 minutes of calls as you would've paid for 8 minutes without using this service."</string>
+  <string name="purchase_notes">Note: It can be used for international calls. The amount paid for 1 min of the international call equals the amount for 6 min domestic.</string>
   <string name="query">Query</string>
   <string name="quickly_verify">Verify</string>
   <string name="radio_off_error">Turn on the radio before viewing these settings.</string>

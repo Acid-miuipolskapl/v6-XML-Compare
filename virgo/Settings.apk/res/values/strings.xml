@@ -591,6 +591,10 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
+  <string name="cloud_backup_section_title">Mi Cloud backup</string>
+  <string name="cloud_backup_settings_section_title">Backup settings</string>
+  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
+  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
   <string name="cmcc_hardware_version">Hardware version</string>
   <string name="color_black">Black</string>
   <string name="color_blue">Blue</string>
@@ -624,6 +628,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
+  <string name="convenience_key_category_title">Convenience key</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -1047,6 +1052,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
+  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
@@ -1068,6 +1074,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_user_agreement_allow">Allow</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -1397,6 +1404,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
+  <string name="login_account_dialog_title">Sign in with Mi Account</string>
+  <string name="login_action">Sign in</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1553,6 +1563,7 @@ Select your operating system:"</string>
   <string name="music_dirac_mode_general_inear">General In-Ear</string>
   <string name="music_dirac_mode_headset">Mi Headphones</string>
   <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="music_dirac_mode_off">Dirac off</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -1796,6 +1807,7 @@ Select your operating system:"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">Cancel</string>
   <string name="print_cancelling_state_title_template">Cancelling %1$s</string>
+  <string name="print_enable">Enable printing</string>
   <string name="print_failed_state_title_template">Printer error %1$s</string>
   <string name="print_feature_state_off">Off</string>
   <string name="print_feature_state_on">On</string>
@@ -1811,6 +1823,7 @@ Select your operating system:"</string>
   <string name="print_print_job">Print job</string>
   <string name="print_print_jobs">Print jobs</string>
   <string name="print_printing_state_title_template">Printing %1$s</string>
+  <string name="print_remind">Enable printing first</string>
   <string name="print_restart">Restart</string>
   <string name="print_search_box_hidden_utterance">Search box hidden</string>
   <string name="print_search_box_shown_utterance">Search box shown</string>
@@ -2274,7 +2287,7 @@ Possibly incorrect PIN."</string>
   <string name="sms_received_sound_title">Message received</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; vibrate</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>

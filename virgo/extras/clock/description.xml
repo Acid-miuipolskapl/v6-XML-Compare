@@ -17,5 +17,8 @@
 		<title locale="pt_BR">Relogio</title>
 		<title locale="el_GR">Ρολόι</title>
 		<title locale="es_ES">Reloj</title>
+		<title locale="de_DE">Uhr</title>
+		<title locale="tr_TR">Saat</title>
+		<title locale="vi_VN">Đồng hồ</title>
 	</titles>
 </MIUI-Theme>
