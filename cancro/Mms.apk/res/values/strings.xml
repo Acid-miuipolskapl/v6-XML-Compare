@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">No app was found to handle this action</string>
   <string name="addBlackList">Block</string>
   <string name="add_attachment">Add attachments</string>
-  <string name="add_contact">Contact</string>
+  <string name="add_contact">vCard</string>
   <string name="add_festival">Greetings</string>
   <string name="add_music">Add music</string>
   <string name="add_nickname">Nickname</string>
@@ -13,6 +13,7 @@
   <string name="add_number_to_sender">Add number to %s</string>
   <string name="add_picture">Add picture</string>
   <string name="add_private_contact">Add private contact</string>
+  <string name="add_redpackage">Red Package</string>
   <string name="add_slide">Add slide (after)</string>
   <string name="add_slide_before">Add intro slide</string>
   <string name="add_slide_hint">Touch to create new slide</string>
@@ -440,6 +441,8 @@
   <string name="recipient_label">"Recipient: "</string>
   <string name="recipients_over_size">Too many recipients.</string>
   <string name="recording_failed">"Can't record"</string>
+  <string name="red_package_btn">Open</string>
+  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
@@ -536,6 +539,7 @@
   <string name="sms_report_success">Report sent</string>
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
+  <string name="snippet_red_package">[Red Package]</string>
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
