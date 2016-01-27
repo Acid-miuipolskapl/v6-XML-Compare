@@ -53,10 +53,10 @@
   <string name="birthday_event_description_day_before_yesterday">The day before yesterday</string>
   <string name="birthday_event_description_days_ago">%1$s days ago</string>
   <string name="birthday_event_description_days_later">%1$s days later</string>
-  <string name="birthday_event_description_default">"%1$s's %2$s%3$s%4$s"</string>
+  <string name="birthday_event_description_default">"%1$s's %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_special">"%1$s is %2$s's %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Today</string>
   <string name="birthday_event_description_tomorrow">Tomorrow</string>
   <string name="birthday_event_description_yesterday">Yesterday</string>
@@ -183,7 +183,7 @@
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="huangli_label"/>
-  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
+  <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Jump</string>
   <string name="jump_date_full">Jump to date</string>
   <string name="label_recent_events">近期事件</string>

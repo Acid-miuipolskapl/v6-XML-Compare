@@ -189,12 +189,12 @@
         <item>ct_1</item>
         <item>ct_2</item>
     </string-array>
-    <integer-array name="support_networktypes_cmda_master">
+    <integer-array name="support_networktypes_cdma_master">
         <item>10</item>
         <item>8</item>
         <item>4</item>
     </integer-array>
-    <integer-array name="support_networktypes_cmda_vice">
+    <integer-array name="support_networktypes_cdma_vice">
         <item>10</item>
         <item>8</item>
         <item>4</item>

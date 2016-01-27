@@ -61,7 +61,7 @@
   <string name="card_title_threeway_call">Three-way call</string>
   <string name="card_title_upgrade_video_call_error">"Couldn't update video"</string>
   <string name="card_title_upgrade_video_call_rejected_by_remote">"Couldn't update video"</string>
-  <string name="card_title_upgrade_video_call_requesting">Requesting video</string>
+  <string name="card_title_upgrade_video_call_requesting">Requesting video…</string>
   <string name="card_title_upgrade_video_call_timed_out">"Couldn't update video"</string>
   <string name="card_title_video_call">Video call</string>
   <string name="card_title_video_call_paused">Video paused</string>

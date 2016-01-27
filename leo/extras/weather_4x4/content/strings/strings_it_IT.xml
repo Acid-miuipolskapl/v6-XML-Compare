@@ -11,8 +11,7 @@
     <string name="aqi_dangerous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_hazardous">'AQI '+#weather_aqilevel</string>
     <string name="aqi_break">'AQI '+#weather_aqilevel</string>
-    <string name="weather_type_null">'Nessun dato meteo'</string>
-	<string name="weather_type_0">Sereno</string>
+    <string name="weather_type_0">Sereno</string>
     <string name="weather_type_1">Nuvoloso</string>
     <string name="weather_type_2">Foschia</string>
     <string name="weather_type_3">Nebbia</string>

@@ -1277,6 +1277,7 @@ Burned %3$s Cal. Previous record was %5$s steps, set on %4$s."</string>
   <string name="shoes_bind_prompt">"Shake Huami sensor,
 then align the QR code in the frame"</string>
   <string name="shoes_bind_success">Paired</string>
+  <string name="shoes_bind_tips">"Light and comfortable Li-Ning running shoes provide cushioning and stabilization during workout sessions while protecting your feet from possible injuries. Using Huami's sensor and the Mi Fit app they collect your running data and analyze how your feet hit the ground when running."</string>
   <string name="shoes_bind_title">Pair shoes</string>
   <string name="shoes_binded">Paired</string>
   <string name="shoes_binding">Pairing…</string>

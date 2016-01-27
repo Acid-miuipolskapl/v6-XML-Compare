@@ -47,7 +47,7 @@
   <string name="button_exit">Exit</string>
   <string name="button_not_allow">Cancel</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
-  <string name="daily_forcast_drawer_on_top">View other days</string>
+  <string name="daily_forcast_drawer_on_top">View more days</string>
   <string name="daily_forcast_no_wind">No wind</string>
   <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
