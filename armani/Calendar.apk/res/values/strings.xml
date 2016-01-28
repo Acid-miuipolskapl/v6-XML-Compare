@@ -183,7 +183,7 @@
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
   <string name="huangli_label"/>
-  <string name="joke_card_icon_text">|  %1$s 人笑过</string>
+  <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Jump</string>
   <string name="jump_date_full">Jump to date</string>
   <string name="label_recent_events">近期事件</string>
