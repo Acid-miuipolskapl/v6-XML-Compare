@@ -250,8 +250,8 @@
   <string name="contactUpdateSuccess">Updated contact on SIM</string>
   <string name="contactdeleteFailed">"Can't delete contact from SIM"</string>
   <string name="contactdeleteSuccess">Deleted contact from SIM</string>
-  <string name="data_enable_summary">Allow data usage</string>
-  <string name="data_enabled">Data enabled</string>
+  <string name="data_enable_summary">Allow this device to use mobile data</string>
+  <string name="data_enabled">Mobile data</string>
   <string name="deactivate_all">Cancel all</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
