@@ -33,12 +33,12 @@
         <item quantity="one">Search %d app</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d apps can use mobile data</item>
-        <item quantity="one">%d app can use mobile data</item>
+        <item quantity="other">%d apps can use data roaming</item>
+        <item quantity="one">%d app can use data roaming</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d apps can't use mobile data"</item>
-        <item quantity="one">"%d app can't use mobile data"</item>
+        <item quantity="other">"%d apps can't use data roaming"</item>
+        <item quantity="one">"%d app can't use data roaming"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d apps found</item>
