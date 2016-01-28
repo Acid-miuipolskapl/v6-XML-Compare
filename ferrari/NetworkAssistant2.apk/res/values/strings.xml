@@ -294,7 +294,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_adjust_data_usage">Carrier message template</string>
   <string name="pref_adjust_traffic_data">Set data usage</string>
   <string name="pref_allow_connect_network_title">Overseas data roaming</string>
-  <string name="pref_allow_connect_network_whitelist_title">Allow exceptions to use mobile data</string>
+  <string name="pref_allow_connect_network_whitelist_title">Allow exceptions to use mobile data while roaming</string>
   <string name="pref_app_traffic_managent">Restrict data usage by app</string>
   <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
   <string name="pref_auto_adjust_traffic">Auto-sync data usage stats</string>
@@ -330,7 +330,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
   <string name="pref_pkg_begin_date">Usage reset date</string>
-  <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Daily data roaming limit</string>
   <string name="pref_roaming_setting_gategory">Data roaming</string>
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">Show data usage stats during unlock after device has been locked for more than 5 minutes</string>
@@ -499,7 +499,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_protection_summary">Set alerts for when your data usage reaches a certain level</string>
   <string name="traffic_protection_text_hint">Set data usage limit for %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Set up later&lt;/u&gt;</string>
-  <string name="traffic_protection_use_data">Data enabled</string>
+  <string name="traffic_protection_use_data">Mobile data</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Top up mobile data</string>
   <string name="traffic_saving_button_mng">Manage apps</string>
