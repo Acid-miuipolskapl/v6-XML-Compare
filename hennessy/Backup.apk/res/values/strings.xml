@@ -267,7 +267,7 @@
 Go to Settings &gt; Additional Settings &gt; Mi Mover
 Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
-2. Open the app and select [I'm a sender]
+2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
