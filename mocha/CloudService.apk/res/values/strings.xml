@@ -325,7 +325,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
   <string name="more_activity_in_upgrade_space">Learn more at &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Message</string>
-  <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
+  <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI devices without incurring charges when connected to WLAN.
 
 You can turn this feature on or off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
@@ -337,7 +337,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature when SIM card detected.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
+  <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
   <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
@@ -373,6 +373,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">Messages</string>
+  <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
+  <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>

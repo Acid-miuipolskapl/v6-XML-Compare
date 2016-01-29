@@ -84,16 +84,15 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_auto_startup_application">Add autostart apps</string>
   <string name="add_device_admin">Activate</string>
   <string name="add_device_admin_msg">Activate device administrator?</string>
-  <string name="add_fingerprint_done_msg">Now you can unlock your device with your fingerprint.</string>
-  <string name="add_fingerprint_done_title">Done!</string>
-  <string name="add_fingerprint_finished_button_text">Done</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the sensor.
-Make sure your finger covers the inner edge of the sensor."</string>
+  <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
+  <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
+  <string name="add_fingerprint_finished_button_text">OK</string>
+  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint info, place your finger on the fingerprint reader. Make sure your finger covers the inner edge of the reader.</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
-  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Repeatedly put your finger on the sensor and lift when you feel a vibration.</string>
-  <string name="add_fingerprint_put_finger_msg">Repeatedly put your finger on the sensor and lift when you feel a vibration.</string>
-  <string name="add_fingerprint_put_finger_title">Put your finger on the sensor</string>
+  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint reader</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
+  <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
+  <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="additional_system_update"/>
@@ -109,7 +108,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Displaying screensaver will consume additional battery power.</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Displaying screensaver consumes more power.</string>
   <string name="alert_show_screensaver_when_not_charging_title">Battery usage</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Allow</string>
@@ -121,8 +120,8 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="already_enable_encrypt">Encryption is already on</string>
   <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
-  <string name="android_beam_disabled_summary">NFC content sharing requires that NFC is on</string>
-  <string name="android_beam_explained">You can beam a web page, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
+  <string name="android_beam_disabled_summary">To use this feature, turn on NFC</string>
+  <string name="android_beam_explained">You can beam a webpage, a video, or other content from your screen to another device, by touching the devices together (typically back to back).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC content sharing is off</string>
   <string name="android_beam_on_summary">NFC content sharing is on</string>
@@ -205,7 +204,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
   <string name="apply_password_to_category_title">Require password</string>
-  <string name="apply_update_fail">Update failed</string>
+  <string name="apply_update_fail">"Couldn't update"</string>
   <string name="apps_and_data_item_desc">Apps and data</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
@@ -552,7 +551,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
-  <string name="bt_trace_log">Bluetooth Trace log</string>
+  <string name="bt_trace_log">Bluetooth trace log</string>
   <string name="bt_trace_log_summary">Bluetooth trace log</string>
   <string name="bugreport_in_power">Power menu bug reports</string>
   <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
@@ -691,7 +690,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint scanner</string>
+  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint reader</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -699,7 +698,7 @@ Make sure your finger covers the inner edge of the sensor."</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
-  <string name="convenience_key_category_title">Convenience key</string>
+  <string name="convenience_key_category_title">Shortcuts</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -917,9 +916,9 @@ Since data usage is measured by your pad, and your carrier may account for usage
   <string name="device_status_summary">Status of the battery, network, and other information</string>
   <string name="dialog_content_login">Sign in to your Mi Account to update?</string>
   <string name="dialog_no">No</string>
-  <string name="dialog_title_color_calibration">Color Correction preset</string>
+  <string name="dialog_title_color_calibration">Color correction preset</string>
   <string name="dialog_title_font_size">Text size</string>
-  <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+  <string name="dialog_title_hdmi_color_calibration">Color correction preset</string>
   <string name="dialog_title_login">Sign in to your Mi Account</string>
   <string name="dialog_yes">Yes</string>
   <string name="digit_percent">%</string>
@@ -1103,11 +1102,11 @@ Some apps may not work until updated by their developers."</string>
   <string name="external_data_size_label">SD card</string>
   <string name="factory_reset_summary">"Erase all data from your pad's internal storage"</string>
   <string name="fail">Failed</string>
-  <string name="failed_to_check_find_device_status_content">"Couldn't check Find device status. Wait a minute or two and try again."</string>
-  <string name="failed_to_check_find_device_status_title">"Couldn't check Find device status"</string>
+  <string name="failed_to_check_find_device_status_content">"Couldn't check find device status. Wait a minute or two and try again."</string>
+  <string name="failed_to_check_find_device_status_title">"Couldn't check status"</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
   <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
-  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off Find device"</string>
+  <string name="failed_to_shut_down_find_device_title">"Couldn't turn off"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="feature_title_account">Account</string>
   <string name="feature_title_call_log">Call history</string>
@@ -1227,7 +1226,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="hdcp_checking_title">HDCP checking</string>
   <string name="hdmi_3d_display_enable_summary">Support 3D games</string>
   <string name="hdmi_3d_display_enable_title">3D display</string>
-  <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+  <string name="hdmi_3d_help_title">About HDMI 3D stereoscopic support</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
   <string name="hdmi_3dplay_control_disable_subtext">3D stereoscopic output to external 3D display is off</string>
   <string name="hdmi_3dplay_control_enable_subtext">3D stereoscopic output to external 3D display is on</string>
@@ -1271,7 +1270,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
-  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal info.</string>
+  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the Mi Talk app and sign in.
@@ -1396,7 +1395,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_no_backup">No backups.</string>
   <string name="local_restore_window_title">Local restore</string>
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
-  <string name="local_select_audio">Audios</string>
+  <string name="local_select_audio">Audio files</string>
   <string name="local_select_doc">Documents</string>
   <string name="local_select_files">SD card</string>
   <string name="local_select_image">Images</string>
@@ -1471,14 +1470,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
-  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint reader</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>
   <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
   <string name="lockpassword_choose_your_password_header">Choose your password</string>
   <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
-  <string name="lockpassword_choose_your_pin_header">Choose your PIN</string>
+  <string name="lockpassword_choose_your_pin_header">Set your PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">"Passwords don't match"</string>
   <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
   <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
@@ -1497,10 +1496,10 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpassword_pattern_set_toast">Pattern has been set</string>
   <string name="lockpassword_pin_contains_non_digits">PIN can only contain numbers</string>
   <string name="lockpassword_pin_fixed_length">PIN must be %d digits</string>
-  <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN"</string>
+  <string name="lockpassword_pin_recently_used">"Device administrator doesn't allow PIN unlock"</string>
   <string name="lockpassword_pin_set_toast">PIN set</string>
-  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits</string>
-  <string name="lockpassword_pin_too_short">PIN must be at least %d digits</string>
+  <string name="lockpassword_pin_too_long">PIN must be fewer than %d digits long</string>
+  <string name="lockpassword_pin_too_short">PIN must be %d digits long</string>
   <string name="lockpassword_press_continue">Touch Continue when done</string>
   <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
   <string name="lockpattern_change_lock_pin_label">Change PIN</string>
@@ -1877,7 +1876,7 @@ Select your operating system:"</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
   <string name="oldman_mode_confirm_title">Reboot now?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">Your device will reboot to exit Lite mode.</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">Your device will reboot to enter Lite mode.</string>
   <string name="oldman_mode_enabled_name">Lite mode</string>
   <string name="oldman_mode_entry_name">Lite mode</string>
@@ -1885,7 +1884,7 @@ Select your operating system:"</string>
   <string name="oldman_mode_settings_caption">Lite mode settings</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
   <string name="oldman_mode_summary_cta">Lite mode needs to connect to the internet and read your contacts, messages, and location info to work normally.</string>
-  <string name="onekey_migrate">Transfer</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
   <string name="only_when_charging">Only when plugged in</string>
@@ -1929,7 +1928,7 @@ Select your operating system:"</string>
   <string name="page_layout_7">Games</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Themes</string>
-  <string name="page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
+  <string name="page_layout_confirm_message">Your device needs to reboot to apply these changes. This takes about 1 minute.</string>
   <string name="page_layout_confirm_title">Change display settings</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">Extra large</string>
@@ -2014,7 +2013,7 @@ Select your operating system:"</string>
   <string name="preferred_app_settings_default">Default</string>
   <string name="preferred_app_settings_reset">Reset to defaults</string>
   <string name="preferred_app_settings_reset_button">Reset</string>
-  <string name="preferred_app_settings_reset_message">Default app preferences will be reset to MIUI factory presets.</string>
+  <string name="preferred_app_settings_reset_message">Default app preferences will be reset to factory presets.</string>
   <string name="preferred_application_title">Preferred %s</string>
   <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put tablet contents at risk. Use %2$s instead.</string>
   <string name="preferred_application_warning_replace">Replace</string>
@@ -2023,7 +2022,7 @@ Select your operating system:"</string>
   <string name="preferred_media_app_summary">Choose music player</string>
   <string name="preferred_sms_settings">This app will be set as your default app for reading and composing text messages.</string>
   <string name="preferred_sms_title">Default messaging app</string>
-  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase data usage or compromise the security of your data.</string>
+  <string name="preferred_sms_warning_message">Using \"%1$s\" as your default messaging app may increase mobile data usage or put your personal data at risk.</string>
   <string name="preferred_sms_warning_use_system">"Don't use"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">Cancel</string>
@@ -2097,7 +2096,7 @@ Select your operating system:"</string>
   <string name="prompt_writing">Saving…</string>
   <string name="provider_label">Push subscriptions</string>
   <string name="provision_next">Next</string>
-  <string name="provision_page_layout_confirm_message">Your device needs to reboot in order to apply these changes. This takes about 1 minute.</string>
+  <string name="provision_page_layout_confirm_message">Your device needs to reboot to apply these changes. This takes about 1 minute.</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">Clear</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
@@ -2235,7 +2234,7 @@ Select your operating system:"</string>
   <string name="restore_progress">Restoring…</string>
   <string name="restore_report">Restore details</string>
   <string name="restore_telephony_hit">Restoring will restart the Phone app.</string>
-  <string name="restrict_background_data_dialog_summary">Apps running in the background can’t receive messages</string>
+  <string name="restrict_background_data_dialog_summary">"Apps running in the background can't receive messages."</string>
   <string name="restrict_background_data_notification_summary">"Apps can't connect to network if background data is restricted"</string>
   <string name="restrict_background_data_title">Restrict background data</string>
   <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
@@ -2301,7 +2300,7 @@ This setting affects all users on this tablet."</string>
   <string name="screen_effect">Contrast &amp; colors</string>
   <string name="screen_key_long_press">Long press navigation buttons</string>
   <string name="screen_key_long_press_action">Trigger function</string>
-  <string name="screen_key_long_press_timeout">Define long press time</string>
+  <string name="screen_key_long_press_timeout">Set long press time</string>
   <string name="screen_key_press">Press navigation buttons</string>
   <string name="screen_key_press_action">Trigger function</string>
   <string name="screen_never_timeout_title">Never sleep</string>
@@ -2385,12 +2384,12 @@ This setting affects all users on this tablet."</string>
   <string name="search_bluetooth">bluetooth</string>
   <string name="search_brightness">brightness</string>
   <string name="search_date_time">date time</string>
-  <string name="search_description">Search Settings</string>
+  <string name="search_description">Search settings</string>
   <string name="search_display">display</string>
   <string name="search_font">font</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">handy mode</string>
-  <string name="search_hint">Search Settings</string>
+  <string name="search_hint">Search settings</string>
   <string name="search_key">key</string>
   <string name="search_label">Settings</string>
   <string name="search_language">language</string>
@@ -2499,11 +2498,11 @@ This setting affects all users on this tablet."</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
   <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device has an internet connection."</string>
   <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
   <string name="shuting_down_find_device">Turning off Find device…</string>
   <string name="silent_mode_title">Silent mode</string>
-  <string name="sim_bad_pin">Type a PIN that is 4 to 8 numbers</string>
+  <string name="sim_bad_pin">PIN must be 4-8 numbers long</string>
   <string name="sim_change_failed">"Can't change PIN.
 Possibly incorrect PIN."</string>
   <string name="sim_change_failed_enable_sim_lock">Turn SIM lock on now.</string>
@@ -2528,7 +2527,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_pin_change">Change SIM PIN</string>
   <string name="sim_pin_toggle">Lock SIM card</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
-  <string name="sim_radio_off">Not activated</string>
+  <string name="sim_radio_off">Off</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
   <string name="size_byte">B</string>
@@ -2536,7 +2535,7 @@ Possibly incorrect PIN."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="skip_label">Skip</string>
-  <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lockscreen.</string>
+  <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
@@ -2596,8 +2595,8 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_app_enable_floating">Floating notifications</string>
   <string name="status_bar_app_enable_keyguard">Lock screen</string>
   <string name="status_bar_app_enable_message">Badges</string>
-  <string name="status_bar_key_position_custom">Custom key position</string>
-  <string name="status_bar_screen_button_key">Screen virtual keys</string>
+  <string name="status_bar_key_position_custom">Custom button position</string>
+  <string name="status_bar_screen_button_key">Screen buttons</string>
   <string name="status_bar_screen_key_back">Back button</string>
   <string name="status_bar_screen_key_home">Home button</string>
   <string name="status_bar_screen_key_menu">Menu button</string>
@@ -2758,14 +2757,14 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="time_picker_title">Time</string>
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
-  <string name="title_color_calibration">Color Correction preset</string>
+  <string name="title_color_calibration">Color correction preset</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
   <string name="title_font_current">System font</string>
   <string name="title_font_current2">System font</string>
   <string name="title_font_size">Text size</string>
-  <string name="title_hdmi_color_calibration">Color Correction preset</string>
+  <string name="title_hdmi_color_calibration">Color correction preset</string>
   <string name="title_layout_current">Text size</string>
   <string name="title_layout_current2">Text size</string>
   <string name="title_local_resource">Local resources</string>
@@ -2777,7 +2776,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_num">%d items,</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_sensitive_summary">Make the screen extra responsive to pressure</string>
+  <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
   <string name="touch_sensitive_turn_off_confirm">OK</string>
@@ -2790,7 +2789,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
-  <string name="trans_cancelling">Canceling</string>
+  <string name="trans_cancelling">Canceling…</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
@@ -2820,7 +2819,8 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
-Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
+Don't turn off WLAN Hotspot.
+Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
@@ -2829,7 +2829,7 @@ Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"%s available on the new device
 Select files again or free up storage"</string>
-  <string name="trans_select_data_tips">"Select files to transfer
+  <string name="trans_select_data_tips">"Select items to transfer
 Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
   <string name="trans_select_device_send">Select one device to transfer data.</string>
@@ -2839,7 +2839,8 @@ Similar files on the new device will be overwritten"</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
   <string name="trans_sender_time_remained">"%s remaining.
-Don't turn off WLAN. Keep devices close to each other."</string>
+Don't turn off WLAN.
+Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
@@ -2923,14 +2924,14 @@ and Mi Mover is on"</string>
   <string name="unlock_change_lock_pin_title">Change PIN</string>
   <string name="unlock_disable_lock_password_summary">Remove unlock password</string>
   <string name="unlock_disable_lock_pattern_summary">Remove unlock pattern</string>
-  <string name="unlock_disable_lock_pin_summary">Remove PIN</string>
+  <string name="unlock_disable_lock_pin_summary">Turn off PIN</string>
   <string name="unlock_disable_lock_title">Turn off screen lock</string>
   <string name="unlock_set_enter_system">Skip screen lock</string>
   <string name="unlock_set_enter_system_summary">Go directly to Home screen from wake</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Low security, experimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
   <string name="unlock_set_unlock_disabled_summary">Disabled by administrator, encryption policy, or credential storage</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">Change or disable pattern, PIN, or password</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Change or turn off pattern, PIN, or password</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Change lock screen</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
   <string name="unlock_set_unlock_launch_picker_title">Lock screen</string>
@@ -2948,7 +2949,7 @@ and Mi Mover is on"</string>
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Draw a simple pattern with your finger to unlock device</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
-  <string name="unlock_set_unlock_pin_summary">Enter four or more numbers to unlock device</string>
+  <string name="unlock_set_unlock_pin_summary">Enter four numbers to unlock device</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unmount_inform_text">SD card will be unmounted.</string>
@@ -2977,7 +2978,7 @@ and Mi Mover is on"</string>
   <string name="usb_charging_summary">Turn off all other USB connection features to speed up charging.</string>
   <string name="usb_charging_title">Speed up charge</string>
   <string name="usb_connection_category">Connect as</string>
-  <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
+  <string name="usb_host_mode_subtext">Using game controllers and other peripherals on USB port may consume more power</string>
   <string name="usb_host_mode_text">USB host mode</string>
   <string name="usb_label_installer_cd">Install file-transfer tools</string>
   <string name="usb_msd_driver_installer_summary">Get drivers for Windows and OSX</string>
@@ -3083,7 +3084,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices">Use vibrator</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_when_ringing_title">Vibrate when ringing</string>
-  <string name="virtual_sim_category_title">Virtual Sim</string>
+  <string name="virtual_sim_category_title">Virtual SIM</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
@@ -3104,12 +3105,12 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_app_uninstall">Remove %d</string>
   <string name="virus_scan_app_waiting">Waiting…</string>
   <string name="virus_scanner_auto_update">Update automatically</string>
-  <string name="virus_scanner_date_formater">MMM dd yyyy</string>
-  <string name="virus_scanner_lib_already_latest">"You're already using the latest definitions"</string>
+  <string name="virus_scanner_date_formater">MMM d, yyyy</string>
+  <string name="virus_scanner_lib_already_latest">Definitions are already up to date</string>
   <string name="virus_scanner_lib_update_failed">"Couldn't update"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
-  <string name="virus_scanner_manual_update">Updated %s</string>
-  <string name="virus_scanner_provider">Definitions provided by %s</string>
+  <string name="virus_scanner_manual_update">Updated on %s</string>
+  <string name="virus_scanner_provider">Powered by %s</string>
   <string name="virus_scanner_scan">Touch to scan</string>
   <string name="virus_scanner_scanning">Scanning…</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>
@@ -3137,7 +3138,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_restore_alert">All volume levels will be reset.</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
-  <string name="volume_system_description">Camera shutter, lock screen, and other system notifications</string>
+  <string name="volume_system_description">Camera, lock screen, and other system notifications</string>
   <string name="volume_voice_description">Voice</string>
   <string name="vpn_cancel">Cancel</string>
   <string name="vpn_configure">Configuration</string>
@@ -3190,9 +3191,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wallpaper_settings_title">Wallpaper</string>
   <string name="welcome">Welcome</string>
   <string name="wfd_available_devices">Available devices</string>
-  <string name="wfd_disconnect_diag_msg">Your connection to %1$s will be terminated.</string>
+  <string name="wfd_disconnect_diag_msg">Disconnect from %1$s?</string>
   <string name="wfd_disconnect_diag_title">Disconnect display?</string>
-  <string name="wfd_disconnect_multiple_diag_message">Your connection to %1$s and %2$s other devices will be terminated.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Disconnect from %1$s and %2$s other devices?</string>
   <string name="wfd_enable_wifi_diag_title">Turn on WLAN?</string>
   <string name="wfd_enabler_title">Wireless display</string>
   <string name="wfd_menu_search">Search for devices</string>
@@ -3200,8 +3201,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wfd_menu_teardown">Stop</string>
   <string name="wfd_settings_description">Connect to a display using WLAN</string>
   <string name="wfd_settings_title">Wireless display</string>
-  <string name="wfd_wps_keypad">Push button preferred</string>
-  <string name="wfd_wps_pbc">Prefer to input PIN</string>
+  <string name="wfd_wps_keypad">Use keypad</string>
+  <string name="wfd_wps_pbc">Enter PIN</string>
   <string name="whetstone_level_reboot">This setting will take effect after you reboot your device.</string>
   <string name="whetstone_level_reboot_OK">Reboot</string>
   <string name="whetstone_level_title">Memory optimization</string>
@@ -3256,7 +3257,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_display_pause">Pause</string>
   <string name="wifi_display_resume">Resume</string>
   <string name="wifi_display_session_info">Session info</string>
-  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Can't use wireless display when WLAN is off"</string>
   <string name="wifi_display_settings_title">Cast screen</string>
   <string name="wifi_display_status_connected">Connected</string>
   <string name="wifi_display_status_connecting">Connecting</string>
@@ -3274,7 +3275,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_eap_method">EAP method</string>
   <string name="wifi_eap_sim_simcard">Choose SIM</string>
   <string name="wifi_eap_user_cert">User certificate</string>
-  <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
+  <string name="wifi_empty_list_user_restricted">"You don't have permission to change this network."</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
@@ -3435,9 +3436,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_add_summary">"When you share your public networks,
  you can use other users' networks too"</string>
   <string name="wifi_share_connect">Connect</string>
-  <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user"</string>
+  <string name="wifi_share_connected_summary">"You're connected to a public WLAN network that has been shared by another user."</string>
   <string name="wifi_share_connected_title">MIUI shared WLAN</string>
-  <string name="wifi_share_count">You have shared %d networks</string>
+  <string name="wifi_share_count">Shared %d networks</string>
   <string name="wifi_share_current_network">Current network</string>
   <string name="wifi_share_know">OK</string>
   <string name="wifi_share_list_empty">No shared networks found.</string>
@@ -3449,9 +3450,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_qrcode_summary">To share, scan the QR code above.</string>
   <string name="wifi_share_qrcode_title">Share WLAN network</string>
   <string name="wifi_share_show_network">Show networks</string>
-  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafes, restaurants, hotels, etc.) with one another.</string>
-  <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without using a password.</string>
-  <string name="wifi_share_summary3">Give back by sharing your public WLAN networks with other MIUI users.</string>
+  <string name="wifi_share_summary1">MIUI users can share public WLAN networks (cafés, restaurants, hotels, etc.) with one another.</string>
+  <string name="wifi_share_summary2">When another MIUI user shares a network, you can connect directly without a password.</string>
+  <string name="wifi_share_summary3">You can also share your public WLAN networks with other MIUI users.</string>
   <string name="wifi_share_turn_off">Off</string>
   <string name="wifi_share_turn_on">On</string>
   <string name="wifi_share_upload">Share</string>
@@ -3497,26 +3498,26 @@ Tablet setup can require significant network activity."</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
-  <string name="wifi_wapi_as_cert">AS Certificate</string>
+  <string name="wifi_wapi_as_cert">AS certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
-  <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
+  <string name="wifi_wapi_cert_install">Install WAPI certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SD card does not have an AS certificate.</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">"SD card doesn't have an AS certificate."</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">AS certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Enter AS certificate name</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create a folder."</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_exist">A directory with that name already exists.</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter directory name</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create folder."</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_exist">A folder with this name already exists.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter folder name</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI certificate management</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Enter user certificate name</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">User certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Enter user certificate name</string>
-  <string name="wifi_wapi_cert_uninstall">Uninstall WAPI Certificate</string>
+  <string name="wifi_wapi_cert_uninstall">Uninstall WAPI certificate</string>
   <string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
   <string name="wifi_wapi_certification_dont_exist">The network password you entered is incorrect.</string>
-  <string name="wifi_wapi_user_cert">User Certificate</string>
+  <string name="wifi_wapi_user_cert">User certificate</string>
   <string name="wifi_wps_available_first_item">WPS available</string>
   <string name="wifi_wps_available_second_item">" (WPS available)"</string>
   <string name="wifi_wps_complete">WPS succeeded. Connecting to the network…</string>
@@ -3528,7 +3529,7 @@ Tablet setup can require significant network activity."</string>
   <string name="wifi_wps_failed_wep">The wireless router security setting (WEP) is not supported</string>
   <string name="wifi_wps_in_progress">WPS is already in progress and can take up to two minutes to complete</string>
   <string name="wifi_wps_onstart_pbc">Press the WLAN Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
-  <string name="wifi_wps_onstart_pin">Enter pin %1$s on your WLAN router. The setup can take up to two minutes to complete.</string>
+  <string name="wifi_wps_onstart_pin">Enter PIN %1$s on your WLAN router. Setup can take up to two minutes to complete.</string>
   <string name="wifi_wps_overlap_error">Another WLAN session was detected. Wait a minute or two and try again.</string>
   <string name="wifi_wps_setup_msg">Starting WPS…</string>
   <string name="wifi_wps_setup_title">WLAN Protected Setup</string>
