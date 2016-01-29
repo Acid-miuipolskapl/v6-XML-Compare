@@ -24,6 +24,7 @@
   <string name="find_device_notice_p3">"to locate, lock, or restore your phone.
 If you switch SIM cards, another SMS will be sent automatically to reactivate this feature."</string>
   <string name="find_device_stop_noise">Tap OK to silence</string>
+  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Find device</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Contact information: %s</string>
