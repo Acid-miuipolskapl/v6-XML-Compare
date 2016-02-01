@@ -210,6 +210,7 @@
   <string name="hints_video_download">Downloaded videos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
+  <string name="information_setting">News feed settings</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
   <string name="item_title_process_mode">Choose an action</string>
@@ -217,6 +218,7 @@
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
+  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
   <string name="login_immediately">Sign in</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
@@ -281,6 +283,7 @@
   <string name="pref_title_manual_check_cleanup_db_update">Check for updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Upload file names</string>
   <string name="pref_title_open_optimizer_memory_scan">Choose apps automatically</string>
+  <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
   <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
@@ -298,6 +301,7 @@
   <string name="preference_key_garbage_auto_process_mode">key_garbage_auto_process_mode</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
+  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
   <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
