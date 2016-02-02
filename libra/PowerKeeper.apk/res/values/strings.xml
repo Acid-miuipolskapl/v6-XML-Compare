@@ -22,6 +22,7 @@
   <string name="background">App is running in background</string>
   <string name="config_custom_description">"If suggested configurations don't meet your requirements, you can customize them"</string>
   <string name="config_custom_title">Custom</string>
+  <string name="config_mode_title">Choose Config</string>
   <string name="config_suggest_description">Use different power saving configurations for different apps</string>
   <string name="config_suggest_title">Suggested</string>
   <string name="disabled">Off</string>
