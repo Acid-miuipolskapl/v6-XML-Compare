@@ -46,7 +46,7 @@
   <string name="cant_remove_system_app">"Can't remove system app"</string>
   <string name="children_folder_title">Kids</string>
   <string name="children_mode_exit">Exit</string>
-  <string name="children_mode_tips">Return to Settings and manage access to apps.</string>
+  <string name="children_mode_tips">Return to Settings to manage access to apps.</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
@@ -146,8 +146,8 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
-  <string name="like">Like</string>
-  <string name="liked">Liked</string>
+  <string name="like">Favorite</string>
+  <string name="liked">Favorited</string>
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_wallpaper">Downloaded</string>
