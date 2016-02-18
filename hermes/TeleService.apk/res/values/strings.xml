@@ -34,7 +34,7 @@
   <string name="anc_off">ANC off</string>
   <string name="anc_on">ANC on</string>
   <string name="anc_title">Active Noise Reduction</string>
-  <string name="answer_features_setting_category">Answer</string>
+  <string name="answer_features_setting_category">Answering</string>
   <string name="answer_state_setting_summary">Additional incoming call options</string>
   <string name="answer_state_setting_title">Incoming call settings</string>
   <string name="antispam_notification_title">Unknown number</string>
@@ -55,7 +55,7 @@
   <string name="auto_answer_delay_entries_delay_5s">5 seconds</string>
   <string name="auto_answer_delay_entries_immediately">No delay</string>
   <string name="auto_answer_delay_title">Delay auto-answer</string>
-  <string name="auto_answer_pref_summary">Automatically answer incoming calls</string>
+  <string name="auto_answer_pref_summary">Automatically pick up incoming calls</string>
   <string name="auto_answer_pref_title">Auto-answer</string>
   <string name="auto_answer_scenario_enteries_always">Always</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only">Bluetooth only</string>
@@ -67,17 +67,17 @@
   <string name="auto_answer_summary_not_enabled">Off</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
-  <string name="auto_redial_pref_title">Auto-redial</string>
+  <string name="auto_redial_pref_title">Redial automatically</string>
   <string name="auto_retry_mode_summary">Enable Auto-retry mode</string>
   <string name="auto_retry_mode_title">Auto-retry</string>
   <string name="autoip">Auto IP dialing</string>
   <string name="autoip_add_zero_prefix">Add 0 prefix for mobile</string>
-  <string name="autoip_areacode_required">Area code is required</string>
+  <string name="autoip_areacode_required">Area code required</string>
   <string name="autoip_areacode_required_accept">OK</string>
   <string name="autoip_areacode_required_for_emergency_number">Local area code required for emergency calls</string>
   <string name="autoip_autoip_current_areacode_summary">Current area code is %s</string>
   <string name="autoip_current_areacode">Current area code</string>
-  <string name="autoip_current_areacode_summary">Area code of your current location</string>
+  <string name="autoip_current_areacode_summary">"Current location's area code"</string>
   <string name="autoip_exception">"Numbers that don't need IP prefix"</string>
   <string name="autoip_exception_summary">%d total</string>
   <string name="autoip_exception_summary_more">, %d total</string>
@@ -85,7 +85,7 @@
   <string name="autoip_prefix">IP prefix</string>
   <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
   <string name="autoip_setting">Automatic IP settings</string>
-  <string name="autoip_summary">Add an IP prefix to a foreign number</string>
+  <string name="autoip_summary">Add an IP prefix for international numbers</string>
   <string name="autoip_support_local_numbers">Always use IP prefix</string>
   <string name="back">Back</string>
   <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
@@ -132,11 +132,11 @@
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
-  <string name="call_record_off_summary">Call recording is turned off</string>
+  <string name="call_record_off_summary">Off</string>
   <string name="call_record_on_summary">Calls will be recorded automatically</string>
   <string name="call_record_setting">Call recording</string>
   <string name="call_record_whitelist_custom">Selected numbers</string>
-  <string name="call_recording_notification_message">Touch to listen.</string>
+  <string name="call_recording_notification_message">Tap to listen.</string>
   <string name="call_recording_notification_message_low_storage">SD card is full.</string>
   <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
   <string name="call_recording_notification_summary">Show notification after call has been recorded</string>
@@ -244,12 +244,12 @@
   <string name="connect_later">"Can't connect to this network right now. Try again later."</string>
   <string name="connection_service_default_label">Built-in connection service</string>
   <string name="contactAddFailed">"Can't add contact to SIM"</string>
-  <string name="contactAddSuccess">Added contact to SIM</string>
+  <string name="contactAddSuccess">Added contact to SIM.</string>
   <string name="contactPhoto">contact photo</string>
-  <string name="contactUpdateFailed">Updated contact on SIM</string>
-  <string name="contactUpdateSuccess">Updated contact on SIM</string>
-  <string name="contactdeleteFailed">"Can't delete contact from SIM"</string>
-  <string name="contactdeleteSuccess">Deleted contact from SIM</string>
+  <string name="contactUpdateFailed">Updated contact on SIM.</string>
+  <string name="contactUpdateSuccess">Updated contact on SIM.</string>
+  <string name="contactdeleteFailed">"Can't delete contact from SIM."</string>
+  <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
   <string name="data_enable_summary">Allow this device to use mobile data</string>
   <string name="data_enabled">Mobile data</string>
   <string name="deactivate_all">Cancel all</string>
@@ -485,7 +485,7 @@ Switch to the new provider anyway?"</string>
   <string name="international_dial_complete_yes">Use Mi Voice</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
-  <string name="international_roaming_setting">International roaming</string>
+  <string name="international_roaming_setting">Data roaming</string>
   <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
   <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
@@ -613,7 +613,7 @@ Top up and start talking"</string>
   <string name="mismatchPin">"The PINs you typed don't match. Try again."</string>
   <string name="mismatchPin2">"The PIN2s you typed don't match. Try again."</string>
   <string name="mismatch_password">"The passwords you entered don't match"</string>
-  <string name="mismatch_pin">"The PINs you typed don't match."</string>
+  <string name="mismatch_pin">"PINs don't match."</string>
   <string name="mismatch_pin2">"PIN2s don't match. Try again."</string>
   <string name="missed_call_notify_five_times">5 times</string>
   <string name="missed_call_notify_none">No reminder</string>
@@ -650,7 +650,7 @@ Top up and start talking"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
   <string name="msim_setting_categery_title">SIM card settings</string>
   <string name="msim_setting_no_sim_indicator">No SIM card</string>
-  <string name="msim_setting_operator_network_title">Cellular network</string>
+  <string name="msim_setting_operator_network_title">Mobile network</string>
   <string name="msim_setting_screen_title">SIM cards &amp; mobile networks</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
@@ -676,17 +676,17 @@ Top up and start talking"</string>
   <string name="network_message">Network message</string>
   <string name="network_query_error">Error while searching for networks.</string>
   <string name="network_setting_all_forbidden_dialog">No available networks.</string>
-  <string name="network_settings_auto_select_title">Close auto-select</string>
+  <string name="network_settings_auto_select_title">Choose network manually?</string>
   <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
-  <string name="network_settings_confirm_message">Network maybe unavailable, are you sure?</string>
-  <string name="network_settings_data_connected_change">You need to turn off mobile data while you switch to another network.</string>
+  <string name="network_settings_confirm_message">Your device will disconnect from the network while searching for available networks.</string>
+  <string name="network_settings_data_connected_change">Mobile data will be turned off automatically while your device is searching for available networks.</string>
   <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
   <string name="network_settings_forbidden">%s (forbidden)</string>
-  <string name="network_settings_information">Turn off mobile data first</string>
+  <string name="network_settings_information">Turn off mobile data?</string>
   <string name="network_settings_next">Next</string>
-  <string name="network_settings_query_failed_message">"Couldn't search for cellular networks."</string>
+  <string name="network_settings_query_failed_message">"Couldn't search for mobile networks."</string>
   <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
-Will use preferred network instead."</string>
+Using preferred network instead."</string>
   <string name="network_settings_turn_off">off</string>
   <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
   <string name="network_type">Network type</string>
@@ -699,7 +699,7 @@ Will use preferred network instead."</string>
   <string name="network_unconnected_title">Network error</string>
   <string name="network_unlock">Unlock</string>
   <string name="networks">Network operators</string>
-  <string name="networks_title">Cellular networks</string>
+  <string name="networks_title">Mobile networks</string>
   <string name="newPin2Label">New PIN2</string>
   <string name="newPinLabel">New PIN</string>
   <string name="new_password_label">New 4-digit password</string>
@@ -813,7 +813,7 @@ Try again or call customer service for more options."</string>
   <string name="other">Other</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_category">Other</string>
-  <string name="overseas_roaming_setting">Overseas roaming</string>
+  <string name="overseas_roaming_setting">Data roaming</string>
   <string name="password">Password</string>
   <string name="password_changed">Password changed</string>
   <string name="password_title">Password</string>
@@ -842,7 +842,7 @@ Try again or call customer service for more options."</string>
 There are %d remaining attempts."</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
   <string name="pin2_invalid">"FDN wasn't updated because you typed an incorrect PIN."</string>
-  <string name="pin2_invalid_or_name_is_too_long">You entered an invaid PIN or the name you entered is too long.</string>
+  <string name="pin2_invalid_or_name_is_too_long">The PIN code or the name you entered is invalid.</string>
   <string name="pin2_lock_warning">"
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
@@ -1183,7 +1183,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
-  <string name="voip_setting">Voip settings</string>
+  <string name="voip_setting">VoIP settings</string>
   <string name="volte_switch_summary">Use VoLTE to improve voice and video call quality</string>
   <string name="volte_switch_title">VoLTE enabled</string>
   <string name="wait_prompt_str">"Send the following tones?

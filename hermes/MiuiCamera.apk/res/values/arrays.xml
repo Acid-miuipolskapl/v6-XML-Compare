@@ -610,6 +610,14 @@
         <item>@string/face_beauty_age_alias_female_45_60</item>
         <item>@string/face_beauty_age_alias_female_60_m</item>
     </string-array>
+    <string-array name="pref_camera_show_age_reports">
+        <item>@string/face_beauty_age_alias_0_7</item>
+        <item>@string/face_beauty_age_alias_8_17</item>
+        <item>@string/face_beauty_age_alias_18_30</item>
+        <item>@string/face_beauty_age_alias_31_44</item>
+        <item>@string/face_beauty_age_alias_45_60</item>
+        <item>@string/face_beauty_age_alias_60_m</item>
+    </string-array>
     <string-array name="pref_camera_setting_switch_entryvalues">
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>
         <item>@string/pref_camera_setting_switch_entryvalue_on</item>
