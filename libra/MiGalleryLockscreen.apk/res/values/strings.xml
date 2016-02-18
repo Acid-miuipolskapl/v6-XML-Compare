@@ -27,5 +27,4 @@
   <string name="theme_apply_success">Lock screen applied</string>
   <string name="theme_applying">Applying…</string>
   <string name="wlan_download">Update when connected to Wi-Fi</string>
-  <string name="wlan_download_cn">Update when connected to WLAN</string>
 </resources>

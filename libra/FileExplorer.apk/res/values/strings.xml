@@ -322,7 +322,6 @@ Our server is down at the moment. Please try again later…
   <string name="my_video">Videos</string>
   <string name="my_video_desc"/>
   <string name="name_empty">You must enter a name.</string>
-  <string name="need_read_storage_permission">"Explorer requires permission to access device's storage"</string>
   <string name="net_lose_connected">Connection lost.</string>
   <string name="networkView_notConnected">"Can't connect to the network"</string>
   <string name="network_connect_confirm_des">Explorer needs to connect to the internet to work normally.</string>
