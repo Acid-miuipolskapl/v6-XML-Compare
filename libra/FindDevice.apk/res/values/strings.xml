@@ -44,6 +44,15 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="unlock_error_ssl_hand_shake">"Couldn't connect to server, try setting date and time manually."</string>
   <string name="unlock_error_unknown">"Can't sign in"</string>
   <string name="unlock_error_user_name">Invalid username</string>
+  <string name="unlock_help">"Stay connected to the network
+Make sure you've installed a working SIM card, and your device is not connected to an ineffective WLAN network
+
+Forgot password?
+Go to id.mi.com to reset your password
+
+Other reasons
+Sign in to i.mi.com and try unlocking your device from there"</string>
+  <string name="unlock_help_title">Unlock help:</string>
   <string name="unlock_wrong_captcha">The code you entered is incorrect</string>
   <string name="unlocking">Activating…</string>
   <string name="verify_password_failed">"Couldn't verify Mi Account ID. %s."</string>
