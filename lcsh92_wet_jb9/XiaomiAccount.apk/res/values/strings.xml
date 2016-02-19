@@ -50,6 +50,7 @@
   <string name="account_xiaomi_service">Services</string>
   <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
   <string name="add_account">Connect account</string>
+  <string name="agree_add_continue">Agree</string>
   <string name="alert_title_remove_account">Remove account?</string>
   <string name="app_name">Mi Account</string>
   <string name="authorize_title">Authorization</string>
@@ -92,11 +93,14 @@
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
+  <string name="exit">Exit</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
+  <string name="internet_statement_message">By touching agree, you agree to the terms that the app will have access to the internet</string>
+  <string name="internet_statement_title">Terms of user</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
   <string name="logout_failed">"Can't sign out"</string>
