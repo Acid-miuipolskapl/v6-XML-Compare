@@ -39,6 +39,7 @@
   <string name="all_tracks_short">All songs</string>
   <string name="already_download">Downloading…</string>
   <string name="already_favorited">Already favorited</string>
+  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
   <string name="artist">Artists</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
@@ -61,6 +62,8 @@
   <string name="bluetooth_device">Bluetooth audio device</string>
   <string name="buffering">Buffering…</string>
   <string name="button_add">Add</string>
+  <string name="buy_other_flow">Regular data</string>
+  <string name="buy_traffic">China Unicom</string>
   <string name="buy_vip">Get Premium Song Pack</string>
   <string name="can_not_find_resource">"Can't find resources"</string>
   <string name="cancel">Cancel</string>
@@ -102,7 +105,6 @@
   <string name="dialog_button_scan_tracks">Search for music on this device</string>
   <string name="dialog_hint_music_error">No songs found.</string>
   <string name="dialog_title_add_playlist">Add playlist</string>
-  <string name="dialog_title_delete_playlist">Delete playlist</string>
   <string name="dialog_title_delete_tracks">Delete</string>
   <string name="dialog_title_name_playlist">Playlist name</string>
   <string name="dialog_title_remove_tracks">Remove</string>
@@ -267,6 +269,7 @@
   <string name="metered_disallow">Cancel</string>
   <string name="metered_play_toast">Using mobile data connection to stream</string>
   <string name="min_sleep_time">1</string>
+  <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
@@ -440,13 +443,16 @@
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
+  <string name="start_download_music">Start downloading music upgrade package.</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
+  <string name="start_to_use">Start to enjoy</string>
   <string name="stream_normal">Play in Standard quality</string>
   <string name="stream_quality">Streaming quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
+  <string name="sub_explanation">Music data plan</string>
+  <string name="sub_explanation_message">"Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
   <string name="suggest_text">People who liked this also liked</string>
-  <string name="support_online_only">Streaming only</string>
   <string name="sync_only_in_wifi">Only sync using WLAN</string>
   <string name="sync_only_in_wifi_summary">Sync your music across all your devices with Mi Cloud. Using your mobile data connection to sync music will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="tab_album">Albums</string>
@@ -462,6 +468,7 @@
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
+  <string name="time_to_upgrade">Should Update Mi Music</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
@@ -501,6 +508,7 @@
   <string name="ultra_high_quality">Highest</string>
   <string name="unknown_album_name">Unknown album</string>
   <string name="unknown_artist_name">Unknown artist</string>
+  <string name="update_now">Update now</string>
   <string name="upgrade">Upgrade:</string>
   <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_immediate">Update now</string>
@@ -524,4 +532,5 @@
   <string name="vip_renew_title">Subscription expired</string>
   <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
+  <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
 </resources>
