@@ -1586,7 +1586,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="common_password_business_keys">
-        <item>keyguard</item>
+        <item>miui_keyguard</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
     </string-array>
