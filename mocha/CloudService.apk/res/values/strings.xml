@@ -40,8 +40,6 @@ Last backed up on %2$s"</string>
   <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
   <string name="cloud_back_up_title">Back up device</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_restore_title">Restore from backup</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
