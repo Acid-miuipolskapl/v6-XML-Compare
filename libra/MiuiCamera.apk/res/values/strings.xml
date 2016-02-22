@@ -176,7 +176,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-  <string name="pref_camera_gradienter_title">Gradient</string>
+  <string name="pref_camera_gradienter_title">Straighten</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -453,7 +453,7 @@
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Turn off Fish eye</string>
-  <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
+  <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_hdr">Turn off HDR</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>

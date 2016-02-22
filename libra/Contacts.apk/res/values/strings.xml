@@ -682,7 +682,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_notification_title_name">%1$s wants to exchange contact cards</string>
   <string name="miprofile_save_alertdialog_message">Your card will be sent to this contact automatically.</string>
   <string name="miprofile_save_alertdialog_title">Contact card received</string>
-  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people. Your contacts won't be able to see your profile video."</string>
+  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people."</string>
   <string name="miprofile_switch_on_alertdialog_message">Exchange contact cards to view updated profile photo.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
