@@ -538,5 +538,5 @@
   <string name="vip_renew_title">Subscription expired</string>
   <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
-  <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
+  <string name="welcome_to_new_music">Welcome to new version of Mi Music</string>
 </resources>
