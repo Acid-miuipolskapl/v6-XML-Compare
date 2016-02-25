@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
-  <string name="add_screen">Add screen button</string>
+  <string name="add_screen">Add screen</string>
   <string name="app_already_exist">App already exists</string>
   <string name="app_being_backup_message">App is being backed up</string>
   <string name="app_being_restored_message">App is being restored</string>
@@ -61,7 +61,7 @@
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Delete</string>
-  <string name="delete_screen">Delete screen button</string>
+  <string name="delete_screen">Delete screen</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
   <string name="deselect_all">Deselect all</string>
@@ -118,7 +118,7 @@
   <string name="gadget_photo_24_label">Image 4x2</string>
   <string name="gadget_photo_44_label">Image 4x4</string>
   <string name="gadget_photo_label">Image</string>
-  <string name="gadget_power_clear_button_label">Deep clean</string>
+  <string name="gadget_power_clear_button_label">Deep Clean</string>
   <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">"Touch to download MIUI's Weather app"</string>
   <string name="gadget_weather_aqi_title">"Air quality: "</string>

@@ -440,7 +440,6 @@
   <string name="recipients_over_size">Too many recipients.</string>
   <string name="recording_failed">"Can't record"</string>
   <string name="red_package_btn">Open</string>
-  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
@@ -577,6 +576,9 @@
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
   <string name="title_date_type">Message timestamp</string>
+  <string name="title_recv_red_package">Get Red Package</string>
+  <string name="title_red_package">Getting rich and good luck</string>
+  <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
