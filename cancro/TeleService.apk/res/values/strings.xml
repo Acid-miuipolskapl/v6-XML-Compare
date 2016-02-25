@@ -317,8 +317,8 @@
   <string name="corporate_unlock_failed">SIM Corporate unlock request unsuccessful.</string>
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
   <string name="cursorError">Cursor is not having proper data !!!</string>
-  <string name="data_enable_summary">Allow data usage</string>
-  <string name="data_enabled">Data enabled</string>
+  <string name="data_enable_summary">Allow this device to use mobile data</string>
+  <string name="data_enabled">Mobile data</string>
   <string name="deactivate_all">Cancel all</string>
   <string name="default_area_code_setting">Default area code</string>
   <string name="default_areacode">Default area code</string>
@@ -563,7 +563,7 @@ Switch to the new provider anyway?"</string>
   <string name="international_dial_complete_yes">Use Mi Voice</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
-  <string name="international_roaming_setting">International roaming</string>
+  <string name="international_roaming_setting">Data roaming</string>
   <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Type a PIN that is 4 to 8 numbers.</string>
   <string name="invalidPin2">Enter a PIN2 that is 4 to 8 numbers.</string>
@@ -786,7 +786,7 @@ Will use preferred network instead."</string>
   <string name="network_unconnected_title">Network error</string>
   <string name="network_unlock">Unlock</string>
   <string name="networks">Network operators</string>
-  <string name="networks_title">Cellular networks</string>
+  <string name="networks_title">Mobile networks</string>
   <string name="newPin2Label">New PIN2</string>
   <string name="newPinLabel">New PIN</string>
   <string name="new_password_label">New 4-digit password</string>
@@ -890,7 +890,7 @@ Try again or call customer service for more options."</string>
   <string name="other">Other</string>
   <string name="other_settings">Other call settings</string>
   <string name="other_settings_category">Other</string>
-  <string name="overseas_roaming_setting">Overseas roaming</string>
+  <string name="overseas_roaming_setting">Data roaming</string>
   <string name="password">Password</string>
   <string name="password_changed">Password changed</string>
   <string name="password_title">Password</string>
