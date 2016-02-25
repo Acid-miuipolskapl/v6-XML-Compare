@@ -39,7 +39,7 @@
   <string name="all_tracks_short">All songs</string>
   <string name="already_download">Downloading…</string>
   <string name="already_favorited">Already favorited</string>
-  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
+  <string name="android_sdk_too_low">Update Android version first.</string>
   <string name="artist">Artists</string>
   <string name="artist_is_empty">Artist name can not be empty.</string>
   <string name="artist_name">Artist</string>
@@ -301,7 +301,7 @@
   <string name="more_online_song">More</string>
   <string name="more_online_suggest">More</string>
   <string name="more_settings">More advanced settings</string>
-  <string name="more_settings_summary">Download settings, sleeping mode, flow control, file filtering and so on.</string>
+  <string name="more_settings_summary">Download settings, Sleep mode, mobile data, file filters, etc.</string>
   <string name="multichoice">Select</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
@@ -446,10 +446,10 @@
   <string name="sort_by_name">Name</string>
   <string name="sort_by_time">Date</string>
   <string name="source_from">Source: %1$s</string>
-  <string name="start_download_music">Start downloading music upgrade package.</string>
+  <string name="start_download_music">Downloading updates…</string>
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
-  <string name="start_to_use">Start to enjoy</string>
+  <string name="start_to_use">Open app</string>
   <string name="stream_normal">Play in Standard quality</string>
   <string name="stream_quality">Streaming quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
@@ -474,7 +474,7 @@
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
   <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
   <string name="ticket_title">Show tickets</string>
-  <string name="time_to_upgrade">Should Update Mi Music</string>
+  <string name="time_to_upgrade">Update to the latest version of Mi Music</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Radio</string>
@@ -538,5 +538,5 @@
   <string name="vip_renew_title">Subscription expired</string>
   <string name="vip_required">Get Premium Song Pack to play this song. We have skipped it for you.</string>
   <string name="vip_required_with_song">Get Premium Song Pack to play “%s”. We have skipped it for you.</string>
-  <string name="welcome_to_new_music">Wecome to new version of Mi Music</string>
+  <string name="welcome_to_new_music">Wecome to the new version of Mi Music!</string>
 </resources>
