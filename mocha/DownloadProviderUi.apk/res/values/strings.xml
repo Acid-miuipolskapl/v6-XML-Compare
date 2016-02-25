@@ -100,7 +100,6 @@
   <string name="download_running">In progress</string>
   <string name="download_share_dialog">Share via</string>
   <string name="download_speed">Download speed:</string>
-  <string name="download_speed_null"/>
   <string name="download_spend_time">Time</string>
   <string name="download_success">Complete</string>
   <string name="download_title">Downloads</string>

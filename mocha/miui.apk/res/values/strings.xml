@@ -356,8 +356,8 @@
   <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">M-d</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">yyyy-M</string>
-  <string name="fmt_date_numeric_year_month_day">yyyy-M-d</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">MMM d</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -369,7 +369,7 @@
   <string name="fmt_time">T</string>
   <string name="fmt_time_12hour">"h 'o''clock'"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
-  <string name="fmt_time_12hour_minute_pm">h:mma</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
   <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
@@ -410,7 +410,7 @@
   <string name="heavenly_stems_wu">戊</string>
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
-  <string name="hybrid_provider">The web page provided by %1$s .</string>
+  <string name="hybrid_provider">Provided by %1$s</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
@@ -463,7 +463,7 @@
   <string name="noon">PM</string>
   <string name="note">Note</string>
   <string name="organization">Organization</string>
-  <string name="perm_payment_dspt">Allow app to pay through Mi Pay Service</string>
+  <string name="perm_payment_dspt">Allow app to pay using Mi Pay Service</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. Your carrier may charge you for these messages.</string>
   <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
@@ -519,7 +519,7 @@
   <string name="sunday">Sunday</string>
   <string name="sunday_short">Sun</string>
   <string name="sunday_shortest">S</string>
-  <string name="sync_one_time_sync">Touch to sync ( %1$s )</string>
+  <string name="sync_one_time_sync">Tap to sync ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
