@@ -185,7 +185,7 @@ d MMMM"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
+  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
   <string name="status_bar_network_flow_today">Today: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>

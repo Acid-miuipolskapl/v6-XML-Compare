@@ -243,10 +243,10 @@
   <string name="connect_disconnect_vibrate_weak">Light</string>
   <string name="connect_later">"Can't connect to this network right now. Try again later."</string>
   <string name="connection_service_default_label">Built-in connection service</string>
-  <string name="contactAddFailed">"Can't add contact to SIM"</string>
+  <string name="contactAddFailed">"Can't add contact to SIM."</string>
   <string name="contactAddSuccess">Added contact to SIM.</string>
   <string name="contactPhoto">contact photo</string>
-  <string name="contactUpdateFailed">Updated contact on SIM.</string>
+  <string name="contactUpdateFailed">"Couldn't update contact on SIM."</string>
   <string name="contactUpdateSuccess">Updated contact on SIM.</string>
   <string name="contactdeleteFailed">"Can't delete contact from SIM."</string>
   <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
@@ -575,7 +575,6 @@ Top up and start talking"</string>
   <string name="livetalk_provider">Provided by %1$s</string>
   <string name="livetalk_provision">&lt;b&gt;Terms of Service&lt;/b&gt;</string>
   <string name="livetalk_provision_title">Provision</string>
-  <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
   <string name="livetalk_setting">Top-up package</string>
   <string name="livetalk_sim_card_not_activated">"This card isn't activated"</string>
   <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
