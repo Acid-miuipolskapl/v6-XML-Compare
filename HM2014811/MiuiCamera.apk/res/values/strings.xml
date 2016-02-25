@@ -76,7 +76,9 @@
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="pano_review_saving_indication_str">Saving…</string>
   <string name="pano_too_fast_prompt">Too fast</string>
@@ -176,7 +178,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-  <string name="pref_camera_gradienter_title">Gradient</string>
+  <string name="pref_camera_gradienter_title">Straighten</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -397,7 +399,6 @@
   <string name="pref_simple_hdr_entry_off">Off</string>
   <string name="pref_simple_hdr_entry_on">On</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-  <string name="pref_video_effect_default">none</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_entryvalue_auto">auto</string>
@@ -453,7 +454,7 @@
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Turn off Fish eye</string>
-  <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
+  <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_hdr">Turn off HDR</string>
   <string name="simple_mode_button_text_magic_mirror">Turn off Magic mirror</string>

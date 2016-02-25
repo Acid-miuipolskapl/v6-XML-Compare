@@ -300,10 +300,12 @@
   <string name="more_online_release">More</string>
   <string name="more_online_song">More</string>
   <string name="more_online_suggest">More</string>
+  <string name="more_settings">More advanced settings</string>
+  <string name="more_settings_summary">Download settings, sleeping mode, flow control, file filtering and so on.</string>
   <string name="multichoice">Select</string>
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter audio files</string>
-  <string name="music_quality">Music quality</string>
+  <string name="music_service">Music Service</string>
   <string name="music_settings">Music</string>
   <string name="music_traffic">Music data plan</string>
   <string name="music_traffic_summary">Listen and download songs without using data</string>
@@ -357,7 +359,6 @@
   <string name="online_playlist_is_empty">Playlist is empty</string>
   <string name="order_pending">Awaiting confirmation</string>
   <string name="order_process_fail">"Couldn't authorize your account. Wait a few minutes and try again."</string>
-  <string name="page_local_setting">Settings</string>
   <string name="pay">Pay:</string>
   <string name="pay_now">Current service</string>
   <string name="payment_fail">Payment failed</string>
@@ -409,6 +410,7 @@
   <string name="send_to">Share</string>
   <string name="send_to_title">Send to (%1$s)</string>
   <string name="server_error">Server error. Please try again later</string>
+  <string name="service_and_settings">Service and settings</string>
   <string name="service_stop">Service discontinued</string>
   <string name="set_album_successful">Album saved</string>
   <string name="set_as_ring">Set as ringtone</string>
@@ -419,6 +421,7 @@
   <string name="set_lyric_successful">Lyrics saved</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
   <string name="set_ringtones_successful">%s set as ringtone</string>
+  <string name="settings">Settings</string>
   <string name="settings_notification_text">Show player widget in notification shade</string>
   <string name="settings_notification_title">Notification shade widget</string>
   <string name="share_append_text">From @MIUI</string>
@@ -452,6 +455,7 @@
   <string name="streamloadingtext">Connecting to %s</string>
   <string name="sub_explanation">Music data plan</string>
   <string name="sub_explanation_message">"Music data plan is currently supported by China Unicom. Your network provider doesn't support this feature. You can buy regular mobile data."</string>
+  <string name="subed">On</string>
   <string name="suggest_text">People who liked this also liked</string>
   <string name="sync_only_in_wifi">Only sync using WLAN</string>
   <string name="sync_only_in_wifi_summary">Sync your music across all your devices with Mi Cloud. Using your mobile data connection to sync music will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
@@ -468,6 +472,8 @@
   <string name="tab_track">Songs</string>
   <string name="tab_track_list">Songs</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
+  <string name="ticket_summary">Buy tickets for shows, concerts, plays, and other events</string>
+  <string name="ticket_title">Show tickets</string>
   <string name="time_to_upgrade">Should Update Mi Music</string>
   <string name="title_online_artist">Trending artists</string>
   <string name="title_online_billboard">Charts</string>

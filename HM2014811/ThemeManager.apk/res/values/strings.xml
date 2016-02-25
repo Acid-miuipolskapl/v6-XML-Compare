@@ -78,10 +78,10 @@
   <string name="loading_resource_detail_fail">"Can't load resource"</string>
   <string name="loading_resource_detail_info">Just a sec…</string>
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
-  <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
+  <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
-  <string name="lockscreen_magazine_system_title">Default</string>
-  <string name="lockscreen_magazine_title">Daily lock screens</string>
+  <string name="lockscreen_magazine_system_title">Offline</string>
+  <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customize</string>
   <string name="long_ringtone_resource">Long</string>
