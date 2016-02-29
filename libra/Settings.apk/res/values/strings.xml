@@ -2559,6 +2559,7 @@ To use screen pinning:
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
+  <string name="settings_forbidden_message">This setting is disabled</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
   <string name="settings_license_activity_loading">Loading…</string>
