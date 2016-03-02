@@ -1,5 +1,5 @@
 <resources>
-    <string name="date_format">E dd/MM</string>
+    <string name="weather_type_null">'Ingen værdata'</string>
     <string name="today">I dag</string>
     <string name="tomorrow">I morgen</string>
     <string name="weather_type_0">Klart</string>
