@@ -717,7 +717,7 @@ Top up and start talking"</string>
   <string name="mmiCancelled">MMI code canceled</string>
   <string name="mmiStarted">MMI code started</string>
   <string name="mobile_network_settings_not_available">Cellular network settings are not available for this user</string>
-  <string name="mobile_networks">Cellular network settings</string>
+  <string name="mobile_networks">Mobile network settings</string>
   <string name="msim_apn_not_set">Not set</string>
   <string name="msim_default_setting">Default settings</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
@@ -751,7 +751,7 @@ Top up and start talking"</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
   <string name="name">Name</string>
-  <string name="name_hint_text">Name.</string>
+  <string name="name_hint_text">Name</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="network_1x">1x</string>
@@ -915,7 +915,7 @@ Try again or call customer service for more options."</string>
   <string name="phone_entered_ecm_text">Entered Emergency Callback Mode</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_title">Emergency Callback Mode</string>
-  <string name="phone_number_hint_text">Phone Number.</string>
+  <string name="phone_number_hint_text">Phone number</string>
   <string name="pin2_attempts">"
 You have %d remaining attempts."</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
