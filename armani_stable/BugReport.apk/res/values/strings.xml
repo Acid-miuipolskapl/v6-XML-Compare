@@ -44,6 +44,7 @@
   <string name="err_type_xiaomi_service">Customer service</string>
   <string name="hot_problem">View common bugs</string>
   <string name="loading_apps">Loading list…</string>
+  <string name="logo_title">Bug Report Center</string>
   <string name="menu_copy">Copy</string>
   <string name="modem_tool_log">Capture modem logs</string>
   <string name="modem_tool_log_start">Start</string>

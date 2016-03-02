@@ -115,6 +115,14 @@
         <item>\#</item>
         <item>∅</item>
     </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Tonight</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>Next week</item>
+        <item>Next month</item>
+        <item>Pick date</item>
+    </string-array>
     <array name="combined_view_account_colors">
         <item>@color/combined_view_account_color_1</item>
         <item>@color/combined_view_account_color_2</item>
@@ -131,6 +139,10 @@
         <item>Reply all</item>
         <item>Forward</item>
     </string-array>
+    <string-array name="contact_edit_set_black_list_array">
+        <item>@string/contact_edit_set_black_list_from</item>
+        <item>@string/contact_edit_set_black_list_receive</item>
+    </string-array>
     <string-array name="default_quick_responses">
         <item>@string/quick_1</item>
         <item>@string/quick_2</item>
@@ -146,8 +158,12 @@
     </string-array>
     <string-array name="folder_junk_name_array">
         <item>@string/folder_junk_name_en1</item>
+        <item>@string/folder_junk_name_en2</item>
+        <item>@string/folder_junk_name_en3</item>
+        <item>@string/folder_junk_name_en4</item>
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
+        <item>@string/folder_junk_name_cn2</item>
     </string-array>
     <string-array name="folder_sent_name_array">
         <item>@string/folder_sent_name_en1</item>

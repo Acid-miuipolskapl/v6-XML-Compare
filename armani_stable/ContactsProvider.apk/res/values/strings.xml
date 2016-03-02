@@ -25,5 +25,6 @@
   <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
   <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
+  <string name="video_call">Video call</string>
   <string name="voicemail_from_column">"Voicemail from "</string>
 </resources>
