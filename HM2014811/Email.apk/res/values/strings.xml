@@ -3,12 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Password</string>
   <string name="SMTP_username_text">Username</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
   <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
@@ -156,7 +150,7 @@
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
   <string name="add_pre_message_attachments_no">"Don't add"</string>
   <string name="add_pre_message_attachments_yes">Add</string>
-  <string name="add_star">Star</string>
+  <string name="add_star">Favorite</string>
   <string name="allread">Read all</string>
   <string name="always_bcc_myself">Always Bcc self</string>
   <string name="always_show_images">Always show pictures from this sender</string>
@@ -233,6 +227,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
   <string name="click_download_all_content">[ Tap to download content ]</string>
+  <string name="click_to_reload">Click screen to reload</string>
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
@@ -454,6 +449,18 @@
   <string name="hint_quick_reply_all">Reply all</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
+  <string name="info_actionbar_normal_detail">Article details</string>
+  <string name="info_actionbar_subscribe">Subscribe line</string>
+  <string name="info_item_from">From </string>
+  <string name="info_item_hide">Hide</string>
+  <string name="info_loading">Loading</string>
+  <string name="info_name_title">NEWS</string>
+  <string name="info_no_message">No Article!</string>
+  <string name="info_no_more_message">"We don't have more"</string>
+  <string name="info_switch_summary">Open Inbox top NEWS</string>
+  <string name="info_switch_title">Inbox NEWS</string>
+  <string name="info_sync_error">Sync error, try again later.</string>
+  <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -484,7 +491,7 @@
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Outbox</string>
   <string name="mailbox_name_display_sent">Sent</string>
-  <string name="mailbox_name_display_starred">Starred</string>
+  <string name="mailbox_name_display_starred">Favorited</string>
   <string name="mailbox_name_display_trash">Trash</string>
   <string name="mailbox_name_display_unread">Unread</string>
   <string name="mailbox_name_server_all_unread">Unread</string>
@@ -534,6 +541,7 @@
   <string name="menu_att_mgr_order_size">Sort by size</string>
   <string name="menu_change_folders">Move</string>
   <string name="menu_compose">Compose</string>
+  <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">Move to</string>
   <string name="menu_move_to_inbox">Move to Inbox</string>
@@ -567,8 +575,11 @@
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Mute</string>
+  <string name="net_check_title">Could not connect the network.Verify the network settings and try again.</string>
   <string name="network_error">No connection</string>
   <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="network_try_again">Please check the network</string>
+  <string name="network_unavailable">Network not available</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
@@ -687,6 +698,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
+  <string name="pull_up_to_load_more">Load on get more</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Not now</string>
   <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
@@ -753,7 +765,7 @@
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_folder">Remove from %1$s</string>
-  <string name="remove_star">Unstar</string>
+  <string name="remove_star">Unfavorite</string>
   <string name="reply">Reply</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Reply all</string>
@@ -791,6 +803,7 @@
   <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
+  <string name="selected_lable">Selected</string>
   <string name="send">Send</string>
   <string name="send_failed">"Message wasn't sent."</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
@@ -875,6 +888,7 @@
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
   <string name="unread_string">conversation unread</string>
+  <string name="unselected_lable">More</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -903,6 +917,7 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>
