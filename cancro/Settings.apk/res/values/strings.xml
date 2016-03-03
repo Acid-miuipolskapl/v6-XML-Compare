@@ -1045,6 +1045,7 @@ This setting affects all users on this phone."</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
+  <string name="dial_application_title">Dial</string>
   <string name="dial_pad_tones_title">Dial pad tones</string>
   <string name="dialog_content_login">Sign in to your Mi Account to update?</string>
   <string name="dialog_no">No</string>
