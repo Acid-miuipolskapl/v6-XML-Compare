@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">"App isn't installed on your device"</string>
+  <string name="add_screen">Add screen button</string>
   <string name="app_already_exist">App already exists</string>
   <string name="app_being_backup_message">App is being backed up</string>
   <string name="app_being_restored_message">App is being restored</string>
@@ -21,9 +22,11 @@
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Travel</string>
   <string name="application_name">System launcher</string>
+  <string name="apply">Apply</string>
   <string name="apply_action">Apply</string>
   <string name="apply_as_lock_screen">Lock screen</string>
   <string name="apply_as_lock_wallpaper_message">Apply wallpaper to lock screen too?</string>
+  <string name="apply_as_lockwallpaper_action">Lock screen</string>
   <string name="apply_as_wallpaper">Home screen</string>
   <string name="apply_both">Set both</string>
   <string name="apply_negative_action">"Don't apply"</string>
@@ -58,6 +61,7 @@
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Delete</string>
+  <string name="delete_screen">Delete screen button</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
   <string name="delete_wallpapers_message">Delete %1$d wallpapers?</string>
   <string name="deselect_all">Deselect all</string>
@@ -142,6 +146,8 @@
   <string name="invalid_contact_shortcut">Invalid contact</string>
   <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_system_wallpaper_message">"Can't delete system resources"</string>
+  <string name="like">Like</string>
+  <string name="liked">Liked</string>
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_wallpaper">Downloaded</string>
@@ -197,16 +203,18 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Empty</string>
   <string name="recommend_apps_notice">Recommended apps</string>
-  <string name="recommend_apps_switch_summary">Show recommended apps at the bottom of the screen</string>
   <string name="recommend_apps_switch_title">Recommended apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
+  <string name="screen_number">The %d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
+  <string name="settings">Settings</string>
   <string name="settings_shortcut">Settings</string>
+  <string name="share">Share</string>
   <string name="sharedUserId"/>
   <string name="show_all">Show all</string>
   <string name="sort_by_abc">Sort by name</string>

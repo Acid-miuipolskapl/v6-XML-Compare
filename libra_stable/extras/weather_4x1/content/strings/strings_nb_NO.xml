@@ -1,4 +1,5 @@
 <resources>
+    <string name="weather_type_null">'Ingen værdata'</string>
     <string name="weather_type_0">Klart</string>
     <string name="weather_type_1">Skyete</string>
     <string name="weather_type_2">Disig</string>

@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="moon_desc">
-        <item>New moon</item>
-        <item>Waxing crescent</item>
-        <item>First quarter</item>
-        <item>Waxing gibbous</item>
-        <item>Full moon</item>
-        <item>Waning gibbous</item>
-        <item>Last quarter</item>
-        <item>Waning crescent</item>
-        <item>Dark moon</item>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
     </string-array>
     <string-array name="weather_type">
         <item>Sunny</item>
@@ -38,23 +52,44 @@
         <item>Dust</item>
         <item>Haze</item>
         <item>Freezing rain</item>
-        <item>No data</item>
+        <item></item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
+    <string-array name="indices_uv_level">
         <item>Weak</item>
         <item>Mid-range</item>
         <item>Strong</item>
-        <item>Strongest</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Suitable</item>
+        <item>Improper</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Suitable</item>
+        <item>Improper</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Wind N</item>
-        <item>Wind NE</item>
-        <item>Wind E</item>
-        <item>Wind SE</item>
-        <item>Wind S</item>
-        <item>Wind SW</item>
-        <item>Wind W</item>
-        <item>Wind NW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
     </string-array>
 </resources>
