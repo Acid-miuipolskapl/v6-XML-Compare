@@ -2,7 +2,7 @@
 <resources>
   <string name="add_miservice_dialog_content">"%s requires you to add MIUI service framework to the exceptions list. You may receive notifications from MIUI's built-in apps and other third-party apps."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
-  <string name="add_to_whitelist_button">Manage exceptions</string>
+  <string name="add_to_whitelist_button">Data roaming exceptions</string>
   <string name="add_white_list">Add</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Updated over a month ago</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Updated over a week ago</string>
@@ -330,8 +330,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
   <string name="pref_package_traffic_settings">Mobile data limit</string>
   <string name="pref_pkg_begin_date">Usage reset date</string>
-  <string name="pref_roaming_daily_limit_setting">Daily data roaming limit</string>
-  <string name="pref_roaming_setting_gategory">Data roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Set daily data limit while roaming</string>
+  <string name="pref_roaming_daily_limit_setting_cat_title">Daily data limit</string>
+  <string name="pref_roaming_setting_gategory">Settings</string>
   <string name="pref_setting_operators_message">Edit the message your device sends your carrier to sync your data usage stats</string>
   <string name="pref_show_mobile_traffic">Show data usage stats during unlock after device has been locked for more than 5 minutes</string>
   <string name="pref_special_traffic_exceed_limit">Notify me when data usage reaches limit</string>
@@ -362,7 +363,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_traffic_saving_whitelist_hint">"Don't limit data usage for selected apps"</string>
   <string name="pref_version">Version %s</string>
   <string name="pref_warning_values">Data usage warning level</string>
-  <string name="pref_whitelist_setting">Manage exceptions</string>
+  <string name="pref_whitelist_setting">Data roaming exceptions</string>
   <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms of Service&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Terms of Service</string>
   <string name="privacy_prompt_tc_sms_report_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers in order to update your data usage info."</string>
@@ -386,7 +387,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
   <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
-  <string name="roaming_not_start_body">Touch to view data roaming settings.</string>
+  <string name="roaming_not_start_body">Tap to view data roaming settings.</string>
   <string name="roaming_not_start_title">Overseas roaming</string>
   <string name="roaming_start_body">Touch to view data roaming exceptions.</string>
   <string name="roaming_start_title">Overseas roaming</string>
