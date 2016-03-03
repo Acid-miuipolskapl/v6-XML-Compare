@@ -22,14 +22,14 @@
   <string name="app_category_tools">Tools</string>
   <string name="app_category_travel">Travel</string>
   <string name="application_name">System launcher</string>
-  <string name="apply">Apply</string>
-  <string name="apply_action">Apply</string>
-  <string name="apply_as_lock_screen">Lock screen</string>
-  <string name="apply_as_lock_wallpaper_message">Apply wallpaper to lock screen too?</string>
-  <string name="apply_as_lockwallpaper_action">Lock screen</string>
-  <string name="apply_as_wallpaper">Home screen</string>
+  <string name="apply">Set</string>
+  <string name="apply_action">Set</string>
+  <string name="apply_as_lock_screen">Set as lock screen</string>
+  <string name="apply_as_lock_wallpaper_message">Set this wallpaper on lock screen too?</string>
+  <string name="apply_as_lockwallpaper_action">Set</string>
+  <string name="apply_as_wallpaper">Set as Home screen</string>
   <string name="apply_both">Set both</string>
-  <string name="apply_negative_action">"Don't apply"</string>
+  <string name="apply_negative_action">"Don't set"</string>
   <string name="aqi_quality_index_dangerous">Dangerous</string>
   <string name="aqi_quality_index_good">Good</string>
   <string name="aqi_quality_index_hazardous">Hazardous</string>
@@ -48,7 +48,7 @@
   <string name="children_mode_exit">Exit</string>
   <string name="children_mode_tips">Return to Settings to manage access to apps.</string>
   <string name="choose_wallpaper">Choose wallpaper</string>
-  <string name="chooser_wallpaper">Choose wallpaper</string>
+  <string name="chooser_wallpaper">Choose a new wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
   <string name="configure_wallpaper">Settings</string>
   <string name="confirm_btn_label">OK</string>
@@ -151,7 +151,7 @@
   <string name="loading_desktop">Just a sec…</string>
   <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_wallpaper">Downloaded</string>
-  <string name="lock_screen_failed_message">"Can't apply lock screen wallpaper"</string>
+  <string name="lock_screen_failed_message">"Can't set lock screen wallpaper"</string>
   <string name="lock_screen_success_message">Applied to lock screen</string>
   <string name="menu_add">Add</string>
   <string name="menu_back_desktop">Back to Home screen</string>
@@ -183,7 +183,7 @@
   <string name="permlab_uninstall_shortcut">Uninstall shortcuts</string>
   <string name="permlab_write_settings">Edit Home Settings and Shortcuts</string>
   <string name="photo_adjust">Preview</string>
-  <string name="photo_confirm">Apply</string>
+  <string name="photo_confirm">Set</string>
   <string name="photo_load_failed">"Can't load photo"</string>
   <string name="pref_cell_layout_size">App icon layout</string>
   <string name="pref_enable_drawing_cache_summary">Turn off to free up memory. This may cause slower performance.</string>
@@ -206,7 +206,7 @@
   <string name="recommend_apps_switch_title">Recommended apps</string>
   <string name="recommend_apps_tips">"This feature needs to connect to the internet to work normally. To turn this feature off, touch this folder's name."</string>
   <string name="reset_scene_prompt">Screen will be reset to default layout.</string>
-  <string name="screen_number">The %d screen</string>
+  <string name="screen_number">%d screen</string>
   <string name="scroll_tip_format_when_announce_accessibility">page %1$d, %2$d apps</string>
   <string name="select_all">Select all</string>
   <string name="select_frame">Frame</string>
@@ -252,7 +252,7 @@
   <string name="unnamed_folder_name">Unnamed folder</string>
   <string name="wallpaper">Wallpaper</string>
   <string name="wallpaper_auto_change_title">Lock screen</string>
-  <string name="wallpaper_failed_message">"Can't apply wallpaper"</string>
+  <string name="wallpaper_failed_message">"Can't set wallpaper"</string>
   <string name="wallpaper_scaling_message">Scaling to fixed size</string>
   <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Wallpaper</string>

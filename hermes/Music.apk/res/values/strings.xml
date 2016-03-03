@@ -326,6 +326,7 @@
   <string name="network_request_error">"Can't connect to the network"</string>
   <string name="network_settings_error">"Can't connect to the network"</string>
   <string name="network_traffic">Data usage</string>
+  <string name="next_time">Next time</string>
   <string name="no_album_info">No album info</string>
   <string name="no_artist_info">No artist info</string>
   <string name="no_enough_info">Not enough song info</string>
@@ -387,6 +388,7 @@
   <string name="renew_period">"Expires: "</string>
   <string name="repeat_all_notif">Repeating all songs.</string>
   <string name="repeat_current_notif">Repeating current song.</string>
+  <string name="restart_immediate">Restart Now</string>
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
   <string name="search_album">Search albums</string>
@@ -450,6 +452,7 @@
   <string name="start_to_download">Downloading…</string>
   <string name="start_to_play">Play</string>
   <string name="start_to_use">Open app</string>
+  <string name="start_update">Update to the latest version of the Music app.</string>
   <string name="stream_normal">Play in Standard quality</string>
   <string name="stream_quality">Streaming quality</string>
   <string name="streamloadingtext">Connecting to %s</string>
@@ -519,6 +522,8 @@
   <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
   <string name="upgrade_immediate">Update now</string>
   <string name="upgrade_membership">Get more space</string>
+  <string name="upgrade_music">Update Music</string>
+  <string name="upgrade_music_message">Package is ready. Restart to update.</string>
   <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
   <string name="upgrade_remind">Update available</string>
   <string name="upgrade_services">Updates</string>

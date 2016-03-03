@@ -245,6 +245,12 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="auto_brightness_title">Adaptive brightness</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
+  <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
+  <string name="auto_disable_screenbuttons_auto">Always disable</string>
+  <string name="auto_disable_screenbuttons_cancel">Cancel</string>
+  <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
+  <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
   <string name="auto_launch_enable_text">"You've chosen to launch this app by default for some actions."</string>
   <string name="auto_launch_label">Launch by default</string>
@@ -2559,6 +2565,7 @@ To use screen pinning:
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
+  <string name="settings_forbidden_message">This setting is disabled</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
   <string name="settings_license_activity_loading">Loading…</string>
