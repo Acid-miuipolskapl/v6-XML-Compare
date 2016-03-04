@@ -232,6 +232,12 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="auto_backup_user_data">Apps</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
+  <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
+  <string name="auto_disable_screenbuttons_auto">Always disable</string>
+  <string name="auto_disable_screenbuttons_cancel">Cancel</string>
+  <string name="auto_disable_screenbuttons_no">Never disable</string>
+  <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
+  <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
   <string name="auto_launch_enable_text">"You've chosen to launch this app by default for some actions."</string>
   <string name="auto_launch_label">Launch by default</string>
@@ -2461,6 +2467,7 @@ This setting affects all users on this tablet."</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
+  <string name="settings_forbidden_message">This setting is disabled</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
   <string name="settings_license_activity_loading">Loading…</string>
@@ -2788,8 +2795,13 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
+  <string name="trans_calculating">Calculating...</string>
+  <string name="trans_calculating_app_sd_size">Calculating data size to be sent, %s scanned</string>
+  <string name="trans_calculating_base_size">"Calculating app's base size"</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
+  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
+  <string name="trans_connect_failed_title">Connect failed</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
@@ -2800,6 +2812,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
+  <string name="trans_native_no_space">"This device has no enough space
+Please clean out at least %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
@@ -2810,12 +2824,15 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
+  <string name="trans_please_waiting">Please wait ...</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
   <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving sdcard datas of %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
@@ -2824,6 +2841,7 @@ Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_retry">Retry</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
   <string name="trans_select_data">Select items to send</string>
@@ -2844,6 +2862,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
+  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
+  <string name="trans_start_failed_title">Start failed</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>

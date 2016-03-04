@@ -95,12 +95,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>Huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>small</item>
@@ -1429,6 +1428,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
@@ -1530,32 +1537,100 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
-        <item>TW</item>
+        <item>DZ</item>
+        <item>AO</item>
         <item>AR</item>
+        <item>BH</item>
+        <item>BD</item>
+        <item>BE</item>
         <item>BO</item>
+        <item>BW</item>
         <item>BR</item>
+        <item>CM</item>
         <item>CL</item>
         <item>CO</item>
+        <item>CD</item>
         <item>CR</item>
+        <item>CI</item>
         <item>CU</item>
         <item>DO</item>
         <item>EC</item>
+        <item>EG</item>
         <item>SV</item>
         <item>GQ</item>
+        <item>ET</item>
+        <item>FK</item>
+        <item>FR</item>
         <item>GF</item>
+        <item>GH</item>
         <item>GT</item>
         <item>GY</item>
         <item>HT</item>
         <item>HN</item>
+        <item>IN</item>
+        <item>IR</item>
+        <item>IQ</item>
+        <item>IL</item>
         <item>JM</item>
+        <item>JO</item>
+        <item>KZ</item>
+        <item>KE</item>
+        <item>KW</item>
+        <item>LB</item>
+        <item>LS</item>
+        <item>LY</item>
+        <item>LT</item>
+        <item>MW</item>
+        <item>MR</item>
+        <item>MU</item>
         <item>MX</item>
+        <item>MA</item>
+        <item>MZ</item>
+        <item>MM</item>
+        <item>NA</item>
+        <item>NP</item>
         <item>NI</item>
+        <item>NG</item>
+        <item>KP</item>
+        <item>OM</item>
+        <item>PK</item>
+        <item>PS</item>
         <item>PA</item>
         <item>PY</item>
         <item>PE</item>
+        <item>PH</item>
+        <item>QA</item>
+        <item>RU</item>
+        <item>RW</item>
+        <item>SA</item>
+        <item>SN</item>
+        <item>SO</item>
+        <item>ZA</item>
+        <item>GS</item>
+        <item>KR</item>
+        <item>ES</item>
+        <item>LK</item>
+        <item>SD</item>
+        <item>SR</item>
+        <item>SZ</item>
+        <item>CH</item>
+        <item>SY</item>
+        <item>TW</item>
+        <item>TZ</item>
+        <item>TH</item>
+        <item>TN</item>
+        <item>TR</item>
+        <item>UG</item>
+        <item>UA</item>
+        <item>AE</item>
+        <item>US</item>
         <item>UY</item>
+        <item>UZ</item>
         <item>VE</item>
-        <item>IN</item>
+        <item>VN</item>
+        <item>YE</item>
+        <item>ZM</item>
+        <item>ZW</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>
