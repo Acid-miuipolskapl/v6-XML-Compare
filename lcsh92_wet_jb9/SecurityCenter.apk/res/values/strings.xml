@@ -290,6 +290,12 @@
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
+  <string name="pm_auto_start_basic_services_lock">Lock</string>
+  <string name="pm_auto_start_basic_services_unlock">Unlock</string>
+  <string name="pm_auto_start_by_basic_services">Basic services</string>
+  <string name="pm_auto_start_by_other_services">Try turning off these services</string>
+  <string name="pm_auto_start_by_system">Start apps</string>
+  <string name="pm_auto_start_proc_is_running">Running</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
   <string name="power_20s_enter_mode">Switching to %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
