@@ -1,17 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
+  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Front and rear camera switch</string>
+  <string name="accessibility_countdown">Count Down button</string>
   <string name="accessibility_flash_mode_button">FlashButton</string>
   <string name="accessibility_hdr">HDR switch button</string>
-  <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Panorama Cancel Saving</string>
+  <string name="accessibility_peak">Focus Peak button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Additional settings button</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
+  <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
   <string name="audio_focus_exit_button_text">Turn off Audio Focus</string>
   <string name="burst_shoot_exit_button_text">Turn off Burst Shoot</string>
@@ -61,7 +65,7 @@
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Insert SD card before using camera</string>
   <string name="not_enough_space">Internal storage is full</string>
-  <string name="object_track_enable_toast">Tap on both ends of the object with two fingers to track it.</string>
+  <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
@@ -92,7 +96,8 @@
   <string name="pref_camera_asd_night_title">Enhance lowlight pictures automatically</string>
   <string name="pref_camera_asd_popup_title">Notify when flash is needed</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto-capture when stable</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">To select an object, tap two diagonal points around its border. When the object is stationary, the camera will snap a shot automatically.</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Capture selected objects when stationary</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>
   <string name="pref_camera_autoexposure_default">center</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Center weighted</string>
@@ -164,7 +169,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Focus mode</string>
   <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-  <string name="pref_camera_gradienter_title">Gradient</string>
+  <string name="pref_camera_gradienter_title">Straighten</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -303,8 +308,15 @@
   <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
   <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
   <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-  <string name="pref_camera_snap_enable_summary">When the display is off, press &amp; hold the Volume Down button to enter Quick snap mode. Press it again to take a photo.</string>
+  <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
   <string name="pref_camera_snap_enable_title">Quick snap mode</string>
+  <string name="pref_camera_snap_entry_off">Off</string>
+  <string name="pref_camera_snap_entry_take_movie">When the display is off, press &amp; hold the Volume Down button to start recording video. Release it to stop.</string>
+  <string name="pref_camera_snap_entry_take_picture">When the display is off, press &amp; hold the Volume Down button to start burst shooting photos. Release it to stop.</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Wake with Volume buttons\" is on."</string>
+  <string name="pref_camera_snap_value_off">Off</string>
+  <string name="pref_camera_snap_value_take_movie">Movie</string>
+  <string name="pref_camera_snap_value_take_picture">Picture</string>
   <string name="pref_camera_sound_title">Camera sounds</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_default">touch-on</string>
@@ -391,7 +403,7 @@
   <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="pref_video_quality_entry_720p">HD</string>
   <string name="pref_video_quality_entry_fwvga">FWVGA</string>
-  <string name="pref_video_quality_entry_value_4kuhd">12</string>
+  <string name="pref_video_quality_entry_value_4kuhd">8</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
@@ -433,7 +445,7 @@
   <string name="simple_mode_button_text_face_beauty">Turn off Beautify</string>
   <string name="simple_mode_button_text_fast_video">Turn off slow-motion</string>
   <string name="simple_mode_button_text_fisheye">Turn off Fish eye</string>
-  <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
+  <string name="simple_mode_button_text_gradienter">Turn off Straighten</string>
   <string name="simple_mode_button_text_hand_night">Turn off HHT</string>
   <string name="simple_mode_button_text_hdr">Turn off HDR</string>
   <string name="simple_mode_button_text_manual">Turn off Manual</string>

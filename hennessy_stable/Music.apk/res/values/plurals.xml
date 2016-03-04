@@ -5,10 +5,10 @@
         <item quantity="one">%d song found</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">You can download %d Premium songs this month. Update your Premium subscription to download more.</item>
+        <item quantity="other">"You can only download %d Premium Songs this month. Upgrade your Premium Song Pack to download more. "</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">You can download %d Premium songs this month. Download selected songs?</item>
+        <item quantity="other">" You can only download %d Premium Songs this month. Still download selected songs?"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d days remaining</item>
