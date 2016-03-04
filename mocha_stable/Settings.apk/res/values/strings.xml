@@ -88,13 +88,12 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_title">Done!</string>
   <string name="add_fingerprint_finished_button_text">Done</string>
   <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the sensor.
-Make sure your finger covers the inner edge of the sensor"</string>
+Make sure your finger covers the inner edge of the sensor."</string>
   <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
   <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint scanner</string>
-  <string name="add_fingerprint_move_finger_title">Remove finger</string>
-  <string name="add_fingerprint_put_finger_edge_msg">After pressing the sensor, remove the finger, and repeat again.</string>
-  <string name="add_fingerprint_put_finger_msg">After pressing the sensor, remove the finger, and repeat again.</string>
-  <string name="add_fingerprint_put_finger_title">Place finger</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Repeatedly put your finger on the sensor and lift when you feel a vibration.</string>
+  <string name="add_fingerprint_put_finger_msg">Repeatedly put your finger on the sensor and lift when you feel a vibration.</string>
+  <string name="add_fingerprint_put_finger_title">Put your finger on the sensor</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="additional_system_update"/>
@@ -350,6 +349,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="battery_info_voltage_label">Battery voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Battery level</string>
+  <string name="battery_light_title">Battery light</string>
   <string name="battery_settings">Battery</string>
   <string name="battery_settings_title">Battery</string>
   <string name="battery_since_reset">Battery use since reset</string>
@@ -563,11 +563,12 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_continue">Continue</string>
   <string name="button_disconnect_network">Disconnect from network</string>
-  <string name="button_finish">OK</string>
+  <string name="button_finish">Finish</string>
   <string name="button_light_timeout">Button light duration</string>
   <string name="button_next">Next</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Back</string>
+  <string name="button_send">Send</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
@@ -649,12 +650,16 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="cloud_app_name">Mi Cloud backup</string>
   <string name="cloud_backup_hint">To access your backups, sign in now</string>
   <string name="cloud_backup_login">Sign in to your Mi Account</string>
+  <string name="cloud_backup_section_title">Mi Cloud backup</string>
+  <string name="cloud_backup_settings_section_title">Backup settings</string>
   <string name="cloud_backup_window_title">Mi Cloud backup</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"Last backed up on "</string>
   <string name="cloud_no_backup">No backups</string>
   <string name="cloud_restore_guide">To restore user data for %s, touch Restore</string>
+  <string name="cloud_restore_section_summary">Restore apps, Home screen layout, and system settings</string>
+  <string name="cloud_restore_section_title">Restore from Mi Cloud</string>
   <string name="cloud_restore_title">Restore backup data</string>
   <string name="cloud_restore_window_title">Mi Cloud restore</string>
   <string name="cloud_search">Searching…</string>
@@ -694,6 +699,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="contributors_title">Contributors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Adjust power use</string>
+  <string name="convenience_key_category_title">Convenience key</string>
   <string name="copyright_title">Copyright</string>
   <string name="country_name">%s (system)</string>
   <string name="create">Create</string>
@@ -1119,8 +1125,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="findlost_contact">Restore contacts</string>
   <string name="findlost_contact_online">Restore contacts from Mi Cloud</string>
   <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
-  <string name="fingerprint_identificating_msg">Scanning fingerprint…</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
+  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
   <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
@@ -1153,8 +1159,10 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop">Force stop</string>
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
+  <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_wifi_message">Your pad will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
+  <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">OK</string>
   <string name="free_wifi_connect">Connect</string>
@@ -1176,6 +1184,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="free_wifi_user_agreement_allow">Allow</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
   <string name="frequently_fragment_delete">Remove</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
   <string name="gadget_bluetooth">Bluetooth</string>
@@ -1387,9 +1396,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_no_backup">No backups.</string>
   <string name="local_restore_window_title">Local restore</string>
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
+  <string name="local_select_audio">Audios</string>
+  <string name="local_select_doc">Documents</string>
   <string name="local_select_files">SD card</string>
+  <string name="local_select_image">Images</string>
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
+  <string name="local_select_video">Videos</string>
   <string name="locale_default">Default</string>
   <string name="locale_settings">Locale</string>
   <string name="location_access_off">Off</string>
@@ -1522,6 +1535,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with Mi Cloud.</string>
+  <string name="login_account_dialog_title">Sign in with Mi Account</string>
+  <string name="login_action">Sign in</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -2012,6 +2028,7 @@ Select your operating system:"</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">Cancel</string>
   <string name="print_cancelling_state_title_template">Cancelling %1$s</string>
+  <string name="print_enable">Enable printing</string>
   <string name="print_failed_state_title_template">Printer error %1$s</string>
   <string name="print_feature_state_off">Off</string>
   <string name="print_feature_state_on">On</string>
@@ -2027,6 +2044,7 @@ Select your operating system:"</string>
   <string name="print_print_job">Print job</string>
   <string name="print_print_jobs">Print jobs</string>
   <string name="print_printing_state_title_template">Printing %1$s</string>
+  <string name="print_remind">Enable printing first</string>
   <string name="print_restart">Restart</string>
   <string name="print_search_box_hidden_utterance">Search box hidden</string>
   <string name="print_search_box_shown_utterance">Search box shown</string>
@@ -2199,6 +2217,7 @@ Select your operating system:"</string>
  You will not lose any app data."</string>
   <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="reset_legacy_password_settings_preface_text">You need to reset your lock screen password.</string>
+  <string name="resolver_settings_label">Sort</string>
   <string name="resource_ringtone_volume_mute">Your ringer is currently silenced</string>
   <string name="restore">Restore</string>
   <string name="restore_backup">Restore</string>
@@ -2512,6 +2531,10 @@ Possibly incorrect PIN."</string>
   <string name="sim_radio_off">Not activated</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
   <string name="sim_status_title">SIM status</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="skip_label">Skip</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lockscreen.</string>
   <string name="skip_step">Skip</string>
@@ -2533,7 +2556,7 @@ Possibly incorrect PIN."</string>
   <string name="software_backup_info">App data</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; vibrate</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>
@@ -2694,7 +2717,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="task_backup_cancel_progress">Stopping…</string>
   <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
-  <string name="task_canceled_all_local">Cancel</string>
+  <string name="task_canceled_all_local">Canceled</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"Backup isn't finished. Stop anyway?"</string>
   <string name="task_failed">"Couldn't back up"</string>
@@ -2766,7 +2789,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_cancel_confirm">Transfer in progress, cancel now?</string>
+  <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
@@ -2775,20 +2798,39 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_detail_category_sysdata">System data</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Device disconnected</string>
-  <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
+  <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
+  <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_one_key_migrate">Transfer</string>
-  <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Sending %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Sending files…</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_operate_func_one">Method A</string>
+  <string name="trans_operate_func_two">Method B</string>
+  <string name="trans_operate_new_phone_tips">"Scan QR code using new device
+Go to Settings &gt; Additional Settings &gt; Mi Mover
+Tap [I'm a recipient] to create a QR code"</string>
+  <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
+2. Open the app and tap Start
+3. Scan the QR code with your old device"</string>
+  <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
+  <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
-  <string name="trans_receiving_completed">Data received</string>
+  <string name="trans_receiver_time_remained">"%s remaining.
+Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
+  <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_scan_invalid_qrcode">QR code invalid</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+  <string name="trans_select_data">Select items to send</string>
+  <string name="trans_select_data_no_space">"%s available on the new device
+Select files again or free up storage"</string>
+  <string name="trans_select_data_tips">"Select files to transfer
+Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
   <string name="trans_select_device_send">Select one device to transfer data.</string>
   <string name="trans_sender">"I'm a sender"</string>
@@ -2796,11 +2838,18 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_sender_searching">Searching for new devices</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
-  <string name="trans_sending_completed">Data sent</string>
-  <string name="trans_time_format_second">less than one minute</string>
-  <string name="trans_time_remained">, ready in</string>
+  <string name="trans_sender_time_remained">"%s remaining.
+Don't turn off WLAN. Keep devices close to each other."</string>
+  <string name="trans_sending_completed">Sent successfully</string>
+  <string name="trans_show_qr_code_label">Connect old device</string>
+  <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
+  <string name="trans_time_format_second">Less than 1 minute</string>
+  <string name="trans_time_spent">"
+Time spent: %s"</string>
+  <string name="trans_wait_trans_data">"Connected to the old device.
+Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
-and Transfer is enabled"</string>
+and Mi Mover is on"</string>
   <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
   <string name="translation_contributors_summary"/>
