@@ -62,7 +62,7 @@
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Show warning</item>
-        <item>Warn and turn mobile data off</item>
+        <item>Warn and turn off mobile data</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Most used</item>
