@@ -439,6 +439,7 @@ Leave this page?"</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="positive_confirm_message">Turn off anyway</string>
+  <string name="pref_accessibility">Accessibility</string>
   <string name="pref_accessibility_title">Accessibility</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one press in the address bar</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
