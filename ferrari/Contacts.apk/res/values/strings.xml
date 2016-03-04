@@ -41,7 +41,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="back_view_description">Tap to go back</string>
+  <string name="back_view_description">Go back</string>
   <string name="batch_delete">Delete batch</string>
   <string name="blacklist">Block</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
@@ -346,7 +346,7 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
-  <string name="dialer_menu_description">Tap to show dialer</string>
+  <string name="dialer_menu_description">Show dialer</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
   <string name="dialog_import">Import contacts</string>
@@ -1139,14 +1139,14 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_configure_voicemail">Set up your voicemail.</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
-  <string name="voip_audio_description">Tap to make VoIP call</string>
+  <string name="voip_audio_description">VoIP call</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Just a sec…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Tap to make VoIP video call</string>
+  <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
