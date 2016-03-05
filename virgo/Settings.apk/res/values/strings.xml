@@ -264,7 +264,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Require password</string>
+  <string name="apply_password_to_category_title">Require unlock</string>
   <string name="apply_update_fail">"Couldn't update"</string>
   <string name="apps_storage">Apps storage</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
@@ -393,8 +393,8 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="battery_info_voltage_label">Battery voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Battery level</string>
-  <string name="battery_light_summary">LED flash on when charging</string>
-  <string name="battery_light_title">LED flash</string>
+  <string name="battery_light_summary">Turn on notification light while device is charging</string>
+  <string name="battery_light_title">Light up when charging</string>
   <string name="battery_msg_unaccounted">Battery use is an approximation of power use and does not include every source of battery drain. Miscellaneous is the difference between the computed approximate power use and the actual drain observed on the battery.</string>
   <string name="battery_saver">Battery saver</string>
   <string name="battery_saver_turn_on_automatically_never">Never</string>
@@ -510,7 +510,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
   <string name="bluetooth_is_disconnect_question">Disconnect %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible to all nearby Bluetooth devices (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Visible to all nearby Bluetooth devices</string>
+  <string name="bluetooth_is_discoverable_always">Make this device visible to all nearby Bluetooth devices</string>
   <string name="bluetooth_is_visible_message">%1$s is visible to nearby devices while Bluetooth settings is open.</string>
   <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
@@ -627,9 +627,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
-  <string name="breathing_light_color_summary">LED color when receiving new notification</string>
+  <string name="breathing_light_color_summary">Light color when receiving new notification</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
-  <string name="breathing_light_freq_title">LED flash frequency</string>
+  <string name="breathing_light_freq_title">Notification light pulse frequency</string>
   <string name="brightness">Brightness level</string>
   <string name="brightness_auto_adjust_off">Screen brightness will remain constant.</string>
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light.</string>
@@ -646,7 +646,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
   <string name="button_disconnect_network">Disconnect from network</string>
-  <string name="button_light_timeout">Button light duration</string>
+  <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
@@ -712,7 +712,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="cellular_data_title">Cellular data</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Change</string>
-  <string name="change_password">Change password</string>
+  <string name="change_password">Change screen lock</string>
   <string name="change_security_lock">Try other ways to unlock</string>
   <string name="change_storage">Change storage</string>
   <string name="charging_sounds_title">Charging sounds</string>
@@ -797,8 +797,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="credentials_configure_lock_screen_hint">You need to set a lock screen PIN or password before you can use credential storage.</string>
   <string name="credentials_enabled">Credential storage is enabled.</string>
   <string name="credentials_erased">Credential storage is erased.</string>
-  <string name="credentials_install">Install from SD card</string>
-  <string name="credentials_install_summary">Install certificates from SD card</string>
+  <string name="credentials_install">Install from storage</string>
+  <string name="credentials_install_summary">Install certificates from storage</string>
   <string name="credentials_not_erased">Credential storage couldn’t be erased.</string>
   <string name="credentials_old_password">Current password:</string>
   <string name="credentials_password_too_short">8 character minimum</string>
@@ -936,7 +936,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_pick_cycle_day">Day of month to reset data usage cycle:</string>
   <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
   <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
-  <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work properly unless you're connected to a WLAN network."</string>
+  <string name="data_usage_restrict_background_multiuser">"If you restrict background cellular data, some apps and services won’t work unless you’re connected to Wi‑Fi.
+
+This setting affects all users on this phone."</string>
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
   <string name="data_usage_restrict_denied_dialog">Restricting background data is possible only when you’ve set a cellular data limit.</string>
   <string name="data_usage_summary_title">Data usage</string>
@@ -1043,6 +1045,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Phone number, signal, etc.</string>
+  <string name="dial_application_title">Dial</string>
   <string name="dial_pad_tones_title">Dial pad tones</string>
   <string name="dialog_content_login">Sign in to your Mi Account to update?</string>
   <string name="dialog_no">No</string>
@@ -1065,7 +1068,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="display_auto_rotate_stay_in_current">Off</string>
   <string name="display_auto_rotate_stay_in_landscape">Lock landscape</string>
   <string name="display_auto_rotate_stay_in_portrait">Lock portrait</string>
-  <string name="display_auto_rotate_title">Auto-rotate screen</string>
+  <string name="display_auto_rotate_title">Rotate screen contents</string>
   <string name="display_font_size_label">Font size:</string>
   <string name="display_label">Screen</string>
   <string name="display_order_text">Sort by:</string>
@@ -1074,9 +1077,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="display_settings_title">Display</string>
   <string name="dlg_cancel">Cancel</string>
   <string name="dlg_close">Close</string>
-  <string name="dlg_confirm_unmount_text">If you unmount the SD card, some apps you are using will stop and may be unavailable until you remount the SD card.</string>
-  <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
-  <string name="dlg_error_unmount_text">Couldn’t unmount SD card. Try again later.</string>
+  <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
+  <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
+  <string name="dlg_error_unmount_text">Couldn’t unmount USB storage. Try again later.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dlg_switch">Switch</string>
@@ -1099,16 +1102,16 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dndm_auto_time_turn_on_title">Automatically turn on do not disturb</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
   <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when do not disturb is on.</string>
-  <string name="dndm_menu_add_vip_custom">Add exception</string>
+  <string name="dndm_menu_add_vip_custom">Add</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
   <string name="dndm_open">Do not disturb</string>
-  <string name="dndm_repeated_call_setting_title">Repeated calls</string>
+  <string name="dndm_repeated_call_setting_title">Repeat callers</string>
   <string name="dndm_repeated_call_summary_3min">Ring when receiving a second call from the same number within 3 minutes</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
   <string name="dndm_summary">Calls and notifications that arrive while Do not disturb is on will be silenced.</string>
-  <string name="dndm_twelve_hour_time_format">a h:mm</string>
+  <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Allow calls from exceptions</string>
   <string name="dndm_vip_call_setting_detal">Always accept calls from exceptions</string>
@@ -1117,12 +1120,12 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Touch to configure</string>
   <string name="dndm_vip_list_all">All</string>
-  <string name="dndm_vip_list_contact">All Contacts</string>
+  <string name="dndm_vip_list_contact">All contacts</string>
   <string name="dndm_vip_list_custom">Custom</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Exceptions list</string>
-  <string name="dndm_vip_list_starred_contact">All Starred Contacts</string>
-  <string name="dndm_wristband">Mi Band</string>
+  <string name="dndm_vip_list_starred_contact">Favorites</string>
+  <string name="dndm_wristband">Activate with Mi Band</string>
   <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
   <string name="do_not_disturb_mode">Do not disturb</string>
   <string name="dock_audio_media_disabled">All audio</string>
@@ -1168,7 +1171,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="drive_mode_sms_report">Messages</string>
   <string name="drive_mode_title">Car mode</string>
   <string name="drive_mode_voice_report">Text-to-speech output</string>
-  <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
+  <string name="dtmf_tone_enable_title">Dial pad tones</string>
   <string name="edge_mode_back">Go back</string>
   <string name="edge_mode_back_summary">Double tap the edge of your phone to go back</string>
   <string name="edge_mode_clean">Clear system cache</string>
@@ -1238,12 +1241,12 @@ This helps protect data on lost or stolen devices."</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages, or notifications, including alarms.
 
 This helps protect data on lost or stolen devices."</string>
-  <string name="enforce_read_external_confirm_message">"When SD card is protected, apps must request permission to read data from external storage.
+  <string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage.
 
 Some apps may not work until updated by their developers."</string>
-  <string name="enforce_read_external_confirm_title">Protect SD card?</string>
-  <string name="enforce_read_external_summary">Apps must request permission to read SD card</string>
-  <string name="enforce_read_external_title">Protect SD card</string>
+  <string name="enforce_read_external_confirm_title">Protect USB storage?</string>
+  <string name="enforce_read_external_summary">Apps must request permission to read USB storage</string>
+  <string name="enforce_read_external_title">Protect USB storage</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE data to enhance voice and communications (Recommended)</string>
   <string name="enhanced_4g_lte_mode_title">Enhanced 4G LTE Mode</string>
   <string name="enter_password">To start Android, enter your password</string>
@@ -1252,8 +1255,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="erase_application">Erase apps</string>
   <string name="erase_application_description">Erase downloaded apps</string>
   <string name="erase_data">Erase</string>
-  <string name="erase_external_storage">Erase SD card</string>
-  <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
+  <string name="erase_external_storage">Erase USB storage</string>
+  <string name="erase_external_storage_description">Erase all the data on the internal USB storage, such as music or photos</string>
   <string name="erase_internal_storage">Erase stored content</string>
   <string name="erase_internal_storage_description">Erase music, photos, videos, and other user data</string>
   <string name="erase_optional">Content</string>
@@ -1268,7 +1271,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="every_day">Every day</string>
   <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">USB storage app</string>
-  <string name="external_data_size_label">SD card</string>
+  <string name="external_data_size_label">USB storage data</string>
   <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
   <string name="extreme_threats_title">Extreme threats</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
@@ -1283,7 +1286,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_all">All</string>
   <string name="filter_apps_cached">Cached</string>
   <string name="filter_apps_disabled">Disabled</string>
-  <string name="filter_apps_onsdcard">On SD card</string>
+  <string name="filter_apps_onsdcard">USB storage</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
@@ -1299,7 +1302,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_write_settings_apps">Can modify system settings</string>
   <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
   <string name="fingerprint_add_title">Add fingerprint</string>
-  <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
+  <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
   <string name="fingerprint_enable_keyguard_toggle_title">screen lock</string>
   <string name="fingerprint_enroll_button_add">Add another</string>
   <string name="fingerprint_enroll_button_next">Next</string>
@@ -1501,7 +1504,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="inactive_apps_title">Inactive apps</string>
   <string name="include_app_data_title">Include app data</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
-  <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
+  <string name="incoming_call_breathing_light_freq_title">Calls pulse frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
   <string name="information_dialog_button_text">Got it</string>
   <string name="input_method">Keyboard</string>
@@ -1630,7 +1633,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra small</string>
   <string name="led_colors_summary">Notifications</string>
-  <string name="led_frequence_summary">Set the interval between LED flashes</string>
+  <string name="led_frequence_summary">Set pulse interval</string>
   <string name="led_pulse_summary">Pulse notification light when new notification is received</string>
   <string name="led_settings">Notification light</string>
   <string name="legacy_dhcp_client">Use legacy DHCP client</string>
@@ -1741,7 +1744,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_settings_title">Device security</string>
   <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
   <string name="lock_setup">Setup is complete.</string>
-  <string name="lock_sounds_enable_title">Screen lock sound</string>
+  <string name="lock_sounds_enable_title">Screen locking sounds</string>
   <string name="lockpassword_cancel_label">Cancel</string>
   <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
   <string name="lockpassword_choose_your_password_header">Choose your password</string>
@@ -1851,7 +1854,7 @@ You are currently signed into the following accounts:
 "&lt;li&gt;Other user data&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; needs to be erased.</string>
+To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&gt; needs to be erased.</string>
   <string name="master_clear_erase_application_progress">Erasing apps…</string>
   <string name="master_clear_failed">No reset was performed because the System Clear service isn’t available.</string>
   <string name="master_clear_final_button_text">Erase everything</string>
@@ -1932,7 +1935,7 @@ There are other users present on this device.
   <string name="menu_proc_stats_type_background">Background</string>
   <string name="menu_proc_stats_type_cached">Cached</string>
   <string name="menu_proc_stats_type_foreground">Foreground</string>
-  <string name="menu_restore">Reset to default</string>
+  <string name="menu_restore">Reset</string>
   <string name="menu_save">Save</string>
   <string name="menu_show_percentage">Show percentages</string>
   <string name="menu_show_system">Show system</string>
@@ -1956,7 +1959,7 @@ There are other users present on this device.
   <string name="miui_screensaver_title">Screensaver</string>
   <string name="miui_screensaver_usage">Screensaver begins 5 seconds after display turns off</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
-  <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
+  <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
   <string name="mobile_data_always_on">Cellular data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
@@ -1971,7 +1974,7 @@ There are other users present on this device.
   <string name="move_app_failed_dlg_text">Couldn’t move app. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
-  <string name="move_app_to_sdcard">Move to SD card</string>
+  <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
   <string name="msd_driver_download">Download driver</string>
   <string name="msd_driver_download_mac">OSX: Download the driver and install AndroidFileTransfer.dmg.</string>
@@ -2121,7 +2124,7 @@ Select your operating system:"</string>
   <string name="not_installed">Not installed for this user</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
-  <string name="notification_breathing_light_freq_title">Notifications LED flash frequency</string>
+  <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
   <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications, including personal information such as contact names and the text of messages you receive. It will also be able to dismiss notifications or trigger action buttons they contain.</string>
   <string name="notification_listener_security_warning_title">Allow notification access for %1$s?</string>
   <string name="notification_log_title">Notification log</string>
@@ -2231,7 +2234,7 @@ Select your operating system:"</string>
   <string name="passpoint_content">%1$s credentials</string>
   <string name="passpoint_label">Saved via</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
-  <string name="password_entrance_title">Password</string>
+  <string name="password_entrance_title">Screen lock</string>
   <string name="password_guard">Password</string>
   <string name="performance_category">Performance</string>
   <string name="permission_detail_info">Details</string>
@@ -2424,9 +2427,9 @@ Select your operating system:"</string>
   <string name="query_hint_text">Search settings</string>
   <string name="quiet">Do not disturb</string>
   <string name="quiet_group">Do not disturb</string>
-  <string name="quiet_important_interruptions_mode">Only allow exceptions</string>
-  <string name="quiet_no_interruptions_mode">Silence all disturbances</string>
-  <string name="quiet_off_mode">Always allow disturbances</string>
+  <string name="quiet_important_interruptions_mode">Allow selected exceptions</string>
+  <string name="quiet_no_interruptions_mode">Silence everything</string>
+  <string name="quiet_off_mode">Off</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Connected</string>
   <string name="radioInfo_data_connecting">Connecting</string>
@@ -2592,6 +2595,7 @@ This setting affects all users on this phone."</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
+  <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
@@ -2661,32 +2665,32 @@ To use screen pinning:
   <string name="screensaver_settings_summary_sleep">While charging</string>
   <string name="screensaver_settings_title">Daydream</string>
   <string name="screensaver_settings_when_to_dream">When to daydream</string>
-  <string name="sd_card_settings_label">SD card</string>
-  <string name="sd_card_storage">SD card storage</string>
-  <string name="sd_eject">Unmount SD card</string>
-  <string name="sd_eject_summary">Unmount the SD card so you can safely remove it</string>
+  <string name="sd_card_settings_label">USB storage</string>
+  <string name="sd_card_storage">USB storage</string>
+  <string name="sd_eject">Unmount shared storage</string>
+  <string name="sd_eject_summary">Unmount the internal USB storage</string>
   <string name="sd_ejecting_summary">Unmount in progress</string>
   <string name="sd_ejecting_title">Unmounting</string>
-  <string name="sd_format">Erase SD card</string>
-  <string name="sd_format_summary">Erases all data on the SD card, such as music and photos</string>
-  <string name="sd_insert_summary">Insert an SD card for mounting</string>
-  <string name="sd_memory">SD card</string>
-  <string name="sd_mount">Mount SD card</string>
+  <string name="sd_format">Erase USB storage</string>
+  <string name="sd_format_summary">Erases all data on the internal USB storage, such as music and photos</string>
+  <string name="sd_insert_summary">Insert USB storage for mounting</string>
+  <string name="sd_memory">USB storage</string>
+  <string name="sd_mount">Mount USB storage</string>
   <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
-  <string name="sdcard_format">Erase SD card</string>
-  <string name="sdcard_setting">SD card</string>
+  <string name="sdcard_format">Erase USB storage</string>
+  <string name="sdcard_setting">USB storage</string>
   <string name="sdcard_settings_available_bytes_label">Available bytes:</string>
-  <string name="sdcard_settings_bad_removal_status">SD card was removed while still in use!</string>
-  <string name="sdcard_settings_mass_storage_status">SD card is being used as a mass storage device.</string>
-  <string name="sdcard_settings_not_present_status">No SD card.</string>
-  <string name="sdcard_settings_read_only_status">SD card mounted read-only.</string>
-  <string name="sdcard_settings_scanning_status">Scanning SD card for media…</string>
+  <string name="sdcard_settings_bad_removal_status">USB storage was removed while still in use!</string>
+  <string name="sdcard_settings_mass_storage_status">USB storage is being used as a mass storage device.</string>
+  <string name="sdcard_settings_not_present_status">USB storage not mounted.</string>
+  <string name="sdcard_settings_read_only_status">USB storage mounted read-only.</string>
+  <string name="sdcard_settings_scanning_status">Scanning USB storage for media…</string>
   <string name="sdcard_settings_screen_mass_storage_text">Enable USB mass storage</string>
   <string name="sdcard_settings_total_bytes_label">Total bytes:</string>
-  <string name="sdcard_settings_unmounted_status">It’s now safe to remove the SD card.</string>
+  <string name="sdcard_settings_unmounted_status">It’s now safe to remove the USB storage.</string>
   <string name="sdcard_settings_used_bytes_label">Used bytes:</string>
-  <string name="sdcard_unmount">Unmount SD card</string>
+  <string name="sdcard_unmount">Unmount USB storage</string>
   <string name="se_route_ese">Embedded secure element</string>
   <string name="se_route_uicc">Secure element on SIM card</string>
   <string name="search_about">about</string>
@@ -2725,7 +2729,7 @@ To use screen pinning:
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
-  <string name="secure_keyguard_business_title">Lock screen password</string>
+  <string name="secure_keyguard_business_title">Set screen lock</string>
   <string name="secure_lock_encryption_warning">Because you’ve turned on an accessibility service, your device won’t use your screen lock to enhance data encryption.</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
@@ -2802,6 +2806,7 @@ To use screen pinning:
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
+  <string name="settings_forbidden_message">This setting is disabled</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
   <string name="settings_license_activity_loading">Loading…</string>
@@ -2937,7 +2942,7 @@ Possibly incorrect PIN."</string>
   <string name="sort_max_use">Sort by max use</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Call ringtone &amp; vibrate</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; notification sounds</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Touch sounds</string>
@@ -3103,7 +3108,7 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_other_users">Other users</string>
   <string name="storage_rename_title">Rename storage</string>
   <string name="storage_settings">Storage</string>
-  <string name="storage_settings_summary">Unmount SD card, view available storage</string>
+  <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
   <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
   <string name="storage_summary_format">%1$s used in %2$s</string>
@@ -3323,11 +3328,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
-  <string name="turn_off_common_password_confirm_msg">The password will be turned off as well.</string>
+  <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
-  <string name="turn_on_security_lock">Add security password</string>
+  <string name="turn_on_security_lock">Choose screen lock</string>
   <string name="under_keyguard">Lock screen</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_text">Uninstall</string>
@@ -3380,7 +3385,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Set a screen lock</string>
   <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
-  <string name="unmount_inform_text">SD card will be unmounted.</string>
+  <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="update_progress_for_updates">Updating (%s)</string>
   <string name="upload_debug_log_summary">Help improve MIUI by sending anonymous usage data</string>
@@ -3605,11 +3610,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">Reset levels</string>
-  <string name="volume_restore_alert">All volume levels will be reset.</string>
+  <string name="volume_restore_alert">Reset all volume levels to their default settings?</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">Camera, lock screen, and other system notifications</string>
-  <string name="volume_voice_description">Voice</string>
+  <string name="volume_voice_description">In-call voice</string>
   <string name="vpn_cancel">Cancel</string>
   <string name="vpn_configure">Configuration</string>
   <string name="vpn_connect">Connect</string>
@@ -3733,7 +3738,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_connect_cmcc_dialog_content">"Connected to mobile data network. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Don't show again"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC connected</string>
-  <string name="wifi_connect_failed_message">"Couldn't connect to WLAN network"</string>
+  <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi‑Fi network.</string>
   <string name="wifi_connected_no_internet">Connected, no Internet</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
@@ -3826,7 +3831,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_scan">Scan</string>
   <string name="wifi_menu_wfd">Wireless display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
-  <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
+  <string name="wifi_menu_wps_pin">WPS PIN entry</string>
   <string name="wifi_menu_write_to_nfc">Write to NFC tag</string>
   <string name="wifi_more">More</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
@@ -4028,7 +4033,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="wifi_wapi_as_cert">AS certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
-  <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
+  <string name="wifi_wapi_cert_create_subdir">Create a folder</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
@@ -4038,7 +4043,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create folder."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">A folder with this name already exists.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter folder name</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI certificate management</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI certificates</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Enter user certificate name</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">User certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Enter user certificate name</string>
@@ -4076,7 +4081,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_sim_title">Work SIM</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
-  <string name="wps_connect_title">Connect WPS</string>
+  <string name="wps_connect_title">WPS push button</string>
   <string name="write_settings">Modify system settings</string>
   <string name="write_settings_description">This permission allows an app to modify system settings.</string>
   <string name="write_settings_off">No</string>
@@ -4127,7 +4132,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="zen_mode_from_none">None</string>
   <string name="zen_mode_from_sms">"Messages from "</string>
   <string name="zen_mode_from_starred">From starred contacts only</string>
-  <string name="zen_mode_important_category">Sounds</string>
+  <string name="zen_mode_important_category">Settings</string>
   <string name="zen_mode_messages">Messages</string>
   <string name="zen_mode_miui_silent_category">Allow</string>
   <string name="zen_mode_option_alarms">Alarms only</string>

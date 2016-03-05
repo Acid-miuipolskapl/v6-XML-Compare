@@ -54,6 +54,8 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
   <string name="cloud_backup_detail_time">, back up time:%1$s</string>
+  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
+  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>
