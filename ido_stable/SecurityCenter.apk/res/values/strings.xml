@@ -89,7 +89,7 @@
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_optimize">Optimize</string>
   <string name="btn_text_quick_scan">Scan</string>
-  <string name="btn_text_start_check">Check</string>
+  <string name="btn_text_start_check">Scan</string>
   <string name="btn_text_stop">Stop</string>
   <string name="btn_text_virus_scan">Scan</string>
   <string name="button_text_accept">Accept</string>
@@ -99,7 +99,7 @@
   <string name="button_text_cancel_optimize">Cancel</string>
   <string name="button_text_cleanup">Clean up</string>
   <string name="button_text_clear">Clear</string>
-  <string name="button_text_create_shortcut">Create shortcut</string>
+  <string name="button_text_create_shortcut">Create shortcut on Home screen</string>
   <string name="button_text_fix">Fix</string>
   <string name="button_text_ignore">Ignore</string>
   <string name="button_text_ignore_alert_title">Ignore this alert?</string>
@@ -111,7 +111,7 @@
   <string name="button_text_reject_timer">Reject (%d)</string>
   <string name="button_text_security">Security</string>
   <string name="button_text_start_optimize">Check</string>
-  <string name="button_text_uninstall_shortcut">Remove</string>
+  <string name="button_text_uninstall_shortcut">Remove shortcut from Home screen</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
   <string name="cache_check_content_none">@string/memory_check_content_none</string>
@@ -124,6 +124,7 @@
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
+  <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancel</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
@@ -283,18 +284,14 @@
   <string name="permission_action_reject">Deny</string>
   <string name="permission_close_permission_control_dialog_msg">"When permission manager is off, apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources."</string>
   <string name="permission_close_permission_control_dialog_title">Turn off?</string>
-  <string name="permission_group_title_charges_related">Charges</string>
-  <string name="permission_group_title_media_related">Multimedia</string>
   <string name="permission_group_title_others">Others</string>
-  <string name="permission_group_title_privacy_related">Privacy</string>
-  <string name="permission_group_title_settings_related">Settings</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Apps won't ask your permission before reading your contacts, viewing your call history, changing system settings, or accessing camera and other device resources. You can turn this feature on in Permission settings."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Permission manager</string>
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
-  <string name="power_20s_enter_mode">At %1$ds battery switch to %2$s</string>
+  <string name="power_20s_enter_mode">Switching to %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
   <string name="power_apply_toast">Switched to %s</string>
   <string name="power_bluetooth">Bluetooth</string>
@@ -515,6 +512,7 @@
   <string name="protection_category_dangerous_title">Risks (%d)</string>
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
+  <string name="reject_all">Restrict all</string>
   <string name="risk_list_header_title">%d suspicious apps detected</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
@@ -554,7 +552,7 @@
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
-  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
+  <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
@@ -590,7 +588,7 @@
   <string name="title_garbage_lib">Automatic updates</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
-  <string name="title_live_talk_purchase">Top up now</string>
+  <string name="title_live_talk_purchase">Turn on Top-up package</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
