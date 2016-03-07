@@ -2,6 +2,7 @@
 <resources>
   <string name="app_name">Daily lock screens</string>
   <string name="at_least_one">Select at least one category</string>
+  <string name="auto_interval">Auto</string>
   <string name="cancel">Exit</string>
   <string name="cancel_international">Cancel</string>
   <string name="change_time">Switch interval</string>
@@ -14,6 +15,7 @@
   <string name="lockscreen_magazine_summary">Get wallpapers delivered straight to your lock screen every day.</string>
   <string name="lockscreen_magazine_system_title">Default</string>
   <string name="lockscreen_magazine_title">Daily lock screens</string>
+  <string name="minutes_15">15 Minutes</string>
   <string name="no_long_show">"Don't show again"</string>
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
