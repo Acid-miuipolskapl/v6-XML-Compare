@@ -270,6 +270,7 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Cancel</string>
   <string name="metered_play_toast">Using mobile data connection to stream</string>
+  <string name="milink_unavaliable_please_update">Milink function is unavailable. Need update MIUI system.</string>
   <string name="min_sleep_time">1</string>
   <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
