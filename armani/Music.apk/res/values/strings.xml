@@ -21,6 +21,7 @@
   <string name="action_item_send">Send</string>
   <string name="action_item_share">Share</string>
   <string name="add_music">Add songs</string>
+  <string name="add_to_last_of_playlist">Add to the end of playlist.</string>
   <string name="alaka_required">"This song isn't available."</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
@@ -244,6 +245,7 @@
   <string name="japan_korea_group">Bands (Japan/Korea)</string>
   <string name="japan_korea_male">Male artists (Japan/Korea)</string>
   <string name="ktv_playlist">KTV playlist</string>
+  <string name="latest_song">Play history(%d).</string>
   <string name="like">Like</string>
   <string name="list_detail_title">Details</string>
   <string name="list_item_play_FM_radio">Touch to play FM radio</string>
@@ -268,6 +270,7 @@
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Cancel</string>
   <string name="metered_play_toast">Using mobile data connection to stream</string>
+  <string name="milink_unavaliable_please_update">Milink function is unavailable. Need update MIUI system.</string>
   <string name="min_sleep_time">1</string>
   <string name="miui_music">Mi Music</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
@@ -365,6 +368,7 @@
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
   <string name="play_all_song">Play all</string>
+  <string name="play_next">Play next.</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
   <string name="playlist_deleted_message">Playlist deleted</string>
   <string name="playlist_renamed_message">Playlist renamed</string>
@@ -379,10 +383,20 @@
   <string name="priority_storage_summary">Automatically download to external SD card if available</string>
   <string name="project_device">Mi Phone</string>
   <string name="project_device_mobile">Mobile device</string>
+  <string name="radar">ACRCloud</string>
+  <string name="radar_click_to_retry">Click to retry</string>
+  <string name="radar_fail">No Result</string>
+  <string name="radar_fail_by_noise">May be too noisy</string>
+  <string name="radar_listening_state">Recognization is in process</string>
+  <string name="radar_possible_result">Possible songs</string>
+  <string name="radar_retry">Retry</string>
+  <string name="radar_searching_state">Searching is in process</string>
+  <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Pay now?</string>
   <string name="recommend_fragment_title">Featured</string>
   <string name="remaining">Remaining this month:</string>
   <string name="remove">Remove</string>
+  <string name="remove_from_nowplaying">Remove from playlist.</string>
   <string name="renew">Renew:</string>
   <string name="renew_1">Renew</string>
   <string name="renew_period">"Expires: "</string>
@@ -391,6 +405,7 @@
   <string name="restart_immediate">Restart Now</string>
   <string name="retry">Retry</string>
   <string name="ringtone_not_support">"This song's format is not supported"</string>
+  <string name="save_to_playlist">Save as playlist.</string>
   <string name="search_album">Search albums</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Artist</string>
@@ -400,6 +415,7 @@
   <string name="search_title_album">Albums</string>
   <string name="search_title_singer">Artists</string>
   <string name="search_title_song">Songs</string>
+  <string name="second_symbol">s</string>
   <string name="sel_svc">Select service</string>
   <string name="select_album">Choose album</string>
   <string name="select_all">Select all</string>
