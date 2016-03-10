@@ -1293,20 +1293,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>Unlimited</item>
-    </string-array>
-    <string-array name="slideshow_time_entryValues">
-        <item>300</item>
-        <item>900</item>
-        <item>1800</item>
-        <item>3600</item>
-        <item>-1</item>
-    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Dial</item>
@@ -1593,100 +1579,22 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
-        <item>DZ</item>
-        <item>AO</item>
         <item>AR</item>
-        <item>BH</item>
-        <item>BD</item>
-        <item>BE</item>
         <item>BO</item>
-        <item>BW</item>
         <item>BR</item>
-        <item>CM</item>
         <item>CL</item>
         <item>CO</item>
-        <item>CD</item>
-        <item>CR</item>
-        <item>CI</item>
-        <item>CU</item>
-        <item>DO</item>
         <item>EC</item>
-        <item>EG</item>
-        <item>SV</item>
-        <item>GQ</item>
-        <item>ET</item>
-        <item>FK</item>
-        <item>FR</item>
         <item>GF</item>
-        <item>GH</item>
-        <item>GT</item>
         <item>GY</item>
-        <item>HT</item>
-        <item>HN</item>
         <item>IN</item>
-        <item>IR</item>
-        <item>IQ</item>
         <item>IL</item>
-        <item>JM</item>
-        <item>JO</item>
-        <item>KZ</item>
-        <item>KE</item>
-        <item>KW</item>
-        <item>LB</item>
-        <item>LS</item>
-        <item>LY</item>
-        <item>LT</item>
-        <item>MW</item>
-        <item>MR</item>
-        <item>MU</item>
-        <item>MX</item>
-        <item>MA</item>
-        <item>MZ</item>
-        <item>MM</item>
-        <item>NA</item>
-        <item>NP</item>
-        <item>NI</item>
-        <item>NG</item>
-        <item>KP</item>
-        <item>OM</item>
-        <item>PK</item>
-        <item>PS</item>
-        <item>PA</item>
         <item>PY</item>
         <item>PE</item>
-        <item>PH</item>
-        <item>QA</item>
-        <item>RU</item>
-        <item>RW</item>
-        <item>SA</item>
-        <item>SN</item>
-        <item>SO</item>
-        <item>ZA</item>
-        <item>GS</item>
-        <item>KR</item>
-        <item>ES</item>
-        <item>LK</item>
-        <item>SD</item>
         <item>SR</item>
-        <item>SZ</item>
-        <item>CH</item>
-        <item>SY</item>
         <item>TW</item>
-        <item>TZ</item>
-        <item>TH</item>
-        <item>TN</item>
-        <item>TR</item>
-        <item>UG</item>
-        <item>UA</item>
-        <item>AE</item>
-        <item>US</item>
         <item>UY</item>
-        <item>UZ</item>
         <item>VE</item>
-        <item>VN</item>
-        <item>YE</item>
-        <item>ZM</item>
-        <item>ZW</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>
