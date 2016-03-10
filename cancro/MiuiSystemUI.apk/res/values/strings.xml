@@ -135,6 +135,7 @@ Use only the supplied charger."</string>
   <string name="mount_storage">Yes</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications.</string>
+  <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
   <string name="notification_otg_gamestick_out">Game controller disconnected</string>
   <string name="notification_otg_keyboard_in">Keyboard connected</string>

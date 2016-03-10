@@ -1640,32 +1640,22 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
-        <item>TW</item>
         <item>AR</item>
         <item>BO</item>
         <item>BR</item>
         <item>CL</item>
         <item>CO</item>
-        <item>CR</item>
-        <item>CU</item>
-        <item>DO</item>
         <item>EC</item>
-        <item>SV</item>
-        <item>GQ</item>
         <item>GF</item>
-        <item>GT</item>
         <item>GY</item>
-        <item>HT</item>
-        <item>HN</item>
-        <item>JM</item>
-        <item>MX</item>
-        <item>NI</item>
-        <item>PA</item>
+        <item>IN</item>
+        <item>IL</item>
         <item>PY</item>
         <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
         <item>UY</item>
         <item>VE</item>
-        <item>IN</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>keyguard</item>
