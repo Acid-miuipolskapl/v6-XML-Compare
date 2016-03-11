@@ -147,6 +147,7 @@
   <string name="downloading">Downloading</string>
   <string name="downloading_in_3g">Downloading on 3G…</string>
   <string name="email_platform">Email</string>
+  <string name="enable_documentsui">Enable %s in Settings/InstalledApps first</string>
   <string name="enable_sd_card">Insert SD card or disable USB mass storage.</string>
   <string name="enable_usb">Connect USB device</string>
   <string name="encrypt_error">"Couldn't hide files, try again"</string>
@@ -354,6 +355,7 @@ and never miss the cool new ones!"</string>
   <string name="no_tasks">No tasks.</string>
   <string name="no_wifi">No network detected</string>
   <string name="no_wifi_hint">No connection</string>
+  <string name="not_installed_documentsui">"Haven't installed DocumentsUI"</string>
   <string name="notif_server_starting">Starting FTP server…</string>
   <string name="notif_title">FTP server is running</string>
   <string name="notification_content_hint">Tap to view</string>
@@ -597,6 +599,7 @@ Free space added %1$s"</string>
   <string name="tag_weixin_video">Small videos</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Apps</string>
+  <string name="title_enable_documentsui">Enable DocumentsUI</string>
   <string name="title_expire_video">About to expire</string>
   <string name="title_recent">Recent</string>
   <string name="title_report_video">Report</string>

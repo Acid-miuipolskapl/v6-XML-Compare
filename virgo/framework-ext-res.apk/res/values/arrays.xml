@@ -32,6 +32,7 @@
         <item>com.xiaomi.midrop</item>
         <item>com.miui.securitycenter</item>
         <item>com.miui.player</item>
+        <item>com.android.cts.verifier</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
