@@ -28,8 +28,6 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Download MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Root access</string>
-  <string name="Dashboard_Su_Enable_Content">Granting root access to 3rd-party apps may cause system instability, userdata loss, or even hardware damage.</string>
-  <string name="Dashboard_Su_Enable_Title">Root access warning</string>
   <string name="Generic_Canceling">Canceling…</string>
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
@@ -222,6 +220,10 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="HIPS_Perm_add_voicemail_Desc">Add system voice messages</string>
   <string name="HIPS_Perm_get_accounts">Access accounts on device</string>
   <string name="HIPS_Perm_get_accounts_Desc">Access all accounts stored on device</string>
+  <string name="HIPS_Perm_install_shortcut">Home screen shortcuts</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Add shortcuts to Home screen</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Access near field communication (NFC) hardware</string>
   <string name="HIPS_Perm_process_outgoing_calls">Access Phone app</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitor and end calls</string>
   <string name="HIPS_Perm_use_sip">Video services</string>
@@ -283,5 +285,5 @@ You need to flash the developer build of MIUI in order grant root access."</stri
   <string name="screen_overlay_button">Open settings</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
-  <string name="static_cache_db_md5">f5975015dd0e5b177b938d167bb2d090</string>
+  <string name="static_cache_db_md5">52571e000882fef99527c2eeb4833f81</string>
 </resources>

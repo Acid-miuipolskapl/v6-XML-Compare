@@ -1,4 +1,5 @@
 <resources>
+<string name="weather_type_null">Žádná data</string>
     <string name="weather_type_0">Jasno</string>
     <string name="weather_type_1">Oblačno</string>
     <string name="weather_type_2">Zamračeno</string>
