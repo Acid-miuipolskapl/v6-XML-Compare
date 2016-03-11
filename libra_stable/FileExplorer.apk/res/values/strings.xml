@@ -315,7 +315,7 @@ and never miss the cool new ones!"</string>
   <string name="no_wifi_hint">No connection</string>
   <string name="notif_server_starting">Starting FTP server…</string>
   <string name="notif_title">FTP server is running</string>
-  <string name="notification_content_hint">View WeChat videos that are about to expire.</string>
+  <string name="notification_content_hint">Tap to view</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Automatically notify and organize when files are added or changed in %1$s.</string>
   <string name="notification_dialog_title">Notifications</string>

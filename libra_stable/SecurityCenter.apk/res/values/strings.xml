@@ -552,7 +552,7 @@
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
-  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
+  <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
@@ -588,7 +588,7 @@
   <string name="title_garbage_lib">Automatic updates</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
-  <string name="title_live_talk_purchase">Top up now</string>
+  <string name="title_live_talk_purchase">Turn on Top-up package</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
