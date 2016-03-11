@@ -1003,8 +1003,6 @@ To add a contact to your list of favorites:
   <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
   <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
   <string name="sim_contact_existing">Contact already exists</string>
   <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">An error occurred</string>

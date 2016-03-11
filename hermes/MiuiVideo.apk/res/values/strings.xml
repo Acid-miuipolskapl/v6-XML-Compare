@@ -397,6 +397,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
   <string name="vp_VideoView_error_title">Unknown error</string>
+  <string name="vp_ad_skip">Skip</string>
   <string name="vp_adapt_height">Fit height</string>
   <string name="vp_adapt_width">Fit width</string>
   <string name="vp_app_download">Application download</string>

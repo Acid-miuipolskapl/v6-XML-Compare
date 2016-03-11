@@ -79,7 +79,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="account_settings_menu_auto_sync_work">Auto-sync work data</string>
   <string name="account_settings_title">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
-  <string name="activate_miui_screensaver">Screensaver during sleep</string>
   <string name="activating">Activating…</string>
   <string name="active_device_admin_msg">Device administrator</string>
   <string name="active_input_method_subtypes">Active input methods</string>
@@ -121,8 +120,6 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_option_title">Alarm volume</string>
   <string name="alarm_volume_title">Alarm</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Displaying screensaver consumes more power.</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Battery usage</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Allow</string>
   <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
@@ -1793,12 +1790,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="miui_data_usage_menu_metered">Mobile hotspots</string>
   <string name="miui_disturb_title">Do not disturb</string>
   <string name="miui_experience_optimization">Turn on MIUI optimization</string>
-  <string name="miui_screensaver_show_time">Duration</string>
-  <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
-  <string name="miui_screensaver_state_off">Off</string>
-  <string name="miui_screensaver_state_on">On</string>
-  <string name="miui_screensaver_title">Screensaver</string>
-  <string name="miui_screensaver_usage">Screensaver begins 5 seconds after display turns off</string>
   <string name="miui_silent_title">Silent mode</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
   <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
@@ -1977,7 +1968,6 @@ Select your operating system:"</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
-  <string name="only_when_charging">Only when connected to power source</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_miui_optimization_title">Turn on MIUI optimization</string>
   <string name="open_miui_optimization_warning_message">Your device will reboot to apply this change</string>
@@ -2068,7 +2058,6 @@ Select your operating system:"</string>
   <string name="pico_not_installed">Not installed</string>
   <string name="pico_voice_summary_female">Female</string>
   <string name="pico_voice_summary_male">Male</string>
-  <string name="picture_source">Photos</string>
   <string name="pin_failed">SIM PIN operation failed!</string>
   <string name="ping_test_label">Run ping test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
@@ -2392,6 +2381,7 @@ This setting affects all users on this phone."</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
   <string name="screen_color_and_optimize">Colors &amp; contrast</string>
+  <string name="screen_color_and_optimize_disabled">"Can't adjust color temperature in Reading mode"</string>
   <string name="screen_color_temperature">Colors</string>
   <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
