@@ -42,17 +42,17 @@
         <item>:</item>
     </string-array>
     <array name="duration_entryValues">
-        <item>@drawable/time_0</item>
-        <item>@drawable/time_1</item>
-        <item>@drawable/time_2</item>
-        <item>@drawable/time_3</item>
-        <item>@drawable/time_4</item>
-        <item>@drawable/time_5</item>
-        <item>@drawable/time_6</item>
-        <item>@drawable/time_7</item>
-        <item>@drawable/time_8</item>
-        <item>@drawable/time_9</item>
-        <item>@drawable/time_dot</item>
+        <item>@drawable/clock_0</item>
+        <item>@drawable/clock_1</item>
+        <item>@drawable/clock_2</item>
+        <item>@drawable/clock_3</item>
+        <item>@drawable/clock_4</item>
+        <item>@drawable/clock_5</item>
+        <item>@drawable/clock_6</item>
+        <item>@drawable/clock_7</item>
+        <item>@drawable/clock_8</item>
+        <item>@drawable/clock_9</item>
+        <item>@drawable/clock_colon</item>
     </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>

@@ -56,13 +56,6 @@
   <string name="apply_password_action">Set password</string>
   <string name="apply_password_confirm_dlg_msg">Require password for %s​?</string>
   <string name="apply_password_confirm_dlg_title">This password will be used for %s</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Screen buttons disabled, double click any button to exit</string>
-  <string name="auto_disable_screenbuttons_enable_toast_text">Screen buttons enabled</string>
-  <string name="auto_disable_screenbuttons_float_text">Touch to disable screen buttons</string>
-  <string name="auto_disable_screenbuttons_prompts_message">Double click any button to exit disable mode and perform the action of this button.</string>
-  <string name="auto_disable_screenbuttons_prompts_not_show_again">Do not show this prompts again</string>
-  <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
-  <string name="auto_disable_screenbuttons_prompts_title">Automatically disable screen buttons</string>
   <string name="auto_start_warning_allow">Allow</string>
   <string name="auto_start_warning_deny">Deny</string>
   <string name="auto_start_warning_title">Allow %s to start automatically?</string>
@@ -113,7 +106,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="maml_component_customization_title">Settings</string>
   <string name="memory_clear_nothing_result">Nothing to clear in cache</string>
-  <string name="memory_clear_result">%1$sB cleared | %2$sB available</string>
+  <string name="memory_clear_result">%1$s cleared | %2$s available</string>
   <string name="miui">miui</string>
   <string name="paste">Paste</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
@@ -153,7 +146,7 @@ To turn this feature on, go to Settings &gt; System &gt; Buttons"</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
   <string name="status_bar_toggle_data">Mobile data</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
+  <string name="status_bar_toggle_data_action">com.android.phone/.settings.PreferredNetworkTypeListPreference</string>
   <string name="status_bar_toggle_flight_mode">Airplane</string>
   <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
   <string name="status_bar_toggle_gps">GPS</string>

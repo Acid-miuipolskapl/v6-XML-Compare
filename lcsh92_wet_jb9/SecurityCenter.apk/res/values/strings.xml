@@ -50,7 +50,6 @@
   <string name="antivirus_privacy_dialog_title">Privacy Policy</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_update_db">%s</string>
-  <string name="app_install_intercept">Block installation</string>
   <string name="app_name_securitycenter">Security</string>
   <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="auto_handle_title">GENERAL</string>
@@ -126,7 +125,6 @@
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
   <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
-  <string name="continue_install">Install</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancel</string>
   <string name="cta_checkbox_title">"Don't show again"</string>
@@ -157,7 +155,6 @@
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
   <string name="dialog_title_auto_start_declare">About autostart</string>
   <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
-  <string name="empty_app">No apps</string>
   <string name="empty_title_auto_start_list">No apps can autostart.</string>
   <string name="empty_title_manual_item_white_list">No exceptions.</string>
   <string name="empty_title_perm_apps">No apps have this permission.</string>
@@ -219,7 +216,6 @@
   <string name="hints_virus_scan_result_descx">"This app is a major risk to your phone's security."</string>
   <string name="history_details_title">History details</string>
   <string name="info_and_call">Calls and messaging</string>
-  <string name="install_title">Install via USB</string>
   <string name="item_app_permission">App permissions</string>
   <string name="item_dev_mode">Developer options</string>
   <string name="item_install_monitor">Install monitor</string>
@@ -274,7 +270,6 @@
   <string name="menu_text_power_manager">Battery usage</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Battery %s</string>
-  <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
   <string name="never">1 time</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
@@ -283,8 +278,6 @@
   <string name="notification_title_firewall_blocked">Blocked</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Included packages</string>
-  <string name="pc_install_manager">Install via USB</string>
-  <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Accept</string>
   <string name="permission_action_prompt">Notify</string>
@@ -297,13 +290,6 @@
   <string name="permission_send_sms_descx">Apps can send SMS and MMS messages</string>
   <string name="permission_with_SMS_and_MMS">Permissions related to SMS and MMS</string>
   <string name="permission_with_call_and_contact">Permissions related to phone calls, contact info, and call history.</string>
-  <string name="pm_auto_start_basic_services_lock">Lock</string>
-  <string name="pm_auto_start_basic_services_unlock">Unlock</string>
-  <string name="pm_auto_start_by_basic_services">Basic services</string>
-  <string name="pm_auto_start_by_other_services">Try turning off these services</string>
-  <string name="pm_auto_start_by_system">Start apps</string>
-  <string name="pm_auto_start_proc_is_running">Running</string>
-  <string name="pm_remember_choice">Remember my choice</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
   <string name="power_20s_enter_mode">Switching to %2$s in %1$ds</string>
   <string name="power_20s_shutdown">Device will power off in 20 seconds</string>
@@ -499,7 +485,6 @@
   <string name="preference_key_notification_bar_manager">key_notification_bar_manager</string>
   <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
   <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-  <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
   <string name="preference_key_permission_manager">key_permission_manager</string>
   <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
   <string name="preference_key_root_manager">key_root_manager</string>
@@ -527,11 +512,7 @@
   <string name="protection_category_dangerous_title">Risks (%d)</string>
   <string name="protection_category_recommend_title">Recommended changes (%d)</string>
   <string name="protection_category_security_title">Clear (%d)</string>
-  <string name="recently_reject_message">Rejected installation of %1$s and %2$d other apps</string>
-  <string name="recently_reject_message_one">Rejected %1$s installation requests</string>
   <string name="reject_all">Restrict all</string>
-  <string name="reject_countdown">Deny (%d)</string>
-  <string name="reject_usb_install">Denied installation of the following apps via USB</string>
   <string name="risk_list_header_title">%d suspicious apps detected</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
@@ -571,14 +552,14 @@
   <string name="summary_flow_verify">"Haven't synced carrier's data usage stats in %d days"</string>
   <string name="summary_garbage_lib">Use the latest definitions to remove spyware, adware, and other unwanted garbage</string>
   <string name="summary_install_virus">Check apps for viruses before installation</string>
-  <string name="summary_live_talk_purchase">Save 70% on your calling charges</string>
+  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="summary_miui_update">Update available for %s.</string>
   <string name="summary_mms">Block SMS spam automatically</string>
   <string name="summary_network_switch">Allow Security app to connect to the internet</string>
   <string name="summary_never_flow_verify">"This number hasn't been verified with your carrier"</string>
   <string name="summary_permission">Avoid unwanted payments and protect personal data</string>
   <string name="summary_permission_root">Your device and personal data are more vulnerable to attack from apps that have root access</string>
-  <string name="summary_power_optimizer">"Reduce your device's performance when battery is low"</string>
+  <string name="summary_power_optimizer">"Reduce your device's performance"</string>
   <string name="summary_saving_switch">Restrict apps from using your mobile data connection to transfer data</string>
   <string name="summary_show_notification">"Pin Security Center's controls to the notification shade"</string>
   <string name="summary_telecom_operator">Get your monthly data usage stats from your carrier</string>
@@ -586,7 +567,6 @@
   <string name="summary_virus">Remove viruses to keep your device secure</string>
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
-  <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
   <string name="system_check_content">%1$d risks</string>
   <string name="system_check_content_none">Safe</string>
   <string name="system_header_title">Clear %1$d processes to free %2$s of memory</string>
@@ -608,7 +588,7 @@
   <string name="title_garbage_lib">Automatic updates</string>
   <string name="title_install_virus_no">Installation monitor off</string>
   <string name="title_install_virus_yes">Installation monitor on</string>
-  <string name="title_live_talk_purchase">Turn on Top-up package</string>
+  <string name="title_live_talk_purchase">Top up now</string>
   <string name="title_miui_update">Update available</string>
   <string name="title_mms_no">Message filter is off</string>
   <string name="title_mms_yes">Message filter is on</string>
@@ -627,7 +607,6 @@
   <string name="title_virus_update_no">Auto-update for virus definitions off</string>
   <string name="title_virus_update_yes">Auto-update for virus definitions on</string>
   <string name="title_virus_yes">No viruses found</string>
-  <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_cleaner_cloudscan">Cleaner will use online definitions</string>
   <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
   <string name="toast_flow_notification">Turned on data usage notifications</string>
@@ -654,6 +633,5 @@
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
-  <string name="usb_install_desc">Install this app via USB?</string>
   <string name="virus_list_header_title">%d viruses detected</string>
 </resources>

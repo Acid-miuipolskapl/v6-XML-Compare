@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic_cmcc">
-        <item>"This week "</item>
-        <item>"Today "</item>
-        <item>"This month "</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>"Yesterday "</item>
         <item>"Today "</item>
         <item>"This month "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"This week: "</item>
-        <item>"Today: "</item>
-        <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Yesterday: "</item>
@@ -62,7 +52,7 @@
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Show warning</item>
-        <item>Warn and turn off mobile data</item>
+        <item>Warn and turn mobile data off</item>
     </string-array>
     <string-array name="roaming_apps_sorted_type">
         <item>Most used</item>

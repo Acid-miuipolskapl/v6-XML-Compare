@@ -40,8 +40,8 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
-"&lt;li&gt;&lt;ul&gt;"Pan: Drag two or more fingers across the screen.
-"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"&lt;li&gt; &lt;ul&gt;"Pan: Drag two or more fingers across the screen.
+"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt;"
 
 You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
 
@@ -67,6 +67,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="account_list">Other accounts</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
+  <string name="activate_miui_screensaver">Screensaver during sleep</string>
   <string name="activating">Activating…</string>
   <string name="active_device_admin_msg">Device administrator</string>
   <string name="active_input_method_subtypes">Active input methods</string>
@@ -103,6 +104,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="agps_roaming_summary">Use mobile data to assist GPS while roaming</string>
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_title">Alarm</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Displaying screensaver consumes more power.</string>
+  <string name="alert_show_screensaver_when_not_charging_title">Battery usage</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Allow</string>
   <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
@@ -194,7 +197,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="applications_settings_summary">Manage apps, set up quick launch shortcuts</string>
   <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">Update</string>
-  <string name="apply_password_to_category_title">Require unlock</string>
+  <string name="apply_password_to_category_title">Require password</string>
   <string name="apply_update_fail">"Couldn't update"</string>
   <string name="apps_with_restrictions_header">Applications with restrictions</string>
   <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
@@ -207,12 +210,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="audio_record_proc_title">Noise cancellation</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
-  <string name="auto_disable_screenbuttons_ask">Ask to disable</string>
-  <string name="auto_disable_screenbuttons_auto">Always disable</string>
-  <string name="auto_disable_screenbuttons_cancel">Cancel</string>
-  <string name="auto_disable_screenbuttons_no">Never disable</string>
-  <string name="auto_disable_screenbuttons_summary">Automatically disable navigation buttons when using selected apps. Double tap any navigation button to re-enable.</string>
-  <string name="auto_disable_screenbuttons_title">Automatically disable navigation buttons</string>
   <string name="auto_launch_disable_text">No defaults set.</string>
   <string name="auto_launch_enable_text">"You've chosen to launch this app by default for some actions."</string>
   <string name="auto_launch_label">Launch by default</string>
@@ -309,7 +306,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_info_voltage_label">Battery voltage:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Battery level</string>
-  <string name="battery_light_title">Light up when charging</string>
+  <string name="battery_light_title">Battery light</string>
   <string name="battery_settings">Battery</string>
   <string name="battery_settings_title">Battery</string>
   <string name="battery_since_reset">Battery use since reset</string>
@@ -410,7 +407,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_hid_profile_summary_use_for">Use for input</string>
   <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
   <string name="bluetooth_is_discoverable">Visible to all nearby Bluetooth devices (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Make this device visible to all nearby Bluetooth devices</string>
+  <string name="bluetooth_is_discoverable_always">Visible to all nearby Bluetooth devices</string>
   <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
   <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s wants to access your messages. Give access to %2$s?</string>
@@ -502,9 +499,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
-  <string name="breathing_light_color_summary">Light color when receiving new notification</string>
+  <string name="breathing_light_color_summary">LED color when receiving new notification</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
-  <string name="breathing_light_freq_title">Notification light pulse frequency</string>
+  <string name="breathing_light_freq_title">LED flash frequency</string>
   <string name="brightness">Brightness</string>
   <string name="brightness_auto_adjust_off">Screen brightness will remain constant.</string>
   <string name="brightness_auto_adjust_on">Optimize brightness level for available light.</string>
@@ -520,7 +517,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
   <string name="button_disconnect_network">Disconnect from network</string>
-  <string name="button_light_timeout">Keep button lights on</string>
+  <string name="button_light_timeout">Button light duration</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="cache_header_label">Cache</string>
@@ -569,7 +566,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="cdma_security_settings_summary">Set My Location, screen unlock, credential storage lock</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display</string>
-  <string name="change_password">Change screen lock</string>
+  <string name="change_password">Change password</string>
   <string name="change_security_lock">Try other ways to unlock</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Check for updates</string>
@@ -746,10 +743,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
   <string name="data_usage_restrict_denied_dialog">"Restricting background data is possible only when you've set a mobile data limit."</string>
   <string name="data_usage_summary_title">Data usage</string>
-  <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;limit&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;warning&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit">" "&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limit&lt;/font&gt;" "</string>
+  <string name="data_usage_sweep_warning">" "&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;warning&lt;/font&gt;" "</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -884,11 +881,11 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dndm_auto_time_turn_on_title">Automatically turn on do not disturb</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
   <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when do not disturb is on.</string>
-  <string name="dndm_menu_add_vip_custom">Add</string>
+  <string name="dndm_menu_add_vip_custom">Add exception</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
   <string name="dndm_open">Do not disturb</string>
-  <string name="dndm_repeated_call_setting_title">Repeat callers</string>
+  <string name="dndm_repeated_call_setting_title">Repeated calls</string>
   <string name="dndm_repeated_call_summary_3min">Ring when receiving a second call from the same number within 3 minutes</string>
   <string name="dndm_repeated_call_summary_none">Silence repeated calls from the same number</string>
   <string name="dndm_special_call_setting_group">Exceptions</string>
@@ -900,11 +897,11 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dndm_vip_call_summary_contact">All</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
   <string name="dndm_vip_call_summary_none">Touch to configure</string>
-  <string name="dndm_vip_list_contact">All contacts</string>
+  <string name="dndm_vip_list_contact">All Contacts</string>
   <string name="dndm_vip_list_custom">Exceptions</string>
   <string name="dndm_vip_list_custom_group">Exceptions</string>
   <string name="dndm_vip_list_group">Exceptions list</string>
-  <string name="dndm_wristband">Activate with Mi Band</string>
+  <string name="dndm_wristband">Mi Band</string>
   <string name="dndm_wristband_detailed">"Turn on Do Not Disturb if Mi Band detects you're sleeping within an hour before scheduled start time"</string>
   <string name="dndm_wristband_detailed2">"Turn off Do Not Disturb if Mi Band detects you've woken up within an hour before scheduled end time"</string>
   <string name="do_not_disturb_mode">Do not disturb</string>
@@ -955,7 +952,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="drive_mode_sms_report">Messages</string>
   <string name="drive_mode_title">Car mode</string>
   <string name="drive_mode_voice_report">Text-to-speech output</string>
-  <string name="dtmf_tone_enable_title">Dial pad tones</string>
+  <string name="dtmf_tone_enable_title">Dial pad touch tones</string>
   <string name="emergency_tone_summary">Set behavior when an emergency call is placed</string>
   <string name="emergency_tone_title">Emergency tone</string>
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
@@ -997,7 +994,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
   <string name="every_day">Every day</string>
-  <string name="experience_optimization_category">User Experience Program</string>
+  <string name="experience_optimization_category">Optimization</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">SD card</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
@@ -1015,7 +1012,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_apps_running">Running</string>
   <string name="filter_apps_third_party">Downloaded</string>
   <string name="filter_dlg_title">Choose filter options</string>
-  <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
+  <string name="fingerprint_and_password_entrance_title">Password &amp; fingerprint</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
   <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
   <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
@@ -1050,7 +1047,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="force_stop">Force stop</string>
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
-  <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="forget_password_button_text">" "&lt;u&gt;Forgot password&lt;/u&gt;" "</string>
   <string name="forget_wifi_message">Your phone will stop connecting to this network automatically.</string>
   <string name="found_new_version">Update available</string>
   <string name="fp_nav_center_back_to_home_title">Tap Home button to go back to Home screen</string>
@@ -1166,7 +1163,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
   <string name="ims_reg_required_on">Turn on IMS registration required</string>
   <string name="incoming_call_breathing_light_color_title">Calls light color</string>
-  <string name="incoming_call_breathing_light_freq_title">Calls pulse frequency</string>
+  <string name="incoming_call_breathing_light_freq_title">Calls LED flash frequency</string>
   <string name="incoming_call_volume_title">Ringtone</string>
   <string name="information_dialog_button_text">Got it</string>
   <string name="input_method">Keyboard</string>
@@ -1250,7 +1247,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra small</string>
   <string name="led_colors_summary">Notifications</string>
-  <string name="led_frequence_summary">Set pulse interval</string>
+  <string name="led_frequence_summary">Set the interval between LED flashes</string>
   <string name="led_pulse_summary">Pulse notification light when new notification is received</string>
   <string name="led_settings">Notification light</string>
   <string name="legal_information">Legal information</string>
@@ -1343,7 +1340,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_title">Screen security</string>
   <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint reader</string>
   <string name="lock_setup">Setup is complete.</string>
-  <string name="lock_sounds_enable_title">Screen locking sounds</string>
+  <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>
   <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
   <string name="lockpassword_choose_your_password_header">Choose your password</string>
@@ -1435,10 +1432,10 @@ You are currently signed into the following accounts:
 
 "&lt;li&gt;Your Google account&lt;/li&gt;"
 "&lt;li&gt;System and app data and settings&lt;/li&gt;"
-"&lt;li&gt;Downloaded apps&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Music&lt;/li&gt;"
+"&lt;li&gt;Downloaded apps&lt;/li&gt;" "</string>
+  <string name="master_clear_desc_also_erases_external">" "&lt;li&gt;Music&lt;/li&gt;"
 "&lt;li&gt;Photos&lt;/li&gt;"
-"&lt;li&gt;Other user data&lt;/li&gt;</string>
+"&lt;li&gt;Other user data&lt;/li&gt;" "</string>
   <string name="master_clear_desc_erase_external_storage">"
 
 To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; needs to be erased.</string>
@@ -1496,7 +1493,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="menu_proc_stats_type_background">Background</string>
   <string name="menu_proc_stats_type_cached">Cached</string>
   <string name="menu_proc_stats_type_foreground">Foreground</string>
-  <string name="menu_restore">Reset</string>
+  <string name="menu_restore">Reset to default</string>
   <string name="menu_save">Save</string>
   <string name="menu_show_system">Show system</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
@@ -1507,8 +1504,14 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
+  <string name="miui_screensaver_show_time">Duration</string>
+  <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
+  <string name="miui_screensaver_state_off">Off</string>
+  <string name="miui_screensaver_state_on">On</string>
+  <string name="miui_screensaver_title">Screensaver</string>
+  <string name="miui_screensaver_usage">Screensaver begins 5 seconds after display turns off</string>
   <string name="mms_breathing_light_color_title">Messages light color</string>
-  <string name="mms_breathing_light_freq_title">Messages pulse frequency</string>
+  <string name="mms_breathing_light_freq_title">Messages LED flash frequency</string>
   <string name="mobile_connect_to_internet">Please connect to the internet</string>
   <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
   <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
@@ -1592,7 +1595,7 @@ Select your operating system:"</string>
   <string name="music_hifi_summary">Reduce noise and distortion and increase audio quality</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
-  <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
+  <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using headphones</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Music effects</string>
@@ -1640,7 +1643,7 @@ Select your operating system:"</string>
   <string name="normal_smartcover_title">Opaque front cover</string>
   <string name="not_installed">Not installed</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
-  <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
+  <string name="notification_breathing_light_freq_title">Notifications LED flash frequency</string>
   <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
   <string name="notification_listener_security_warning_title">Enable %1$s?</string>
   <string name="notification_pulse_title">Pulse notification light</string>
@@ -1663,6 +1666,7 @@ Select your operating system:"</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Online resources</string>
   <string name="only_one_home_message">Home settings will be hidden until you install another home application.</string>
+  <string name="only_when_charging">Only when plugged in</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
   <string name="open_wifi_connect_title">Connect to %1$s</string>
@@ -1725,7 +1729,7 @@ Select your operating system:"</string>
   <string name="page_layout_page2_title">Preview</string>
   <string name="page_layout_small_title">Extra small</string>
   <string name="passwordIncorrect">The password you entered is incorrect</string>
-  <string name="password_entrance_title">Screen lock</string>
+  <string name="password_entrance_title">Password</string>
   <string name="password_guard">Password</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performance</string>
@@ -1747,6 +1751,7 @@ Select your operating system:"</string>
   <string name="pico_not_installed">Not installed</string>
   <string name="pico_voice_summary_female">Female</string>
   <string name="pico_voice_summary_male">Male</string>
+  <string name="picture_source">Picture source</string>
   <string name="pin_failed">SIM PIN operation failed!</string>
   <string name="ping_test_label">Run ping test</string>
   <string name="please_select_phase2">Phase 2 authentication</string>
@@ -1775,6 +1780,8 @@ Select your operating system:"</string>
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery &amp; performance</string>
   <string name="power_wifi">WLAN</string>
+  <string name="powersave_mode_settings">Battery saver</string>
+  <string name="powersave_mode_settings_summary">Battery saver settings</string>
   <string name="pref_button_light">Button lights</string>
   <string name="pref_button_light_summary">Light up Menu, Home, and Back buttons</string>
   <string name="pref_edge_handgrip">Edge controls</string>
@@ -2150,7 +2157,7 @@ This setting affects all users on this phone."</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
   <string name="search_wifi_display">wifi display</string>
-  <string name="secure_keyguard_business_title">Set screen lock</string>
+  <string name="secure_keyguard_business_title">Lock screen password</string>
   <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
   <string name="security_enable_widgets_title">Enable widgets</string>
   <string name="security_keyguard_category_name">Lock screen</string>
@@ -2193,7 +2200,6 @@ This setting affects all users on this phone."</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
-  <string name="settings_forbidden_message">This setting is disabled</string>
   <string name="settings_label">Settings</string>
   <string name="settings_label_launcher">Settings</string>
   <string name="settings_license_activity_loading">Loading…</string>
@@ -2281,7 +2287,7 @@ Possibly incorrect PIN."</string>
   <string name="sms_received_sound_title">Message received</string>
   <string name="sort_order_alpha">Sort by name</string>
   <string name="sort_order_size">Sort by size</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; notification sounds</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Ringtone &amp; vibrate</string>
   <string name="sound_category_notification_title">Notifications</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">System</string>
@@ -2411,7 +2417,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="sync_menu_sync_now">Sync now</string>
   <string name="sync_one_time_sync">"Touch to sync now
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
+  <string name="sync_plug">" "&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
   <string name="sync_settings">Sync</string>
   <string name="sync_wifi_label">WLAN</string>
@@ -2520,11 +2526,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
   <string name="tts_status_title">Default language status</string>
-  <string name="turn_off_common_password_confirm_msg">Screen lock will be turned off as well.</string>
+  <string name="turn_off_common_password_confirm_msg">The password will be turned off as well.</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
-  <string name="turn_on_security_lock">Choose screen lock</string>
+  <string name="turn_on_security_lock">Add security password</string>
   <string name="under_keyguard">Lock screen</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_text">Uninstall</string>
@@ -2746,11 +2752,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="volume_notification_description">Notifications</string>
   <string name="volume_notification_mute">Mute notifications</string>
   <string name="volume_restore">Reset levels</string>
-  <string name="volume_restore_alert">Reset all volume levels to their default settings?</string>
+  <string name="volume_restore_alert">All volume levels will be reset.</string>
   <string name="volume_ring_description">Ringtone &amp; notifications</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
   <string name="volume_system_description">Camera, lock screen, and other system notifications</string>
-  <string name="volume_voice_description">In-call voice</string>
+  <string name="volume_voice_description">Voice</string>
   <string name="vpn_cancel">Cancel</string>
   <string name="vpn_configure">Configuration</string>
   <string name="vpn_connect">Connect</string>
@@ -2919,7 +2925,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_scan">Scan</string>
   <string name="wifi_menu_wfd">Wireless display</string>
   <string name="wifi_menu_wps_pbc">WPS Push Button</string>
-  <string name="wifi_menu_wps_pin">WPS PIN entry</string>
+  <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
   <string name="wifi_more">More</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
@@ -3110,7 +3116,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
-  <string name="wifi_wapi_cert_create_subdir">Create a folder</string>
+  <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
@@ -3120,7 +3126,7 @@ Phone setup can require significant network activity."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Couldn't create folder."</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">A folder with this name already exists.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Enter folder name</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI certificates</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">WAPI certificate management</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Enter user certificate name</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">User certificate format is incorrect.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Enter user certificate name</string>
@@ -3153,7 +3159,7 @@ Phone setup can require significant network activity."</string>
   <string name="wizard_next">Next</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
-  <string name="wps_connect_title">WPS push button</string>
+  <string name="wps_connect_title">Connect WPS</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

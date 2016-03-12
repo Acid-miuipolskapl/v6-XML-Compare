@@ -306,6 +306,7 @@
     <array name="config_autoBrightnessButtonBacklightValues" />
     <array name="config_autoBrightnessKeyboardBacklightValues" />
     <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
         <item>com.android.location.fused</item>
         <item>com.baidu.map.location</item>
     </string-array>
