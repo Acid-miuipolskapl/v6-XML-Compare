@@ -461,7 +461,7 @@ Reason: \"%s\""</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI : "</string>
   <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
@@ -576,7 +576,7 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID : "</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
@@ -688,6 +688,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
