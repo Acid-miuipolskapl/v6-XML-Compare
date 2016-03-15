@@ -83,6 +83,7 @@
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_change_background">Change background photo</string>
+  <string name="baby_album_needs_auto_backup_tip">baby album cannot disable autoBackup</string>
   <string name="baby_album_new_photo_remind">There are new photos in your baby album.</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -117,6 +118,7 @@
   <string name="by_sms">Text message</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Black &amp;White</string>
+  <string name="camera_needs_auto_backup_tip">Camera album have to be backuped</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Cancel baby wallpaper and reset default lock screen wallpaper?</string>
   <string name="cancel_hint">Operation canceled</string>
@@ -507,6 +509,8 @@
   <string name="click_download_gif">Click for downloading gif</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
+  <string name="cloud_guide_auto_backup_title">Choose albums to be backuped to MiCloud</string>
+  <string name="cloud_guide_welcome_title">MiCloud</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_settings">Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
@@ -589,6 +593,8 @@
   <string name="email_picker_title">Add shared Email</string>
   <string name="enable_cloud_for_sharing">You need turn on Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
+  <string name="enable_face_album_title">Sort by people</string>
+  <string name="enable_micloud_service">Start to use MiCloud</string>
   <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
@@ -651,6 +657,7 @@
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Free</string>
   <string name="gallery_setting">Settings</string>
+  <string name="gallery_sync_disable_toast">Gallery sync feature is not enabled</string>
   <string name="get_album_info_in_process">"Getting shared album's details…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -689,6 +696,7 @@
   <string name="input_baby_nick_name">Enter nickname</string>
   <string name="input_nickname_toast">"Enter baby's name"</string>
   <string name="input_or_select_a_name">Enter or select a name</string>
+  <string name="introduce">Backup photos and videos automatically</string>
   <string name="invalid_invition_url">Invalid invitation URL</string>
   <string name="invalid_recipient_message">The recipient names you entered are invalid</string>
   <string name="invite_send_sms_tip">Your carrier may charge for an SMS message used to send this invitation.</string>
@@ -737,6 +745,7 @@
   <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
   <string name="negative">Negative</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
+  <string name="next">Next</string>
   <string name="no">No</string>
   <string name="no_map_app">No app was found to handle this action</string>
   <string name="no_network_connected">No network detected</string>
@@ -899,6 +908,7 @@
   <string name="slideshow_interval_title">Show each slide for</string>
   <string name="slideshow_interval_value">%1$d seconds</string>
   <string name="slim_after_backuped_summary">Replace full-resolution photos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save a lot of local storage.</string>
+  <string name="slim_after_backuped_summary_with_size">Replace full-resolution photos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save %1$s.</string>
   <string name="slim_after_backuped_title">Optimize local storage after backuped</string>
   <string name="square">Square</string>
   <string name="start_to_use_face_albumset">Sort by people</string>
@@ -924,6 +934,7 @@
   <string name="title_set_name">Enter name</string>
   <string name="title_warn">Warning</string>
   <string name="to_count">%d total</string>
+  <string name="to_enable_gallery_sync_dialog_message">First please enable gallery sync feature</string>
   <string name="to_enable_sync_dialog_message">First please enable sync feature</string>
   <string name="to_enable_sync_dialog_positive_button_text">Go</string>
   <string name="to_enable_sync_dialog_title">Sync</string>
@@ -948,6 +959,7 @@
   <string name="view_queuing_status">Check status</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
+  <string name="welcome">Welcome to MiCloud</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="who_is_this">Who?</string>
   <string name="xiaomi_account_not_exists_toast">"Xiaomi account doesn't exists"</string>
