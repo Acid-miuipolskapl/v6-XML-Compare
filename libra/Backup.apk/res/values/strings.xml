@@ -270,8 +270,7 @@ Free up at least %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
-  <string name="trans_operate_new_phone_tips">"Scan QR code using new device
-Go to Settings &gt; Additional Settings &gt; Mi Mover
+  <string name="trans_operate_new_phone_tips">"Go to Settings &gt; Additional Settings &gt; Mi Mover
 Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
 2. Open the app and tap Start
@@ -296,7 +295,7 @@ Keep devices close to each other."</string>
   <string name="trans_restoring_no_items">Syncing items</string>
   <string name="trans_retry">Try again</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
-  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"%s available on the new device
 Select files again or free up storage"</string>

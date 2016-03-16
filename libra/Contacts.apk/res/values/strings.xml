@@ -1095,6 +1095,7 @@ To add a contact to your list of favorites:
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unable_get_device_id">Unable to get IMEI</string>
   <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
   <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
   <string name="unknown">Unknown</string>
