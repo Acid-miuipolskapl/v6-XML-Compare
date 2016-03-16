@@ -526,9 +526,9 @@
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">No match</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Are you sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This face will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These faces will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contact</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
