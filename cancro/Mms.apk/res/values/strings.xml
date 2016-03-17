@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Unstar selected messages?</string>
   <string name="bookmark_empty">No starred messages</string>
   <string name="bookmark_list_title">Starred</string>
+  <string name="call_sender">Call sender</string>
   <string name="cannot_add_picture_and_video">"Can't add video and picture to one slide."</string>
   <string name="cannot_add_slide_anymore">"Can't add more slides."</string>
   <string name="cannot_forward_drm_obj">"The DRM object included in the message can't be forwarded."</string>
@@ -518,6 +519,7 @@
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
+  <string name="show_sender">Show sender info</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>
   <string name="sim_card_cloud">%s (Mi Message)</string>
