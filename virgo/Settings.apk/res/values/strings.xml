@@ -3,7 +3,8 @@
   <string name="Accounts_settings_title">Accounts</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_title">Lock individual apps</string>
+  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
