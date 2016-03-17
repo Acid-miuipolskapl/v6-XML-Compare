@@ -3,7 +3,8 @@
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="about_settings">About pad</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_title">Lock individual apps</string>
+  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
   <string name="ac_set_apps_title">Choose apps to lock</string>
@@ -1468,7 +1469,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
-  <string name="lock_settings">Lock screen</string>
+  <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
@@ -2597,7 +2598,7 @@ A trusted credential installed on your device is making this possible."</string>
   <string name="status_bar_screen_key_home">Home button</string>
   <string name="status_bar_screen_key_menu">Menu button</string>
   <string name="status_bar_screen_key_recent_apps">Recent apps button</string>
-  <string name="status_bar_settings">Notifications</string>
+  <string name="status_bar_settings">Notifications &amp; status bar</string>
   <string name="status_bar_settings_advanced">Additional settings</string>
   <string name="status_bar_settings_all_app_display_loading">Just a sec…</string>
   <string name="status_bar_settings_basic_settings">Basic settings</string>
@@ -2784,13 +2785,13 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_calculating">Calculating...</string>
-  <string name="trans_calculating_app_sd_size">Calculating data size to be sent, %s scanned</string>
-  <string name="trans_calculating_base_size">"Calculating app's base size"</string>
+  <string name="trans_calculating">Calculating…</string>
+  <string name="trans_calculating_app_sd_size">Calculating file size, scanned %s</string>
+  <string name="trans_calculating_base_size">"Calculating apps' size"</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
-  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
-  <string name="trans_connect_failed_title">Connect failed</string>
+  <string name="trans_connect_failed_message">"Couldn't connect, reboot device or try again. Launch Mi Mover after reboot, or go to Settings &gt; Additional Settings &gt; Mi Mover, and tap [I'm a sender] on the other device."</string>
+  <string name="trans_connect_failed_title">"Couldn't connect"</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
@@ -2801,19 +2802,18 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_native_no_space">"This device has no enough space
-Please clean out at least %s"</string>
+  <string name="trans_native_no_space">"Not enough space available
+Free up at least %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
-  <string name="trans_operate_new_phone_tips">"Scan QR code using new device
-Go to Settings &gt; Additional Settings &gt; Mi Mover
+  <string name="trans_operate_new_phone_tips">"Go to Settings &gt; Additional Settings &gt; Mi Mover
 Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
-  <string name="trans_please_waiting">Please wait ...</string>
+  <string name="trans_please_waiting">Just a sec…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
@@ -2830,9 +2830,9 @@ Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
-  <string name="trans_retry">Retry</string>
+  <string name="trans_retry">Try again</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
-  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
   <string name="trans_select_data_no_space">"%s available on the new device
 Select files again or free up storage"</string>
@@ -2851,8 +2851,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
-  <string name="trans_start_failed_title">Start failed</string>
+  <string name="trans_start_failed_message">"Couldn't start, try again or reboot device."</string>
+  <string name="trans_start_failed_title">"Couldn't start"</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>
