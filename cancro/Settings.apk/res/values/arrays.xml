@@ -1683,12 +1683,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>4</item>
     </integer-array>
     <string-array name="alarm_repeat_type">
-        <item>Everyday</item>
+        <item>Every day</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Everyday</item>
+        <item>Every day</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
