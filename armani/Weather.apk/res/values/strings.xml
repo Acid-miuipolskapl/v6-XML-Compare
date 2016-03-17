@@ -34,7 +34,7 @@
   <string name="aqi_detail_pm25">PM2.5 : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_so2">SO&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt; : %1$s μg/m&lt;small&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/small&gt;</string>
   <string name="aqi_detail_subtitle">AQI : %1$s</string>
-  <string name="aqi_detail_title">Aqi Quality Index</string>
+  <string name="aqi_detail_title">Air Quality Index</string>
   <string name="aqi_short_desc">AQI %1$s</string>
   <string name="button_abandon">Abandon changes</string>
   <string name="button_allow">OK</string>
