@@ -106,6 +106,7 @@
   <string name="vernal_equinox">春分</string>
   <string name="vip_achievements">Achievements</string>
   <string name="vip_level">LV%d</string>
+  <string name="vip_login">Click to sign in</string>
   <string name="vip_not_login">Not signed in</string>
   <string name="vip_sign">Signature:</string>
   <string name="white_dews">白露</string>
