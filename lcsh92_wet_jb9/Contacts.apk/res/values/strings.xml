@@ -41,7 +41,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="back_view_description">Tap to go back</string>
+  <string name="back_view_description">Go back</string>
   <string name="batch_delete">Delete batch</string>
   <string name="blacklist">Block</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
@@ -125,7 +125,7 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="calls_voip_prompt">VOIP</string>
+  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
@@ -346,7 +346,7 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
-  <string name="dialer_menu_description">Tap to show dialer</string>
+  <string name="dialer_menu_description">Show dialer</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
   <string name="dialog_import">Import contacts</string>
@@ -461,13 +461,13 @@ Reason: \"%s\""</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI : "</string>
   <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
   <string name="import_contact_card_button">Import contact</string>
   <string name="import_failure_no_vcard_file">No vCard files found on SD card.</string>
-  <string name="import_from_onekey_migrate">Import with Transfer</string>
+  <string name="import_from_onekey_migrate">Import using Mi Mover</string>
   <string name="import_from_other_phone">Import from another phone</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
@@ -486,6 +486,7 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
   <string name="import_to_xiaomi_account_title">Import to Mi Account</string>
   <string name="import_vcard_description">Import contacts from your SD card</string>
+  <string name="import_vcard_dialog_message">Import vCard?</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
@@ -575,7 +576,7 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID : "</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
@@ -682,11 +683,12 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_notification_title_name">%1$s wants to exchange contact cards</string>
   <string name="miprofile_save_alertdialog_message">Your card will be sent to this contact automatically.</string>
   <string name="miprofile_save_alertdialog_title">Contact card received</string>
-  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people. Your contacts won't be able to see your profile video."</string>
+  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people."</string>
   <string name="miprofile_switch_on_alertdialog_message">Exchange contact cards to view updated profile photo.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
@@ -722,53 +724,53 @@ Reason: \"%s\""</string>
   <string name="noContacts">No contacts</string>
   <string name="noContactsHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
   <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SIM or SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SIM or SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)"</string>
   <string name="noContactsNoSimHelpText">"You don't have any contacts to display.
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
 
-To add contacts, touch "&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt; &lt;/b&gt;", then touch:
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
  
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Display options to change which contacts are visible
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"New contact to create a new contact from scratch
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;" 
-"&lt;b&gt; &lt;font fgcolor="#ffffffff"&gt; &lt;li&gt;"Import/Export to import contacts from your SD card
-"&lt;/li&gt; &lt;/font&gt; &lt;/b&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Accounts to add or set up an account with contacts you can sync to the phone
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Display options to change which contacts are visible
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"New contact to create a new contact from scratch
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Import/Export to import contacts from your SD card
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
   <string name="noContactsWithPhoneNumbers">No contacts with phone numbers</string>
   <string name="noFavoritesHelpText">"You don't have any favorites.
@@ -1002,8 +1004,6 @@ To add a contact to your list of favorites:
   <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
   <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
   <string name="sim_contact_existing">Contact already exists</string>
   <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">An error occurred</string>
@@ -1095,6 +1095,7 @@ To add a contact to your list of favorites:
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unable_get_device_id">Unable to get IMEI</string>
   <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
   <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
   <string name="unknown">Unknown</string>
@@ -1138,14 +1139,14 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_configure_voicemail">Set up your voicemail.</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
-  <string name="voip_audio_description">Tap to make VoIP call</string>
+  <string name="voip_audio_description">VoIP call</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Just a sec…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Tap to make VoIP video call</string>
+  <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>

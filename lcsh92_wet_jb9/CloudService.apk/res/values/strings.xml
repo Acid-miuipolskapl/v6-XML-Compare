@@ -40,8 +40,6 @@ Last backed up on %2$s"</string>
   <string name="cloud_back_up_summary">Back up when connected to WLAN</string>
   <string name="cloud_back_up_title">Back up device</string>
   <string name="cloud_backup_dialog_title">Back up with Mi Cloud</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_find_device">Find Device</string>
   <string name="cloud_restore_title">Restore from backup</string>
   <string name="cloud_space_upgrade_message">Tap to add %sGB to your cloud.</string>
@@ -264,11 +262,13 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
+  <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
   <string name="micloud_notif_title_depend_wifi">%d is waiting to sync</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>

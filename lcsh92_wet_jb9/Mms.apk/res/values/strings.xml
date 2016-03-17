@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Unstar selected messages?</string>
   <string name="bookmark_empty">No starred messages</string>
   <string name="bookmark_list_title">Starred</string>
+  <string name="call_sender">Call sender</string>
   <string name="cannot_add_picture_and_video">"Can't add video and picture to one slide."</string>
   <string name="cannot_add_slide_anymore">"Can't add more slides."</string>
   <string name="cannot_forward_drm_obj">"The DRM object included in the message can't be forwarded."</string>
@@ -159,8 +160,6 @@
   <string name="failed_to_add_media">"You can't add this %1$s to your message."</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialing numbers.</string>
-  <string name="feedback_description_hint">Write your feedback here</string>
-  <string name="feedback_submit">Send</string>
   <string name="festival">Greetings</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">This feature needs to connect to the internet to work normally.</string>
@@ -366,7 +365,6 @@
   <string name="pref_collapse_sp_messages_summary">Automatically group SMS notifications together</string>
   <string name="pref_edit_smsc_address">Short Message service center (SMSC)</string>
   <string name="pref_forward_title">Forward</string>
-  <string name="pref_key_mx_feedback">Feedback</string>
   <string name="pref_message_recovery_introduction_title">Recover messages</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
@@ -384,7 +382,6 @@
   <string name="pref_summary_mms_auto_retrieval">Download photos and videos in messages automatically</string>
   <string name="pref_summary_mms_read_reports">Show notification in conversation view when the recipient has downloaded MMS contents</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automatically download photos and videos in messages when roaming</string>
-  <string name="pref_summary_mx_feedback">Report bugs and send feedback</string>
   <string name="pref_summary_notification_body_enabled">Show messages on the lock screen and in the notification shade</string>
   <string name="pref_summary_notification_body_enabled_when_secure">"You can't preview messages in Guest mode"</string>
   <string name="pref_summary_off_system_mms_priority">Use third party apps to send and receive MMS</string>
@@ -444,7 +441,6 @@
   <string name="recipients_over_size">Too many recipients.</string>
   <string name="recording_failed">"Can't record"</string>
   <string name="red_package_btn">Open</string>
-  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
   <string name="refill_now">Top up now</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
@@ -519,6 +515,7 @@
   <string name="set">Set</string>
   <string name="share_img">Share</string>
   <string name="show_all_messages">Show all messages</string>
+  <string name="show_sender">Show sender info</string>
   <string name="sim_card1">SIM card 1</string>
   <string name="sim_card2">SIM card 2</string>
   <string name="sim_card_cloud">%s (Mi Message)</string>
@@ -580,7 +577,9 @@
   <string name="timed_message_to">to</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
-  <string name="title_date_type">Message timestamp</string>
+  <string name="title_recv_red_package">Get Red Package</string>
+  <string name="title_red_package">Getting rich and good luck</string>
+  <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Check SMS for verification codes</string>
   <string name="title_show_sms_template_in">Check SMS for OTP</string>
@@ -589,10 +588,6 @@
   <string name="to_count">%d recipients</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
-  <string name="toast_description_required">"Description can't be blank"</string>
-  <string name="toast_feedback_finish">"Your report will be sent when you're connected to WLAN"</string>
-  <string name="toast_feedback_max">"Can't send more than 3 reports a day"</string>
-  <string name="toast_feedback_start">Getting log data…</string>
   <string name="too_many_attachments">"Can't exceed %1$s attachments. Only the first %2$s will be added."</string>
   <string name="too_many_recipients">"Message has too many recipients (%1$s). You can't have more than %2$s recipients."</string>
   <string name="too_many_unsent_mms">"Can't send message right now. Too many unsent multimedia messages."</string>

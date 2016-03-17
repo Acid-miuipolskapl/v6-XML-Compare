@@ -8,16 +8,16 @@
     <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
     <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <string-array name="float_notification_whitelist">
-        <item>com.perm.kate.pro</item>
+        <item>cn.com.fetion</item>
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
-        <item>com.google.android.youtube</item>
-        <item>com.vkontakte.android</item>
-        <item>com.android.vending</item>
+        <item>com.tencent.qq</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.xiaomi.channel</item>
         <item>com.android.calendar</item>
         <item>com.android.phone</item>
         <item>com.android.mms</item>
-        <item>org.telegram.messenger</item>
+        <item>com.immomo.momo</item>
         <item>com.google.android.gm</item>
         <item>com.android.email</item>
         <item>android</item>
@@ -31,6 +31,8 @@
         <item>com.miui.networkassistant</item>
         <item>com.xiaomi.midrop</item>
         <item>com.miui.securitycenter</item>
+        <item>com.miui.player</item>
+        <item>com.android.cts.verifier</item>
     </string-array>
     <array name="boot_msg_text" />
     <array name="config_virtualKeyUpPattern" />
@@ -47,18 +49,15 @@
         <item>1.4</item>
     </string-array>
     <string-array name="organized_languages_international">
-        <item>be_BY</item>
-        <item>ru_RU</item>
-        <item>uk_UA</item>
-        <item>de_DE</item>
-        <item>en_GB</item>
-        <item>en_US</item>
-        <item>fr_FR</item>
         <item>in_ID</item>
         <item>ms_MY</item>
+        <item>de_DE</item>
         <item>en_IN</item>
+        <item>en_GB</item>
+        <item>en_US</item>
         <item>es_ES</item>
         <item>es_US</item>
+        <item>fr_FR</item>
         <item>it_IT</item>
         <item>lt_LT</item>
         <item>hu_HU</item>
@@ -67,8 +66,10 @@
         <item>vi_VN</item>
         <item>tr_TR</item>
         <item>mk_MK</item>
-        <item>mr_IN</item>
+        <item>ru_RU</item>
+        <item>uk_UA</item>
         <item>hi_IN</item>
+        <item>mr_IN</item>
         <item>bn_IN</item>
         <item>gu_IN</item>
         <item>pa_IN</item>
@@ -77,18 +78,21 @@
         <item>te_IN</item>
         <item>kn_IN</item>
         <item>ml_IN</item>
+        <item>ne_IN</item>
+        <item>or_IN</item>
+        <item>ur_IN</item>
         <item>th_TH</item>
         <item>my_MM</item>
+        <item>ar_EG</item>
+        <item>fa_IR</item>
+        <item>iw_IL</item>
         <item>ko_KR</item>
         <item>zh_CN</item>
         <item>zh_TW</item>
     </string-array>
     <string-array name="organized_languages_default">
-        <item>be_BY</item>
-        <item>ru_RU</item>
-        <item>uk_UA</item>
-        <item>de_DE</item>
-        <item>en_GB</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
         <item>en_US</item>
     </string-array>
 </resources>

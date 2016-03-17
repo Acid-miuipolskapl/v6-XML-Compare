@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="indices_car_wash">
-        <item>Suitable</item>
-        <item>Improper</item>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="indices_sport">
-        <item>Suitable</item>
-        <item>Improper</item>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
     </string-array>
-    <string-array name="indices_uv_level">
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
     </string-array>
-    <string-array name="update_check_interval_entries">
-        <item>5 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>2 hours</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
-        <item>Manual</item>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
         <item>Sunny</item>
@@ -52,6 +81,19 @@
         <item>Freezing rain</item>
         <item></item>
     </string-array>
+    <string-array name="indices_uv_level">
+        <item>Weak</item>
+        <item>Mid-range</item>
+        <item>Strong</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Suitable</item>
+        <item>Improper</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Suitable</item>
+        <item>Improper</item>
+    </string-array>
     <string-array name="wind_direction">
         <item>N</item>
         <item>NE</item>
@@ -76,23 +118,5 @@
         <item>%s</item>
         <item>%s</item>
         <item>%s</item>
-    </string-array>
-    <integer-array name="update_check_interval_values">
-        <item>300000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-        <item>7200000</item>
-        <item>21600000</item>
-        <item>43200000</item>
-        <item>86400000</item>
-        <item>604800000</item>
-    </integer-array>
-    <string-array name="weather_spider_entries">
-        <item>Xiaomi Accuweather</item>
-        <item>Xiaomi The Weather Channel</item>
-    </string-array>
-    <string-array name="weather_spider_values">
-        <item>xiaomi_accu</item>
-        <item>xiaomi_twc</item>
     </string-array>
 </resources>

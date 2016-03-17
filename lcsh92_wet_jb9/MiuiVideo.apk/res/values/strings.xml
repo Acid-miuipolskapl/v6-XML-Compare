@@ -100,7 +100,7 @@
   <string name="debug_mode_desc">Run app in debug mode and show video id in top-left corner</string>
   <string name="declaration">Terms of Service</string>
   <string name="declaration_allow">Agree</string>
-  <string name="declaration_content">"1. By using this application, you are agreeing to Sohu Video, iQiyi, and other content providers' "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Service&lt;/a&gt;".
+  <string name="declaration_content">"1. By using this application, you are agreeing to Sohu Video, iQiyi, and other content providers' "&lt;a href="file:///android_asset/terms.html"&gt;Terms of Service&lt;/a&gt;".
 2. Help improve this product by automatically sending diagnostic and usage data to Xiaomi.
 3. Our HD Vvideo plug-in will be installed automatically.
 4. This application needs to connect to the internet to work normally."</string>
@@ -260,6 +260,7 @@
   <string name="online_video">Online</string>
   <string name="online_video_oneweek">Less than 1 week ago</string>
   <string name="online_video_oneweek_ago">1 week ago</string>
+  <string name="open_in_browser">Open in Browser</string>
   <string name="operator_test">Operator test</string>
   <string name="operator_test_summary">Run app in Operator test mode</string>
   <string name="original_price">original price</string>
@@ -396,6 +397,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
   <string name="vp_VideoView_error_title">Unknown error</string>
+  <string name="vp_ad_skip">Skip</string>
   <string name="vp_adapt_height">Fit height</string>
   <string name="vp_adapt_width">Fit width</string>
   <string name="vp_app_download">Application download</string>

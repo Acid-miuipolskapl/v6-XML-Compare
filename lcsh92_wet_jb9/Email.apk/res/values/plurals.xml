@@ -36,36 +36,36 @@
         <item quantity="many">%d selected</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&lt;b> %1$d &lt;/b> archived.</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> archived.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> archived.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> archived.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&lt;b> %1$d &lt;/b> deleted.</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> deleted.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> deleted.</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> deleted.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Changed folders.</item>
         <item quantity="one">Changed folder.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&lt;b> %1$d &lt;/b> muted</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> muted.</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> muted</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muted.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&lt;b> %1$d &lt;/b> messages removed from 'important' folder"</item>
-        <item quantity="one">"&lt;b> %1$d &lt;/b> removed from 'important' folder"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" messages removed from 'important' folder"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" removed from 'important' folder"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&lt;b> %1$d &lt;/b> removed from 'spam' folder"</item>
-        <item quantity="one">"&lt;b> %1$d &lt;/b> removed from 'spam' folder"</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" removed from 'spam' folder"</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b>" removed from 'spam' folder"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&lt;b> %1$d &lt;/b> messages reported as spam</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> message reported as spam</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> messages reported as spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> message reported as spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&lt;b> %1$d &lt;/b> marked as spam</item>
-        <item quantity="one">&lt;b> %1$d &lt;/b> marked as spam</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> marked as spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> marked as spam</item>
     </plurals>
     <plurals name="draft">
         <item quantity="other">Drafts</item>
