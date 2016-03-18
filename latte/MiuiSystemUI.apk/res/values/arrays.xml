@@ -42,17 +42,17 @@
         <item>:</item>
     </string-array>
     <array name="duration_entryValues">
-        <item>@drawable/clock_0</item>
-        <item>@drawable/clock_1</item>
-        <item>@drawable/clock_2</item>
-        <item>@drawable/clock_3</item>
-        <item>@drawable/clock_4</item>
-        <item>@drawable/clock_5</item>
-        <item>@drawable/clock_6</item>
-        <item>@drawable/clock_7</item>
-        <item>@drawable/clock_8</item>
-        <item>@drawable/clock_9</item>
-        <item>@drawable/clock_colon</item>
+        <item>@drawable/time_0</item>
+        <item>@drawable/time_1</item>
+        <item>@drawable/time_2</item>
+        <item>@drawable/time_3</item>
+        <item>@drawable/time_4</item>
+        <item>@drawable/time_5</item>
+        <item>@drawable/time_6</item>
+        <item>@drawable/time_7</item>
+        <item>@drawable/time_8</item>
+        <item>@drawable/time_9</item>
+        <item>@drawable/time_dot</item>
     </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
@@ -89,5 +89,30 @@
     <string-array name="carrier_simple_name">
         <item>SMC HK</item>
         <item>SMC HK 3G</item>
+    </string-array>
+    <string-array name="mcc_mnc">
+        <item>40552</item>
+        <item>40498</item>
+        <item>40431</item>
+        <item>40490</item>
+        <item>40493</item>
+        <item>40492</item>
+        <item>40551</item>
+        <item>40553</item>
+        <item>40470</item>
+        <item>40556</item>
+        <item>40416</item>
+        <item>40410</item>
+        <item>40440</item>
+        <item>40449</item>
+        <item>40496</item>
+        <item>40403</item>
+        <item>40555</item>
+        <item>40495</item>
+        <item>40445</item>
+        <item>40402</item>
+        <item>40494</item>
+        <item>40554</item>
+        <item>40497</item>
     </string-array>
 </resources>

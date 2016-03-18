@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Data three bars.</string>
   <string name="accessibility_data_two_bars">Data two bars.</string>
   <string name="accessibility_home">Home</string>
+  <string name="accessibility_managed_profile">Work profile</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">No data.</string>
   <string name="accessibility_no_phone">No phone.</string>
@@ -44,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
+  <string name="account_info">Not logged in</string>
   <string name="activate_usb_message">To activate this feature, insert your SIM card.</string>
   <string name="activate_usb_title">Activate USB</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
@@ -84,7 +86,7 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="description_direction_left">Swipe left for %s.</string>
   <string name="description_direction_up">Swipe up for %s.</string>
   <string name="description_target_search">Search</string>
-  <string name="disable_notification_summary">"Hide apps' notifications"</string>
+  <string name="disable_notification_summary">Never show notifications from selected apps</string>
   <string name="disable_notification_title">Hide notifications</string>
   <string name="dismount_storage">No</string>
   <string name="dlg_confirm_kill_storage_users_text">If you turn on USB storage, some applications you are using will stop and may be unavailable until you turn off USB storage.</string>
@@ -112,15 +114,13 @@ If you re-enable data, you may be charged by the operator."</string>
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
-  <string name="headset_custom">Dismiss</string>
-  <string name="headset_info">Tap to view settings.</string>
-  <string name="headset_settings">Headphones connected</string>
   <string name="invalid_charger">"USB charging not supported.
 Use only the supplied charger."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">View</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">No service</string>
+  <string name="managed_profile_foreground_toast">"You're using your work profile"</string>
   <string name="mdb_entering">Starting…</string>
   <string name="mdb_restore_cancel">Cancel</string>
   <string name="mdb_restore_info1">"Restore your phone's data"</string>
@@ -135,6 +135,8 @@ Use only the supplied charger."</string>
   <string name="mount_storage">Yes</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications.</string>
+  <string name="notification_header_title">Notifications</string>
+  <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
   <string name="notification_otg_gamestick_out">Game controller disconnected</string>
   <string name="notification_otg_keyboard_in">Keyboard connected</string>
@@ -177,11 +179,14 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
-  <string name="status_bar_date_format">M/d E</string>
+  <string name="status_bar_date_format">"EEEE
+MMMM d"</string>
+  <string name="status_bar_date_format_12">"EEEE
+MMMM d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
+  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
   <string name="status_bar_network_flow_today">Today: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
