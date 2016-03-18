@@ -52,6 +52,10 @@
         <item quantity="other">%d photos</item>
         <item quantity="one">%d photo</item>
     </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d items | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to backup</item>
         <item quantity="one">1 photo waiting to backup</item>

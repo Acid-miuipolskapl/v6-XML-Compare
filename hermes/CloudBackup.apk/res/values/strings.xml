@@ -8,6 +8,7 @@
   <string name="back_up_task_unfinished">Not finished backing up</string>
   <string name="backing_up_to_micloud">Backing up…</string>
   <string name="backup_fail">"Couldn't back up​"</string>
+  <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
   <string name="backup_size">Size: %s</string>
   <string name="backup_success">Backed up successfully</string>
   <string name="backup_to_cloud">Back up app</string>
