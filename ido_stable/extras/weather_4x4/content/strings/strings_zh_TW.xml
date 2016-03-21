@@ -10,8 +10,7 @@
     <string name="aqi_dangerous">'重度汙染'</string>
     <string name="aqi_hazardous">'嚴重污染'</string>
     <string name="aqi_break">'爆表'</string>
-    <string name="weather_type_null">'暫無數據'</string>
-	<string name="weather_type_0">晴</string>
+    <string name="weather_type_0">晴</string>
     <string name="weather_type_1">多雲</string>
     <string name="weather_type_2">陰</string>
     <string name="weather_type_3">霧</string>

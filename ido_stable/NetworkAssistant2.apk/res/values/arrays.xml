@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="date_of_traffic_cmcc">
-        <item>"This week "</item>
-        <item>"Today "</item>
-        <item>"This month "</item>
-    </string-array>
     <string-array name="date_of_traffic">
         <item>"Yesterday "</item>
         <item>"Today "</item>
         <item>"This month "</item>
-    </string-array>
-    <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"This week: "</item>
-        <item>"Today: "</item>
-        <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>"Yesterday: "</item>

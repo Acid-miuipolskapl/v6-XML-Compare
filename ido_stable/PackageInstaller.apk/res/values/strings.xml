@@ -114,7 +114,7 @@ All existing user data will be saved."</string>
   <string name="uninstall_update_title">Uninstall this update?</string>
   <string name="uninstalling">Uninstalling…</string>
   <string name="unknown">Unknown</string>
-  <string name="unknown_apps_dlg_text">Your phone is set to block the installation of apps from unknown sources. You can turn this feature off in Settings.</string>
+  <string name="unknown_apps_dlg_text">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your device or loss of data that may result from using these apps. You can turn this notification off in Settings.</string>
   <string name="unknown_apps_dlg_text1">"Your phone is set to block the installation of apps from unknown sources. You can turn this feature off in "</string>
   <string name="unknown_apps_dlg_text2">\"Settings\"</string>
   <string name="unknown_apps_dlg_text3">.</string>
