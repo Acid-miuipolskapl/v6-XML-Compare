@@ -248,9 +248,9 @@
   <string name="total_num">%d items,</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_calculating">Calculating...</string>
-  <string name="trans_calculating_app_sd_size">Calculating data size: %s</string>
-  <string name="trans_calculating_base_size">Calculating data size</string>
+  <string name="trans_calculating">Calculating…</string>
+  <string name="trans_calculating_app_sd_size">Calculating file size, scanned %s</string>
+  <string name="trans_calculating_base_size">"Calculating apps' size"</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
   <string name="trans_connect_failed_message">"Couldn't connect, reboot device or try again. Launch Mi Mover after reboot, or go to Settings &gt; Additional Settings &gt; Mi Mover, and tap [I'm a sender] on the other device."</string>
@@ -265,8 +265,8 @@
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_native_no_space">"This device has no enough space
-Please clean out at least %s"</string>
+  <string name="trans_native_no_space">"Not enough space available
+Free up at least %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
@@ -276,7 +276,7 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
-  <string name="trans_please_waiting">Please wait ...</string>
+  <string name="trans_please_waiting">Just a sec…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>

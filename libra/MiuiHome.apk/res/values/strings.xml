@@ -55,11 +55,9 @@
   <string name="current_preview">Preview</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
-  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Games</string>
   <string name="default_folder_title_recommend">More Apps</string>
   <string name="default_folder_title_security">System</string>
-  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Delete</string>
