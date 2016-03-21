@@ -111,6 +111,7 @@
   <string name="delete_addon">Delete</string>
   <string name="delete_addon_content">Delete this item?</string>
   <string name="delete_with">Delete (%d)</string>
+  <string name="detail">Detail</string>
   <string name="detail_comment_empty">Empty</string>
   <string name="develop_version">Beta updates</string>
   <string name="development_setting">Developer settings</string>
@@ -291,6 +292,8 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
   <string name="receive_develop_summary">Receive updates for the beta version of this app</string>
+  <string name="receive_follow">New episode notifications</string>
+  <string name="receive_follow_summary">Receive notifications when new episode is available</string>
   <string name="receive_mipush">Content notifications</string>
   <string name="receive_mipush_summary">Receive notifications when new content is available</string>
   <string name="recentplay">Recently played</string>
@@ -339,6 +342,7 @@
   <string name="start_addon">start addon</string>
   <string name="storage_remain">"Available: "</string>
   <string name="storage_total">"Total space: "</string>
+  <string name="subscribe">Subscribe</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">App settings</string>
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>

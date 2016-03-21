@@ -77,7 +77,7 @@
   <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">Send bug report to Mi for analysis? This report may contain Personally Identifiable Information. Your report will be used to help fix this bug and will never be shared in any commercial context.</string>
   <string name="fc_dialog_jump_to_preview">View summary</string>
-  <string name="first_back_long_press_message">To set custom press &amp; hold actions for navigation buttons, go to Settings &gt; System &gt; Buttons</string>
+  <string name="first_back_long_press_message">To set custom press &amp; hold actions for navigation buttons, go to Settings &gt; Additional settings &gt; Buttons</string>
   <string name="fm_record_smaple_prefix_miui">FM recording</string>
   <string name="force_exit_message">Force closed %1$s</string>
   <string name="force_exit_skip_message">"Can't close %1$s because it's required by the system."</string>
