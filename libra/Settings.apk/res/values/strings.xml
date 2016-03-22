@@ -102,6 +102,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
   <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
   <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Change your finger position</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
