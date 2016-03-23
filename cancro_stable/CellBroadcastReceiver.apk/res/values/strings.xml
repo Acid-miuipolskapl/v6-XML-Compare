@@ -13,6 +13,7 @@
   <string name="category_etws_settings_title">ETWS settings</string>
   <string name="category_india_settings_title">Settings for India</string>
   <string name="cb_other_message_identifiers">Cell broadcast</string>
+  <string name="cell_broadcast_settings_not_available">Cell Broadcast settings are not available for this user</string>
   <string name="cmas_amber_alert">Child abduction (Amber alert)</string>
   <string name="cmas_category_cbrne">Chemical/Biological/Nuclear/Explosive</string>
   <string name="cmas_category_env">Environmental</string>
