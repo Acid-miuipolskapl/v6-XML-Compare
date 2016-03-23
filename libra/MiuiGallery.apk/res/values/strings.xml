@@ -46,7 +46,6 @@
   <string name="album_page_label">Album</string>
   <string name="album_quota_fulfiled">Too many albums. Delete some albums and try again.</string>
   <string name="album_screenshot_name">Screenshot</string>
-  <string name="album_setting_show_in_photo_tab_success">This album already in home page</string>
   <string name="album_share_exit_confirm">Exit this album?</string>
   <string name="album_share_kicked">%1$s is closed</string>
   <string name="album_share_stat_content">Invitations</string>
@@ -619,6 +618,8 @@
   <string name="expand_people">Show more people</string>
   <string name="face_album_detecting_tip">Just a sec…</string>
   <string name="face_album_empty">Empty</string>
+  <string name="face_album_empty_syncing">Syncing data</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Will Sync face data when device is connected to WLAN</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
@@ -786,6 +787,8 @@
   <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
   <string name="operation_unforce_top">Unstick</string>
   <string name="operation_unhide">Unhide</string>
+  <string name="orientation_lock_tip">Orientation locked</string>
+  <string name="orientation_unlock_tip">Auto-rotate opened</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_settings">Additional settings</string>
@@ -845,8 +848,6 @@
   <string name="relation_text_maternal_grandmother">Maternal Grandmother</string>
   <string name="relation_text_mother">Mother</string>
   <string name="relation_with_you">Choose a relationship</string>
-  <string name="remind_shows_in_photo_tab_summary">Show this album in home page?</string>
-  <string name="remind_shows_in_photo_tab_title">Album setting</string>
   <string name="remove_from_secret_fail">Remove from hidden album failed</string>
   <string name="remove_from_secret_failed_with_reason">"Can't be removed from hidden album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
@@ -890,6 +891,7 @@
   <string name="set_face_group_toast_msg_old_user">Hold a face, and tag this person (family, friends, classmates, etc.)</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
+  <string name="set_face_image">Set a new face</string>
   <string name="set_group">Set group</string>
   <string name="shadow">Shadows</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>

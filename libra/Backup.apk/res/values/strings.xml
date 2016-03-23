@@ -151,6 +151,8 @@
   <string name="notif_restore_complete_title">Restored successfully</string>
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
+  <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_sending_completed">Data sent successfully</string>
   <string name="page_loading">Just a sec…</string>
   <string name="progress_backup_hint">Backing up…</string>
   <string name="progress_restore_hint">Restoring…</string>
@@ -280,7 +282,9 @@ Tap [I'm a recipient] to create a QR code"</string>
   <string name="trans_please_waiting">Wait a moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Received %s, waiting to restore…</string>
   <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
   <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
@@ -330,6 +334,16 @@ and Mi Mover is on"</string>
   <string name="unknown_hint">Unknown</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">New version available!</string>
 </resources>
