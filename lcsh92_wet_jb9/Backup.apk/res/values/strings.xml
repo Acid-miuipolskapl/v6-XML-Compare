@@ -151,6 +151,8 @@
   <string name="notif_restore_complete_title">Restored successfully</string>
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
+  <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_sending_completed">Data sent successfully</string>
   <string name="page_loading">Just a sec…</string>
   <string name="progress_backup_hint">Backing up…</string>
   <string name="progress_restore_hint">Restoring…</string>
@@ -249,14 +251,15 @@
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_calculating">Calculating…</string>
-  <string name="trans_calculating_app_sd_size">Calculating file size, scanned %s</string>
-  <string name="trans_calculating_base_size">"Calculating apps' size"</string>
+  <string name="trans_calculating_app_sd_size">Calculating data size: %s</string>
+  <string name="trans_calculating_base_size">Calculating data size</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
-  <string name="trans_connect_failed_message">"Couldn't connect, reboot device or try again. Launch Mi Mover after reboot, or go to Settings &gt; Additional Settings &gt; Mi Mover, and tap [I'm a sender] on the other device."</string>
-  <string name="trans_connect_failed_title">"Couldn't connect"</string>
+  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
+  <string name="trans_connect_failed_title">Connect failed</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
+  <string name="trans_connection_failed">Device disconnected</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
   <string name="trans_detail_category_files">Files</string>
   <string name="trans_detail_category_sysdata">System data</string>
@@ -265,8 +268,8 @@
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_native_no_space">"Not enough space available
-Free up at least %s"</string>
+  <string name="trans_native_no_space">"Not enough space on this device.
+Clear at least %s."</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
@@ -276,15 +279,17 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
-  <string name="trans_please_waiting">Just a sec…</string>
+  <string name="trans_please_waiting">Wait a moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Received %s, waiting to restore…</string>
   <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
   <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving sdcard datas of %1$s, %2$s completed</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving %1$s SD card files, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending %1$s SD card files, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
@@ -293,12 +298,12 @@ Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
-  <string name="trans_retry">Try again</string>
+  <string name="trans_retry">Retry</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
-  <string name="trans_select_data_no_space">"%s available on the new device
-Select files again or free up storage"</string>
+  <string name="trans_select_data_no_space">"No enough spaces on new devices
+Select files again or free up %s storage on the new device"</string>
   <string name="trans_select_data_tips">"Select items to transfer
 Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
@@ -314,8 +319,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">"Couldn't start, try again or reboot device."</string>
-  <string name="trans_start_failed_title">"Couldn't start"</string>
+  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
+  <string name="trans_start_failed_title">Start failed</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>
@@ -329,6 +334,16 @@ and Mi Mover is on"</string>
   <string name="unknown_hint">Unknown</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">New version available!</string>
 </resources>
