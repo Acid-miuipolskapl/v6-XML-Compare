@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"Couldn't access SD card."</string>
+  <string name="access_sd_fail">"Couldn't access USB storage."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Front and rear camera switch</string>
@@ -70,7 +70,7 @@
   <string name="find_other_qrcode">QR code found</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_storage">Insert SD card before using camera</string>
-  <string name="not_enough_space">SD card is full</string>
+  <string name="not_enough_space">Internal storage is full</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="pano_dialog_panorama_failed">"Couldn't save panorama"</string>
   <string name="pano_dialog_title">Panorama</string>
@@ -442,7 +442,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
-  <string name="preparing_sd">Checking SD card…</string>
+  <string name="preparing_sd">Checking internal storage…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="see_qrcode_detals">View details</string>
   <string name="setting_top_text">Camera modes</string>
@@ -466,7 +466,7 @@
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
   <string name="snapshot_lower_than_video">Video snapshot resolution is lower than video size. Capping to Video size. Select a resolution higher or equal to the current video size.</string>
   <string name="snapshotsize_low_powermode">"Picture resolution isn't supported by your current power management settings. Video size snapshot will be used."</string>
-  <string name="spaceIsLow_content">SD card is running out of space</string>
+  <string name="spaceIsLow_content">USB storage is running out of space</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Tap to adjust exposure manually</string>
   <string name="tap_to_focus">Tap to focus</string>
