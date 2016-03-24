@@ -86,6 +86,7 @@
   <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
   <string name="confirm_unbind">Disconnect this account?</string>
   <string name="continue_action">Continue</string>
+  <string name="current_location_title">Current location</string>
   <string name="data_keep_in_device">Keep on this device</string>
   <string name="data_wipe_from_device">Delete from this device</string>
   <string name="delete_action">Delete</string>
@@ -118,6 +119,8 @@
   <string name="internet_statement_title">Terms of user</string>
   <string name="just_a_second">Just a sec…</string>
   <string name="loading_micloud_sync_data">Just a sec…</string>
+  <string name="locating_current_location">Locating</string>
+  <string name="location_service_not_working">Location service not working</string>
   <string name="logout_failed">"Can't sign out"</string>
   <string name="mi_account_dspt_provision">"Sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere. "</string>
   <string name="mi_account_identity_title">Verify your identity</string>
@@ -314,6 +317,7 @@ To activate your account, follow the
   <string name="security_question_notice_title">Bind Phone</string>
   <string name="security_question_prompt">"Security questions can be used when you change or reset your password.
 Make sure you remember the answers to these questions."</string>
+  <string name="select_location_title">Select your location</string>
   <string name="send_email_activate_message">Verification email sent</string>
   <string name="service_error">Service error</string>
   <string name="set_security_question_title">Set security questions</string>
