@@ -145,20 +145,20 @@
         <item quantity="many">Received %1$d files of WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d WeChat videos are about to expire</item>
-        <item quantity="zero">%1$d WeChat videos are about to expire</item>
-        <item quantity="one">%1$d WeChat video is about to expire</item>
-        <item quantity="two">%1$d WeChat videos are about to expire</item>
-        <item quantity="few">%1$d WeChat videos are about to expire</item>
-        <item quantity="many">%1$d WeChat videos are about to expire</item>
+        <item quantity="other">%1$d files of WeChat Video will expire</item>
+        <item quantity="zero">%1$d file of WeChat Video will expire</item>
+        <item quantity="one">%1$d file of WeChat Video will expire</item>
+        <item quantity="two">%1$d files of WeChat Video will expire</item>
+        <item quantity="few">%1$d files of WeChat Video will expire</item>
+        <item quantity="many">%1$d files of WeChat Video will expire</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
-        <item quantity="zero">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
-        <item quantity="one">"%1$d video in WeChat conversations is about to expire. Back it up to your device's internal storage?"</item>
-        <item quantity="two">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
-        <item quantity="few">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
-        <item quantity="many">"%1$d videos in WeChat conversations are about to expire. Back them up to your device's internal storage?"</item>
+        <item quantity="other">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="zero">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="one">%1$d file of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="two">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="few">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
+        <item quantity="many">%1$d files of WeChat temp video will be cleared, Do you need back up?</item>
     </plurals>
     <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d new WeChat stickers today</item>
@@ -167,13 +167,5 @@
         <item quantity="two">%1$d new WeChat stickers today</item>
         <item quantity="few">%1$d new WeChat stickers today</item>
         <item quantity="many">%1$d new WeChat stickers today</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Backed up %1$d WeChat videos.</item>
-        <item quantity="zero">Backed up %1$d WeChat videos.</item>
-        <item quantity="one">Backed up 1 WeChat video.</item>
-        <item quantity="two">Backed up %1$d WeChat videos.</item>
-        <item quantity="few">Backed up %1$d WeChat videos.</item>
-        <item quantity="many">Backed up %1$d WeChat videos.</item>
     </plurals>
 </resources>
