@@ -181,7 +181,7 @@
   <string name="event_hide_more">Hide</string>
   <string name="event_info_descrip">Desc\u0009\u0009\u0009</string>
   <string name="event_info_end">End\u0009\u0009\u0009</string>
-  <string name="event_info_from">from</string>
+  <string name="event_info_from">From</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
   <string name="event_info_reminders_label_1">Reminder</string>
@@ -193,7 +193,6 @@
   <string name="event_info_where">Where\u0009</string>
   <string name="event_lunar_month">月</string>
   <string name="event_show_more">More options</string>
-  <string name="event_subscirbe_detail_title">事件详情</string>
   <string name="event_title">Title</string>
   <string name="event_view">View event</string>
   <string name="every_weekday">Weekdays (Mon–Fri)</string>
@@ -431,7 +430,7 @@
   <string name="travel_item_reminder">Reminder</string>
   <string name="travel_item_reminder_overdue">Reminder</string>
   <string name="travel_item_trafic">Traffic</string>
-  <string name="travel_item_virtual_sim">Mi Virtual Sim</string>
+  <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
   <string name="travel_item_weather_forecast">Destination forecast</string>
   <string name="travel_item_weather_now">Destination weather</string>
   <string name="travel_load_failed">"Couldn't load"</string>
@@ -446,8 +445,8 @@
   <string name="user_notice_declaration_ignore">"Don't show again"</string>
   <string name="user_notice_message">"By using this product, you agree to Xiaomi's %1$s and %2$s. Some features require an internet connection, location, contact and sms access to work normally."</string>
   <string name="user_notice_title">User Notification</string>
-  <string name="user_notification">User notification</string>
-  <string name="user_notification_descrip">Show user notification every time you open Calendar</string>
+  <string name="user_notification">Notifications</string>
+  <string name="user_notification_descrip">Show notifications every time you open Calendar</string>
   <string name="view_all_matches">查看所有赛程</string>
   <string name="view_event_calendar_label">Calendar:</string>
   <string name="view_event_organizer_label">Organizer:</string>

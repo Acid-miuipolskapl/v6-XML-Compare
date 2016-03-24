@@ -6,7 +6,6 @@
   <string name="about_version_label">"Version "</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">About</string>
-  <string name="ad_countdown">%ss remaining</string>
   <string name="ad_moredetail">View details</string>
   <string name="add_favorite_success">Starred</string>
   <string name="add_more_addons">Add more addons</string>
@@ -111,6 +110,7 @@
   <string name="delete_addon">Delete</string>
   <string name="delete_addon_content">Delete this item?</string>
   <string name="delete_with">Delete (%d)</string>
+  <string name="detail">Detail</string>
   <string name="detail_comment_empty">Empty</string>
   <string name="develop_version">Beta updates</string>
   <string name="development_setting">Developer settings</string>
@@ -284,13 +284,14 @@
   <string name="positive_comment">Likes</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
-  <string name="prefix_countdown">"Ads remaining: "</string>
   <string name="priority_storage">Save to SD card</string>
   <string name="priority_storage_summary">Automatically save to external SD card if available</string>
   <string name="pulltorefresh">Pull to refresh</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
   <string name="receive_develop_summary">Receive updates for the beta version of this app</string>
+  <string name="receive_follow">New episode notifications</string>
+  <string name="receive_follow_summary">Receive notifications when new episode is available</string>
   <string name="receive_mipush">Content notifications</string>
   <string name="receive_mipush_summary">Receive notifications when new content is available</string>
   <string name="recentplay">Recently played</string>
@@ -339,6 +340,7 @@
   <string name="start_addon">start addon</string>
   <string name="storage_remain">"Available: "</string>
   <string name="storage_total">"Total space: "</string>
+  <string name="subscribe">Subscribe</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">App settings</string>
   <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
@@ -397,7 +399,10 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">"This type of file isn't supported."</string>
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
   <string name="vp_VideoView_error_title">Unknown error</string>
-  <string name="vp_ad_skip">Skip</string>
+  <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
+  <string name="vp_ad_countdown_s">%1$s</string>
+  <string name="vp_ad_skip">Skip AD</string>
+  <string name="vp_ad_skip_at">Skip AD after %1$d</string>
   <string name="vp_adapt_height">Fit height</string>
   <string name="vp_adapt_width">Fit width</string>
   <string name="vp_app_download">Application download</string>
