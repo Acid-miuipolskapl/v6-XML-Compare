@@ -13,6 +13,7 @@
   <string name="alter_message_delete">Delete?</string>
   <string name="alter_message_switch_mode">Switch modes?</string>
   <string name="alter_message_switch_mode_message">When you switch modes, your previous settings will no longer apply to this app.</string>
+  <string name="app_invisible_title">AppInvisible</string>
   <string name="app_list_title">Choose apps</string>
   <string name="app_list_total">%d apps</string>
   <string name="app_name">Battery saver</string>
