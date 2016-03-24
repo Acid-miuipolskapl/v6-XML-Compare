@@ -106,6 +106,7 @@ Make sure your finger covers the inner edge of the sensor"</string>
   <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
   <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
   <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Change your finger position</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
@@ -619,6 +620,14 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_unlock_turned_on">On</string>
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
+  <string name="bootloader">Fastboot mode</string>
+  <string name="bootloader_apply_step_1">Turn on Fastboot mode?</string>
+  <string name="bootloader_apply_step_2">When your device is in Fastboot mode and connected to the computer</string>
+  <string name="bootloader_apply_step_3">the data (e.g., passwords, messages) on the device may be accessed without your permission.</string>
+  <string name="bootloader_apply_step_4">It may lead to the disclosure or loss of the data, or even irrepairable hardware damage.</string>
+  <string name="bootloader_apply_step_5">Make sure you know how to use Fastboot mode before you turn it on.</string>
+  <string name="bootloader_apply_title">Important warning</string>
+  <string name="bootloader_summary">Flash your device via USB</string>
   <string name="breathing_light_color_menu_title">Light color</string>
   <string name="breathing_light_color_summary">Light color when receiving new notification</string>
   <string name="breathing_light_freq_summary">Pulse when you have new notifications</string>
@@ -648,8 +657,13 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Back</string>
   <string name="button_send">Send</string>
+  <string name="button_text_accept">Accept</string>
+  <string name="button_text_accept_timer">Accept(%d)</string>
   <string name="button_text_login">Sign in</string>
+  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step_timer">Next step(%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
+  <string name="button_text_reject">Reject</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Cached background process</string>
@@ -2081,6 +2095,8 @@ Select your operating system:"</string>
   <string name="notif_restore_complete_title">Restored successfully</string>
   <string name="notif_restore_content">Restoring user data</string>
   <string name="notif_restore_title">Restore data</string>
+  <string name="notif_trans_receiving_completed">Data received successfully</string>
+  <string name="notif_trans_sending_completed">Data sent successfully</string>
   <string name="notification_app_settings_button">Notification settings</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
   <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
@@ -3149,14 +3165,15 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_calculating">Calculating…</string>
-  <string name="trans_calculating_app_sd_size">Calculating file size, scanned %s</string>
-  <string name="trans_calculating_base_size">"Calculating apps' size"</string>
+  <string name="trans_calculating_app_sd_size">Calculating data size: %s</string>
+  <string name="trans_calculating_base_size">Calculating data size</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
-  <string name="trans_connect_failed_message">"Couldn't connect, reboot device or try again. Launch Mi Mover after reboot, or go to Settings &gt; Additional Settings &gt; Mi Mover, and tap [I'm a sender] on the other device."</string>
-  <string name="trans_connect_failed_title">"Couldn't connect"</string>
+  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
+  <string name="trans_connect_failed_title">Connect failed</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
+  <string name="trans_connection_failed">Device disconnected</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
   <string name="trans_detail_category_files">Files</string>
   <string name="trans_detail_category_sysdata">System data</string>
@@ -3165,8 +3182,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_native_no_space">"Not enough space available
-Free up at least %s"</string>
+  <string name="trans_native_no_space">"Not enough space on this device.
+Clear at least %s."</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Method A</string>
   <string name="trans_operate_func_two">Method B</string>
@@ -3176,15 +3193,17 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
-  <string name="trans_please_waiting">Just a sec…</string>
+  <string name="trans_please_waiting">Wait a moment…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
   <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Received %s, waiting to restore…</string>
   <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
   <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving sdcard datas of %1$s, %2$s completed</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving %1$s SD card files, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending %1$s SD card files, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
   <string name="trans_receiver_time_remained">"%s remaining.
@@ -3193,12 +3212,12 @@ Keep devices close to each other."</string>
   <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
-  <string name="trans_retry">Try again</string>
+  <string name="trans_retry">Retry</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
-  <string name="trans_select_data_no_space">"%s available on the new device
-Select files again or free up storage"</string>
+  <string name="trans_select_data_no_space">"No enough spaces on new devices
+Select files again or free up %s storage on the new device"</string>
   <string name="trans_select_data_tips">"Select items to transfer
 Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
@@ -3214,8 +3233,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">"Couldn't start, try again or reboot device."</string>
-  <string name="trans_start_failed_title">"Couldn't start"</string>
+  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
+  <string name="trans_start_failed_title">Start failed</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>
@@ -4029,7 +4048,12 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_money_service">Mi Credit</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_available_notif_summary">Tap to view more info.</string>
@@ -4037,6 +4061,11 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_router_notif_summary">Notify me when a Mi Router is available</string>
   <string name="xiaomi_router_notif_title">Mi Router notification</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">New version available!</string>
   <string name="yes">Yes</string>
   <string name="yes_all_caps">YES</string>
   <string name="zen_mode_alarm_info">Alarms are always priority interruptions</string>
