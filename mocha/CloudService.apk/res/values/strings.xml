@@ -2,7 +2,9 @@
 <resources>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
+  <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
   <string name="activate">Activate</string>
+  <string name="activate_finddevice">Connect to the network to activate device</string>
   <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
   <string name="activating">Activating…</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
@@ -47,8 +49,11 @@ Last backed up on %2$s"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="connect_network">Connect to WLAN or insert a SIM card</string>
+  <string name="connect_wlan">Connect to WLAN</string>
   <string name="contact">Contacts</string>
   <string name="deskclock_backup">Clocks Back up</string>
+  <string name="detect_sim_card">Search for SIM card again</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="disable_find_device_success">Find device is off.</string>
   <string name="enableAll">Sync all</string>
