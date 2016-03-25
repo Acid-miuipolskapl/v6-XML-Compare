@@ -14,6 +14,7 @@
   <string name="experimental_validate_username">Username</string>
   <string name="experimental_validate_warning">Thank you for helping make MIUI better!</string>
   <string name="find_device_turn_off_flight_mode">Turn off airplane mode</string>
+  <string name="fingerprint_lockout_msg">Wait a minute, then try unlocking with your fingerprint again</string>
   <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
   <string name="fingerprint_not_identified_title">Enter password</string>
   <string name="fingerprint_try_again_text">Try again</string>

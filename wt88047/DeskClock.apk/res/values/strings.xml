@@ -61,6 +61,8 @@
   <string name="label_pref_summary">Label this alarm clock</string>
   <string name="lap">Lap</string>
   <string name="lap_num">Lap</string>
+  <string name="legal_off_day">Legal off day</string>
+  <string name="legal_off_day_message">" (Alarm off during workdays)"</string>
   <string name="legal_workday">Legal workday</string>
   <string name="legal_workday_invalidate">Data expired (Alarm rings from Mon to Fri)</string>
   <string name="legal_workday_invalidate_message">(Data expired. Update in Settings)</string>
@@ -75,6 +77,7 @@
   <string name="minute">1 minute</string>
   <string name="minutes">%s minutes</string>
   <string name="never">Once</string>
+  <string name="oneshot_alarm">Delete after goes off</string>
   <string name="pause">Pause</string>
   <string name="remind_ringtone">Ringtone</string>
   <string name="reset">Reset</string>

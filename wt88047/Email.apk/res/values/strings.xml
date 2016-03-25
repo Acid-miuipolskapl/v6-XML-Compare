@@ -3,12 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Password</string>
   <string name="SMTP_username_text">Username</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
   <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
@@ -156,7 +150,7 @@
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
   <string name="add_pre_message_attachments_no">"Don't add"</string>
   <string name="add_pre_message_attachments_yes">Add</string>
-  <string name="add_star">Star</string>
+  <string name="add_star">Favorite</string>
   <string name="allread">Read all</string>
   <string name="always_bcc_myself">Always Bcc self</string>
   <string name="always_show_images">Always show pictures from this sender</string>
@@ -166,6 +160,7 @@
   <string name="archived">Archived</string>
   <string name="att_download_failed_content">"Couldn't download the attachment for this message."</string>
   <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
+  <string name="att_download_failed_permission_denied">"Don't have permissions to access external storage"</string>
   <string name="att_download_failed_title">"Can't download attachment"</string>
   <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
@@ -233,6 +228,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
   <string name="click_download_all_content">[ Tap to download content ]</string>
+  <string name="click_to_reload">Tap screen to refresh</string>
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="colon">:</string>
   <string name="compose">Compose</string>
@@ -341,6 +337,7 @@
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
+  <string name="download_whole_email">Download the reset of content</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -372,6 +369,8 @@
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Message</string>
   <string name="feedback_sent">Thank you for your feedback</string>
+  <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
+  <string name="feedback_user_edit_tag">From MIUI </string>
   <string name="fetching_attachment">Getting attachment</string>
   <string name="file_deleted_success">File deleted</string>
   <string name="file_not_found">"Couldn't find file"</string>
@@ -454,6 +453,18 @@
   <string name="hint_quick_reply_all">Reply all</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
+  <string name="info_actionbar_normal_detail">Details</string>
+  <string name="info_actionbar_subscribe">News feed</string>
+  <string name="info_item_from">From </string>
+  <string name="info_item_hide">Hide</string>
+  <string name="info_loading">Loading…</string>
+  <string name="info_name_title">NEWS</string>
+  <string name="info_no_message">No articles to view</string>
+  <string name="info_no_more_message">No more items to view</string>
+  <string name="info_switch_summary">View top news</string>
+  <string name="info_switch_title">Inbox news</string>
+  <string name="info_sync_error">"Couldn't sync, try again later."</string>
+  <string name="information_subscribe_first_intro">"Looks like you're using News feed for the first time. Tell us about your interests so we could personalize your news."</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
   <string name="input_password_prompt">Enter your password</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
@@ -479,12 +490,13 @@
   <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
   <string name="mail_header_network_not_available">"You don't have a network connection."</string>
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
+  <string name="mailbox_name_display_ad">Ads &amp; notifications</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Outbox</string>
   <string name="mailbox_name_display_sent">Sent</string>
-  <string name="mailbox_name_display_starred">Starred</string>
+  <string name="mailbox_name_display_starred">Favorited</string>
   <string name="mailbox_name_display_trash">Trash</string>
   <string name="mailbox_name_display_unread">Unread</string>
   <string name="mailbox_name_server_all_unread">Unread</string>
@@ -534,6 +546,7 @@
   <string name="menu_att_mgr_order_size">Sort by size</string>
   <string name="menu_change_folders">Move</string>
   <string name="menu_compose">Compose</string>
+  <string name="menu_discovery">Discover</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">Move to</string>
   <string name="menu_move_to_inbox">Move to Inbox</string>
@@ -567,8 +580,11 @@
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Mute</string>
+  <string name="net_check_title">"Couldn't connect to the network. Check settings and try again."</string>
   <string name="network_error">No connection</string>
   <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="network_try_again">Check network connection and try again</string>
+  <string name="network_unavailable">Network not available</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_messages">%1$d new messages</string>
   <string name="next_action">Next</string>
@@ -687,6 +703,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
+  <string name="pull_up_to_load_more">Pull up to load more</string>
   <string name="push_wps_better_confirm_download">Download</string>
   <string name="push_wps_better_confirm_exit">Not now</string>
   <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
@@ -753,7 +770,7 @@
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_folder">Remove from %1$s</string>
-  <string name="remove_star">Unstar</string>
+  <string name="remove_star">Unfavorite</string>
   <string name="reply">Reply</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Reply all</string>
@@ -791,6 +808,7 @@
   <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
+  <string name="selected_lable">Selected</string>
   <string name="send">Send</string>
   <string name="send_failed">"Message wasn't sent."</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
@@ -875,16 +893,17 @@
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
   <string name="unread_string">conversation unread</string>
+  <string name="unselected_lable">More</string>
   <string name="unsent_messages_in_outbox">%1$s unsent in %2$s</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Refreshed at %1$s</string>
   <string name="upload_log">Upload logs</string>
-  <string name="upload_log_failed">"Couldn't sent logs"</string>
+  <string name="upload_log_failed">"Couldn't send logs"</string>
   <string name="upload_log_no">Cancel</string>
-  <string name="upload_log_success">Logs sent successfully</string>
-  <string name="upload_log_title">Send log to Xiaomi</string>
-  <string name="upload_log_yes">Upload</string>
+  <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
+  <string name="upload_log_title">Send logs to help us improve WPS Mail</string>
+  <string name="upload_log_yes">Send</string>
   <string name="uploading_logs">Just a sec…</string>
   <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
   <string name="veiled_address"/>
@@ -903,6 +922,7 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
+  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Send log using mobile data connection? If you go over your plan’s data limit, your carrier could charge you additional fees.</string>
   <string name="zip_viewer_no_file">No files.</string>
 </resources>

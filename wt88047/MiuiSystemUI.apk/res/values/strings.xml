@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
   <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
+  <string name="account_info">Not logged in</string>
   <string name="activate_usb_message">To activate this feature, insert your SIM card.</string>
   <string name="activate_usb_title">Activate USB</string>
   <string name="always_use_accessory">Use by default for this USB accessory</string>
@@ -134,6 +135,8 @@ Use only the supplied charger."</string>
   <string name="mount_storage">Yes</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">No notifications.</string>
+  <string name="notification_header_title">Notifications</string>
+  <string name="notification_hidden_text">Contents hidden</string>
   <string name="notification_otg_gamestick_in">Game controller connected</string>
   <string name="notification_otg_gamestick_out">Game controller disconnected</string>
   <string name="notification_otg_keyboard_in">Keyboard connected</string>
@@ -176,11 +179,14 @@ Use only the supplied charger."</string>
   <string name="settings_toggle_position_divider_page">%1$d toggles above this bar are active</string>
   <string name="settings_toggle_position_reset">Reset toggles</string>
   <string name="share">Share</string>
-  <string name="status_bar_date_format">M/d E</string>
+  <string name="status_bar_date_format">"EEEE
+MMMM d"</string>
+  <string name="status_bar_date_format_12">"EEEE
+MMMM d"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
+  <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
   <string name="status_bar_network_flow_today">Today: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
