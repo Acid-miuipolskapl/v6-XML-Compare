@@ -332,6 +332,9 @@ and Mi Mover is on"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" items"</string>
   <string name="unknown_hint">Unknown</string>
+  <string name="user_notice_declaration_ignore">"Don't show again"</string>
+  <string name="user_notice_message">Some features require an internet connection access to work normally.</string>
+  <string name="user_notice_title">User Notification</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
