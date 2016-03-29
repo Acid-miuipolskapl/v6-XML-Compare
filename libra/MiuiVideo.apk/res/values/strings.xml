@@ -400,7 +400,7 @@
   <string name="vp_VideoView_error_text_unknown">An unknown error occurred.</string>
   <string name="vp_VideoView_error_title">Unknown error</string>
   <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
-  <string name="vp_ad_countdown_s">AD %1$s</string>
+  <string name="vp_ad_countdown_s">%1$s</string>
   <string name="vp_ad_skip">Skip AD</string>
   <string name="vp_ad_skip_at">Skip AD after %1$d</string>
   <string name="vp_adapt_height">Fit height</string>
