@@ -94,6 +94,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_device_admin_msg">Activate device administrator?</string>
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
+  <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the fingerprint reader.
 Make sure your finger covers the inner edge of the sensor"</string>
