@@ -310,6 +310,9 @@ only in frame mode"</string>
   <string name="fm_test">FM</string>
   <string name="fmtestFail">FM Test Failed!</string>
   <string name="fmtestPass">FM Test Passed!</string>
+  <string name="fptest">FPTest</string>
+  <string name="fptestFail">FPTest Fail!</string>
+  <string name="fptestPass">FPTest Pass!</string>
   <string name="frame_mod_info">frame</string>
   <string name="freq">Channel:</string>
   <string name="freq_add">Add frequence</string>
@@ -336,8 +339,10 @@ only in frame mode"</string>
   <string name="gyroscope_hint">Please rotate cube</string>
   <string name="hallsensorinfo">Hall Sensor test...</string>
   <string name="halltest_ok">Test Success!</string>
+  <string name="hand_autommi">HandTest</string>
   <string name="hand_test">CIT Test 1</string>
   <string name="hand_test2">CIT Test 2</string>
+  <string name="handreporttitle">HandTest Reports</string>
   <string name="hardver">Hardware version:</string>
   <string name="hardware_test">Hardware Test</string>
   <string name="hardware_version">Hardware Version:</string>

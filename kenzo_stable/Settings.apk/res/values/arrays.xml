@@ -76,12 +76,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>Huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>small</item>
@@ -1485,6 +1484,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1440</item>
         <item>720</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
@@ -1588,16 +1595,19 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>keyguard</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
+        <item>com_miui_applicatinlock_use_fingerprint_state</item>
     </string-array>
     <string-array name="common_password_business_clickable_default">
         <item>true</item>
         <item>true</item>
         <item>false</item>
+        <item>true</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Lock screen</item>
         <item>Child mode</item>
         <item>File Explorer</item>
+        <item>App lock</item>
     </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>1</item>
@@ -1618,5 +1628,23 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Everyday</item>
         <item>Weekdays</item>
         <item>Custom</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
+        <item>UY</item>
+        <item>VE</item>
     </string-array>
 </resources>

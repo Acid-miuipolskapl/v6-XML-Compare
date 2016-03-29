@@ -4,6 +4,7 @@
   <string name="accessibility_call_muted">Call muted.</string>
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
   <string name="add_vm_number_str">Add number</string>
+  <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
   <string name="default_connection_manager_component"/>
   <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
@@ -18,6 +19,7 @@
   <string name="notification_missedCallTicker">Missed call from %s</string>
   <string name="notification_missedCallTitle">Missed call</string>
   <string name="notification_missedCall_call_back">Call back</string>
+  <string name="notification_missedCall_call_back_miui">Call</string>
   <string name="notification_missedCall_message">Message</string>
   <string name="notification_missedCallsMsg">%s missed calls</string>
   <string name="notification_missedCallsTitle">Missed calls</string>

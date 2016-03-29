@@ -115,9 +115,8 @@
   <string name="jeejen_end_call_text">End call</string>
   <string name="jeejen_reject_call_text">Reject call</string>
   <string name="jeejen_toggle_dialpad_text">Dialpad</string>
-  <string name="livetalk_left_minute">%s min left</string>
-  <string name="livetalk_provider_info">Provided by %s</string>
-  <string name="livetalk_waiting">Waiting…</string>
+  <string name="livetalk_dial">Topping up</string>
+  <string name="livetalk_left_minute">%sm remaining</string>
   <string name="manageConferenceLabel">Manage conference call</string>
   <string name="miprofile_stranger_card">Stranger card</string>
   <string name="modify_call_failure_str">"Modify Call request failed
@@ -175,6 +174,7 @@
   <string name="picking_participant">Getting contact info…</string>
   <string name="private_num">Private number</string>
   <string name="respond_via_sms_custom_message">Write your own...</string>
+  <string name="select_sim_hint">"Can't use SIM %2$d, while SIM %1$d is in use."</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="separate_from_conference">Separate call</string>
   <string name="suspect_info">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>

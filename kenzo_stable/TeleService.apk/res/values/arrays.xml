@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="wifi_calling_preference_choices">
+        <item>@string/wifi_preferred</item>
+        <item>@string/wifi_only</item>
+        <item>@string/cellular_preferred</item>
+        <item>@string/cellular_only</item>
+    </string-array>
+    <string-array name="wifi_calling_preference_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -203,7 +215,7 @@
         <item>Show number</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>@string/APKTOOL_DUMMY_04db</item>
+        <item>@string/APKTOOL_DUMMY_0579</item>
         <item>@string/preferred_network_mode_td_scdma_lte_gsm_wcdma_cdma_evdo_choice</item>
         <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_cdma_evdo_choice</item>
         <item>@string/preferred_network_mode_td_scdma_gsm_wcdma_lte_choice</item>
@@ -359,17 +371,5 @@
         <item>china_mobile</item>
         <item>china_unicom</item>
         <item>china_telecom</item>
-    </string-array>
-    <string-array name="wifi_calling_preference_choices">
-        <item>@string/wifi_preferred</item>
-        <item>@string/wifi_only</item>
-        <item>@string/cellular_preferred</item>
-        <item>@string/cellular_only</item>
-    </string-array>
-    <string-array name="wifi_calling_preference_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
 </resources>
