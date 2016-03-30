@@ -1,34 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_33">false</string>
-  <string name="APKTOOL_DUMMY_34">false</string>
-  <string name="APKTOOL_DUMMY_35">false</string>
-  <string name="APKTOOL_DUMMY_36">false</string>
-  <string name="APKTOOL_DUMMY_37">false</string>
-  <string name="APKTOOL_DUMMY_38">false</string>
-  <string name="APKTOOL_DUMMY_39">false</string>
-  <string name="APKTOOL_DUMMY_3a">false</string>
-  <string name="APKTOOL_DUMMY_3b">false</string>
-  <string name="APKTOOL_DUMMY_3c">false</string>
-  <string name="APKTOOL_DUMMY_3d">false</string>
-  <string name="APKTOOL_DUMMY_3e">false</string>
-  <string name="APKTOOL_DUMMY_3f">false</string>
-  <string name="APKTOOL_DUMMY_40">false</string>
-  <string name="APKTOOL_DUMMY_41">false</string>
-  <string name="APKTOOL_DUMMY_42">false</string>
-  <string name="APKTOOL_DUMMY_43">false</string>
-  <string name="APKTOOL_DUMMY_44">false</string>
-  <string name="APKTOOL_DUMMY_45">false</string>
-  <string name="APKTOOL_DUMMY_46">false</string>
-  <string name="APKTOOL_DUMMY_47">false</string>
-  <string name="APKTOOL_DUMMY_48">false</string>
-  <string name="APKTOOL_DUMMY_49">false</string>
-  <string name="APKTOOL_DUMMY_4a">false</string>
-  <string name="APKTOOL_DUMMY_4b">false</string>
-  <string name="APKTOOL_DUMMY_4c">false</string>
-  <string name="APKTOOL_DUMMY_4d">false</string>
-  <string name="APKTOOL_DUMMY_4e">false</string>
-  <string name="APKTOOL_DUMMY_4f">false</string>
   <string name="accept">Connect</string>
   <string name="address">Address:</string>
   <string name="allow_check_website_security">Verify website security</string>

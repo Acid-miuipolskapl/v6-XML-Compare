@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_295">false</string>
-  <string name="APKTOOL_DUMMY_296">false</string>
-  <string name="APKTOOL_DUMMY_297">false</string>
-  <string name="APKTOOL_DUMMY_298">false</string>
-  <string name="APKTOOL_DUMMY_299">false</string>
-  <string name="APKTOOL_DUMMY_29a">false</string>
-  <string name="APKTOOL_DUMMY_29b">false</string>
-  <string name="APKTOOL_DUMMY_29c">false</string>
-  <string name="APKTOOL_DUMMY_29d">false</string>
-  <string name="APKTOOL_DUMMY_29e">false</string>
-  <string name="APKTOOL_DUMMY_29f">false</string>
-  <string name="APKTOOL_DUMMY_2a0">false</string>
-  <string name="APKTOOL_DUMMY_2a1">false</string>
-  <string name="APKTOOL_DUMMY_2a2">false</string>
-  <string name="APKTOOL_DUMMY_2a3">false</string>
   <string name="account_bind_prompt">Moving user data… This may take a few minutes.</string>
   <string name="action_mode_deselect_all">Deselect all</string>
   <string name="action_mode_select_all">Select all</string>

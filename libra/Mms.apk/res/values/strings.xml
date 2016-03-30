@@ -1,23 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_275">false</string>
-  <string name="APKTOOL_DUMMY_276">false</string>
-  <string name="APKTOOL_DUMMY_277">false</string>
-  <string name="APKTOOL_DUMMY_278">false</string>
-  <string name="APKTOOL_DUMMY_279">false</string>
-  <string name="APKTOOL_DUMMY_27a">false</string>
-  <string name="APKTOOL_DUMMY_27b">false</string>
-  <string name="APKTOOL_DUMMY_27c">false</string>
-  <string name="APKTOOL_DUMMY_27d">false</string>
-  <string name="APKTOOL_DUMMY_27e">false</string>
-  <string name="APKTOOL_DUMMY_27f">false</string>
-  <string name="APKTOOL_DUMMY_280">false</string>
-  <string name="APKTOOL_DUMMY_281">false</string>
-  <string name="APKTOOL_DUMMY_282">false</string>
-  <string name="APKTOOL_DUMMY_283">false</string>
-  <string name="APKTOOL_DUMMY_284">false</string>
-  <string name="APKTOOL_DUMMY_285">false</string>
-  <string name="APKTOOL_DUMMY_286">false</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>

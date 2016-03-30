@@ -1,18 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_27">false</string>
-  <string name="APKTOOL_DUMMY_28">false</string>
-  <string name="APKTOOL_DUMMY_29">false</string>
-  <string name="APKTOOL_DUMMY_2a">false</string>
-  <string name="APKTOOL_DUMMY_2b">false</string>
-  <string name="APKTOOL_DUMMY_2c">false</string>
-  <string name="APKTOOL_DUMMY_2d">false</string>
-  <string name="APKTOOL_DUMMY_2e">false</string>
-  <string name="APKTOOL_DUMMY_2f">false</string>
-  <string name="APKTOOL_DUMMY_30">false</string>
-  <string name="APKTOOL_DUMMY_31">false</string>
-  <string name="APKTOOL_DUMMY_32">false</string>
-  <string name="APKTOOL_DUMMY_33">false</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
   <string name="alwaysUsePrompt">Remember my choice</string>
