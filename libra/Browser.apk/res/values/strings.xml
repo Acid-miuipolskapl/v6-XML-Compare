@@ -386,7 +386,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_reload">Refresh</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
-  <string name="miuichromium_error_page_title">An error occured！</string>
+  <string name="miuichromium_error_page_title">An error occured</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
   <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
@@ -767,7 +767,7 @@ Leave this page?"</string>
   <string name="video_group_noupdates_list">No updates available</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">No history</string>
-  <string name="video_play_error">Video Play Error</string>
+  <string name="video_play_error">"Couldn't play video"</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
