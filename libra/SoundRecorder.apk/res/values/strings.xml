@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_5a">false</string>
+  <string name="APKTOOL_DUMMY_5b">false</string>
+  <string name="APKTOOL_DUMMY_5c">false</string>
+  <string name="APKTOOL_DUMMY_5d">false</string>
+  <string name="APKTOOL_DUMMY_5e">false</string>
+  <string name="APKTOOL_DUMMY_5f">false</string>
+  <string name="APKTOOL_DUMMY_60">false</string>
+  <string name="APKTOOL_DUMMY_61">false</string>
+  <string name="APKTOOL_DUMMY_62">false</string>
+  <string name="APKTOOL_DUMMY_63">false</string>
+  <string name="APKTOOL_DUMMY_64">false</string>
+  <string name="APKTOOL_DUMMY_65">false</string>
+  <string name="APKTOOL_DUMMY_66">false</string>
+  <string name="APKTOOL_DUMMY_67">false</string>
+  <string name="APKTOOL_DUMMY_68">false</string>
+  <string name="APKTOOL_DUMMY_69">false</string>
+  <string name="APKTOOL_DUMMY_6a">false</string>
+  <string name="APKTOOL_DUMMY_6b">false</string>
+  <string name="APKTOOL_DUMMY_6c">false</string>
+  <string name="APKTOOL_DUMMY_6d">false</string>
+  <string name="APKTOOL_DUMMY_6e">false</string>
+  <string name="APKTOOL_DUMMY_6f">false</string>
+  <string name="APKTOOL_DUMMY_70">false</string>
+  <string name="APKTOOL_DUMMY_71">false</string>
+  <string name="APKTOOL_DUMMY_72">false</string>
+  <string name="APKTOOL_DUMMY_73">false</string>
+  <string name="APKTOOL_DUMMY_74">false</string>
+  <string name="APKTOOL_DUMMY_75">false</string>
+  <string name="APKTOOL_DUMMY_76">false</string>
+  <string name="APKTOOL_DUMMY_77">false</string>
   <string name="alert_message_delete_record">Delete selected recordings?</string>
   <string name="alert_message_delete_record_title">Delete recording?</string>
   <string name="app_name">Recorder</string>

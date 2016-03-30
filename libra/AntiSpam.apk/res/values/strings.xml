@@ -17,6 +17,15 @@
   <string name="AD_TITLE_COUNT">%d apps contains adware</string>
   <string name="AD_TITLE_NON_COUNT">No adware detected</string>
   <string name="AD_Unistall">Uninstall</string>
+  <string name="APKTOOL_DUMMY_163">false</string>
+  <string name="APKTOOL_DUMMY_164">false</string>
+  <string name="APKTOOL_DUMMY_165">false</string>
+  <string name="APKTOOL_DUMMY_166">false</string>
+  <string name="APKTOOL_DUMMY_167">false</string>
+  <string name="APKTOOL_DUMMY_168">false</string>
+  <string name="APKTOOL_DUMMY_169">false</string>
+  <string name="APKTOOL_DUMMY_16a">false</string>
+  <string name="APKTOOL_DUMMY_16b">false</string>
   <string name="Call_ADRESS">Locale blocklist</string>
   <string name="Call_BLACKLIST">Call blocklist</string>
   <string name="Call_DEFAULT">Smart blocklist</string>

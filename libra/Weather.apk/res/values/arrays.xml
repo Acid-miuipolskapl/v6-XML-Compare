@@ -119,4 +119,5 @@
         <item>%s</item>
         <item>%s</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_a">false</item>
 </resources>

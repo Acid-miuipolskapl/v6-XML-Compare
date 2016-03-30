@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_60">false</string>
   <string name="alert_reminder_interval_summary"/>
   <string name="alert_reminder_interval_title">Alert reminder</string>
   <string name="alert_sound_duration_summary"/>

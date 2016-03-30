@@ -1661,4 +1661,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_6d">false</item>
+    <item type="array" name="APKTOOL_DUMMY_6e">false</item>
+    <item type="array" name="APKTOOL_DUMMY_6f">false</item>
+    <item type="array" name="APKTOOL_DUMMY_ea">false</item>
+    <item type="array" name="APKTOOL_DUMMY_eb">false</item>
 </resources>

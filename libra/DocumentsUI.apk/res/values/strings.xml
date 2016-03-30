@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_25">false</string>
+  <string name="APKTOOL_DUMMY_26">false</string>
+  <string name="APKTOOL_DUMMY_27">false</string>
   <string name="app_label">Documents</string>
   <string name="create_error">Failed to create folder</string>
   <string name="drawer_close">Hide roots</string>

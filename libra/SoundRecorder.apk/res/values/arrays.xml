@@ -37,4 +37,5 @@
         <item>MP3, ~100kbit/s, ~45MB/h</item>
         <item>MP3, ~75kbit/s, ~32MB/h</item>
     </string-array>
+    <item type="array" name="APKTOOL_DUMMY_8">false</item>
 </resources>
