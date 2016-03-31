@@ -28,32 +28,6 @@
         <item>0</item>
         <item>5</item>
     </integer-array>
-    <string-array name="duration_entries">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>:</item>
-    </string-array>
-    <array name="duration_entryValues">
-        <item>@drawable/time_0</item>
-        <item>@drawable/time_1</item>
-        <item>@drawable/time_2</item>
-        <item>@drawable/time_3</item>
-        <item>@drawable/time_4</item>
-        <item>@drawable/time_5</item>
-        <item>@drawable/time_6</item>
-        <item>@drawable/time_7</item>
-        <item>@drawable/time_8</item>
-        <item>@drawable/time_9</item>
-        <item>@drawable/time_dot</item>
-    </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
         <item>com.android.providers.contacts</item>
@@ -115,4 +89,30 @@
         <item>40554</item>
         <item>40497</item>
     </string-array>
+    <string-array name="duration_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>:</item>
+    </string-array>
+    <array name="duration_entryValues">
+        <item>@drawable/time_0</item>
+        <item>@drawable/time_1</item>
+        <item>@drawable/time_2</item>
+        <item>@drawable/time_3</item>
+        <item>@drawable/time_4</item>
+        <item>@drawable/time_5</item>
+        <item>@drawable/time_6</item>
+        <item>@drawable/time_7</item>
+        <item>@drawable/time_8</item>
+        <item>@drawable/time_9</item>
+        <item>@drawable/time_dot</item>
+    </array>
 </resources>
