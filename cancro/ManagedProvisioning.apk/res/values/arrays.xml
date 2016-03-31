@@ -22,6 +22,13 @@
     </string-array>
     <array name="vendor_disallowed_apps_managed_device" />
     <array name="vendor_disallowed_apps_managed_profile" />
-    <array name="vendor_required_apps_managed_device" />
-    <array name="vendor_required_apps_managed_profile" />
+    <string-array name="vendor_required_apps_managed_device">
+        <item>com.android.contacts</item>
+        <item>com.google.android.contacts</item>
+        <item>com.android.dialer</item>
+        <item>com.miui.home</item>
+    </string-array>
+    <string-array name="vendor_required_apps_managed_profile">
+        <item>com.android.contacts</item>
+    </string-array>
 </resources>

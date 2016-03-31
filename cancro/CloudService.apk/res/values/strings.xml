@@ -2,7 +2,9 @@
 <resources>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
+  <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>
   <string name="activate">Activate</string>
+  <string name="activate_finddevice">Connect to the network to activate device</string>
   <string name="activate_number_change_dialog_message">Choose a phone number that will be visible to other devices when you call using VoIP.</string>
   <string name="activating">Activating…</string>
   <string name="alert_notif_title_dspt">Not syncing</string>
@@ -47,8 +49,11 @@ Last backed up on %2$s"</string>
   <string name="cloud_space_upgrade_title">More space for Mi Cloud</string>
   <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Use Mi Cloud to sync data, locate your device, and share things with friends.</string>
+  <string name="connect_network">Connect to WLAN or insert a SIM card</string>
+  <string name="connect_wlan">Connect to WLAN</string>
   <string name="contact">Contacts</string>
   <string name="deskclock_backup">Clocks Back up</string>
+  <string name="detect_sim_card">Search for SIM card again</string>
   <string name="disable_find_device_error">"Can't turn off Find device. %1$s"</string>
   <string name="disable_find_device_success">Find device is off.</string>
   <string name="enableAll">Sync all</string>
@@ -262,11 +267,13 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
   <string name="micloud_more">Learn more</string>
   <string name="micloud_notif_content_battery_low">Battery is too low.</string>
+  <string name="micloud_notif_content_clipboard_push">You can paste it anywhere.</string>
   <string name="micloud_notif_content_depend_wifi">Connect to WLAN to sync.</string>
   <string name="micloud_notif_content_master_depend_wifi">Connect to WLAN first.</string>
   <string name="micloud_notif_content_memory_low">Not enough storage space.</string>
   <string name="micloud_notif_content_sync_with_off">Tap to sync your device now.</string>
   <string name="micloud_notif_title_battery_low">"Can't sync with Mi Cloud"</string>
+  <string name="micloud_notif_title_clipboard_push">Content copied to clipboard</string>
   <string name="micloud_notif_title_depend_wifi">%d is waiting to sync</string>
   <string name="micloud_notif_title_master_depend_wifi">"Can't sync with Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Can't sync with Mi Cloud"</string>
@@ -324,7 +331,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="microsoft_cloud_price">About RMB 80 per year</string>
   <string name="more_activity_in_upgrade_space">Learn more at &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Message</string>
-  <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI users without incurring SMS charges.
+  <string name="mx_dspt_provision">"Mi Message lets you send messages to other MIUI devices without incurring charges when connected to WLAN.
 
 You can turn this feature on or off anytime in Settings."</string>
   <string name="mx_dspt_provision_privacy">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature.
@@ -336,7 +343,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_privacy_no_sim">"This feature may require your phone number. Your carrier may charge for an SMS message used to activate this feature when SIM card detected.
 
 This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_with_voip">"Call other MIUI users for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
+  <string name="mx_dspt_provision_with_voip">"Call other MIUI devices for free using your internet connection. You can turn this feature on or off anytime in Settings. VoIP is supported by Weihui. View Weihui's Privacy Policy"</string>
   <string name="mx_dspt_provision_with_voip2">Privacy Policy</string>
   <string name="mx_sub_dspt_provision">Mi Message</string>
   <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
@@ -372,6 +379,9 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">Messages</string>
+  <string name="soundrecorder_sync_only_in_wifi">Only use WLAN to sync</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
+  <string name="soundrecorder_sync_records">Sync with Mi Cloud</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Storage</string>
   <string name="sub_alert_notif_dspt_add">%s items waiting to sync</string>

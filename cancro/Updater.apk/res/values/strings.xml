@@ -90,7 +90,7 @@
   <string name="loading">Requesting…</string>
   <string name="log_share">Share</string>
   <string name="menu_title_current_version_log">"What's new"</string>
-  <string name="menu_title_download_current_rom">Download update</string>
+  <string name="menu_title_download_current_rom">Download latest ROM</string>
   <string name="menu_title_pick_rom_file">Choose update package</string>
   <string name="menu_title_recovery">Reboot to Recovery mode</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
