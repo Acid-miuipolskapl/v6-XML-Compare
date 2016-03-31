@@ -941,6 +941,7 @@
         <item>com.miui.providers.weather</item>
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
