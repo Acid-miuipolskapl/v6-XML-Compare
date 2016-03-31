@@ -29,7 +29,7 @@
   <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">OK</string>
   <string name="alert_dialog_yes">Yes</string>
-  <string name="alertdialogtitle">Result…</string>
+  <string name="alertdialogtitle">Results</string>
   <string name="always_enable_mms">Always receive MMS</string>
   <string name="always_enable_mms_summary">Receive MMS even when mobile data is off</string>
   <string name="anc_off">ANC off</string>
@@ -439,7 +439,7 @@
   <string name="feedback">Feedback</string>
   <string name="femtocell_point_list_title">Femtocells</string>
   <string name="flash_when_ring_summary">Flash notification light for incoming calls</string>
-  <string name="flash_when_ring_title">Flash notification light when ringing</string>
+  <string name="flash_when_ring_title">Flash when ringing</string>
   <string name="fw_change_failed">"Couldn't change the forwarding number.
 Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
@@ -482,8 +482,8 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
-  <string name="incoming_video_show_pref_summary">Show video ringtone set by caller. To use this feature, turn name cards on.</string>
-  <string name="incoming_video_show_pref_title">Show video ringtone for incoming call</string>
+  <string name="incoming_video_show_pref_summary">Show profile video set by caller. To use this feature, turn contact cards on.</string>
+  <string name="incoming_video_show_pref_title">"Show caller's profile video"</string>
   <string name="international_calls">Only international</string>
   <string name="international_dial_complete_intention">Make international calls at lower rates</string>
   <string name="international_dial_complete_no">Not now</string>
@@ -852,7 +852,7 @@ Try again or call customer service for more options."</string>
 There are %d remaining attempts."</string>
   <string name="pin2_changed">PIN2 changed successfully.</string>
   <string name="pin2_invalid">"FDN wasn't updated because you typed an incorrect PIN."</string>
-  <string name="pin2_invalid_or_name_is_too_long">The PIN code or the name you entered is invalid.</string>
+  <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
   <string name="pin2_lock_warning">"
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
@@ -1094,7 +1094,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 indexes…</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
-  <string name="telephony_setting">Call settings</string>
+  <string name="telephony_setting">Phone</string>
   <string name="telocation_auto_country_code">Add country code</string>
   <string name="telocation_auto_country_code_summary">Automatically add country code before dialing contacts</string>
   <string name="telocation_call_assistant">Dialing assistant</string>

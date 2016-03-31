@@ -542,7 +542,7 @@ and never miss the cool new ones!"</string>
   <string name="server_control_advanced_settings">FTP settings</string>
   <string name="server_control_charset">Transfer encoding</string>
   <string name="server_control_settings">Settings</string>
-  <string name="server_error">Sever error, try again later. (Error %s)</string>
+  <string name="server_error">Server error, try again later. (Error %s)</string>
   <string name="share_box">Shared</string>
   <string name="share_box_receive">Received</string>
   <string name="share_box_send">Sent</string>
