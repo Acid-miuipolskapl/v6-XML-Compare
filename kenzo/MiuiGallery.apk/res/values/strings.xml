@@ -888,7 +888,7 @@
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Set as lock screen wallpaper</string>
   <string name="set_face_group_toast_msg_new_user">Hold a face to merge or ignore this person.</string>
-  <string name="set_face_group_toast_msg_old_user">Hold a face, and tag this person (family, friends, classmates, etc.)</string>
+  <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (E.g., Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
   <string name="set_face_image">Set a new face</string>

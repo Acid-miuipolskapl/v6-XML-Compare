@@ -57,5 +57,4 @@
         <item>android.permission.WRITE_SOCIAL_STREAM</item>
         <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0004">false</item>
 </resources>
