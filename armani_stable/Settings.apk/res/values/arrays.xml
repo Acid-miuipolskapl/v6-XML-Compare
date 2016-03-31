@@ -76,12 +76,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>Huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>small</item>
@@ -1409,6 +1408,14 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="fluency_mode_confirms">
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
+    </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
