@@ -94,6 +94,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_device_admin_msg">Activate device administrator?</string>
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
+  <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the fingerprint reader.
 Make sure your finger covers the inner edge of the sensor"</string>
@@ -969,6 +970,7 @@ This setting affects all users on this phone."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
+  <string name="device_cpu6_info">Hexa-core</string>
   <string name="device_cpu8_info">Octa-core</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_feedback">Send feedback about this device</string>
@@ -1733,6 +1735,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="master_clear_progress_title">Erasing</string>
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
+  <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
   <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
