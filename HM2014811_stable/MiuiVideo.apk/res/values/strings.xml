@@ -39,6 +39,8 @@
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s installed</string>
   <string name="app_update_background">Update app in background.</string>
+  <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
+  <string name="app_upgrade_title">Mi Video is already upgraded to latest version.</string>
   <string name="app_upgrade_version">Update available</string>
   <string name="app_version">Version</string>
   <string name="app_wifi_mode">Update automatically</string>
@@ -136,6 +138,7 @@
   <string name="download_start_message">Download and install %1$s?</string>
   <string name="download_task_with">%d tasks</string>
   <string name="download_url_waiting">Getting URL info…</string>
+  <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
   <string name="download_with">Downloading %1$s/%2$s</string>
   <string name="downloading_app_plugin">Downloading %1$s…</string>
   <string name="edit">Edit</string>
@@ -225,6 +228,10 @@
   <string name="not_buy_vip">no vip</string>
   <string name="not_exist_openid">getting account info, please wait...</string>
   <string name="not_login">Not signed in</string>
+  <string name="notification_default_title">Offline video</string>
+  <string name="notification_sub_title">Total %d download task(s) completed</string>
+  <string name="notification_ticker_text">Offline video download completion</string>
+  <string name="notification_title">\"%s\" download completion</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancel</string>
   <string name="nowifi_alert_dialog_message">"Using your mobile data connection to stream video will increase your data usage. If you go over your plan's data usage limit, your carrier could charge you additional fees."</string>
@@ -302,6 +309,8 @@
   <string name="search">Search</string>
   <string name="search_hint">Search online video</string>
   <string name="search_result_empty_text">"Didn't find anything"</string>
+  <string name="search_snack_more">More Information</string>
+  <string name="search_snack_sniff">Sniffing Download</string>
   <string name="second"> Second</string>
   <string name="see_all_count_comment">%d more comments</string>
   <string name="select_all">Select all</string>
@@ -318,6 +327,7 @@
   <string name="share_device">Shared device</string>
   <string name="similar">Similar</string>
   <string name="sina">Sina</string>
+  <string name="sniff">Sniff</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Source get error</string>
   <string name="star1">1 star</string>
@@ -408,6 +418,7 @@
   <string name="vp_download_apk_from_video_ad">Install the application</string>
   <string name="vp_download_connect_fail">"Couldn't get link"</string>
   <string name="vp_download_file_fail">"Couldn't write file. Make sure you have enough space on your device."</string>
+  <string name="vp_downloading_apk_title">Downloading %1$s</string>
   <string name="vp_exit">Exit</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Fullscreen</string>
@@ -438,6 +449,7 @@
   <string name="vp_mplayer_error_timed_out">Operation timed out</string>
   <string name="vp_newest_ep">New</string>
   <string name="vp_next_ci">Next</string>
+  <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_offline_status_done">Finished</string>
   <string name="vp_offline_status_dowloading">Downloading</string>

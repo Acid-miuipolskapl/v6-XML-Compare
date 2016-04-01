@@ -238,6 +238,7 @@
   <string name="view">View</string>
   <string name="view_hms_attachment_fail">"Can't download image"</string>
   <string name="view_hms_details">Details</string>
+  <string name="view_hms_details_download">Download</string>
   <string name="view_message_details">View details</string>
   <string name="xiaomi_service_number">Service number</string>
   <string name="yes">OK</string>

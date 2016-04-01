@@ -76,12 +76,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>Huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>small</item>
@@ -1410,11 +1409,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Reboot your device to apply this setting?</item>
         <item>Reboot your device to apply this setting?</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+    </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
         <item>ar</item>
         <item>bh</item>
+        <item>bd</item>
         <item>be</item>
         <item>bo</item>
         <item>bw</item>
@@ -1425,6 +1433,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>cd</item>
         <item>cr</item>
         <item>ci</item>
+        <item>cu</item>
+        <item>do</item>
         <item>ec</item>
         <item>eg</item>
         <item>sv</item>
@@ -1436,6 +1446,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>gh</item>
         <item>gt</item>
         <item>gy</item>
+        <item>ht</item>
         <item>hn</item>
         <item>hk</item>
         <item>in</item>
@@ -1443,7 +1454,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ir</item>
         <item>iq</item>
         <item>il</item>
+        <item>jm</item>
         <item>jo</item>
+        <item>kz</item>
         <item>ke</item>
         <item>kw</item>
         <item>lb</item>
@@ -1453,14 +1466,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>mw</item>
         <item>my</item>
         <item>mr</item>
+        <item>mu</item>
         <item>mx</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
         <item>na</item>
+        <item>np</item>
         <item>ni</item>
         <item>ng</item>
+        <item>kp</item>
         <item>om</item>
+        <item>pk</item>
         <item>ps</item>
         <item>pa</item>
         <item>py</item>
@@ -1476,6 +1493,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
+        <item>es</item>
+        <item>lk</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
@@ -1490,6 +1509,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ua</item>
         <item>ae</item>
         <item>uy</item>
+        <item>uz</item>
         <item>ve</item>
         <item>vn</item>
         <item>ye</item>
@@ -1530,5 +1550,23 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Everyday</item>
         <item>Weekdays</item>
         <item>Custom</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
+        <item>UY</item>
+        <item>VE</item>
     </string-array>
 </resources>
