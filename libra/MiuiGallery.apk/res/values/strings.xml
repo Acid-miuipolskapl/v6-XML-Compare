@@ -106,7 +106,7 @@
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
-  <string name="begin_share_toast">System will create a Baby album for this kid. You will be able to share it.</string>
+  <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="black_white">Flat B&amp;W</string>
   <string name="blank_app_name"/>
   <string name="brannan">Brannan</string>
@@ -574,7 +574,7 @@
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
-  <string name="detail_title">Detail info</string>
+  <string name="detail_title">Details</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="do_not_save">"Don't save"</string>
   <string name="documentary">Documentary</string>
@@ -619,7 +619,7 @@
   <string name="face_album_detecting_tip">Just a sec…</string>
   <string name="face_album_empty">Empty</string>
   <string name="face_album_empty_syncing">Syncing data</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Will Sync face data when device is connected to WLAN</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Sync albums with people when connected to WLAN</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
@@ -762,7 +762,7 @@
   <string name="operation_add_picture">Add items</string>
   <string name="operation_add_secret">Add to hidden album</string>
   <string name="operation_delete">Delete</string>
-  <string name="operation_detail">Detail info</string>
+  <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Turn off automatic backups</string>
   <string name="operation_download">Download photo (%s)</string>
   <string name="operation_edit">Edit</string>

@@ -96,16 +96,15 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the fingerprint reader.
-Make sure your finger covers the inner edge of the sensor"</string>
-  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
-  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint reader</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Change your finger position</string>
+  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint, put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint.</string>
+  <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
+  <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
-  <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
+  <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
 
 Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device's location information."</string>
@@ -731,7 +730,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint reader</string>
+  <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
@@ -945,7 +944,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1240,8 +1239,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
-  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
-  <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+  <string name="fingerprint_identify_msg">Reading fingerprint…</string>
+  <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
@@ -1607,7 +1606,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
-  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint reader</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>
@@ -1696,7 +1695,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="managed_device_admin_title">Work</string>
   <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
   <string name="managed_profile_location_category">Work profile</string>
-  <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+  <string name="managed_profile_location_switch_lockdown">Turned off by company administrator.</string>
   <string name="managed_profile_location_switch_title">Location for work profile</string>
   <string name="managed_profile_not_available_label">"Work profile isn't available yet"</string>
   <string name="managed_user_title">Work profile</string>
@@ -1736,7 +1735,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
-  <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
+  <string name="max_fingerprint_number_reached">"Can't add more than 5 fingerprints. To add a new fingerprint, delete an existing fingerprint first."</string>
   <string name="media_button">Media button</string>
   <string name="media_category">Media</string>
   <string name="media_feedback_enable_title">Vibrate with the beat</string>
