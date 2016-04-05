@@ -208,9 +208,9 @@
     </string-array>
     <string-array name="call_barring_outgoing_display_values">
         <item>Off</item>
-        <item>International roam call</item>
-        <item>International call</item>
-        <item>Outgoing call</item>
+        <item>Roaming call barring</item>
+        <item>International call barring</item>
+        <item>Outgoing call barring</item>
     </string-array>
     <string-array name="call_barring_outgoing_values">
         <item>-1</item>

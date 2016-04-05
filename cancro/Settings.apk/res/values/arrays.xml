@@ -1123,8 +1123,8 @@
         <item>SIM</item>
     </string-array>
     <string-array name="screen_key_position_action">
-        <item>Overview button on the left, Back button on the right</item>
-        <item>Back button on the left, Overview button on the right</item>
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
     </string-array>
     <string-array name="screen_key_position_action_value">
         <item>0</item>

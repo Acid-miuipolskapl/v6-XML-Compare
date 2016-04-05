@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Result_title">Result...</string>
+  <string name="Result_title">Result</string>
   <string name="accessibility_settings_activity_title">Accessibility</string>
   <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
   <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
@@ -205,7 +205,7 @@
   <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_recording_setting">Call recording</string>
   <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
-  <string name="call_settings">Call settings</string>
+  <string name="call_settings">Phone</string>
   <string name="call_settings_category">Calls</string>
   <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
@@ -231,7 +231,7 @@
   <string name="card_title_calliswaiting">Call Waiting</string>
   <string name="card_title_callonhold">Put on Hold</string>
   <string name="card_title_callonhold_released">Call Released</string>
-  <string name="card_title_callretrieved">Call Retreived</string>
+  <string name="card_title_callretrieved">Call retreived</string>
   <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
   <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_conf_call">Conference call</string>
@@ -270,7 +270,7 @@
   <string name="cell_bc_sms_enable">Cell Broadcast SMS enabled</string>
   <string name="cell_broadcast_settings">Emergency broadcasts</string>
   <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
-  <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
+  <string name="cf_mobile_date">Turn on mobile data and make sure WLAN is off</string>
   <string name="cfb_title">Forward when busy</string>
   <string name="cfnrc_title">Forward when unreachable</string>
   <string name="cfnrc_title_cta">Forward when unreachable</string>
@@ -311,7 +311,7 @@
   <string name="connection_service_default_label">Built-in connection service</string>
   <string name="contactAddFailed">"Can't add contact to SIM."</string>
   <string name="contactAddSuccess">Added contact to SIM.</string>
-  <string name="contactPhoto">contact photo</string>
+  <string name="contactPhoto">Contact photo</string>
   <string name="contactScreen">Add/Edit SIM contact</string>
   <string name="contactUpdateFailed">"Couldn't update contact on SIM."</string>
   <string name="contactUpdateSuccess">Updated contact on SIM.</string>
@@ -460,9 +460,9 @@
   <string name="enable_proximity_title">Proximity sensor</string>
   <string name="enable_sim_pin">Set SIM PIN</string>
   <string name="enable_video_calling_dialog_close">Close</string>
-  <string name="enable_video_calling_dialog_msg">To turn on video calling, you need to enable Enhanced 4G LTE Mode in network settings.</string>
+  <string name="enable_video_calling_dialog_msg">To turn on video calls, enable Enhanced 4G LTE in network settings.</string>
   <string name="enable_video_calling_dialog_settings">Network settings</string>
-  <string name="enable_video_calling_title">Turn on video calling</string>
+  <string name="enable_video_calling_title">Turn on video calls</string>
   <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Use LTE services to improve voice and other communications (recommended)</string>
@@ -524,7 +524,7 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_error">"Can't connect to the network."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
-  <string name="goPrivate">go private</string>
+  <string name="goPrivate">Go private</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
@@ -544,7 +544,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_call_failed">"Can't call."</string>
   <string name="incall_error_emergency_only">Not registered on network.</string>
   <string name="incall_error_local_low_battery">Call is failed due to low battery.</string>
-  <string name="incall_error_low_battery">Call is failed due to remote device low battery.</string>
+  <string name="incall_error_low_battery">"Couldn't connect due to remote device's low battery."</string>
   <string name="incall_error_missing_voicemail_number">Voicemail number unknown.</string>
   <string name="incall_error_no_phone_number_supplied">To place a call, enter a valid number.</string>
   <string name="incall_error_out_of_service">Mobile network not available.</string>
@@ -552,7 +552,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_power_off">Turn off airplane mode to make a call.</string>
   <string name="incall_error_power_off_wfc">Turn off airplane mode or connect to a wireless network to make a call.</string>
   <string name="incall_error_supp_service_conference">Unable to conference calls.</string>
-  <string name="incall_error_supp_service_hangup">"Can't release call(s)."</string>
+  <string name="incall_error_supp_service_hangup">"Can't hang up call."</string>
   <string name="incall_error_supp_service_reject">"Can't reject call."</string>
   <string name="incall_error_supp_service_separate">"Can't separate call."</string>
   <string name="incall_error_supp_service_switch">"Can't switch calls."</string>
@@ -602,7 +602,7 @@ Switch to the new provider anyway?"</string>
   <string name="labelCFU">Always forward</string>
   <string name="labelCW">Call waiting</string>
   <string name="labelCallerId">Caller ID</string>
-  <string name="labelCbCancelAll">Cancel all callbarring</string>
+  <string name="labelCbCancelAll">Turn off call barring</string>
   <string name="labelCbChangePassword">Change password</string>
   <string name="labelCdmaMore_with_label">CDMA call settings (%s)</string>
   <string name="labelGSMMore">GSM call settings</string>
@@ -802,7 +802,7 @@ Using preferred network instead."</string>
   <string name="new_pin_label">New PIN</string>
   <string name="no_balance_message">Not enough funds remaining in your top-up package. You can tryto make a regular call instead.</string>
   <string name="no_balance_title">Insufficient funds</string>
-  <string name="no_call_barring">No callbarring</string>
+  <string name="no_call_barring">Call barring is off</string>
   <string name="no_change">No changes were made.</string>
   <string name="no_data">No data</string>
   <string name="no_internet_available">To place a SIP call, check your Internet connection first.</string>
@@ -852,7 +852,7 @@ Using preferred network instead."</string>
   <string name="onscreenSwapCallsText">Swap</string>
   <string name="onscreenVideoCallText">Video call</string>
   <string name="open_miui">Open</string>
-  <string name="operation_successfully">Operation successful</string>
+  <string name="operation_successfully">Done</string>
   <string name="operator_first">"Give priority to carrier's plan"</string>
   <string name="operator_first_mins_hint">xx minutes</string>
   <string name="operator_first_mins_none_summary">Top-up package first</string>
@@ -910,7 +910,7 @@ Try again or call customer service for more options."</string>
 "</string>
   <string name="pause_prompt_yes">Yes</string>
   <string name="payphone">Payphone</string>
-  <string name="phoneAppLabel">Phone Services</string>
+  <string name="phoneAppLabel">Phone</string>
   <string name="phoneIconLabel">Phone</string>
   <string name="phone_accounts">Calling accounts</string>
   <string name="phone_accounts_add_sip_account">Add SIP account</string>
@@ -936,7 +936,7 @@ You have %d remaining attempts."</string>
   <string name="pin2_lock_warning">"
 PIN2 related functions will be locked after another failed attempt."</string>
   <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-  <string name="pin2_unblocked">PIN2 no longer blocked</string>
+  <string name="pin2_unblocked">PIN2 is no longer blocked</string>
   <string name="pin_attempts">"
 %d attempts remaining."</string>
   <string name="pin_changed">PIN updated</string>
@@ -1016,10 +1016,10 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="psw_enter_new">New password</string>
   <string name="psw_enter_old">Old password</string>
-  <string name="psw_reenter_new">Reenter your password</string>
-  <string name="puk2_blocked">PUK2 is permanently blocked.</string>
+  <string name="psw_reenter_new">Enter password again</string>
+  <string name="puk2_blocked">PUK2 is blocked permanently.</string>
   <string name="puk2_label">Input PUK2 code</string>
-  <string name="puk2_requested">Password incorrect. SIM now locked. Enter PUK2.</string>
+  <string name="puk2_requested">Password incorrect, SIM is locked. Enter PUK2.</string>
   <string name="puk_label">Input PUK code</string>
   <string name="puk_lock_warning">"
 Your SIM card will be erased after another failed attempt."</string>
@@ -1119,7 +1119,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="save">Save</string>
   <string name="saving_account">Saving the account…</string>
   <string name="search_networks">Search networks</string>
-  <string name="selectContact">select contact</string>
+  <string name="selectContact">Select contact</string>
   <string name="select_automatically">Choose automatically</string>
   <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="sendSms">Send SMS</string>
@@ -1334,7 +1334,7 @@ Contact your carrier if this problem persists."</string>
   <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
   <string name="voicemail_provider">Service</string>
   <string name="voicemail_provider_summary">Choose voicemail service</string>
-  <string name="voicemail_settings">Setup</string>
+  <string name="voicemail_settings">Set</string>
   <string name="voicemail_settings_number_hint">Enter voice mailbox number</string>
   <string name="voicemail_settings_number_label">Voicemail number</string>
   <string name="voicemail_settings_number_title">Voicemail number</string>
