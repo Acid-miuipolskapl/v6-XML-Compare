@@ -647,11 +647,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permit_running_network">Background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">Set data usage limit</string>
-  <string name="pm_auto_start_basic_services_lock">Lock</string>
-  <string name="pm_auto_start_basic_services_unlock">Unlock</string>
-  <string name="pm_auto_start_by_basic_services">Basic services</string>
-  <string name="pm_auto_start_by_other_services">Try turning off these services</string>
+  <string name="pm_auto_start_by_other">Triggered start</string>
+  <string name="pm_auto_start_by_other_app">Allow the app to be started by other apps</string>
   <string name="pm_auto_start_by_system">Start apps</string>
+  <string name="pm_auto_start_by_system_event">Allow apps to start automatically</string>
   <string name="pm_auto_start_proc_is_running">Running</string>
   <string name="pm_remember_choice">Remember my choice</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
