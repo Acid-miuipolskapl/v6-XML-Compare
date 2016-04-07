@@ -23,7 +23,7 @@
   <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
   <string name="incorrect_pukcode">Incorrect PUK code</string>
   <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
-  <string name="input_password_after_boot_msg">"You'll have to enter password after the device reboots."</string>
+  <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pin_code">Enter PIN</string>
   <string name="input_puk_code">Input PUK</string>
