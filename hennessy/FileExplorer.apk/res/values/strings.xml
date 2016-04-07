@@ -135,8 +135,8 @@
   <string name="dir_not_support">"Can't hide this folder."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty</string>
-  <string name="disk_available">"Available: "</string>
-  <string name="disk_total">"Total: "</string>
+  <string name="disk_available">Available</string>
+  <string name="disk_total">Total</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage."</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">"Couldn't download"</string>
@@ -239,8 +239,8 @@
   <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Server is down</string>
   <string name="kuaipan_prompt_message">"
-Well,.this is embarrassing… 
-Our server is down at the moment. Sorry for the inconvenience."</string>
+Our server is down at the moment.
+Sorry for the inconvenience."</string>
   <string name="kuaipan_root_fooder">Home</string>
   <string name="kuaipan_tech_support">Sign in at kuaipan.cn</string>
   <string name="load_err">"Can't load"</string>
@@ -584,6 +584,7 @@ and never miss the cool new ones!"</string>
   <string name="storage_usb_description">USB storage</string>
   <string name="storage_warning">"Can't use external storage"</string>
   <string name="subtitle_report_video">From %1$s</string>
+  <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">" available"</string>
   <string name="system_alert">Internet connection</string>
   <string name="tab_category">Categories</string>

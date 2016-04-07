@@ -302,7 +302,7 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_storage_expires_manually_renewal_sum">You need to renew your subscription.</string>
   <string name="micloud_storage_expires_soon_title">Mi Cloud storage expires soon</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Cloud storage expires soon</string>
-  <string name="micloud_storage_full">Cloud storage is full</string>
+  <string name="micloud_storage_full">Cloud is full</string>
   <string name="micloud_storage_usage" formatted="false">Used %s/Total space %s</string>
   <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
   <string name="micloud_sync_alert_dialog_negative">Cancel</string>
