@@ -231,7 +231,7 @@
   <string name="card_title_calliswaiting">Call Waiting</string>
   <string name="card_title_callonhold">Put on Hold</string>
   <string name="card_title_callonhold_released">Call Released</string>
-  <string name="card_title_callretrieved">Call retreived</string>
+  <string name="card_title_callretrieved">Call retrieved</string>
   <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
   <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_conf_call">Conference call</string>
