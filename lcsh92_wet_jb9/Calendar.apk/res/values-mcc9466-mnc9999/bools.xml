@@ -3,4 +3,5 @@
     <bool name="enable_lunar_date">true</bool>
     <bool name="enable_almanac">true</bool>
     <bool name="enable_holiday">true</bool>
+    <bool name="enable_online_calendar">false</bool>
 </resources>
