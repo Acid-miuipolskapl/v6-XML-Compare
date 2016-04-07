@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
+  <string name="aaid_info">"
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+
+If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
   <string name="ac_enable_summary">Password will be required to open the app</string>
@@ -85,6 +89,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="active_input_method_subtypes">Active input methods</string>
   <string name="activity_not_found">Application is not installed on your phone.</string>
   <string name="activity_picker_label">Choose activity</string>
+  <string name="ad_service">Ad services</string>
   <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorized?"</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
@@ -732,6 +737,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_erase">Erase</string>
   <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
   <string name="continue_all_caps">CONTINUE</string>
@@ -2324,6 +2330,7 @@ Select your operating system:"</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
   <string name="repeat">Repeat</string>
   <string name="repeat_title">Repeat</string>
+  <string name="reset_aaid">Reset advertising identifier</string>
   <string name="reset_app_preferences">Reset app preferences</string>
   <string name="reset_app_preferences_button">Reset apps</string>
   <string name="reset_app_preferences_desc">"This will reset all preferences for:
@@ -3110,6 +3117,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_nuplayer">Use NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Use NuPlayer instead of AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>

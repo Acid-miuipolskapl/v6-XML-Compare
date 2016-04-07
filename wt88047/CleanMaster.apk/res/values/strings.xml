@@ -136,7 +136,7 @@
   <string name="empty_title_ad">No ad files found</string>
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
-  <string name="empty_title_garbage_white_list">Click long to add exceptions.</string>
+  <string name="empty_title_garbage_white_list">Hold items to add them to exceptions</string>
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
   <string name="empty_title_residual">No residuals found</string>
