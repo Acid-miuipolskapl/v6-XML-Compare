@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these people?"</item>
-        <item quantity="one">"Don't show this person?"</item>
+        <item quantity="other">"Don't show these faces?"</item>
+        <item quantity="one">"Don't show this face?"</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s photos of %2$s >></item>
@@ -29,7 +29,7 @@
         <item quantity="one">%1$d photo of %2$s to be added</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Already shared to %d people</item>
+        <item quantity="other">Already shared to %d persons</item>
         <item quantity="one">Already shared to %d person</item>
     </plurals>
     <plurals name="delete_photo_msg_format">

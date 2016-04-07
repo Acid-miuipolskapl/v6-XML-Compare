@@ -25,8 +25,6 @@
   <string name="setting_head">Settings</string>
   <string name="sst_favor_desc">Check favorite wallpapers</string>
   <string name="sst_favor_title">Favorites</string>
-  <string name="sst_grid_view_select_all">Select All</string>
-  <string name="sst_grid_view_unselect_all">Cancel All</string>
   <string name="sst_no_favor_wallpaper_hint">No favorite wallpaper</string>
   <string name="sst_prov_enable_desc">Enjoy more wonderful wallpaper on lock screen</string>
   <string name="sst_prov_enable_title">Enable Wallpaper Carousel</string>
