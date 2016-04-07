@@ -114,8 +114,9 @@
   <string name="files_backup_info">All files on SD card (including photos, songs, videos, app data, etc.)</string>
   <string name="findlost_contact">Restore contacts</string>
   <string name="findlost_contact_online">Restore contacts from Mi Cloud</string>
-  <string name="guarded_mode_dialog_message">"This function isn't allowed in Guest mode."</string>
+  <string name="guarded_mode_dialog_backup_message">"Backups aren't allowed in Guest mode."</string>
   <string name="guarded_mode_dialog_title">"You're in Guest mode"</string>
+  <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the Mi Talk app and sign in.
 \u0009http://www.miliao.com
 
@@ -139,6 +140,8 @@
   <string name="miliao_account_login">Sign in with Mi Talk</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
+  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="never">Never</string>
   <string name="new_backup">Back up</string>
   <string name="no_encrypt_password">No password</string>
@@ -251,12 +254,12 @@
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
   <string name="trans_calculating">Calculating…</string>
-  <string name="trans_calculating_app_sd_size">Calculating data size: %s</string>
+  <string name="trans_calculating_app_sd_size">Calculating size: %s</string>
   <string name="trans_calculating_base_size">Calculating data size</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
-  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
-  <string name="trans_connect_failed_title">Connect failed</string>
+  <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
+  <string name="trans_connect_failed_title">"Couldn't connect"</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_connection_failed">Device disconnected</string>
@@ -279,7 +282,7 @@ Tap [I'm a recipient] to create a QR code"</string>
 2. Open the app and tap Start
 3. Scan the QR code with your old device"</string>
   <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
-  <string name="trans_please_waiting">Wait a moment…</string>
+  <string name="trans_please_waiting">Just a sec…</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
@@ -302,8 +305,8 @@ Keep devices close to each other."</string>
   <string name="trans_scan_invalid_qrcode">QR code invalid</string>
   <string name="trans_scan_qr_code_tips">Scan QR code on the new device</string>
   <string name="trans_select_data">Select items to send</string>
-  <string name="trans_select_data_no_space">"No enough spaces on new devices
-Select files again or free up %s storage on the new device"</string>
+  <string name="trans_select_data_no_space">"Not enough storage on the new device
+Select files again or clear %s of storage on the new device"</string>
   <string name="trans_select_data_tips">"Select items to transfer
 Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
@@ -319,8 +322,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
-  <string name="trans_start_failed_title">Start failed</string>
+  <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
+  <string name="trans_start_failed_title">"Couldn't start transfer"</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>
@@ -332,6 +335,9 @@ and Mi Mover is on"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" items"</string>
   <string name="unknown_hint">Unknown</string>
+  <string name="user_notice_declaration_ignore">"Don't show again"</string>
+  <string name="user_notice_message">Some features require internet connection to work normally.</string>
+  <string name="user_notice_title">Attention</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

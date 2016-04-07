@@ -47,7 +47,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
-  <string name="network_unavailable">No connected to the internet</string>
+  <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
@@ -64,7 +64,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Try saying "</string>
-  <string name="web_search_results">Web Search Results</string>
+  <string name="web_search_results">Web search results</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
   <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
   <string name="xiaomi_search_label">Results</string>
