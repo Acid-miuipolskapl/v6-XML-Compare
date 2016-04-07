@@ -81,6 +81,11 @@
         <item>Medium</item>
         <item>High</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
         <item>After 5 minutes</item>
