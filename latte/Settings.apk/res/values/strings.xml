@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Accounts</string>
+  <string name="aaid_info">"
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+
+If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="about_settings">About tablet</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
@@ -89,6 +93,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="active_input_method_subtypes">Active input methods</string>
   <string name="activity_not_found">Application is not installed on your phone.</string>
   <string name="activity_picker_label">Choose activity</string>
+  <string name="ad_service">Ad services</string>
   <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorized?"</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
@@ -100,16 +105,15 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"To add your fingerprint info, place your finger on the fingerprint reader.
-Make sure your finger covers the inner edge of the sensor"</string>
-  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
-  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint reader</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Change your finger position</string>
+  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint, put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint.</string>
+  <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
+  <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
-  <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
+  <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
 
 Your Administrator has the ability to monitor and manage settings, access, apps, and data associated with this User, including network activity and your device's location information."</string>
@@ -800,8 +804,9 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint reader</string>
+  <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
   <string name="contact_title">Contacts</string>
@@ -1026,7 +1031,7 @@ Since data usage is measured by your tablet, and your carrier may account for us
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -1351,8 +1356,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="findlost_contact_online">Restore contacts from Mi Cloud</string>
   <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
-  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
-  <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+  <string name="fingerprint_identify_msg">Reading fingerprint…</string>
+  <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
@@ -1441,8 +1446,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="google_backup_section_title">Google backup &amp; reset</string>
   <string name="google_wallet">Google Wallet</string>
   <string name="gsm_to_wifi_connect_type_title">GSM to WLAN</string>
-  <string name="guarded_mode_dialog_message">"This function isn't allowed in Guest mode."</string>
+  <string name="guarded_mode_dialog_backup_message">"Backups aren't allowed in Guest mode."</string>
   <string name="guarded_mode_dialog_title">"You're in Guest mode"</string>
+  <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
   <string name="handy_mode">One-handed mode</string>
   <string name="handy_mode_enter_ask">Ask before entering One-handed mode</string>
   <string name="handy_mode_size">Screen size</string>
@@ -1741,7 +1747,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
-  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint reader</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen lock sound</string>
   <string name="lockpassword_cancel_label">Cancel</string>
@@ -1830,7 +1836,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="managed_device_admin_title">Work</string>
   <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
   <string name="managed_profile_location_category">Work profile</string>
-  <string name="managed_profile_location_switch_lockdown">Turned off by your company</string>
+  <string name="managed_profile_location_switch_lockdown">Turned off by company administrator.</string>
   <string name="managed_profile_location_switch_title">Location for work profile</string>
   <string name="managed_profile_not_available_label">"Work profile isn't available yet"</string>
   <string name="managed_user_title">Work profile</string>
@@ -1870,7 +1876,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">Hexa-core Max</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
-  <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
+  <string name="max_fingerprint_number_reached">"Can't add more than 5 fingerprints. To add a new fingerprint, delete an existing fingerprint first."</string>
   <string name="media_button">Media button</string>
   <string name="media_category">Media</string>
   <string name="media_feedback_enable_title">Vibrate with the beat</string>
@@ -1988,6 +1994,8 @@ Select your operating system:"</string>
   <string name="multi_select_title">%1$s selected</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">This setting will take effect after you reboot your device</string>
+  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="music_audio_effect_optimize">Audio settings</string>
   <string name="music_audio_effect_optimize_summary">Dirac, headphones and other audio settings</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, headphones and other audio settings</string>
@@ -2481,6 +2489,7 @@ Select your operating system:"</string>
   <string name="remove_managed_profile_label">Remove work profile</string>
   <string name="repeat">Repeat</string>
   <string name="repeat_title">Repeat</string>
+  <string name="reset_aaid">Reset advertising identifier</string>
   <string name="reset_app_preferences">Reset app preferences</string>
   <string name="reset_app_preferences_button">Reset apps</string>
   <string name="reset_app_preferences_desc">"This will reset all preferences for:
@@ -3172,8 +3181,8 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="trans_calculating_base_size">Calculating data size</string>
   <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling…</string>
-  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
-  <string name="trans_connect_failed_title">Connect failed</string>
+  <string name="trans_connect_failed_message">"Couldn't connect, try again or reboot device. On the other device, go to Settings &gt; Additional Settings &gt; Mi Mover, tap [I'm a sender], or launch Mi Mover again after reboot."</string>
+  <string name="trans_connect_failed_title">"Couldn't connect"</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_connection_failed">Device disconnected</string>
@@ -3236,8 +3245,8 @@ Keep devices close to each other."</string>
   <string name="trans_sending_completed">Sent successfully</string>
   <string name="trans_show_qr_code_label">Connect old device</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
-  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
-  <string name="trans_start_failed_title">Start failed</string>
+  <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
+  <string name="trans_start_failed_title">"Couldn't start transfer"</string>
   <string name="trans_time_format_second">Less than 1 minute</string>
   <string name="trans_time_spent">"
 Time spent: %s"</string>
@@ -3435,6 +3444,7 @@ and Mi Mover is on"</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_nuplayer">Use NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Use NuPlayer instead of AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>
@@ -3504,8 +3514,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="user_new_user_name">New user</string>
   <string name="user_nickname">Nickname</string>
   <string name="user_notice_declaration_ignore">"Don't show again"</string>
-  <string name="user_notice_message">Some features require an internet connection access to work normally.</string>
-  <string name="user_notice_title">User Notification</string>
+  <string name="user_notice_message">Some features require internet connection to work normally.</string>
+  <string name="user_notice_title">Attention</string>
   <string name="user_owner">Owner</string>
   <string name="user_picture_title">Photo ID</string>
   <string name="user_profile_confirm_remove_message">All apps and data will be deleted.</string>
