@@ -1559,6 +1559,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>pe</item>
         <item>ph</item>
         <item>qa</item>
+        <item>ro</item>
         <item>ru</item>
         <item>rw</item>
         <item>sa</item>
@@ -1590,6 +1591,27 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ye</item>
         <item>zm</item>
         <item>zw</item>
+    </string-array>
+    <string-array name="broadcast_locales">
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
+        <item>UY</item>
+        <item>VE</item>
+    </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
     </string-array>
     <string-array name="common_password_business_keys">
         <item>miui_keyguard</item>
