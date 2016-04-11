@@ -102,6 +102,14 @@
   <string name="sunrise">Sunrise</string>
   <string name="sunset">Sunset</string>
   <string name="title_share_link">Share URL</string>
+  <string name="tts_report_aqi"/>
+  <string name="tts_report_city_name"/>
+  <string name="tts_report_defautl_head"/>
+  <string name="tts_report_split"/>
+  <string name="tts_report_temperature_high"/>
+  <string name="tts_report_temperature_low"/>
+  <string name="tts_report_weather_desc"/>
+  <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
   <string name="view_forecast_item_yesterday">Yesterday</string>
   <string name="view_indexes_item_today">Today</string>

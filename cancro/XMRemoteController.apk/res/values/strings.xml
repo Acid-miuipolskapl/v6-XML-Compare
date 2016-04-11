@@ -86,6 +86,7 @@
   <string name="check_upgrade">Check for updates</string>
   <string name="choose_ac">Choose remote</string>
   <string name="choose_address_title">Select location</string>
+  <string name="choose_key_to_fix">请选择要修复的按键</string>
   <string name="circlepad_slide_tips">Use the touch wheel to adjust the volume</string>
   <string name="click_to_expend">Expand</string>
   <string name="click_to_login">点击登陆</string>
@@ -148,6 +149,8 @@
   <string name="eject">﻿Eject</string>
   <string name="empty_name_tip">Give a name to this remote</string>
   <string name="epg_all_channels">All channels</string>
+  <string name="epg_book_all">全部预约</string>
+  <string name="epg_book_count">已预约%1$s集</string>
   <string name="epg_bookable">Book</string>
   <string name="epg_booked">Booked</string>
   <string name="epg_booked_str">Scheduled</string>
@@ -158,21 +161,27 @@
   <string name="epg_channel_group_open">Show all</string>
   <string name="epg_detail_title_text">Desciption</string>
   <string name="epg_details_episode">Ep. %1$s</string>
+  <string name="epg_edit_channel_name">频道名</string>
+  <string name="epg_edit_channel_number">频道号</string>
+  <string name="epg_edit_channel_title">编辑频道</string>
   <string name="epg_episode_open">Show all</string>
-  <string name="epg_fav_channels">Save channel</string>
+  <string name="epg_fav_channels">Favorite channel</string>
   <string name="epg_home_sliding_down">收起</string>
   <string name="epg_home_sliding_up">上划</string>
   <string name="epg_hot_channels">Channels</string>
   <string name="epg_hot_programs">Shows</string>
   <string name="epg_loading_hint">Switch channels on your set-top box using the phone</string>
   <string name="epg_name">TV shows</string>
+  <string name="epg_no_booking_data">还没有预约节目</string>
   <string name="epg_no_search_result">没有找到结果</string>
+  <string name="epg_program_detail_more_time_events">更多播出时间</string>
   <string name="epg_program_updated_to">播放至第%1$d集</string>
   <string name="epg_search_box_hint">搜索想要看的电视节目</string>
   <string name="epg_search_history">历史记录</string>
   <string name="epg_search_hot_keyword">热门搜索</string>
   <string name="epg_status_playing_text">Playing…</string>
   <string name="epg_status_playing_text_v5">Live</string>
+  <string name="epg_unbook_all">取消全部</string>
   <string name="epg_unbooked_str">Not scheduled</string>
   <string name="epg_user_my_booked_events">我的预约</string>
   <string name="epg_user_my_favorite_channel">收藏频道</string>
@@ -182,6 +191,7 @@
   <string name="external_app">Install app</string>
   <string name="external_photo">View photos</string>
   <string name="external_video">Play video</string>
+  <string name="extra_keys">扩展键</string>
   <string name="fail_add_controller_photo">Add remote photo</string>
   <string name="fail_add_device_photo">Add device photo</string>
   <string name="fail_content">"    Couldn't find pairing info. You can send your feedback to our engineers."</string>
@@ -200,6 +210,9 @@
   <string name="feedback_error_tips">Having problems using this remote, tap to report a problem</string>
   <string name="find_adb_frame">%1$d ADB devices detected</string>
   <string name="find_milink_frame">%1$d Mi devices detected</string>
+  <string name="fix_keys">修复按键</string>
+  <string name="fix_keys_success">修复成功！</string>
+  <string name="fix_keys_tips">如果部分按键不好用，可以尝试修复一下</string>
   <string name="from_share">Shared by others</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">"Can't use landscape orientation in Gamepad mode"</string>
@@ -219,6 +232,7 @@
   <string name="guide">Guide</string>
   <string name="has_installed">Installed</string>
   <string name="hd_channel_preferred">Prefer HD video</string>
+  <string name="help">使用帮助</string>
   <string name="history_none">"You haven't watched any videos."</string>
   <string name="history_title">History</string>
   <string name="home">Home</string>
@@ -240,7 +254,7 @@
   <string name="ir_device_air_cleaner">Air Purifier</string>
   <string name="ir_device_air_condition">AC</string>
   <string name="ir_device_all_ir">All</string>
-  <string name="ir_device_amp">Amplifier</string>
+  <string name="ir_device_amp">A/V receiver</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Camera</string>
   <string name="ir_device_dvb_s">Set-top box</string>
@@ -313,6 +327,7 @@ Go back to continue"</string>
   <string name="match_dvd_name_stop">Stop</string>
   <string name="match_fail_frame">"Couldn't pair remote %1$d"</string>
   <string name="match_fail_model_hint">Enter remote model number</string>
+  <string name="match_failed">没有更多数据了，请重试或返回</string>
   <string name="match_fan_intro_open">Release when fan powers on</string>
   <string name="match_fan_name_open">Power on</string>
   <string name="match_guide_main_frame">Point your device at %1$s</string>
@@ -321,6 +336,8 @@ Go back to continue"</string>
   <string name="match_is_respond">Does the device respond?</string>
   <string name="match_main_tip_frame">"Point the remote at %1$s and press the button
 Release when %1$s responds"</string>
+  <string name="match_main_tip_frame_click">"Point the remote at %1$s and Tap the button
+Then answer the question"</string>
   <string name="match_mibox_first">    Mi TV found</string>
   <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
   <string name="match_mibox_third">    · Add other Mi devices automatically</string>
@@ -588,6 +605,25 @@ To activate your account, follow the
   <string name="privacy_content">"Read Xiaomi's "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Privacy Policy&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;User Agreement&lt;/a&gt; before using Mi Remote. Access to the internet and location services is required for the app to work normally.</string>
   <string name="privacy_nohit">"Don't show again"</string>
   <string name="privacy_title">Terms and Conditions</string>
+  <string name="program_booking_book_filter_book_status">预约状态</string>
+  <string name="program_booking_book_filter_not_booked">未预约</string>
+  <string name="program_booking_channel_filter_all_channels">全部频道</string>
+  <string name="program_booking_date_filter_day_0">今天</string>
+  <string name="program_booking_date_filter_day_1">明天</string>
+  <string name="program_booking_date_filter_day_2">后天</string>
+  <string name="program_booking_date_filter_friday">周五</string>
+  <string name="program_booking_date_filter_monday">周一</string>
+  <string name="program_booking_date_filter_next">下</string>
+  <string name="program_booking_date_filter_saturday">周六</string>
+  <string name="program_booking_date_filter_sunday">周日</string>
+  <string name="program_booking_date_filter_thursday">周四</string>
+  <string name="program_booking_date_filter_tuesday">周二</string>
+  <string name="program_booking_date_filter_wednesday">周三</string>
+  <string name="program_booking_date_filter_whole_week">一周</string>
+  <string name="program_booking_time_filter_dawn">凌晨</string>
+  <string name="program_booking_time_filter_day">白天</string>
+  <string name="program_booking_time_filter_night">晚上</string>
+  <string name="program_booking_time_filter_whole_day">全天</string>
   <string name="projection_failed_for_disconnect">Devices not connected</string>
   <string name="province">Province</string>
   <string name="pull_down_refresh">Pull down to refresh</string>
@@ -605,6 +641,7 @@ To activate your account, follow the
   <string name="refreshing_no_point">Refreshing…</string>
   <string name="refreshing_retry">"Couldn't load, try again"</string>
   <string name="release_to_refresh">Release to refresh</string>
+  <string name="rematch">重新匹配</string>
   <string name="remote_controller_name">Mi Remote</string>
   <string name="rename">Rename</string>
   <string name="rename_hint">"Enter device's name"</string>
@@ -712,7 +749,7 @@ To activate your account, follow the
   <string name="start_match">Pair</string>
   <string name="stb">Set-top box</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
-  <string name="stb_power">Set-top box on/off</string>
+  <string name="stb_power">STB on/off</string>
   <string name="steps">Attempt #%d</string>
   <string name="stop_diagnosis">Stop</string>
   <string name="study_room">Study</string>
@@ -787,9 +824,9 @@ To change, long press TV's power button"</string>
   <string name="weather_out">Outside temperature:</string>
   <string name="wechat_account">微信账号</string>
   <string name="wind_direct">Direction</string>
-  <string name="wind_direct_automatic">Swing</string>
+  <string name="wind_direct_automatic">Swinging</string>
   <string name="wind_direct_down">Down</string>
-  <string name="wind_direct_manual">Fix</string>
+  <string name="wind_direct_manual">Fixed</string>
   <string name="wind_direct_middle">Middle</string>
   <string name="wind_direct_up">Up</string>
   <string name="wind_speed">Speed</string>
@@ -797,7 +834,7 @@ To change, long press TV's power button"</string>
   <string name="wind_speed_high">High</string>
   <string name="wind_speed_low">Low</string>
   <string name="wind_speed_medium">Normal</string>
-  <string name="wind_sweep">Fan</string>
+  <string name="wind_sweep">Swing</string>
   <string name="wx_not_installed">您没有安装微信客户端</string>
   <string name="year_month_day_format">MMM dd, yyyy</string>
   <string name="yes">Yes</string>

@@ -1344,6 +1344,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="fingerprint_manage_category_title">Manage fingerprints</string>
   <string name="fingerprint_not_recognized">Not recognized</string>
+  <string name="fingerprint_removal_failed">"Couldn't remove fingerprint, try again later"</string>
   <string name="fingerprint_usage_category_title">Use fingerprint for</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
@@ -3829,6 +3830,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">Enable data and WLAN roam</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Switch to data connection when both WLAN and data is connecting and the WLAN can not access the internet.</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>

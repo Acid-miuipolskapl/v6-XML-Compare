@@ -35,7 +35,7 @@
   <string name="album_already_exists">An album with the same name already exists</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">Camera</string>
-  <string name="album_detail_page_empty">No items</string>
+  <string name="album_detail_page_empty">No picture or video</string>
   <string name="album_faces_name">People</string>
   <string name="album_member">Album members %s</string>
   <string name="album_name">Album name</string>
@@ -70,7 +70,7 @@
   <string name="app_name_view_picture">View picture</string>
   <string name="apply">Apply</string>
   <string name="associate_face_album">Choose an album</string>
-  <string name="auto_backup_introduce">Back up photos and videos automatically. Mi Account is required for this feature to work normally.</string>
+  <string name="auto_backup_introduce">Backup photos and videos automatically(Xiaomi account is needed)</string>
   <string name="auto_update_face">Add photos automatically</string>
   <string name="auto_update_face_summary">Automatically match and add photos to Baby album</string>
   <string name="auto_update_off">Off</string>
@@ -83,7 +83,7 @@
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Baby album</string>
   <string name="baby_album_change_background">Change background photo</string>
-  <string name="baby_album_needs_auto_backup_tip">"Can't turn off backups for Baby album"</string>
+  <string name="baby_album_needs_auto_backup_tip">baby album cannot disable autoBackup</string>
   <string name="baby_album_new_photo_remind">There are new photos in your Baby album.</string>
   <string name="baby_album_setting_title">Baby info</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s's %2$s,
@@ -118,7 +118,7 @@
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Black &amp;White</string>
-  <string name="camera_needs_auto_backup_tip">Camera photos should be backed up</string>
+  <string name="camera_needs_auto_backup_tip">Camera album have to be backuped</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Switch to default lock screen wallpaper?</string>
   <string name="cancel_hint">Operation canceled</string>
@@ -509,11 +509,11 @@
   <string name="click_download_gif">Tap to download GIF</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
-  <string name="cloud_guide_auto_backup_title">Choose albums to back up</string>
+  <string name="cloud_guide_auto_backup_title">Choose albums to be backuped to MiCloud</string>
   <string name="cloud_guide_login_title">Backup photos and videos automatically</string>
-  <string name="cloud_guide_slim_text">Back up automatically. Reduce photo size on internal storage to save 90% of the space.</string>
-  <string name="cloud_guide_slim_title">Reduce photo size on internal storage to save %1$s</string>
-  <string name="cloud_guide_welcome_title">Mi Cloud</string>
+  <string name="cloud_guide_slim_text">Backup automatically. Save more than 90% space by slimming.</string>
+  <string name="cloud_guide_slim_title">Enable album slimming to save %1$s</string>
+  <string name="cloud_guide_welcome_title">MiCloud</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_settings">Mi Cloud</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
@@ -529,9 +529,9 @@
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">No matches</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Are you sure this is &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? This person will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Sure this isn't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Are you sure this is not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Are you sure these are &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? These people will be moved to \"%2$s\" album after confirmation. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Are you sure these aren't &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Are you sure these are not &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contact</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
@@ -578,7 +578,7 @@
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
-  <string name="detail_title">Details</string>
+  <string name="detail_title">Detail info</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="do_not_save">"Don't save"</string>
   <string name="documentary">Documentary</string>
@@ -597,7 +597,7 @@
   <string name="enable_cloud_for_sharing">You need turn on Cloud albums to view shared photos.</string>
   <string name="enable_face_album_summary">Automatically sort photos by the people that are in them</string>
   <string name="enable_face_album_title">Sort by people</string>
-  <string name="enable_slim_title">Reduce photo size</string>
+  <string name="enable_slim_title">Enable album slimming</string>
   <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Enter email address</string>
   <string name="error_album_not_exist">"Album doesn't exist"</string>
@@ -621,9 +621,9 @@
   <string name="exit_video_play">Exit</string>
   <string name="expand_people">Show more people</string>
   <string name="face_album_detecting_tip">Just a sec…</string>
-  <string name="face_album_empty">Empty</string>
-  <string name="face_album_empty_syncing">Syncing data</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Sync albums with people when connected to WLAN</string>
+  <string name="face_album_empty">Empty.</string>
+  <string name="face_album_empty_syncing">Syncing data.</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Will Sync face data when device is connected to WLAN</string>
   <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile photo</string>
   <string name="face_album_new_name_hint">New name</string>
   <string name="face_album_not_named">Unnamed</string>
@@ -646,6 +646,8 @@
   <string name="finish_fill_baby">Create</string>
   <string name="fisheye">Fisheye</string>
   <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
+  <string name="flash_off">No flash</string>
+  <string name="flash_on">Flash used</string>
   <string name="flip">Flip</string>
   <string name="flip_polymorphism">photoeditor_effect_flip</string>
   <string name="flip_tooltip">Drag photo to flip</string>
@@ -730,7 +732,7 @@
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">Downloading video…</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
-  <string name="login_and_enable_service">To use Mi Cloud, sign in with your Mi Account</string>
+  <string name="login_and_enable_service">Start to login and use MiCloud</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
   <string name="megabyteShort">MB</string>
@@ -742,11 +744,11 @@
   <string name="merge_album">Merge</string>
   <string name="merge_album_title">Merge albums</string>
   <string name="messagelist_sender_self">Me</string>
-  <string name="micloud_introduce">Back up photos and videos automatically using your Mi Account</string>
+  <string name="micloud_introduce">Backup photos and videos automatically(Xiaomi account is needed)</string>
   <string name="more_face_album_name">More people</string>
   <string name="must_pick_file">Select a photo</string>
   <string name="need_to_turn_on_network">"You don't have an internet connection."</string>
-  <string name="need_to_turn_on_sync">Turn on backups to Mi Cloud first</string>
+  <string name="need_to_turn_on_sync">Turn on backuping to Mi Cloud first</string>
   <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
   <string name="negative">Negative</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
@@ -757,7 +759,7 @@
   <string name="not_ask_any_more">"Don't ask again for \"%s\" answers"</string>
   <string name="not_is">No</string>
   <string name="not_remind_any_more">"Don't show again"</string>
-  <string name="number_of_uploading_finish">Backed up albums automatically</string>
+  <string name="number_of_uploading_finish">Auto-backup albums have been backuped</string>
   <string name="old">Vintage</string>
   <string name="open">Turn on</string>
   <string name="open_public_message">Create a URL to share with your friends</string>
@@ -792,7 +794,7 @@
   <string name="operation_unforce_top">Unstick</string>
   <string name="operation_unhide">Unhide</string>
   <string name="orientation_lock_tip">Orientation locked</string>
-  <string name="orientation_unlock_tip">Auto-rotate is on</string>
+  <string name="orientation_unlock_tip">Auto-rotate opened</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_settings">Additional settings</string>
@@ -811,7 +813,7 @@
   <string name="pet_album_display_name">Pet photos</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Add phone number</string>
-  <string name="photo">Photo</string>
+  <string name="photo">Picture</string>
   <string name="photo_page_save_uri_image_fail">"Couldn't save to Camera photos"</string>
   <string name="photo_page_save_uri_image_ok">Photo saved to Camera photos</string>
   <string name="photo_save_succeed">Saved successfully</string>
@@ -895,7 +897,7 @@
   <string name="set_face_group_toast_msg_old_user">"Hold a person's photo to create groups (E.g., Family, Friends, Classmates, etc.)"</string>
   <string name="set_face_group_toast_title_new_user">Suggestion</string>
   <string name="set_face_group_toast_title_old_user">People can be organized in groups</string>
-  <string name="set_face_image">Set a new person</string>
+  <string name="set_face_image">Set a new face</string>
   <string name="set_group">Set group</string>
   <string name="shadow">Shadows</string>
   <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
@@ -916,14 +918,14 @@
   <string name="slideshow_interval_value">%1$d seconds</string>
   <string name="slim_after_backuped_summary">Replace full-resolution photos on the device with optimized versions after they have been backed up to Mi Cloud. Full-resolution photos will still be available in Mi Cloud. This can save a lot of local storage.</string>
   <string name="slim_after_backuped_title">Optimize local storage after successful backups</string>
-  <string name="slim_introduce">Replace full-resolution photos and videos on the device with optimized versions after they have been backed up to Mi Cloud. Full-resolution items will still be available in Mi Cloud. This can save a lot of local storage. Mi Account is required for this feature to work normally.</string>
-  <string name="slim_introduce_with_specific_size">Replace full-resolution photos and videos on the device with optimized versions after they have been backed up to Mi Cloud. Full-resolution items will still be available in Mi Cloud. This can save up to %1$s. Mi Account is required for this feature to work normally.</string>
-  <string name="slim_now">Reduce now</string>
-  <string name="slim_result_size">Saved %1$s</string>
-  <string name="slim_result_title">Reduced successfully</string>
-  <string name="slim_tip_msg">Photo size will be reduced automatically when WLAN is available. To download full-resolution files from Mi Cloud, tap \"Download photo\" in Details.</string>
-  <string name="slim_tip_title">About reducing photo size</string>
-  <string name="slimming">Reducing…</string>
+  <string name="slim_introduce">Replace full-resolution photos/videos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save more than 90% space(Xiaomi account is needed).</string>
+  <string name="slim_introduce_with_specific_size">Replace full-resolution photos/videos in local with optimized versions after they have been backuped to Mi Cloud. Full-resolution ones are still stored in Mi Cloud. This can save %1$s(Xiaomi account is needed).</string>
+  <string name="slim_now">Slim now</string>
+  <string name="slim_result_size">saved %1$s</string>
+  <string name="slim_result_title">Slimmed successfully</string>
+  <string name="slim_tip_msg">Albums will be slimmed automatically when WLAN is connected. Download full-resolution files by clicking \"Download photo\" menu in photo detail page.</string>
+  <string name="slim_tip_title">Slim tip</string>
+  <string name="slimming">Slimming…</string>
   <string name="square">Square</string>
   <string name="start_to_use_face_albumset">Sort by people</string>
   <string name="storage_no_space">Not enough space</string>
@@ -944,7 +946,7 @@
   <string name="tip_capture_time">Taken on:</string>
   <string name="tip_file_info">File info:</string>
   <string name="tip_file_path">Local path:</string>
-  <string name="tip_not_download">Will be downloaded automatically when playing.</string>
+  <string name="tip_not_download">No download. Will automatically download when playing.</string>
   <string name="title_set_name">Enter name</string>
   <string name="title_warn">Warning</string>
   <string name="to_count">%d total</string>
@@ -973,9 +975,9 @@
   <string name="view_queuing_status">Check status</string>
   <string name="vignette">Vignette</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-  <string name="welcome_to_auto_backup">Welcome to Mi Cloud</string>
-  <string name="welcome_to_micloud">Welcome to Mi Cloud</string>
-  <string name="welcome_to_slim">Keep your photos, save your space</string>
+  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
+  <string name="welcome_to_micloud">Welcome to MiCloud</string>
+  <string name="welcome_to_slim">Welcome to album slimming</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="who_is_this">Who?</string>
   <string name="xiaomi_account_not_exists_toast">"Mi Account doesn't exist"</string>
