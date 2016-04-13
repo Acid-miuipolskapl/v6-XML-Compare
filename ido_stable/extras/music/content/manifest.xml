@@ -85,12 +85,8 @@
     <Button x="#view_width/2-482" y="#view_height/2-257" w="520" h="513" visibility="or(eqs(@music_control.package,'com.miui.player'), isnull(@music_control.package))">
         <Triggers>
             <Trigger action="up">
-                <IntentCommand action="android.intent.action.MAIN" package="com.miui.player" class="com.miui.player.ui.MusicBrowserActivity" condition="isnull(@music_control.title)">
-                    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
-                </IntentCommand>
-                <IntentCommand action="com.miui.player.PLAYBACK_VIEWER" category="android.intent.category.DEFAULT" condition="not(isnull(@music_control.title))">
-                    <Extra name="intent_sender" type="string" expression="'home_widget'"/>
-                </IntentCommand>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=android.intent.action.MAIN;component=com.miui.player/.ui.MusicBrowserActivity;S.intent_sender=home_widget;end'" condition="isnull(@music_control.title)"/>
+				<ExternCommand command="start_activity" strPara="'#Intent;action=com.miui.player.PLAYBACK_VIEWER;category=android.intent.category.DEFAULT;S.intent_sender=home_widget;end'" condition="not(isnull(@music_control.title))"/>
                 <ExternCommand command="track_music_enter" strPara="@music_control.package"/>
             </Trigger>
         </Triggers>

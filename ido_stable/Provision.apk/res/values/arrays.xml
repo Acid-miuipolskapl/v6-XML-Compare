@@ -12,9 +12,14 @@
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
+        <item>ag</item>
         <item>ar</item>
+        <item>bs</item>
         <item>bh</item>
+        <item>bd</item>
+        <item>bb</item>
         <item>be</item>
+        <item>bz</item>
         <item>bo</item>
         <item>bw</item>
         <item>br</item>
@@ -24,6 +29,9 @@
         <item>cd</item>
         <item>cr</item>
         <item>ci</item>
+        <item>cu</item>
+        <item>dm</item>
+        <item>do</item>
         <item>ec</item>
         <item>eg</item>
         <item>sv</item>
@@ -33,8 +41,10 @@
         <item>fr</item>
         <item>gf</item>
         <item>gh</item>
+        <item>gd</item>
         <item>gt</item>
         <item>gy</item>
+        <item>ht</item>
         <item>hn</item>
         <item>hk</item>
         <item>in</item>
@@ -42,7 +52,9 @@
         <item>ir</item>
         <item>iq</item>
         <item>il</item>
+        <item>jm</item>
         <item>jo</item>
+        <item>kz</item>
         <item>ke</item>
         <item>kw</item>
         <item>lb</item>
@@ -52,20 +64,25 @@
         <item>mw</item>
         <item>my</item>
         <item>mr</item>
+        <item>mu</item>
         <item>mx</item>
         <item>ma</item>
         <item>mz</item>
         <item>mm</item>
         <item>na</item>
+        <item>np</item>
         <item>ni</item>
         <item>ng</item>
+        <item>kp</item>
         <item>om</item>
+        <item>pk</item>
         <item>ps</item>
         <item>pa</item>
         <item>py</item>
         <item>pe</item>
         <item>ph</item>
         <item>qa</item>
+        <item>ro</item>
         <item>ru</item>
         <item>rw</item>
         <item>sa</item>
@@ -75,6 +92,11 @@
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
+        <item>es</item>
+        <item>lk</item>
+        <item>kn</item>
+        <item>lc</item>
+        <item>vc</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
@@ -85,10 +107,13 @@
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
+        <item>tt</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>us</item>
         <item>uy</item>
+        <item>uz</item>
         <item>ve</item>
         <item>vn</item>
         <item>ye</item>

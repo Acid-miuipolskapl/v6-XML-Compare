@@ -45,10 +45,11 @@
   <string name="button_backup">Back up</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_continue">Continue</string>
-  <string name="button_finish">OK</string>
+  <string name="button_finish">Finish</string>
   <string name="button_next">Next</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Back</string>
+  <string name="button_send">Send</string>
   <string name="call_title">Call history</string>
   <string name="camera_summary">Camera settings (not including photos)</string>
   <string name="cancel">Cancel</string>
@@ -127,9 +128,13 @@
   <string name="local_no_backup">No backups.</string>
   <string name="local_restore_window_title">Local restore</string>
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
+  <string name="local_select_audio">Audios</string>
+  <string name="local_select_doc">Documents</string>
   <string name="local_select_files">SD card</string>
+  <string name="local_select_image">Images</string>
   <string name="local_select_sysdata">System</string>
   <string name="local_select_userapp">Apps</string>
+  <string name="local_select_video">Videos</string>
   <string name="miliao_account_guide">Use your Mi Account to sign in to Mi Cloud, MIUI Theme Store, and other Mi services, from anywhere.</string>
   <string name="miliao_account_login">Sign in with Mi Talk</string>
   <string name="mms_title">Multimedia messaging</string>
@@ -191,6 +196,10 @@
   <string name="select_storage_location">Choose backup location</string>
   <string name="service_stoped">Service stopped</string>
   <string name="settings_summary">Phone and messaging settings</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Messaging</string>
   <string name="software_backup_info">App data</string>
   <string name="st_antispam_mode_blacklist_state">11112121</string>
@@ -212,7 +221,7 @@
   <string name="task_backup_cancel_progress">Stopping…</string>
   <string name="task_backup_finished_local">"Backed up "</string>
   <string name="task_canceled">Backup canceled</string>
-  <string name="task_canceled_all_local">Cancel</string>
+  <string name="task_canceled_all_local">Canceled</string>
   <string name="task_canceled_local">Backup incomplete (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">"Backup isn't finished. Stop anyway?"</string>
   <string name="task_failed">"Couldn't back up"</string>
@@ -239,8 +248,13 @@
   <string name="total_num">%d items,</string>
   <string name="trans_backingup">Backing up …</string>
   <string name="trans_backingup_no_items">Syncing…</string>
-  <string name="trans_cancel_confirm">Transfer in progress, cancel now?</string>
+  <string name="trans_calculating">Calculating...</string>
+  <string name="trans_calculating_app_sd_size">Calculating data size to be sent, %s scanned</string>
+  <string name="trans_calculating_base_size">"Calculating app's base size"</string>
+  <string name="trans_cancel_confirm">Transfer in progress, stop now?</string>
   <string name="trans_cancelling">Canceling</string>
+  <string name="trans_connect_failed_message">"Connect failed, please retry or reboot. And on the other device, please Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender], or relaunch Mi Mover after reboot"</string>
+  <string name="trans_connect_failed_title">Connect failed</string>
   <string name="trans_connect_failed_toast">"Couldn't connect"</string>
   <string name="trans_connecting_toast">Connecting…</string>
   <string name="trans_detail_category_account">Accounts and contacts</string>
@@ -248,20 +262,45 @@
   <string name="trans_detail_category_sysdata">System data</string>
   <string name="trans_detail_category_userdata">Apps</string>
   <string name="trans_device_disconnected">Device disconnected</string>
-  <string name="trans_main_tutor">Transfer contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
+  <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
+  <string name="trans_main_tutor">Move contacts, call history, messages, home screen layout, apps, settings, etc. to a new device</string>
   <string name="trans_my_device">My device</string>
-  <string name="trans_one_key_migrate">Transfer</string>
-  <string name="trans_progress_subdescript_br_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_br_sender">Backing up %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Receiving %s</string>
-  <string name="trans_progress_subdescript_transing_sender">Sending %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Sending files…</string>
+  <string name="trans_native_no_space">"This device has no enough space
+Please clean out at least %s"</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_operate_func_one">Method A</string>
+  <string name="trans_operate_func_two">Method B</string>
+  <string name="trans_operate_new_phone_tips">"Scan QR code using new device
+Go to Settings &gt; Additional Settings &gt; Mi Mover
+Tap [I'm a recipient] to create a QR code"</string>
+  <string name="trans_operate_old_phone_tips1">"1. Install Mi Mover app on your old device
+2. Open the app and select [I'm a sender]
+3. Scan the QR code with your old device"</string>
+  <string name="trans_operate_old_phone_tips2">"Go to Settings &gt; Additional Settings &gt; Mi Mover, Tap [I'm a sender]"</string>
+  <string name="trans_please_waiting">Please wait ...</string>
+  <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_receiver">Receiving %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transing_sender">Sending %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Receiving files, %s completed</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Sending files, %s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Receiving sdcard datas of %1$s, %2$s completed</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Sending sdcard datas of %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_waiting">Waiting to receive %s</string>
   <string name="trans_receiver">"I'm a recipient"</string>
-  <string name="trans_receiving_completed">Data received</string>
+  <string name="trans_receiver_time_remained">"%s remaining.
+Don't turn off WLAN Hotspot. Keep devices close to each other."</string>
+  <string name="trans_receiving_completed">Received successfully</string>
   <string name="trans_restoring">Restoring…</string>
   <string name="trans_restoring_no_items">Syncing items</string>
+  <string name="trans_retry">Retry</string>
+  <string name="trans_scan_invalid_qrcode">QR code invalid</string>
+  <string name="trans_scan_qr_code_tips">Scan QR code using new device</string>
+  <string name="trans_select_data">Select items to send</string>
+  <string name="trans_select_data_no_space">"%s available on the new device
+Select files again or free up storage"</string>
+  <string name="trans_select_data_tips">"Select files to transfer
+Similar files on the new device will be overwritten"</string>
   <string name="trans_select_device_receive">Select one device to receive data.</string>
   <string name="trans_select_device_send">Select one device to transfer data.</string>
   <string name="trans_sender">"I'm a sender"</string>
@@ -269,11 +308,20 @@
   <string name="trans_sender_searching">Searching for new devices</string>
   <string name="trans_sender_searching_ensurance">"Make sure the old device is on
 Waiting for the old device to connect…"</string>
-  <string name="trans_sending_completed">Data sent</string>
-  <string name="trans_time_format_second">less than one minute</string>
-  <string name="trans_time_remained">, ready in</string>
+  <string name="trans_sender_time_remained">"%s remaining.
+Don't turn off WLAN. Keep devices close to each other."</string>
+  <string name="trans_sending_completed">Sent successfully</string>
+  <string name="trans_show_qr_code_label">Connect old device</string>
+  <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
+  <string name="trans_start_failed_message">Start failed, please retry or reboot and try again</string>
+  <string name="trans_start_failed_title">Start failed</string>
+  <string name="trans_time_format_second">Less than 1 minute</string>
+  <string name="trans_time_spent">"
+Time spent: %s"</string>
+  <string name="trans_wait_trans_data">"Connected to the old device.
+Waiting for the transfer…"</string>
   <string name="trans_waiting_ensurance">"Make sure the old device is on
-and Transfer is enabled"</string>
+and Mi Mover is on"</string>
   <string name="trans_waiting_for_sender">Waiting for the old device to connect…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" items"</string>
