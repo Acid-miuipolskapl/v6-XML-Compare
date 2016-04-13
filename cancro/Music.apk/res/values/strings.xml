@@ -215,7 +215,6 @@
   <string name="download_speed_null"/>
   <string name="download_start">Starting download…</string>
   <string name="download_success">Complete</string>
-  <string name="download_title">Downloads</string>
   <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
   <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
   <string name="download_traffic_dialog_buy_package">Buy music data plan</string>
