@@ -96,4 +96,13 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <array name="desktop_lyric_seekbar_track_color">
+        <item>#ff2973fc</item>
+        <item>#ffe28ce2</item>
+        <item>#ffe35d5d</item>
+        <item>#ffe64b4b</item>
+        <item>#ffffff00</item>
+        <item>#ff84cf84</item>
+        <item>#ff6fe9e9</item>
+    </array>
 </resources>
