@@ -216,7 +216,7 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"/>
   <string name="config_mobile_hotspot_provision_response"/>
   <string name="config_networkLocationProviderPackageName">com.baidu.map.location</string>
-  <string name="config_ntpServer">asia.pool.ntp.org</string>
+  <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_persistentDataPackageName">com.google.android.gms</string>
   <string name="config_rat_2g">2G</string>
@@ -259,7 +259,7 @@ using %s"</string>
   <string name="data_usage_warning_body">Touch to view usage and settings.</string>
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN data limit exceeded</string>
-  <string name="data_usage_wifi_limit_title">WLAN data is off</string>
+  <string name="data_usage_wifi_limit_title">WLAN data limit reached</string>
   <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Decrease day</string>
   <string name="date_picker_decrement_month_button">Decrease month</string>
@@ -923,11 +923,11 @@ Try again in %d seconds."</string>
   <string name="permdesc_checkinProperties">Allows the app read/write access to properties uploaded by the checkin service. Not for use by normal apps.</string>
   <string name="permdesc_clearAppCache">Allows the app to free phone storage by deleting files in the cache directories of other applications. This may cause other applications to start up more slowly as they need to re-retrieve their data.</string>
   <string name="permdesc_clearAppUserData">Allows the app to clear user data.</string>
-  <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to WLAN displays.</string>
+  <string name="permdesc_configureWifiDisplay">Allows the app to configure and connect to Wifi displays.</string>
   <string name="permdesc_confirm_full_backup">Allows the app to launch the full backup confirmation UI. Not to be used by any app.</string>
   <string name="permdesc_connection_manager">Allows the app to manage telecom connections.</string>
   <string name="permdesc_controlVpn">Allows the app to control low-level features of Virtual Private Networks.</string>
-  <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of WLAN displays.</string>
+  <string name="permdesc_controlWifiDisplay">Allows the app to control low-level features of Wifi displays.</string>
   <string name="permdesc_control_incall_experience">Allows the app to provide an in-call user experience.</string>
   <string name="permdesc_control_keyguard">Allows an application to control keguard.</string>
   <string name="permdesc_copyProtectedData">Allows the app to invoke default container service to copy content. Not for use by normal apps.</string>
@@ -1241,11 +1241,11 @@ for account %s."</string>
   <string name="permlab_checkinProperties">access checkin properties</string>
   <string name="permlab_clearAppCache">delete all app cache data</string>
   <string name="permlab_clearAppUserData">"delete other apps' data"</string>
-  <string name="permlab_configureWifiDisplay">configure WLAN displays</string>
+  <string name="permlab_configureWifiDisplay">configure Wifi displays</string>
   <string name="permlab_confirm_full_backup">confirm a full backup or restore operation</string>
   <string name="permlab_connection_manager">manage telecom connections</string>
   <string name="permlab_controlVpn">control Virtual Private Networks</string>
-  <string name="permlab_controlWifiDisplay">control WLAN displays</string>
+  <string name="permlab_controlWifiDisplay">control Wifi displays</string>
   <string name="permlab_control_incall_experience">provide an in-call user experience</string>
   <string name="permlab_control_keyguard">Control displaying and hiding keyguard</string>
   <string name="permlab_copyProtectedData">copy content</string>

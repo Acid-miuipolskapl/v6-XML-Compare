@@ -1591,6 +1591,27 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zm</item>
         <item>zw</item>
     </string-array>
+    <string-array name="broadcast_locales">
+        <item>AR</item>
+        <item>BO</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>TW</item>
+        <item>UY</item>
+        <item>VE</item>
+    </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
+    </string-array>
     <string-array name="common_password_business_keys">
         <item>keyguard</item>
         <item>childrenmode</item>
@@ -1628,23 +1649,5 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Everyday</item>
         <item>Weekdays</item>
         <item>Custom</item>
-    </string-array>
-    <string-array name="broadcast_locales">
-        <item>AR</item>
-        <item>BO</item>
-        <item>BR</item>
-        <item>CL</item>
-        <item>CO</item>
-        <item>EC</item>
-        <item>GF</item>
-        <item>GY</item>
-        <item>IN</item>
-        <item>IL</item>
-        <item>PY</item>
-        <item>PE</item>
-        <item>SR</item>
-        <item>TW</item>
-        <item>UY</item>
-        <item>VE</item>
     </string-array>
 </resources>
