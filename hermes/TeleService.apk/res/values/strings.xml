@@ -149,6 +149,7 @@
   <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
   <string name="call_settings">Call Settings</string>
   <string name="call_settings_category">Calls</string>
+  <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_waiting_summary">During a call, notify me of other incoming calls</string>
   <string name="call_waiting_title">Call waiting</string>

@@ -343,7 +343,7 @@
   <string name="nosend_message">"Don't send"</string>
   <string name="notification_failed_multiple">"%s messages couldn't be sent"</string>
   <string name="notification_failed_multiple_title">Messages not sent</string>
-  <string name="notification_multiple">%s unread messages</string>
+  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Enter phone number</string>
   <string name="open_url_with_web">Open this URL in Browser?</string>

@@ -52,12 +52,12 @@
         <item quantity="one">&lt;b>%1$d&lt;/b> muted.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" messages removed from 'important' folder"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" removed from 'important' folder"</item>
+        <item quantity="other">"&lt;b>%1$d&lt;/b> messages removed from 'important' folder"</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b> removed from 'important' folder"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&lt;b>%1$d&lt;/b>" removed from 'spam' folder"</item>
-        <item quantity="one">&lt;b>%1$d&lt;/b>" removed from 'spam' folder"</item>
+        <item quantity="other">"&lt;b>%1$d&lt;/b> removed from 'spam' folder"</item>
+        <item quantity="one">"&lt;b>%1$d&lt;/b> removed from 'spam' folder"</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other">&lt;b>%1$d&lt;/b> messages reported as spam</item>
