@@ -7,13 +7,13 @@
   <string name="Settings_title_garbage_cleanup">Cleaner settings</string>
   <string name="Settings_title_network_assistants">Data usage settings</string>
   <string name="Settings_title_power_center">Battery settings</string>
-  <string name="access_control_need_password">"%sLock added successfully
+  <string name="access_control_need_password">"%s added successfully
 "</string>
-  <string name="access_control_need_to_unlock">"Unlock with fingerprint
-or enter password"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Enter unlock password</string>
-  <string name="access_control_recording_intro_header">Draw pattern to add app lock</string>
-  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset app lock</string>
+  <string name="access_control_need_to_unlock">"Scan fingerprint
+or enter App Lock password"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Enter App Lock password</string>
+  <string name="access_control_recording_intro_header">Draw pattern to add App Lock</string>
+  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App Lock password</string>
   <string name="activity_title_antispam">Blocklist</string>
   <string name="activity_title_antivirus">Virus scan</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -150,6 +150,7 @@ or enter password"</string>
   <string name="button_text_uninstall_shortcut">Remove shortcut from Home screen</string>
   <string name="button_text_view">Optimize</string>
   <string name="button_text_view_power">View</string>
+  <string name="byteShort">B</string>
   <string name="cache_check_content_none">@string/memory_check_content_none</string>
   <string name="cache_header_title">Clear %1$d cached files to free %2$s of space</string>
   <string name="call_and_contact">Calls and Contacts</string>
@@ -167,7 +168,7 @@ or enter password"</string>
   <string name="cmcc_app_check_dialog_negative">Later</string>
   <string name="cmcc_app_check_dialog_positive">Restart now</string>
   <string name="cmcc_app_check_dialog_title">System repaired</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint reader</string>
+  <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="connect_internet_by_mobiledata">Mobile data connection</string>
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
@@ -185,7 +186,7 @@ or enter password"</string>
   <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
-  <string name="daily_pkg_traffic">peak data limit</string>
+  <string name="daily_pkg_traffic">Peak data limit</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
   <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
@@ -292,17 +293,17 @@ For more info check the message you received from your carrier"</string>
   <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
-  <string name="finger_remind_message">App lock supports fingerprint unlock. Add fingerprint?</string>
-  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
+  <string name="finger_remind_message">You can also use your fingerprint with App Lock.</string>
+  <string name="fingerprint_identify_msg">Scan your fingerprint</string>
   <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
   <string name="fingerprint_not_remind">"Don't ask again"</string>
   <string name="fingerprint_remind_dialog_title">Fingerprint unlock</string>
   <string name="fingerprint_to_lock">Unlock with fingerprint</string>
-  <string name="fingerprint_verification">Fingerprint verification</string>
-  <string name="fingerprint_verification_message">Verify current fingerprints to start using this feature.</string>
-  <string name="fingerprint_verify_failed">"Couldn't verify"</string>
-  <string name="fingerprint_verify_succeed">Verified successfully</string>
-  <string name="fingerprint_verify_try_agin">"Couldn't scan,try again"</string>
+  <string name="fingerprint_verification">Scan fingerprint</string>
+  <string name="fingerprint_verification_message">Scan your fingerprint to use this feature.</string>
+  <string name="fingerprint_verify_failed">"Couldn't verify fingerprint"</string>
+  <string name="fingerprint_verify_succeed">Fingerprint verified</string>
+  <string name="fingerprint_verify_try_agin">"Couldn't scan fingerprint, try again"</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
   <string name="firewall_applist">Apps</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
@@ -332,7 +333,8 @@ For more info check the message you received from your carrier"</string>
   <string name="gateway_exception_summary">Check your router and try again.</string>
   <string name="gateway_exception_summary2">"Can't connect to the server"</string>
   <string name="gateway_exception_title">Test router</string>
-  <string name="go_to_setting_fingerprint">Go to Settings</string>
+  <string name="gigabyteShort">GB</string>
+  <string name="go_to_setting_fingerprint">Settings</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memory</string>
   <string name="handle_text_system">System</string>
@@ -396,6 +398,7 @@ For more info check the message you received from your carrier"</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
+  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="last_check_date_today">"Scanned today "</string>
@@ -428,17 +431,21 @@ For more info check the message you received from your carrier"</string>
   <string name="lockpattern_need_to_confirm">Draw the pattern again to confirm</string>
   <string name="lockpattern_need_to_unlock">Confirm the saved pattern</string>
   <string name="lockpattern_need_to_unlock_wrong">Try again</string>
-  <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern</string>
+  <string name="lockpattern_pattern_confirmed_header">New unlock pattern</string>
   <string name="lockpattern_pattern_entered_header">Pattern added</string>
-  <string name="lockpattern_recording_incorrect_too_short">Connect at least%ddots</string>
-  <string name="lockpattern_recording_inprogress">Remove the finger after the pattern is complete</string>
+  <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots</string>
+  <string name="lockpattern_recording_inprogress">"Lift your finger when you're done"</string>
   <string name="lockpattern_recording_intro_header">Connect at least 4 dots to create a pattern</string>
   <string name="lockpattern_retry_button_text">Draw again</string>
-  <string name="lockpattern_settings_help_how_to_record">How to draw a pattern</string>
+  <string name="lockpattern_settings_help_how_to_record">Draw a pattern</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Wait for %d seconds and try again.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many unsuccessful attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
+  <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+  <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+  <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+  <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
   <string name="lockscreen_glogin_submit_button">Sign in</string>
@@ -490,6 +497,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="manual_item_white_list_summary">Prevent selected apps from being optimized</string>
   <string name="manual_item_white_list_title">Exceptions</string>
   <string name="manual_white_list_header">%d exceptions</string>
+  <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="memory_check_content_none">Empty</string>
   <string name="menu_item_about_content">Version %s</string>
@@ -584,6 +592,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 time</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
+  <string name="notification_item">Turn on App lock</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
@@ -617,7 +626,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
   <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
   <string name="packages_subtitle">Included packages</string>
-  <string name="passwordIncorrect">UserName or Password incorrect</string>
+  <string name="passwordIncorrect">Username or password is incorrect</string>
   <string name="pay_charge">Purchase additional data</string>
   <string name="pc_install_manager">Install via USB</string>
   <string name="pc_to_phone_install">Blocked installation of %s via USB</string>
@@ -639,11 +648,10 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="permit_running_network">Background data</string>
   <string name="person_hotpot">Mobile hotspots</string>
   <string name="pkg_traffic">Set data usage limit</string>
-  <string name="pm_auto_start_basic_services_lock">Lock</string>
-  <string name="pm_auto_start_basic_services_unlock">Unlock</string>
-  <string name="pm_auto_start_by_basic_services">Basic services</string>
-  <string name="pm_auto_start_by_other_services">Try turning off these services</string>
+  <string name="pm_auto_start_by_other">Triggered start</string>
+  <string name="pm_auto_start_by_other_app">Allow the app to be started by other apps</string>
   <string name="pm_auto_start_by_system">Start apps</string>
+  <string name="pm_auto_start_by_system_event">Allow apps to start automatically</string>
   <string name="pm_auto_start_proc_is_running">Running</string>
   <string name="pm_remember_choice">Remember my choice</string>
   <string name="pm_root_success_notification_title">Root access enabled</string>
@@ -824,7 +832,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
   <string name="pref_auto_adjust_traffic">Auto-sync data usage stats</string>
   <string name="pref_automatic_adjust">Sync carrier data usage</string>
-  <string name="pref_avaible_traffic">Wireless plan</string>
+  <string name="pref_avaible_traffic">Data plan</string>
   <string name="pref_category_title_lock_screen_memory_clean">Clean at lock screen</string>
   <string name="pref_category_title_module_settings">Feature settings</string>
   <string name="pref_category_title_other">Additional settings</string>
@@ -975,6 +983,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
   <string name="right_precent">100%</string>
   <string name="risk_list_header_title">%d suspicious apps detected</string>
+  <string name="roaming_allow_network_dialog_title">Allow mobile data roaming?</string>
   <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
   <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
   <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
@@ -1003,7 +1012,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="scanning_bar_system_title">Scanning system…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">App lock</string>
+  <string name="security_app_lock">App Lock</string>
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
@@ -1036,6 +1045,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">risks</string>
   <string name="suggest_app_tolock">Suggestions</string>
+  <string name="summary_app_lock_disable">Lock apps to protect your privacy</string>
   <string name="summary_cleaner_cloudscan">Upload and compare folder names with online definitions</string>
   <string name="summary_cloud_account">Get the most out of your Mi device</string>
   <string name="summary_cloud_service">Sync your photos, contacts, and more across all your devices</string>
@@ -1147,7 +1157,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="text_button">Got it</string>
   <string name="text_day"/>
   <string name="text_lock_info">Draw unlock pattern</string>
-  <string name="third_application">Third party apps</string>
+  <string name="third_application">Installed apps</string>
   <string name="three_percent_total_pkg">%s (3%% of monthly data)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>
@@ -1157,6 +1167,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">"Don't know your limit"</string>
   <string name="tips_message">"To view your data plan's details, dial %2$s (%1$s)."</string>
+  <string name="title_app_lock_disable">Lock apps</string>
   <string name="title_app_update">Updates available</string>
   <string name="title_cleaner_cloudscan">Upload folder names</string>
   <string name="title_cloud_account">Mi Account</string>
@@ -1271,7 +1282,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_mobile_usage">Data saver</string>
   <string name="traffic_saving_msg_month">Saved this month</string>
   <string name="traffic_saving_msg_not_started">Data saver is off</string>
-  <string name="traffic_saving_msg_today">saved today</string>
+  <string name="traffic_saving_msg_today">Saved today</string>
   <string name="traffic_saving_need_optimize">Can be optimized</string>
   <string name="traffic_saving_notification_button_start">Activate</string>
   <string name="traffic_saving_notify_no_apps_saving">Reduce data usage</string>

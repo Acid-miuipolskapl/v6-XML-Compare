@@ -1093,6 +1093,8 @@
         <item>com.miui.providers.weather</item>
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -1120,6 +1122,14 @@
     <string-array name="wifi_eap_method_add_sim_for_cmcc">
         <item>PEAP</item>
         <item>SIM</item>
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Menu button on the left, Back button on the right</item>
+        <item>Back button on the left, Menu button on the right</item>
+    </string-array>
+    <string-array name="screen_key_position_action_value">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Show recent apps tray</item>
@@ -1341,20 +1351,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>Unlimited</item>
-    </string-array>
-    <string-array name="slideshow_time_entryValues">
-        <item>300</item>
-        <item>900</item>
-        <item>1800</item>
-        <item>3600</item>
-        <item>-1</item>
-    </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Dial</item>
@@ -1543,10 +1539,14 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="organized_locales">
         <item>dz</item>
         <item>ao</item>
+        <item>ag</item>
         <item>ar</item>
+        <item>bs</item>
         <item>bh</item>
         <item>bd</item>
+        <item>bb</item>
         <item>be</item>
+        <item>bz</item>
         <item>bo</item>
         <item>bw</item>
         <item>br</item>
@@ -1557,6 +1557,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>cr</item>
         <item>ci</item>
         <item>cu</item>
+        <item>cz</item>
+        <item>dm</item>
         <item>do</item>
         <item>ec</item>
         <item>eg</item>
@@ -1567,6 +1569,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>fr</item>
         <item>gf</item>
         <item>gh</item>
+        <item>gd</item>
         <item>gt</item>
         <item>gy</item>
         <item>ht</item>
@@ -1606,18 +1609,24 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>py</item>
         <item>pe</item>
         <item>ph</item>
+        <item>pl</item>
         <item>qa</item>
+        <item>ro</item>
         <item>ru</item>
         <item>rw</item>
         <item>sa</item>
         <item>sn</item>
         <item>sg</item>
+        <item>sk</item>
         <item>so</item>
         <item>za</item>
         <item>gs</item>
         <item>kr</item>
         <item>es</item>
         <item>lk</item>
+        <item>kn</item>
+        <item>lc</item>
+        <item>vc</item>
         <item>sd</item>
         <item>sr</item>
         <item>sz</item>
@@ -1628,9 +1637,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
+        <item>tt</item>
         <item>ug</item>
         <item>ua</item>
         <item>ae</item>
+        <item>us</item>
         <item>uy</item>
         <item>uz</item>
         <item>ve</item>
@@ -1640,25 +1651,37 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AG</item>
         <item>AR</item>
         <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
         <item>BR</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
         <item>GF</item>
+        <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
         <item>PY</item>
         <item>PE</item>
         <item>SR</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
         <item>TW</item>
+        <item>TT</item>
         <item>UY</item>
         <item>VE</item>
     </string-array>
+    <string-array name="ncc_locales">
+        <item>TW</item>
+    </string-array>
     <string-array name="common_password_business_keys">
-        <item>keyguard</item>
+        <item>miui_keyguard</item>
         <item>childrenmode</item>
         <item>file_explorer</item>
         <item>com_miui_applicatinlock_use_fingerprint_state</item>

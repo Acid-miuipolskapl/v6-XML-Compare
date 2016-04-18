@@ -19,6 +19,9 @@
   <string name="accessibility_time_picker_second">Second</string>
   <string name="account_prifix">Account:</string>
   <string name="action">Sign in</string>
+  <string name="action_menu_account_not_login">Not login</string>
+  <string name="action_menu_account_not_login_hint">Use cloud setting when login</string>
+  <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Current version</string>
   <string name="action_menu_text_add_bookmark">Add bookmark</string>
   <string name="action_menu_text_bandwidth">Data saver</string>
@@ -40,6 +43,9 @@
   <string name="action_menu_text_share">Share</string>
   <string name="action_menu_text_snapshot">Save page</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toolbox">Toolbox</string>
+  <string name="action_menu_useful_page">Add useful</string>
+  <string name="action_menu_useful_page_added">Useful added</string>
   <string name="actionbar_share">Share</string>
   <string name="actionbar_web_search">Web search</string>
   <string name="adblock_notification">%d ads blocked</string>
@@ -71,6 +77,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
+  <string name="autofill_popup_content_description">Showing autofill pop-up</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
   <string name="autologin_bar_hide_text">Hide</string>
   <string name="autologin_bar_login_text">Sign in</string>
@@ -144,6 +151,8 @@
   <string name="color_picker_hue">Hue</string>
   <string name="color_picker_saturation">Saturation</string>
   <string name="color_picker_value">Value</string>
+  <string name="comment_app_menu">comment</string>
+  <string name="comment_menu">comment</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -179,6 +188,10 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
+  <string name="custom_head_card_text">"Always believe that something wonderful
+is about to happen"</string>
+  <string name="custom_head_card_text_incognito">"Only God and you know that
+privacy window​"</string>
   <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
@@ -297,6 +310,7 @@
   <string name="homepage_search_hint">Search</string>
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">"You're incognito! Web pages you view in this tab won't appear in your browser history."</string>
+  <string name="in_secureaccess">Browser switched to Safe mode</string>
   <string name="is_first_history_item">This is the first page in Browser history</string>
   <string name="is_first_tab">This is the first tab</string>
   <string name="is_last_history_item">This is the last page in Browser history</string>
@@ -318,6 +332,7 @@ Leave this page?"</string>
   <string name="license_activity_title">System WebView licenses</string>
   <string name="loading_tips">Pull down to refresh</string>
   <string name="local_bookmarks">Mi</string>
+  <string name="login_failed_toast">Login failed, please refresh.</string>
   <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
   <string name="max_tabs_warning">"Can't open more tabs"</string>
   <string name="maximum_input_alert">"Can't enter more than 2048 characters"</string>
@@ -362,14 +377,31 @@ Leave this page?"</string>
   <string name="miui_search_notification_message">Touch to open search bar.</string>
   <string name="miui_search_notification_title">Search</string>
   <string name="miui_startpage">Start page</string>
-  <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
-  <string name="miuichromium_error_page_mobile">Mobile network</string>
-  <string name="miuichromium_error_page_reason_network">"Can't connect to network"</string>
-  <string name="miuichromium_error_page_reason_server">"Couldn't load this page"</string>
-  <string name="miuichromium_error_page_reload">Reload</string>
-  <string name="miuichromium_error_page_title">"Can't find this page"</string>
-  <string name="miuichromium_error_page_url">"Can't connect to the network"</string>
-  <string name="miuichromium_error_page_wlan">Wi-Fi settings</string>
+  <string name="miuichromium_error_page_airplane_mode">Airplane mode</string>
+  <string name="miuichromium_error_page_airplane_mode_on">Turn off Airplane mode to connect</string>
+  <string name="miuichromium_error_page_btn_close">Close</string>
+  <string name="miuichromium_error_page_btn_refresh">Refresh</string>
+  <string name="miuichromium_error_page_diagnose">Network diagnostics</string>
+  <string name="miuichromium_error_page_diagnose_banner">Network diagnostics</string>
+  <string name="miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
+  <string name="miuichromium_error_page_diagnose_connection">"Couldn't connect to network"</string>
+  <string name="miuichromium_error_page_diagnose_dns">Looks like the URL is incorrect</string>
+  <string name="miuichromium_error_page_diagnose_protocol">Network protocol error</string>
+  <string name="miuichromium_error_page_diagnose_success">Poor network signal</string>
+  <string name="miuichromium_error_page_diagnose_timeout">Connection timed out</string>
+  <string name="miuichromium_error_page_diagnose_website">The website is down</string>
+  <string name="miuichromium_error_page_diagnosing">Checking network</string>
+  <string name="miuichromium_error_page_homepage">Home</string>
+  <string name="miuichromium_error_page_mobile">Mobile data</string>
+  <string name="miuichromium_error_page_network_hijack">"Current network isn't safe"</string>
+  <string name="miuichromium_error_page_network_off">Turn on Wi-Fi or mobile data</string>
+  <string name="miuichromium_error_page_no_network">"Can't connect to network"</string>
+  <string name="miuichromium_error_page_reload">Refresh</string>
+  <string name="miuichromium_error_page_safe_network">Safe mode</string>
+  <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
+  <string name="miuichromium_error_page_title">An error occurred</string>
+  <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
+  <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
@@ -414,6 +446,7 @@ Leave this page?"</string>
   <string name="page_info_address">Address:</string>
   <string name="page_info_view">View page info</string>
   <string name="password">Password</string>
+  <string name="password_generation_popup_content_description">Showing password generation pop-up</string>
   <string name="pause_download">Paused</string>
   <string name="paused_queued_for_wifi">Waiting for connection…</string>
   <string name="paused_unknown">Paused</string>
@@ -421,6 +454,7 @@ Leave this page?"</string>
   <string name="paused_waiting_to_retry">Waiting to retry…</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="positive_confirm_message">Turn off anyway</string>
+  <string name="pref_accessibility">Accessibility</string>
   <string name="pref_accessibility_title">Accessibility</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one press in the address bar</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
@@ -576,6 +610,7 @@ Leave this page?"</string>
   <string name="remove_history_item">Remove from history</string>
   <string name="remove_snapshot">Delete saved page</string>
   <string name="removed_from_bookmarks">Removed from bookmarks</string>
+  <string name="reply_comment_title">reply: %s</string>
   <string name="resume_download">Start</string>
   <string name="retry_after_network_available">"Can't connect to the network"</string>
   <string name="retry_download">Retry</string>
@@ -623,11 +658,15 @@ Leave this page?"</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Download in App Store</string>
+  <string name="secureaccess">Switch to Safe mode</string>
+  <string name="secureaccess_cancel">Ignore</string>
   <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
   <string name="security_warning">Security warning</string>
   <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
   <string name="select_dot">Select text</string>
   <string name="select_download_device">Choose device</string>
+  <string name="send_comment_button">send</string>
+  <string name="send_comment_title">comment</string>
   <string name="share_page_text">"I'm enjoying 【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"This website's URL will be sent to Xiaomi's servers to make sure it's secure. You can turn this feature off anytime in Settings."</string>
   <string name="show_security_tip_dialog_title">Terms of Service</string>
@@ -665,6 +704,8 @@ Leave this page?"</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_music">Mi Music</string>
   <string name="suggest_open_app_failed">"Couldn't open this app"</string>
+  <string name="switch_proxy_dialog_msg">"Network hijacking detected. Use MIUI's built-in Security app or report this to your mobile operator."</string>
+  <string name="switch_proxy_dialog_title">Network hijacking</string>
   <string name="tab_hotpage">News Feed</string>
   <string name="tab_quicklinks">Start Page</string>
   <string name="tab_yellowpage">Links</string>
@@ -714,6 +755,7 @@ Leave this page?"</string>
   <string name="version_update_file_download_toast">Downloading</string>
   <string name="version_update_file_not_found">"Can't find updates"</string>
   <string name="video_activity_name">Favorites</string>
+  <string name="video_buffering_percent">"Buffering "</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">Unfavorite</string>
   <string name="video_collect_success">Favorited</string>
@@ -741,6 +783,7 @@ Leave this page?"</string>
   <string name="video_group_noupdates_list">No updates available</string>
   <string name="video_group_updates_list">Updates</string>
   <string name="video_history_empty">No history</string>
+  <string name="video_play_error">"Couldn't play video"</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
