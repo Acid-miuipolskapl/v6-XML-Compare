@@ -77,7 +77,7 @@
   <string name="aqi_quality_index_moderate">AQI %1$s</string>
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-  <string name="autofill_popup_content_description">Showing autofill pop-up</string>
+  <string name="autofill_popup_content_description">Showing autofill popup</string>
   <string name="autologin_bar_error">"Couldn't sign in"</string>
   <string name="autologin_bar_hide_text">Hide</string>
   <string name="autologin_bar_login_text">Sign in</string>
@@ -399,7 +399,7 @@ Leave this page?"</string>
   <string name="miuichromium_error_page_reload">Refresh</string>
   <string name="miuichromium_error_page_safe_network">Safe mode</string>
   <string name="miuichromium_error_page_server_error">Too many devices are trying to connect</string>
-  <string name="miuichromium_error_page_title">An error occurred</string>
+  <string name="miuichromium_error_page_title">An error occured</string>
   <string name="miuichromium_error_page_unknown_error">Oops, something went wrong</string>
   <string name="miuichromium_error_page_wlan">Turn on Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
@@ -446,7 +446,7 @@ Leave this page?"</string>
   <string name="page_info_address">Address:</string>
   <string name="page_info_view">View page info</string>
   <string name="password">Password</string>
-  <string name="password_generation_popup_content_description">Showing password generation pop-up</string>
+  <string name="password_generation_popup_content_description">Showing password generation popup</string>
   <string name="pause_download">Paused</string>
   <string name="paused_queued_for_wifi">Waiting for connection…</string>
   <string name="paused_unknown">Paused</string>

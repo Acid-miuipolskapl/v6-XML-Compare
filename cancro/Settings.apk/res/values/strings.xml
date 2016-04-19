@@ -1050,6 +1050,7 @@ This setting affects all users on this phone."</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
+  <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
@@ -3293,6 +3294,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_memory">Total memory</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_assistant">Touch assistant</string>
   <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
