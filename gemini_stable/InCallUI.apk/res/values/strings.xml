@@ -30,10 +30,12 @@
   <string name="callFailed_unobtainable_number">Invalid number</string>
   <string name="callFailed_userBusy">Line busy</string>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
+  <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
   <string name="call_extension_conference_mode">Conference mode</string>
   <string name="call_record_button_label">Recording %s</string>
   <string name="call_record_wait_label">Waiting</string>
+  <string name="call_recording_deny_permission_msg">"You denied record permission, can't record."</string>
   <string name="call_recording_error_low_storage">Not enough space: your SD card is too full</string>
   <string name="call_recording_error_privacy">"Can't record while you're in Guest mode"</string>
   <string name="call_recording_error_sd_access">"Can't access SD card"</string>

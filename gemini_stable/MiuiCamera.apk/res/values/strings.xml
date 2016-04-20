@@ -76,7 +76,9 @@
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Waiting for previous panorama to finish</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
+  <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="pano_review_saving_indication_str">Saving…</string>
   <string name="pano_too_fast_prompt">Too fast</string>
@@ -397,7 +399,6 @@
   <string name="pref_simple_hdr_entry_off">Off</string>
   <string name="pref_simple_hdr_entry_on">On</string>
   <string name="pref_video_captrue_ability_title">Image capture while recording</string>
-  <string name="pref_video_effect_default">none</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_entryvalue_auto">auto</string>

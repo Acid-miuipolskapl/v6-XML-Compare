@@ -119,11 +119,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Backup and uninstall the selected apps?</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
   <string name="dialog_msg_load_cleanup_engine_error">Cleaner engine has been corrupted.</string>
+  <string name="dialog_msg_stop_scan">"Stop garbages scan before it's finished?"</string>
   <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="dialog_title_check_all">Select all</string>
   <string name="dialog_title_delete_image">Delete selected images</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
+  <string name="dialog_title_stop_scan">Stop garbages scan</string>
   <string name="dialog_title_uninstall_apps">Uninstall</string>
   <string name="download">Download</string>
   <string name="downloading">Downloading</string>
@@ -210,6 +212,7 @@
   <string name="hints_video_download">Downloaded videos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular today</string>
+  <string name="information_setting">News feed settings</string>
   <string name="installed">Installed</string>
   <string name="installing">Installing</string>
   <string name="item_title_process_mode">Choose an action</string>
@@ -217,6 +220,7 @@
   <string name="label_image_list_none">None</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
+  <string name="load_only_under_wlan">Load news when connected to WLAN</string>
   <string name="login_immediately">Sign in</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
