@@ -209,6 +209,7 @@
   <string name="homepage_tab_recent">Recent</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Videos</string>
+  <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">Cancel this operation?</string>
   <string name="image_loading_error">"Couldn't load image"</string>
   <string name="input_memo_hint">Enter additional reasons (optional)</string>
@@ -351,6 +352,7 @@ and never miss the cool new ones!"</string>
   <string name="no_network_retry">"Can't connect to the network. Check connection and try again."</string>
   <string name="no_network_str">"Couldn't connect to the network. Check your network connection and try again."</string>
   <string name="no_network_tip">"Can't connect to the network. Check connection and try again."</string>
+  <string name="no_new_content_tip">All items are up to date</string>
   <string name="no_recent_files">No recent files</string>
   <string name="no_tasks">No tasks.</string>
   <string name="no_wifi">No network detected</string>
@@ -550,10 +552,11 @@ and never miss the cool new ones!"</string>
   <string name="share_later">Cancel</string>
   <string name="share_link_failed">"Couldn't create link."</string>
   <string name="share_now">Share</string>
+  <string name="share_title_1">Found a cool sticker bundle!</string>
   <string name="share_to">Share to…</string>
   <string name="shared_sticker_network_permission_tip">"Couldn't connect to the network. Check your network connection and try again."</string>
   <string name="shared_sticker_page_no_file">"Couldn't connect to the network. Check your network connection and try again."</string>
-  <string name="shared_sticker_str">Shared by Mi fans</string>
+  <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved from Chats just like you send images.
 (GIFs can be added to Custom in WeChat Stickers)."</string>
@@ -587,14 +590,19 @@ and never miss the cool new ones!"</string>
   <string name="symbol_for_storage_tip">:</string>
   <string name="sys_size_enable">" available"</string>
   <string name="system_alert">Internet connection</string>
+  <string name="system_sticker_control">Show popular stickers</string>
+  <string name="system_sticker_control_tip">Show popular stickers in Explorer</string>
+  <string name="system_video_control">Show popular videos</string>
+  <string name="system_video_control_tip">Show popular videos in Explorer</string>
   <string name="tab_category">Categories</string>
   <string name="tab_common_app">Apps &amp; folders</string>
   <string name="tab_expand">Expand</string>
+  <string name="tab_hottest_video">Popular</string>
   <string name="tab_local">LOCAL</string>
   <string name="tab_local_video">Offline</string>
   <string name="tab_more">More</string>
   <string name="tab_path">FOLDERS</string>
-  <string name="tab_remote_video">Popular</string>
+  <string name="tab_remote_video">Recent</string>
   <string name="tab_source">Apps</string>
   <string name="tab_storage">STORAGE</string>
   <string name="tag_weixin_video">Video clips</string>
