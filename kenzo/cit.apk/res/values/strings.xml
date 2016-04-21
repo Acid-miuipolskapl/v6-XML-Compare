@@ -313,6 +313,9 @@ only in frame mode"</string>
   <string name="fptest">FPTest</string>
   <string name="fptestFail">FPTest Fail!</string>
   <string name="fptestPass">FPTest Pass!</string>
+  <string name="fptype">Fingerprint Handware Type:</string>
+  <string name="fptypeerror">Fingerprint Handware Error</string>
+  <string name="fptypegeterror">Get Type Failed!</string>
   <string name="frame_mod_info">frame</string>
   <string name="freq">Channel:</string>
   <string name="freq_add">Add frequence</string>
