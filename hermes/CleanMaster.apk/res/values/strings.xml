@@ -116,12 +116,15 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Delete photos from Mi Cloud as well</string>
   <string name="dialog_content_delete_image_confirm">Delete %d photos?</string>
   <string name="dialog_content_select_all_confirm">Keep a copy of this photo?</string>
+  <string name="dialog_msg_add_white_list_error">"The file doesn't support to add to exceptions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Backup and uninstall the selected apps?</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
   <string name="dialog_msg_esc_cleanmaster">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_load_cleanup_engine_error">Cleaner engine has been corrupted.</string>
   <string name="dialog_msg_stop_scan">Stop the ongoing clean up scan?</string>
   <string name="dialog_msg_uninstall_apps">Uninstall these apps?</string>
+  <string name="dialog_ok_add_white_list_error">Got it</string>
+  <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="dialog_title_check_all">Select all</string>
   <string name="dialog_title_delete_image">Delete selected images</string>
