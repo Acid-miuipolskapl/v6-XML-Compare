@@ -450,6 +450,7 @@
   <string name="vp_mobile_network_using_warning">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
   <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+  <string name="vp_more_show_video">Show AD</string>
   <string name="vp_mplayer_error_io">IO operation error</string>
   <string name="vp_mplayer_error_malformed">Malformed media content</string>
   <string name="vp_mplayer_error_server_died">Media server died</string>

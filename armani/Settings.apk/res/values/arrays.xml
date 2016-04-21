@@ -1371,19 +1371,17 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
+        <item>30000</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
+        <item>30 seconds</item>
         <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Hide system animations</item>
