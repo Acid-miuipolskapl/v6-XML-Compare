@@ -834,6 +834,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
+  <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
@@ -1357,6 +1358,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Click to change</string>
   <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
