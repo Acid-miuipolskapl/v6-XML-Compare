@@ -205,7 +205,7 @@
   <string name="contactAddFailed">"Can't add contact to SIM"</string>
   <string name="contactAddSuccess">Added contact to SIM</string>
   <string name="contactScreen">Add/Edit SIM contact</string>
-  <string name="contactUpdateFailed">Updated contact on SIM</string>
+  <string name="contactUpdateFailed">"Couldn't update contact on SIM"</string>
   <string name="contactUpdateSuccess">Updated contact on SIM</string>
   <string name="contactdeleteFailed">"Can't delete contact from SIM"</string>
   <string name="contactdeleteSuccess">Deleted contact from SIM</string>
