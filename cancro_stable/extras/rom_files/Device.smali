@@ -22,8 +22,6 @@
 
 .field public static final IS_H2X_LC:Z
 
-.field public static final IS_H3XLTE:Z
-
 .field public static final IS_HM:Z
 
 .field public static final IS_HM2:Z
@@ -79,7 +77,6 @@
 .method static constructor <clinit>()V
     .locals 4
 
-    .prologue
     const/4 v1, 0x1
 
     const/4 v2, 0x0
@@ -254,10 +251,6 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_H2X_LC:Z
 
-    sget-boolean v0, Lmiui/os/Build;->IS_HONGMI_THREEX:Z
-
-    sput-boolean v0, Lcom/android/camera/Device;->IS_H3XLTE:Z
-
     sget-boolean v0, Lmiui/os/Build;->IS_MIFOUR:Z
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
@@ -409,7 +402,6 @@
 .method public static adjustScreenLight()Z
     .locals 2
 
-    .prologue
     const/4 v0, 0x0
 
     sget-boolean v1, Lcom/android/camera/Device;->IS_CM_TEST:Z
@@ -433,7 +425,6 @@
 .method public static getBurstShootCount()I
     .locals 2
 
-    .prologue
     const-string v0, "burst_shoot_count"
 
     const/16 v1, 0x14
@@ -448,7 +439,6 @@
 .method public static getContinuousShotCallbackClass()Ljava/lang/String;
     .locals 1
 
-    .prologue
     const-string v0, "camera_continuous_shot_callback_class"
 
     invoke-static {v0}, Lmiui/util/FeatureParser;->getString(Ljava/lang/String;)Ljava/lang/String;
@@ -461,7 +451,6 @@
 .method public static getContinuousShotCallbackSetter()Ljava/lang/String;
     .locals 1
 
-    .prologue
     const-string v0, "camera_continuous_shot_callback_setter"
 
     invoke-static {v0}, Lmiui/util/FeatureParser;->getString(Ljava/lang/String;)Ljava/lang/String;
@@ -474,7 +463,6 @@
 .method public static isCaptureStopFaceDetection()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     if-nez v0, :cond_0
@@ -498,7 +486,6 @@
 .method public static isDelayCaptureSeperated()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI11:Z
 
     if-nez v0, :cond_0
@@ -534,7 +521,6 @@
 .method public static isEffectWatermarkFilted()Z
     .locals 2
 
-    .prologue
     const/4 v0, 0x0
 
     sget-boolean v1, Lcom/android/camera/Device;->IS_MI3W:Z
@@ -567,7 +553,6 @@
 .method public static isFaceDetectNeedRotation()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_face_detection_need_orientation"
 
     const/4 v1, 0x0
@@ -582,7 +567,6 @@
 .method public static isFloatExposureTime()Z
     .locals 2
 
-    .prologue
     invoke-static {}, Lcom/android/camera/Device;->isQcomPlatform()Z
 
     move-result v0
@@ -609,7 +593,6 @@
 .method public static isFrontVideoQualityShouldBe1080P()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI4:Z
 
     if-nez v0, :cond_0
@@ -665,7 +648,6 @@
 .method public static isHDRFreeze()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_freeze_after_hdr_capture"
 
     const/4 v1, 0x0
@@ -680,7 +662,6 @@
 .method public static isHalDoesCafWhenFlashOn()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_HM3Y:Z
 
     if-nez v0, :cond_0
@@ -704,7 +685,6 @@
 .method public static isHoldBlurBackground()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_hold_blur_background"
 
     const/4 v1, 0x0
@@ -719,7 +699,6 @@
 .method public static isLCPlatform()Z
     .locals 2
 
-    .prologue
     const-string v0, "leadcore"
 
     const-string v1, "vendor"
@@ -738,7 +717,6 @@
 .method public static isLowPowerQRScan()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_lower_qrscan_frequency"
 
     const/4 v1, 0x0
@@ -753,7 +731,6 @@
 .method public static isLowQualityPanorama()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_lower_size_panorama"
 
     const/4 v1, 0x0
@@ -768,7 +745,6 @@
 .method public static isLowerEffectSize()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_lower_size_effect"
 
     const/4 v1, 0x0
@@ -783,7 +759,6 @@
 .method public static isMDPRender()Z
     .locals 1
 
-    .prologue
     const/4 v0, 0x0
 
     return v0
@@ -792,7 +767,6 @@
 .method public static isMTKPlatform()Z
     .locals 2
 
-    .prologue
     const-string v0, "mediatek"
 
     const-string v1, "vendor"
@@ -811,7 +785,6 @@
 .method public static isNvPlatform()Z
     .locals 2
 
-    .prologue
     const-string v0, "nvidia"
 
     const-string v1, "vendor"
@@ -830,7 +803,6 @@
 .method public static isPad()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_pad"
 
     const/4 v1, 0x0
@@ -845,7 +817,6 @@
 .method public static isQcomPlatform()Z
     .locals 2
 
-    .prologue
     const-string v0, "qcom"
 
     const-string v1, "vendor"
@@ -861,10 +832,17 @@
     return v0
 .end method
 
+.method public static isReleaseLaterForGallery()Z
+    .locals 1
+
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
 .method public static isResetToCCAFAfterCapture()Z
     .locals 1
 
-    .prologue
     const/4 v0, 0x0
 
     return v0
@@ -873,7 +851,6 @@
 .method public static isSubthreadFrameListerner()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_preview_with_subthread_looper"
 
     const/4 v1, 0x0
@@ -888,7 +865,6 @@
 .method public static isSupportGradienter()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_gradienter"
 
     const/4 v1, 0x0
@@ -903,7 +879,6 @@
 .method public static isSupportedASD()Z
     .locals 3
 
-    .prologue
     const/4 v1, 0x0
 
     const-string v2, "camera_supported_asd"
@@ -912,7 +887,6 @@
 
     move-result v0
 
-    .local v0, "asd":I
     and-int/lit8 v2, v0, 0xf
 
     if-eqz v2, :cond_0
@@ -926,7 +900,6 @@
 .method public static isSupportedAoHDR()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_aohdr"
 
     const/4 v1, 0x0
@@ -941,7 +914,6 @@
 .method public static isSupportedAsdFlash()Z
     .locals 3
 
-    .prologue
     const/4 v1, 0x0
 
     const-string v2, "camera_supported_asd"
@@ -950,7 +922,6 @@
 
     move-result v0
 
-    .local v0, "asd":I
     and-int/lit8 v2, v0, 0x1
 
     if-eqz v2, :cond_0
@@ -964,7 +935,6 @@
 .method public static isSupportedAsdHdr()Z
     .locals 3
 
-    .prologue
     const/4 v1, 0x0
 
     const-string v2, "camera_supported_asd"
@@ -973,7 +943,6 @@
 
     move-result v0
 
-    .local v0, "asd":I
     and-int/lit8 v2, v0, 0x2
 
     if-eqz v2, :cond_0
@@ -987,7 +956,6 @@
 .method public static isSupportedAsdMotion()Z
     .locals 3
 
-    .prologue
     const/4 v1, 0x0
 
     const-string v2, "camera_supported_asd"
@@ -996,7 +964,6 @@
 
     move-result v0
 
-    .local v0, "asd":I
     and-int/lit8 v2, v0, 0x4
 
     if-eqz v2, :cond_0
@@ -1010,7 +977,6 @@
 .method public static isSupportedAsdNight()Z
     .locals 3
 
-    .prologue
     const/4 v1, 0x0
 
     const-string v2, "camera_supported_asd"
@@ -1019,7 +985,6 @@
 
     move-result v0
 
-    .local v0, "asd":I
     and-int/lit8 v2, v0, 0x8
 
     if-eqz v2, :cond_0
@@ -1033,7 +998,6 @@
 .method public static isSupportedAudioFocus()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_audio_focus"
 
     const/4 v1, 0x0
@@ -1048,7 +1012,6 @@
 .method public static isSupportedChromaFlash()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_chroma_flash"
 
     const/4 v1, 0x0
@@ -1063,7 +1026,6 @@
 .method public static isSupportedEdgeTouch()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_edge_handgrip"
 
     const/4 v1, 0x0
@@ -1075,10 +1037,36 @@
     return v0
 .end method
 
+.method public static isSupportedFaceInfoWaterMark()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedFastCapture()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_press_down_capture"
 
     const/4 v1, 0x0
@@ -1090,25 +1078,67 @@
     return v0
 .end method
 
+.method public static isSupportedFingerCapture()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HM3A:Z
+
+    if-eqz v0, :cond_0
+
+    sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedFishEyeMode()Z
     .locals 2
 
-    .prologue
-    const-string v0, "support_camera_fish_eye"
+    const/4 v0, 0x0
 
-    const/4 v1, 0x0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI3W:Z
 
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+    if-nez v1, :cond_0
 
-    move-result v0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI4:Z
 
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v1, :cond_0
+
+    const-string v1, "support_camera_fish_eye"
+
+    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :cond_1
     return v0
 .end method
 
 .method public static isSupportedGPS()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_record_location"
 
     const/4 v1, 0x0
@@ -1123,7 +1153,6 @@
 .method public static isSupportedHFR()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_hfr"
 
     const/4 v1, 0x0
@@ -1138,7 +1167,6 @@
 .method public static isSupportedIntelligentBeautify()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_age_detection"
 
     const/4 v1, 0x0
@@ -1153,7 +1181,6 @@
 .method public static isSupportedLongPressBurst()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_burst_shoot"
 
     const/4 v1, 0x0
@@ -1165,10 +1192,40 @@
     return v0
 .end method
 
+.method public static isSupportedMagicMirror()Z
+    .locals 1
+
+    sget-boolean v0, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
+
+    if-nez v0, :cond_1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-eqz v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isSupportedManualFunction()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_manual_function"
 
     const/4 v1, 0x0
@@ -1183,7 +1240,6 @@
 .method public static isSupportedMovieSolid()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_movie_solid"
 
     const/4 v1, 0x0
@@ -1198,7 +1254,6 @@
 .method public static isSupportedMuteCameraSound()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_CM:Z
 
     if-nez v0, :cond_0
@@ -1217,7 +1272,6 @@
 .method public static isSupportedObjectTrack()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_object_track"
 
     const/4 v1, 0x0
@@ -1232,7 +1286,6 @@
 .method public static isSupportedPeakingMF()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_peaking_mf"
 
     const/4 v1, 0x0
@@ -1247,7 +1300,6 @@
 .method public static isSupportedQuickSnap()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_quick_snap"
 
     const/4 v1, 0x0
@@ -1262,7 +1314,6 @@
 .method public static isSupportedSecondaryStorage()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_dual_sd_card"
 
     const/4 v1, 0x0
@@ -1277,7 +1328,6 @@
 .method public static isSupportedShaderEffect()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_shader_effect"
 
     const/4 v1, 0x0
@@ -1292,7 +1342,6 @@
 .method public static isSupportedSkinBeautify()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_skin_beauty"
 
     const/4 v1, 0x0
@@ -1307,22 +1356,42 @@
 .method public static isSupportedTiltShift()Z
     .locals 2
 
-    .prologue
-    const-string v0, "support_camera_tilt_shift"
+    const/4 v0, 0x0
 
-    const/4 v1, 0x0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI3W:Z
 
-    invoke-static {v0, v1}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+    if-nez v1, :cond_0
 
-    move-result v0
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI4:Z
 
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI5:Z
+
+    if-nez v1, :cond_0
+
+    sget-boolean v1, Lcom/android/camera/Device;->IS_MI7:Z
+
+    if-nez v1, :cond_0
+
+    const-string v1, "support_camera_tilt_shift"
+
+    invoke-static {v1, v0}, Lmiui/util/FeatureParser;->getBoolean(Ljava/lang/String;Z)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :cond_1
     return v0
 .end method
 
 .method public static isSupportedTorchCapture()Z
     .locals 2
 
-    .prologue
     const/4 v0, 0x0
 
     sget-boolean v1, Lcom/android/camera/Device;->IS_HM3A:Z
@@ -1346,7 +1415,6 @@
 .method public static isSupportedUbiFocus()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_ubifocus"
 
     const/4 v1, 0x0
@@ -1361,7 +1429,6 @@
 .method public static isSupportedVideoPause()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_video_pause"
 
     const/4 v1, 0x0
@@ -1376,7 +1443,6 @@
 .method public static isSupportedVideoQuality4kUHD()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_4k_quality"
 
     const/4 v1, 0x0
@@ -1391,7 +1457,6 @@
 .method public static isSupportedWaterMark()Z
     .locals 2
 
-    .prologue
     const-string v0, "support_camera_water_mark"
 
     const/4 v1, 0x0
@@ -1406,16 +1471,62 @@
 .method public static isSurfaceSizeLimited()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
     return v0
 .end method
 
+.method public static isThirdDevice()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_XIAOMI:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_HONGMI:Z
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
+.method public static isUseGooglePanorama()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A1:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
 .method public static isUsedMorphoLib()Z
     .locals 2
 
-    .prologue
     const-string v0, "is_camera_use_morpho_lib"
 
     const/4 v1, 0x0
@@ -1430,7 +1541,6 @@
 .method public static isVideoSnapshotSizeLimited()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI7:Z
 
     if-nez v0, :cond_0
@@ -1474,7 +1584,6 @@
 .method public static shouldRestartPreviewAfterZslSwitch()Z
     .locals 1
 
-    .prologue
     sget-boolean v0, Lcom/android/camera/Device;->IS_MI2:Z
 
     return v0
