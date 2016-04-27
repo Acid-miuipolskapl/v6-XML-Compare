@@ -526,6 +526,7 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">Go private</string>
+  <string name="go_to_virtual_sim_title">Virtual SIM</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
