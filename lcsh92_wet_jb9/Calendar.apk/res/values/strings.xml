@@ -26,6 +26,15 @@
   <string name="action_text_new_event">New event</string>
   <string name="action_text_online">发现</string>
   <string name="action_text_today">Today</string>
+  <string name="ad_card_connecting">连接中</string>
+  <string name="ad_card_download_count">%1$s人下载</string>
+  <string name="ad_card_download_count_million">%1$s万人下载</string>
+  <string name="ad_card_downloading">下载中</string>
+  <string name="ad_card_install">立即安装</string>
+  <string name="ad_card_installed">已安装</string>
+  <string name="ad_card_installing">安装中</string>
+  <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
+  <string name="ad_card_spread">推广</string>
   <string name="add_account">Add account</string>
   <string name="add_calendar">订阅</string>
   <string name="add_card">添加卡片</string>
@@ -226,6 +235,8 @@
   <string name="local_calendar_display_name">Local calendar</string>
   <string name="local_owner_account_name">Saved to this device</string>
   <string name="lunar_date">Lunar date</string>
+  <string name="match_ed">已结束</string>
+  <string name="match_ing">进行中</string>
   <string name="menu_about_preferences">About Calendar</string>
   <string name="menu_general_preferences">General settings</string>
   <string name="menu_preferences">Settings</string>
