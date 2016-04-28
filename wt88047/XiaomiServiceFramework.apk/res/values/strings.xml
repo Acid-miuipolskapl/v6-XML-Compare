@@ -12,6 +12,7 @@
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
   <string name="activate_feature_register_xiaomi_account">Mi Account setup</string>
+  <string name="activate_feature_remote_assist">Remote Assist</string>
   <string name="activate_feature_verify_mx_token">Mi Account verification</string>
   <string name="activate_history_cancelled">cancelled</string>
   <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
