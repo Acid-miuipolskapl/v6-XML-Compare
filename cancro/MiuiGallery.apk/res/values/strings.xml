@@ -29,7 +29,6 @@
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
-  <string name="adding">Adding</string>
   <string name="adding_recipients">Adding recipients…</string>
   <string name="adding_to_album">Adding photos…</string>
   <string name="adjust">Adjust</string>
@@ -564,9 +563,9 @@
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
   <string name="delete_from_album_no_account">from \"%s\" album</string>
   <string name="delete_from_all_devices">from all devices</string>
-  <string name="delete_from_devices">All devices that sync automatically</string>
-  <string name="delete_from_devices_album">All devices that have synced this album</string>
-  <string name="delete_from_homepage_album">The albums that show in home page</string>
+  <string name="delete_from_devices">All devices that are synced automatically</string>
+  <string name="delete_from_devices_album">All devices with which this album is synced</string>
+  <string name="delete_from_homepage_album">Albums on the home page</string>
   <string name="delete_from_web">Web albums</string>
   <string name="delete_in_album">When you delete photo or video from an album, it will also be deleted from:</string>
   <string name="delete_in_home_page">When you delete photo or video from the home page, it will also be deleted from:</string>
@@ -576,7 +575,6 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">Delete this photo?</string>
   <string name="delete_third_party_video">Delete this video?</string>
-  <string name="delete_to_trash_tips">You can view synced photos recently deleted from trash in settings</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -969,7 +967,6 @@
   <string name="user_alias_self">Self</string>
   <string name="user_notice_identify_summary_format">"By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_title">Attention</string>
-  <string name="video_edit_file_not_exits_tip">Yor need to download the video first</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="view_baby_album">View Baby album</string>
