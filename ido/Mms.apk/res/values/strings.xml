@@ -19,6 +19,8 @@
   <string name="add_slide_hint">Touch to create new slide</string>
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Timed</string>
+  <string name="add_to_browser_favorite_failed">failed</string>
+  <string name="add_to_browser_favorite_success">sucess</string>
   <string name="add_video">Add video</string>
   <string name="adding_attachments">Wait while the items are added to the slideshow.</string>
   <string name="adding_attachments_title">Adding attachments</string>

@@ -226,6 +226,8 @@
   <string name="local_calendar_display_name">Local calendar</string>
   <string name="local_owner_account_name">Saved to this device</string>
   <string name="lunar_date">Lunar date</string>
+  <string name="match_ed">已结束</string>
+  <string name="match_ing">进行中</string>
   <string name="menu_about_preferences">About Calendar</string>
   <string name="menu_general_preferences">General settings</string>
   <string name="menu_preferences">Settings</string>
