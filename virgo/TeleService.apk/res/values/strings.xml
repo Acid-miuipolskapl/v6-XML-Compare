@@ -222,7 +222,6 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
   <string name="can_not_call_self">"Can't dial own number"</string>
-  <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
   <string name="cancel">Cancel</string>
   <string name="card_title_MOcall_forwarding">Outgoing Forwarded Call</string>
   <string name="card_title_MTcall_forwarding">Incoming Call is Forwarded</string>
@@ -257,8 +256,6 @@
   <string name="cb_psw_dont_match">"Passwords don't match"</string>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
-  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
-  <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
   <string name="cdma_display_precise_call_state_title">Display call status</string>
@@ -298,7 +295,6 @@
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
   <string name="common_setting">General settings</string>
-  <string name="config_default_data_sim">Settings</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="config_world_mode"/>
@@ -531,7 +527,6 @@ Switch to the new provider anyway?"</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">Go private</string>
   <string name="go_to_virtual_sim_title">Virtual SIM</string>
-  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
