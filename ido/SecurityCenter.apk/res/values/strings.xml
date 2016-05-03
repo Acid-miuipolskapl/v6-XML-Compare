@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Cleaner settings</string>
   <string name="Settings_title_network_assistants">Data usage settings</string>
   <string name="Settings_title_power_center">Battery settings</string>
+  <string name="ac_enable_title">Turn on App lock</string>
   <string name="access_control_need_password">"%s added successfully
 "</string>
   <string name="access_control_need_to_unlock">"Scan fingerprint
@@ -52,6 +53,7 @@ or enter App Lock password"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
+  <string name="after_the_lock_screen">"App is locked together with the screen, You can change this in App lock's settings."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
@@ -414,6 +416,7 @@ For more info check the message you received from your carrier"</string>
   <string name="list_empty_text">Empty</string>
   <string name="load_fail">"Couldn't load"</string>
   <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
+  <string name="lock_mode_title">Lock settings</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s used at lock screen</string>
   <string name="lock_screen_traffic_guide_notification_title">Tap to manage data usage.</string>
   <string name="lock_screen_traffic_notify_body">Locked for %2$s at %1$s, data used %3$s</string>
@@ -536,7 +539,6 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
   <string name="mian_page_primary_txt">Overseas roaming</string>
-  <string name="modify_password_info">Unlock pattern</string>
   <string name="modifypassword">Change password</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
