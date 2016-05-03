@@ -297,7 +297,7 @@
   <string name="pref_camera_scenemode_entry_snow">Snow</string>
   <string name="pref_camera_scenemode_entry_sports">Sports</string>
   <string name="pref_camera_scenemode_entry_sunset">Sunset</string>
-  <string name="pref_camera_scenemode_title">Scene</string>
+  <string name="pref_camera_scenemode_title">Scene mode</string>
   <string name="pref_camera_setting_switch_default">off</string>
   <string name="pref_camera_setting_switch_entryvalue_off">off</string>
   <string name="pref_camera_setting_switch_entryvalue_on">on</string>
