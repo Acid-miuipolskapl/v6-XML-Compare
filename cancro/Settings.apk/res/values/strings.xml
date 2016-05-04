@@ -3609,8 +3609,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_on_touch_title">Vibrate on touch</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
-  <string name="virtual_sim_category_title">Virtual SIM</string>
+  <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">No Sim card is required to connect to a data network</string>
+  <string name="virtual_sim_global_title">Data traffic service</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>

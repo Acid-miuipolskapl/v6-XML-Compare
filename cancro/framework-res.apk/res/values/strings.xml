@@ -286,7 +286,6 @@ using %s"</string>
   <string name="db_default_sync_mode">FULL</string>
   <string name="db_wal_sync_mode">FULL</string>
   <string name="decline">Decline</string>
-  <string name="def_custom_bt_defname"/>
   <string name="def_wifi_direct_name"/>
   <string name="def_wifi_wifihotspot_pass"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
