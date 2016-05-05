@@ -138,6 +138,7 @@
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
+  <string name="call_record_loading_content">Loading…</string>
   <string name="call_record_off_summary">Call recording is turned off</string>
   <string name="call_record_on_summary">Calls will be recorded automatically</string>
   <string name="call_record_setting">Call recording</string>
@@ -232,6 +233,8 @@
   <string name="cfnry_title">Forward when unanswered</string>
   <string name="cfu_title">Always forward calls</string>
   <string name="change">Set</string>
+  <string name="change_default_data_card">Default mobile data SIM</string>
+  <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
   <string name="change_num">Update</string>
   <string name="change_password">Change barring password</string>
   <string name="change_pin">Change SIM PIN</string>
@@ -297,7 +300,19 @@
   <string name="description_delete_button">backspace</string>
   <string name="description_dial_button">dial</string>
   <string name="description_dialpad_overflow">More options</string>
+  <string name="description_image_button_eight">eight</string>
+  <string name="description_image_button_five">five</string>
+  <string name="description_image_button_four">four</string>
+  <string name="description_image_button_nine">nine</string>
+  <string name="description_image_button_one">one</string>
   <string name="description_image_button_plus">plus</string>
+  <string name="description_image_button_pound">pound</string>
+  <string name="description_image_button_seven">seven</string>
+  <string name="description_image_button_six">six</string>
+  <string name="description_image_button_star">star</string>
+  <string name="description_image_button_three">three</string>
+  <string name="description_image_button_two">two</string>
+  <string name="description_image_button_zero">zero</string>
   <string name="description_voicemail_button">voicemail</string>
   <string name="dial">Dial</string>
   <string name="dial_emergency_empty_error">Call not sent. Dial an emergency number!</string>
@@ -354,6 +369,8 @@
   <string name="domain_address_title">Server</string>
   <string name="domestic_calls">Only domestic</string>
   <string name="doneButton">Done</string>
+  <string name="dtmf_tone_entries_long">Long</string>
+  <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Set the length of DTMF tones</string>
   <string name="dtmf_tones_title">DTMF tones</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -465,6 +482,7 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">go private</string>
+  <string name="go_to_virtual_sim_title">Virtual SIM</string>
   <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
@@ -739,6 +757,8 @@ Top up and start talking"</string>
 Will use preferred network instead."</string>
   <string name="network_settings_turn_off">off</string>
   <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
+  <string name="network_type_3g_preferred_cmcc">3G/2G</string>
+  <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
   <string name="network_unconnected_message_livetalk">Network error,Try to make a regular call. It will be charged by the operator.</string>
   <string name="network_unconnected_title">Network error</string>
   <string name="network_unlock">Unlock</string>
@@ -1107,6 +1127,7 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="send_order_failed">"Couldn't send order"</string>
   <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Used for outbound calls</string>
+  <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error">"Can't set number"</string>
   <string name="set_smsc_address_timeout">Connection timed out</string>
   <string name="set_smsc_address_title">Set SMS center number</string>
