@@ -28,17 +28,17 @@
         <item>"This month: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>This month (data)</item>
-        <item>Yesterday WLAN</item>
-        <item>Today WLAN</item>
-        <item>This month WLAN</item>
+        <item>Mobile data yesterday</item>
+        <item>Mobile data today</item>
+        <item>Mobile data this month</item>
+        <item>WLAN yesterday</item>
+        <item>WLAN today</item>
+        <item>WLAN this month</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday (data)</item>
-        <item>Today (data)</item>
-        <item>This month (data)</item>
+        <item>Mobile data yesterday</item>
+        <item>Mobile data today</item>
+        <item>Mobile data this month</item>
     </string-array>
     <string-array name="network_speed_update_internals">
         <item>3 secs</item>
@@ -81,6 +81,11 @@
         <item>Medium</item>
         <item>High</item>
     </string-array>
+    <string-array name="roaming_network_type">
+        <item>Always</item>
+        <item>For exceptions only</item>
+        <item>Never</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
         <item>After 5 minutes</item>
@@ -117,14 +122,14 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Once</item>
-        <item>Everyday</item>
+        <item>Every day</item>
         <item>Legal workdays</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Once</item>
-        <item>Everyday</item>
+        <item>Every day</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
