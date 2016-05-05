@@ -11,7 +11,6 @@
   <string name="activity_title_ignored_image">Ignored</string>
   <string name="activity_title_image_gallery">Delete duplicates</string>
   <string name="activity_title_large_file">Big files</string>
-  <string name="activity_title_main">Clean Master</string>
   <string name="activity_title_news">News</string>
   <string name="activity_title_privacy_cache">Privacy Cache</string>
   <string name="activity_title_residual">Residuals</string>
@@ -148,7 +147,6 @@
   <string name="empty_title_residual">No residuals found</string>
   <string name="empty_title_video">No videos to delete​</string>
   <string name="flow_rank_title">Data usage</string>
-  <string name="function_app_lock_title">%d apps contain privacy risks​</string>
   <string name="garbage_clean_detail">Details</string>
   <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
   <string name="garbage_month">Cleaned %s this month</string>

@@ -194,7 +194,6 @@ is about to happen"</string>
 privacy window​"</string>
   <string name="data_traffic_prompt_change">Using your mobile data connection to watch videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
   <string name="data_traffic_prompt_message">Using your mobile data connection to browse videos will increase your data usage. If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
-  <string name="data_traffic_prompt_message_short">Using mobile data to stream video may cause you to go over your plans data usage limit.</string>
   <string name="data_traffic_prompt_title">Data usage warning</string>
   <string name="date_picker_dialog_clear">Clear</string>
   <string name="date_picker_dialog_other_button_label">Other</string>
@@ -777,9 +776,6 @@ Leave this page?"</string>
   <string name="video_downloaded_group">Downloaded</string>
   <string name="video_downloading_group">Downloading</string>
   <string name="video_edit">Edit</string>
-  <string name="video_float_window">PopUp</string>
-  <string name="video_float_window_playing">Playing video</string>
-  <string name="video_float_window_text">PopUp</string>
   <string name="video_fragment_name_collections">Favorites</string>
   <string name="video_fragment_name_download">Offline Video</string>
   <string name="video_fragment_name_historys">Watch History</string>

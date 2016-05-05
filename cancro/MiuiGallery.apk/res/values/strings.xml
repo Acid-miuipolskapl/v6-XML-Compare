@@ -29,7 +29,6 @@
   <string name="add_to_secret_failed_with_reason">"Can't add to hidden album. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s items can't be added to hidden album. %1$s."</string>
   <string name="add_to_secret_successful">Added to hidden album</string>
-  <string name="adding">Adding</string>
   <string name="adding_recipients">Adding recipients…</string>
   <string name="adding_to_album">Adding photos…</string>
   <string name="adjust">Adjust</string>
@@ -44,7 +43,7 @@
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">Shared</string>
   <string name="album_page_empty">Empty</string>
-  <string name="album_page_label">Album</string>
+  <string name="album_page_label">Albums</string>
   <string name="album_quota_fulfiled">Too many albums. Delete some albums and try again.</string>
   <string name="album_screenshot_name">Screenshots</string>
   <string name="album_share_exit_confirm">Exit this album?</string>
@@ -78,9 +77,8 @@
   <string name="auto_update_on">On</string>
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
   <string name="auto_upload_before_share_title">Hint</string>
-  <string name="auto_upload_disable_tip">AutoBackup is disabled</string>
-  <string name="auto_upload_disable_toast_long_press_menu">AutoBackup is disabled，and is addded to other album</string>
-  <string name="auto_upload_enable_toast_long_press_menu">AutoBackup is enabled, return album page to view</string>
+  <string name="auto_upload_disable_toast">"Photos and videos in this album won't be backed up automatically"</string>
+  <string name="auto_upload_enable_toast">Photos and videos in this album will be backed up automatically</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Baby album</string>
@@ -552,7 +550,7 @@
   <string name="create_quick_icon_on_desk">Create shortcut</string>
   <string name="creating_baby_album">Creating album…</string>
   <string name="crop">Crop</string>
-  <string name="crop_label">Crop</string>
+  <string name="crop_label">Cropped photos</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">Save</string>
   <string name="crop_tooltip">Drag markers to crop</string>
@@ -565,9 +563,9 @@
   <string name="delete_from_album">from \"%s\" album (all devices)</string>
   <string name="delete_from_album_no_account">from \"%s\" album</string>
   <string name="delete_from_all_devices">from all devices</string>
-  <string name="delete_from_devices">All devices that sync automatically</string>
-  <string name="delete_from_devices_album">All devices that have synced this album</string>
-  <string name="delete_from_homepage_album">The albums that show in home page</string>
+  <string name="delete_from_devices">All devices that are synced automatically</string>
+  <string name="delete_from_devices_album">All devices with which this album is synced</string>
+  <string name="delete_from_homepage_album">Albums on the home page</string>
   <string name="delete_from_web">Web albums</string>
   <string name="delete_in_album">When you delete photo or video from an album, it will also be deleted from:</string>
   <string name="delete_in_home_page">When you delete photo or video from the home page, it will also be deleted from:</string>
@@ -577,7 +575,6 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">Delete this photo?</string>
   <string name="delete_third_party_video">Delete this video?</string>
-  <string name="delete_to_trash_tips">You can view synced photos recently deleted from trash in settings</string>
   <string name="deny">Reject</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
@@ -680,7 +677,7 @@
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Empty</string>
-  <string name="home_page_label">Photo</string>
+  <string name="home_page_label">Photos</string>
   <string name="how_to_set_relation">Press &amp; hold an album to create a group</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -772,15 +769,15 @@
   <string name="operation_add_secret">Hide</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_detail">Details</string>
-  <string name="operation_disable_auto_upload">Disable autoBackup</string>
+  <string name="operation_disable_auto_upload">Turn off automatic backups</string>
   <string name="operation_download">Download photo (%s)</string>
   <string name="operation_edit">Edit</string>
-  <string name="operation_enable_auto_upload">Enable autoBackup</string>
+  <string name="operation_enable_auto_upload">Turn on automatic backups</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_force_top">Stick</string>
   <string name="operation_hide">Hide</string>
   <string name="operation_in_process">Processing…</string>
-  <string name="operation_not_show_in_photos_tab">Not show in photos tab</string>
+  <string name="operation_not_show_in_photos_tab">"Don't show in Photos tab"</string>
   <string name="operation_projection">Cast</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_secret">Unhide</string>
@@ -789,7 +786,7 @@
   <string name="operation_set_contact_photo">Set as contact photo</string>
   <string name="operation_set_wallpaper">Set as wallpaper</string>
   <string name="operation_share">Share</string>
-  <string name="operation_show_in_photos_tab">Show in photos tab</string>
+  <string name="operation_show_in_photos_tab">Show on home page</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">Start slideshow</string>
   <string name="operation_successful">Done</string>
@@ -800,7 +797,6 @@
   <string name="orientation_unlock_tip">Auto-rotate opened</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
-  <string name="other_album">Other albums</string>
   <string name="other_settings">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
   <string name="paint_brush">Paint brush</string>
@@ -971,7 +967,6 @@
   <string name="user_alias_self">Self</string>
   <string name="user_notice_identify_summary_format">"By using this service, you agree to Xiaomi's %1$s and %2$s."</string>
   <string name="user_notice_title">Attention</string>
-  <string name="video_edit_file_not_exits_tip">Yor need to download the video first</string>
   <string name="video_err">"Can't play video"</string>
   <string name="video_not_exist">"Video doesn't exist"</string>
   <string name="view_baby_album">View Baby album</string>
