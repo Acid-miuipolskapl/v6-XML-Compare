@@ -86,16 +86,6 @@
         <item>For exceptions only</item>
         <item>Never</item>
     </string-array>
-    <string-array name="lock_mode">
-        <item>Lock when device is locked</item>
-        <item>Lock after exiting app</item>
-        <item>Lock in 1 minutes after exiting app</item>
-    </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>After 1 minute</item>
         <item>After 5 minutes</item>

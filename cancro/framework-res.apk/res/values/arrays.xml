@@ -487,6 +487,22 @@
         <item>roamingTextSearching</item>
     </string-array>
     <array name="keypress_param_value" />
+    <integer-array name="umts_signal_strength_threshold">
+        <item>-140</item>
+        <item>-113</item>
+        <item>-103</item>
+        <item>-97</item>
+        <item>-89</item>
+        <item>-44</item>
+    </integer-array>
+    <integer-array name="lte_signal_strength_threshold">
+        <item>-140</item>
+        <item>-120</item>
+        <item>-115</item>
+        <item>-110</item>
+        <item>-100</item>
+        <item>-44</item>
+    </integer-array>
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
