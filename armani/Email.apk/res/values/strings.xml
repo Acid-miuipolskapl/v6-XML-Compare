@@ -4,7 +4,7 @@
   <string name="SMTP_password_text">Password</string>
   <string name="SMTP_username_text">Username</string>
   <string name="account_cache_provider">Account Cache Provider</string>
-  <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
+  <string name="account_duplicate_dlg_message_fmt">"        You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
@@ -12,10 +12,13 @@
   <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">An account with same name already exists</string>
   <string name="account_options_sync_title">Sync</string>
-  <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
-  <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
+  <string name="account_password_spaces_error">"This password starts or ends with one or more
+        space characters. Many servers don't support passwords with spaces."</string>
+  <string name="account_security_dialog_content_fmt">"%s requires that you update your security
+         settings."</string>
   <string name="account_security_dialog_title">Security update</string>
-  <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
+  <string name="account_security_policy_explanation_fmt">"The server %s requires that you allow it to remotely control
+         some security features of your Android device."</string>
   <string name="account_security_title">Device security</string>
   <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
   <string name="account_settings_action">Account settings</string>
@@ -28,7 +31,8 @@
   <string name="account_settings_enforced_label">Policies</string>
   <string name="account_settings_enforced_summary">None</string>
   <string name="account_settings_incoming_summary">Username, password, and other server settings</string>
-  <string name="account_settings_login_dialog_content_fmt">The username or password for %s is incorrect. Do you want to update them now?</string>
+  <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
+         Do you want to update them now?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
   <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
   <string name="account_settings_mail_check_frequency_label">Frequency</string>
@@ -63,25 +67,24 @@
   <string name="account_setup_basics_manual_setup_action">Manual setup</string>
   <string name="account_setup_basics_password_label">Password</string>
   <string name="account_setup_basics_title">Add account</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Validating server settings…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Validating smtp settings…</string>
-  <string name="account_setup_check_settings_retr_info_msg">Retrieving account information…</string>
+  <string name="account_setup_check_settings_check_incoming_msg">"    Validating server settings…"</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">"    Validating smtp settings…"</string>
+  <string name="account_setup_check_settings_retr_info_msg">"    Retrieving account information…"</string>
   <string name="account_setup_correct_address_tips">Enter email address</string>
-  <string name="account_setup_creating_account_msg">Creating account…</string>
-  <string name="account_setup_deleting_account_msg">Removing account…</string>
+  <string name="account_setup_creating_account_msg">"    Creating account…"</string>
+  <string name="account_setup_deleting_account_msg">"    Removing account…"</string>
   <string name="account_setup_exchange_certificate_title">Client certificate</string>
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
   <string name="account_setup_exchange_no_certificate">None</string>
-  <string name="account_setup_failed_auth_required">"Authentication methods aren't supported by server."</string>
   <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
-  <string name="account_setup_failed_check_credentials_message">The server responded with an error. Check your username and password, then try again.</string>
+  <string name="account_setup_failed_check_credentials_message">"         The server responded with an error. Check your username and password, then try again."</string>
   <string name="account_setup_failed_dlg_auth_message">Username or password is incorrect.</string>
   <string name="account_setup_failed_dlg_bar_title">Ways to sign in to %s</string>
   <string name="account_setup_failed_dlg_certificate_message">"Can't safely connect to server."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Can't safely connect to server.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"Couldn't sign in. This account has been locked.​"</string>
+  <string name="account_setup_failed_dlg_device_locked">"\"Couldn't sign in. This account has been locked.\"​"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
   <string name="account_setup_failed_dlg_error_code">Error code: %s</string>
   <string name="account_setup_failed_dlg_server_message">"Can't connect to server."</string>
@@ -92,9 +95,11 @@
   <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
-  <string name="account_setup_failed_protocol_unsupported">"You typed an incorrect server address or the server requires a protocol version that Email doesn't support."</string>
+  <string name="account_setup_failed_protocol_unsupported">"         You typed an incorrect server address or the server requires a protocol version that
+         Email doesn't support."</string>
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including: %s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"         This server requires security features that your Android device doesn't support,
+          including: %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
   <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
@@ -106,9 +111,9 @@
   <string name="account_setup_incoming_security_label">Security type</string>
   <string name="account_setup_incoming_security_none_label">None</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-  <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
+  <string name="account_setup_incoming_security_ssl_trust_certificates_label">"        SSL/TLS (Accept all certificates)"</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
-  <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accept all certificates)</string>
+  <string name="account_setup_incoming_security_tls_trust_certificates_label">"        STARTTLS (accept all certificates)"</string>
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_username_label">Username</string>
   <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
@@ -134,10 +139,12 @@
   <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Require sign-in</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP server</string>
-  <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
+  <string name="account_setup_security_policies_required_fmt">"         The server %s requires that you allow it to remotely control
+         some security features of your Android device. Do you want to finish setting up this
+         account?"</string>
   <string name="account_setup_security_required_title">Remote security administration</string>
   <string name="account_setup_server_acc_manager_title">Accounts</string>
-  <string name="account_setup_username_password_toast">Type a valid email address and password.</string>
+  <string name="account_setup_username_password_toast">"        Type a valid email address and password."</string>
   <string name="account_sync_off">Account sync is off.</string>
   <string name="account_waiting_for_folders_msg">Loading folders…</string>
   <string name="actionbar_large_unread_count">%1$d+ unread</string>
@@ -209,7 +216,8 @@
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
-  <string name="cant_move_or_change_labels">"Can't move because selection contains multiple accounts."</string>
+  <string name="cant_move_or_change_labels">"Can't move because selection contains multiple
+        accounts."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
@@ -218,10 +226,10 @@
   <string name="change_sync_settings">Change sync settings</string>
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
   <string name="chat_item_msg_people_unit">people</string>
-  <string name="chat_item_msg_user_etc"/>
+  <string name="chat_item_msg_user_etc">等</string>
   <string name="chat_view_description">View email threads as conversation bubbles</string>
   <string name="chat_view_title">Conversation view</string>
-  <string name="check_setup_data">Validating server settings…</string>
+  <string name="check_setup_data">"    Validating server settings…"</string>
   <string name="choosertitle_sharevia">Share using</string>
   <string name="clear">Clear</string>
   <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
@@ -313,7 +321,9 @@
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
-  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data."</string>
+  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority
+         to administer your device will delete all email accounts that require it, along with their
+         email, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
@@ -359,8 +369,14 @@
   <string name="empty_trash_dialog_title">Empty Trash?</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">This event has been canceled for: %s</string>
-  <string name="exception_updated">The details of this event have been changed for: %s</string>
+  <string name="exception_cancel">"
+        This event has been canceled
+        for:
+%s "</string>
+  <string name="exception_updated">"
+        The details of this event have been changed
+        for:
+%s "</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Expand recipient details</string>
@@ -376,7 +392,7 @@
   <string name="file_not_found">"Couldn't find file"</string>
   <string name="file_not_found_redownload">"Couldn't find file"</string>
   <string name="file_rar_not_support">"Can't open encrypted rar files"</string>
-  <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -527,16 +543,39 @@
   <string name="mark_unread">Mark unread</string>
   <string name="me_object_pronun">me</string>
   <string name="me_subject_pronun">me</string>
-  <string name="meeting_accepted">Accepted: %s</string>
-  <string name="meeting_allday">When: %s (all day)</string>
-  <string name="meeting_allday_recurring">When: %s (all day, recurring)</string>
-  <string name="meeting_canceled">Canceled: %s</string>
-  <string name="meeting_declined">Declined: %s</string>
-  <string name="meeting_recurring">When: %s (recurring)</string>
-  <string name="meeting_tentative">Tentative: %s</string>
-  <string name="meeting_updated">Updated: %s</string>
-  <string name="meeting_when">When: %s</string>
-  <string name="meeting_where">Where: %s</string>
+  <string name="meeting_accepted">"
+        Accepted:
+%s "</string>
+  <string name="meeting_allday">"
+        When:
+%s (all day)
+    "</string>
+  <string name="meeting_allday_recurring">"
+        When:
+%s (all day, recurring)
+    "</string>
+  <string name="meeting_canceled">"
+        Canceled:
+%s "</string>
+  <string name="meeting_declined">"
+        Declined:
+%s "</string>
+  <string name="meeting_recurring">"
+        When:
+%s (recurring)
+    "</string>
+  <string name="meeting_tentative">"
+        Tentative:
+%s "</string>
+  <string name="meeting_updated">"
+        Updated:
+%s "</string>
+  <string name="meeting_when">"
+        When:
+%s "</string>
+  <string name="meeting_where">"
+        Where:
+%s "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Attachments</string>
   <string name="menu_att_mgr_order_default">Recently viewed</string>
@@ -568,7 +607,8 @@
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
-  <string name="message_view_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
+  <string name="message_view_attachment_background_load">"One or more attachments in your
+        forwarded message will be downloaded prior to sending."</string>
   <string name="mibill_privacy_policy_button1">"Don't agree"</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
@@ -636,11 +676,13 @@
   <string name="outbox_no_mails">Empty</string>
   <string name="parase_setup_data">Getting data…</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
-  <string name="password_expire_warning_dialog_content_fmt">You need to change your lock screen PIN or password soon, or the data for%s will be erased. Do you want to change it now?</string>
+  <string name="password_expire_warning_dialog_content_fmt">"         You need to change your lock screen PIN or password soon, or the data for%s will be erased. Do you want to change it now?"</string>
   <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
-  <string name="password_expire_warning_ticker_fmt">\"%s\" requires that you change your lock screen PIN or password.</string>
+  <string name="password_expire_warning_ticker_fmt">"\"%s\" requires that you change your lock screen
+            PIN or password."</string>
   <string name="password_expired_content_title">Lock screen password expired</string>
-  <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Do you want to change it now?</string>
+  <string name="password_expired_dialog_content_fmt">"         The data for %s is being erased from your device.
+         You can restore it by changing your lock screen PIN or password. Do you want to change it now?"</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
@@ -671,7 +713,8 @@
   <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
   <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
-  <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app installers"</string>
+  <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app
+        installers"</string>
   <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
   <string name="policy_email_age">Limit the number of emails synced</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
@@ -729,8 +772,8 @@
   <string name="quick_4">"Let's set up a meeting to discuss this."</string>
   <string name="quick_reply_dialog_title">Choose a reply</string>
   <string name="quick_reply_hint">Reply to all %1$d people</string>
-  <string name="quick_reply_hint_bcc">"(In BCC) "</string>
-  <string name="quick_reply_hint_cc">"(In CC) "</string>
+  <string name="quick_reply_hint_bcc">(In BCC)</string>
+  <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_responses_empty_view">No quick replies</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -783,7 +826,7 @@
   <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Report spam</string>
   <string name="request_entity_large">File is too big</string>
-  <string name="respond_inline">Respond inline</string>
+  <string name="respond_inline">"   Respond inline"</string>
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
   <string name="save_draft_failed">Save draft failed</string>
@@ -793,19 +836,23 @@
   <string name="saving">Saving…</string>
   <string name="sdcard_cannot_use">"Can't use SD card"</string>
   <string name="search_hint">Search mail</string>
-  <string name="search_result">Results</string>
+  <string name="search_result">"Results "</string>
   <string name="search_tabs_name_all">All</string>
   <string name="search_tabs_name_recipient">Recipient</string>
   <string name="search_tabs_name_sender">Sender</string>
   <string name="search_tabs_name_subject">Subject</string>
   <string name="search_title">Unified Email</string>
   <string name="search_txt_size_limit_prompt">Search terms must be greater than 3 characters</string>
-  <string name="security_changed_ticker_fmt">Account \"%s\" changed its security settings; no user action is required.</string>
-  <string name="security_needed_ticker_fmt">Account \"%s\" requires security settings update.</string>
-  <string name="security_notification_content_change_title">Security policies have changed</string>
-  <string name="security_notification_content_unsupported_title">"Security policies can't be met"</string>
+  <string name="security_changed_ticker_fmt">"            Account \"%s\" changed its security settings; no user
+            action is required."</string>
+  <string name="security_needed_ticker_fmt">"            Account \"%s\" requires security settings update."</string>
+  <string name="security_notification_content_change_title">"Security policies have
+         changed"</string>
+  <string name="security_notification_content_unsupported_title">"Security policies can't be
+         met"</string>
   <string name="security_notification_content_update_title">Security update required</string>
-  <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
+  <string name="security_unsupported_ticker_fmt">"            Account \"%s\" can't be synced due to security
+    requirements."</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
   <string name="selected_lable">Selected</string>
@@ -888,7 +935,9 @@
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Sign in with EXCHANGE</string>
-  <string name="turn_auto_sync_on_dialog_body">Changes you make to all apps and accounts, not just Gmail, will be synchronized between the web, your other devices, and your %1$s.</string>
+  <string name="turn_auto_sync_on_dialog_body">"Changes you make to
+    all apps and accounts, not just Gmail, will be synchronized
+    between the web, your other devices, and your %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="undo">Undo</string>
