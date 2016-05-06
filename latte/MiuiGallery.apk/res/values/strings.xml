@@ -44,7 +44,7 @@
   <string name="album_others_share_info_format">From %s</string>
   <string name="album_owner_share">Shared</string>
   <string name="album_page_empty">Empty</string>
-  <string name="album_page_label">Albums</string>
+  <string name="album_page_label">Album</string>
   <string name="album_quota_fulfiled">Too many albums. Delete some albums and try again.</string>
   <string name="album_screenshot_name">Screenshots</string>
   <string name="album_share_exit_confirm">Exit this album?</string>
@@ -78,8 +78,9 @@
   <string name="auto_update_on">On</string>
   <string name="auto_upload_before_share_message">Back up this album to Mi Cloud before sharing</string>
   <string name="auto_upload_before_share_title">Hint</string>
-  <string name="auto_upload_disable_toast">"Photos and videos in this album won't be backed up automatically"</string>
-  <string name="auto_upload_enable_toast">Photos and videos in this album will be backed up automatically</string>
+  <string name="auto_upload_disable_tip">AutoBackup is disabled</string>
+  <string name="auto_upload_disable_toast_long_press_menu">AutoBackup is disabled，and is addded to other album</string>
+  <string name="auto_upload_enable_toast_long_press_menu">AutoBackup is enabled, return album page to view</string>
   <string name="autofix">Auto-fix</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="baby_album">Baby album</string>
@@ -551,7 +552,7 @@
   <string name="create_quick_icon_on_desk">Create shortcut</string>
   <string name="creating_baby_album">Creating album…</string>
   <string name="crop">Crop</string>
-  <string name="crop_label">Cropped photos</string>
+  <string name="crop_label">Crop</string>
   <string name="crop_polymorphism">photoeditor_effect_crop</string>
   <string name="crop_save_text">Save</string>
   <string name="crop_tooltip">Drag markers to crop</string>
@@ -679,7 +680,7 @@
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_page_empty">Empty</string>
-  <string name="home_page_label">Photos</string>
+  <string name="home_page_label">Photo</string>
   <string name="how_to_set_relation">Press &amp; hold an album to create a group</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="hybrid_check_network">Network settings</string>
@@ -771,15 +772,15 @@
   <string name="operation_add_secret">Hide</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_detail">Details</string>
-  <string name="operation_disable_auto_upload">Turn off automatic backups</string>
+  <string name="operation_disable_auto_upload">Disable autoBackup</string>
   <string name="operation_download">Download photo (%s)</string>
   <string name="operation_edit">Edit</string>
-  <string name="operation_enable_auto_upload">Turn on automatic backups</string>
+  <string name="operation_enable_auto_upload">Enable autoBackup</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_force_top">Stick</string>
   <string name="operation_hide">Hide</string>
   <string name="operation_in_process">Processing…</string>
-  <string name="operation_not_show_in_photos_tab">"Don't show in Photos tab"</string>
+  <string name="operation_not_show_in_photos_tab">Not show in photos tab</string>
   <string name="operation_projection">Cast</string>
   <string name="operation_remove_from_face_album">Remove from album</string>
   <string name="operation_remove_secret">Unhide</string>
@@ -788,7 +789,7 @@
   <string name="operation_set_contact_photo">Set as contact photo</string>
   <string name="operation_set_wallpaper">Set as wallpaper</string>
   <string name="operation_share">Share</string>
-  <string name="operation_show_in_photos_tab">Show on home page</string>
+  <string name="operation_show_in_photos_tab">Show in photos tab</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">Start slideshow</string>
   <string name="operation_successful">Done</string>
@@ -799,6 +800,7 @@
   <string name="orientation_unlock_tip">Auto-rotate opened</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
+  <string name="other_album">Other albums</string>
   <string name="other_settings">Additional settings</string>
   <string name="owner_album_subtitle">Shared with %1$s people</string>
   <string name="paint_brush">Paint brush</string>
