@@ -1717,13 +1717,4 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Weekdays</item>
         <item>Custom</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_ed">false</item>
-    <item type="array" name="APKTOOL_DUMMY_ee">false</item>
-    <item type="array" name="APKTOOL_DUMMY_ef">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f0">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f1">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f2">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f3">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f4">false</item>
-    <item type="array" name="APKTOOL_DUMMY_f5">false</item>
 </resources>

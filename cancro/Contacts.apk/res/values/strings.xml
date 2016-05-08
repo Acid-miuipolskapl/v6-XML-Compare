@@ -1,29 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APKTOOL_DUMMY_454">false</string>
-  <string name="APKTOOL_DUMMY_455">false</string>
-  <string name="APKTOOL_DUMMY_456">false</string>
-  <string name="APKTOOL_DUMMY_457">false</string>
-  <string name="APKTOOL_DUMMY_458">false</string>
-  <string name="APKTOOL_DUMMY_459">false</string>
-  <string name="APKTOOL_DUMMY_45a">false</string>
-  <string name="APKTOOL_DUMMY_45b">false</string>
-  <string name="APKTOOL_DUMMY_45c">false</string>
-  <string name="APKTOOL_DUMMY_45d">false</string>
-  <string name="APKTOOL_DUMMY_45e">false</string>
-  <string name="APKTOOL_DUMMY_45f">false</string>
-  <string name="APKTOOL_DUMMY_460">false</string>
-  <string name="APKTOOL_DUMMY_461">false</string>
-  <string name="APKTOOL_DUMMY_462">false</string>
-  <string name="APKTOOL_DUMMY_463">false</string>
-  <string name="APKTOOL_DUMMY_464">false</string>
-  <string name="APKTOOL_DUMMY_465">false</string>
-  <string name="APKTOOL_DUMMY_466">false</string>
-  <string name="APKTOOL_DUMMY_467">false</string>
-  <string name="APKTOOL_DUMMY_468">false</string>
-  <string name="APKTOOL_DUMMY_469">false</string>
-  <string name="APKTOOL_DUMMY_46a">false</string>
-  <string name="APKTOOL_DUMMY_46b">false</string>
   <string name="accessibility_calllog_detail">Call history details</string>
   <string name="account_container_title">Imported from</string>
   <string name="account_default">Phone</string>
