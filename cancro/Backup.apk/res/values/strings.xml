@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_14d">false</string>
+  <string name="APKTOOL_DUMMY_14e">false</string>
+  <string name="APKTOOL_DUMMY_14f">false</string>
+  <string name="APKTOOL_DUMMY_150">false</string>
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="account_contact_backup_info">Google Account, Mi Account, and Contacts data</string>
   <string name="account_login">Sign in</string>

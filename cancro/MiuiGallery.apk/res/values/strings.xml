@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_3dd">false</string>
+  <string name="APKTOOL_DUMMY_3de">false</string>
   <string name="__leak_canary_analysis_failed">Leak analysis failed</string>
   <string name="__leak_canary_class_has_leaked">%s has leaked</string>
   <string name="__leak_canary_delete">Delete</string>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_17e">false</string>
+  <string name="APKTOOL_DUMMY_17f">false</string>
   <string name="account_id_not_login">Touch to sign in</string>
   <string name="account_info">Mi Account</string>
   <string name="account_name_not_login">Sign in</string>

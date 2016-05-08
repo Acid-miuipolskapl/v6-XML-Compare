@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_85">false</string>
+  <string name="APKTOOL_DUMMY_86">false</string>
+  <string name="APKTOOL_DUMMY_87">false</string>
+  <string name="APKTOOL_DUMMY_88">false</string>
+  <string name="APKTOOL_DUMMY_89">false</string>
+  <string name="APKTOOL_DUMMY_8a">false</string>
+  <string name="APKTOOL_DUMMY_8b">false</string>
+  <string name="APKTOOL_DUMMY_8c">false</string>
+  <string name="APKTOOL_DUMMY_8d">false</string>
+  <string name="APKTOOL_DUMMY_8e">false</string>
+  <string name="APKTOOL_DUMMY_8f">false</string>
+  <string name="APKTOOL_DUMMY_90">false</string>
+  <string name="APKTOOL_DUMMY_91">false</string>
+  <string name="APKTOOL_DUMMY_92">false</string>
+  <string name="APKTOOL_DUMMY_93">false</string>
+  <string name="APKTOOL_DUMMY_94">false</string>
+  <string name="APKTOOL_DUMMY_95">false</string>
+  <string name="APKTOOL_DUMMY_96">false</string>
+  <string name="APKTOOL_DUMMY_97">false</string>
+  <string name="APKTOOL_DUMMY_98">false</string>
+  <string name="APKTOOL_DUMMY_99">false</string>
+  <string name="APKTOOL_DUMMY_9a">false</string>
+  <string name="APKTOOL_DUMMY_9b">false</string>
+  <string name="APKTOOL_DUMMY_9c">false</string>
+  <string name="APKTOOL_DUMMY_9d">false</string>
+  <string name="APKTOOL_DUMMY_9e">false</string>
+  <string name="APKTOOL_DUMMY_9f">false</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_title">Add</string>
   <string name="act_set_city_find_side">Locating…</string>

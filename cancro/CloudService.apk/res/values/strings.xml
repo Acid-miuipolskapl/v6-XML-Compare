@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_19f">false</string>
+  <string name="APKTOOL_DUMMY_1a0">false</string>
+  <string name="APKTOOL_DUMMY_1a1">false</string>
+  <string name="APKTOOL_DUMMY_1a2">false</string>
+  <string name="APKTOOL_DUMMY_1a3">false</string>
+  <string name="APKTOOL_DUMMY_1a4">false</string>
+  <string name="APKTOOL_DUMMY_1a5">false</string>
+  <string name="APKTOOL_DUMMY_1a6">false</string>
+  <string name="APKTOOL_DUMMY_1a7">false</string>
+  <string name="APKTOOL_DUMMY_1a8">false</string>
+  <string name="APKTOOL_DUMMY_1a9">false</string>
+  <string name="APKTOOL_DUMMY_1aa">false</string>
+  <string name="APKTOOL_DUMMY_1ab">false</string>
+  <string name="APKTOOL_DUMMY_1ac">false</string>
+  <string name="APKTOOL_DUMMY_1ad">false</string>
+  <string name="APKTOOL_DUMMY_1ae">false</string>
+  <string name="APKTOOL_DUMMY_1af">false</string>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
   <string name="account_related">Your device is associated with an existing Mi Account(%s). Connect to the network to verify the device.</string>

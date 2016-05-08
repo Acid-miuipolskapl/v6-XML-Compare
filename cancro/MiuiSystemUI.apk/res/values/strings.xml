@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="APKTOOL_DUMMY_f4">false</string>
+  <string name="APKTOOL_DUMMY_f5">false</string>
+  <string name="APKTOOL_DUMMY_f6">false</string>
+  <string name="APKTOOL_DUMMY_f7">false</string>
   <string name="accessibility_airplane_mode">Airplane mode.</string>
   <string name="accessibility_back">Back</string>
   <string name="accessibility_battery_level">Battery %d percent.</string>
