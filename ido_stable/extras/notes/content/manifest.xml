@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Gadget version="1" resDensity="480" extraResources="sw1440-den640::1.222" extraScaleByDensity="640:1.222">
 	<VariableBinders>
-		<ContentProviderBinder uri="content://notes/note/widget?keepStyle=false" columns="modified_date,snippet,_id" order="modified_date DESC" where="type=0 and (parent_id >= 0 or parent_id=-2) and  snippet IS not NULL and snippet!='' " countName="note_count">
+		<ContentProviderBinder uri="content://notes/note/widget?keepStyle=false" columns="modified_date,snippet,_id" order="modified_date DESC LIMIT 4" where="type=0 and (parent_id >= 0 or parent_id=-2) and  snippet IS not NULL and snippet!='' " countName="note_count">
 			<Variable name="note_date_0" type="long" column="modified_date" row="0"/>
 			<Variable name="note_date_1" type="long" column="modified_date" row="1"/>
 			<Variable name="note_date_2" type="long" column="modified_date" row="2"/>

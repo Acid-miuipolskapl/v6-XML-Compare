@@ -515,6 +515,8 @@
         <item>false</item>
     </string-array>
     <array name="config_cdma_international_roaming_indicators" />
+    <array name="config_manualBrightnessRemapIn" />
+    <array name="config_manualBrightnessRemapOut" />
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
