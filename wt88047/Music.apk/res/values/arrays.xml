@@ -97,9 +97,9 @@
         <item>\#</item>
     </string-array>
     <array name="desktop_lyric_seekbar_track_color">
-        <item>#ff2973fc</item>
+        <item>#ff13baff</item>
+        <item>#ff616acb</item>
         <item>#ffe28ce2</item>
-        <item>#ffe35d5d</item>
         <item>#ffe64b4b</item>
         <item>#ffffff00</item>
         <item>#ff84cf84</item>
