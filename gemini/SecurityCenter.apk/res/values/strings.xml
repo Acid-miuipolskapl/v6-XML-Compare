@@ -27,6 +27,7 @@ or enter App Lock password"</string>
   <string name="activity_title_network_speed_detail">Connection</string>
   <string name="activity_title_networkassistants">Data usage</string>
   <string name="activity_title_notification_bar_manager">Notifications</string>
+  <string name="activity_title_other_permission_manager">Other permissions</string>
   <string name="activity_title_perm_manager">Permissions</string>
   <string name="activity_title_permission_manager">Permissions</string>
   <string name="activity_title_permissions_manager">Permissions</string>
