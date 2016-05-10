@@ -124,7 +124,6 @@
   <string name="desktop_lyric_dialog_msg">Open it in My music-Settings-More advanced settings</string>
   <string name="desktop_lyric_dialog_positive_button">Try it now</string>
   <string name="desktop_lyric_dialog_title">Try desktop lyric</string>
-  <string name="desktop_lyric_lock_toast">Locked. Use the Mini Player in Notification Bar to unlock</string>
   <string name="desktop_lyric_setting_summary">Show the floating lyric on the desktop</string>
   <string name="desktop_lyric_setting_title">Desktop lyric</string>
   <string name="desktop_lyric_textsize">Text</string>

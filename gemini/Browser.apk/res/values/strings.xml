@@ -89,8 +89,6 @@
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
   <string name="bookmark_add_to">Add to</string>
-  <string name="bookmark_btn_select_all">Select all</string>
-  <string name="bookmark_btn_select_none">Deselect all</string>
   <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
   <string name="bookmark_folder_needs_title">Enter a group name</string>
   <string name="bookmark_group_lable">Group</string>
@@ -204,7 +202,6 @@ privacy window​"</string>
   <string name="date_picker_dialog_title">Set date</string>
   <string name="date_time_picker_dialog_title">Set date and time</string>
   <string name="delete">Delete</string>
-  <string name="delete_bookmark">Delete</string>
   <string name="delete_bookmark_group_warning">Delete \"%s\"? All bookmarks in this group will be deleted.</string>
   <string name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
   <string name="delete_download">Delete</string>
