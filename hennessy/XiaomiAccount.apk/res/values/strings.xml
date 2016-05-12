@@ -190,6 +190,7 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_device_activate_account">Activate account</string>
+  <string name="passport_find_device_display_id">unlock number:%s</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
