@@ -266,8 +266,8 @@
   <string name="original_price">original price</string>
   <string name="other_info">Other</string>
   <string name="other_setting">Additional</string>
-  <string name="path_develop_settings">Video/Settings/Develop Settings</string>
-  <string name="path_settings">Video/Settings</string>
+  <string name="path_develop_settings">System App/Video/Develop Settings</string>
+  <string name="path_settings">System App/Video/Settings</string>
   <string name="pause">Pause</string>
   <string name="pay_record">pay record</string>
   <string name="percent_status">%.0f%%</string>
