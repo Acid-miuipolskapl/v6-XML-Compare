@@ -319,6 +319,7 @@
     <string-array name="config_locationProviderPackageNames">
         <item>com.android.location.fused</item>
         <item>com.baidu.map.location</item>
+        <item>com.amap.android.location</item>
     </string-array>
     <array name="config_testLocationProviders" />
     <array name="config_twoDigitNumberPattern" />
