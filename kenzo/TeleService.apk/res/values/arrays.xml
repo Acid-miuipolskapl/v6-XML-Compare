@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="use_range_entries">
+        <item>@string/whole_calls</item>
+        <item>@string/domestic_calls</item>
+        <item>@string/international_calls</item>
+    </string-array>
+    <string-array name="use_range_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="transport_types">
         <item>UDP</item>
         <item>TCP</item>
@@ -7,25 +17,42 @@
     <string-array name="sip_call_options_entries">
         <item>@string/sip_call_options_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
     </string-array>
     <string-array name="sip_call_options_wifi_only_entries">
         <item>@string/sip_call_options_wifi_only_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
     </string-array>
     <string-array name="sip_call_options_values">
         <item>@string/sip_always</item>
         <item>@string/sip_address_only</item>
-        <item>@string/sip_ask_me_each_time</item>
-    </string-array>
-    <string-array name="phone_type_values">
-        <item>@string/pstn_phone</item>
-        <item>@string/internet_phone</item>
     </string-array>
     <string-array name="sip_send_keepalive_options">
         <item>@string/sip_system_decide</item>
         <item>@string/sip_always_send_keepalive</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Triple mode</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="ims_vt_call_quality_entries">
+        <item>@string/ims_vt_call_quality_low</item>
+        <item>@string/ims_vt_call_quality_high</item>
+    </string-array>
+    <string-array name="ims_vt_call_quality_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="phone_type_values">
+        <item>@string/pstn_phone</item>
+        <item>@string/internet_phone</item>
     </string-array>
     <string-array name="t9_indexing_method_entries">
         <item>@string/t9_indexing_method_pinyin</item>
@@ -72,10 +99,10 @@
         <item>2</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
-        <item>TTY Full</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
+        <item>@string/APKTOOL_DUMMY_0597</item>
+        <item>@string/APKTOOL_DUMMY_0595</item>
+        <item>@string/APKTOOL_DUMMY_0596</item>
+        <item>@string/APKTOOL_DUMMY_0598</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -84,8 +111,8 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>@string/dtmf_tone_entries_normal</item>
+        <item>@string/dtmf_tone_entries_long</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
@@ -131,23 +158,11 @@
         <item>@string/call_record_auto_always</item>
         <item>@string/call_record_whitelist_custom</item>
     </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Triple mode</item>
-    </string-array>
     <string-array name="uplmn_prefer_network_mode_w_choices">
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
         <item>Triple mode</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
     </string-array>
     <string-array name="ivr_type_settings_entries">
         <item>@string/ivr_type_cm_1</item>
@@ -189,63 +204,6 @@
         <item>18</item>
         <item>1</item>
     </integer-array>
-    <integer-array name="network_mode_3g_cm">
-        <item>16</item>
-        <item>1</item>
-        <item>13</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cm">
-        <item>17</item>
-        <item>16</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cu">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cu">
-        <item>9</item>
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_gsm">
-        <item>20</item>
-        <item>18</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="network_mode_3g_cdma">
-        <item>7</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_4g_cdma">
-        <item>10</item>
-        <item>8</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="network_mode_all_lte">
-        <item>10</item>
-        <item>8</item>
-        <item>20</item>
-    </integer-array>
-    <string-array name="use_range_entries">
-        <item>@string/whole_calls</item>
-        <item>@string/domestic_calls</item>
-        <item>@string/international_calls</item>
-    </string-array>
-    <string-array name="use_range_entry_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="ims_vt_call_quality_entries">
-        <item>@string/ims_vt_call_quality_low</item>
-        <item>@string/ims_vt_call_quality_high</item>
-    </string-array>
-    <string-array name="ims_vt_call_quality_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="clir_display_values">
         <item>Network default</item>
         <item>Hide number</item>
@@ -421,4 +379,43 @@
         <item>3</item>
         <item>4</item>
     </string-array>
+    <integer-array name="network_mode_3g_cm">
+        <item>16</item>
+        <item>1</item>
+        <item>13</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cm">
+        <item>17</item>
+        <item>16</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_3g_cu">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cu">
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_gsm">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_3g_cdma">
+        <item>7</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cdma">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="network_mode_all_lte">
+        <item>10</item>
+        <item>8</item>
+        <item>20</item>
+    </integer-array>
 </resources>
