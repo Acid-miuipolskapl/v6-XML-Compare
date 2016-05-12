@@ -495,6 +495,10 @@
   <string name="pay_now">Current service</string>
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
+  <string name="permission_declaration_message">Allow access to storage in Security &gt; Permissions &gt; Permissions &gt; Storage &gt; Music to be able to use Music normally.</string>
+  <string name="permission_declaration_negative_text">Later</string>
+  <string name="permission_declaration_positive_text">Go to Security</string>
+  <string name="permission_declaration_title">Allow access</string>
   <string name="play_all_song">Play all</string>
   <string name="play_next">Play next.</string>
   <string name="playback_failed_no_title_by_bad_file">"This song's format isn't supported or the file doesn't exist."</string>
