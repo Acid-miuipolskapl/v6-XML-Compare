@@ -748,8 +748,10 @@
   <string name="merge_album_title">Merge albums</string>
   <string name="messagelist_sender_self">Me</string>
   <string name="micloud_introduce">Backup photos and videos automatically(Xiaomi account is needed)</string>
+  <string name="more_album_hint">,etc</string>
   <string name="more_face_album_name">More people</string>
   <string name="must_pick_file">Select a photo</string>
+  <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"You don't have an internet connection."</string>
   <string name="need_to_turn_on_sync">Turn on backuping to Mi Cloud first</string>
   <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
@@ -875,6 +877,7 @@
   <string name="rotate">Rotate</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
+  <string name="runtime_permission_ungranted">Gallery exit because of ungranted permission</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
   <string name="saturation">Saturation</string>
   <string name="saturation_abbr">S</string>
