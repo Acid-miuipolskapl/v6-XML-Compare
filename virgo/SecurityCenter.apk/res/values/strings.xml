@@ -13,10 +13,10 @@
   <string name="access_control_need_password">"%s added successfully
 "</string>
   <string name="access_control_need_to_unlock">"Scan fingerprint
-or enter App Lock password"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Enter App Lock password</string>
-  <string name="access_control_recording_intro_header">Draw pattern to add App Lock</string>
-  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App Lock password</string>
+or enter App lock password"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
+  <string name="access_control_recording_intro_header">Draw pattern to add App lock</string>
+  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App lock password</string>
   <string name="activity_title_antispam">Blocklist</string>
   <string name="activity_title_antivirus">Virus scan</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -56,7 +56,7 @@ or enter App Lock password"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="after_the_lock_screen">"App is locked together with the screen, You can change this in App lock's settings."</string>
+  <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
@@ -243,7 +243,7 @@ For more info check the message you received from your carrier"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="delete">Delete</string>
   <string name="delete_from_manual_item_white_list">Remove from exceptions</string>
-  <string name="deleted_apps">Deleted Apps</string>
+  <string name="deleted_apps">Deleted apps</string>
   <string name="descx_cleanuping_item">Optimizing %s</string>
   <string name="descx_finish_cleanup_cache">Finishing cache optimization</string>
   <string name="descx_finish_cleanup_memory">Finishing memory optimization</string>
@@ -298,9 +298,9 @@ For more info check the message you received from your carrier"</string>
   <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
-  <string name="finger_remind_message">You can also use your fingerprint with App Lock.</string>
+  <string name="finger_remind_message">You can also use your fingerprint with App lock.</string>
   <string name="fingerprint_identify_msg">Scan your fingerprint</string>
-  <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+  <string name="fingerprint_not_identified_msg">To unlock the device, enter your password.</string>
   <string name="fingerprint_not_remind">"Don't ask again"</string>
   <string name="fingerprint_remind_dialog_title">Fingerprint unlock</string>
   <string name="fingerprint_to_lock">Unlock with fingerprint</string>
@@ -619,6 +619,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="online_songs">Music</string>
   <string name="open_now">Allow app to use mobile data</string>
   <string name="operator_diagnostic">Carrier diagnostics</string>
+  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -864,6 +865,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_leisure_no_overlay">On</string>
   <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">Set data usage stats manually</string>
+  <string name="pref_mi_sim_settings">Mi SIM Settings</string>
   <string name="pref_month_begin_date">Usage reset date</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Additional settings</string>
@@ -998,7 +1000,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_not_start_title">Overseas roaming</string>
   <string name="roaming_start_body">Touch to view data roaming exceptions.</string>
   <string name="roaming_start_title">Overseas roaming</string>
-  <string name="root">Root Access</string>
+  <string name="root">Root access</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
   <string name="root_apply_step_3">Your data is more vulnerable to attack from apps with root access.</string>
@@ -1018,7 +1020,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="scanning_bar_system_title">Scanning system…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">App Lock</string>
+  <string name="security_app_lock">App lock</string>
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
@@ -1084,7 +1086,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
-  <string name="system_app">System Apps</string>
+  <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content">%1$d risks</string>
   <string name="system_check_content_none">Safe</string>
@@ -1369,6 +1371,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="virus_list_header_title">%d viruses detected</string>
+  <string name="warning_open_mi_sim">Turn on Mi SIM</string>
   <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
