@@ -403,7 +403,7 @@ and never miss the cool new ones!"</string>
   <string name="notification_wechat_title">When chat videos are about to expire</string>
   <string name="notify_private_folder_msg">Tap to learn more.</string>
   <string name="notify_private_folder_title">Create hidden folders</string>
-  <string name="oauth_failed_tip">"Couldn't complete autorization"</string>
+  <string name="oauth_failed_tip">"Couldn't complete authorization"</string>
   <string name="oauth_success_tip">Authorized successfully</string>
   <string name="online_not_support">"Can't view this file at the moment."</string>
   <string name="open_changed_file_message">"The file you are trying to open has been changed. Please:
@@ -747,7 +747,7 @@ and never miss the cool new ones!"</string>
   <string name="video_upload_btn">Next</string>
   <string name="video_upload_btn_hint">MP4 videos should be 3s~10min long</string>
   <string name="video_upload_btn_hint_span">"Can't find your video?"</string>
-  <string name="video_upload_item_more">More(%1$s)</string>
+  <string name="video_upload_item_more">More (%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
   <string name="video_upload_retry_confirm">Try again</string>
   <string name="video_upload_retry_message">"Couldn't upload, try again?"</string>
