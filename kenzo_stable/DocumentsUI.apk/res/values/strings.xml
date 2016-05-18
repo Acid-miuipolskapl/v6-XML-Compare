@@ -7,8 +7,8 @@
   <string name="drawer_open">Show roots</string>
   <string name="drm_license_info">Drm license info</string>
   <string name="empty">No items</string>
-  <string name="menu_advanced_hide">Hide SD card</string>
-  <string name="menu_advanced_show">Show SD card</string>
+  <string name="menu_advanced_hide">Hide internal storage</string>
+  <string name="menu_advanced_show">Show internal storage</string>
   <string name="menu_create_dir">Create folder</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_file_size_hide">Hide file size</string>
