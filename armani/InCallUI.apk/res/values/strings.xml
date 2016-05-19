@@ -259,7 +259,7 @@
   <string name="memberStatus">Status</string>
   <string name="minutereminder_summary">Remind at 50s of every minute</string>
   <string name="minutereminder_title">Minute reminder</string>
-  <string name="miprofile_stranger_card">Stranger card</string>
+  <string name="miprofile_stranger_card">Unknown</string>
   <string name="mismatch_password">The password you entered do not match. Please try again.</string>
   <string name="mo_code_call_deflected">call Call transferred</string>
   <string name="mo_code_call_forwarded">Call forwarded</string>
