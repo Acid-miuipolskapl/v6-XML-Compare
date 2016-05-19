@@ -8,7 +8,7 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="abort_backup_confirm">"Backup hasn't finished. Stop anyway?"</string>
   <string name="about_settings">About tablet</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
@@ -1326,7 +1326,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="failed_to_shut_down_find_device_content">"Couldn't turn off Find device. Wait a minute or two and try again."</string>
   <string name="failed_to_shut_down_find_device_title">"Couldn't turn off"</string>
   <string name="fcc_equipment_id">Equipment ID</string>
-  <string name="feature_title_account">Account</string>
+  <string name="feature_title_account">Mi Account</string>
   <string name="feature_title_call_log">Call history</string>
   <string name="feature_title_mms">MMS</string>
   <string name="field_info_card_label">Choose card:</string>
@@ -1510,7 +1510,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">"Doesn't support work profiles"</string>
-  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="imei_information_summary">IMEI relative information</string>
+  <string name="imei_information_title">IMEI information</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Download the Mi Talk app and sign in.
@@ -2910,6 +2912,7 @@ Attempts Remaining :"</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_name">SIM %d</string>
+  <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
   <string name="smallwindow_smartcover_title">Transparent front cover</string>
@@ -3165,6 +3168,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_num">%d items,</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_assistant">Touch assistant</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
@@ -3553,7 +3557,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">No Sim card is required to connect to a data network</string>
+  <string name="virtual_sim_global_description">No SIM card is required to connect to a data network</string>
   <string name="virtual_sim_global_title">Data traffic service</string>
   <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
