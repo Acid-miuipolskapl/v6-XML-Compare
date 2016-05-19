@@ -11,7 +11,7 @@
   <string name="activity_title_ignored_image">Ignored</string>
   <string name="activity_title_image_gallery">Delete duplicates</string>
   <string name="activity_title_large_file">Big files</string>
-  <string name="activity_title_main">Clean Master</string>
+  <string name="activity_title_main">Cleaner</string>
   <string name="activity_title_news">News</string>
   <string name="activity_title_privacy_cache">Privacy Cache</string>
   <string name="activity_title_residual">Residuals</string>
@@ -117,7 +117,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Delete photos from Mi Cloud as well</string>
   <string name="dialog_content_delete_image_confirm">Delete %d photos?</string>
   <string name="dialog_content_select_all_confirm">Keep a copy of this photo?</string>
-  <string name="dialog_msg_add_white_list_error">"The file doesn't support to add to exceptions"</string>
+  <string name="dialog_msg_add_white_list_error">"Can't add this file to exceptions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Backup and uninstall the selected apps?</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
   <string name="dialog_msg_esc_cleanmaster">Stop the ongoing clean up scan?</string>
@@ -129,7 +129,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="dialog_title_check_all">Select all</string>
   <string name="dialog_title_delete_image">Delete selected images</string>
-  <string name="dialog_title_esc_cleanmaster">Quit cleanmaster</string>
+  <string name="dialog_title_esc_cleanmaster">Exit Cleaner</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
   <string name="dialog_title_uninstall_apps">Uninstall</string>
@@ -243,7 +243,7 @@
   <string name="msg_update_error_code_success">Done</string>
   <string name="msg_update_error_code_unknown_error">Unknown error</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">"CleanMaster's Privacy Policy"</string>
+  <string name="name_optimizer">Privacy Policy</string>
   <string name="nb_clear_set">Clear ROM, view battery and blocklist info in the notification shade</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
@@ -252,9 +252,7 @@
   <string name="no_network">"Couldn't connect to network, try again later"</string>
   <string name="no_network_btn">Try again</string>
   <string name="notification_summary_after_auto_cleanup">Cleaned %s.</string>
-  <string name="notification_summary_of_apps_cleanup">Unused​ apps are taking %s up of storage</string>
   <string name="notification_summary_of_garbage_cleanup">Your trash is over %s.</string>
-  <string name="notification_title_of_apps_cleanup">Unused apps</string>
   <string name="notification_title_of_garbage_cleanup">Trash size</string>
   <string name="notify_when">Get a notification when trash size reaches 100MB</string>
   <string name="ok">OK</string>
@@ -272,7 +270,6 @@
   <string name="pref_content_cleanup_white_list_none">None</string>
   <string name="pref_section_auto_clean_and_alert">Clean automatically</string>
   <string name="pref_summary_auto_clean_and_alert">Schedule cleaner to run automatically</string>
-  <string name="pref_summary_auto_deepclean_and_alert">Unused apps notification</string>
   <string name="pref_summary_auto_update_cleanup_db">Last updated %s</string>
   <string name="pref_summary_cleanup_white_list">Prevent selected apps from being cleaned up</string>
   <string name="pref_summary_expand_cache_group">Show cache details automatically</string>
@@ -281,12 +278,9 @@
   <string name="pref_summary_garbage_cleanup_check_time">Schedule a routine clean</string>
   <string name="pref_summary_garbage_process_mode">Set notifications for when cleaner runs</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Upload and compare unknown file names with online definitions</string>
-  <string name="pref_title_apps_check_size">Storage space limit</string>
-  <string name="pref_title_apps_check_time">Frequency</string>
   <string name="pref_title_apps_cleanup_size">​When cache size reaches</string>
   <string name="pref_title_auto_clean_and_alert">Clean automatically</string>
   <string name="pref_title_auto_clean_content_choose">Choose items to clean</string>
-  <string name="pref_title_auto_deepclean_and_alert">Deep Clean</string>
   <string name="pref_title_auto_update_cleanup_db">Update automatically</string>
   <string name="pref_title_choose_engine">Definitions</string>
   <string name="pref_title_cleanup_white_list">Exceptions</string>
@@ -301,14 +295,11 @@
   <string name="pref_title_open_optimizer_memory_scan">Scan app memory</string>
   <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
-  <string name="preference_key_apps_cleanup_auto_check_size">key_apps_cleanup_auto_check_size</string>
-  <string name="preference_key_apps_cleanup_auto_check_time">key_apps_cleanup_auto_check_time</string>
   <string name="preference_key_auto_clean_content_ad">key_auto_clean_content_ad</string>
   <string name="preference_key_auto_clean_content_apk">key_auto_clean_content_apk</string>
   <string name="preference_key_auto_clean_content_cache">key_auto_clean_content_cache</string>
   <string name="preference_key_auto_clean_content_residual">key_auto_clean_content_residual</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-  <string name="preference_key_checkbox_apps_auto_clean_and_alert">key_checkbox_apps_auto_clean_content</string>
   <string name="preference_key_checkbox_garbage_auto_clean_and_alert">key_checkbox_garbage_auto_clean_content</string>
   <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
   <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
