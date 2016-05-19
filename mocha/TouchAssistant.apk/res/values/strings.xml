@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alipay_package">com.eg.android.AlipayGphone</string>
+  <string name="app_name">Touch Assistant</string>
+  <string name="app_not_installed">Not installed</string>
+  <string name="applications">Applications</string>
+  <string name="category_others">Others</string>
+  <string name="category_setting">Settings</string>
+  <string name="customize_entries">Customize function</string>
+  <string name="enable_touch_assistant">Enable Touch Assistant</string>
+  <string name="function_settings">Function Settings</string>
+  <string name="hide_touch_assistant">Auto hide Touch Assistant</string>
+  <string name="hide_touch_assistant_intro">Hide Touch Assistant in some apps.</string>
+  <string name="name_alipay_payment_code">Alipay quick pay</string>
+  <string name="name_alipay_scan">Alipay scan code</string>
+  <string name="name_kill_processes">Memory cleaning</string>
+  <string name="name_music_next_song">Next song</string>
+  <string name="name_music_prev_song">Previous song</string>
+  <string name="name_music_toggle">Play/Pause song</string>
+  <string name="name_payment_code">Quick pay</string>
+  <string name="name_press_back_key">Press back</string>
+  <string name="name_press_home_key">Press home</string>
+  <string name="name_press_menu_key">Press menu</string>
+  <string name="name_quick_lock">Screen off</string>
+  <string name="name_quick_search">Search</string>
+  <string name="name_scan_to_pay">Scan to pay</string>
+  <string name="name_screenshot">Screenshot</string>
+  <string name="name_wechat_payment_code">Wechat quick pay</string>
+  <string name="name_wechat_scan">Wechat scan code</string>
+  <string name="pay_entry_dialog_title_select">Select app to open</string>
+  <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
+  <string name="pref_category_others">Others</string>
+  <string name="pref_category_quick_pay">Quick Pay</string>
+  <string name="pref_category_quick_settings">Quick Settings</string>
+  <string name="pref_category_system">System Settings</string>
+  <string name="restore_default">Restore to default</string>
+  <string name="restore_intro">Restore to default settings, which includes functions and orders. This will not delete datas in your phone.</string>
+  <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
+  <string name="vector_large_crossA">M160,160 L240,240</string>
+  <string name="vector_large_crossB">M240,160 L160,240</string>
+  <string name="wechat_package">com.tencent.mm</string>
+</resources>
