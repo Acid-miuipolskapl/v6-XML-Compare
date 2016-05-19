@@ -193,12 +193,12 @@
         <item quantity="many"> Downloads</item>
     </plurals>
     <plurals name="video_play_num">
-        <item quantity="other">%1$s plays</item>
-        <item quantity="zero">%1$s plays</item>
-        <item quantity="one">%1$s play</item>
-        <item quantity="two">%1$s plays</item>
-        <item quantity="few">%1$s plays</item>
-        <item quantity="many">%1$s plays</item>
+        <item quantity="other">%1$s views</item>
+        <item quantity="zero">%1$s views</item>
+        <item quantity="one">%1$s view</item>
+        <item quantity="two">%1$s views</item>
+        <item quantity="few">%1$s views</item>
+        <item quantity="many">%1$s views</item>
     </plurals>
     <plurals name="video_num">
         <item quantity="other">%1$s videos</item>
