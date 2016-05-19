@@ -2,9 +2,9 @@
 <resources>
   <string name="agree">Agree</string>
   <string name="alert_dialog_btn_close">Disable</string>
-  <string name="alert_dialog_btn_open">Cancel</string>
+  <string name="alert_dialog_btn_open">Allow</string>
   <string name="alert_dialog_msg">"Some of MIUI's core features and services won't be able to work as intended without these permissions (e.g. your device won't be able to display contact info during a call). If you disable these permissions, MIUI's apps will ask for individual permissions when they're required for a specific activity."</string>
-  <string name="alert_dialog_title">Some services may misbehave...</string>
+  <string name="alert_dialog_title">Some services may misbehave</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
