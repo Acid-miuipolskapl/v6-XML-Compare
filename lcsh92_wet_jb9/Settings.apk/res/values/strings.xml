@@ -6,7 +6,7 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
 If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
@@ -1182,7 +1182,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
-  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -1620,7 +1620,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2468,7 +2468,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
   <string name="title_color_calibration">Color correction preset</string>
-  <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
   <string name="title_font_current">System font</string>
@@ -2483,6 +2483,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_assistant">Touch assistant</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>

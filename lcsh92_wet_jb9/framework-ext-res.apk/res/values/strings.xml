@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Add frequent phrases</string>
   <string name="all_call_livetalk_enable">Using top-up package for domestic and international calls</string>
   <string name="all_call_livetalk_remain_mins">Minutes remaining: %1$s domestic or %2$s international</string>
   <string name="alwaysUsePrompt">Remember my choice</string>
@@ -85,6 +86,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Not now</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Go to Settings</string>
   <string name="fp_nav_center_action_choose_dlg_title">Quick tap for Home screen</string>
+  <string name="frequent_phrases">Frequent phrases</string>
   <string name="global_actions_airplane_mode">Airplane mode</string>
   <string name="global_actions_reboot">Reboot</string>
   <string name="global_actions_shutdown">Power off</string>
