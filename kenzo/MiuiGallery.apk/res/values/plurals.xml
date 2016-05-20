@@ -21,16 +21,16 @@
         <item quantity="one">%d day</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d photos of %2$s will be added</item>
+        <item quantity="one">%1$d photo of %2$s will be added</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d photos of %2$s will be added</item>
+        <item quantity="one">%1$d photo of %2$s will be added</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Already shared to %d people</item>
-        <item quantity="one">Already shared to %d person</item>
+        <item quantity="other">Shared to %d people</item>
+        <item quantity="one">Shared to %d person</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Delete %1$d photos %2$s?</item>
@@ -45,8 +45,8 @@
         <item quantity="one">Delete %1$d item %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d items total)</item>
-        <item quantity="one">(%d item total)</item>
+        <item quantity="other">(%d items)</item>
+        <item quantity="one">(%d item)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d photos</item>
@@ -79,5 +79,13 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">Backing up %1$d items…</item>
         <item quantity="one">Backing up 1 item…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d files download error</item>
+        <item quantity="one">%1$d file downloads error</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
     </plurals>
 </resources>
