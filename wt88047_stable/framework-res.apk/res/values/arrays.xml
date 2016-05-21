@@ -528,6 +528,22 @@
         <item>false</item>
     </string-array>
     <array name="config_cdma_international_roaming_indicators" />
+    <integer-array name="config_manualBrightnessRemapIn">
+        <item>2</item>
+        <item>30</item>
+        <item>60</item>
+        <item>128</item>
+        <item>192</item>
+        <item>255</item>
+    </integer-array>
+    <integer-array name="config_manualBrightnessRemapOut">
+        <item>2</item>
+        <item>8</item>
+        <item>20</item>
+        <item>60</item>
+        <item>120</item>
+        <item>255</item>
+    </integer-array>
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
