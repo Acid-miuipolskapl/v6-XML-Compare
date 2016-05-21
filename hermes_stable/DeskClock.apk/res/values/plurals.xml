@@ -32,4 +32,12 @@
         <item quantity="other">Alarms will silence after %d minutes</item>
         <item quantity="one">Alarms will silence after %d minute</item>
     </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Delete the selected alarms?</item>
+        <item quantity="one">Delete this alarm?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Delete the selected timezone?</item>
+        <item quantity="one">Delete this timezone?</item>
+    </plurals>
 </resources>
