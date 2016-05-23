@@ -162,7 +162,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_off_summary">NFC content sharing is off</string>
   <string name="android_beam_on_summary">NFC content sharing is on</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
+  <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="anti_spam">Blocklist</string>
@@ -288,7 +288,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
-  <string name="attempt_other_network">Attempt other network</string>
+  <string name="attempt_other_network">Switch networks</string>
   <string name="audio_list_loading">Loading…</string>
   <string name="audio_profile_settings_title">Audio profiles</string>
   <string name="audio_record_proc_title">Noise cancellation</string>
@@ -640,7 +640,7 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="bootloader">Fastboot mode</string>
   <string name="bootloader_apply_step_1">Turn on Fastboot mode?</string>
-  <string name="bootloader_apply_step_2">When your device is in Fastboot mode and connected to the computer</string>
+  <string name="bootloader_apply_step_2">When your device is in Fastboot mode and connected to the computer,</string>
   <string name="bootloader_apply_step_3">the data (e.g., passwords, messages) on the device may be accessed without your permission.</string>
   <string name="bootloader_apply_step_4">It may lead to the disclosure or loss of the data, or even irrepairable hardware damage.</string>
   <string name="bootloader_apply_step_5">Make sure you know how to use Fastboot mode before you turn it on.</string>
@@ -668,10 +668,10 @@ Broadcasting uses low-power Bluetooth signals."</string>
   <string name="button_disconnect_network">Disconnect from network</string>
   <string name="button_light_timeout">Keep button lights on</string>
   <string name="button_text_accept">Accept</string>
-  <string name="button_text_accept_timer">Accept(%d)</string>
+  <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_login">Sign in</string>
   <string name="button_text_next_step">Next</string>
-  <string name="button_text_next_step_timer">Next step(%d)</string>
+  <string name="button_text_next_step_timer">Next step (%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
   <string name="button_text_reject">Reject</string>
   <string name="cache_header_label">Cache</string>
@@ -2139,7 +2139,7 @@ Select your operating system:"</string>
   <string name="no_default_apps">No default Apps.</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_internet_access_remember">Don’t ask again for this network</string>
-  <string name="no_internet_access_text">This WLAN %1$s has no Internet access. Stay connected?</string>
+  <string name="no_internet_access_text">WLAN network %1$s has no access to the internet. Stay connected?</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">No networks detected</string>
@@ -2583,7 +2583,7 @@ Select your operating system:"</string>
   <string name="restriction_settings_title">Restrictions</string>
   <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
   <string name="restriction_wifi_config_title">WLAN and Mobile</string>
-  <string name="retry">Retry</string>
+  <string name="retry">Try again</string>
   <string name="ring_volume_option_title">Ring volume</string>
   <string name="ring_volume_title">Ringer volume</string>
   <string name="ringtone_mute">None</string>
@@ -3313,7 +3313,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="total_memory">Total memory</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Touch assistant</string>
+  <string name="touch_assistant">Shortcut menu</string>
   <string name="touch_filtered_warning">Because an app is obscuring a permission request, Settings can’t verify your response.</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
@@ -3512,7 +3512,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
-  <string name="use_this_wlan">Use this WLAN</string>
+  <string name="use_this_wlan">Stay connected</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_max_count">You can add up to %1$d users</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>
@@ -3641,7 +3641,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated on %s</string>
   <string name="virus_scanner_provider">Powered by %s</string>
-  <string name="virus_scanner_scan">Touch to scan</string>
+  <string name="virus_scanner_scan">Tap to scan</string>
   <string name="virus_scanner_scanning">Scanning…</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>
   <string name="virus_scanner_select_OK">OK</string>
@@ -3995,9 +3995,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
   <string name="wifi_setup_connect">Connect</string>
-  <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
+  <string name="wifi_setup_description_connected">Tap &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
-Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
+Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
   <string name="wifi_setup_detail">Network details</string>
   <string name="wifi_setup_eap_not_supported">"You can't configure an EAP WLAN connection during setup. After setup, you can go to Settings &gt; Wireless &amp; networks."</string>
@@ -4145,8 +4145,8 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="work_profile_usage_access_warning">Turning off usage access for this app doesn’t prevent your administrator tracking data usage for apps in your work profile.</string>
   <string name="work_sim_title">Work SIM</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Make sure the router supports and has enabled WPS</string>
-  <string name="wps_connect_title">WPS push button</string>
+  <string name="wps_connect_summary">Make sure the router supports and has WPS enabled</string>
+  <string name="wps_connect_title">Connect WPS</string>
   <string name="write_settings">Modify system settings</string>
   <string name="write_settings_description">This permission allows an app to modify system settings.</string>
   <string name="write_settings_off">No</string>
