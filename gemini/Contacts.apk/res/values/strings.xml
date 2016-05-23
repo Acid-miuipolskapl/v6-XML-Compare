@@ -896,7 +896,7 @@ To add a contact to your list of favorites:
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
-  <string name="preference_key_trash_bin_title">Browse backuped contacts which were deleted recently</string>
+  <string name="preference_key_trash_bin_title">Browse backed up contacts which were deleted recently</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>

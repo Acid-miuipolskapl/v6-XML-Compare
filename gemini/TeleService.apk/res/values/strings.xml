@@ -1025,11 +1025,11 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="psw_enter_old">Old password</string>
   <string name="psw_reenter_new">Enter password again</string>
   <string name="puk2_blocked">PUK2 is blocked permanently.</string>
-  <string name="puk2_label">Input PUK2 code</string>
+  <string name="puk2_label">Enter PUK2 code</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. Enter PUK2.</string>
-  <string name="puk_label">Input PUK code</string>
+  <string name="puk_label">Enter PUK code</string>
   <string name="puk_lock_warning">"
-Your SIM card will be erased after another failed attempt."</string>
+Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Password incorrect. PIN now blocked. PUK requested.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
