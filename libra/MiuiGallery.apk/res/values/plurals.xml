@@ -56,6 +56,30 @@
         <item quantity="other">%1$d items | %2$s</item>
         <item quantity="one">%1$d item | %2$s</item>
     </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d items have been backed up</item>
+        <item quantity="one">%1$d item has been backed up</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d items are waiting to be backed up</item>
+        <item quantity="one">%1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Network error. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Network error. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Sync is off. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Sync is off. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud is full. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Mi Cloud is full. %1$d item is waiting to be backed up</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Not enough local storage. %1$d items are waiting to be backed up</item>
+        <item quantity="one">Not enough local storage. %1$d item is waiting to be backed up</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d photos waiting to back up</item>
         <item quantity="one">1 photo waiting to back up</item>
@@ -81,8 +105,8 @@
         <item quantity="one">Backing up 1 item…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">%1$d files download error</item>
-        <item quantity="one">%1$d file downloads error</item>
+        <item quantity="other">"Couldn't download %1$d files"</item>
+        <item quantity="one">"Couldn't download %1$d file"</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d items selected</item>

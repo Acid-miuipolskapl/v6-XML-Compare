@@ -1009,11 +1009,11 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pstn_connection_service_label">Built-in SIM cards</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_blocked">PUK2 is permanently blocked.</string>
-  <string name="puk2_label">Input PUK2 code</string>
+  <string name="puk2_label">Enter PUK2 code</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. PUK2 requested.</string>
-  <string name="puk_label">Input PUK code</string>
+  <string name="puk_label">Enter PUK code</string>
   <string name="puk_lock_warning">"
-Your SIM card will be erased after another failed attempt."</string>
+Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>
