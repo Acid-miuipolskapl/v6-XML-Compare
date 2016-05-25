@@ -180,7 +180,7 @@ to your Mi Account to reactivate Mi Cloud."</string>
   <string name="micloud_detail_pending">Waiting</string>
   <string name="micloud_detail_preference_sync_items">Items</string>
   <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
-  <string name="micloud_detail_query_error_detail">"Can't confirm if sync is comlete for some services. You can contact the developers using the Feedback app."</string>
+  <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
   <string name="micloud_detail_query_error_title">"Couldn't get info about sync progress"</string>
   <string name="micloud_detail_success">Synced</string>
   <string name="micloud_detail_sync_now">Sync now</string>

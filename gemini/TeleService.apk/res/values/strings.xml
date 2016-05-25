@@ -687,7 +687,7 @@ Top up and start talking"</string>
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
   <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
-  <string name="livetalk_white_list_number_title">Make regular call</string>
+  <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_order">Just a sec…</string>

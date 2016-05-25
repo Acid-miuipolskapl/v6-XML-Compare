@@ -118,7 +118,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
   <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
   <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="adding_profile_owner_warning">"By proceeding, your User will be managed by your Administrator which may also be able to store associated data, in addition to your personal data.
@@ -1766,7 +1766,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_notifications_summary_hide">Hide sensitive notification content</string>
   <string name="lock_screen_notifications_summary_show">Show all notification content</string>
   <string name="lock_screen_notifications_title">When device is locked</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Password required immediately.</string>
   <string name="lock_screen_secure_after_timeout_summary">Password required in %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
