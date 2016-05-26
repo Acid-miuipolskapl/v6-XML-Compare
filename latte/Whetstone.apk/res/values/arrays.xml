@@ -14,6 +14,7 @@
     </string-array>
     <string-array name="restart_persist_service">
         <item>com.miui.powerkeeper</item>
+        <item>com.miui.voip</item>
     </string-array>
     <string-array name="service_black_list">
         <item>com.igexin.sdk.PushService</item>
@@ -30,16 +31,20 @@
         <item>com.android.phone</item>
         <item>com.miui.bugreport</item>
         <item>com.android.keyguard</item>
-        <item>com.miui.powerkeeper</item>
-        <item>com.google.android.music</item>
         <item>com.android.bluetooth</item>
         <item>com.miui.networkassistant</item>
-        <item>com.android.updater</item>
         <item>com.android.providers.contacts</item>
         <item>com.miui.core</item>
-        <item>com.android.incallui</item>
         <item>com.android.providers.media</item>
-        <item>com.google.android.music</item>
+        <item>com.xiaomi.xmsf</item>
+        <item>com.xiaomi.metok</item>
+        <item>com.lbe.security.miui</item>
+    </string-array>
+    <string-array name="deepclean_no_ui_white_list">
+        <item>com.miui.powerkeeper</item>
+        <item>com.android.updater</item>
+        <item>com.android.incallui</item>
+        <item>com.miui.touchassistant</item>
     </string-array>
     <string-array name="deepclean_lock_screen_white_list">
         <item>com.miui.home</item>

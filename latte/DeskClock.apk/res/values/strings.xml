@@ -8,7 +8,7 @@
   <string name="alarm_ascending_mode_title">Ascending volume</string>
   <string name="alarm_disabled">Off</string>
   <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
-  <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in clock.</string>
+  <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in Clock.</string>
   <string name="alarm_label_hint">Alarm label</string>
   <string name="alarm_list_title">Alarm</string>
   <string name="alarm_notify_snooze_label">%s snooze</string>
@@ -35,7 +35,7 @@
   <string name="control_set_alarm">Set alarm</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">1 day</string>
-  <string name="day_concat">". "</string>
+  <string name="day_concat">", "</string>
   <string name="days">%s days</string>
   <string name="default_alarm_alert">Set default alarm sound</string>
   <string name="default_alarm_title">Default ringtone</string>
@@ -68,7 +68,7 @@
   <string name="legal_workday_message">" (Alarm off during holidays)"</string>
   <string name="loading_ringtone">Loading ringtone…</string>
   <string name="menu_add_worldclock">Add clock</string>
-  <string name="menu_desk_clock">Desk clock</string>
+  <string name="menu_desk_clock">Clock</string>
   <string name="menu_edit_timer_item">Edit timer task</string>
   <string name="menu_item_dock_settings">Dock settings</string>
   <string name="menu_item_sort_by_gmt_offset">Sort by time</string>
