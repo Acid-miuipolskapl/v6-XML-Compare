@@ -13,7 +13,7 @@
   <string name="account_binded_phone">Phone %d</string>
   <string name="account_crop_user_avatar">Crop photo</string>
   <string name="account_empty_user_name">Enter your Mi Account username</string>
-  <string name="account_error_all_space_user_name">"Name can't be all space characters"</string>
+  <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
   <string name="account_error_longer_user_name">"Name can't exceed 20 characters"</string>
   <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
   <string name="account_error_user_birthday">The birthday you entered is invalid</string>
@@ -114,7 +114,7 @@
   <string name="find_device_access_denied">"Can't get status, access denied"</string>
   <string name="find_device_account_error">"Can't get status due to account error"</string>
   <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
-  <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again"</string>
+  <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, try again later</string>
   <string name="find_device_io_error">"Can't connect to the network"</string>
@@ -128,7 +128,7 @@
   <string name="forward_to_bind">Add</string>
   <string name="get_device_list_failed">"Can't get devices"</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="i_know">I know</string>
+  <string name="i_know">Got it</string>
   <string name="ignore">Not now</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="just_a_second">Just a sec…</string>
@@ -180,7 +180,7 @@ To activate your account, follow the
   <string name="passport_downlink_reg">Create account using phone number</string>
   <string name="passport_email">Email address</string>
   <string name="passport_email_or_id_hint_text">Email address or Mi Account ID</string>
-  <string name="passport_email_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="passport_email_reg_success_summary">%1$s has been added to your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_error_device_id">"Can't get device id"</string>
   <string name="passport_error_dup_email">The email you entered is already associated with another account.</string>
   <string name="passport_error_dup_phone">This phone number is already associated with another account</string>
@@ -206,7 +206,7 @@ To activate your account, follow the
   <string name="passport_error_verify_code">The code you entered is incorrect.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_device_activate_account">Activate account</string>
-  <string name="passport_find_device_display_id">unlock number:%s</string>
+  <string name="passport_find_device_display_id">Unlock number: %s</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
@@ -256,7 +256,7 @@ To activate your account, follow the
   <string name="passport_reg_prompt">"Don't have a Mi Account? Create one for free."</string>
   <string name="passport_reg_sms_send_prompt">Send verification code to %s</string>
   <string name="passport_reg_success">Account created</string>
-  <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
+  <string name="passport_reg_success_summary">%1$s has been added to your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
   <string name="passport_reg_type_other_ways">&lt;u&gt;Use your email address or an alternate number&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Create a Mi Account</string>
@@ -298,7 +298,7 @@ To activate your account, follow the
   <string name="passport_uplink_slot1_reg">Use SIM 1</string>
   <string name="passport_uplink_slot2_reg">Use SIM 2</string>
   <string name="passport_use_generated_pwd_message">Make sure you remember your password. You can use it to sign in to other Mi services.</string>
-  <string name="passport_use_generated_pwd_title">Remember your password!</string>
+  <string name="passport_use_generated_pwd_title">Remember your password</string>
   <string name="passport_user_agreement">User Agreement</string>
   <string name="passport_user_agreement_p1">Agree to </string>
   <string name="passport_user_agreement_p2">User Agreement</string>
@@ -351,8 +351,8 @@ Make sure you remember the answers to these questions."</string>
   <string name="submit_answers">Submit</string>
   <string name="success">Done</string>
   <string name="trying_read_verify_code_sms">Getting verification code…</string>
-  <string name="turn_off_find_device_failed_title">"Can't turn off find device"</string>
-  <string name="turning_off_find_device">Turning off find device…</string>
+  <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
+  <string name="turning_off_find_device">Turning off Find device…</string>
   <string name="unbind_sns_description">"After you disconnect this account, you won't be able to use your %s Account info to sign to your Mi Account."</string>
   <string name="unbind_weibo_description">"After you disconnect this account, you won't be able to sync your contacts from Weibo or use your Sina Weibo Account to sign in."</string>
   <string name="update_contacts">Update address book</string>

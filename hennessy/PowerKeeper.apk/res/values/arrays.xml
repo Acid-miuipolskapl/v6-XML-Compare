@@ -130,26 +130,26 @@
         <item>bg_delay_10_mins</item>
     </string-array>
     <string-array name="app_groups">
-        <item>selected</item>
-        <item>unselected</item>
-        <item>other selected</item>
+        <item>In this mode</item>
+        <item>Not selected</item>
+        <item>In other modes selected</item>
     </string-array>
     <string-array name="hmode_app_groups">
-        <item>customed</item>
-        <item>suggested</item>
+        <item>Custom</item>
+        <item>Battery saver</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-        <item>using</item>
-        <item></item>
-        <item></item>
+        <item>Now</item>
+        <item>Background</item>
+        <item>Recently</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Wake Up</item>
+        <item>Blocking deep Sleep mode</item>
+        <item>Blocking Sleep mode</item>
+        <item>Searching for WLAN</item>
+        <item>Using GPS</item>
+        <item>Occupying CPU</item>
+        <item>Waking device frequently</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -161,8 +161,8 @@
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>too much right now</item>
-        <item>too much in these day</item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>selected</item>
