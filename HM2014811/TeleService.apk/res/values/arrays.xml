@@ -282,4 +282,20 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
+    <integer-array name="support_networktypes_cdma_master">
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_cdma_vice">
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_master">
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="support_networktypes_gsm_vice">
+        <item>1</item>
+    </integer-array>
 </resources>

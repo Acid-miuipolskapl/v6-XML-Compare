@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="aaid_info">"
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+
+If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
@@ -73,6 +77,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="active_input_method_subtypes">Active input methods</string>
   <string name="activity_not_found">Application is not installed on your phone.</string>
   <string name="activity_picker_label">Choose activity</string>
+  <string name="ad_service">Ad services</string>
   <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorized?"</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
@@ -83,14 +88,14 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="add_fingerprint_done_msg">Now you can unlock this device with your fingerprint.</string>
   <string name="add_fingerprint_done_title">"You're ready to rock!"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint info, place your finger on the fingerprint reader. Make sure your finger covers the inner edge of the reader.</string>
-  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint</string>
-  <string name="add_fingerprint_instruction_title">Place your finger on the fingerprint reader</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_msg">Place and remove your finger repeatedly until your fingerprint is fully recorded.</string>
-  <string name="add_fingerprint_put_finger_title">Place and remove finger</string>
+  <string name="add_fingerprint_instruction_dialog_msg">To add your fingerprint, put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_instruction_msg">Unlock your device or verify payment with your fingerprint.</string>
+  <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Move your finger slightly and put it on the sensor again to add all the different parts of your fingerprint.</string>
+  <string name="add_fingerprint_put_finger_msg">Put your finger on the sensor and lift after you feel a vibration.</string>
+  <string name="add_fingerprint_put_finger_title">Add fingerprint</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
-  <string name="add_fingerprint_toast_text">Place your finger on the scanner now</string>
+  <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Additional system updates</string>
@@ -638,8 +643,9 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
   <string name="confirm_erase">Erase</string>
-  <string name="confirm_fingerprint_msg">Place your finger on the fingerprint reader</string>
+  <string name="confirm_fingerprint_msg">Put your finger on the sensor</string>
   <string name="confirm_new_backup_pw_prompt">Retype your new full backup password here</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Connect to network</string>
   <string name="connected_wifi">Connected</string>
   <string name="contributors_title">Contributors</string>
@@ -809,7 +815,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="delete_fingerprint_confirm_msg">Remove fingerprint?</string>
   <string name="delete_fingerprint_text">Remove fingerprint</string>
   <string name="delete_legacy_fingerprint">Delete</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete fingerprint data?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Delete this fingerprint?</string>
   <string name="deny">Deny</string>
   <string name="deny_sms_message">"Don't allow installed apps to send SMS"</string>
   <string name="deny_sms_title">Lock SMS</string>
@@ -828,9 +834,11 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">"Dual-core "</string>
-  <string name="device_cpu4_info">"Quad-core "</string>
-  <string name="device_cpu8_info">"Octa-core "</string>
+  <string name="device_cpu10_info">Deca-core</string>
+  <string name="device_cpu2_info">Dual-core</string>
+  <string name="device_cpu4_info">Quad-core</string>
+  <string name="device_cpu6_info">Hexa-core</string>
+  <string name="device_cpu8_info">Octa-core</string>
   <string name="device_edit_title">Rename phone</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
@@ -1031,8 +1039,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="fingerprint_and_password_entrance_title">Screen lock &amp; fingerprint</string>
   <string name="fingerprint_identify_input_password_msg">Enter password</string>
-  <string name="fingerprint_identify_msg">Scanning fingerprint…</string>
-  <string name="fingerprint_identify_try_again_msg">"Couldn't scan, try again"</string>
+  <string name="fingerprint_identify_msg">Reading fingerprint…</string>
+  <string name="fingerprint_identify_try_again_msg">"Couldn't read fingerprint, try again"</string>
   <string name="fingerprint_list_title">Fingerprint</string>
   <string name="finish_application">Force stop</string>
   <string name="finish_button_label">Finish</string>
@@ -1174,7 +1182,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_app_uninstall_button">Uninstall this application</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
-  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -1350,12 +1358,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
   <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
-  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint reader</string>
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; fingerprint</string>
   <string name="lock_setup">Setup is complete.</string>
   <string name="lock_sounds_enable_title">Screen locking sounds</string>
   <string name="lockpassword_cancel_label">Cancel</string>
@@ -1398,7 +1407,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again.</string>
-  <string name="lockpattern_recording_inprogress">Release finger when done</string>
+  <string name="lockpattern_recording_inprogress">"Lift your finger when you're done"</string>
   <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
   <string name="lockpattern_recording_intro_header">Draw an unlock pattern:</string>
   <string name="lockpattern_restart_button_text">Redraw</string>
@@ -1467,7 +1476,10 @@ To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; n
   <string name="master_clear_personal_data_sdcard">"Erase your personal info and content? You can't reverse this action!"</string>
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
-  <string name="max_fingerprint_number_reached">"Can't add more than 5 of fingerprints. To add a fingerprint, delete an existing fingerprint first."</string>
+  <string name="max_cpu4_info">"Quad-core Max "</string>
+  <string name="max_cpu6_info">Hexa-core Max</string>
+  <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_fingerprint_number_reached">"Can't add more than 5 fingerprints. To add a new fingerprint, delete an existing fingerprint first."</string>
   <string name="media_button">Media button</string>
   <string name="media_feedback_enable_title">Vibrate with the beat</string>
   <string name="media_format_button_text">Erase SD card</string>
@@ -1608,7 +1620,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -1982,6 +1994,7 @@ Select your operating system:"</string>
   <string name="remove_device_admin">Deactivate</string>
   <string name="remove_from_frequently_fragment">Remove %s from Quick settings?</string>
   <string name="repeat">Repeat</string>
+  <string name="reset_aaid">Reset advertising identifier</string>
   <string name="reset_app_preferences">Reset app preferences</string>
   <string name="reset_app_preferences_button">Reset apps</string>
   <string name="reset_app_preferences_desc">"This will reset all preferences for:
@@ -2455,7 +2468,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="time_zone_auto_stub">Select Time Zone</string>
   <string name="timezone_settings">Time zone</string>
   <string name="title_color_calibration">Color correction preset</string>
-  <string name="title_dolby_control">Dolby digital plus</string>
+  <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Font</string>
   <string name="title_font2">Font</string>
   <string name="title_font_current">System font</string>
@@ -2470,6 +2483,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_assistant">Shortcut menu</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
@@ -2625,6 +2639,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="use_default_tts_settings_title">Always use my settings</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
+  <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>

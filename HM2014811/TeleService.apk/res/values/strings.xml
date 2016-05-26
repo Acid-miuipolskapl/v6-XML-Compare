@@ -851,6 +851,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
+  <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
+  <string name="roaming_notification_title">Looks like roaming is activated</string>
   <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
   <string name="roaming_warning">Allow data roaming? You may incur significant roaming charges!</string>
   <string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful.</string>
@@ -965,6 +967,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="telocation_contacts_countrycode">Default country code</string>
   <string name="telocation_contacts_countrycode_hint">Enter country code</string>
   <string name="telocation_contacts_countrycode_summary">Default country code for contacts is %s</string>
+  <string name="telocation_country_code_enabled_message">Add country codes to make dialing in roaming more convenient.</string>
+  <string name="telocation_country_code_enabled_title">Add country codes when dialing</string>
   <string name="telocation_countrycode_alert_message">Enter phone number without country code</string>
   <string name="telocation_countrycode_alert_message_warning">The country code you entered may be incorrect.</string>
   <string name="telocation_countrycode_alert_message_wrong">The country code you entered is incorrect.</string>
