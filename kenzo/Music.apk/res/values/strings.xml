@@ -731,7 +731,7 @@
   <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Data usage warning</string>
-  <string name="welcome_to_new_music">Wecome to the new version of Mi Music</string>
+  <string name="welcome_to_new_music">Welcome to the new version of Mi Music</string>
   <string name="wifi_required_body" formatted="false">"You must use WLAN to complete this %s download. 
 
 Touch %s to start this download the next time you're connected to a WLAN network."</string>

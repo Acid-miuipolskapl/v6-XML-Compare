@@ -21,6 +21,8 @@
          some security features of your Android device."</string>
   <string name="account_security_title">Device security</string>
   <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
+  <string name="account_setting">账户设置</string>
+  <string name="account_setting_keywords">邮件账户;邮件账号;邮件邮件账户设置;邮件账号设置;mail accounts</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
   <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
@@ -32,7 +34,7 @@
   <string name="account_settings_enforced_summary">None</string>
   <string name="account_settings_incoming_summary">Username, password, and other server settings</string>
   <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
-         Do you want to update them now?"</string>
+ Update them now?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"Couldn't sign in to %s. The server said: %s"</string>
   <string name="account_settings_login_dialog_title">"Couldn't sign in"</string>
   <string name="account_settings_mail_check_frequency_label">Frequency</string>
@@ -95,11 +97,9 @@
   <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
-  <string name="account_setup_failed_protocol_unsupported">"         You typed an incorrect server address or the server requires a protocol version that
-         Email doesn't support."</string>
+  <string name="account_setup_failed_protocol_unsupported">"You entered an incorrect server address or the server requires a protocol version that Mail doesn't support."</string>
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
-  <string name="account_setup_failed_security_policies_unsupported">"         This server requires security features that your Android device doesn't support,
-          including: %s"</string>
+  <string name="account_setup_failed_security_policies_unsupported">"This server requires security features that your Android device doesn't support, including %s"</string>
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
   <string name="account_setup_failed_too_many_partnerships">Login failed, the maximum number of server connections allowed has been reached.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
@@ -151,13 +151,14 @@
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
   <string name="add_account">Add account</string>
+  <string name="add_account_keywords">添加邮件账户;添加邮件账号;add mail account</string>
   <string name="add_attachment">Add attachment</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">Add folder</string>
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
   <string name="add_pre_message_attachments_no">"Don't add"</string>
   <string name="add_pre_message_attachments_yes">Add</string>
-  <string name="add_star">Favorite</string>
+  <string name="add_star">Star</string>
   <string name="allread">Read all</string>
   <string name="always_bcc_myself">Always Bcc self</string>
   <string name="always_show_images">Always show pictures from this sender</string>
@@ -202,6 +203,8 @@
   <string name="auto_advance_label">Delete message flow</string>
   <string name="auto_advance_summary">Choose which message to scroll to after deleting a message</string>
   <string name="auto_sync_off">Auto-sync is off.</string>
+  <string name="battery_saver">省电模式</string>
+  <string name="battery_saver_keywords">邮件省电;邮件耗电;battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">You need to write feedback</string>
@@ -216,8 +219,7 @@
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
-  <string name="cant_move_or_change_labels">"Can't move because selection contains multiple
-        accounts."</string>
+  <string name="cant_move_or_change_labels">"Can't move items from multiple accounts."</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
@@ -226,7 +228,7 @@
   <string name="change_sync_settings">Change sync settings</string>
   <string name="changepw_dialog_tips">Re-enter password for %s</string>
   <string name="chat_item_msg_people_unit">people</string>
-  <string name="chat_item_msg_user_etc">等</string>
+  <string name="chat_item_msg_user_etc">etc.</string>
   <string name="chat_view_description">View email threads as conversation bubbles</string>
   <string name="chat_view_title">Conversation view</string>
   <string name="check_setup_data">"    Validating server settings…"</string>
@@ -245,6 +247,10 @@
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
+  <string name="confirm_before_delete">删除前先确认</string>
+  <string name="confirm_before_delete_keywords">删除邮件确认;confirm before deleting;delete confirm</string>
+  <string name="confirm_before_send">发送前先确认</string>
+  <string name="confirm_before_send_keywords">发送邮件确认;发送邮件提示;confirm before sending;send confirm</string>
   <string name="confirm_delete_conversation_title">Delete</string>
   <string name="confirm_discard_text">Discard this message?</string>
   <string name="confirm_response">Sending…</string>
@@ -268,6 +274,7 @@
   <string name="contact_list_add_btn">Add</string>
   <string name="contact_list_search_hint">Search contacts</string>
   <string name="contact_list_title">Contacts</string>
+  <string name="contact_permission_error">"Access to phone's contacts restricted"</string>
   <string name="contact_select">Select contacts</string>
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
   <string name="content_description_today">%1$s about %2$s, %3$s at %4$s, %5$s</string>
@@ -292,6 +299,8 @@
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
+  <string name="conversation_view">显示会话</string>
+  <string name="conversation_view_keywords">邮件会话模式;往来邮件设置;conversation view;mail conversation</string>
   <string name="copied">Copied</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
@@ -308,6 +317,8 @@
   <string name="default_signature">Sent from my Mi phone</string>
   <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
   <string name="delete">Delete</string>
+  <string name="delete_message_flow">自动跳转</string>
+  <string name="delete_message_flow_keywords">删除邮件跳转;跳转页面;delete message flow;delete redirect</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
@@ -321,9 +332,9 @@
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
   <string name="dialog_insufficient_space_on_internal">Not enough space on internal storage.</string>
-  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority
+  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's permission
          to administer your device will delete all email accounts that require it, along with their
-         email, contacts, calendar events, and other data."</string>
+        messages, contacts, calendar events, and other data."</string>
   <string name="discard">Discard</string>
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
@@ -347,7 +358,7 @@
   <string name="download_confirm_message">Download %1$s attachments?</string>
   <string name="download_confirm_title">Download attachment</string>
   <string name="download_message_failed_for_too_large">Message is too big to download.</string>
-  <string name="download_whole_email">Download the reset of content</string>
+  <string name="download_whole_email">View the rest of the message</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Close navigation drawer</string>
   <string name="drawer_open">Open navigation drawer</string>
@@ -382,6 +393,9 @@
   <string name="expand_recipient_details">Expand recipient details</string>
   <string name="fail_get_email_message">Get message failed.</string>
   <string name="failed">"Couldn't load image"</string>
+  <string name="failed_read_phone_state_permission">"Don't have permissions to access phone state"</string>
+  <string name="failed_read_write_calendar_permission">"Don't have permissions to access calendar"</string>
+  <string name="failed_read_write_contacts_permission">"Don't have permissions to access contact"</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Message</string>
   <string name="feedback_sent">Thank you for your feedback</string>
@@ -512,7 +526,7 @@
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Outbox</string>
   <string name="mailbox_name_display_sent">Sent</string>
-  <string name="mailbox_name_display_starred">Favorited</string>
+  <string name="mailbox_name_display_starred">Starred</string>
   <string name="mailbox_name_display_trash">Trash</string>
   <string name="mailbox_name_display_unread">Unread</string>
   <string name="mailbox_name_server_all_unread">Unread</string>
@@ -607,8 +621,7 @@
   <string name="message_invite_tentative">Maybe</string>
   <string name="message_invite_title">Calendar invite</string>
   <string name="message_saved">Message saved as draft.</string>
-  <string name="message_view_attachment_background_load">"One or more attachments in your
-        forwarded message will be downloaded prior to sending."</string>
+  <string name="message_view_attachment_background_load">Attachments in your forwarded message will be downloaded prior to sending.</string>
   <string name="mibill_privacy_policy_button1">"Don't agree"</string>
   <string name="mibill_privacy_policy_button2">Agree</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
@@ -682,9 +695,10 @@
             PIN or password."</string>
   <string name="password_expired_content_title">Lock screen password expired</string>
   <string name="password_expired_dialog_content_fmt">"         The data for %s is being erased from your device.
-         You can restore it by changing your lock screen PIN or password. Do you want to change it now?"</string>
+         You can restore it by changing your lock screen PIN or password. Change it now?"</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
+  <string name="path_about_account_setting">邮件/设置</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
   <string name="perference_change_pw_ok_tips">Password changed</string>
   <string name="perference_setup_pop_del">Remove mail from server</string>
@@ -713,8 +727,7 @@
   <string name="policy_dont_allow_storage_cards">"Don't allow storage cards"</string>
   <string name="policy_dont_allow_text_messaging">"Don't allow text messaging"</string>
   <string name="policy_dont_allow_unsigned_apps">"Don't allow unsigned apps"</string>
-  <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app
-        installers"</string>
+  <string name="policy_dont_allow_unsigned_installers">"Don't allow installing unsigned apps"</string>
   <string name="policy_dont_allow_wifi">"Don't allow Wi-Fi"</string>
   <string name="policy_email_age">Limit the number of emails synced</string>
   <string name="policy_html_truncation">Restrict HTML email size</string>
@@ -813,7 +826,7 @@
   <string name="remote_search_result">%s results on server</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_folder">Remove from %1$s</string>
-  <string name="remove_star">Unfavorite</string>
+  <string name="remove_star">Unstar</string>
   <string name="reply">Reply</string>
   <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
   <string name="reply_all">Reply all</string>
@@ -826,6 +839,7 @@
   <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Report spam</string>
   <string name="request_entity_large">File is too big</string>
+  <string name="request_permission_activity">Permission Request</string>
   <string name="respond_inline">"   Respond inline"</string>
   <string name="save_action">Save</string>
   <string name="save_attachment">Save</string>
@@ -848,7 +862,7 @@
   <string name="security_needed_ticker_fmt">"            Account \"%s\" requires security settings update."</string>
   <string name="security_notification_content_change_title">"Security policies have
          changed"</string>
-  <string name="security_notification_content_unsupported_title">"Security policies can't be
+  <string name="security_notification_content_unsupported_title">"Security requirements can't be
          met"</string>
   <string name="security_notification_content_update_title">Security update required</string>
   <string name="security_unsupported_ticker_fmt">"            Account \"%s\" can't be synced due to security
@@ -858,6 +872,8 @@
   <string name="selected_lable">Selected</string>
   <string name="send">Send</string>
   <string name="send_failed">"Message wasn't sent."</string>
+  <string name="send_feed_back">发送反馈</string>
+  <string name="send_feed_back_keywords">邮件反馈;邮件客服;联系邮件;send feedback</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -951,8 +967,10 @@
   <string name="upload_log_failed">"Couldn't send logs"</string>
   <string name="upload_log_no">Cancel</string>
   <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
-  <string name="upload_log_title">Send logs to help us improve WPS Mail</string>
+  <string name="upload_log_title">Send error logs to help us improve Mail</string>
   <string name="upload_log_yes">Send</string>
+  <string name="upload_logs">日志文件上传</string>
+  <string name="upload_logs_keywords">邮件日志;upload logs</string>
   <string name="uploading_logs">Just a sec…</string>
   <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
   <string name="veiled_address"/>
@@ -969,6 +987,8 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+  <string name="wipe_account_fail_description">Click here to get permissions</string>
+  <string name="wipe_account_fail_title">Failed to delete personal information</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
   <string name="yidianzixun">Yi Dian Zixun</string>

@@ -36,6 +36,7 @@
   <string name="album_already_exists">An album with the same name already exists</string>
   <string name="album_already_forced_top">Already on top</string>
   <string name="album_camera_name">Camera</string>
+  <string name="album_detail_clear_local_page_empty">No backed up photos or videos to delete</string>
   <string name="album_detail_page_empty">No photos or videos</string>
   <string name="album_faces_name">People</string>
   <string name="album_member">Album members %s</string>
@@ -106,8 +107,11 @@
   <string name="baby_suffix">baby</string>
   <string name="backup_automatically_summary">Back up photos and videos from all devices to Mi Cloud. Thus, you can conviniently browse, sort, edit, and share photos and videos on all your devices.</string>
   <string name="backup_automatically_title">Back up and sync automatically</string>
+  <string name="backup_detail_page_title">Mi Cloud backups</string>
   <string name="backup_only_in_wifi">Only use Wi‑Fi to back up photos and videos</string>
   <string name="backup_only_in_wifi_summary">Never use mobile data to back up photos or videos</string>
+  <string name="backup_waiting_button_text">Back up now</string>
+  <string name="backuping">Backing up %1$d/%2$d</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="black_white">Flat B&amp;W</string>
@@ -508,6 +512,7 @@
   <string name="cityname_97">Haidong Prefecture</string>
   <string name="cityname_98">Haikou</string>
   <string name="cityname_99">Hainan Tibetan Autonomous Prefecture</string>
+  <string name="clear_local_photo_direction">If you delete photos or videos from your device, they will still be available in Mi Cloud</string>
   <string name="click_download_gif">Tap to download GIF</string>
   <string name="click_top_right">Tap this icon</string>
   <string name="cloud_camera_display_name">Camera photos</string>
@@ -518,6 +523,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Screenshots</string>
   <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_space_full_button_text">Get more Mi Cloud storage</string>
   <string name="cloudfolder_cannot_start_with">"Album name can't start with '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Album name can't contain '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Enter an album name</string>
@@ -592,11 +598,11 @@
   <string name="doodle">Doodle</string>
   <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
   <string name="doodle_tooltip">Touch to doodle</string>
-  <string name="download_retry_message">Pictures download error, please ensure the network and retry.</string>
-  <string name="download_retry_text">Retry</string>
-  <string name="download_retry_title">Download error</string>
+  <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
+  <string name="download_retry_text">Try again</string>
+  <string name="download_retry_title">"Couldn't download files"</string>
   <string name="download_tip">Download</string>
-  <string name="download_title">Files are preparing...</string>
+  <string name="download_title">Preparing files…</string>
   <string name="download_without_wifi_msg">"Using mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="download_without_wifi_title">Data usage warning</string>
   <string name="duotone">Duotone</string>
@@ -744,6 +750,7 @@ Take more photos of your friends!"</string>
   <string name="loading_suspend">Download paused. Will resume when WLAN is available.</string>
   <string name="loading_video">Downloading video…</string>
   <string name="loading_video_thumbnail">Downloading video cover…</string>
+  <string name="local_space_full_button_text">Clear space</string>
   <string name="login_and_enable_service">Sign in with Mi Account</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Press &amp; hold to refocus</string>
@@ -762,10 +769,11 @@ Take more photos of your friends!"</string>
   <string name="must_pick_file">Select a photo</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"You don't have an internet connection."</string>
-  <string name="need_to_turn_on_sync">Turn on backups to Mi Cloud first</string>
+  <string name="need_to_turn_on_sync">Turn on sync with Mi Cloud first</string>
   <string name="need_to_turn_on_wlan">Connect to WLAN first</string>
   <string name="negative">Negative</string>
   <string name="network_connected_rescan">"Can't connect to the network"</string>
+  <string name="network_unsatisfied_button_text">Connect to the network</string>
   <string name="next">Next</string>
   <string name="no">No</string>
   <string name="no_map_app">No app was found to handle this action</string>
@@ -784,9 +792,11 @@ Take more photos of your friends!"</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_detail">Details</string>
   <string name="operation_disable_auto_upload">Turn off sync with Mi Cloud</string>
+  <string name="operation_do_delete_local_thumnail">Delete from device</string>
   <string name="operation_download">Download photo (%s)</string>
   <string name="operation_edit">Edit</string>
   <string name="operation_enable_auto_upload">Turn on sync with Mi Cloud</string>
+  <string name="operation_enter_delte_thumbnail">Delete backed up photos and videos from device</string>
   <string name="operation_failed">Operation failed</string>
   <string name="operation_force_top">Pin</string>
   <string name="operation_hide">Hide</string>
@@ -869,6 +879,7 @@ Take more photos of your friends!"</string>
   <string name="relation_text_maternal_grandmother">Maternal Grandmother</string>
   <string name="relation_text_mother">Mother</string>
   <string name="relation_with_you">Choose relationship</string>
+  <string name="release_space_finish_format">Freed %s of local storage</string>
   <string name="remove_from_secret_fail">Remove from hidden album failed</string>
   <string name="remove_from_secret_failed_with_reason">"Can't remove from hidden album. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s items can't be removed from hidden album. %1$s."</string>
@@ -954,6 +965,7 @@ Take more photos of your friends!"</string>
   <string name="sync_battery_low">Low battery</string>
   <string name="sync_cloud_space_full">Not enough space in Mi Cloud</string>
   <string name="sync_diabled_toast">Sync is off</string>
+  <string name="sync_off_button_text">Turn on sync</string>
   <string name="system_album">System album</string>
   <string name="temperature">Hue</string>
   <string name="terabyteShort">TB</string>

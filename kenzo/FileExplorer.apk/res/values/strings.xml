@@ -154,7 +154,7 @@
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage."</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">"Couldn't download"</string>
-  <string name="download_link_completed">%1$s shared using KuaiPan. Touch the link below to view: </string>
+  <string name="download_link_completed">%1$s shared using KuaiPan. Tap the link below to view: </string>
   <string name="downloaded_sticker_str">Downloaded</string>
   <string name="downloading">Downloading</string>
   <string name="downloading_in_3g">Downloading on 3G…</string>
@@ -687,7 +687,7 @@ and never miss the cool new ones!"</string>
   <string name="upload_local_video">Share video clip</string>
   <string name="upload_notification_failed">"Couldn't upload"</string>
   <string name="upload_notification_failed_content">Try again</string>
-  <string name="upload_notification_progress">Uploading (%1$s)%%</string>
+  <string name="upload_notification_progress">Uploading %1$s%%</string>
   <string name="upload_notification_success">Uploaded successfully</string>
   <string name="upload_notification_success_content">"Your video should be reviewed before it's shared to other people"</string>
   <string name="upload_notification_title">Uploading video</string>
