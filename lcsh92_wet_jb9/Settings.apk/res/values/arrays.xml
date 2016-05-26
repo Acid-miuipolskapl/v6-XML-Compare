@@ -1442,6 +1442,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ht</item>
         <item>hn</item>
         <item>hk</item>
+        <item>hu</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
@@ -1519,8 +1520,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AE</item>
         <item>AG</item>
         <item>AR</item>
+        <item>BH</item>
         <item>BO</item>
         <item>BS</item>
         <item>BB</item>
@@ -1529,13 +1532,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
+        <item>EG</item>
         <item>GF</item>
         <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
+        <item>IR</item>
+        <item>JO</item>
+        <item>KW</item>
+        <item>OM</item>
         <item>PY</item>
         <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
         <item>SR</item>
         <item>KN</item>
         <item>LC</item>
