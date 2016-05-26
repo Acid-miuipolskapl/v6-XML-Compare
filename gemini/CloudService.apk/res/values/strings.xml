@@ -116,7 +116,7 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_hint">Loading</string>
-  <string name="master_alert_notif_content">"Can't sync %d items"</string>
+  <string name="master_alert_notif_content">"Can't sync"</string>
   <string name="master_alert_notif_dspt_add">%s items waiting to sync</string>
   <string name="master_alert_notif_dspt_no">Synced</string>
   <string name="master_alert_notif_title">Turn on sync with Mi Cloud</string>
