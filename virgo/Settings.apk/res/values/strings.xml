@@ -1771,7 +1771,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Click to change</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
   <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_fingerprint_message">Choose your backup screen lock method</string>
