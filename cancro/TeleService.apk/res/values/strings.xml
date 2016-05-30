@@ -687,7 +687,7 @@ Top up and start talking"</string>
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
   <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
-  <string name="livetalk_white_list_number_title">Make regular call</string>
+  <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_order">Just a sec…</string>
@@ -1025,11 +1025,11 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="psw_enter_old">Old password</string>
   <string name="psw_reenter_new">Enter password again</string>
   <string name="puk2_blocked">PUK2 is blocked permanently.</string>
-  <string name="puk2_label">Input PUK2 code</string>
+  <string name="puk2_label">Enter PUK2 code</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. Enter PUK2.</string>
-  <string name="puk_label">Input PUK code</string>
+  <string name="puk_label">Enter PUK code</string>
   <string name="puk_lock_warning">"
-Your SIM card will be erased after another failed attempt."</string>
+Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Password incorrect. PIN now blocked. PUK requested.</string>
   <string name="puk_unlock_failed">PUK unlock unsuccessful.</string>
   <string name="puk_unlock_success">PUK unlock successful.</string>

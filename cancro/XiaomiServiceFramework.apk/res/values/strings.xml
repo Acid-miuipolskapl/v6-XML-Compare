@@ -6,20 +6,21 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
   <string name="activate_auto_sms_notification_title">SIM card activation</string>
   <string name="activate_feature_call_log_sync">Sync call history</string>
-  <string name="activate_feature_find_device">Find Device</string>
-  <string name="activate_feature_live_talk">Phone Top-up package</string>
-  <string name="activate_feature_mms_sync">Sync SMS messages</string>
+  <string name="activate_feature_default_name">Mi services</string>
+  <string name="activate_feature_find_device">Find device</string>
+  <string name="activate_feature_live_talk">Top-up package</string>
+  <string name="activate_feature_mms_sync">Sync messages</string>
   <string name="activate_feature_mx">Mi Message</string>
   <string name="activate_feature_mx_and_voip">Mi Message and Voice</string>
   <string name="activate_feature_register_xiaomi_account">Mi Account setup</string>
-  <string name="activate_feature_remote_assist">Remote Assist</string>
+  <string name="activate_feature_remote_assist">Remote assistant</string>
   <string name="activate_feature_verify_mx_token">Mi Account verification</string>
-  <string name="activate_history_cancelled">cancelled</string>
-  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by feature \"%2$s\".</string>
-  <string name="activate_history_sms">An SMS has been sent during the activation.</string>
-  <string name="activate_history_success">succeeded</string>
-  <string name="activate_history_title">SIM Card Activation</string>
+  <string name="activate_history_cancelled">Canceled</string>
+  <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by \"%2$s\".</string>
+  <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by \"%2$s\".</string>
+  <string name="activate_history_sms">SMS has been sent during the activation.</string>
+  <string name="activate_history_success">Successful</string>
+  <string name="activate_history_title">SIM card activation</string>
   <string name="activate_phone_cancel_notif_title">SIM card activation cancelled</string>
   <string name="activate_phone_cancel_notif_title_msim">SIM card %s activation cancelled</string>
   <string name="activate_phone_failed_notif_title">"Can't activate SIM card"</string>
@@ -73,7 +74,7 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_popup_title_manual">Activate %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivate %s</string>
   <string name="activate_popup_title_register_account">Create Mi Account</string>
-  <string name="activate_sms_postfix">This SMS is used to activate your Mi device</string>
+  <string name="activate_sms_postfix">This SMS is used to activate your Mi service</string>
   <string name="activate_status_desc_acquire_phone_number">Getting phone number…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Couldn't get phone number"</string>
@@ -104,8 +105,11 @@ Enter the phone number associated with your new SIM card to reactivate %s"</stri
   <string name="activate_status_title_activating_msim">Activating SIM card %s…</string>
   <string name="app_name">Xiaomi service framework</string>
   <string name="error_device_id_message">"Invalid Device ID: %s
-Device ID must be valid IMEI or MAC address. Without device id, some account and cloud features will be unavailable."</string>
+Device ID must be a valid IMEI or MAC address. Without device ID, some Mi Account and Mi Cloud features won't be available."</string>
   <string name="error_device_id_title">"Can't get valid Device ID"</string>
+  <string name="explain_send_sms_permission_button">Verify</string>
+  <string name="explain_send_sms_permission_msg">To turn on %s, Xiaomi Service Framework will send SMS to verify your phone number. You will be charged for the regular SMS by the carrier.</string>
+  <string name="explain_send_sms_permission_title">Verify your phone number</string>
   <string name="sim_unactivated_title">"Your SIM card isn't activated"</string>
   <string name="sync_notification_title_format">Current syncing item: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>

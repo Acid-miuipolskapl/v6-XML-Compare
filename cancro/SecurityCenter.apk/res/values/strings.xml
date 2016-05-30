@@ -8,13 +8,18 @@
   <string name="Settings_title_network_assistants">Data usage settings</string>
   <string name="Settings_title_power_center">Battery settings</string>
   <string name="ac_enable_title">Turn on App lock</string>
+  <string name="ac_enter_applock">Enter App lock</string>
+  <string name="ac_firstUseApplock_subTitle">Use App lock to protect your privacy</string>
+  <string name="ac_firstUseApplock_title">Require password to open selected apps</string>
+  <string name="ac_summaryOff">Turned off, no password is required to open apps</string>
+  <string name="ac_summaryOn">Turned on, password is required to open apps</string>
   <string name="access_control_need_password">"%s added successfully
 "</string>
   <string name="access_control_need_to_unlock">"Scan fingerprint
-or enter App Lock password"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Enter App Lock password</string>
-  <string name="access_control_recording_intro_header">Draw pattern to add App Lock</string>
-  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App Lock password</string>
+or enter App lock password"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Enter App lock password</string>
+  <string name="access_control_recording_intro_header">Draw pattern to add App lock</string>
+  <string name="access_control_reset_by_account">Sign in to your Mi Account to reset App lock password</string>
   <string name="activity_title_antispam">Blocklist</string>
   <string name="activity_title_antivirus">Virus scan</string>
   <string name="activity_title_apps_manager">Apps</string>
@@ -54,7 +59,7 @@ or enter App Lock password"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Updated 2 days ago</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Updated yesterday at %s</string>
   <string name="adjust_traffic_data">Set data usage</string>
-  <string name="after_the_lock_screen">"App is locked together with the screen, You can change this in App lock's settings."</string>
+  <string name="after_the_lock_screen">"App is locked together with the screen, you can change this in App lock's settings."</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Choose definitions</string>
   <string name="antivirus_choose_engine_disable_toast">"Can't switch definitions while scan is in progress"</string>
@@ -186,44 +191,44 @@ or enter App Lock password"</string>
   <string name="cta_settings">Allow internet connection</string>
   <string name="current_network_state_not_need_diagnose">Internet connection is normal.</string>
   <string name="daily_limit_and_lock_screen">Data limit &amp; notifications</string>
-  <string name="daily_limit_network_available_body">Touch to view data usage stats.</string>
+  <string name="daily_limit_network_available_body">Tap to view data usage stats.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
   <string name="daily_limit_over_message">"You've exceeded your daily data limit."</string>
   <string name="daily_pkg_traffic">Peak data limit</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
-  <string name="data_usage_correction_timeout_body">Touch to update manually.</string>
+  <string name="data_usage_correction_timeout_body">Tap to update manually.</string>
   <string name="data_usage_correction_timeout_title">Data usage sync timed out</string>
   <string name="data_usage_disabled_dialog">"You've reached your plan's data usage limit. If you go over your limit, your carrier may charge you additional fees."</string>
-  <string name="data_usage_disabled_dialog_enable">Turn on data</string>
-  <string name="data_usage_leisure_warning_body">Touch to view data usage details.</string>
+  <string name="data_usage_disabled_dialog_enable">Turn on mobile data</string>
+  <string name="data_usage_leisure_warning_body">Tap to view data usage details.</string>
   <string name="data_usage_leisure_warning_title">Off-peak data usage limit</string>
-  <string name="data_usage_limit_body">Touch to turn on mobile data.</string>
+  <string name="data_usage_limit_body">Tap to turn on mobile data.</string>
   <string name="data_usage_limit_snoozed_body">Exceeded data usage limit for this month.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Data usage exceeded</string>
   <string name="data_usage_mobile_limit_title">Reached mobile data limit</string>
   <string name="data_usage_no_total_package_body">Tap to set data limit</string>
   <string name="data_usage_no_total_package_body_dual">No data limit set for %s</string>
   <string name="data_usage_no_total_package_title">Set a data usage limit</string>
-  <string name="data_usage_restricted_body">Touch to turn on background data.</string>
+  <string name="data_usage_restricted_body">Tap to turn on background data.</string>
   <string name="data_usage_restricted_title">Background data restricted</string>
-  <string name="data_usage_warning_body">Touch to view data usage details.</string>
+  <string name="data_usage_warning_body">Tap to view data usage details.</string>
   <string name="data_usage_warning_title">Data usage warning</string>
   <string name="datausage_ignore_app_list_count">"Ignoring %d apps' data usage"</string>
   <string name="datausage_purchase_backto_ns">Back</string>
   <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
   <string name="datausage_purchase_buy">Buy</string>
   <string name="datausage_purchase_confirm_tip">Your order:</string>
-  <string name="datausage_purchase_get_captcha">Get code(%d)</string>
+  <string name="datausage_purchase_get_captcha">Get code (%d)</string>
   <string name="datausage_purchase_get_captcha_again">Send a new code</string>
   <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
   <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
   <string name="datausage_purchase_none_history">Empty</string>
-  <string name="datausage_purchase_order_failure">Purchase failed</string>
-  <string name="datausage_purchase_order_failure_cause">Purchase failed…</string>
+  <string name="datausage_purchase_order_failure">"Couldn't purchase"</string>
+  <string name="datausage_purchase_order_failure_cause">"Couldn't complete purchase"</string>
   <string name="datausage_purchase_order_history">History</string>
   <string name="datausage_purchase_ordering">Purchasing…</string>
   <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
-  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap Buy to complete your purchase. Note that the code is only valid for 10 minutes.</string>
+  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code is only valid for 10 minutes.</string>
   <string name="datausage_purchase_pay_confirm">Buy</string>
   <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
@@ -241,7 +246,7 @@ For more info check the message you received from your carrier"</string>
   <string name="declaration_dialog_msg">This feature can help you track your usage, but is not guaranteed to prevent additional charges. For best results, set a conservative limit.</string>
   <string name="delete">Delete</string>
   <string name="delete_from_manual_item_white_list">Remove from exceptions</string>
-  <string name="deleted_apps">Deleted Apps</string>
+  <string name="deleted_apps">Deleted apps</string>
   <string name="descx_cleanuping_item">Optimizing %s</string>
   <string name="descx_finish_cleanup_cache">Finishing cache optimization</string>
   <string name="descx_finish_cleanup_memory">Finishing memory optimization</string>
@@ -296,9 +301,9 @@ For more info check the message you received from your carrier"</string>
   <string name="examination_score_80_100_with_recommend">%d items can be optimized</string>
   <string name="examination_score_80_60">Some items can be optimized</string>
   <string name="examination_score_has_virus">Some suspicious apps were detected.</string>
-  <string name="finger_remind_message">You can also use your fingerprint with App Lock.</string>
+  <string name="finger_remind_message">You can also use your fingerprint with App lock.</string>
   <string name="fingerprint_identify_msg">Scan your fingerprint</string>
-  <string name="fingerprint_not_identified_msg">To unlock your device, enter your password.</string>
+  <string name="fingerprint_not_identified_msg">To unlock the device, enter your password.</string>
   <string name="fingerprint_not_remind">"Don't ask again"</string>
   <string name="fingerprint_remind_dialog_title">Fingerprint unlock</string>
   <string name="fingerprint_to_lock">Unlock with fingerprint</string>
@@ -543,7 +548,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="modifypassword">Change password</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
-  <string name="network_assistant_upgraded_body">Touch to view details.</string>
+  <string name="network_assistant_upgraded_body">Tap to view details.</string>
   <string name="network_assistant_upgraded_title">Updated</string>
   <string name="network_blocked_connected_open_wifi">Connected to public network</string>
   <string name="network_blocked_notification_summary">Test network</string>
@@ -595,7 +600,8 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="never">1 time</string>
   <string name="none_mi_service_app_detail">Empty</string>
   <string name="notification_button_text_of_low_memory">Clean-up</string>
-  <string name="notification_item">Turn on App lock</string>
+  <string name="notification_item">Protect selected apps with App lock</string>
+  <string name="notification_subtitle">Tap to turn on</string>
   <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
   <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
   <string name="notification_title_firewall_blocked">Blocked</string>
@@ -616,6 +622,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="online_songs">Music</string>
   <string name="open_now">Allow app to use mobile data</string>
   <string name="operator_diagnostic">Carrier diagnostics</string>
+  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -861,6 +868,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="pref_leisure_no_overlay">On</string>
   <string name="pref_leisure_not_opened">Off</string>
   <string name="pref_manual_adjust">Set data usage stats manually</string>
+  <string name="pref_mi_sim_settings">Mi SIM Settings</string>
   <string name="pref_month_begin_date">Usage reset date</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Additional settings</string>
@@ -993,9 +1001,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
   <string name="roaming_not_start_body">Tap to view data roaming settings.</string>
   <string name="roaming_not_start_title">Overseas roaming</string>
-  <string name="roaming_start_body">Touch to view data roaming exceptions.</string>
+  <string name="roaming_start_body">Tap to view data roaming exceptions.</string>
   <string name="roaming_start_title">Overseas roaming</string>
-  <string name="root">Root Access</string>
+  <string name="root">Root access</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
   <string name="root_apply_step_3">Your data is more vulnerable to attack from apps with root access.</string>
@@ -1015,7 +1023,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="scanning_bar_system_title">Scanning system…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">App Lock</string>
+  <string name="security_app_lock">App lock</string>
   <string name="security_scan_optimizing">Optimizing…</string>
   <string name="see_detail">Details</string>
   <string name="select_pattern">Select pattern</string>
@@ -1081,7 +1089,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="summary_virus_cloudscan">Upload app names and details and scan using online virus definitions</string>
   <string name="summary_virus_update">Get latest virus definitions automatically</string>
   <string name="summary_xiaomi_roaming">0.01 yuan per MB for international network traffic.</string>
-  <string name="system_app">System Apps</string>
+  <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
   <string name="system_check_content">%1$d risks</string>
   <string name="system_check_content_none">Safe</string>
@@ -1255,7 +1263,7 @@ Rolled over extra data"</string>
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
   <string name="traffic_none">None</string>
-  <string name="traffic_over_purchase_body">Touch to view details.</string>
+  <string name="traffic_over_purchase_body">Tap to view details.</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plans data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Data limit exceeded</string>
   <string name="traffic_protection_data_usage_summary">"Set data usage alerts to avoid exceeding your carrier plan's monthly data limits."</string>
@@ -1291,7 +1299,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_notify_no_apps_saving">Reduce data usage</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Tap to turn on Data saver.</string>
   <string name="traffic_saving_notify_start_content">%s saved this month.</string>
-  <string name="traffic_saving_notify_start_title">Data usage reduced</string>
+  <string name="traffic_saving_notify_start_title">Saving mobile data</string>
   <string name="traffic_saving_one_key_optimize">Optimize to save data</string>
   <string name="traffic_saving_optimized">Already optimized</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -1315,7 +1323,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
-  <string name="traffic_saving_wifi_usage">Wifi saver</string>
+  <string name="traffic_saving_wifi_usage">WLAN usage</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
@@ -1366,6 +1374,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="virus_list_header_title">%d viruses detected</string>
+  <string name="warning_open_mi_sim">Turn on Mi SIM</string>
   <string name="wifi_exception_summary">Test available WLAN networks</string>
   <string name="wifi_exception_title">Test WLAN network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>

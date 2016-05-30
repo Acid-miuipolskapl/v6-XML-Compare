@@ -459,6 +459,12 @@ Reason: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">Merge duplicate contacts</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_service_unavailiable">Service unavailable</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
@@ -890,6 +896,7 @@ To add a contact to your list of favorites:
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
+  <string name="preference_key_trash_bin_title">Browse backed up contacts which were deleted recently</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>
