@@ -4,6 +4,7 @@
   <string name="about_title">About</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Version "</string>
+  <string name="account_auth_fail">account authenticate fail</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">About</string>
   <string name="ad_moredetail">View details</string>
