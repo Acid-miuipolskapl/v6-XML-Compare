@@ -101,6 +101,7 @@
   <string name="message_block_processing">Working…</string>
   <string name="message_block_reminder">Reminder</string>
   <string name="message_failed">Failed</string>
+  <string name="message_list_all_read">Mark all as read</string>
   <string name="message_pending">Sending</string>
   <string name="message_readed">Read</string>
   <string name="message_saved_as_draft">Message saved as draft.</string>

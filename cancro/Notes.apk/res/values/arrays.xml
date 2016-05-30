@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="folder_operations">
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Camera</item>
+        <item>Gallery</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Name</item>
         <item>Nickname</item>
@@ -33,11 +41,15 @@
         <item>Huge</item>
     </string-array>
     <string-array name="welcome_notes_content">
+        <item>"Welcome to Notes
+"</item>
         <item>"Tap to create a note
 "</item>
-        <item>"To add a picture or show checkboxes, tap the button below
+        <item>"Choose beautiful theme
 "</item>
-        <item>"Press and hold a note to pin, move, or delete it
+        <item>"Create note folder
+"</item>
+        <item>"Protect private notes
 "</item>
         <item>"And more great features!
   - Sync with Mi Cloud
@@ -45,8 +57,18 @@
     </string-array>
     <integer-array name="welcome_notes_color">
         <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
         <item>1</item>
-        <item>3</item>
-        <item>4</item>
     </integer-array>
+    <string-array name="welcome_notes_image">
+        <item>guide_1</item>
+        <item></item>
+        <item>guide_3_1,guide_3_2</item>
+        <item>guide_4</item>
+        <item>guide_5_1,guide_5_2</item>
+        <item></item>
+    </string-array>
 </resources>

@@ -28,6 +28,34 @@
         <item>0</item>
         <item>5</item>
     </integer-array>
+    <string-array name="duration_entries">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>-</item>
+        <item>d</item>
+    </string-array>
+    <array name="duration_entryValues">
+        <item>@drawable/temp_0</item>
+        <item>@drawable/temp_1</item>
+        <item>@drawable/temp_2</item>
+        <item>@drawable/temp_3</item>
+        <item>@drawable/temp_4</item>
+        <item>@drawable/temp_5</item>
+        <item>@drawable/temp_6</item>
+        <item>@drawable/temp_7</item>
+        <item>@drawable/temp_8</item>
+        <item>@drawable/temp_9</item>
+        <item>@drawable/temp_minus</item>
+        <item>@drawable/temp_degree</item>
+    </array>
     <string-array name="system_foreground_notification_whitelist">
         <item>com.miui.home</item>
         <item>com.android.providers.contacts</item>
@@ -89,30 +117,60 @@
         <item>40554</item>
         <item>40497</item>
     </string-array>
-    <string-array name="duration_entries">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>:</item>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
     </string-array>
-    <array name="duration_entryValues">
-        <item>@drawable/time_0</item>
-        <item>@drawable/time_1</item>
-        <item>@drawable/time_2</item>
-        <item>@drawable/time_3</item>
-        <item>@drawable/time_4</item>
-        <item>@drawable/time_5</item>
-        <item>@drawable/time_6</item>
-        <item>@drawable/time_7</item>
-        <item>@drawable/time_8</item>
-        <item>@drawable/time_9</item>
-        <item>@drawable/time_dot</item>
-    </array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Foggy</item>
+        <item>Heavy rainstorm</item>
+        <item>Downpour</item>
+        <item>Rainstorm</item>
+        <item>Thunderstorm</item>
+        <item>Shower</item>
+        <item>Heavy rainfall</item>
+        <item>Moderate rain</item>
+        <item>Light rain</item>
+        <item>Rain and snow mixed</item>
+        <item>Blizzard</item>
+        <item>Snow</item>
+        <item>Heavy snow</item>
+        <item>Moderate snow</item>
+        <item>Light snow</item>
+        <item>Strong sandstorm</item>
+        <item>Sand storm</item>
+        <item>Sand</item>
+        <item>Windy</item>
+        <item>Hail</item>
+        <item>Dust</item>
+        <item>Haze</item>
+        <item>Freezing rain</item>
+        <item></item>
+    </string-array>
 </resources>

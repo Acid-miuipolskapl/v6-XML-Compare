@@ -8,4 +8,8 @@
         <item quantity="other">"Hide %d apps' notifications?"</item>
         <item quantity="one">"Hide this app's notifications?"</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Clear</item>
+        <item quantity="one">Sunny</item>
+    </plurals>
 </resources>

@@ -5,8 +5,9 @@
         <item>apps</item>
         <item>tips</item>
         <item>com.android.providers.applications/.ApplicationLauncher</item>
-        <item>com.android.settings/.MiuiSettingsSearchActivity</item>
         <item>com.android.browser/.BookmarkSearchActivity</item>
+        <item>com.xiaomi.providers.appindex/.MainActivity</item>
+        <item>com.android.fileexplorer/.FileExplorerTabActivity</item>
     </string-array>
     <string-array name="default_corpora_suggest_uris">
         <item>content://com.android.contacts/search_suggest_query</item>
