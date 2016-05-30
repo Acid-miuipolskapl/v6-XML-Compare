@@ -14,6 +14,7 @@
   <string name="account_yellowpage_favorite">Favorites</string>
   <string name="account_yellowpage_followed">Verified Accounts</string>
   <string name="account_yellowpage_recent">View history</string>
+  <string name="add_to_desktop">Add to desktop</string>
   <string name="agree">Agree</string>
   <string name="agree_to_continue">Continue</string>
   <string name="agree_to_turn_on">Agree</string>
@@ -54,6 +55,8 @@
   <string name="data_error">An error occurred</string>
   <string name="data_error_show">An error occurred</string>
   <string name="delete">Delete</string>
+  <string name="didi_back">back</string>
+  <string name="didi_close">close</string>
   <string name="do_not_remind_me">"Don't show again"</string>
   <string name="dont_enable">Turn off</string>
   <string name="download_completed">Download saved to %s</string>
@@ -103,6 +106,7 @@
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Courier service</string>
   <string name="express_inquiry">Tracking</string>
+  <string name="express_inquiry_and_send">Tracking and sending</string>
   <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_clipboard_number_message">Track copied number?</string>
   <string name="express_inquiry_data_owner_prefix">"Tracking info provided by "</string>
@@ -127,6 +131,14 @@ Check your tracking number."</string>
   <string name="express_inquiry_provider_info">"Powered by "</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">Number: %s</string>
+  <string name="express_inquiry_status_delivered">Delivered</string>
+  <string name="express_inquiry_status_difficult_goods">Difficult goods</string>
+  <string name="express_inquiry_status_dispatch">Dispatching</string>
+  <string name="express_inquiry_status_on_the_way">On the way</string>
+  <string name="express_inquiry_status_receipted">Receipted</string>
+  <string name="express_inquiry_status_return">Return</string>
+  <string name="express_inquiry_status_sign_out">Sign out</string>
+  <string name="express_inquiry_status_unknown">UNKNOWN</string>
   <string name="express_inquiry_trace">Track</string>
   <string name="express_inquiry_trace_device_login_notice">"You're using this service on another device. If you want to receive order's status from this device, you need to verify your Mi Account."</string>
   <string name="express_inquiry_trace_success">Tracking</string>
@@ -172,6 +184,8 @@ Check your tracking number."</string>
   <string name="express_sender_info">Sender info</string>
   <string name="express_sender_name">Sender name</string>
   <string name="express_sender_region">Sender locale</string>
+  <string name="express_shortcut_name">Query or send express</string>
+  <string name="express_show_all_inquiry_history">Show all inquiry history</string>
   <string name="express_submit_order">Submit</string>
   <string name="express_track_order">Track</string>
   <string name="express_tracking_number">Tracking number</string>
@@ -262,6 +276,7 @@ Check your tracking number."</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">All coupons</string>
+  <string name="more_express_numbers">More express numbers</string>
   <string name="navigation_search_all_cities">All cities</string>
   <string name="navigation_search_automatically_positioned_city">Current city</string>
   <string name="navigation_search_default_hint">Search locations</string>
@@ -309,7 +324,7 @@ Check your tracking number."</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. In order to reverse phone lookup, we need the permission to access your contacts."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
@@ -375,6 +390,7 @@ Total: RMB %3$s"</string>
   <string name="smart_antispam">Identify unknown numbers</string>
   <string name="tag_follow_status">tag_follow_status</string>
   <string name="tag_follow_yp_id">tag_follow_yp_id</string>
+  <string name="title_activity_di_di_web">DiDi</string>
   <string name="toast_finish_delete_call_log">Call history deleted</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="try_again">Try again</string>

@@ -318,27 +318,27 @@
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
         <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>At event time</item>
+        <item>5 minutes before</item>
+        <item>10 minutes before</item>
+        <item>15 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>1 week before</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>No reminder</item>
-        <item>0 minutes</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>1 day</item>
-        <item>2 days</item>
-        <item>1 week</item>
+        <item>At event time</item>
+        <item>5 minutes before</item>
+        <item>10 minutes before</item>
+        <item>15 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>1 week before</item>
     </string-array>
     <integer-array name="online_reminder_minutes_values">
         <item>0</item>
@@ -359,11 +359,11 @@
         <item>10080</item>
     </integer-array>
     <string-array name="travel_reminder_minutes_labels">
-        <item>3 hours</item>
-        <item>4 hours</item>
-        <item>5 hours</item>
-        <item>6 hours</item>
-        <item>1 day</item>
+        <item>3 hours before</item>
+        <item>4 hours before</item>
+        <item>5 hours before</item>
+        <item>6 hours before</item>
+        <item>1 day before</item>
     </string-array>
     <integer-array name="travel_reminder_minutes_values">
         <item>180</item>
@@ -493,4 +493,40 @@
         <item>#fff1faf1</item>
         <item>#ff91c58e</item>
     </array>
+    <array name="action_bar_colors">
+        <item>#ff7d97e1</item>
+        <item>#ff27bbd0</item>
+        <item>#ff8cc061</item>
+        <item>#ff3fbc7d</item>
+        <item>#ff11b599</item>
+        <item>#fff38f3a</item>
+        <item>#ffeb6e4a</item>
+        <item>#ffdd5a62</item>
+        <item>#ffe8774d</item>
+        <item>#ffe29255</item>
+        <item>#ff579ee0</item>
+        <item>#ff9b88d0</item>
+    </array>
+    <array name="month_today_colors">
+        <item>#ff809be8</item>
+        <item>#ff2ec2d7</item>
+        <item>#ff99ce6d</item>
+        <item>#ff46c987</item>
+        <item>#ff15bb9e</item>
+        <item>#fff49d52</item>
+        <item>#fff4734d</item>
+        <item>#ffea646b</item>
+        <item>#ffed7d54</item>
+        <item>#ffe8995d</item>
+        <item>#ff5ea4e6</item>
+        <item>#ffab99de</item>
+    </array>
+    <string-array name="fortune_gender">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <integer-array name="fortune_gender_values">
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
 </resources>

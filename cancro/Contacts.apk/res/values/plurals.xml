@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">成功移动%1$d位联系人</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">成功复制%1$d位联系人</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contacts with phone numbers</item>
         <item quantity="one">1 contact with phone number</item>

@@ -11,7 +11,7 @@
   <string name="activity_title_ignored_image">Ignored</string>
   <string name="activity_title_image_gallery">Delete duplicates</string>
   <string name="activity_title_large_file">Big files</string>
-  <string name="activity_title_main">Cleaner</string>
+  <string name="activity_title_main">Clean Master</string>
   <string name="activity_title_news">News</string>
   <string name="activity_title_privacy_cache">Privacy Cache</string>
   <string name="activity_title_residual">Residuals</string>
@@ -84,6 +84,7 @@
   <string name="clear_immediately">Clean now</string>
   <string name="clear_safe_notify">Security notification bar</string>
   <string name="close">Close</string>
+  <string name="close_debug_mode">Click %1$d to close debug switch</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Network connection for Security</string>
   <string name="connecting">Connecting…</string>
@@ -117,7 +118,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Delete photos from Mi Cloud as well</string>
   <string name="dialog_content_delete_image_confirm">Delete %d photos?</string>
   <string name="dialog_content_select_all_confirm">Keep a copy of this photo?</string>
-  <string name="dialog_msg_add_white_list_error">"Can't add this file to exceptions"</string>
+  <string name="dialog_msg_add_white_list_error">"The File doesn't support adding to exceptions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Backup and uninstall the selected apps?</string>
   <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
   <string name="dialog_msg_esc_cleanmaster">Stop the ongoing clean up scan?</string>
@@ -129,7 +130,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
   <string name="dialog_title_check_all">Select all</string>
   <string name="dialog_title_delete_image">Delete selected images</string>
-  <string name="dialog_title_esc_cleanmaster">Exit Cleaner</string>
+  <string name="dialog_title_esc_cleanmaster">Quit cleanmaster</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
   <string name="dialog_title_uninstall_apps">Uninstall</string>
@@ -142,7 +143,7 @@
   <string name="empty_title_ad">No ad files found</string>
   <string name="empty_title_apk">No install packages found</string>
   <string name="empty_title_garbage_cache">Nothing to clear</string>
-  <string name="empty_title_garbage_white_list">Hold items to add them to exceptions.</string>
+  <string name="empty_title_garbage_white_list">Hold items to add them to exceptions</string>
   <string name="empty_title_installed_apps">Empty</string>
   <string name="empty_title_large_files">Empty</string>
   <string name="empty_title_residual">No residuals found</string>
@@ -206,7 +207,7 @@
   <string name="hints_quick_deep_clean">Clean now</string>
   <string name="hints_quick_deep_scanning">Scanning</string>
   <string name="hints_quick_deep_uninstall">Delete now</string>
-  <string name="hints_quick_prepare">Preparing…</string>
+  <string name="hints_quick_prepare">Prepare…</string>
   <string name="hints_quick_scanning">Scanning…</string>
   <string name="hints_residual_header_left">Residuals</string>
   <string name="hints_scanfinish">No trash</string>
@@ -243,7 +244,7 @@
   <string name="msg_update_error_code_success">Done</string>
   <string name="msg_update_error_code_unknown_error">Unknown error</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">Privacy Policy</string>
+  <string name="name_optimizer">"CleanMaster's Privacy Policy"</string>
   <string name="nb_clear_set">Clear ROM, view battery and blocklist info in the notification shade</string>
   <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
   <string name="net_assistant_title">Used %s of mobile data this month</string>
@@ -258,6 +259,7 @@
   <string name="ok">OK</string>
   <string name="open">Turn on</string>
   <string name="open_browser">Open in browser</string>
+  <string name="open_debug_mode">Click %1$d to open debug switch</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="positive_confirm">OK</string>

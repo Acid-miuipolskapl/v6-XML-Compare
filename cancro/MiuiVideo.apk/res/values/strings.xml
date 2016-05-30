@@ -4,6 +4,7 @@
   <string name="about_title">About</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">"Version "</string>
+  <string name="account_auth_fail">account authenticate fail</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">About</string>
   <string name="ad_moredetail">View details</string>
@@ -149,6 +150,7 @@
   <string name="enter_detail">More Information</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+  <string name="error_empty_epg">No EPG Information</string>
   <string name="error_empty_filter_title">No results</string>
   <string name="error_empty_title">Something went wrong.</string>
   <string name="expire_time">expire time</string>
@@ -187,6 +189,7 @@
   <string name="lastrefresh">Last update</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
+  <string name="live">Live</string>
   <string name="loading">&lt;CDATA&gt;Loading &lt;/CDATA&gt;</string>
   <string name="loading_video_netplay_label">Loading…</string>
   <string name="loading_video_netplay_label_v5">Loading…</string>
@@ -303,6 +306,7 @@
   <string name="reload_sub_title">Try again</string>
   <string name="reload_title">"Couldn't connect to the network"</string>
   <string name="reload_title_ep">"Couldn't get the full series"</string>
+  <string name="replay">Replay</string>
   <string name="retry">Try again</string>
   <string name="router">Remote offline</string>
   <string name="router_download_task_with">%d tasks</string>
@@ -485,6 +489,7 @@
   <string name="vp_select_ep">Select episode</string>
   <string name="vp_select_function">Settings</string>
   <string name="vp_select_source">Select source</string>
+  <string name="vp_select_tv">Channels</string>
   <string name="vp_select_video_definition">Select definition</string>
   <string name="vp_select_video_source">Select source</string>
   <string name="vp_skip">Skip intro and credits</string>

@@ -21,8 +21,8 @@
          some security features of your Android device."</string>
   <string name="account_security_title">Device security</string>
   <string name="account_set_up_change_type_note">If you need to switch between POP3 and IMAP settings, delete your account and create a new one with your desired settings.</string>
-  <string name="account_setting">账户设置</string>
-  <string name="account_setting_keywords">邮件账户;邮件账号;邮件邮件账户设置;邮件账号设置;mail accounts</string>
+  <string name="account_setting">Accounts</string>
+  <string name="account_setting_keywords">Accounts;mail accounts</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
   <string name="account_settings_background_attachments_summary">Download attachments using Wi-Fi</string>
@@ -151,7 +151,7 @@
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
   <string name="add_account">Add account</string>
-  <string name="add_account_keywords">添加邮件账户;添加邮件账号;add mail account</string>
+  <string name="add_account_keywords">Add account;add mail account</string>
   <string name="add_attachment">Add attachment</string>
   <string name="add_calendar">Remind</string>
   <string name="add_label">Add folder</string>
@@ -203,8 +203,8 @@
   <string name="auto_advance_label">Delete message flow</string>
   <string name="auto_advance_summary">Choose which message to scroll to after deleting a message</string>
   <string name="auto_sync_off">Auto-sync is off.</string>
-  <string name="battery_saver">省电模式</string>
-  <string name="battery_saver_keywords">邮件省电;邮件耗电;battery saver;mail battery</string>
+  <string name="battery_saver">Battery saver</string>
+  <string name="battery_saver_keywords">battery saver;mail battery</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
   <string name="blank_feedback_toast">You need to write feedback</string>
@@ -247,10 +247,10 @@
   <string name="compose_send">Send</string>
   <string name="compose_sent">Mail sent</string>
   <string name="confirm">OK</string>
-  <string name="confirm_before_delete">删除前先确认</string>
-  <string name="confirm_before_delete_keywords">删除邮件确认;confirm before deleting;delete confirm</string>
-  <string name="confirm_before_send">发送前先确认</string>
-  <string name="confirm_before_send_keywords">发送邮件确认;发送邮件提示;confirm before sending;send confirm</string>
+  <string name="confirm_before_delete">Confirm before deleting</string>
+  <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
+  <string name="confirm_before_send">Confirm before sending</string>
+  <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
   <string name="confirm_delete_conversation_title">Delete</string>
   <string name="confirm_discard_text">Discard this message?</string>
   <string name="confirm_response">Sending…</string>
@@ -299,8 +299,8 @@
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
-  <string name="conversation_view">显示会话</string>
-  <string name="conversation_view_keywords">邮件会话模式;往来邮件设置;conversation view;mail conversation</string>
+  <string name="conversation_view">Conversation view</string>
+  <string name="conversation_view_keywords">conversation view;mail conversation</string>
   <string name="copied">Copied</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
@@ -317,8 +317,8 @@
   <string name="default_signature">Sent from my Mi phone</string>
   <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
   <string name="delete">Delete</string>
-  <string name="delete_message_flow">自动跳转</string>
-  <string name="delete_message_flow_keywords">删除邮件跳转;跳转页面;delete message flow;delete redirect</string>
+  <string name="delete_message_flow">Delete message flow</string>
+  <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
   <string name="deleted">Deleted</string>
   <string name="device_activity_btn_str">Activate</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
@@ -370,6 +370,8 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
+  <string name="email_setting">Email Setting</string>
+  <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Couldn't find account"</string>
@@ -393,9 +395,9 @@
   <string name="expand_recipient_details">Expand recipient details</string>
   <string name="fail_get_email_message">Get message failed.</string>
   <string name="failed">"Couldn't load image"</string>
-  <string name="failed_read_phone_state_permission">"Don't have permissions to access phone state"</string>
-  <string name="failed_read_write_calendar_permission">"Don't have permissions to access calendar"</string>
-  <string name="failed_read_write_contacts_permission">"Don't have permissions to access contact"</string>
+  <string name="failed_read_phone_state_permission">"Allow access to device's status"</string>
+  <string name="failed_read_write_calendar_permission">Allow access to Calendar</string>
+  <string name="failed_read_write_contacts_permission">Allow access to Contacts</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Message</string>
   <string name="feedback_sent">Thank you for your feedback</string>
@@ -698,7 +700,16 @@
          You can restore it by changing your lock screen PIN or password. Change it now?"</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
-  <string name="path_about_account_setting">邮件/设置</string>
+  <string name="path_about_account_setting">Email/Setting/Accounts</string>
+  <string name="path_about_add_account">Email/Setting/Add account</string>
+  <string name="path_about_battery_saver">Email/Setting/Battery saver</string>
+  <string name="path_about_confirm_before_delete">Email/Setting/Confirm before deleting</string>
+  <string name="path_about_confirm_before_send">Email/Setting/Confirm before sending</string>
+  <string name="path_about_conversation_view">Email/Setting/Conversation view</string>
+  <string name="path_about_delete_message_flow">Email/Setting/Delete message flow</string>
+  <string name="path_about_email_setting">Email/Setting</string>
+  <string name="path_about_send_feed_back">Email/Setting/Send feedback</string>
+  <string name="path_about_upload_logs">Email/Setting/Upload logs</string>
   <string name="perference_change_pw_notnull_tips">Enter your password</string>
   <string name="perference_change_pw_ok_tips">Password changed</string>
   <string name="perference_setup_pop_del">Remove mail from server</string>
@@ -872,8 +883,8 @@
   <string name="selected_lable">Selected</string>
   <string name="send">Send</string>
   <string name="send_failed">"Message wasn't sent."</string>
-  <string name="send_feed_back">发送反馈</string>
-  <string name="send_feed_back_keywords">邮件反馈;邮件客服;联系邮件;send feedback</string>
+  <string name="send_feed_back">Send feedback</string>
+  <string name="send_feed_back_keywords">send feedback</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -969,8 +980,8 @@
   <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
   <string name="upload_log_title">Send error logs to help us improve Mail</string>
   <string name="upload_log_yes">Send</string>
-  <string name="upload_logs">日志文件上传</string>
-  <string name="upload_logs_keywords">邮件日志;upload logs</string>
+  <string name="upload_logs">Upload logs</string>
+  <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Just a sec…</string>
   <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
   <string name="veiled_address"/>
@@ -987,8 +998,8 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
-  <string name="wipe_account_fail_description">Click here to get permissions</string>
-  <string name="wipe_account_fail_title">Failed to delete personal information</string>
+  <string name="wipe_account_fail_description">Allow</string>
+  <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
   <string name="wrong_password">The password you entered is incorrect</string>
   <string name="yes">Yes</string>
   <string name="yidianzixun">Yi Dian Zixun</string>

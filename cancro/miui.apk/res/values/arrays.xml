@@ -134,31 +134,19 @@
         <item>@drawable/btn_checkbox_on_normal_dark</item>
         <item>@drawable/btn_checkbox_on_normal_light</item>
         <item>@drawable/list_item_first_bg_normal_dark</item>
-        <item>@drawable/list_item_first_bg_normal_light</item>
         <item>@drawable/list_item_first_bg_pressed_dark</item>
-        <item>@drawable/list_item_first_bg_pressed_light</item>
         <item>@drawable/list_item_first_bg_selected_dark</item>
-        <item>@drawable/list_item_first_bg_selected_light</item>
         <item>@drawable/list_item_last_bg_normal_dark</item>
-        <item>@drawable/list_item_last_bg_normal_light</item>
         <item>@drawable/list_item_last_bg_pressed_dark</item>
-        <item>@drawable/list_item_last_bg_pressed_light</item>
         <item>@drawable/list_item_last_bg_selected_dark</item>
-        <item>@drawable/list_item_last_bg_selected_light</item>
         <item>@drawable/list_item_middle_bg_normal_dark</item>
-        <item>@drawable/list_item_middle_bg_normal_light</item>
         <item>@drawable/list_item_middle_bg_pressed_dark</item>
-        <item>@drawable/list_item_middle_bg_pressed_light</item>
         <item>@drawable/list_item_middle_bg_selected_dark</item>
-        <item>@drawable/list_item_middle_bg_selected_light</item>
         <item>@drawable/list_item_overstepped_pressed_dark</item>
         <item>@drawable/list_item_overstepped_pressed_light</item>
         <item>@drawable/list_item_single_bg_normal_dark</item>
-        <item>@drawable/list_item_single_bg_normal_light</item>
         <item>@drawable/list_item_single_bg_pressed_dark</item>
-        <item>@drawable/list_item_single_bg_pressed_light</item>
         <item>@drawable/list_item_single_bg_selected_dark</item>
-        <item>@drawable/list_item_single_bg_selected_light</item>
         <item>@drawable/list_small_item_first_bg_normal_light</item>
         <item>@drawable/list_small_item_first_bg_pressed_light</item>
         <item>@drawable/list_small_item_last_bg_normal_light</item>

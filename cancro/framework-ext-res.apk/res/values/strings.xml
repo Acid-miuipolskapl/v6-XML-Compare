@@ -106,7 +106,7 @@
   <string name="key_btn_space">Space</string>
   <string name="livetalk_not_enable">Top-up package off</string>
   <string name="location_usage_restricted_body">Tap to allow.</string>
-  <string name="location_usage_restricted_title">Background location restricted</string>
+  <string name="location_usage_restricted_title">Location access restricted</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
@@ -118,7 +118,7 @@
   <string name="paste">Paste</string>
   <string name="perm_send_push_dspt">Allow Mi push messages</string>
   <string name="perm_send_push_lab">Send push message</string>
-  <string name="permdesc_manageLocationPolicy">Allows the app to manage location policies and define app-specific rules.</string>
+  <string name="permdesc_manageLocationPolicy">Allows app to change location-related permissions and define app-specific rules.</string>
   <string name="permlab_manageLocationPolicy">Location access</string>
   <string name="reboot_confirm_title">Reboot device now?</string>
   <string name="reboot_info_auto_boot">Device is scheduled to power on at %s</string>
@@ -135,6 +135,21 @@
   <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_paper_mode_enter_toast">Reading mode is on. To turn this feature off, go to Settings &gt; Display &gt; Reading mode.</string>
   <string name="screen_rotation_freeze_message">Auto-rotate disabled.</string>
+  <string name="securespaces_extension_accelerometer_name">ACCELEROMETER_EXTENSION</string>
+  <string name="securespaces_extension_accelerometer_serviceName"/>
+  <string name="securespaces_extension_delete_userdata_name">DELETE_USERDATA_EXTENSION</string>
+  <string name="securespaces_extension_delete_userdata_serviceName"/>
+  <string name="securespaces_extension_encryption_name">ENCRYPTION_EXTENSION</string>
+  <string name="securespaces_extension_encryption_serviceName">spaceencryption</string>
+  <string name="securespaces_extension_hidden_name">HIDDEN_EXTENSION</string>
+  <string name="securespaces_extension_hidden_serviceName"/>
+  <string name="securespaces_extension_read_cross_space_contacts_name">READ_CROSS_SPACE_CONTACTS_EXTENSION</string>
+  <string name="securespaces_extension_read_cross_space_contacts_serviceName"/>
+  <string name="security_permission_denied_text">Access denied</string>
+  <string name="security_permission_failed_text">Internal error, retry later</string>
+  <string name="security_permission_validate_warning">Thank you for helping make MIUI better!</string>
+  <string name="security_permission_wifi_and_data_opened_text">WLAN and mobile data turned on</string>
+  <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
   <string name="select">Select</string>
   <string name="select_all">Select all</string>
   <string name="set_password_action">Set password</string>
@@ -146,6 +161,7 @@
   <string name="sim_added_reboot_title">SIM card will activate after you reboot your device.</string>
   <string name="softap_notifif_summary">%d connected</string>
   <string name="softap_notifif_title">Hotspot \"%s\" is on</string>
+  <string name="start_security_permission_verify_text">Verify permissions with your Mi Account</string>
   <string name="status_bar_toggle_auto_brightness">Brightness</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
@@ -166,8 +182,6 @@
   <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
   <string name="status_bar_toggle_power_mode">Performance</string>
   <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
-  <string name="status_bar_toggle_privacy_mode">Guest</string>
-  <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
   <string name="status_bar_toggle_rotate">Rotate off</string>
@@ -184,6 +198,10 @@
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="translation_query_error">"Couldn't find results"</string>
+  <string name="translation_query_error_network">"Couldn't connect to the network. Check settings and try again"</string>
   <string name="turn_off">Turn off</string>
   <string name="unknown_caller">Unknown number</string>
+  <string name="user_switching_dialog_text">Switching…</string>
+  <string name="xspace_resolver_activity_title">Select app</string>
 </resources>
