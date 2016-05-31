@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="see_n_more">
+        <item quantity="other">%1$d more</item>
+        <item quantity="one">%1$d more</item>
+    </plurals>
+    <plurals name="minutes_left">
+        <item quantity="other">%1$d mins remaining</item>
+        <item quantity="one">%1$d min remaining</item>
+    </plurals>
+    <plurals name="days_remaining">
+        <item quantity="other">Expires in %1$d days</item>
+        <item quantity="one">Expires in %1$d day</item>
+    </plurals>
+    <plurals name="hours_remaining">
+        <item quantity="other">Expires in %1$d hours</item>
+        <item quantity="one">Expires in %1$d hour</item>
+    </plurals>
+</resources>

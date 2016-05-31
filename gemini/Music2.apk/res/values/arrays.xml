@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeklist">
+        <item>1 week</item>
+        <item>2 weeks</item>
+        <item>3 weeks</item>
+        <item>4 weeks</item>
+        <item>5 weeks</item>
+        <item>6 weeks</item>
+        <item>7 weeks</item>
+        <item>8 weeks</item>
+        <item>9 weeks</item>
+        <item>10 weeks</item>
+        <item>11 weeks</item>
+        <item>12 weeks</item>
+    </string-array>
+    <string-array name="android_wear_capabilities">
+        <item>intent_starter</item>
+        <item>music_phone_app</item>
+    </string-array>
+    <array name="nus_artist_colors">
+        <item>#ffef3a01</item>
+        <item>#fffbb03b</item>
+        <item>#fff7790f</item>
+        <item>#ffe91f1c</item>
+        <item>#ffc61801</item>
+        <item>#fff35403</item>
+        <item>#ffdc1e38</item>
+        <item>#ffdd1c00</item>
+    </array>
+</resources>

@@ -21,12 +21,12 @@
         <item quantity="one">1 hour</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">WLAN networks available</item>
-        <item quantity="one">WLAN network available</item>
+        <item quantity="other">Wi-Fi networks available</item>
+        <item quantity="one">Wi-Fi network available</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Open WLAN networks available</item>
-        <item quantity="one">Open WLAN network available</item>
+        <item quantity="other">Open Wi-Fi networks available</item>
+        <item quantity="one">Open Wi-Fi network available</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d of %2$d</item>

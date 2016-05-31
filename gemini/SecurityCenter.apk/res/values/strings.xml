@@ -87,7 +87,7 @@ or enter App lock password"</string>
   <string name="app_name_securitycenter">Security</string>
   <string name="app_not_installed_toast">"App isn't installed on your device."</string>
   <string name="app_version">Version</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="auto_handle_title">GENERAL</string>
   <string name="back">Back</string>
   <string name="background_traffic">Background %s</string>
@@ -98,7 +98,7 @@ or enter App lock password"</string>
   <string name="battery_desc_radio">Battery used by radio</string>
   <string name="battery_desc_standby">Battery used when phone is idle</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
-  <string name="battery_desc_wifi">Battery used by WLAN</string>
+  <string name="battery_desc_wifi">Battery used by Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
   <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
@@ -180,7 +180,7 @@ or enter App lock password"</string>
   <string name="confirm_reject_all_permission">Restrict all apps from using this feature?</string>
   <string name="connect_internet_by_mobiledata">Mobile data connection</string>
   <string name="connect_internet_by_usbshare">Shared internet over USB</string>
-  <string name="connect_internet_by_wifi">WLAN</string>
+  <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Install</string>
   <string name="correction_attention_dialog_message">Adjusting settings now. Wait until the process is finished and try again.</string>
   <string name="cta_button_text_agree">OK</string>
@@ -267,13 +267,13 @@ For more info check the message you received from your carrier"</string>
   <string name="detail_app_button">App info</string>
   <string name="details_subtitle">Use details</string>
   <string name="diagnostic_attention_dialog_message">"Diagnostics for %1$s is in progress. Wait until it's finished and try again."</string>
-  <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming overseas, only apps you've added to exceptions can use mobile data."</string>
-  <string name="dialog_app_roaming_title">"Overseas roaming isn't enabled for %1$s"</string>
+  <string name="dialog_app_roaming_message">"%1$s can't use mobile data when roaming. When you're roaming, only apps you've added to exceptions list can use mobile data."</string>
+  <string name="dialog_app_roaming_title">"%1$s can't use data roaming"</string>
   <string name="dialog_msg_auto_start_declare">Some apps may incorrectly indicate that MIUI has prevented them from starting. Check permissions that have been granted to individual apps in Settings &gt; Apps.</string>
   <string name="dialog_msg_stop_virus_scan">"Stop virus scan before it's finished?"</string>
   <string name="dialog_roaming_apps_sorted_title">Sort by</string>
-  <string name="dialog_roaming_message">Allow this app to use mobile data when roaming overseas?</string>
-  <string name="dialog_roaming_title">Overseas roaming</string>
+  <string name="dialog_roaming_message">Your carrier may charge you additional fees for using data while roaming.</string>
+  <string name="dialog_roaming_title">Allow data roaming?</string>
   <string name="dialog_title_attention">Attention</string>
   <string name="dialog_title_auto_start_declare">About autostart</string>
   <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
@@ -324,11 +324,11 @@ For more info check the message you received from your carrier"</string>
   <string name="firewall_restrict_android_dialog_content">To make sure your device works normally, a few Android system apps will still connect to the internet. These apps will use your mobile data connection and may generate minor charges from your carrier.</string>
   <string name="firewall_restrict_android_dialog_title">Attention</string>
   <string name="firewall_rule_group_title_mobile">Mobile</string>
-  <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
-  <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_rule_group_title_roaming">Data roaming</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
   <string name="five_percent_total_pkg">%s (5%% of monthly data)</string>
-  <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
+  <string name="force_stop_dlg_text">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network."</string>
   <string name="force_stop_dlg_title">Restrict background data</string>
   <string name="foreground_traffic">Foreground %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
@@ -396,7 +396,7 @@ For more info check the message you received from your carrier"</string>
   <string name="input_used_hint">Enter data usage</string>
   <string name="input_used_max_hint">Enter data usage (less than %s)</string>
   <string name="install_title">Install via USB</string>
-  <string name="international_roaming_setting">Overseas roaming</string>
+  <string name="international_roaming_setting">Data roaming</string>
   <string name="international_roaming_whitelist_count">%d apps can use mobile data when roaming</string>
   <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
   <string name="item_app_permission">App permissions</string>
@@ -491,7 +491,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="main_toolbar_firewall">Restrict data usage</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobile data</string>
   <string name="main_toolbar_internet_by_pc_brige">USB internet</string>
-  <string name="main_toolbar_internet_by_wifi">WLAN</string>
+  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Top up</string>
   <string name="main_toolbar_saving">Data saver</string>
   <string name="main_toolbar_statistic">Data usage stats</string>
@@ -544,7 +544,7 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="mi_service_app_detail">Data usage details</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Framework details</string>
-  <string name="mian_page_primary_txt">Overseas roaming</string>
+  <string name="mian_page_primary_txt">Data roaming</string>
   <string name="modifypassword">Change password</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="month_report_month_report_switch">Show monthly report</string>
@@ -568,20 +568,20 @@ Peak: %1$s%2$s | %3$s used"</string>
   <string name="network_roaming_exception_tips">"Can't use mobile data while roaming to connect to the network."</string>
   <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
 
- "&lt;b&gt;"1. Public WLAN network issues
-"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+ "&lt;b&gt;1. Public Wi-Fi network issues&lt;/b&gt;"
+If you're connected to a public Wi-Fi network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
 
- 2."&lt;b&gt;" Internet service provider issues
-M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+ "&lt;b&gt;2. Internet service provider issues&lt;/b&gt;"
+Make sure that your account is in good standing with your Internet Service Provider.
 
- 3."&lt;b&gt;" Router hardware issues
-T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+ "&lt;b&gt;3. Router hardware issues&lt;/b&gt;"
+Try rebooting your router or checking the admin settings for your router.
 
- 4."&lt;b&gt;" Other router issues
-R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+ "&lt;b&gt;4. Other router issues&lt;/b&gt;"
+Read the instructions that came with your router and restore your router to its factory settings.
 
- 5."&lt;b&gt;" Make sure your router is connected properly
-T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+ "&lt;b&gt;5. Make sure your router is connected properly&lt;/b&gt;"
+Try using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
   <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
 
  1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
@@ -697,11 +697,11 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_chooser_check_box_title">Choose profile</string>
   <string name="power_chooser_mine_summary">Add profile</string>
   <string name="power_chooser_mine_title">Custom</string>
-  <string name="power_chooser_sleep_summary">Turn off all network functions (calls, SMS, WLAN, and data services) except for alarm clock</string>
+  <string name="power_chooser_sleep_summary">Turn off all network functions (calls, SMS, Wi-Fi, and data services) except for alarm clock</string>
   <string name="power_chooser_sleep_title">Sleep</string>
   <string name="power_chooser_smart_summary">Clear background processes when device is locked</string>
   <string name="power_chooser_smart_title">Default</string>
-  <string name="power_chooser_standby_summary">Turn off WLAN and data services</string>
+  <string name="power_chooser_standby_summary">Turn off Wi-Fi and data services</string>
   <string name="power_chooser_standby_title">Marathon</string>
   <string name="power_chooser_title">Battery profiles</string>
   <string name="power_chooser_user_define_summary">Add profile</string>
@@ -749,7 +749,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_dialog_screen_brightness_title">Brightness</string>
   <string name="power_dialog_sleep_title">Sleep</string>
   <string name="power_dialog_vibration_title">Vibrate</string>
-  <string name="power_dialog_wifi_title">WLAN</string>
+  <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_exitlowbattery_whencharge">Disable when plugged in</string>
   <string name="power_idle">Phone idle</string>
   <string name="power_mode_airplane_mode">Airplane mode</string>
@@ -790,7 +790,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_mode_vibration_no">Never</string>
   <string name="power_mode_vibration_silence">When silenced</string>
   <string name="power_mode_vibration_yes">Always</string>
-  <string name="power_mode_wifi">WLAN</string>
+  <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Choose a profile</string>
   <string name="power_notify_lowbattery">%1$d%% battery remaining</string>
   <string name="power_phone">Voice calls</string>
@@ -830,13 +830,13 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="power_settings_top">Top bar</string>
   <string name="power_subtitle_lowbattery">Switched battery profiles to save power.</string>
   <string name="power_subtitle_ontime">Battery switched profiles as scheduled.</string>
-  <string name="power_wifi">WLAN</string>
+  <string name="power_wifi">Wi-Fi</string>
   <string name="pref_about">About</string>
   <string name="pref_about_traffic_title">Data usage settings</string>
   <string name="pref_add_traffic_pkg">Additionally purchased data</string>
   <string name="pref_adjust_data_usage">Carrier message template</string>
   <string name="pref_adjust_traffic_data">Set data usage</string>
-  <string name="pref_allow_connect_network_title">Overseas data roaming</string>
+  <string name="pref_allow_connect_network_title">Data roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Allow exceptions to use mobile data while roaming</string>
   <string name="pref_app_traffic_managent">Restrict data usage by app</string>
   <string name="pref_auto_adjust_settings">Auto-sync data usage stats settings</string>
@@ -1000,9 +1000,9 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
   <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
   <string name="roaming_not_start_body">Tap to view data roaming settings.</string>
-  <string name="roaming_not_start_title">Overseas roaming</string>
+  <string name="roaming_not_start_title">Data roaming</string>
   <string name="roaming_start_body">Tap to view data roaming exceptions.</string>
-  <string name="roaming_start_title">Overseas roaming</string>
+  <string name="roaming_start_title">Data roaming</string>
   <string name="root">Root access</string>
   <string name="root_apply_step_1">Grant %s root access?</string>
   <string name="root_apply_step_2">Granting apps root access may cause your device to become unstable.</string>
@@ -1323,7 +1323,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; apps' data usage are not being restricted"</string>
   <string name="traffic_saving_whitelist_no_app">No apps</string>
-  <string name="traffic_saving_wifi_usage">WLAN usage</string>
+  <string name="traffic_saving_wifi_usage">Wi-Fi usage</string>
   <string name="traffic_setting_app_count">%d apps</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Adjust data plan and usage limits</string>
@@ -1360,22 +1360,22 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_cpu_foreground">CPU foreground</string>
   <string name="usage_type_data_recv">Mobile data received</string>
   <string name="usage_type_data_send">Mobile data sent</string>
-  <string name="usage_type_data_wifi_recv">WLAN data received</string>
-  <string name="usage_type_data_wifi_send">WLAN data sent</string>
+  <string name="usage_type_data_wifi_recv">Wi-Fi data received</string>
+  <string name="usage_type_data_wifi_send">Wi-Fi data sent</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
   <string name="usage_type_phone">Phone</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Keep awake</string>
-  <string name="usage_type_wifi_running">WLAN running</string>
+  <string name="usage_type_wifi_running">Wi-Fi running</string>
   <string name="usb_install_desc">Install this app via USB?</string>
   <string name="usbsharenet_exception_summary">"Can't connect to the internet using shared USB connection. Check your device's USB connection and restart Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test shared internet over USB</string>
   <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="virus_list_header_title">%d viruses detected</string>
   <string name="warning_open_mi_sim">Turn on Mi SIM</string>
-  <string name="wifi_exception_summary">Test available WLAN networks</string>
-  <string name="wifi_exception_title">Test WLAN network</string>
+  <string name="wifi_exception_summary">Test available Wi-Fi networks</string>
+  <string name="wifi_exception_title">Test Wi-Fi network</string>
   <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

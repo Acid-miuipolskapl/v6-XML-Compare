@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="circles_multiple">
+        <item quantity="other">&lt;g id="num_circles">%1$s&lt;/g> circles</item>
+        <item quantity="one">&lt;g id="num_circles">%1$s&lt;/g> circle</item>
+    </plurals>
+    <plurals name="content_description_rated">
+        <item quantity="other">Your rating: &lt;g id="number">%1$s&lt;/g> stars</item>
+        <item quantity="one">Your rating: &lt;g id="number">%1$s&lt;/g> star</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_review_count">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> reviews</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> review</item>
+    </plurals>
+    <plurals name="content_description_review_histogram_row">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> reviews for star rating &lt;g id="rating">%2$d&lt;/g></item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> review for star rating &lt;g id="rating">%2$d&lt;/g></item>
+    </plurals>
+    <plurals name="content_description_review_tip_review_count">
+        <item quantity="other">&lt;g id="review_tip">%1$s&lt;/g> from &lt;g id="number">%2$s&lt;/g> reviews</item>
+        <item quantity="one">&lt;g id="review_tip">%1$s&lt;/g> from &lt;g id="number">%2$s&lt;/g> review</item>
+    </plurals>
+    <plurals name="my_apps_selected">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> selected</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> selected</item>
+    </plurals>
+    <plurals name="notification_need_approval_message">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> updates need approval</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> update needs approval</item>
+    </plurals>
+    <plurals name="notification_new_updates_available_message">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> new updates</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> new update</item>
+    </plurals>
+    <plurals name="notification_outstanding_updates_message">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> updates available</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> update available</item>
+    </plurals>
+    <plurals name="notification_update_all_button_text">
+        <item quantity="other">Update all</item>
+        <item quantity="one">Update</item>
+    </plurals>
+    <plurals name="notification_update_success_message">
+        <item quantity="other">&lt;g id="number">%1$d&lt;/g> applications updated</item>
+        <item quantity="one">&lt;g id="number">%1$d&lt;/g> application updated</item>
+    </plurals>
+    <plurals name="review_author_stars">
+        <item quantity="other">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> stars</item>
+        <item quantity="one">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> star</item>
+    </plurals>
+    <plurals name="review_author_stars_title">
+        <item quantity="other">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> stars - &lt;g id="third">%3$s&lt;/g></item>
+        <item quantity="one">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> star - &lt;g id="third">%3$s&lt;/g></item>
+    </plurals>
+    <plurals name="review_author_stars_title_comment">
+        <item quantity="other">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> stars - &lt;g id="third">%3$s&lt;/g> - &lt;g id="fourth">%4$s&lt;/g></item>
+        <item quantity="one">&lt;b>&lt;g id="first">%1$s&lt;/g>&lt;/b> &lt;g id="second">%2$s&lt;/g> star - &lt;g id="third">%3$s&lt;/g> - &lt;g id="fourth">%4$s&lt;/g></item>
+    </plurals>
+    <plurals name="review_feedback_helpful_icon_description">
+        <item quantity="other">&lt;g id="helpful_count">%1$d&lt;/g> users found this review helpful. Mark comment as helpful</item>
+        <item quantity="one">&lt;g id="helpful_count">%1$d&lt;/g> user found this review helpful. Mark comment as helpful</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">&lt;g id="helpful_count">%1$d&lt;/g> users found this review helpful. Unmark comment as helpful</item>
+        <item quantity="one">&lt;g id="helpful_count">%1$d&lt;/g> user found this review helpful. Unmark comment as helpful</item>
+    </plurals>
+    <plurals name="review_just_stars">
+        <item quantity="other">Rated it &lt;b>&lt;g id="first">%1$s&lt;/g> stars&lt;/b></item>
+        <item quantity="one">Rated it &lt;b>&lt;g id="first">%1$s&lt;/g> star&lt;/b></item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">In &lt;g id="number">%1$s&lt;/g> reviews</item>
+        <item quantity="one">In &lt;g id="number">%1$s&lt;/g> review</item>
+    </plurals>
+    <plurals name="review_stars_title">
+        <item quantity="other">&lt;b>&lt;g id="first">%1$s&lt;/g> stars&lt;/b> &lt;g id="second">%2$s&lt;/g></item>
+        <item quantity="one">&lt;b>&lt;g id="first">%1$s&lt;/g> star&lt;/b> &lt;g id="second">%2$s&lt;/g></item>
+    </plurals>
+    <plurals name="setup_wizard_apps_loading_error_menu_title">
+        <item quantity="other">"Can't load items. Try another backup."</item>
+        <item quantity="one">"Can't load items. Try again later."</item>
+    </plurals>
+    <plurals name="setup_wizard_device_last_used_message">
+        <item quantity="other">Last used &lt;g id="number">%1$d&lt;/g> days ago</item>
+        <item quantity="one">Last used &lt;g id="number">%1$d&lt;/g> day ago</item>
+    </plurals>
+    <plurals name="setup_wizard_selected_apps">
+        <item quantity="other">Selected apps</item>
+        <item quantity="one">Selected app</item>
+    </plurals>
+    <plurals name="stars_without_numbers">
+        <item quantity="other">stars</item>
+        <item quantity="one">star</item>
+    </plurals>
+    <plurals name="tip_header_subtitle">
+        <item quantity="other">&lt;g id="number">%1$s&lt;/g> people are saying this</item>
+        <item quantity="one">&lt;g id="number">%1$s&lt;/g> person is saying this</item>
+    </plurals>
+</resources>

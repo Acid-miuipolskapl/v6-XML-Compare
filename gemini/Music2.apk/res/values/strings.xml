@@ -1,0 +1,1127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="NsongsMalbums">&lt;g example="32 SONGS" id="songCountText"&gt;%1$s&lt;/g&gt;, &lt;g example="2 ALBUMS" id="albumCountText"&gt;%2$s&lt;/g&gt;</string>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="accept">Accept</string>
+  <string name="accessibility_at_home_volume">Volume</string>
+  <string name="accessibility_back">Back</string>
+  <string name="accessibility_close_social_mix_mode">Close social mix mode</string>
+  <string name="accessibility_concatenation" formatted="false">&lt;g id="string_one"&gt;%s&lt;/g&gt;. &lt;g id="string_two"&gt;%s&lt;/g&gt;</string>
+  <string name="accessibility_contextMenu">Song menu</string>
+  <string name="accessibility_contractor">Expand song information</string>
+  <string name="accessibility_createnewplaylist">Create new playlist</string>
+  <string name="accessibility_current">Current song</string>
+  <string name="accessibility_dismiss">Dismiss</string>
+  <string name="accessibility_download_paused">Paused music downloading</string>
+  <string name="accessibility_download_resumed">Resumed music downloading</string>
+  <string name="accessibility_downloaded">Downloaded</string>
+  <string name="accessibility_duration_hours">&lt;g example="1 hour" id="minutes"&gt;%1$s&lt;/g&gt; &lt;g example="2 minutes" id="minutes"&gt;%2$s&lt;/g&gt; &lt;g example="3 seconds" id="minutes"&gt;%3$s&lt;/g&gt;</string>
+  <string name="accessibility_duration_minutes">&lt;g example="2 minutes" id="minutes"&gt;%1$s&lt;/g&gt; &lt;g example="3 seconds" id="minutes"&gt;%2$s&lt;/g&gt;</string>
+  <string name="accessibility_event_dropdown_item_selected">&lt;g id="entry_title"&gt;%1$s&lt;/g&gt; selected</string>
+  <string name="accessibility_event_tab_selected">&lt;g id="tab_title"&gt;%1$s&lt;/g&gt; selected</string>
+  <string name="accessibility_home">Music home</string>
+  <string name="accessibility_menu">More options</string>
+  <string name="accessibility_next">Next</string>
+  <string name="accessibility_pause">Pause</string>
+  <string name="accessibility_play">Play</string>
+  <string name="accessibility_play_with_title">" Play "&lt;g example="Dark Side of the Moon" id="title"&gt;%s&lt;/g&gt;" "</string>
+  <string name="accessibility_prev">Previous</string>
+  <string name="accessibility_rating_removed">Rating removed</string>
+  <string name="accessibility_repeat">Repeat</string>
+  <string name="accessibility_repeat_all">Repeat all</string>
+  <string name="accessibility_repeat_off">Repeat off</string>
+  <string name="accessibility_repeat_one">Repeat one</string>
+  <string name="accessibility_search">Search</string>
+  <string name="accessibility_search_cancel">Cancel current search</string>
+  <string name="accessibility_select_output">Select audio output</string>
+  <string name="accessibility_shop">Shop for music</string>
+  <string name="accessibility_shuffle">Shuffle</string>
+  <string name="accessibility_shuffle_off">Shuffle off</string>
+  <string name="accessibility_shuffle_on">Shuffle on</string>
+  <string name="accessibility_stop">Stop</string>
+  <string name="accessibility_thumbsDown">Thumbs down</string>
+  <string name="accessibility_thumbsUp">Thumbs up</string>
+  <string name="accessibility_volume">Volume</string>
+  <string name="account_selected_summary">Connect to Google Play using &lt;g id="account"&gt;%s&lt;/g&gt;</string>
+  <string name="account_settings_key">account_settings_key</string>
+  <string name="account_settings_title">Google Account</string>
+  <string name="account_type_free_trial_nautilus_tier_summary">Next bill date: &lt;g example="5/15/13" id="date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="account_type_paid_nautilus_tier_summary_new">Expires &lt;g example="5/15/13" id="date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="account_type_paid_nautilus_without_yt_title_new">Account type: Unlimited</string>
+  <string name="account_type_settings_key">account_type_settings_key</string>
+  <string name="accounts">Accounts</string>
+  <string name="actionbar_title">Google Play</string>
+  <string name="ad_unit_id">/14588645/GPM/gpm//mobile</string>
+  <string name="add_to_my_library_caps">MY LIBRARY</string>
+  <string name="add_to_playlist">Add to playlist</string>
+  <string name="add_to_playlist_selector_title">Add to playlist</string>
+  <string name="add_to_queue">Add to queue</string>
+  <string name="added_to_library_tag">Added to My Library</string>
+  <string name="album_art_description">Play songs</string>
+  <string name="album_instant_mix">Album Instant Mixes</string>
+  <string name="album_label">ALBUM</string>
+  <string name="album_station">Album Stations</string>
+  <string name="album_year_dot">·</string>
+  <string name="album_year_hyphen">-</string>
+  <string name="albums_corpus_album_section">album</string>
+  <string name="albums_corpus_artist_section">artist</string>
+  <string name="albums_corpus_name">albums</string>
+  <string name="albums_corpus_section_data">content://com.google.android.music.MusicContent/album/%$uri</string>
+  <string name="albums_corpus_section_icon_uri">content://com.google.android.music.MusicContent/albumorfauxart/%$uri</string>
+  <string name="albums_corpus_section_text_1">&lt;g example="Crush" id="album"&gt;%album&lt;/g&gt;</string>
+  <string name="albums_corpus_section_text_2">Album by &lt;g example="Bon Jovi" id="artist"&gt;%artist&lt;/g&gt;</string>
+  <string name="albums_title">Albums</string>
+  <string name="albumsongseparator">"
+"</string>
+  <string name="alert_ok_button">OK</string>
+  <string name="all_albums_title">All albums</string>
+  <string name="all_caps">ALL</string>
+  <string name="all_new_release_title">All new releases</string>
+  <string name="all_playlists_title">All Playlists</string>
+  <string name="all_songs_in_genre">"All songs from genre
+"&lt;g id="genre"&gt;%s&lt;/g&gt;</string>
+  <string name="all_songs_list">All songs</string>
+  <string name="all_songs_list_title">All songs</string>
+  <string name="apiary_endpoint_summary">Apiary endpoint selection</string>
+  <string name="apiary_endpoint_title">Apiary endpoint</string>
+  <string name="apiary_endpoints_screen">apiary_endpoints_key</string>
+  <string name="app_name">Google Play Music</string>
+  <string name="appwidget_text_separator">-</string>
+  <string name="artist_art_description">Go to artist</string>
+  <string name="artist_details">Artist details</string>
+  <string name="artist_instant_mix">Artist Instant Mixes</string>
+  <string name="artist_label">ARTIST</string>
+  <string name="artist_station">Artist Stations</string>
+  <string name="artists_corpus_artist_section">artist</string>
+  <string name="artists_corpus_name">artists</string>
+  <string name="artists_corpus_section_data">content://com.google.android.music.MusicContent/albumartist/%$uri</string>
+  <string name="artists_corpus_section_icon_uri">content://com.google.android.music.MusicContent/artistfauxart/%$uri</string>
+  <string name="artists_corpus_section_text_1">&lt;g example="Bon Jovi" id="artist"&gt;%artist&lt;/g&gt;</string>
+  <string name="artists_corpus_section_text_2">Artist</string>
+  <string name="artists_title">Artists</string>
+  <string name="athome_added_by">Added by</string>
+  <string name="athome_error_controller_too_new">"Nexus Q's software is too old. To auto-update, connect Nexus Q to internet via Ethernet or Wi-Fi."</string>
+  <string name="athome_error_controller_too_new_notification">To auto-update, connect Nexus Q to Internet.</string>
+  <string name="athome_error_controller_too_new_notification_short">Nexus Q needs new software.</string>
+  <string name="athome_error_controller_too_new_short">Nexus Q needs new software.</string>
+  <string name="athome_error_controller_too_old">To use Nexus Q, first update your Google Play Music app.</string>
+  <string name="athome_error_controller_too_old_notification">to work with Nexus Q.</string>
+  <string name="athome_error_controller_too_old_notification_short">Update Google Play Music app</string>
+  <string name="athome_error_controller_too_old_short">Nexus Q needs latest Google Play Music app.</string>
+  <string name="athome_error_controller_too_old_update_button">Update</string>
+  <string name="athome_error_device_setup">Nexus Q setup is incomplete. To start over, factory reset your Nexus Q.</string>
+  <string name="athome_error_device_setup_notification">To start over, factory reset your Nexus Q.</string>
+  <string name="athome_error_device_setup_notification_short">Nexus Q setup is incomplete.</string>
+  <string name="athome_error_device_setup_short">Nexus Q needs factory reset.</string>
+  <string name="athome_error_generic">Lost network connection with Nexus Q.</string>
+  <string name="athome_error_generic_notification">Unable to communicate with Nexus Q possibly due to bad network connection or issue with the device.</string>
+  <string name="athome_error_generic_notification_short">Nexus Q Network Error</string>
+  <string name="athome_error_generic_short">Nexus Q network error.</string>
+  <string name="athome_error_incompatible_tgs_version">An incompatible version of the grouping service is running on Nexus Q.</string>
+  <string name="athome_error_incompatible_tgs_version_notification">An incompatible version of the grouping service is running on Nexus Q.</string>
+  <string name="athome_error_incompatible_tgs_version_notification_short">Nexus Q group service error</string>
+  <string name="athome_error_incompatible_tgs_version_short">Nexus Q group service error</string>
+  <string name="athome_error_place_disconnected_short">"Can't communicate with Nexus Q."</string>
+  <string name="athome_error_server_network">Unable to communicate with the server</string>
+  <string name="athome_error_server_network_short">Network Error</string>
+  <string name="athome_error_unauthorized_account">Selected account is not authorized for use with Nexus Q</string>
+  <string name="athome_error_unauthorized_account_notification">Selected account is not authorized for use with Nexus Q.</string>
+  <string name="athome_error_unauthorized_account_notification_short">Account unauthorized</string>
+  <string name="athome_error_unauthorized_account_short">Account unauthorized</string>
+  <string name="athome_error_unreachable_tgs">Unable to communicate with Nexus Q. If this persists, the Nexus Q may need to be restarted.</string>
+  <string name="athome_error_unreachable_tgs_notification">Unable to communicate with Nexus Q. If this persists, the Nexus Q may need to be restarted.</string>
+  <string name="athome_error_unreachable_tgs_notification_short">Unable to contact the Nexus Q</string>
+  <string name="athome_error_unreachable_tgs_short">Unable to contact the Nexus Q</string>
+  <string name="athome_party_mode_disclamer">Your public profile picture might be visible to other users while using Social Mix</string>
+  <string name="athome_party_mode_disclamer_save_preference">Do not show this again</string>
+  <string name="athome_playback_title">Now playing</string>
+  <string name="athome_remove_menu">Remove from queue</string>
+  <string name="athome_tutorial_content">Touch the streaming icon to pick where your music plays</string>
+  <string name="athome_tutorial_title">Play music where you want it</string>
+  <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+  <string name="auth_google_play_services_client_google_display_name">Google</string>
+  <string name="authentication_failure">Not authenticated</string>
+  <string name="authentication_failure_error">"Couldn't authenticate your Music account."</string>
+  <string name="authentication_failure_no_network">"You'll be connected to the Internet to authenticate your Music account."</string>
+  <string name="auto_playlist_label">Auto-playlist</string>
+  <string name="auto_playlists_title">Auto Playlists</string>
+  <string name="autocache_key">autocache_key</string>
+  <string name="autocache_summary">If charging &amp; on Wi-Fi</string>
+  <string name="autocache_title">Cache music overnight</string>
+  <string name="banner_ad_size">BANNER</string>
+  <string name="based_on_album">Based on this album</string>
+  <string name="based_on_artist">Based on this artist</string>
+  <string name="based_on_track">Based on this song</string>
+  <string name="bestmatch_title">Best match</string>
+  <string name="browser_not_available">No browser is available.</string>
+  <string name="btn_buy">Buy</string>
+  <string name="buffering">Buffering…</string>
+  <string name="by_owner_playlist_label">By &lt;g id="owner"&gt;%s&lt;/g&gt;</string>
+  <string name="cache_streamed_key">cache_streamed_key</string>
+  <string name="cache_streamed_summary">While streaming</string>
+  <string name="cache_streamed_title">Cache music</string>
+  <string name="cancel">Cancel</string>
+  <string name="carousel_label_shuffle_all">Shuffle all</string>
+  <string name="cast_error_shared_content">"Unable to play the song. Can't play a shared song remotely."</string>
+  <string name="cast_error_shared_content_notification">"Unable to play the song. Can't play a shared song remotely."</string>
+  <string name="cast_error_shared_content_notification_short">Playback error</string>
+  <string name="cast_error_shared_content_short">Playback error</string>
+  <string name="cast_error_sideloaded_content">"Unable to play the song. Can't play a sideloaded song remotely."</string>
+  <string name="cast_error_sideloaded_content_notification">"Unable to play the song. Can't play a sideloaded song remotely."</string>
+  <string name="cast_error_sideloaded_content_notification_short">Playback error</string>
+  <string name="cast_error_sideloaded_content_short">Playback error</string>
+  <string name="cast_media_route_provider_service">Cast Media Route Provider Service for Google Music</string>
+  <string name="cast_notification_connected_message">Connected to &lt;g id="name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="cast_notification_connecting_message">Connecting to &lt;g id="name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="cast_notification_disconnect">Disconnect</string>
+  <string name="choose_playlist">Choose a playlist</string>
+  <string name="clear_cache_button">Clear cached music</string>
+  <string name="clear_cache_settings_key">clear_cache_settings_key</string>
+  <string name="clear_cache_settings_title">Clear cache</string>
+  <string name="clear_queue">Clear queue</string>
+  <string name="clearing_cache">Clearing cache...</string>
+  <string name="close_ads_button_text">CLOSE</string>
+  <string name="cloud_queue_different_account_prompt">Someone else is playing music on &lt;b&gt;&lt;g example="Living Room" id="cq_different_account"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;. Switch to your music?</string>
+  <string name="cloud_queue_different_account_prompt_no">"DON'T SWITCH"</string>
+  <string name="cloud_queue_different_account_prompt_yes">SWITCH</string>
+  <string name="cloud_queue_multisender_prompt">Continue playing music from &lt;b&gt;&lt;g example="Living Room" id="cq_multisender"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;?</string>
+  <string name="cloud_queue_multisender_prompt_no">CHANGE MUSIC</string>
+  <string name="cloud_queue_multisender_prompt_yes">CONTINUE</string>
+  <string name="cluster_more">&lt;g id="num"&gt;%d&lt;/g&gt; MORE</string>
+  <string name="common_android_wear_notification_needs_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; requires an update to the Android Wear app.</string>
+  <string name="common_android_wear_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run unless you update the Android Wear app."</string>
+  <string name="common_android_wear_update_title">Update Android Wear</string>
+  <string name="common_google_play_services_api_unavailable_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+  <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+  <string name="common_google_play_services_enable_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't work unless you enable Google Play services."</string>
+  <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Requested by &lt;g id="app_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="common_google_play_services_install_button">Get Google Play services</string>
+  <string name="common_google_play_services_install_text_phone">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are missing from your phone."</string>
+  <string name="common_google_play_services_install_text_tablet">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are missing from your tablet."</string>
+  <string name="common_google_play_services_install_title">Get Google Play services</string>
+  <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+  <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+  <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+  <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+  <string name="common_google_play_services_network_error_title">Network Error</string>
+  <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+  <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+  <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+  <string name="common_google_play_services_unsupported_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play services</string>
+  <string name="common_google_play_services_update_button">Update</string>
+  <string name="common_google_play_services_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run unless you update Google Play services."</string>
+  <string name="common_google_play_services_update_title">Update Google Play services</string>
+  <string name="common_google_play_services_updating_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are currently updating."</string>
+  <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+  <string name="common_open_on_phone">Open on phone</string>
+  <string name="common_signin_button_text">Sign in</string>
+  <string name="common_signin_button_text_long">Sign in with Google</string>
+  <string name="confirm_delete">@string/confirm_delete_local_only</string>
+  <string name="confirm_delete_has_remote">\"&lt;g id="title"&gt;%s&lt;/g&gt;\" has been sideloaded and uploaded to Google Play Music. Only the sideloaded items will be deleted. Do you want to delete them?</string>
+  <string name="confirm_delete_local_only">Do you want to delete \"&lt;g id="title"&gt;%s&lt;/g&gt;\"?</string>
+  <string name="container_instant_mix">Instant Mix</string>
+  <string name="container_radio">Radio</string>
+  <string name="container_share">Share</string>
+  <string name="container_title_all_songs">All my songs</string>
+  <string name="container_title_artist_albums">" "&lt;g example="Taylor Swift" id="artist"&gt;%1$s&lt;/g&gt;" Albums "</string>
+  <string name="container_title_genre_group">" "&lt;g example="Rock" id="genre"&gt;%1$s&lt;/g&gt; &lt;g example="New Releases" id="group"&gt;%2$s&lt;/g&gt;" "</string>
+  <string name="container_title_ifl">"I'm feeling lucky"</string>
+  <string name="container_title_instant_mix">" "&lt;g example="I'm feeling lucky" id="title"&gt;%1$s&lt;/g&gt;" mix "</string>
+  <string name="container_title_my_library">My library</string>
+  <string name="container_title_queue">Queue</string>
+  <string name="container_title_radio_station">" "&lt;g example="I'm feeling lucky" id="title"&gt;%1$s&lt;/g&gt;" radio "</string>
+  <string name="container_title_search_results">" Search for "&lt;g example="Daft Punk" id="searchquery"&gt;%1$s&lt;/g&gt;" "</string>
+  <string name="container_title_sound_search">Sound Search</string>
+  <string name="container_title_top_songs">Top songs</string>
+  <string name="content_filter_key">content_filter_key</string>
+  <string name="content_filter_title_instant_mix">Block explicit songs in mixes</string>
+  <string name="content_filter_title_radio">Block explicit songs in radio</string>
+  <string name="content_not_available_offline">Not available in Downloaded Only mode</string>
+  <string name="context_menu_accessibility_description">Showing options</string>
+  <string name="could_not_add_to_library">"Couldn't add songs to the library."</string>
+  <string name="coupon_status_already_redeemed">Coupon previously redeemed</string>
+  <string name="coupon_status_expired">Coupon expired</string>
+  <string name="coupon_status_invalid">Coupon invalid</string>
+  <string name="coupon_status_ok">Coupon redeemed</string>
+  <string name="coupon_toast_already_nautilus">This special offer is only valid for new subscribers</string>
+  <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+  <string name="create_calendar_title">Create calendar event</string>
+  <string name="create_instant_mix_btn_ok">OK</string>
+  <string name="create_new_instant_mix">Create new instant mix</string>
+  <string name="create_new_instant_mix_all_caps">INSTANT MIX</string>
+  <string name="create_new_station">Create new station</string>
+  <string name="create_new_station_all_caps">STATION</string>
+  <string name="create_playlist">Create playlist</string>
+  <string name="create_playlist_error">To make a playlist public, make sure you have an Internet connection</string>
+  <string name="create_radio_for_empty_playlist">"Couldn't prepare radio. "&lt;g example="Playlist 1" id="playlist_name"&gt;%s&lt;/g&gt; is empty.</string>
+  <string name="create_radio_for_sideloaded_playlist">"Couldn't prepare radio. Radio is available for music uploaded to Google Play."</string>
+  <string name="current_device">This device</string>
+  <string name="dash">-</string>
+  <string name="deauthorize_current_device_dialog_content">You will no longer be able to listen to music on this device after deauthorizing.</string>
+  <string name="deauthorize_device">Deauthorize</string>
+  <string name="deauthorize_device_cancel">Cancel</string>
+  <string name="deauthorize_device_dialog_title">Deauthorize device</string>
+  <string name="deauthorize_device_icon_content_description">Deauthorize device</string>
+  <string name="deauthorize_other_device_dialog_content">You will no longer be able to listen to music on &lt;g example="Google LGE Nexus 4" id="device_name"&gt;%s&lt;/g&gt; after deauthorizing.</string>
+  <string name="debug_logs_disable_warning_message">"Are you sure you want to disable the debug logs?
+Changing this option will kill the app."</string>
+  <string name="debug_logs_enable_warning_message">"Are you sure you want to enable the debug logs?
+Sensitive information may be stored on the external storage. Changing this option will kill the app."</string>
+  <string name="debug_logs_key">debug_logs_key</string>
+  <string name="debug_logs_summary">Use debug logs</string>
+  <string name="debug_logs_title">Use debug logs</string>
+  <string name="decline">Decline</string>
+  <string name="default_album_radio_description">Hear songs like those on &lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="default_artist_radio_description">Hear songs by artists like &lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="default_genre_radio_description">Hear popular &lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt; songs</string>
+  <string name="default_playlist_label">Playlist</string>
+  <string name="default_playlist_radio_description">Hear songs like those on &lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="default_track_radio_description">Hear songs like &lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="delete">Delete</string>
+  <string name="delete_my_device_error_msg">Failed to deauthorize selected device</string>
+  <string name="delete_playlist_button_confirm">Delete</string>
+  <string name="description_attribution_lt">Provided under %1$s</string>
+  <string name="description_attribution_lu_lt">Provided under &lt;a href=%1$s&gt;%2$s&lt;/a&gt;</string>
+  <string name="description_attribution_st">Provided by %1$s</string>
+  <string name="description_attribution_st_lt">Provided by %1$s under %2$s</string>
+  <string name="description_attribution_st_lu_lt">Provided by %1$s under &lt;a href=%2$s&gt;%3$s&lt;/a&gt;</string>
+  <string name="description_attribution_su_st">Provided by &lt;a href=%1$s&gt;%2$s&lt;/a&gt;</string>
+  <string name="description_attribution_su_st_lt">Provided by &lt;a href=%1$s&gt;%2$s&lt;/a&gt; under %3$s</string>
+  <string name="description_attribution_su_st_lu_lt">Provided by &lt;a href=%1$s&gt;%2$s&lt;/a&gt; under &lt;a href=%3$s&gt;%4$s&lt;/a&gt;</string>
+  <string name="device_group_other">OTHER DEVICES</string>
+  <string name="device_group_smartphone">SMARTPHONES</string>
+  <string name="device_last_accessed_time">Last used: &lt;g example="May 11, 2013" id="last_used_time"&gt;%s&lt;/g&gt;" "</string>
+  <string name="dial_media_route_provider_service">DIAL Media Route Provider Service for Google Music</string>
+  <string name="dialog_delete_message">This song will no longer be available from your Google Play library on any device.</string>
+  <string name="dialog_delete_title">Delete from Library?</string>
+  <string name="dialog_start_radio_free_tier_message">" Listen to radio with music similar to "&lt;g example="Never gonna give you up" id="title"&gt;%s&lt;/g&gt;". "</string>
+  <string name="dialog_start_radio_free_tier_negative_button">NO THANKS</string>
+  <string name="dialog_start_radio_free_tier_positive_button">START RADIO</string>
+  <string name="download_container_title">Download queue</string>
+  <string name="download_location_key">download_location_key</string>
+  <string name="download_location_summary">Set where to store downloaded and cached music.</string>
+  <string name="download_location_title">Storage location</string>
+  <string name="download_queue_key">download_queue_key</string>
+  <string name="download_queue_summary">List of music currently downloading</string>
+  <string name="download_queue_title">View download queue</string>
+  <string name="download_type_instant_mix">Instant mix</string>
+  <string name="download_type_playlist">My playlist</string>
+  <string name="download_type_radio">Radio station</string>
+  <string name="downloaded_only">Downloaded only</string>
+  <string name="downloaded_only_banner">DOWNLOADED ONLY</string>
+  <string name="drawer_closed">Close navigation drawer</string>
+  <string name="drawer_open">Open navigation drawer</string>
+  <string name="durationformatlong">&lt;g id="format"&gt;%1$d:%3$02d:%5$02d&lt;/g&gt;</string>
+  <string name="durationformatshort">&lt;g id="format"&gt;%2$d:%5$02d&lt;/g&gt;</string>
+  <string name="edit_playlist">Edit playlist</string>
+  <string name="edit_playlist_error">Failed to edit the playlist</string>
+  <string name="edit_playlist_title">Edit playlist</string>
+  <string name="effectspanel">Equalizer</string>
+  <string name="elapsed_time_of">&lt;g example="1 second" id="elapsed"&gt;%1$s&lt;/g&gt; of &lt;g example="1 minute" id="total"&gt;%2$s&lt;/g&gt;</string>
+  <string name="empty_screen_expore">Connection error.</string>
+  <string name="empty_screen_learn_more_button">Learn More</string>
+  <string name="empty_screen_my_library_all_music">No music in My Library.</string>
+  <string name="empty_screen_offline">Download your favorite music to listen offline</string>
+  <string name="empty_screen_playlists">"You don't have any playlists yet."</string>
+  <string name="empty_screen_recommended_mixes">No recommended mixes.</string>
+  <string name="empty_screen_recommended_radio">Search for any artist, song, genre or activity to start a radio station</string>
+  <string name="empty_screen_search">No results found</string>
+  <string name="empty_search_screen_helper_text">Search for any artist, song, genre, activity, and more</string>
+  <string name="emptyplaylist">Selected playlist is empty.</string>
+  <string name="enable_nautilus_fail">Sorry, there was a server error</string>
+  <string name="enable_nautilus_fail_cancel">Cancel</string>
+  <string name="enable_nautilus_fail_retry">Try again</string>
+  <string name="endpoint_selection_title">Endpoint selection</string>
+  <string name="equalizer_settings_disabled_casting_summary">Disabled while casting</string>
+  <string name="equalizer_settings_key">equalizer_settings_key</string>
+  <string name="equalizer_settings_summary">Adjust audio settings</string>
+  <string name="equalizer_settings_title">Equalizer</string>
+  <string name="error_cannot_play_content">"Can't play "&lt;g id="content"&gt;%s&lt;/g&gt;</string>
+  <string name="error_device_limit_reached">You cant play music from this phone until you deauthorize a device in Google Play Music Settings on your phone.</string>
+  <string name="error_done">Done</string>
+  <string name="error_downloading_radio_station">"Couldn't download radio. Please try again later."</string>
+  <string name="error_no_stream_account_selected">To play music, first sign in. When it is safe, unplug your phone and open the Play Music app.</string>
+  <string name="expando_hero">expando_hero</string>
+  <string name="expando_splash">expando_splash</string>
+  <string name="explore_action_start_genre_radio">Start genre radio</string>
+  <string name="explore_genres_title">Genres</string>
+  <string name="explore_new_releases_title">New releases</string>
+  <string name="explore_recommended_title">Recommended</string>
+  <string name="explore_sub_genres_title">Subgenres</string>
+  <string name="explore_top_charts_title">Featured</string>
+  <string name="explore_tutorial_browse">Browse our entire catalog by genre to discover new music.</string>
+  <string name="explore_tutorial_latest">Check out the latest new releases and top charts.</string>
+  <string name="explore_tutorial_playlists">Listen to playlists handcrafted by our team of music geeks.</string>
+  <string name="external_album_art_fife_option">s300-c</string>
+  <string name="fail_to_start_stream">"Couldn't play the stream you requested."</string>
+  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="faux_art_all_songs_label">All songs</string>
+  <string name="faux_art_playlist_auto_playlist_label">Auto playlist</string>
+  <string name="faux_art_playlist_instant_mix_label">Instant mix</string>
+  <string name="faux_art_playlist_label">Playlist</string>
+  <string name="faux_art_playlist_suggested_mix_label">Instant Mix</string>
+  <string name="file_transfer_help_link">http://www.google.com/support/music/bin/answer.py?answer=1101500&amp;hl=&lt;g id="language"&gt;%s&lt;/g&gt;</string>
+  <string name="finding_videos_for_track">Finding related videos for the track…</string>
+  <string name="follow__playlist">Subscribe to playlist</string>
+  <string name="follow_playlist_caps">SUBSCRIBE</string>
+  <string name="followed_playlist">Subscribed</string>
+  <string name="followed_playlist_label">Subscribed playlist</string>
+  <string name="free_space">&lt;g id="size"&gt;%s&lt;/g&gt; FREE</string>
+  <string name="free_space_formatting">&lt;g example="10.1" id="free"&gt;%1$s&lt;/g&gt; &lt;g example="GB" id="freeunits"&gt;%2$s&lt;/g&gt;" FREE "</string>
+  <string name="free_space_overfull">Storage full (&lt;g id="size"&gt;%s&lt;/g&gt; over)</string>
+  <string name="freemusic_list">Free songs</string>
+  <string name="freemusic_list_title">Free songs</string>
+  <string name="from_artist">From this artist</string>
+  <string name="general_help_link">http://support.google.com/mobile/?p=music_default</string>
+  <string name="genre_new_release_title">&lt;g id="genre"&gt;%s&lt;/g&gt; new releases</string>
+  <string name="genre_radio_parent_category">All &lt;g example="Pop" id="category"&gt;%s&lt;/g&gt;</string>
+  <string name="genre_station">Genre Stations</string>
+  <string name="genres_title">Genres</string>
+  <string name="gift_subscription_setting_key">gift_subscription_setting_key</string>
+  <string name="gift_subscription_setting_summary">Give a Google Play Music subscription</string>
+  <string name="got_it">Got it</string>
+  <string name="gplus_wrong_account" formatted="false">"The music you're trying to play was shared with the account "&lt;g id="gplus_account"&gt;%s&lt;/g&gt;"
+
+You're currently signed into Google Play Music with the account "&lt;g id="market_account"&gt;%s&lt;/g&gt;"
+
+To listen to your shared music, first switch accounts."</string>
+  <string name="header_help_add_songs">Add songs from your library to start a social mix</string>
+  <string name="header_list_layout_background">header_list_layout_background</string>
+  <string name="header_list_layout_tabbar">header_list_layout_tabbar</string>
+  <string name="header_list_layout_toolbar">header_list_layout_toolbar</string>
+  <string name="header_on_device_only">downloaded</string>
+  <string name="header_song_count_on_device_only" formatted="false">&lt;g id="songcount"&gt;%s&lt;/g&gt; &lt;g example="20 songs downloaded" id="ondevice"&gt;%s&lt;/g&gt;</string>
+  <string name="help_feedback">HELP &amp; FEEDBACK</string>
+  <string name="help_title">Help &amp; Feedback</string>
+  <string name="hide_now_playing_bar">Hide now playing bar</string>
+  <string name="hide_options">Hide options</string>
+  <string name="in_my_library_title">In my library</string>
+  <string name="info_card_confirm_search">SEARCH NOW</string>
+  <string name="info_card_confirm_user_quiz">GET STARTED</string>
+  <string name="info_card_content_existing_subscriber">Browse thousands of new radio stations by genre, activity, mood. Find new releases and top songs and albums in the navigation menu.</string>
+  <string name="info_card_content_search">Search for any artist, song, genre or activity to get more radio stations.</string>
+  <string name="info_card_content_user_quiz">"Tell Play Music what kinds of music you like--you'll get better recommendations. Take a minute now to name your favorite genres and artists."</string>
+  <string name="info_card_got_it">GOT IT</string>
+  <string name="info_card_ignore">NO THANKS</string>
+  <string name="info_card_ignore_user_quiz">NOT INTERESTED</string>
+  <string name="info_card_title_existing_subscriber">New in Play Music</string>
+  <string name="info_card_title_search">Get more stations</string>
+  <string name="info_card_title_user_quiz">Get personalized recommendations</string>
+  <string name="install_play_store">Unable to open Play Store</string>
+  <string name="instant_mix_added_to_library">" "&lt;g id="name"&gt;%s&lt;/g&gt; Mix added to My Library</string>
+  <string name="instant_mix_default_name">&lt;g id="seed"&gt;%s&lt;/g&gt; Mix</string>
+  <string name="instant_mix_tag">Instant mix</string>
+  <string name="instant_mixes_my_mixes_title">My mixes</string>
+  <string name="instant_mixes_recent_mixes_title">Recent mixes</string>
+  <string name="instant_mixes_recommended_title">Recommended</string>
+  <string name="instant_mixes_title">Instant Mixes</string>
+  <string name="launcher_name">Play Music</string>
+  <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
+  <string name="lb_control_display_rewind_multiplier">%1$dX</string>
+  <string name="lb_dialog_list_item_disabled_chevron_background_alpha">0.5</string>
+  <string name="lb_dialog_list_item_disabled_description_text_alpha">0.5</string>
+  <string name="lb_dialog_list_item_disabled_title_text_alpha">0.5</string>
+  <string name="lb_dialog_list_item_selected_chevron_background_alpha">1.0</string>
+  <string name="lb_dialog_list_item_selected_description_text_alpha">0.5</string>
+  <string name="lb_dialog_list_item_selected_title_text_alpha">1.0</string>
+  <string name="lb_dialog_list_item_unselected_description_text_alpha">0.5</string>
+  <string name="lb_dialog_list_item_unselected_text_alpha">1.0</string>
+  <string name="lb_guidedactions_item_disabled_chevron_alpha">0.5</string>
+  <string name="lb_guidedactions_item_enabled_chevron_alpha">1.0</string>
+  <string name="lb_guidedactions_item_unselected_description_text_alpha">0.5</string>
+  <string name="lb_guidedactions_item_unselected_text_alpha">1.0</string>
+  <string name="lb_playback_controls_closed_captioning_disable">Disable Closed Captioning</string>
+  <string name="lb_playback_controls_closed_captioning_enable">Enable Closed Captioning</string>
+  <string name="lb_playback_controls_fast_forward">Fast Forward</string>
+  <string name="lb_playback_controls_fast_forward_multiplier">Fast Forward %1$dX</string>
+  <string name="lb_playback_controls_high_quality_disable">Disable High Quality</string>
+  <string name="lb_playback_controls_high_quality_enable">Enable High Quality</string>
+  <string name="lb_playback_controls_more_actions">More Actions</string>
+  <string name="lb_playback_controls_pause">Pause</string>
+  <string name="lb_playback_controls_play">Play</string>
+  <string name="lb_playback_controls_repeat_all">Repeat All</string>
+  <string name="lb_playback_controls_repeat_none">Repeat None</string>
+  <string name="lb_playback_controls_repeat_one">Repeat One</string>
+  <string name="lb_playback_controls_rewind">Rewind</string>
+  <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
+  <string name="lb_playback_controls_shuffle_disable">Disable Shuffle</string>
+  <string name="lb_playback_controls_shuffle_enable">Enable Shuffle</string>
+  <string name="lb_playback_controls_skip_next">Skip Next</string>
+  <string name="lb_playback_controls_skip_previous">Skip Previous</string>
+  <string name="lb_playback_controls_thumb_down">Deselect Thumb Down</string>
+  <string name="lb_playback_controls_thumb_down_outline">Select Thumb Down</string>
+  <string name="lb_playback_controls_thumb_up">Deselect Thumb Up</string>
+  <string name="lb_playback_controls_thumb_up_outline">Select Thumb Up</string>
+  <string name="lb_search_bar_hint">Search</string>
+  <string name="lb_search_bar_hint_speech">Speak to search</string>
+  <string name="lb_search_bar_hint_with_title">Search &lt;g id="search context"&gt;%1$s&lt;/g&gt;</string>
+  <string name="lb_search_bar_hint_with_title_speech">Speak to search &lt;g id="search context"&gt;%1$s&lt;/g&gt;</string>
+  <string name="leanback_concierge_title">&lt;g example="It's Monday night" id="situation"&gt;%1$s&lt;/g&gt;. Play music for&amp;#8230;</string>
+  <string name="leanback_listennow_cluster_header_recommendations">Recommended</string>
+  <string name="legal_information">Legal information</string>
+  <string name="license_error">"Couldn't load licenses."</string>
+  <string name="license_key">licenses</string>
+  <string name="license_summary">License details for open source software</string>
+  <string name="license_title">Open source licenses</string>
+  <string name="listen_offline_music_help_link">http://www.google.com/support/music/bin/answer.py?answer=1250232&amp;hl=&lt;g id="language"&gt;%s&lt;/g&gt;</string>
+  <string name="listennow_cluster_header_recents_more">MORE</string>
+  <string name="listennow_cluster_header_recents_subtitle">Recently played or added</string>
+  <string name="listennow_cluster_header_recents_title">Recent activity</string>
+  <string name="listennow_cluster_header_recommendations">Recommended for you</string>
+  <string name="loading">Loading…</string>
+  <string name="mainstage_explore_description">Browse new releases, top charts, playlists and genres</string>
+  <string name="mainstage_explore_title">Explore new music</string>
+  <string name="mainstage_instant_mix_description">Instant Mix</string>
+  <string name="mainstage_radio_description">Radio station</string>
+  <string name="mainstage_tutorial_basic_try_nautilus_title">Unlimited music made easy</string>
+  <string name="mainstage_tutorial_body_without_yt">Listen Now has music personalized just for you based on what you listen to.</string>
+  <string name="mainstage_tutorial_resubscribe_nautilus_body">You can restore all your songs, playlists, and radio stations by resubscribing.</string>
+  <string name="mainstage_tutorial_resubscribe_nautilus_title">Your subscription has ended</string>
+  <string name="mainstage_tutorial_songs">Access to millions of songs</string>
+  <string name="mainstage_tutorial_title">Welcome to Listen Now</string>
+  <string name="make_available_offline">Download</string>
+  <string name="make_playlist_public_dialog_body">"To share, you first need to make
+this playlist public."</string>
+  <string name="make_playlist_public_dialog_cancel">Cancel</string>
+  <string name="make_playlist_public_dialog_ok">Make public</string>
+  <string name="make_playlist_public_dialog_title">Share playlist</string>
+  <string name="manage_done">DONE</string>
+  <string name="manage_downloads_title">Manage downloads</string>
+  <string name="manage_nautilus_basic_tier_trial_eligible_summary">@string/manage_nautilus_no_account_summary_new</string>
+  <string name="manage_nautilus_basic_tier_trial_eligible_title">Start Trial</string>
+  <string name="manage_nautilus_basic_tier_trial_not_eligible_summary_new">"Make sure the music won't stop"</string>
+  <string name="manage_nautilus_basic_tier_trial_not_eligible_title_new">Subscribe</string>
+  <string name="manage_nautilus_free_trial_nautilus_summary">Cancel subscription before next billing date</string>
+  <string name="manage_nautilus_free_trial_nautilus_title_new">Cancel subscription</string>
+  <string name="manage_nautilus_no_account_summary_new">Access millions of songs and unlimited radio</string>
+  <string name="manage_nautilus_paid_nautilus_title">@string/manage_nautilus_free_trial_nautilus_title_new</string>
+  <string name="manage_nautilus_settings_key">manage_nautilus_settings_key</string>
+  <string name="market_uri_link">market://details?id=com.google.android.music</string>
+  <string name="market_wrong_account" formatted="false">"The music you're trying to play was purchased with the account "&lt;g id="market_account"&gt;%s&lt;/g&gt;"
+
+You're currently signed into Google Play Music with the account "&lt;g id="market_account"&gt;%s&lt;/g&gt;"
+
+To listen to your purchase, first switch accounts."</string>
+  <string name="menu_add_to_my_library">Add to My Library</string>
+  <string name="menu_buy">Buy</string>
+  <string name="menu_delete">Delete</string>
+  <string name="menu_dismiss">Not interested</string>
+  <string name="menu_download">Download</string>
+  <string name="menu_find_video">Find video</string>
+  <string name="menu_go_to_album">Go to album</string>
+  <string name="menu_go_to_artist">Go to artist</string>
+  <string name="menu_play_instant_mix">Play instant mix</string>
+  <string name="menu_play_next">Play next</string>
+  <string name="menu_remove_download">Remove download</string>
+  <string name="menu_remove_from_my_library">Remove from My Library</string>
+  <string name="menu_share">Share</string>
+  <string name="menu_shop_this_artist">Shop this artist</string>
+  <string name="menu_shuffle_artist">Shuffle artist</string>
+  <string name="menu_start_instant_mix">Start instant mix</string>
+  <string name="menu_start_radio">Start radio</string>
+  <string name="menu_start_video">Watch video</string>
+  <string name="more_by_artist">More by artist</string>
+  <string name="mr_button_content_description">Cast</string>
+  <string name="mr_chooser_searching">Finding devices</string>
+  <string name="mr_chooser_title">Cast to</string>
+  <string name="mr_controller_close_description">Close</string>
+  <string name="mr_controller_collapse_group">Group collapse</string>
+  <string name="mr_controller_disconnect">Disconnect</string>
+  <string name="mr_controller_expand_group">Group expand</string>
+  <string name="mr_controller_no_info_available">No info available</string>
+  <string name="mr_controller_pause">Pause</string>
+  <string name="mr_controller_play">Play</string>
+  <string name="mr_controller_stop">Stop casting</string>
+  <string name="mr_system_route_name">System</string>
+  <string name="mr_user_route_category_name">Devices</string>
+  <string name="music_label">MUSIC</string>
+  <string name="music_library">Music library</string>
+  <string name="music_picker_title">Choose music track</string>
+  <string name="music_url_album_no_result">Album currently unavailable</string>
+  <string name="music_url_artist_no_result">Artist currently unavailable</string>
+  <string name="music_url_no_internet_connection">"Can't play this song without an internet connection"</string>
+  <string name="music_url_share_activity_picker_title">Share via</string>
+  <string name="music_url_share_album_email_subject" formatted="false">Check out &lt;g example="Some Nights" id="album"&gt;%s&lt;/g&gt; by &lt;g example="FUN." id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="music_url_share_artist_email_subject">Check out &lt;g example="Daft Punk" id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="music_url_share_playlist_email_subject" formatted="false">Check out &lt;g example="My Playlist" id="playlist"&gt;%s&lt;/g&gt; by &lt;g example="John." id="owner"&gt;%s&lt;/g&gt;</string>
+  <string name="music_url_share_radio_station_email_subject">Check out &lt;g example="Daft Punk" id="radio_station_seed"&gt;%s&lt;/g&gt; Radio</string>
+  <string name="music_url_share_track_email_subject" formatted="false">Check out &lt;g example="Get Lucky" id="track"&gt;%s&lt;/g&gt; by &lt;g example="Daft Punk" id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="music_url_track_no_result">Track currently unavailable</string>
+  <string name="music_version_summary">Unknown version</string>
+  <string name="music_version_title">Music version</string>
+  <string name="musicshortcutlabel">Music playlist</string>
+  <string name="my_devices_setting_key">my_devices_setting_key</string>
+  <string name="my_devices_setting_title">Your devices</string>
+  <string name="negative_button_text">Cancel</string>
+  <string name="new_empty_playlist">New playlist</string>
+  <string name="new_playlist_for_content">New playlist</string>
+  <string name="new_playlist_title">New playlist</string>
+  <string name="next_track">UP NEXT</string>
+  <string name="no_account_selected_summary">Touch to choose account</string>
+  <string name="no_content_add_music">Add Music</string>
+  <string name="no_content_ways_to_play">Ways to Play</string>
+  <string name="no_devices">No authorized devices</string>
+  <string name="no_internet_connection">No Internet connection</string>
+  <string name="no_local_music_body">"To show your full library, tap the dropdown above and select \"All music.\"
+
+To choose music to store on your device, open the menu and tap \"Choose on device music.\""</string>
+  <string name="no_local_music_heading">Download your favorite music to listen offline</string>
+  <string name="no_music_add_music_header">WAYS TO ADD MUSIC</string>
+  <string name="no_music_heading">Your music library is empty.</string>
+  <string name="no_music_learn_more">Learn more</string>
+  <string name="no_music_scanning_body">Your device is being scanned to find music.</string>
+  <string name="no_music_scanning_heading">Scanning for music on the device.</string>
+  <string name="no_music_setup_uploader_body">You can stream your personal music collection with Google Play Music.</string>
+  <string name="no_music_setup_uploader_heading">Stream your music wirelessly.</string>
+  <string name="no_music_setup_usb_body">To copy music from your computer to your device, use a USB cable.</string>
+  <string name="no_music_setup_usb_heading">Copy music to your device.</string>
+  <string name="no_music_shop_body">Shop millions of songs, including hundreds of free tracks.</string>
+  <string name="no_music_shop_button">SHOP</string>
+  <string name="no_music_syncing_body">Your music library is currently syncing and will start to appear soon.</string>
+  <string name="no_music_syncing_heading">Music is currently syncing.</string>
+  <string name="no_music_upload_button">LEARN MORE</string>
+  <string name="no_music_usb_copy_body">To copy music from your computer to your device, use a USB cable.</string>
+  <string name="no_music_usb_copy_button">LEARN MORE</string>
+  <string name="no_network_connection">Not connected</string>
+  <string name="no_search_results">No search results</string>
+  <string name="no_song_added">Play queue full. Max is &lt;g example="1000" id="maxsize"&gt;%1$d&lt;/g&gt; songs.</string>
+  <string name="no_thanks">No thanks</string>
+  <string name="no_time">--:--</string>
+  <string name="no_tracks_title">No songs</string>
+  <string name="no_videos_for_track">No videos found for the track.</string>
+  <string name="no_wifi_connection">No Wi-Fi connection</string>
+  <string name="non_streamable_sound_search_result_dialog_explanation">&lt;g example="Get Lucky" id="track"&gt;%s&lt;/g&gt; is currently unavailable for streaming.</string>
+  <string name="non_streamable_sound_search_result_dialog_play_store_button">CHECK STORE</string>
+  <string name="non_streamable_sound_search_result_dialog_purchase_explanation">It may be available for purchase in the Play Store.</string>
+  <string name="non_streamable_sound_search_result_dialog_title">Unavailable</string>
+  <string name="not_all_items_can_be_kept_body">"There isn't enough space to store all the items you selected. Not all these items will be downloaded."</string>
+  <string name="notification_artist_album">&lt;g id="album"&gt;%2$s&lt;/g&gt;"
+"&lt;g id="artist"&gt;%1$s&lt;/g&gt;</string>
+  <string name="notification_downloading_album_artist" formatted="false">&lt;g id="album_name"&gt;%s&lt;/g&gt; - &lt;g id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="notification_downloading_done">Music download complete</string>
+  <string name="notification_downloading_excessive_errors">Will try again later.</string>
+  <string name="notification_downloading_internet_conn">No Internet connection</string>
+  <string name="notification_downloading_offline_mix">Downloading instant mix…</string>
+  <string name="notification_downloading_offline_music">Downloading music…</string>
+  <string name="notification_downloading_offline_radio">Downloading radio station…</string>
+  <string name="notification_downloading_out_of_space">Not enough space</string>
+  <string name="notification_downloading_paused">"Can't download music"</string>
+  <string name="notification_downloading_user_paused">Paused</string>
+  <string name="notification_downloading_when_on_wifi">No Wi-Fi connection</string>
+  <string name="notification_newsongs_album_artist" formatted="false">&lt;g id="album_name"&gt;%s&lt;/g&gt; - &lt;g id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="notification_newsongs_songcount">&lt;g id="song_title"&gt;%d&lt;/g&gt; new songs</string>
+  <string name="notification_newsongs_songname_artist" formatted="false">&lt;g id="song_title"&gt;%s&lt;/g&gt; - &lt;g id="artist"&gt;%s&lt;/g&gt;</string>
+  <string name="notification_newsongs_subtitle">Added to Google Play Music</string>
+  <string name="notification_settings_key">notification_settings_key</string>
+  <string name="notification_settings_title">Notifications about new features</string>
+  <string name="now_playing_card_description">&lt;g example="Fully Completely" id="album"&gt;%1$s&lt;/g&gt;"    "&lt;g example="Tragically Hip" id="artist"&gt;%2$s&lt;/g&gt;</string>
+  <string name="now_playing_queue_label">QUEUE</string>
+  <string name="now_playing_tab_now_playing">NOW PLAYING</string>
+  <string name="now_playing_tab_switch_mixes">SWITCH MIXES</string>
+  <string name="now_playing_tab_time">&lt;g example="0:001" id="cuurentTime"&gt;%1$s&lt;/g&gt; / &lt;g example="3:54" id="totalTime"&gt;%2$s&lt;/g&gt;</string>
+  <string name="nowplaying_art_content_description">Now playing &lt;g name="song"&gt;%1$s&lt;/g&gt; by &lt;g name="artist"&gt;%2$s&lt;/g&gt;</string>
+  <string name="nowplaying_title">Now playing</string>
+  <string name="offline_download_later_body_online">\"&lt;g example="The Suburbs" id="name"&gt;%s&lt;/g&gt;\" will be downloaded the next time the device is online.</string>
+  <string name="offline_download_later_body_wifi">\"&lt;g example="The Suburbs" id="name"&gt;%s&lt;/g&gt;\" will be downloaded the next time the device is connected to Wi-Fi.</string>
+  <string name="offline_help_link">http://support.google.com/mobile/?p=music_offline</string>
+  <string name="offline_music_not_available_message">To keep music on device, go to the Albums, Playlists, or Artist views.</string>
+  <string name="offlinedl_only_on_wifi_key">offlinedl_on_wifi_key</string>
+  <string name="offlinedl_only_on_wifi_summary">Reduces data usage</string>
+  <string name="offlinedl_only_on_wifi_title">Download only on Wi-Fi</string>
+  <string name="orb_search_action">Search Action</string>
+  <string name="other_apps_label">OTHER APPS</string>
+  <string name="overflow_menu_description">Options</string>
+  <string name="overflow_menu_description_with_title">" Options for "&lt;g example="Dark Side of the Moon" id="title"&gt;%s&lt;/g&gt;" "</string>
+  <string name="overlay_ad_size">MEDIUM_RECTANGLE</string>
+  <string name="pause_download">Pause downloads</string>
+  <string name="pause_download_all_caps">PAUSE DOWNLOADS</string>
+  <string name="play_accessibility_search_plate_back_button">Back</string>
+  <string name="play_accessibility_search_plate_clear">Clear</string>
+  <string name="play_accessibility_search_plate_menu_button">Menu</string>
+  <string name="play_accessibility_search_plate_search_button">Search</string>
+  <string name="play_accessibility_search_plate_voice_search_button">Voice Search</string>
+  <string name="play_artist_top_songs">Play top songs</string>
+  <string name="play_content_description_page_indicator">Page %1$s of %2$s</string>
+  <string name="play_download_is_requested">download is on</string>
+  <string name="play_download_not_requested">download is off</string>
+  <string name="play_drawer_close">Hide navigation drawer</string>
+  <string name="play_drawer_content_description_hide_account_list_button">Hide account list</string>
+  <string name="play_drawer_content_description_show_account_list_button">Show account list</string>
+  <string name="play_drawer_content_description_switch_account">Switch account to &lt;g&gt;%s&lt;/g&gt;</string>
+  <string name="play_drawer_open">Show navigation drawer</string>
+  <string name="play_drawer_title">Navigation</string>
+  <string name="play_instant_mix">Play instant mix</string>
+  <string name="play_instant_mix_caps">PLAY INSTANT MIX</string>
+  <string name="play_now">Play now</string>
+  <string name="play_onboard_button_next">Next</string>
+  <string name="play_onboard_interstitial_grid_cell">grid_cell</string>
+  <string name="play_percent_downloaded">&lt;g id="download_percent"&gt;%1$d&lt;/g&gt;%% downloaded</string>
+  <string name="play_queue_title">Queue</string>
+  <string name="play_radio">Play Radio</string>
+  <string name="play_radio_caps">PLAY RADIO</string>
+  <string name="play_search_box_hint">Search Google Play</string>
+  <string name="play_selection">Play</string>
+  <string name="play_star_rating_content_description">Star rating: &lt;g id="rating"&gt;%1$s&lt;/g&gt;</string>
+  <string name="play_widget_promote_nautilus">Special Offer</string>
+  <string name="playback_failed">"Couldn't play the track you requested."</string>
+  <string name="playback_failed_title">Music playback error.</string>
+  <string name="playing_from">PLAYING FROM</string>
+  <string name="playlist_created_message">Playlist \"&lt;g id="playlist"&gt;%s&lt;/g&gt;\" created.</string>
+  <string name="playlist_description">Playlist</string>
+  <string name="playlist_description_hint">Description</string>
+  <string name="playlist_name_hint">Name</string>
+  <string name="playlist_shared_by_description" formatted="false">&lt;g id="description"&gt;%s&lt;/g&gt; shared by &lt;g id="ownername"&gt;%s&lt;/g&gt;</string>
+  <string name="playlist_suggested_mix_primary_label">%1s</string>
+  <string name="playlist_suggested_mix_secondary_label_for_free">Instant Mix</string>
+  <string name="playlist_suggested_mix_secondary_label_for_paid">Radio station</string>
+  <string name="playlist_too_many_songs">Too many songs. Limit is &lt;g example="1000" id="number"&gt;%d&lt;/g&gt; per playlist.</string>
+  <string name="playlist_unsubscribe_confirmation">Do you want to unsubscribe from \"&lt;g id="playlist"&gt;%s&lt;/g&gt;\"?</string>
+  <string name="playlists_corpus_name">playlists</string>
+  <string name="playlists_corpus_playlist_section">playlist</string>
+  <string name="playlists_corpus_section_data">content://com.google.android.music.MusicContent/playlist/%$uri</string>
+  <string name="playlists_corpus_section_icon_uri">content://com.google.android.music.MusicContent/playlistfauxart/%$uri</string>
+  <string name="playlists_corpus_section_text_1">%playlist</string>
+  <string name="playlists_title">Playlists</string>
+  <string name="positive_button_text">OK</string>
+  <string name="prepare_artist_shuffle_failed">"Couldn't prepare artist shuffle. Please try again."</string>
+  <string name="prepare_instant_mix_failed_free">"Couldn't prepare instant mix. Please try again."</string>
+  <string name="prepare_instant_mix_failed_paid">"Couldn't prepare radio. Please try again."</string>
+  <string name="preparing_artist_shuffle_with_seed">Shuffling &lt;g id="seed"&gt;%s&lt;/g&gt;&amp;#8230;</string>
+  <string name="preparing_instant_mix_free">Starting instant mix…</string>
+  <string name="preparing_instant_mix_paid">Starting radio…</string>
+  <string name="preparing_instant_mix_with_seed_free">Starting &lt;g id="seed"&gt;%s&lt;/g&gt; instant mix&amp;#8230;</string>
+  <string name="preparing_instant_mix_with_seed_paid">Starting &lt;g id="seed"&gt;%s&lt;/g&gt; radio&amp;#8230;</string>
+  <string name="prev_track">PREVIOUS</string>
+  <string name="preview_header">SHARED ON GOOGLE+</string>
+  <string name="public_description_create_offline">Go online to make public</string>
+  <string name="public_description_edit_offline">Go online to change visibility</string>
+  <string name="public_description_online">Anyone can see and listen</string>
+  <string name="public_title">Public</string>
+  <string name="queue_switcher_close_description">Close queue</string>
+  <string name="queue_switcher_open_description">Open queue</string>
+  <string name="quiz_artist_description">Touch the artists you like</string>
+  <string name="quiz_description">Next, tell us about your musical tastes so we can help you discover the right tunes for you.</string>
+  <string name="quiz_genre_description">Touch the genres you like</string>
+  <string name="quiz_internet_conn">Check your internet connection.</string>
+  <string name="quiz_more_artists">Show more artists</string>
+  <string name="quiz_next">NEXT</string>
+  <string name="quiz_recommendation">DONE</string>
+  <string name="quiz_skip">SKIP THE QUIZ</string>
+  <string name="quiz_start">Get started</string>
+  <string name="radio_added_to_library">" "&lt;g id="name"&gt;%s&lt;/g&gt; Radio added to My Library</string>
+  <string name="radio_genres_title">Genres</string>
+  <string name="radio_im_feeling_lucky_reason1_online">Based on your music taste</string>
+  <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Play from downloaded music</string>
+  <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Shuffle on device music</string>
+  <string name="radio_my_stations_title">My stations</string>
+  <string name="radio_recent_stations_title">Recent stations</string>
+  <string name="radio_recommended_title">Recommended</string>
+  <string name="radio_stations_title">Radio stations</string>
+  <string name="radio_tag">Radio</string>
+  <string name="radio_title">&lt;g example="Get Lucky" id="title"&gt;%1$s&lt;/g&gt; Radio</string>
+  <string name="radio_tutorial_mixes">Make endless mixes based on your favorite artists or songs.</string>
+  <string name="radio_tutorial_next">"See what's coming up next."</string>
+  <string name="radio_tutorial_skip">Skip ahead as often as you like.</string>
+  <string name="radio_tutorial_stations">Make endless stations based on your favorite artists or songs.</string>
+  <string name="read_more">READ MORE</string>
+  <string name="reason_new_release">Suggested new release</string>
+  <string name="reason_recently_added">Recently added to My Library</string>
+  <string name="reason_recently_played">Recently played</string>
+  <string name="reason_recently_purchased">Recently purchased</string>
+  <string name="reason_recommended_album">Recommended album</string>
+  <string name="reason_recommended_playlist">Recommended playlist</string>
+  <string name="reason_recommended_radio_station">Recommended for you</string>
+  <string name="reason_recommended_suggested_mix">Because you like this song</string>
+  <string name="reason_youtube">Recently watched on YouTube</string>
+  <string name="recent_added">Added</string>
+  <string name="recent_caps">RECENT</string>
+  <string name="recent_played">Played</string>
+  <string name="recent_playlists_title">Recent Playlists</string>
+  <string name="recent_purchased">Purchased</string>
+  <string name="recentlyadded">Last added</string>
+  <string name="recentlyadded_title">Last added</string>
+  <string name="recents_playlists_title">Playlists</string>
+  <string name="recents_title">Recent activity</string>
+  <string name="recommended_new_release_title">Recommended new releases</string>
+  <string name="refresh_key">refresh_key</string>
+  <string name="refresh_station">REFRESH STATION</string>
+  <string name="refresh_title">Refresh</string>
+  <string name="refreshing">Refreshing…</string>
+  <string name="refreshing_station">REFRESHING STATION</string>
+  <string name="related_artists_title">Related artists</string>
+  <string name="remove_from_my_library_caps">REMOVE FROM LIBRARY</string>
+  <string name="remove_from_playlist">Remove from playlist</string>
+  <string name="removed_from_play_queue">\"&lt;g example="Track 1" id="track_name"&gt;%1$s&lt;/g&gt;\" removed from play queue.</string>
+  <string name="removed_from_playlist">\"&lt;g example="Track 1" id="track_name"&gt;%1$s&lt;/g&gt;\" removed from playlist.</string>
+  <string name="resubscribe">Resubscribe</string>
+  <string name="resume_download">Resume downloads</string>
+  <string name="resume_download_all_caps">RESUME DOWNLOADS</string>
+  <string name="retry_button">Try again</string>
+  <string name="route_not_allowed_message">Cannot cast to \"&lt;g id="route"&gt;%s&lt;/g&gt;\".</string>
+  <string name="save_button_text">Save</string>
+  <string name="save_manage_music_change_body">Do you want to download this music?</string>
+  <string name="save_manage_music_change_title">Unsaved changes</string>
+  <string name="save_play_queue_as_playlist">Save queue</string>
+  <string name="save_playlist">Save</string>
+  <string name="sdcard_dialog_title">Choose storage location</string>
+  <string name="sdcard_error">Unable to use your storage location.</string>
+  <string name="sdcard_external_storage">&lt;g example="10.1" id="total"&gt;%1$s&lt;/g&gt; &lt;g example="GB" id="units"&gt;%2$s&lt;/g&gt; External</string>
+  <string name="sdcard_internal_storage">Internal</string>
+  <string name="sdcard_internal_storage_long">Internal (on this device)</string>
+  <string name="sdcard_migration_notification_message">&lt;g example="15" id="count"&gt; %1$s&lt;/g&gt; files remaining.</string>
+  <string name="sdcard_migration_notification_title">Moving music to &lt;g example="2.0 GB External" name="name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="sdcard_missing">External storage removed</string>
+  <string name="sdcard_missing_nocard_message">Removed</string>
+  <string name="sdcard_missing_nodevice">External</string>
+  <string name="sdcard_missing_nodevice_message">No external storage is available.</string>
+  <string name="sdcard_no_cards">No external storage found</string>
+  <string name="sdcard_removed_dialog_message">The selected storage device has been removed. To keep music, please insert the storage device or select a different download storage location from Settings.</string>
+  <string name="sdcard_removed_dialog_title">Storage unavailable</string>
+  <string name="sdcard_space_formatting">&lt;g example="10.1" id="free"&gt;%1$s&lt;/g&gt; &lt;g example="GB" id="freeunits"&gt;%2$s&lt;/g&gt;" free "</string>
+  <string name="search">Search</string>
+  <string name="search_album">Search for your favorite album</string>
+  <string name="search_artist">Search for your favorite artist</string>
+  <string name="search_hint">@string/search_hint_music</string>
+  <string name="search_hint_instant_mix">Search for an artist, song, album or genre to create new instant mix</string>
+  <string name="search_hint_music">Search music</string>
+  <string name="search_hint_radio">Search for an artist, song, album or genre to create new radio station</string>
+  <string name="search_settings_description">Artists, albums, and tracks</string>
+  <string name="search_title">Search</string>
+  <string name="search_web">Search web</string>
+  <string name="section_album">Album</string>
+  <string name="section_albums">Albums</string>
+  <string name="section_artist">Artist</string>
+  <string name="section_tracks">Songs</string>
+  <string name="send_gift">Send gift</string>
+  <string name="service_start_error_button">OK</string>
+  <string name="service_start_error_msg">"Couldn't play the song."</string>
+  <string name="service_start_error_title">Playback problem</string>
+  <string name="settings">Settings</string>
+  <string name="settings_catergory_developer_caps">DEVELOPER</string>
+  <string name="settings_catergory_developer_key">settings_catergory_developer_key</string>
+  <string name="settings_catergory_download_caps">DOWNLOADING</string>
+  <string name="settings_catergory_download_key">settings_catergory_download_key</string>
+  <string name="settings_catergory_general_caps">GENERAL</string>
+  <string name="settings_catergory_general_key">settings_catergory_general_key</string>
+  <string name="settings_catergory_streaming_caps">STREAMING</string>
+  <string name="settings_catergory_streaming_key">settings_catergory_streaming_key</string>
+  <string name="settings_catergory_wear_caps">ANDROID WEAR</string>
+  <string name="settings_catergory_wear_key">settings_catergory_wear_key</string>
+  <string name="setup_server_failure_body">Sorry, we were unable to connect to the server to add the account. Please try again later from Settings.</string>
+  <string name="setup_server_failure_title">Server error</string>
+  <string name="share">Share</string>
+  <string name="share_failure">There was a problem sharing your music.</string>
+  <string name="share_playlist">Share playlist</string>
+  <string name="share_playlist_caps">SHARE</string>
+  <string name="share_playlist_error">Failed to share playlist</string>
+  <string name="shared_playback_partial">SAMPLE</string>
+  <string name="shared_playlist_label">Shared playlist</string>
+  <string name="show_now_playing_bar">Show now playing bar</string>
+  <string name="show_options">Show options</string>
+  <string name="shuffle">Shuffle</string>
+  <string name="shuffle_all">Shuffle all</string>
+  <string name="shuffle_caps">SHUFFLE</string>
+  <string name="shuffling_music">Shuffling Music…</string>
+  <string name="situation_card_subtitle">Play music for…</string>
+  <string name="situation_driving">Music for driving</string>
+  <string name="situation_failure_msg">Unable to connect to Google</string>
+  <string name="situations_cluster_title">Activities</string>
+  <string name="skip_to_next_available">Skipping to the next available song</string>
+  <string name="song_instant_mix">Song Instant Mixes</string>
+  <string name="song_label">SONG</string>
+  <string name="song_row_artist">" / "&lt;g example="Taylor Swift" id="artist"&gt;%1$s&lt;/g&gt;</string>
+  <string name="song_station">Song Stations</string>
+  <string name="songs_all">All my songs</string>
+  <string name="songs_corpus_album_id_section">album_id</string>
+  <string name="songs_corpus_artist_section">artist</string>
+  <string name="songs_corpus_music_id_section">music_id</string>
+  <string name="songs_corpus_name">songs</string>
+  <string name="songs_corpus_section_data" formatted="false">content://com.google.android.music.MusicContent/track/%music_id/%song_id</string>
+  <string name="songs_corpus_section_icon_uri">content://com.google.android.music.MusicContent/albumorfauxart/%album_id</string>
+  <string name="songs_corpus_section_text_1">&lt;g example="It's My Life" id="song"&gt;%song&lt;/g&gt;</string>
+  <string name="songs_corpus_section_text_2">Song by &lt;g example="Bon Jovi" id="artist"&gt;%artist&lt;/g&gt;</string>
+  <string name="songs_corpus_song_id_section">song_id</string>
+  <string name="songs_corpus_song_section">song</string>
+  <string name="songs_from_artist">Songs from this artist</string>
+  <string name="songs_in_album">Songs in this album</string>
+  <string name="songs_in_playlist">Songs in this playlist</string>
+  <string name="songza_welcome_card_content">We added the best parts of Songza. Find the perfect music for any mood, search for your favorite Songza playlists, listen online and offline, all without ads.</string>
+  <string name="songza_welcome_card_title">Google Play Music and Songza, together at last</string>
+  <string name="sort_by_album">Sort by album</string>
+  <string name="sort_by_artist">Sort by artist</string>
+  <string name="sort_by_date">Sort by added date</string>
+  <string name="sort_by_title">Sort A-Z</string>
+  <string name="sort_by_track">Tracks</string>
+  <string name="sound_search_card_content">"Hear a song you like while you're out and about? Tap the microphone on your home screen. Google Play identifies the song and adds it to the Sound Search playlist."</string>
+  <string name="sound_search_card_title">Sound search playlist</string>
+  <string name="sound_search_card_try_button">Try it now</string>
+  <string name="sound_search_result_title">Currently playing…</string>
+  <string name="sound_search_start_search_button">"IDENTIFY WHAT'S PLAYING"</string>
+  <string name="soundsearch_list">Sound Search</string>
+  <string name="space_formatting">" "&lt;g example="104.1" id="size"&gt;%1$s&lt;/g&gt; &lt;g example="MB" id="units"&gt;%2$s&lt;/g&gt;" "</string>
+  <string name="spinner_album">Albums</string>
+  <string name="spinner_all_music">All music</string>
+  <string name="spinner_artist">Artists</string>
+  <string name="spinner_carousel">Recent</string>
+  <string name="spinner_explore_genres">Genres</string>
+  <string name="spinner_explore_new_releases">New releases</string>
+  <string name="spinner_explore_recommendations">Recommendations</string>
+  <string name="spinner_explore_top_charts">Top charts</string>
+  <string name="spinner_genres">Genres</string>
+  <string name="spinner_on_device_only">On device only</string>
+  <string name="spinner_playlists">Playlists</string>
+  <string name="spinner_songs">Songs</string>
+  <string name="spinner_title_all_music">All music</string>
+  <string name="spinner_title_on_device_only">On device</string>
+  <string name="starting_radio">Starting &lt;g example="Taylor Swift" id="radio"&gt;%1$s&lt;/g&gt; radio</string>
+  <string name="stations_title">Stations</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+  <string name="store_picture_title">Save image</string>
+  <string name="store_tutorial_content">Shop for millions of MP3 tracks in Google Play, including hundreds of free songs.</string>
+  <string name="store_tutorial_instruction">To visit the store, touch the shopping bag icon</string>
+  <string name="store_tutorial_title">Buy and play instantly</string>
+  <string name="storemusic_list">Free and purchased</string>
+  <string name="storemusic_list_title">Free and purchased</string>
+  <string name="stream_error_another_stream_being_played">"Music paused because you're listening to your collection on another device."</string>
+  <string name="stream_error_another_stream_being_played_notification">"You're listening on another device."</string>
+  <string name="stream_error_another_stream_being_played_notification_short">Music paused.</string>
+  <string name="stream_error_another_stream_being_played_short">Music paused.</string>
+  <string name="stream_error_device_not_authorized">"Your music library can be used with up to 5 smartphones and 10 devices total. You'll need to deauthorize one of your devices before adding another."</string>
+  <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
+  <string name="stream_error_device_not_authorized_manage_devices_button">Manage devices</string>
+  <string name="stream_error_device_not_authorized_not_now_button">Not now</string>
+  <string name="stream_error_device_not_authorized_notification">Maximum of 10 devices per library.</string>
+  <string name="stream_error_device_not_authorized_notification_short">Music device limit reached.</string>
+  <string name="stream_error_device_not_authorized_short">Too many devices used with music library.</string>
+  <string name="stream_error_learn_more">Learn more</string>
+  <string name="stream_error_no_connection">"Can't play this song without internet connection."</string>
+  <string name="stream_error_no_space_available">No space available.</string>
+  <string name="stream_error_only_on_wifi">"Can't play this song without Wi-Fi connection."</string>
+  <string name="stream_error_rate_limit_reached">"Music is temporarily unavailable. Be sure you're playing your collection on only one device at a time."</string>
+  <string name="stream_error_rate_limit_reached_notification">"You're listening on another device."</string>
+  <string name="stream_error_rate_limit_reached_notification_short">Music temporarily unavailable.</string>
+  <string name="stream_error_rate_limit_reached_short">Music temporarily unavailable.</string>
+  <string name="stream_error_stale_nautilus_refresh_button">Enable sync</string>
+  <string name="stream_error_stale_nautilus_refresh_link">https://play.google.com/music/listen?refresh=1</string>
+  <string name="stream_error_stale_nautilus_state">"Device hasn't synced to Google Play to verify subscription in more than "&lt;g example="30" id="days"&gt;%d&lt;/g&gt; days.</string>
+  <string name="stream_error_stale_nautilus_state_notification">"Device hasn't synced to Google Play to verify subscription in more than "&lt;g example="30" id="days"&gt;%d&lt;/g&gt; days.</string>
+  <string name="stream_error_stale_nautilus_state_notification_short">Playback error</string>
+  <string name="stream_error_stale_nautilus_state_short">Playback error</string>
+  <string name="stream_error_title">Music temporarily unavailable.</string>
+  <string name="stream_error_unauthorized">Incorrect username or password.</string>
+  <string name="stream_error_unauthorized_title">Authorization error.</string>
+  <string name="stream_error_version_blacklisted">"To continue streaming, you need to update. You can still listen to music that's on your device."</string>
+  <string name="stream_error_version_blacklisted_dont_update_button">No Thanks</string>
+  <string name="stream_error_version_blacklisted_notification">"To continue streaming, you need to update. You can still listen to music that's on your device."</string>
+  <string name="stream_error_version_blacklisted_notification_short">Update Google Play Music</string>
+  <string name="stream_error_version_blacklisted_short">Update Google Play Music</string>
+  <string name="stream_error_version_blacklisted_update_button">Update</string>
+  <string name="stream_error_version_blacklisted_update_link">https://play.google.com/store/apps/details?id=com.google.android.music</string>
+  <string name="stream_only_on_wifi_key">stream_only_on_wifi_key</string>
+  <string name="stream_only_on_wifi_summary">Reduces data usage</string>
+  <string name="stream_only_on_wifi_title">Stream only on Wi-Fi</string>
+  <string name="stream_quality_high">High</string>
+  <string name="stream_quality_high_description">Higher quality uses more data</string>
+  <string name="stream_quality_key">stream_quality_key</string>
+  <string name="stream_quality_low">Low</string>
+  <string name="stream_quality_low_description">Lower quality uses less data</string>
+  <string name="stream_quality_normal">Normal</string>
+  <string name="stream_quality_title">Quality on mobile network</string>
+  <string name="stream_settings">Music settings</string>
+  <string name="streamauth_endpoint_summary">StreamAuthFE endpoint selection</string>
+  <string name="streamauth_endpoint_title">StreamAuthFE endpoint</string>
+  <string name="streamauth_endpoints_screen">streamauth_endpoints_key</string>
+  <string name="streamloadingtext">Connecting to &lt;g id="host"&gt;%s&lt;/g&gt;&amp;#8230;</string>
+  <string name="suggested_query">Did you mean: &lt;g example="Porcupine Tree" id="suggested_query"&gt;%s&lt;/g&gt;</string>
+  <string name="switch_account_button">Switch</string>
+  <string name="switch_account_offline_message">To switch accounts, go online.</string>
+  <string name="switch_account_title">Switch accounts?</string>
+  <string name="switch_account_warning_button">Switch accounts</string>
+  <string name="switch_account_warning_message">Music downloaded from Google Play Music will be removed from this device.</string>
+  <string name="sync_disabled">You need to set up syncing before music will appear from Google Play Music. Do you want to do that now?</string>
+  <string name="sync_to_wear_key">sync_to_wear_key</string>
+  <string name="sync_to_wear_summary">Store downloaded music for offline playback</string>
+  <string name="sync_to_wear_title">Download to Android Wear</string>
+  <string name="this_song">This song</string>
+  <string name="thumbsup_list">Thumbs up</string>
+  <string name="thumbsup_list_title">Thumbs up</string>
+  <string name="title_for_featured_artists">Artists on this station</string>
+  <string name="title_for_similar_stations">Similar stations</string>
+  <string name="title_tv">Music</string>
+  <string name="toast_top_menu_playlists_moved">Playlists are now in My Library</string>
+  <string name="too_many_devices_help_link">http://www.google.com/support/music/bin/answer.py?answer=1230356</string>
+  <string name="too_many_items_body">"There isn't enough space to store all the items you selected. Deselect some items to make space."</string>
+  <string name="too_many_items_title">Too many items</string>
+  <string name="top_charts_header_title">Top songs</string>
+  <string name="top_charts_more_button">MORE SONGS</string>
+  <string name="top_charts_radio_button">Radio</string>
+  <string name="top_menu_browse_stations">Browse stations</string>
+  <string name="top_menu_explore">Explore</string>
+  <string name="top_menu_instant_mixes">Instant Mixes</string>
+  <string name="top_menu_mainstage">Listen Now</string>
+  <string name="top_menu_my_library">My Library</string>
+  <string name="top_menu_new_releases">New releases</string>
+  <string name="top_menu_playlists">Playlists</string>
+  <string name="top_menu_radio">Radio</string>
+  <string name="top_menu_search">Search</string>
+  <string name="top_menu_shop">Shop</string>
+  <string name="top_menu_top_charts">Top charts</string>
+  <string name="top_songs_title">Top songs</string>
+  <string name="tracks_title">Songs</string>
+  <string name="try_nautilus_free">Start trial</string>
+  <string name="turn_off">Turn off</string>
+  <string name="turn_off_download_toast">Downloaded only is off</string>
+  <string name="turning_off_download">TURNING OFF DOWNLOADED ONLY</string>
+  <string name="tutorial_account_body">"You're invited to Google Play Music. You can use this player to instantly access the songs you add to Google Play Music and other music you have copied to your Android device."</string>
+  <string name="tutorial_account_error_toast">Invalid Play Music account</string>
+  <string name="tutorial_account_heading">Welcome</string>
+  <string name="tutorial_account_list_header">Start by choosing a Google Account to link this player to Google Play Music:</string>
+  <string name="tutorial_add_account">ADD ACCOUNT</string>
+  <string name="tutorial_add_music_add">Add up to 50,000 songs from your collection to Google Play for free.</string>
+  <string name="tutorial_add_music_shop">Shop millions of songs, including hundreds of free tracks.</string>
+  <string name="tutorial_add_music_try_nautilus">Get access to more than 30 million songs and unlimited radio</string>
+  <string name="tutorial_add_music_usb">Copy music to your phone with a USB cable.</string>
+  <string name="tutorial_done_body">"Next, we'll ask a bit about your taste to help you discover the right tunes for you."</string>
+  <string name="tutorial_get_started">GET STARTED</string>
+  <string name="tutorial_learn_more">LEARN MORE</string>
+  <string name="tutorial_listen_now">LISTEN NOW</string>
+  <string name="tutorial_product_information">&lt;a href=%1$s&gt;Product Information&lt;/a&gt;</string>
+  <string name="tutorial_product_information_url">https://support.google.com/googleplay/answer/6125250?p=music_subscription_more_info</string>
+  <string name="tutorial_select_account_body">To use Google Play Music on this device, sign in, or add a new account to get started</string>
+  <string name="tutorial_select_account_heading">Select an account</string>
+  <string name="tutorial_select_account_prompt">%1$s is the currently selected account. Tap to select a different Google account.</string>
+  <string name="tutorial_shop">SHOP</string>
+  <string name="tutorial_sign_in">Link your account to Google Play Music so you can play your music library and store purchases.</string>
+  <string name="tutorial_skip_nautilus">NO THANKS</string>
+  <string name="tutorial_skip_select_account">SKIP</string>
+  <string name="tutorial_subscription_summary_1">"Download any song, album, or playlist and listen even when you're not connected"</string>
+  <string name="tutorial_subscription_summary_2">Add up to 50,000 songs from your computer and stream them anywhere for free.</string>
+  <string name="tutorial_subscription_title_1">Play offline</string>
+  <string name="tutorial_subscription_title_2">Bring your music along</string>
+  <string name="tutorial_terms_of_service">By signing up, you agree to the &lt;a href=%1$s&gt;Play Terms of Service&lt;/a&gt;</string>
+  <string name="tutorial_terms_of_service_url">https://play.google.com/about/play-terms.html</string>
+  <string name="tutorial_try_nautilus_offer_title">Try Unlimited</string>
+  <string name="tutorial_try_nautilus_single_summary">"30 million songs on demand
+Ad-free radio with unlimited skips
+Create your own playlists
+Listen to anything offline"</string>
+  <string name="tutorial_try_nautilus_summary_1">Listen to any music in our catalog of millions of songs, ad-free.</string>
+  <string name="tutorial_try_nautilus_summary_2">Store your music in one place. Listen online &amp; offline on Android &amp; iOS. Stream on the web.</string>
+  <string name="tutorial_try_nautilus_summary_3">Enjoy radio stations for any mood or activity, handmade by our team of music experts.</string>
+  <string name="tutorial_try_nautilus_summary_yt">Your subscription also includes unlimited music on YouTube</string>
+  <string name="tutorial_try_nautilus_title_1">Unlimited music</string>
+  <string name="tutorial_try_nautilus_title_2">Bring your iTunes® music with you</string>
+  <string name="tutorial_try_nautilus_title_3">Music For Every Mood</string>
+  <string name="tutorial_try_nautilus_title_yt">YouTube Music Key</string>
+  <string name="tutorial_try_nautilus_trial_not_eligible">SUBSCRIBE</string>
+  <string name="tutorial_welcome_heading">Welcome to Google Play Music</string>
+  <string name="tutorial_woodstock_info_summary_1">"Free, curated radio for what you're doing, how you feel, or what you want to hear."</string>
+  <string name="tutorial_woodstock_info_summary_2">Search for songs, artists, genres, and more to instantly start radio stations.</string>
+  <string name="tutorial_woodstock_info_summary_3">Add up to 50,000 songs from your computer and stream them anywhere for free.</string>
+  <string name="tutorial_woodstock_info_title_1">OK Google, play music</string>
+  <string name="tutorial_woodstock_info_title_2">Taking requests</string>
+  <string name="tutorial_woodstock_info_title_3">Bring your music along</string>
+  <string name="undo">UNDO</string>
+  <string name="units_bytes">B</string>
+  <string name="units_gigabytes">GB</string>
+  <string name="units_kilobytes">kB</string>
+  <string name="units_megabytes">MB</string>
+  <string name="units_terabytes">TB</string>
+  <string name="unknown_album_name">Unknown album</string>
+  <string name="unknown_artist_name">Unknown artist</string>
+  <string name="unknown_device">Unknown device</string>
+  <string name="unknown_playlist_name">Unknown playlist</string>
+  <string name="unknown_reason">Unknown reason</string>
+  <string name="unknown_submitter_name">Unknown</string>
+  <string name="unpin_music_dialog_cancel">Cancel</string>
+  <string name="unpin_music_dialog_checkbox_text">"Don't ask me again"</string>
+  <string name="unpin_music_dialog_ok">Remove</string>
+  <string name="unpin_music_dialog_text_album">Remove the downloaded music?</string>
+  <string name="unpin_music_dialog_text_instant_mix">Remove the downloaded instant mix?</string>
+  <string name="unpin_music_dialog_text_playlist">Remove the downloaded playlist?</string>
+  <string name="unpin_music_dialog_text_radio">Remove the downloaded radio station?</string>
+  <string name="unsubscribe_playlist">Unsubscribe</string>
+  <string name="upsell_charts">Play the hits, on-demand</string>
+  <string name="upsell_download">"Download and listen to any song, album, or station when you're not connected"</string>
+  <string name="upsell_drawer_download">"Download and listen to any song, album, or station when you're not connected"</string>
+  <string name="upsell_get_more">GET MORE</string>
+  <string name="upsell_get_started">GET STARTED</string>
+  <string name="upsell_got_it">GOT IT</string>
+  <string name="upsell_listen_now">Subscribe to get millions of songs on-demand, offline, and ad-free</string>
+  <string name="upsell_new_releases">Play the latest jams, on-demand</string>
+  <string name="upsell_no_thanks">NO THANKS</string>
+  <string name="upsell_preroll_video">Subscribe for all of the music on-demand and offline with none of the ads</string>
+  <string name="upsell_previous">Replay that song and millions of others, anytime</string>
+  <string name="upsell_skip_limit">"You're out of skips. Get on-demand and offline access to millions of songs"</string>
+  <string name="upsell_skip_limit_1left">1 skip left</string>
+  <string name="upsell_skip_limit_2left">2 skips left</string>
+  <string name="upsell_subscribe">SUBSCRIBE</string>
+  <string name="upsell_subscribe_long">SUBSCRIBE TO PLAY ANY SONG OR ALBUM</string>
+  <string name="upsell_thumbs_up">Play your favorites, on-demand</string>
+  <string name="user_playlist_label">My playlist</string>
+  <string name="video_thumbnail_description">Watch video</string>
+  <string name="videos_cluster_title">Videos</string>
+  <string name="view_artist">View</string>
+  <string name="wait_for_item">Waiting for music to sync.</string>
+  <string name="wait_for_item_failure">Your music is currently being added. Please wait a moment and try again.</string>
+  <string name="waiting_share">Sharing &lt;g id="title"&gt;%s&lt;/g&gt;</string>
+  <string name="wall_album_label_no_year" formatted="false">&lt;g id="album"&gt;%s&lt;/g&gt;"
+"&lt;g id="artist"&gt;%s&lt;/g&gt;"
+"&lt;g id="songs"&gt;%s&lt;/g&gt;</string>
+  <string name="wall_artist_label" formatted="false">&lt;g id="artist"&gt;%s&lt;/g&gt;"
+"&lt;g example="20 SONGS, 2 ALBUMS" id="counts"&gt;%s&lt;/g&gt;</string>
+  <string name="wall_genre_label" formatted="false">&lt;g id="genre"&gt;%s&lt;/g&gt;"
+"&lt;g example="20 SONGS, 2 ALBUMS" id="counts"&gt;%s&lt;/g&gt;</string>
+  <string name="wall_playlist_label" formatted="false">&lt;g id="name"&gt;%s&lt;/g&gt;"
+"&lt;g id="songs"&gt;%s&lt;/g&gt;</string>
+  <string name="wear_manage_downloads_device_storage_title">Device storage</string>
+  <string name="wear_manage_downloads_downloaded_title">Downloaded music</string>
+  <string name="wear_manage_downloads_empty_text">Download your favorite music to listen on Wear</string>
+  <string name="wear_manage_downloads_key">wear_manage_downloads_key</string>
+  <string name="wear_manage_downloads_no_devices">Connect your Android Wear device to manage downloads.</string>
+  <string name="wear_manage_downloads_sync_paused_phone_battery">Charge phone to sync</string>
+  <string name="wear_manage_downloads_sync_paused_watch_battery">Charge watch to sync</string>
+  <string name="wear_manage_downloads_title">Manage Wear downloads</string>
+  <string name="wear_sync_management_header">Wear Sync</string>
+  <string name="wear_sync_notification">Touch here to turn on storing downloaded music</string>
+  <string name="wear_sync_notification_short">Download music to Wear?</string>
+  <string name="wear_sync_promo_text">Would you like to store downloaded music on your wearable for offline playback?</string>
+  <string name="wear_sync_promo_title">Music on Android Wear</string>
+  <string name="weekpicker_set">Done</string>
+  <string name="weekpicker_title">Set time</string>
+  <string name="widget_album_art_accessibility">Album Art for the currently playing song</string>
+  <string name="widget_nowplaying_large_title">Music (4x4)</string>
+  <string name="widget_nowplaying_small_title">Music (4x1)</string>
+  <string name="working_albums">Albums…</string>
+  <string name="working_artists">Artists…</string>
+  <string name="yes_download_to_wear">Yes, download to Wear</string>
+  <string name="youtube_button_description">Watch video</string>
+  <string name="youtube_player_initialization_error">There was an error initializing the YouTube player (&lt;g id="yt_system_error"&gt;%1$s&lt;/g&gt;)</string>
+  <string name="youtube_video_details_hd">&lt;g id="video_duration"&gt;%1$s&lt;/g&gt; | &lt;g id="view_count"&gt;%2$,d&lt;/g&gt; views | HD</string>
+  <string name="youtube_video_details_nonhd">&lt;g id="video_duration"&gt;%1$s&lt;/g&gt; | &lt;g id="view_count"&gt;%2$,d&lt;/g&gt; views</string>
+  <string name="youtube_video_duration_hms">&lt;g id="hour"&gt;%1$02d&lt;/g&gt;:&lt;g id="minute"&gt;%2$02d&lt;/g&gt;:&lt;g id="second"&gt;%3$02d&lt;/g&gt;</string>
+  <string name="youtube_video_duration_ms">&lt;g id="minute"&gt;%1$02d&lt;/g&gt;:&lt;g id="second"&gt;%2$02d&lt;/g&gt;</string>
+</resources>

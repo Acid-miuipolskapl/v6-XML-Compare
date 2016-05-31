@@ -1,0 +1,1199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Navigate up</string>
+  <string name="abc_action_menu_overflow_description">More options</string>
+  <string name="abc_action_mode_done">Done</string>
+  <string name="abc_activity_chooser_view_see_all">See all</string>
+  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_capital_off">OFF</string>
+  <string name="abc_capital_on">ON</string>
+  <string name="abc_search_hint">Search…</string>
+  <string name="abc_searchview_description_clear">Clear query</string>
+  <string name="abc_searchview_description_query">Search query</string>
+  <string name="abc_searchview_description_search">Search</string>
+  <string name="abc_searchview_description_submit">Submit query</string>
+  <string name="abc_searchview_description_voice">Voice search</string>
+  <string name="abc_shareactionprovider_share_with">Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="accept">Accept</string>
+  <string name="accessibility_announcement_episode_expanded">Episode description shown</string>
+  <string name="accessibility_event_form_field_error">Field: &lt;g id="field_name"&gt;%1$s&lt;/g&gt;, error: &lt;g id="field_error"&gt;%2$s&lt;/g&gt;</string>
+  <string name="accessibility_event_invalid_card_number">Invalid card number</string>
+  <string name="accessibility_event_plus_one_toggle_off">You have removed your +1</string>
+  <string name="accessibility_event_plus_one_toggle_on">You have added your +1</string>
+  <string name="accessibility_event_tab_selected">&lt;g id="tab_title"&gt;%1$s&lt;/g&gt; selected</string>
+  <string name="account_required">You must add an account to the device to continue. Do you want to add one now?</string>
+  <string name="account_required_external">To use Google Play Store you need a Google Account.</string>
+  <string name="active_subscriptions_body">Charges for your subscriptions will continue until you cancel.</string>
+  <string name="active_subscriptions_title">&lt;g id="package"&gt;%1$s&lt;/g&gt; has active subscriptions</string>
+  <string name="activity_not_found">No Activity could be found to launch that Action.</string>
+  <string name="add_carrier_billing_error">An error occurred while setting up your &lt;g id="carrier_name"&gt;%1$s&lt;/g&gt; account. Please try again.</string>
+  <string name="add_carrier_billing_introduction">You can bill purchases directly to your &lt;g id="carrier_name"&gt;%1$s&lt;/g&gt; account.</string>
+  <string name="add_credit_card">Enter card details</string>
+  <string name="add_credit_card_error">An error occurred while saving your credit card. Please try again.</string>
+  <string name="add_payment_method">Add payment method</string>
+  <string name="add_to_library">Add to library</string>
+  <string name="add_to_newsstand">Add to Newsstand</string>
+  <string name="addcreditcard_privacy_footer">Adding a credit card will create a Google Payments account for you. &lt;u&gt;Privacy Policy&lt;/u&gt;.</string>
+  <string name="address">Address</string>
+  <string name="adr_microformat_newline_replacement">", "</string>
+  <string name="album_copyright">Copyright</string>
+  <string name="album_genre">Genre</string>
+  <string name="album_only_purchase">Album only</string>
+  <string name="album_release_date">Released on</string>
+  <string name="all_access_button_free_trial">Free trial</string>
+  <string name="all_access_button_subscribe">Subscribe</string>
+  <string name="all_access_label_bottom_alternate_try_all_access">Listen to this album and millions more. First month on us.</string>
+  <string name="all_access_label_bottom_available_in_all_access">This album is available to stream with a Google Play Music subscription</string>
+  <string name="all_access_label_bottom_try_all_access">Listen to this album and millions more. First month free.</string>
+  <string name="all_reviews">ALL REVIEWS</string>
+  <string name="allow_auto_updating">Auto-update</string>
+  <string name="already_has_access_to">It already has access to:</string>
+  <string name="also_needs_access_to">also needs access to</string>
+  <string name="antenna_playlist">Playlist</string>
+  <string name="app_already_installed_other_user">You cannot install this app because another user has already installed an incompatible version on this device.</string>
+  <string name="app_also_needs_access_to">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; also needs access to</string>
+  <string name="app_content_rating">Content rating</string>
+  <string name="app_downloads">Downloads</string>
+  <string name="app_install_success">Installation successful</string>
+  <string name="app_long_name">Google Play Store</string>
+  <string name="app_name">Google Play</string>
+  <string name="app_needs_access_to">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; needs access to</string>
+  <string name="app_size">Size</string>
+  <string name="app_update_date">Updated on</string>
+  <string name="app_version">Version</string>
+  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="apps_by">Apps by &lt;g example="Playbox" id="pubname"&gt;%1$s&lt;/g&gt;</string>
+  <string name="archive_label">Remove</string>
+  <string name="archiving">Removing…</string>
+  <string name="archiving_no_uninstall_confirmation">Remove \"&lt;g id="app_title"&gt;%1$s&lt;/g&gt;\" from my apps?</string>
+  <string name="archiving_no_uninstall_confirmation_multiple">Remove the selected apps from my apps?</string>
+  <string name="artist_radio_station_text">Start free radio</string>
+  <string name="asset_removed_bar">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed.</string>
+  <string name="asset_removed_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed from your phone. You will receive an email with details.</string>
+  <string name="asset_removed_title">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed.</string>
+  <string name="associating_device_message">Sending account verification SMS to your mobile service provider.</string>
+  <string name="associating_device_timeout_message">"Can't verify your account. Try again later."</string>
+  <string name="auth_challenge_opt_out_info">Disabling authentication may result in unauthorized purchases. You assume responsibility for all charges. &lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="auth_challenge_opt_out_title">Never ask me again</string>
+  <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+  <string name="auth_google_play_services_client_google_display_name">Google</string>
+  <string name="auth_required_error">Authentication is required. You need to sign into your Google Account.</string>
+  <string name="auth_required_error_oem">Your recent Google Play items will appear here. Touch to sign in.</string>
+  <string name="auto_add_shortcuts_description">For new apps</string>
+  <string name="auto_add_shortcuts_label">Add icon to Home screen</string>
+  <string name="auto_update_available_notification">App updates available</string>
+  <string name="auto_update_available_notification_summary">Notify when app updates are available</string>
+  <string name="auto_update_completion_notification">Apps were auto-updated</string>
+  <string name="auto_update_completion_notification_summary">Notify when apps are automatically updated</string>
+  <string name="auto_update_enable_dialog_message">"Auto-update is currently disabled for all apps. Do you want to enable it?
+
+You can always change this in Settings. Data charges may apply."</string>
+  <string name="auto_update_label">Auto-update apps</string>
+  <string name="auto_update_migration_dialog_message_on_mobile">Update apps automatically? Data charges may apply.</string>
+  <string name="auto_update_migration_dialog_message_on_wifi">Update apps automatically when on Wi-Fi?</string>
+  <string name="auto_update_value_disabled">Do not auto-update apps</string>
+  <string name="auto_update_value_enabled">Auto-update apps at any time. Data charges may apply.</string>
+  <string name="auto_update_value_wifi_only">Auto-update apps over Wi-Fi only</string>
+  <string name="availability_restriction_carrier">"This item isn't available on your carrier."</string>
+  <string name="availability_restriction_country">"This item isn't available in your country."</string>
+  <string name="availability_restriction_country_or_carrier">"This item isn't available in your country or on your carrier."</string>
+  <string name="availability_restriction_for_managed_account">Your administrator has not given you access to this item.</string>
+  <string name="availability_restriction_generic">"This item isn't available."</string>
+  <string name="availability_restriction_hardware">"Your device isn't compatible with this item."</string>
+  <string name="availability_restriction_hardware_app">"Your device isn't compatible with this version."</string>
+  <string name="availability_restriction_missing_permission">Your administrator has not accepted permissions for this item.</string>
+  <string name="availability_restriction_not_in_group">"You're not in the targeted group for this item."</string>
+  <string name="availability_restriction_search_level">Parental controls restrict downloading of this item.</string>
+  <string name="b_and_r_button_restore">Restoring applications</string>
+  <string name="b_and_r_restore_completed">Restore complete</string>
+  <string name="b_and_r_restored_x_of_y">Restored %1$d out of %2$d applications</string>
+  <string name="background_data_error">Google Play Store needs background data to be enabled.&lt;br&gt;&lt;br&gt;&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="background_data_prompt_cancel">Quit</string>
+  <string name="background_data_prompt_title">Background data disabled</string>
+  <string name="billing_countries_loading_failed">An error occurred while contacting Google servers. Please try again.</string>
+  <string name="billing_information_description">The following billing address will be stored in your Google account.</string>
+  <string name="billing_information_snippet_description">Your billing address will be stored in your Google account:</string>
+  <string name="billing_profile_other_options">Other options</string>
+  <string name="blank_account_password_purchase_flow">Please enter your password.</string>
+  <string name="blank_account_pin_purchase_flow">Please enter your PIN.</string>
+  <string name="books_download_required">To continue, you need the latest Play Books app</string>
+  <string name="books_download_required_with_link_highlighting">To continue, you need the latest &lt;a href=\"\"&gt;Play Books app&lt;/a&gt;</string>
+  <string name="bulleted_line_item">• &lt;g id="content"&gt;%1$s&lt;/g&gt;</string>
+  <string name="buy">Buy &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="buy_hd">Buy HD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="buy_no_price">Buy</string>
+  <string name="buy_sd">Buy SD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="buy_with_size">Buy &lt;g id="price"&gt;%1$s&lt;/g&gt; (&lt;g id="appSize"&gt;%2$s&lt;/g&gt;)</string>
+  <string name="cancel">Cancel</string>
+  <string name="cancel_preorder">Cancel</string>
+  <string name="cancel_preorder_error">Error while canceling. Try again later.</string>
+  <string name="cancel_preorder_okay">Pre-order canceled.</string>
+  <string name="cancel_subscription">Cancel</string>
+  <string name="cancel_subscription_error">Error while canceling. Try again later.</string>
+  <string name="cancel_subscription_okay">Subscription canceled.</string>
+  <string name="canceling_download">Canceled…</string>
+  <string name="card_number">Card number</string>
+  <string name="carrier_tos_and_address_title">&lt;g id="carrier_name"&gt;%1$s&lt;/g&gt; Billing Agreement</string>
+  <string name="cart_discounted_price">(&lt;g id="formatted_discount_amount"&gt;%1$s&lt;/g&gt;)</string>
+  <string name="cart_original_price">Original &lt;g id="formatted_original_price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="change">Change</string>
+  <string name="character_counter_pattern">%1$d/%2$d</string>
+  <string name="circles_follow">Follow</string>
+  <string name="clear_local_history_summary">Remove searches you have performed from this device</string>
+  <string name="clear_local_history_title">Clear local search history</string>
+  <string name="close">Close</string>
+  <string name="common_android_wear_notification_needs_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; requires an update to the Android Wear app.</string>
+  <string name="common_android_wear_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run unless you update the Android Wear app."</string>
+  <string name="common_android_wear_update_title">Update Android Wear</string>
+  <string name="common_google_play_services_api_unavailable_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+  <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+  <string name="common_google_play_services_enable_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't work unless you enable Google Play services."</string>
+  <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Requested by &lt;g id="app_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="common_google_play_services_install_button">Get Google Play services</string>
+  <string name="common_google_play_services_install_text_phone">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are missing from your phone."</string>
+  <string name="common_google_play_services_install_text_tablet">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are missing from your tablet."</string>
+  <string name="common_google_play_services_install_title">Get Google Play services</string>
+  <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+  <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+  <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+  <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+  <string name="common_google_play_services_network_error_title">Network Error</string>
+  <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+  <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+  <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+  <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+  <string name="common_google_play_services_unsupported_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt; relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+  <string name="common_google_play_services_unsupported_title">Google Play services</string>
+  <string name="common_google_play_services_update_button">Update</string>
+  <string name="common_google_play_services_update_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run unless you update Google Play services."</string>
+  <string name="common_google_play_services_update_title">Update Google Play services</string>
+  <string name="common_google_play_services_updating_text">&lt;g id="app_name"&gt;%1$s&lt;/g&gt;" won't run without Google Play services, which are currently updating."</string>
+  <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+  <string name="common_open_on_phone">Open on phone</string>
+  <string name="common_signin_button_text">Sign in</string>
+  <string name="common_signin_button_text_long">Sign in with Google</string>
+  <string name="confirm">Confirm</string>
+  <string name="confirm_preorder_cancel">Cancel your pre-order of &lt;g id="item_title"&gt;%1$s&lt;/g&gt;?</string>
+  <string name="confirm_renewing_subscription_cancel">Do you want to cancel \"&lt;g id="subscription_name"&gt;%1$s&lt;/g&gt;"\"? Your subscription will end. You won't be charged again."</string>
+  <string name="confirm_trial_subscription_cancel">Do you want to cancel \"&lt;g id="subscription_name"&gt;%1$s&lt;/g&gt;"\"? Your trial subscription will end. You won't be charged."</string>
+  <string name="consumption_item_added">Added</string>
+  <string name="content_description_add_on_gplus">Add &lt;g id="name"&gt;%1$s&lt;/g&gt; to your circles</string>
+  <string name="content_description_app_title">App: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_book_series_title">Book series: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_book_title">Book: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_cancel_download">Cancel this download</string>
+  <string name="content_description_collapse_reply">Collapse reply</string>
+  <string name="content_description_current_price">Current price &lt;g id="formatted_price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_current_price_toggle_collapse">Current price &lt;g id="formatted_price"&gt;%1$s&lt;/g&gt;, hide details</string>
+  <string name="content_description_current_price_toggle_expand">Current price &lt;g id="formatted_price"&gt;%1$s&lt;/g&gt;, show details</string>
+  <string name="content_description_cvc_code_popup">More information about CVC</string>
+  <string name="content_description_decline_survey">Decline survey</string>
+  <string name="content_description_details_secondary_action_plus_one">&lt;g id="number"&gt;%1$s&lt;/g&gt;" +1'd this"</string>
+  <string name="content_description_details_secondary_action_plus_one_set">&lt;g id="number"&gt;%1$s&lt;/g&gt;" +1'd this including you"</string>
+  <string name="content_description_developer_title">Developer: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_discovery_bar">Badges bar</string>
+  <string name="content_description_edit_address">Edit address</string>
+  <string name="content_description_episode_number">Episode number &lt;g id="episode_number"&gt;%1$d&lt;/g&gt;</string>
+  <string name="content_description_expand_credit_card">Expand credit card information</string>
+  <string name="content_description_expand_reply">Expand reply</string>
+  <string name="content_description_explore_bundle">Explore &lt;g id="bundle_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_following_on_gplus">You have &lt;g id="name"&gt;%1$s&lt;/g&gt; in your circles</string>
+  <string name="content_description_full_price">Discounted from &lt;g id="formatted_price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_generic_trailer">Trailer for \"&lt;g id="title"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="content_description_item_subtitle">&lt;g id="subtitle"&gt;%1$s&lt;/g&gt;, &lt;g id="badge_title"&gt;%2$s&lt;/g&gt;</string>
+  <string name="content_description_movie_title">Movie: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_music_album_title">Album: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_music_artist_title">Artist: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_music_track_title">Track: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_on_sale_price">Full price: &lt;g id="full_price"&gt;%1$s&lt;/g&gt;, current price: &lt;g id="current_price"&gt;%2$s&lt;/g&gt;</string>
+  <string name="content_description_options">Options</string>
+  <string name="content_description_parental_controls_switch">Parental controls</string>
+  <string name="content_description_password_help">Password help</string>
+  <string name="content_description_person_title">Person: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_pin_help">PIN help</string>
+  <string name="content_description_publication_title">Publication: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_rate_and_review">Rate and review</string>
+  <string name="content_description_recommendation_dismiss">Dismiss</string>
+  <string name="content_description_recommendation_dismiss_title">Dismiss recommendation for &lt;g id="title"&gt;%1$s&lt;/g&gt; and show next recommendation</string>
+  <string name="content_description_recommendation_open">Open details for recommendation &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_recommendation_refresh">Refresh to show next recommendation</string>
+  <string name="content_description_review_external_link">Read full review</string>
+  <string name="content_description_review_histogram_rating">Average rating: &lt;g id="rating"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_screenshot">Screenshot</string>
+  <string name="content_description_selected_billing_profile_entry">Selected</string>
+  <string name="content_description_selected_voucher_entry">Selected</string>
+  <string name="content_description_tap_to_load">Tap to load</string>
+  <string name="content_description_thumbnail_album">Image of album cover art &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_application">Image of app or game icon for &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_artist">Image of artist &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_book">Image of book cover for &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_book_series">Image of book series cover for &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_developer">Developer logo for &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_movie">Image of movie poster &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_newsstand">Image of newsstand cover &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_thumbnail_tvshow">Image of TV show &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_toggle_collapse">Hide details</string>
+  <string name="content_description_toggle_expand">Show details</string>
+  <string name="content_description_toggle_selector">Show options</string>
+  <string name="content_description_track_duration">Duration: &lt;g id="duration"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_track_error">Track playback error</string>
+  <string name="content_description_track_number">Track number &lt;g id="number"&gt;%1$d&lt;/g&gt;</string>
+  <string name="content_description_track_paused">Track paused</string>
+  <string name="content_description_track_play">Play track</string>
+  <string name="content_description_track_playing">Track playing</string>
+  <string name="content_description_tv_episode_title">Episode: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_tv_season_title">Season: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_tv_show_title">Show: &lt;g id="title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_unselected_voucher_entry">Unselected</string>
+  <string name="content_description_view_gplus_profile">View G+ profile for &lt;g id="name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="content_description_widget_hotseat_explore_books">Explore Books on Google Play</string>
+  <string name="content_description_widget_hotseat_explore_movies">Explore Movies &amp; TV on Google Play</string>
+  <string name="content_description_widget_hotseat_explore_music">Explore Music on Google Play</string>
+  <string name="content_description_widget_hotseat_explore_newsstand">Explore Newsstand on Google Play</string>
+  <string name="content_description_widget_hotseat_explored_books">You explored Books on Google Play</string>
+  <string name="content_description_widget_hotseat_explored_movies">You explored Movies &amp; TV on Google Play</string>
+  <string name="content_description_widget_hotseat_explored_music">You explored Music on Google Play</string>
+  <string name="content_description_widget_hotseat_explored_newsstand">You explored Newsstand on Google Play</string>
+  <string name="content_description_wishlist_add">Include in wishlist</string>
+  <string name="content_description_wishlist_remove">Remove from wishlist</string>
+  <string name="content_filter_cancel">Cancel</string>
+  <string name="content_filter_everyone">Everyone</string>
+  <string name="content_filter_high_maturity">High maturity</string>
+  <string name="content_filter_low_maturity">Low maturity</string>
+  <string name="content_filter_medium_maturity">Medium maturity</string>
+  <string name="content_filter_no_rating">Not rated</string>
+  <string name="content_filter_ok">OK</string>
+  <string name="content_filter_show_all_apps">Show all apps</string>
+  <string name="content_filter_title">Allow apps rated for</string>
+  <string name="content_filtering_apps_and_content_description">For apps and content in Google Play</string>
+  <string name="content_filtering_description">Set filters to restrict apps that can be downloaded</string>
+  <string name="content_filtering_label">Parental controls</string>
+  <string name="content_filters2_title">Parental controls</string>
+  <string name="content_filters_help">Help</string>
+  <string name="content_flagged">Objection submitted.</string>
+  <string name="continue_text">Continue</string>
+  <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+  <string name="create_calendar_title">Create calendar event</string>
+  <string name="cvc_code">CVC</string>
+  <string name="cvc_code_popup_amex_description">&lt;b&gt;American Express&lt;/b&gt;"
+The CVC is the four digits located on the front of the card, on the right side."</string>
+  <string name="cvc_code_popup_visa_description">&lt;b&gt;Discover, MasterCard, Visa, and Visa Electron&lt;/b&gt;"
+The CVC is the last three digits of the number that appears on the back of your card in the signature bar."</string>
+  <string name="dcb_setup_title">&lt;g id="carrier_name"&gt;%1$s&lt;/g&gt; billing</string>
+  <string name="dcb_setup_title_generic">Carrier billing</string>
+  <string name="dcb_tos_acceptance_footer_html">By tapping \"&lt;g id="button_label"&gt;%1$s&lt;/g&gt;\", you agree to the &lt;g id="link_start"&gt;&amp;lt;a href=%2$s&amp;gt;&lt;/g&gt;&lt;g id="carrier_name"&gt;%3$s&lt;/g&gt; Terms of Service&lt;g id="link_end"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;.</string>
+  <string name="deactivate">Deactivate</string>
+  <string name="deactivate_device_admin_msg">This app is a device administrator and must be deactivated before uninstalling.</string>
+  <string name="debug_carrier_override_summary">Set the carrier override</string>
+  <string name="debug_carrier_override_title">Carrier override</string>
+  <string name="debug_clear_cache_summary">Clear cache and restart</string>
+  <string name="debug_clear_cache_title">Clear cache and quit</string>
+  <string name="debug_environment_action_bar_title">Environment indicator</string>
+  <string name="debug_environments_summary">Change your backend environment</string>
+  <string name="debug_environments_title">Environment</string>
+  <string name="debug_export_library_summary">Export the library and asset store databases to external storage</string>
+  <string name="debug_export_library_title">Export library databases</string>
+  <string name="debug_image_debugging_summary">Display size of downloaded images</string>
+  <string name="debug_image_debugging_title">Toggle image debugging</string>
+  <string name="debug_play_country_override_current">Current Play Country override: %1$s</string>
+  <string name="debug_play_country_override_entry_prompt">Enter a valid two character country code:</string>
+  <string name="debug_play_country_override_failure">Failed to retrieve playCountryOverride from the DFE. Ensure you are using an authorized debug account.</string>
+  <string name="debug_play_country_override_none">No override</string>
+  <string name="debug_play_country_override_summary">Set the Play Country override</string>
+  <string name="debug_play_country_override_title">Play Country override</string>
+  <string name="debug_play_country_override_update_failed">Unable to update your Play Country override</string>
+  <string name="debug_play_country_override_update_success">"Your new Play Country: %1$s
+
+The app will now restart."</string>
+  <string name="debug_reset">Reset</string>
+  <string name="debug_reset_all_summary">Reset all debug options</string>
+  <string name="debug_reset_all_title">Reset all</string>
+  <string name="debug_skip_all_caches">Skip all caches</string>
+  <string name="debug_skip_all_caches_off">Caches will not be skipped</string>
+  <string name="debug_skip_all_caches_on">Caches will be skipped</string>
+  <string name="debug_volley_logging_off">Verbose logging is disabled</string>
+  <string name="debug_volley_logging_on">Verbose logging is enabled</string>
+  <string name="debug_volley_logging_title">Volley logging state</string>
+  <string name="decline">Decline</string>
+  <string name="delete_review">Delete</string>
+  <string name="detailed_optional_permissions_footer">You can disable access for these permissions in Settings. Updates to &lt;g id="name"&gt;%1$s&lt;/g&gt; may automatically add additional capabilities within each group. &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;Learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="detailed_permissions_footer">Updates to &lt;g id="name"&gt;%1$s&lt;/g&gt; may automatically add additional capabilities within each group. &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;Learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="details_about_author">About the author</string>
+  <string name="details_artist_links">Links</string>
+  <string name="details_cast_crew">Cast &amp; credits</string>
+  <string name="details_description">Description</string>
+  <string name="details_developer_links">Developer</string>
+  <string name="details_page_error">"Couldn't find the details page for the item you requested."</string>
+  <string name="details_reviews">Reviews</string>
+  <string name="details_secondary_action_plus_one">"+1'd this"</string>
+  <string name="details_secondary_action_plus_one_icon_text">+&lt;g id="number"&gt;%1$s&lt;/g&gt;</string>
+  <string name="details_secondary_action_share">Share</string>
+  <string name="details_secondary_action_wishlist">Wishlist</string>
+  <string name="details_synopsis">Synopsis</string>
+  <string name="details_whats_new">"What's new"</string>
+  <string name="device_association_back_button">Go back</string>
+  <string name="device_association_failed">"Your account isn't eligible for mobile payment service. Call your mobile operator."</string>
+  <string name="disable_content_filters">Off</string>
+  <string name="disable_personalization">Disable personalization</string>
+  <string name="disabled_list_state">Disabled</string>
+  <string name="document_already_owned">You already own this item.</string>
+  <string name="done">Done</string>
+  <string name="download">Download</string>
+  <string name="download_in_progress">Downloading…</string>
+  <string name="download_manager_disabled">Google Play Store cannot start because the Download Manager has been disabled. Enable it?</string>
+  <string name="download_paused_network">Waiting for network…</string>
+  <string name="download_paused_wifi">Waiting for Wi-Fi…</string>
+  <string name="download_progress_bytes">&lt;g id="bytesComplete"&gt;^1&lt;/g&gt;/&lt;g id="bytesTotal"&gt;^2&lt;/g&gt;</string>
+  <string name="download_progress_percentage">&lt;g id="percent"&gt;^1%&lt;/g&gt;</string>
+  <string name="downloading_section">Downloading…</string>
+  <string name="dump_library_state_summary">Dumps library state to logcat</string>
+  <string name="dump_library_state_title">Dump library state</string>
+  <string name="edit_review">Edit</string>
+  <string name="email_address">E-mail address</string>
+  <string name="empty_myapps_browse_apps">Browse apps</string>
+  <string name="empty_myapps_browse_games">Browse games</string>
+  <string name="empty_myapps_description_all">Apps and games owned by this account will appear here.</string>
+  <string name="empty_myapps_description_installed">Apps and games installed from Google Play Store will appear here.</string>
+  <string name="enable">Enable</string>
+  <string name="enable_content_filters">On</string>
+  <string name="enter_a_password">Please enter a password.</string>
+  <string name="enter_your_address_sentence">Please enter your billing address to be stored in your Google account.</string>
+  <string name="enter_your_password_title">Enter your password</string>
+  <string name="enterprise_admin_purchased_app">Your admin has purchased licenses for this app.</string>
+  <string name="enterprise_externally_hosted_application">This app is hosted by your company. It has not been scanned by Google, and may only be installable while you are connected to your company network or VPN.</string>
+  <string name="entertainment">Entertainment</string>
+  <string name="entertainment_menu">Entertainment</string>
+  <string name="entertainment_quicklink_overlay_button">Got it</string>
+  <string name="entertainment_quicklink_overlay_dismiss_content_description">Tap to dismiss</string>
+  <string name="entertainment_quicklink_overlay_highlight_content_description">Tap to dismiss and visit Entertainment</string>
+  <string name="entertainment_search_results_title">Entertainment</string>
+  <string name="error">Error</string>
+  <string name="error_while_downloading_bar">"Can't download \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\".</string>
+  <string name="error_while_downloading_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be downloaded. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code:&lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="error_while_downloading_message_server_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be downloaded. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt;(&lt;g id="serverMessage"&gt;%2$s&lt;/g&gt;)</string>
+  <string name="error_while_downloading_outdated_response_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" could not be installed due to an error. Try again, and if the problem continues, &amp;lt;a href=&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="error_while_downloading_outdated_response_title">"Can't install app"</string>
+  <string name="error_while_downloading_timeout_error_message">"Google Play isn't responding. Try again in a few minutes, and if the problem continues, &lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="error_while_downloading_timeout_error_title">Not responding</string>
+  <string name="error_while_downloading_title">"Can't download app"</string>
+  <string name="error_while_downloading_update_bar">"Can't update \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="error_while_downloading_update_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be updated. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="error_while_downloading_update_message_server_message">Update for \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" could not be downloaded due to an error. (&lt;g id="serverMessage"&gt;%2$s&lt;/g&gt;)</string>
+  <string name="error_while_downloading_update_title">"Can't update app"</string>
+  <string name="expando_hero">expando_hero</string>
+  <string name="expando_splash">expando_splash</string>
+  <string name="expiration_date_separator">/</string>
+  <string name="explore">Explore</string>
+  <string name="external_space_bar">"Can't download \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\", not enough external storage.</string>
+  <string name="external_space_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be downloaded. Remove apps or content you no longer need, and try again."</string>
+  <string name="external_space_missing_bar">"Can't download \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\", requires external storage.</string>
+  <string name="external_space_missing_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be downloaded. Insert an &amp;lt;a href="&lt;g id="helpUrl"&gt;%2$s&lt;/g&gt;&amp;gt;SD card&amp;lt;/a&amp;gt; or USB storage with sufficient storage, and try again.</string>
+  <string name="external_space_missing_title">App requires external storage</string>
+  <string name="external_space_title">Not enough external storage</string>
+  <string name="failed">"Couldn't load image"</string>
+  <string name="fake_item_rater_off">Fake item rater is disabled</string>
+  <string name="fake_item_rater_on">Fake item rater is enabled</string>
+  <string name="fake_item_rater_title">Fake item rater</string>
+  <string name="family_safe_search_result_title">Family-friendly results</string>
+  <string name="fingerprint_auth_settings_description">For Google Play purchases on this device</string>
+  <string name="fingerprint_auth_settings_label">Fingerprint authentication</string>
+  <string name="fingerprint_failed_first_attempt">"Try again. Fingerprint not recognized. Be sure you're using the correct finger."</string>
+  <string name="fingerprint_failed_last_attempt">"Try one last time. If the next attempt fails, you'll need to enter your password."</string>
+  <string name="fingerprint_locked_password">A new fingerprint was added to this device, so a password is required</string>
+  <string name="fingerprint_locked_pin">A new fingerprint was added to this device, so a PIN is required</string>
+  <string name="fingerprint_not_recognized">Try again. Fingerprint not recognized.</string>
+  <string name="fingerprint_opt_in">Use fingerprint for future purchases</string>
+  <string name="fingerprint_scan_successful">Scan successful</string>
+  <string name="fingerprint_scanning">Touch the sensor to continue</string>
+  <string name="fingerprint_title">Touch sensor</string>
+  <string name="first_name">First name</string>
+  <string name="five_star">5 stars</string>
+  <string name="flag_graphic_violence">Graphic violence</string>
+  <string name="flag_harmful_prompt">Describe the harm caused to your device or data:</string>
+  <string name="flag_harmful_to_device">Harmful to device or data</string>
+  <string name="flag_hateful_content">Hateful or abusive content</string>
+  <string name="flag_improper_content_rating">Improper content rating</string>
+  <string name="flag_incorrect_metadata">Incorrect label</string>
+  <string name="flag_ip_infringement">IP Infringement</string>
+  <string name="flag_minor_abuse">Abuse of minors</string>
+  <string name="flag_other_concern_prompt">Describe objection</string>
+  <string name="flag_other_objection">Other objection</string>
+  <string name="flag_page_description">The reason you find this content or app objectionable:</string>
+  <string name="flag_page_description_non_app">The reason you find this content objectionable:</string>
+  <string name="flag_page_footer_music">&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Report copyright, privacy, or other legal claims&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="flag_pharma_content">Illegal prescription or other drug</string>
+  <string name="flag_sexual_content">Sexual content</string>
+  <string name="flag_spam">Spam</string>
+  <string name="flagging_title">Flag as inappropriate</string>
+  <string name="flush_eventlog_summary">Immediately flush the event log</string>
+  <string name="flush_eventlog_title">Flush Eventlog</string>
+  <string name="forgot_your_password">Forgot your password?</string>
+  <string name="four_star">4 stars</string>
+  <string name="full_page_replaced_question">Showing results for:</string>
+  <string name="gaia_recovery_dialog_text">Enjoy your app! If you ever forget your password, we can help restore access to your Google Play library and purchases. Tap \"&lt;g id="continue"&gt;%1$s&lt;/g&gt;\" to tell us how to contact you.</string>
+  <string name="games_corpus_title">Games</string>
+  <string name="generic_get_app_error">An error occurred. Please try again.</string>
+  <string name="generic_purchase_completion_error">An error occurred. Please try again.</string>
+  <string name="generic_purchase_prepare_error">An error occurred. Please try again.</string>
+  <string name="gift_card_code_hint">Enter code</string>
+  <string name="gms_core_disabled">Google Play Store cannot start because Google Play Services has been disabled. Enable it?</string>
+  <string name="google_password_hint">Google password</string>
+  <string name="google_pin_hint">Google PIN</string>
+  <string name="google_plus_disabled_error">Google+ is disabled for this account.</string>
+  <string name="gplus_download_required">To continue, you need the latest Google+ app</string>
+  <string name="gplus_public_reviews">To share reviews with others, create a Google+ profile. Your reviews will be linked to your profile and are public.</string>
+  <string name="gplus_public_reviews_confirmed">Thanks. Ready to start rating.</string>
+  <string name="gplus_sign_up_prompt">Create a Google+ profile to get recommendations from your friends and to share what you love with them!</string>
+  <string name="gplus_sign_up_text">Share your Google Play reviews and get recommendations from friends by creating a Google+ profile.</string>
+  <string name="gplus_view_profile">View profile</string>
+  <string name="header_list_layout_background">header_list_layout_background</string>
+  <string name="header_list_layout_tabbar">header_list_layout_tabbar</string>
+  <string name="header_list_layout_toolbar">header_list_layout_toolbar</string>
+  <string name="help_and_feedback">Help &amp; Feedback</string>
+  <string name="hint_expiration_month">MM</string>
+  <string name="hint_expiration_year">YY</string>
+  <string name="i18n_address_line1_label">Street address</string>
+  <string name="i18n_address_line2_label">Street address, line 2</string>
+  <string name="i18n_area">Area</string>
+  <string name="i18n_county_label">County</string>
+  <string name="i18n_department">Department</string>
+  <string name="i18n_dependent_locality_label">District</string>
+  <string name="i18n_do_si">Do</string>
+  <string name="i18n_emirate">Emirate</string>
+  <string name="i18n_island">Island</string>
+  <string name="i18n_locality_label">City</string>
+  <string name="i18n_organization_label">Company</string>
+  <string name="i18n_parish">Parish</string>
+  <string name="i18n_postal_code_label">Postal code</string>
+  <string name="i18n_prefecture">Prefecture</string>
+  <string name="i18n_province">Province</string>
+  <string name="i18n_recipient_label">Contact name</string>
+  <string name="i18n_state_label">State</string>
+  <string name="i18n_zip_code_label">ZIP code</string>
+  <string name="in_app_purchases">In-app purchases</string>
+  <string name="in_progress_season">This season is in progress. Buy the season to get new episodes as they become available.</string>
+  <string name="info_about_content_filter">Set filters to restrict apps that can be downloaded to this device.</string>
+  <string name="install">Install</string>
+  <string name="install_all">Install All</string>
+  <string name="install_approval_auto_update_disabled_text">You have auto-update disabled for &lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;. Would you still like to proceed with its update?</string>
+  <string name="install_approval_auto_update_disabled_title">Auto update disabled</string>
+  <string name="install_approval_auto_update_disabled_yes">Yes</string>
+  <string name="install_approval_large_size_text">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; is very large. High data charges might apply. Do you still want to continue?&lt;g id="spacing"&gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&lt;/g&gt;Consider skipping this app and continuing later on Wi-Fi.</string>
+  <string name="install_approval_large_size_title">Large app download</string>
+  <string name="install_approval_large_size_yes">Continue</string>
+  <string name="install_approval_no">Skip</string>
+  <string name="install_approval_permissions_yes">Accept</string>
+  <string name="install_approval_progress_text">App &lt;g id="current_update"&gt;%1$d&lt;/g&gt; of &lt;g id="total_updates"&gt;%2$d&lt;/g&gt;</string>
+  <string name="install_failed_already_exists">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" is already installed on this device. If additional support is needed, &amp;lt;a href=&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="install_failed_bar">"Can't install \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\".</string>
+  <string name="install_failed_conflicting_provider">Duplicate provider authority.</string>
+  <string name="install_failed_container_error">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be installed on USB storage or SD card. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="install_failed_insufficient_storage">Insufficient storage available.</string>
+  <string name="install_failed_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be installed. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="install_failed_missing_feature">Application requires feature(s) not available on your device.</string>
+  <string name="install_failed_replace_couldnt_delete">"There's an old version of \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" on this device that can't be deleted. Try again, and if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="install_failed_title">"Can't install app"</string>
+  <string name="install_invalid_install_location">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;"\" can't be installed in the device's default install location. Review your device's storage and try again, if the problem continues, &amp;lt;a href="&lt;g id="helpUrl"&gt;%3$s&lt;/g&gt;&amp;gt;get help troubleshooting.&amp;lt;/a&amp;gt; (Error code: &lt;g id="errorCode"&gt;%2$d&lt;/g&gt;)</string>
+  <string name="install_parse_failed_bad_certificates">Package file was not signed correctly.</string>
+  <string name="install_parse_failed_mismatched_certificates">Package file was not signed correctly. Uninstall the previous copy of the app and try again.</string>
+  <string name="install_with_size">Install (&lt;g id="appSize"&gt;%1$s&lt;/g&gt;)</string>
+  <string name="installed_list_state">Installed</string>
+  <string name="installed_section">Up to date</string>
+  <string name="installing">Installing…</string>
+  <string name="installing_app">Installing &lt;g id="app_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="internal_space_bar">"Can't download \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\", insufficient storage.</string>
+  <string name="internal_space_message">"This device doesn't have enough space to download \""&lt;g id="appname"&gt;%1$s&lt;/g&gt;\". Consider deleting apps or content you no longer need and try again.</string>
+  <string name="internal_space_title">Insufficient storage</string>
+  <string name="invalid_account_password">Invalid account password</string>
+  <string name="invalid_account_password_max_attempts_exceeded">The maximum number of login attempts has been reached.&lt;br&gt;&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Forgot password?&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="invalid_account_password_purchase_flow">The password you entered is incorrect.</string>
+  <string name="invalid_account_pin_max_attempts_exceeded">The maximum number of login attempts has been reached.&lt;br&gt;&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Reset PIN?&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="invalid_account_pin_purchase_flow">The PIN you entered is incorrect.</string>
+  <string name="invalid_address">Invalid address</string>
+  <string name="invalid_area">Invalid area</string>
+  <string name="invalid_city">Invalid city</string>
+  <string name="invalid_county_label">Invalid county</string>
+  <string name="invalid_credit_card_number">Invalid credit card number</string>
+  <string name="invalid_cvc">Invalid CVC</string>
+  <string name="invalid_department">Invalid department</string>
+  <string name="invalid_dependent_locality_label">Invalid district</string>
+  <string name="invalid_do_si">Invalid do</string>
+  <string name="invalid_email">Invalid e-mail address</string>
+  <string name="invalid_emirate">Invalid emirate</string>
+  <string name="invalid_entry">Invalid entry</string>
+  <string name="invalid_expiration_month">Invalid month</string>
+  <string name="invalid_expiration_year">Invalid year</string>
+  <string name="invalid_island">Invalid island</string>
+  <string name="invalid_locality_label">Invalid city</string>
+  <string name="invalid_name">Invalid name</string>
+  <string name="invalid_parish">Invalid parish</string>
+  <string name="invalid_phone">Invalid phone number</string>
+  <string name="invalid_pin">Invalid PIN</string>
+  <string name="invalid_postal_code_label">Invalid postal code</string>
+  <string name="invalid_prefecture">Invalid prefecture</string>
+  <string name="invalid_province">Invalid province</string>
+  <string name="invalid_state_label">Invalid state</string>
+  <string name="invalid_store_type_text">This version of the app isn’t compatible with your device. To fix this problem, go to Settings and uninstall updates for the Google Play Store app.</string>
+  <string name="invalid_zip_code_label">Invalid ZIP code</string>
+  <string name="item_unavailable_message">The item you requested is not available for purchase.</string>
+  <string name="join_google_plus">Join Google+</string>
+  <string name="last_name">Last name</string>
+  <string name="launch_error">"The requested item couldn't be found on this device so couldn't be launched."</string>
+  <string name="launcher_name">Play Store</string>
+  <string name="legal_notice_title">About Google</string>
+  <string name="limited_user_purchase_text">"You don't have permission to make purchases."</string>
+  <string name="limited_user_text">"You don't have permission to use Google Play store."</string>
+  <string name="link_email">Send email</string>
+  <string name="link_googleplus">Google+</string>
+  <string name="link_website">Visit webpage</string>
+  <string name="link_youtube">YouTube</string>
+  <string name="list_price">List price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="list_price_hd">HD List price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="list_price_rental">Rental list price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="list_price_rental_hd">HD rental list price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="list_price_rental_sd">SD rental list price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="list_price_sd">SD List price: &lt;g id="fullprice"&gt;%1$s&lt;/g&gt;</string>
+  <string name="listen">Listen</string>
+  <string name="loading">Loading…</string>
+  <string name="location_setting_description">Improve recommendations using my precise location, including from GPS</string>
+  <string name="location_setting_title">Use precise location</string>
+  <string name="magazine_buy_current">Buy &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="magazine_buy_current_long">Buy issue &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="magazine_delivery_frequency">Delivery</string>
+  <string name="magazine_device_availability">Device availability</string>
+  <string name="magazine_print_subscription_verification">Print subscription</string>
+  <string name="magazine_subscribe">Subscribe</string>
+  <string name="malicious_asset_removed_bar">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed.</string>
+  <string name="malicious_asset_removed_message">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed because it is known to damage your phone or cause loss of data. You will receive an email with details.</string>
+  <string name="malicious_asset_removed_title">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" has been removed.</string>
+  <string name="market_version">Version: &lt;g id="version_string"&gt;%1$s&lt;/g&gt;</string>
+  <string name="menu_debug_settings">Debug options</string>
+  <string name="menu_home">Store home</string>
+  <string name="menu_home_v2">Apps &amp; Games</string>
+  <string name="menu_my_wishlist">My wishlist</string>
+  <string name="more">More</string>
+  <string name="more_about_content_filter">More about parental controls.</string>
+  <string name="more_details">More details</string>
+  <string name="more_payment_settings">More payment settings</string>
+  <string name="more_results">&lt;g id="estimated_result_count"&gt;%1$d&lt;/g&gt; more</string>
+  <string name="more_results_no_count">more</string>
+  <string name="movie_audio_languages">Language</string>
+  <string name="movie_duration">Duration</string>
+  <string name="movie_preordered_through_bundle">"This movie is in a bundle you've pre-ordered"</string>
+  <string name="movie_rating">Rating</string>
+  <string name="movie_release_date">Released on</string>
+  <string name="movie_subtitle_languages">Subtitles</string>
+  <string name="multiple_items_2">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt; and &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;</string>
+  <string name="multiple_items_3">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, and &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;</string>
+  <string name="multiple_items_4">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, and &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;</string>
+  <string name="multiple_items_5">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;, and &lt;g id="apptitle5"&gt;%5$s&lt;/g&gt;</string>
+  <string name="multiple_items_6">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;, &lt;g id="apptitle5"&gt;%5$s&lt;/g&gt;, and &lt;g id="apptitle6"&gt;%6$s&lt;/g&gt;</string>
+  <string name="music_copyright">© &lt;g id="label_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="music_copyright_with_year">© &lt;g id="year"&gt;%1$s&lt;/g&gt; &lt;g id="label_name"&gt;%2$s&lt;/g&gt;</string>
+  <string name="music_download_required">To continue, you need the latest Play Music app</string>
+  <string name="music_from_album">From the album</string>
+  <string name="my_account_newsstand_subscriptions_description">Go to &lt;a href=\"https://payments.google.com/manage/#billingaccounts:epid=list\"&gt;payments.google.com&lt;/a&gt;, and select &lt;b&gt;Bills and accounts&lt;/b&gt; along the left side of your screen.</string>
+  <string name="my_account_newsstand_subscriptions_title">Newsstand subscriptions</string>
+  <string name="my_apps_tab_installed">Installed</string>
+  <string name="my_apps_tab_library">All</string>
+  <string name="my_apps_tab_subscriptions">Subscriptions</string>
+  <string name="my_downloads_menu">My apps</string>
+  <string name="my_rate_review">Rated on &lt;g id="date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="my_review">Your review</string>
+  <string name="my_wishlist_empty">There are no items in your wishlist. To add items, tap the bookmark whenever you see it in the menu above.</string>
+  <string name="name">Name</string>
+  <string name="name_expiration_month">Month</string>
+  <string name="name_expiration_year">Year</string>
+  <string name="name_label">Name</string>
+  <string name="name_on_card">Cardholder name</string>
+  <string name="needs_access_to">needs access to</string>
+  <string name="network_error">Check your connection and try again.</string>
+  <string name="network_error_title">No Internet Connection</string>
+  <string name="network_retry">Retry</string>
+  <string name="new_permission">&lt;g id="open_font_tag"&gt;&amp;lt;font color=\"#96AA39\"&amp;gt;&lt;/g&gt;NEW:&lt;g id="close_font_tag"&gt;&amp;lt;/font&amp;gt;&lt;/g&gt; &lt;g id="permission_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="news_offers_summary">Stay up to date with news and offers from Google Play</string>
+  <string name="news_offers_title">Receive news and offers</string>
+  <string name="newsstand_download_required">To continue, you need the latest Play Newsstand app</string>
+  <string name="newsstand_download_required_with_link_highlighting">To continue, you need the latest &lt;a href=\"\"&gt;Play Newsstand app&lt;/a&gt;</string>
+  <string name="no">No</string>
+  <string name="no_app_size">Not available</string>
+  <string name="no_connection_widget_dialog">Please connect to the network before adding this widget.</string>
+  <string name="no_dangerous_permissions">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; does not require any special permissions.</string>
+  <string name="no_dangerous_permissions_with_learn_more_link">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; does not require any special permissions. &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;Learn More&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="no_email_app">To send email, install and set up an email app.</string>
+  <string name="no_family_safe_results_for_query">No family-friendly results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\".</string>
+  <string name="no_filtered_reviews">There are no reviews matching these criteria.</string>
+  <string name="no_movie_rating">Not rated</string>
+  <string name="no_new_dangerous_permissions">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; does not require any additional special permissions.</string>
+  <string name="no_new_dangerous_permissions_with_learn_more_link">&lt;b&gt;&lt;g id="app_title"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; does not require any additional special permissions. &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;Learn More&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="no_order_history">You have no orders for this account.</string>
+  <string name="no_recommendation_data_error">No recommendations</string>
+  <string name="no_recs_found_error">No recommendations found.</string>
+  <string name="no_results">No results found.</string>
+  <string name="no_results_for_query">No results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\".</string>
+  <string name="no_results_for_query_apps">No app results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\". Extending the search to the entire Store.</string>
+  <string name="no_results_for_query_books">No book results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\". Extending the search to the entire Store.</string>
+  <string name="no_results_for_query_movies">No movie results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\". Extending the search to the entire Store.</string>
+  <string name="no_results_for_query_music">No music results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\". Extending the search to the entire Store.</string>
+  <string name="no_results_for_query_newsstand">No newsstand results found for \"&lt;g id="query"&gt;%1$s&lt;/g&gt;\". Extending the search to the entire Store.</string>
+  <string name="no_rewards">No rewards at this time.</string>
+  <string name="no_subscriptions">You have no subscriptions for this account.</string>
+  <string name="no_web_app">To view this content, install and set up a web browsing app.</string>
+  <string name="not_now">Not now</string>
+  <string name="notification_additional_data">Additional file for: &lt;g&gt;%s&lt;/g&gt;</string>
+  <string name="notification_installation_continue_message">Successfully installed. Tap to continue.</string>
+  <string name="notification_installation_success_message">Successfully installed.</string>
+  <string name="notification_installation_success_status">Successfully installed \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="notification_installing_message">Installing \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"&amp;#8230;</string>
+  <string name="notification_installing_status">Installing \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"&amp;#8230;</string>
+  <string name="notification_multiple_updates_more">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;, and &lt;g id="morecount"&gt;%5$d&lt;/g&gt; others</string>
+  <string name="notification_new_updates_available_status">New updates available</string>
+  <string name="notification_preregistration_released_subtitle">Install Now</string>
+  <string name="notification_preregistration_released_title">&lt;g id="item"&gt;%1$s&lt;/g&gt; is available!</string>
+  <string name="notification_server_notification_status">Message from Google Play</string>
+  <string name="notification_server_notification_title">Google Play notification</string>
+  <string name="notification_total_pending">&lt;g id="number"&gt;%1$s&lt;/g&gt; updates total are pending</string>
+  <string name="notification_update_1">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;</string>
+  <string name="notification_update_2">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt; and &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;</string>
+  <string name="notification_update_3">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, and &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;</string>
+  <string name="notification_update_4">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, and &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;</string>
+  <string name="notification_update_5">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;, and &lt;g id="apptitle5"&gt;%5$s&lt;/g&gt;</string>
+  <string name="notification_update_more">&lt;g id="apptitle1"&gt;%1$s&lt;/g&gt;, &lt;g id="apptitle2"&gt;%2$s&lt;/g&gt;, &lt;g id="apptitle3"&gt;%3$s&lt;/g&gt;, &lt;g id="apptitle4"&gt;%4$s&lt;/g&gt;, and &lt;g id="morecount"&gt;%5$d&lt;/g&gt; more</string>
+  <string name="notification_update_success_status">Successfully updated \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="notification_updating_message">Updating \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"&amp;#8230;</string>
+  <string name="notification_updating_status">Updating \"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\"&amp;#8230;</string>
+  <string name="numbered_title">&lt;g id="index"&gt;%1$d&lt;/g&gt;.&amp;#160;&lt;g id="title"&gt;%2$s&lt;/g&gt;</string>
+  <string name="offer_resolution_dialog_title">Purchase options</string>
+  <string name="ok">OK</string>
+  <string name="onboard_apps_games_text">A new home for apps &amp; games</string>
+  <string name="onboard_apps_tab">Apps &amp; Games</string>
+  <string name="onboard_center_button_content_description">Get started and continue to the Google Play Store</string>
+  <string name="onboard_center_button_label">Get Started</string>
+  <string name="onboard_entertainment_books_magazines">Discover books and news</string>
+  <string name="onboard_entertainment_movies_books">Discover movies and books</string>
+  <string name="onboard_entertainment_movies_books_magazines">Discover movies, books, and news</string>
+  <string name="onboard_entertainment_movies_magazines">Discover movies and news</string>
+  <string name="onboard_entertainment_movies_music">Discover movies and music</string>
+  <string name="onboard_entertainment_movies_music_books">Discover movies, music, and books</string>
+  <string name="onboard_entertainment_movies_music_books_more">Discover movies, music, books, and news</string>
+  <string name="onboard_entertainment_movies_music_magazines">Discover movies, music, and news</string>
+  <string name="onboard_entertainment_music_books">Discover music and books</string>
+  <string name="onboard_entertainment_music_books_magazines">Discover music, books, and news</string>
+  <string name="onboard_entertainment_music_magazines">Discover music and news</string>
+  <string name="onboard_entertainment_tab">Entertainment</string>
+  <string name="onboard_entertainment_title">Explore Entertainment</string>
+  <string name="onboard_play_text">The store with all things digital—millions of apps &amp; games, and an extensive entertainment catalog</string>
+  <string name="onboard_play_title">Welcome to Google Play</string>
+  <string name="one_star">1 star</string>
+  <string name="open">Open</string>
+  <string name="optional_permissions_help_screen_banner_text">New in Android 6.0</string>
+  <string name="optional_permissions_help_text">Apps built for Android 6.0 will ask for permissions once you start using them. &lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="original_air_date">Original air date: &lt;g id="content_level"&gt;%1$s&lt;/g&gt;</string>
+  <string name="os_licenses_label">Open source licenses</string>
+  <string name="os_licenses_summary">License details for open source software</string>
+  <string name="other_profile_empty_message">No Play activity yet</string>
+  <string name="own_profile_empty_message">No shared Google Play activity. Review or +1 the apps and content you love to recommend them to your friends.</string>
+  <string name="owned_by_other_account">You own this item with account &lt;b&gt;&lt;g id="account_name"&gt;%s&lt;/g&gt;&amp;lt;/b&amp;gt;</string>
+  <string name="owned_preorder_note">Pre-ordered and available &lt;g id="availability_date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="owned_preorder_note_no_sale_date">Pre-ordered</string>
+  <string name="package_malware_banner_blocked">Installation blocked:</string>
+  <string name="package_malware_banner_removed">This app has been removed:</string>
+  <string name="package_malware_banner_request_removal">Uninstall this app immediately:</string>
+  <string name="package_malware_banner_request_removal_question">Uninstall harmful app?</string>
+  <string name="package_malware_banner_warning">Do not install this app:</string>
+  <string name="package_malware_checkbox_label_dont_warn">"Don't warn again"</string>
+  <string name="package_malware_checkbox_label_i_understand">I understand and still want to install it</string>
+  <string name="package_malware_consent_text">"Allow Google to regularly check device activity for security problems, and prevent or warn about potential harm.
+
+Learn more in the Google Settings app."</string>
+  <string name="package_malware_dont_warn_unsafe">"Don't warn me again"</string>
+  <string name="package_malware_install">INSTALL ANYWAY</string>
+  <string name="package_malware_install_anyway_unsafe">Install anyway (unsafe)</string>
+  <string name="package_malware_keep">KEEP ANYWAY</string>
+  <string name="package_malware_keep_anyway_unsafe_caps">KEEP ANYWAY (UNSAFE)</string>
+  <string name="package_malware_more_details">More details</string>
+  <string name="package_malware_more_details_excerpt">"Even if you have heard of this app or the app developer, it's still dangerous to install an app from an untrusted source."</string>
+  <string name="package_malware_more_details_excerpt_autoscan">Even if you have heard of this app or the app developer, this version of the app could harm your device.</string>
+  <string name="parent_guide">Parent Guide</string>
+  <string name="password_dialog_title">Confirm password</string>
+  <string name="password_help_text">&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Forgot password?&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="password_protect_off">Go to Play store settings to enable password protection for added security.</string>
+  <string name="password_protect_on">Your purchases are password protected.</string>
+  <string name="payment_declined">Declined</string>
+  <string name="payment_declined_get_help">Get help</string>
+  <string name="payment_methods">Payment methods</string>
+  <string name="payment_success">Payment successful</string>
+  <string name="payment_success_auth_choices_description">"You can choose to be prompted for a password once every 30 minutes for purchases of all forms of digital content, including in-app purchases. However, authentication is always required for purchases through Google Play within apps designated for ages 12 and under.
+
+How often would you like to confirm your password for purchases?"</string>
+  <string name="payment_success_via_pin_auth_choices_description">"You can choose to be prompted for a PIN once every 30 minutes for purchases of all forms of digital content, including in-app purchases. However, authentication is always required for purchases through Google Play within apps designated for ages 12 and under.
+
+How often would you like to confirm your PIN for purchases?"</string>
+  <string name="perm_billing_desc">Allows the user to purchase items through Google Play from within this app.</string>
+  <string name="perm_billing_label">Google Play billing service</string>
+  <string name="perm_check_license_desc">Can check if you have a license for this app from Google Play.</string>
+  <string name="perm_check_license_label">Google Play license check</string>
+  <string name="permission_bucket_bluetooth_connection_info_desc">Allows the app to control Bluetooth, including broadcasting to or getting information about nearby Bluetooth devices.</string>
+  <string name="permission_bucket_bluetooth_connection_info_title">Bluetooth connection information</string>
+  <string name="permission_bucket_calendar_description">Uses calendar information</string>
+  <string name="permission_bucket_calendar_title">Calendar</string>
+  <string name="permission_bucket_camera_description">"Uses the device's camera(s)"</string>
+  <string name="permission_bucket_camera_title">Camera</string>
+  <string name="permission_bucket_contacts_description">Uses contact information</string>
+  <string name="permission_bucket_contacts_title">Contacts</string>
+  <string name="permission_bucket_device_and_app_history_description">Allows the app to view one or more of: information about activity on the device, which apps are running, browsing history and bookmarks</string>
+  <string name="permission_bucket_device_and_app_history_title">Device &amp; app history</string>
+  <string name="permission_bucket_device_id_and_call_information_description">Allows the app to determine the phone number and device IDs, whether a call is active, and the remote number connected by a call</string>
+  <string name="permission_bucket_device_id_and_call_information_title">Device ID &amp; call information</string>
+  <string name="permission_bucket_identity_description">Uses one or more of: accounts on the device, profile data</string>
+  <string name="permission_bucket_identity_title">Identity</string>
+  <string name="permission_bucket_in_app_purchases_description">Allows the user to make purchases from within this app</string>
+  <string name="permission_bucket_in_app_purchases_title">In-app purchases</string>
+  <string name="permission_bucket_location_description">"Uses the device's location"</string>
+  <string name="permission_bucket_location_title">Location</string>
+  <string name="permission_bucket_mic_description">"Uses the device's microphone(s)"</string>
+  <string name="permission_bucket_mic_title">Microphone</string>
+  <string name="permission_bucket_other_description">"Access specified by the device's manufacturer"</string>
+  <string name="permission_bucket_other_title">Other</string>
+  <string name="permission_bucket_phone_description">Uses one or more of: phone, call log. Charges may apply.</string>
+  <string name="permission_bucket_phone_title">Phone</string>
+  <string name="permission_bucket_photos_media_files_description">"Uses one or more of: files on the device, such as images, videos, or audio; the device's external storage"</string>
+  <string name="permission_bucket_photos_media_files_title">Photos/Media/Files</string>
+  <string name="permission_bucket_redirect_internet_traffic_description">Uses settings that control Internet traffic over cellular data</string>
+  <string name="permission_bucket_redirect_internet_traffic_title">Cellular data settings</string>
+  <string name="permission_bucket_sms_description">Uses one or more of: SMS, MMS. Charges may apply.</string>
+  <string name="permission_bucket_sms_title">SMS</string>
+  <string name="permission_bucket_wearables_title">Wearable sensors/activity data</string>
+  <string name="permission_bucket_wifi_connection_info_desc">Allows the app to view information about Wi-Fi networking, such as whether Wi-Fi is enabled and names of connected Wi-Fi devices</string>
+  <string name="permission_bucket_wifi_connection_info_title">Wi-Fi connection information</string>
+  <string name="permission_details">Permission details</string>
+  <string name="permissions_bucket_wearables_description">Allows the app to access data from wearable sensors, such as heart rate monitors. Can receive periodic updates on physical activity levels.</string>
+  <string name="permissions_flow_learn_more">LEARN MORE</string>
+  <string name="permissions_title">App permissions</string>
+  <string name="personalization_disabled">Personalization disabled</string>
+  <string name="personalization_enabled">Personalization enabled</string>
+  <string name="phone_number">Phone number</string>
+  <string name="photo_view_count" formatted="false">&lt;g id="current_pos"&gt;%d&lt;/g&gt; of &lt;g id="count"&gt;%d&lt;/g&gt;</string>
+  <string name="pin_confirm_label">Confirm PIN</string>
+  <string name="pin_confirm_summary">Confirm your selected PIN:</string>
+  <string name="pin_dialog_title">Confirm PIN</string>
+  <string name="pin_entry_hint_wrong_passcode">Incorrect PIN</string>
+  <string name="pin_entry_label">Enter content PIN</string>
+  <string name="pin_entry_summary">Enter PIN to modify parental controls:</string>
+  <string name="pin_hint">Type PIN</string>
+  <string name="pin_label">PIN</string>
+  <string name="pin_setup_label">Create content PIN</string>
+  <string name="pin_setup_summary">"You'll use this PIN to change settings for parental controls."</string>
+  <string name="play">Play</string>
+  <string name="play_accessibility_search_plate_back_button">Back</string>
+  <string name="play_accessibility_search_plate_clear">Clear</string>
+  <string name="play_accessibility_search_plate_menu_button">Menu</string>
+  <string name="play_accessibility_search_plate_search_button">Search</string>
+  <string name="play_accessibility_search_plate_voice_search_button">Voice Search</string>
+  <string name="play_all">play all</string>
+  <string name="play_card_friend_review_read_full_review_text">Read full review</string>
+  <string name="play_card_friend_review_read_less_text">Read less</string>
+  <string name="play_card_friend_review_reviewed_on">Reviewed on &lt;g id="review_date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="play_content_description_page_indicator">Page %1$s of %2$s</string>
+  <string name="play_download_is_requested">download is on</string>
+  <string name="play_download_not_requested">download is off</string>
+  <string name="play_drawer_close">Hide navigation drawer</string>
+  <string name="play_drawer_content_description_hide_account_list_button">Hide account list</string>
+  <string name="play_drawer_content_description_show_account_list_button">Show account list</string>
+  <string name="play_drawer_content_description_switch_account">Switch account to &lt;g&gt;%s&lt;/g&gt;</string>
+  <string name="play_drawer_open">Show navigation drawer</string>
+  <string name="play_drawer_title">Navigation</string>
+  <string name="play_games_install_suggestion_bullets">&lt;g id="bullet_spacer_1"&gt;&amp;#8226; &lt;/g&gt;Play games with your friends&lt;g id="bullet_spacer_2"&gt;&amp;lt;br/&amp;gt;&amp;#8226; &lt;/g&gt;See what games they&amp;#8217;re playing&lt;g id="bullet_spacer_3"&gt;&amp;lt;br/&amp;gt;&amp;#8226; &lt;/g&gt;Discover new games&lt;g id="bullet_spacer_4"&gt;&amp;lt;br/&amp;gt;&amp;#8226; &lt;/g&gt;Unlock and track achievements&lt;g id="bullet_spacer_5"&gt;&amp;lt;br/&amp;gt;&amp;#8226; &lt;/g&gt;Compare scores with other players</string>
+  <string name="play_games_install_suggestion_text">Your game will be downloaded and installed in the background. In the meantime, enhance your experience with the Play Games app:</string>
+  <string name="play_onboard_button_next">Next</string>
+  <string name="play_onboard_interstitial_grid_cell">grid_cell</string>
+  <string name="play_percent_downloaded">&lt;g id="download_percent"&gt;%1$d&lt;/g&gt;%% downloaded</string>
+  <string name="play_search_box_hint">Search Google Play</string>
+  <string name="play_search_box_hint_apps_games">Search Apps &amp; Games</string>
+  <string name="play_search_box_hint_books">Search Books</string>
+  <string name="play_search_box_hint_movies">Search Movies &amp; TV</string>
+  <string name="play_search_box_hint_music">Search Music</string>
+  <string name="play_search_box_hint_newsstand">Search Newsstand</string>
+  <string name="play_search_box_hint_tv">Search TV</string>
+  <string name="play_star_rating_content_description">Star rating: &lt;g id="rating"&gt;%1$s&lt;/g&gt;</string>
+  <string name="plus_one_multiple_friends_bold">&lt;b&gt;&lt;g id="first"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; and &amp;lt;b&amp;gt;&lt;g id="second"&gt;%2$s&lt;/g&gt;"&amp;lt;/b&amp;gt; +1'd this."</string>
+  <string name="plus_one_single_friend_bold">&lt;b&gt;&lt;g id="name"&gt;%1$s&lt;/g&gt;"&amp;lt;/b&amp;gt; +1'd this."</string>
+  <string name="plusone_sign">+1</string>
+  <string name="preorder">Pre-order &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="preorder_hd">Pre-order HD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="preorder_sd">Pre-order SD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="preordered_list_state">Pre-ordered</string>
+  <string name="preregistration_add">Pre-register</string>
+  <string name="preregistration_add_error">&lt;g id="item"&gt;%1$s&lt;/g&gt; could not be pre-registered</string>
+  <string name="preregistration_coming_soon">Coming Soon</string>
+  <string name="preregistration_dialog_message">"You'll be notified when the app is released. Share the news with your friends!"</string>
+  <string name="preregistration_dialog_positive_button">Got it</string>
+  <string name="preregistration_dialog_supertitle">"You've pre-registered for"</string>
+  <string name="preregistration_extra_label">Coming Soon</string>
+  <string name="preregistration_registered">Registered</string>
+  <string name="preregistration_remove">Unregister</string>
+  <string name="preregistration_remove_error">&lt;g id="item"&gt;%1$s&lt;/g&gt; could not be removed from pre-registration</string>
+  <string name="privacy_policy">Privacy policy</string>
+  <string name="public_reviews_message">Reviews are linked to your account and are public</string>
+  <string name="purchase_auth_choice_everytime">EVERY TIME</string>
+  <string name="purchase_auth_choice_session">EVERY 30 MIN</string>
+  <string name="purchase_auth_dialog_label">Require authentication</string>
+  <string name="purchase_auth_message_always">Based on your current settings, authentication is required for every digital content purchase through Google Play (including within apps) on this device. &lt;g id="open_settings"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Change settings&lt;g id="close_settings"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt; or &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;.</string>
+  <string name="purchase_auth_message_never">Disabling authentication may result in unauthorized purchases. You assume responsibility for all charges. &lt;g id="open_settings"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Change settings&lt;g id="close_settings"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt; or &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;.</string>
+  <string name="purchase_auth_message_session">Every time you authenticate for a purchase, you can continue to buy all forms of digital content through Google Play (including within apps) for the next 30 minutes without authenticating again. However, authentication is always required for purchases through Google Play within apps designated for ages 12 and under. &lt;g id="open_settings"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Change settings&lt;g id="close_settings"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt; or &lt;g id="open_url"&gt;&amp;lt;a href=\"%2$s\"&amp;gt;&lt;/g&gt;learn more&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;.</string>
+  <string name="purchase_auth_settings_label">Require authentication for purchases</string>
+  <string name="purchase_auth_underage_disclaimer">Authentication is always required for purchases through Google Play within apps designated for ages 12 and under.</string>
+  <string name="purchase_auth_value_always">For all purchases through Google Play on this device</string>
+  <string name="purchase_auth_value_never">Never</string>
+  <string name="purchase_auth_value_session">Every 30 minutes</string>
+  <string name="purchase_flow_start_description">&lt;g id="item_title"&gt;%1$s&lt;/g&gt;, &lt;g id="formatted_price"&gt;%2$s&lt;/g&gt;</string>
+  <string name="purchase_or_rent_resolution">From &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="purchase_resolution">Buy from &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="purchased_list_state">Purchased</string>
+  <string name="quick_suggestions_skipped">Come back later for more suggestions.</string>
+  <string name="rate_all_done">"You're done. Go Play!"</string>
+  <string name="rate_review_books_tip">The most helpful reviews are 100 words or more.</string>
+  <string name="rate_review_title">Rate &lt;g id="item_title"&gt;%1$s&lt;/g&gt;</string>
+  <string name="rate_this_app">Rate this app</string>
+  <string name="rate_this_book">Rate this book</string>
+  <string name="rate_this_book_series">Rate this book series</string>
+  <string name="rate_this_movie">Rate this movie</string>
+  <string name="rate_this_music_album">Rate this album</string>
+  <string name="rate_this_music_track">Rate this track</string>
+  <string name="rate_this_publication">Rate this publication</string>
+  <string name="rate_this_tv_episode">Rate this episode</string>
+  <string name="rate_this_tv_season">Rate this season</string>
+  <string name="rate_this_tv_show">Rate this show</string>
+  <string name="rating_submitted">Thanks for rating!</string>
+  <string name="read">Read</string>
+  <string name="read_more">READ MORE</string>
+  <string name="recently_updated_section">Recently updated</string>
+  <string name="recover_pin_help_text">&lt;g id="open_url"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Forgot PIN?&lt;g id="close_url"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="redeem_gift_card_button">Redeem</string>
+  <string name="redeem_gift_card_menu">Redeem</string>
+  <string name="redeem_screen_footer">Gift Card &amp; Promotional Code &lt;g id="link_start"&gt;&amp;lt;a href=\"%1$s\"&amp;gt;&lt;/g&gt;Terms and Conditions&lt;g id="link_end"&gt;&amp;lt;/a&amp;gt;&lt;/g&gt;</string>
+  <string name="redeem_screen_title">Redeem your code</string>
+  <string name="refund">Refund</string>
+  <string name="refund_reason_accidental_purchase">I purchased this item by accident</string>
+  <string name="refund_reason_defective">"Item is defective or doesn't work"</string>
+  <string name="refund_reason_fraud">"I don't recognize this purchase"</string>
+  <string name="refund_reason_friendly_fraud">Purchase was made by a friend or family</string>
+  <string name="refund_reason_remorse">I no longer want this item</string>
+  <string name="refund_reason_undelivered">"I purchased but didn't received this item"</string>
+  <string name="refund_survey_comment_hint">Please describe your issue</string>
+  <string name="refund_survey_dialog_title">Tell us about your refund request</string>
+  <string name="refunded">Your purchase has been refunded.</string>
+  <string name="refunding">Refunding…</string>
+  <string name="related_videos">Related Videos</string>
+  <string name="rent">Rent &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="rent_hd">Rent HD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="rent_resolution">Rent from &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="rent_sd">Rent SD &lt;g id="price"&gt;%1$s&lt;/g&gt;</string>
+  <string name="rented_list_state">Rented</string>
+  <string name="report_ad_problem">Report an ad problem</string>
+  <string name="request_refund_confirmation_title">Submit request?</string>
+  <string name="restart_required">Restart your device now to ensure proper operation of Google Play Store.</string>
+  <string name="restriction_pin_enter_admin_pin">Enter administrator PIN</string>
+  <string name="retry">Retry</string>
+  <string name="revert_translation">Revert</string>
+  <string name="review_account_message">Review your account to continue installing apps on Google Play.</string>
+  <string name="review_by">Review by &lt;g id="user_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="review_delete_retry">"The review couldn't be deleted, please try again."</string>
+  <string name="review_deleted_error">"Couldn't delete review."</string>
+  <string name="review_dialog_above_average">Liked it</string>
+  <string name="review_dialog_average">"It's OK"</string>
+  <string name="review_dialog_below_average">Disliked it</string>
+  <string name="review_dialog_body_hint">Description</string>
+  <string name="review_dialog_content_hint">Tell us what you think</string>
+  <string name="review_dialog_excellent">Loved it</string>
+  <string name="review_dialog_poor">Hated it</string>
+  <string name="review_dialog_subject_hint">Title</string>
+  <string name="review_dialog_title">Rate it!</string>
+  <string name="review_dialog_unrated">Tap on the stars</string>
+  <string name="review_edited_after_developer_reply">(edited)</string>
+  <string name="review_error">Unable to create a review.</string>
+  <string name="review_feedback_dialog_choice_helpful">Helpful</string>
+  <string name="review_feedback_dialog_choice_spam">Spam</string>
+  <string name="review_feedback_dialog_choice_spam_undo">Unmark as spam</string>
+  <string name="review_feedback_dialog_choice_unhelpful">Unhelpful</string>
+  <string name="review_feedback_dialog_title">Mark comment as</string>
+  <string name="review_feedback_icon_description">Rate this comment</string>
+  <string name="review_feedback_mark_helpful_icon_description">Mark comment as helpful</string>
+  <string name="review_feedback_posted">Thanks for your feedback!</string>
+  <string name="review_feedback_posted_error">"Couldn't rate comment."</string>
+  <string name="review_feedback_undo">Undo</string>
+  <string name="review_older_version">For an older version</string>
+  <string name="review_older_version_with_device_name">&lt;g id="device_name"&gt;%1$s&lt;/g&gt; for an older version</string>
+  <string name="review_reply_after_edit_subtitle">Replied to a previous version of this review on &lt;g id="reply_date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="review_reply_after_edit_title">&lt;b&gt;&lt;g id="developer_name"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; replied to a previous version of this review on &lt;g id="reply_date"&gt;%2$s&lt;/g&gt;</string>
+  <string name="review_reply_date">Replied on &lt;g id="reply_date"&gt;%1$s&lt;/g&gt;</string>
+  <string name="review_reply_no_date_title">&lt;b&gt;Reply from &lt;g id="developer_name"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;</string>
+  <string name="review_reply_title">&lt;b&gt;Reply from &lt;g id="developer_name"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt; on &lt;g id="reply_date"&gt;%2$s&lt;/g&gt;</string>
+  <string name="review_snippets_footer">Read all reviews</string>
+  <string name="review_snippets_title">Review highlights</string>
+  <string name="reviews_count_label">&lt;b&gt;Reviews:&lt;/b&gt; &lt;g id="number"&gt;%1$s&lt;/g&gt;</string>
+  <string name="reviews_filter_by_device_model">From this device model only</string>
+  <string name="reviews_filter_by_version">Latest version only</string>
+  <string name="reviews_filter_options">Options</string>
+  <string name="reviews_section_title">Recommended reviews</string>
+  <string name="reviews_sort_by_date">Newest first</string>
+  <string name="reviews_sort_by_helpfulness">Most helpful first</string>
+  <string name="reviews_sort_by_rating">Highest rating first</string>
+  <string name="rotten_tomatoes_percent">%</string>
+  <string name="sample">Free sample</string>
+  <string name="save">Save</string>
+  <string name="save_review">Save</string>
+  <string name="saving">Saving…</string>
+  <string name="screenshots_not_loaded">"Couldn't load screenshots."</string>
+  <string name="search_hint">Search Google Play</string>
+  <string name="search_instead_question">Search instead for:</string>
+  <string name="search_result_title">&lt;g id="search_term"&gt;%1$s&lt;/g&gt;</string>
+  <string name="search_result_title_long">Search results for \"&lt;g id="search_term"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="season_only_purchase">Season only</string>
+  <string name="section_more_results">More</string>
+  <string name="select_account">Choose Google Account</string>
+  <string name="select_carrier">Select carrier</string>
+  <string name="select_environment">Select environment</string>
+  <string name="select_location">Select location</string>
+  <string name="server_error">Server error</string>
+  <string name="settings">Settings</string>
+  <string name="settings_about_header">About</string>
+  <string name="settings_build_version">Build version</string>
+  <string name="settings_general_section_header">General</string>
+  <string name="settings_notifications_section_header">Notifications</string>
+  <string name="settings_self_update_new_version_no">Google Play Store is up to date</string>
+  <string name="settings_self_update_new_version_yes">A new version of Google Play Store will be downloaded and installed</string>
+  <string name="settings_user_controls_section_header">User controls</string>
+  <string name="setup_account_fatal_error">Unfortunately, there was an error loading your account info.</string>
+  <string name="setup_account_primer">"Add a payment option to complete your account. &lt;b&gt;You won't be charged unless you make a purchase.&lt;/b&gt;"</string>
+  <string name="setup_account_remind_me_later">Remind me later</string>
+  <string name="setup_account_skip">Skip</string>
+  <string name="setup_account_success">"You're good to go, your account is set up."</string>
+  <string name="setup_account_title">Complete account setup</string>
+  <string name="setup_wifi_button">Set up Wi-Fi</string>
+  <string name="setup_wizard_all_apps">All apps</string>
+  <string name="setup_wizard_apps_selection_title">Also include</string>
+  <string name="setup_wizard_back_button_label">Back</string>
+  <string name="setup_wizard_device_last_used_today_message">Last used today</string>
+  <string name="setup_wizard_device_prompt">Restore from this backup</string>
+  <string name="setup_wizard_ellipse_double">‥</string>
+  <string name="setup_wizard_ellipse_single">․</string>
+  <string name="setup_wizard_ellipse_triple">…</string>
+  <string name="setup_wizard_market_setup_title">Entertainment</string>
+  <string name="setup_wizard_next_button_label">Next</string>
+  <string name="setup_wizard_no_apps_selected">No apps selected</string>
+  <string name="setup_wizard_play_add_fop_title">Set up payment info</string>
+  <string name="setup_wizard_redeem_confirmation_title">Confirm your redemption</string>
+  <string name="setup_wizard_restore_apps_dialog_title">All apps</string>
+  <string name="setup_wizard_restore_apps_header">Get your apps &amp; data</string>
+  <string name="setup_wizard_restore_apps_snippet">Backups include apps, app data, system settings and Wi-Fi passwords.</string>
+  <string name="setup_wizard_restore_apps_title">Easily set up your new device by restoring from a backup of another device.</string>
+  <string name="setup_wizard_restore_device_dialog_title">Restore from</string>
+  <string name="setup_wizard_restore_title">Restoring</string>
+  <string name="setup_wizard_setup_account_primer">"Enter your billing information. &lt;b&gt;You won't be charged unless you make a purchase.&lt;/b&gt;"</string>
+  <string name="setup_wizard_setup_as_new_option">Set up as new device</string>
+  <string name="share">Share</string>
+  <string name="share_dialog_title">Share \"&lt;g id="document_title"&gt;%1$s&lt;/g&gt;\" via</string>
+  <string name="share_google_plus">Share on Google+</string>
+  <string name="share_subject">Check out \"&lt;g id="document_title"&gt;%1$s&lt;/g&gt;\"</string>
+  <string name="share_subject_preregistration">\"&lt;g id="document_title"&gt;%1$s&lt;/g&gt;\" is coming soon. Pre-register today.</string>
+  <string name="show_all_search_results_title">Show all results</string>
+  <string name="show_all_surveys_off">Showing of all surveys is disabled</string>
+  <string name="show_all_surveys_on">Showing of all surveys is enabled</string>
+  <string name="show_all_surveys_title">Show all surveys</string>
+  <string name="show_staging_data_off">Prod data currently shown</string>
+  <string name="show_staging_data_on">Staging data currently shown</string>
+  <string name="show_staging_data_title">Show staging promo data</string>
+  <string name="side_drawer_my_account">My account</string>
+  <string name="side_drawer_opened_breadcrumb">Google Play</string>
+  <string name="side_drawer_shop">Shop</string>
+  <string name="side_drawer_social_home">People</string>
+  <string name="simplified_permissions_learn_more">"We've simplified app permissions."</string>
+  <string name="skip">Skip</string>
+  <string name="skip_track">next</string>
+  <string name="sort_reviews">Sort reviews</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stop_all_downloads">Stop</string>
+  <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+  <string name="store_picture_title">Save image</string>
+  <string name="submit">Submit</string>
+  <string name="submit_review">Submit</string>
+  <string name="subscribed_list_state">Subscribed</string>
+  <string name="subscription_already_owned">You already own this subscription.</string>
+  <string name="subscription_canceled">Canceled</string>
+  <string name="subscription_charges_on">First payment: &lt;b&gt;&lt;g id="date"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;</string>
+  <string name="subscription_expires_on">Ends on: &lt;b&gt;&lt;g id="date"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;</string>
+  <string name="subscription_renewing">Subscribed</string>
+  <string name="subscription_renews_on">Next payment: &lt;b&gt;&lt;g id="date"&gt;%1$s&lt;/g&gt;&amp;lt;/b&amp;gt;</string>
+  <string name="subscription_trial">Trial</string>
+  <string name="suggestion_question">Did you mean:</string>
+  <string name="survey_answer_neutral">Neither satisfied nor dissatisfied</string>
+  <string name="survey_answer_somewhat_dissatisfiled">Somewhat dissatisfied</string>
+  <string name="survey_answer_somewhat_satisfiled">Somewhat satisfied</string>
+  <string name="survey_answer_very_dissatisfiled">Very dissatisfied</string>
+  <string name="survey_answer_very_satisfiled">Very satisfied</string>
+  <string name="survey_completed_toast">Thanks for your feedback!</string>
+  <string name="survey_prompt_subtitle_survey">Answer a quick question</string>
+  <string name="survey_prompt_title_improve">Help improve Google Play</string>
+  <string name="survey_prompt_title_search_results">Satisfied with these results?</string>
+  <string name="survey_question_overall_store_happiness">How satisfied are you with Play Store?</string>
+  <string name="three_star">3 stars</string>
+  <string name="timeout_error">Connection timed out.</string>
+  <string name="tipper_sticker_bonus_tracks">Bonus tracks</string>
+  <string name="tipper_sticker_edited_content">Clean</string>
+  <string name="tipper_sticker_explicit_content">Explicit</string>
+  <string name="tipper_sticker_remastered">Remastered</string>
+  <string name="tipper_sticker_remix">Remix</string>
+  <string name="titles" formatted="false">&lt;g id="title"&gt;%s&lt;/g&gt;, &lt;g id="subtitle"&gt;%s&lt;/g&gt;</string>
+  <string name="top_charts_cluster_action_button">See Chart</string>
+  <string name="topup_choose_amount">Choose amount</string>
+  <string name="topup_not_available">Cannot add to balance, try again later.</string>
+  <string name="topup_success">Added &lt;g id="formatted_price"&gt;%1$s&lt;/g&gt; to Google Play balance.</string>
+  <string name="tos_locale_replacement"/>
+  <string name="track_pause">PAUSE</string>
+  <string name="track_play">PLAY</string>
+  <string name="translate">Translate</string>
+  <string name="try_again">Try again</string>
+  <string name="tv_install_pending">Install pending…</string>
+  <string name="two_star">2 stars</string>
+  <string name="uninstall">Uninstall</string>
+  <string name="uninstall_app_msg">Do you want to uninstall this app?</string>
+  <string name="uninstall_app_msg_active_subscriptions">Your active subscriptions will not be canceled. Do you still want to uninstall?</string>
+  <string name="uninstall_blocked_warning">Per your administrator, this app may not be uninstalled.</string>
+  <string name="uninstall_manager_done">"You're ready to continue your install!"</string>
+  <string name="uninstall_manager_no_results">No installed apps found</string>
+  <string name="uninstall_manager_selected_space">&lt;g id="space_selected"&gt;%1$s&lt;/g&gt; selected for uninstall</string>
+  <string name="uninstall_manager_size_error">Error getting app size</string>
+  <string name="uninstall_manager_sort_by_name">Sort by name</string>
+  <string name="uninstall_manager_sort_by_size">Sort by size</string>
+  <string name="uninstall_manager_space_to_free">Free up &lt;g id="space_needed"&gt;%1$s&lt;/g&gt; more to continue installing</string>
+  <string name="uninstall_manager_subtitle">"It seems like you're low on space. You can manually remove apps below to free up storage."</string>
+  <string name="uninstall_manager_title">Insufficient storage</string>
+  <string name="uninstall_non_owned_app_msg">This app was not installed by Google Play Store. Do you want to uninstall it?</string>
+  <string name="uninstall_refund_confirmation_body">Are you sure you want to refund this purchase? The app will be uninstalled.</string>
+  <string name="uninstall_refund_fail_body">"Can't give you a refund at this time.
+
+Try uninstalling later."</string>
+  <string name="uninstall_system_updates_msg">Do you want to uninstall all updates to this Android system app?</string>
+  <string name="uninstalling">Uninstalling…</string>
+  <string name="unsupported_page">"This page isn't supported by this client."</string>
+  <string name="update">Update</string>
+  <string name="update_all">Update all</string>
+  <string name="updates_available_section">Updates</string>
+  <string name="updates_list_state">Update</string>
+  <string name="updating">Updating…</string>
+  <string name="use_password">Use password</string>
+  <string name="use_pin">Use PIN</string>
+  <string name="use_wifi_checkbox">Download using Wi-Fi only</string>
+  <string name="use_wifi_limit_on_mobile">"This app will start to download when Wi-Fi is available. It's too large to fetch over a mobile network."</string>
+  <string name="use_wifi_limit_on_wifi">This large app will continue downloading while Wi-Fi is available. If the Wi-Fi connection disappears, downloading will pause.</string>
+  <string name="use_wifi_proceed_button">Proceed</string>
+  <string name="use_wifi_title">Downloading a large app</string>
+  <string name="use_wifi_warning">This app is very large. To avoid potential delays or extra data usage charges, use Wi-Fi only.</string>
+  <string name="verify">Verify</string>
+  <string name="verify_app_chooser_label">Verify and install</string>
+  <string name="verify_app_notification_text">\"&lt;g id="appname"&gt;%1$s&lt;/g&gt;\" can damage your device.</string>
+  <string name="verify_app_remove_request_notification_title">Uninstall harmful app</string>
+  <string name="verify_app_removed_notification_title">Removed app</string>
+  <string name="verify_pin_title">Verifying Account</string>
+  <string name="version_can_access">Version &lt;g id="version"&gt;%1$s&lt;/g&gt; can access</string>
+  <string name="version_may_request_access">Version &lt;g id="version"&gt;%1$s&lt;/g&gt; may request access to</string>
+  <string name="videos_download_required">To continue, you need the latest Play Movies app</string>
+  <string name="view">View</string>
+  <string name="view_bundle">View Bundle</string>
+  <string name="view_storage_button_text">View Storage</string>
+  <string name="voucher_section_has_selected">Choose or remove reward</string>
+  <string name="voucher_section_none_selected">Choose a reward</string>
+  <string name="wallet_im_card_number">Card number</string>
+  <string name="wallet_im_content_description_expand_credit_card">Expand credit card information</string>
+  <string name="wallet_im_cvc">CVC</string>
+  <string name="wallet_im_cvc_code_popup_amex_description">&lt;b&gt;American Express&lt;/b&gt;"
+The CVC is the four digits located on the front of the card, on the right side."</string>
+  <string name="wallet_im_cvc_code_popup_content_description">More information about CVC.</string>
+  <string name="wallet_im_cvc_code_popup_default_description">&lt;b&gt;Discover, MasterCard, Visa, and Visa Electron&lt;/b&gt;"
+The CVC is the last three digits of the number that appears on the back of your card in the signature bar."</string>
+  <string name="wallet_im_error_creditcard_number_invalid">Invalid credit card number</string>
+  <string name="wallet_im_error_cvc_invalid">Invalid CVC</string>
+  <string name="wallet_im_error_title">Error</string>
+  <string name="wallet_im_hide_card_logos">Hide accepted cards</string>
+  <string name="wallet_im_redirect_form_whitelist_error">Unable to complete your request because the page could not be verified. Please choose another payment method and try again.</string>
+  <string name="wallet_im_scan_credit_card">Scan credit card</string>
+  <string name="wallet_im_send_sms_for_dcb_error">The account verification SMS could not be sent. Please try again.</string>
+  <string name="wallet_im_unknown_error">"We couldn't complete your request. Please retry or try again later."</string>
+  <string name="wallet_im_view_card_logos">View accepted cards</string>
+  <string name="wallet_uic_accessibility_event_form_field_error">Field: %1$s, error: %2$s</string>
+  <string name="wallet_uic_accessibility_event_form_field_text">%1$s %2$s</string>
+  <string name="wallet_uic_address_field_address_line_1">Street address</string>
+  <string name="wallet_uic_address_field_address_line_2">Apt./Suite</string>
+  <string name="wallet_uic_address_field_address_line_3"/>
+  <string name="wallet_uic_address_field_admin_area_area">Area</string>
+  <string name="wallet_uic_address_field_admin_area_county">County</string>
+  <string name="wallet_uic_address_field_admin_area_department">Department</string>
+  <string name="wallet_uic_address_field_admin_area_district">District</string>
+  <string name="wallet_uic_address_field_admin_area_do_si">Do Si</string>
+  <string name="wallet_uic_address_field_admin_area_emirate">Emirate</string>
+  <string name="wallet_uic_address_field_admin_area_island">Island</string>
+  <string name="wallet_uic_address_field_admin_area_parish">Parish</string>
+  <string name="wallet_uic_address_field_admin_area_prefecture">Prefecture</string>
+  <string name="wallet_uic_address_field_admin_area_province">Province</string>
+  <string name="wallet_uic_address_field_admin_area_region">Region</string>
+  <string name="wallet_uic_address_field_admin_area_state">State</string>
+  <string name="wallet_uic_address_field_country">Country</string>
+  <string name="wallet_uic_address_field_dependent_locality"/>
+  <string name="wallet_uic_address_field_locality">City</string>
+  <string name="wallet_uic_address_field_organization">Organization</string>
+  <string name="wallet_uic_address_field_postal_code">Postal code</string>
+  <string name="wallet_uic_address_field_sorting_code">CEDEX</string>
+  <string name="wallet_uic_address_field_zip_code">ZIP code</string>
+  <string name="wallet_uic_close">Close</string>
+  <string name="wallet_uic_content_description_edit_address">Edit address</string>
+  <string name="wallet_uic_error_address_field_invalid">Invalid %s</string>
+  <string name="wallet_uic_error_email_address_invalid">Invalid email address</string>
+  <string name="wallet_uic_error_expired_credit_card">Expired credit card</string>
+  <string name="wallet_uic_error_field_must_be_complete">Incomplete field</string>
+  <string name="wallet_uic_error_field_must_not_be_empty">Required field</string>
+  <string name="wallet_uic_error_loading_page">Error loading the page.</string>
+  <string name="wallet_uic_error_month_invalid">Invalid month</string>
+  <string name="wallet_uic_error_only_numeric_digits_allowed">Only numeric digits are allowed.</string>
+  <string name="wallet_uic_error_year_invalid">Invalid year</string>
+  <string name="wallet_uic_error_year_must_not_be_empty">Year required</string>
+  <string name="wallet_uic_exp_date">MM/YY</string>
+  <string name="wallet_uic_exp_date_separator">/</string>
+  <string name="wallet_uic_network_error_message">A network connection is required to complete this task. Please connect to a Wi-Fi or data network.</string>
+  <string name="wallet_uic_network_error_title">No Internet Connection</string>
+  <string name="wallet_uic_phone_number">Phone number</string>
+  <string name="wallet_uic_retry">Retry</string>
+  <string name="wallet_uic_select_location">Select location</string>
+  <string name="warm_welcome_own_profile_body">Your shared Google Play activity, like reviews and +1s, is shown here. Rate the apps and content you love to share your recommendations with the world!</string>
+  <string name="warm_welcome_own_profile_got_it">Got it</string>
+  <string name="warm_welcome_own_profile_title">Welcome</string>
+  <string name="widget_apps">Play Store</string>
+  <string name="widget_books_now_playing">My Books</string>
+  <string name="widget_configuration_needed">Touch to set up</string>
+  <string name="widget_consumption_app_disabled">Touch to re-enable &lt;g id="app_name"&gt;%1$s&lt;/g&gt;</string>
+  <string name="widget_consumption_app_uninstalled">Touch to install</string>
+  <string name="widget_games_now_playing">My Games</string>
+  <string name="widget_hotseat_title">Explore great content on Google Play</string>
+  <string name="widget_movies_now_playing">My Movies</string>
+  <string name="widget_music_now_playing">My Music</string>
+  <string name="widget_newsstand_now_playing">My Newsstand</string>
+  <string name="widget_now_playing">My Library</string>
+  <string name="widget_now_playing_family">Play - My Library</string>
+  <string name="widget_recommended">Play Recommendations</string>
+  <string name="widget_welcome_empty_legend">Your recent Google Play items will appear here</string>
+  <string name="wishlist_add">Add to wishlist</string>
+  <string name="wishlist_add_error">&lt;g id="item"&gt;%1$s&lt;/g&gt; could not be added to wishlist</string>
+  <string name="wishlist_adding">Adding to wishlist…</string>
+  <string name="wishlist_remove">Remove from wishlist</string>
+  <string name="wishlist_remove_error">&lt;g id="item"&gt;%1$s&lt;/g&gt; could not be removed from wishlist</string>
+  <string name="wishlist_removing">Removing from wishlist…</string>
+  <string name="yes">Yes</string>
+  <string name="your_review_label">you</string>
+</resources>

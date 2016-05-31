@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NalbumsWordCase">
+        <item quantity="other">&lt;g example="3" id="number">%1$d&lt;/g> Albums</item>
+        <item quantity="one">1 Album</item>
+    </plurals>
+    <plurals name="NsongsWordCase">
+        <item quantity="other">&lt;g example="27" id="number">%1$d&lt;/g> Songs</item>
+        <item quantity="one">1 Song</item>
+    </plurals>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">&lt;g example="27" id="number">%d&lt;/g> songs added to the library.</item>
+        <item quantity="one">1 song added to the library.</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">&lt;g example="27" id="number">%1$d&lt;/g> songs added to &lt;g example="Playlist 1" id="playlist_name">%2$s&lt;/g>.</item>
+        <item quantity="one">1 song added to &lt;g example="Playlist 1" id="playlist_name">%2$s&lt;/g>.</item>
+    </plurals>
+    <plurals name="NNsong_added">
+        <item quantity="other">Only &lt;g example="12" id="toadd">%1$d&lt;/g> songs added. Queue max is &lt;g example="500" id="maxsize">%2$d&lt;/g> songs.</item>
+        <item quantity="one">Only 1 song added. Queue max is &lt;g example="500" id="maxsize">%2$d&lt;/g> songs.</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">&lt;g example="3" id="number">%1$d&lt;/g> ALBUMS</item>
+        <item quantity="one">1 ALBUM</item>
+    </plurals>
+    <plurals name="NartistsSelected">
+        <item quantity="other">&lt;g example="3" id="number">%1$d&lt;/g> artists selected</item>
+        <item quantity="one">1 artist selected</item>
+    </plurals>
+    <plurals name="NgenresSelected">
+        <item quantity="other">&lt;g example="3" id="number">%1$d&lt;/g> genres selected</item>
+        <item quantity="one">1 genre selected</item>
+    </plurals>
+    <plurals name="Nscrubber_description_hours">
+        <item quantity="other">&lt;g example="3" id="number">%d&lt;/g> hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="Nscrubber_description_minutes">
+        <item quantity="other">&lt;g example="3" id="number">%d&lt;/g> minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="Nscrubber_description_seconds">
+        <item quantity="other">&lt;g example="3" id="number">%d&lt;/g> seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">&lt;g example="27" id="number">%1$d&lt;/g> songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nsongs_removed">
+        <item quantity="other">&lt;g example="27" id="number">%d&lt;/g> songs removed.</item>
+        <item quantity="one">Song removed.</item>
+    </plurals>
+</resources>

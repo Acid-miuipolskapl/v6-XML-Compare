@@ -31,9 +31,9 @@
         <item>Mobile data yesterday</item>
         <item>Mobile data today</item>
         <item>Mobile data this month</item>
-        <item>WLAN yesterday</item>
-        <item>WLAN today</item>
-        <item>WLAN this month</item>
+        <item>Wi-Fi yesterday</item>
+        <item>Wi-Fi today</item>
+        <item>Wi-Fi this month</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Mobile data yesterday</item>
@@ -51,16 +51,16 @@
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobile usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"Wi-Fi usage "</item>
         <item>"Data saved "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobile usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"Wi-Fi usage "</item>
     </string-array>
     <string-array name="traffic_sort_type">
         <item>"Mobile data usage "</item>
-        <item>"WLAN usage "</item>
+        <item>"Wi-Fi usage "</item>
         <item>"Data saved "</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">

@@ -76,7 +76,7 @@
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Visibility</string>
   <string name="information_manager_information">Weather info</string>
-  <string name="information_manager_wlan">Load when connected to WLAN</string>
+  <string name="information_manager_wlan">Load when connected to Wi-Fi</string>
   <string name="information_menu_title"/>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>

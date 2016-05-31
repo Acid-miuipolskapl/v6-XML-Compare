@@ -46,8 +46,8 @@
   <string name="url_is_unsafety">"This site poses a risk to your data's security."</string>
   <string name="web">Website:</string>
   <string name="website_details">Website details:</string>
-  <string name="wifi_details">WLAN details:</string>
-  <string name="wifi_open_fail">"Can't open WLAN"</string>
+  <string name="wifi_details">Wi-Fi details:</string>
+  <string name="wifi_open_fail">"Can't open Wi-Fi"</string>
   <string name="wifi_pwd">Password:</string>
   <string name="wifi_security">Security:</string>
   <string name="wifi_ssid">SSID:</string>
