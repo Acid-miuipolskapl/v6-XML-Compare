@@ -39,7 +39,7 @@
   <string name="err_type_system">System</string>
   <string name="err_type_system_summary">Memory, performance, etc.</string>
   <string name="err_type_systemapp">MIUI apps</string>
-  <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_wifi">WLAN</string>
   <string name="err_type_xiaomi_family">Mi Family</string>
   <string name="err_type_xiaomi_service">Customer service</string>
   <string name="hot_problem">View common bugs</string>
@@ -67,8 +67,8 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Cancel</string>
   <string name="submit_dialog_confirm">Submit</string>
-  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to Wi-Fi."</string>
-  <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to Wi-Fi."</string>
+  <string name="submit_dialog_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
+  <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
   <string name="submit_dialog_title">Send bug report</string>
   <string name="suggestion_description">Add description here</string>
   <string name="system_app_select">Built-in apps</string>
@@ -78,7 +78,7 @@
   <string name="toast_description_required">You need to write a description</string>
   <string name="toast_feedback_collect_store">Collecting logs…</string>
   <string name="toast_feedback_network_unavailable">"Can't connect to the network"</string>
-  <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a Wi-Fi network"</string>
+  <string name="toast_feedback_pending_wlan">"Report will be sent when you're connected to a WLAN network"</string>
   <string name="toast_feedback_submitted">Report has been sent</string>
   <string name="toast_feedback_submitting">Submitting…</string>
   <string name="toast_feedbackservice_in_submit">Handling previous feedback…</string>

@@ -109,7 +109,7 @@
   <string name="data_consumption_cancel">Exit</string>
   <string name="data_consumption_checkbox_hint">"Don't show again"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">This app needs to connect to the internet using Wi-Fi to work normally.</string>
+  <string name="data_consumption_message">This app needs to connect to the internet using WLAN to work normally.</string>
   <string name="data_consumption_message1">Device should be connected to the internet to view popular stickers and videos.</string>
   <string name="data_consumption_title">Internet connection</string>
   <string name="decompress_cancel">Cancel</string>
@@ -755,7 +755,7 @@ and never miss the cool new ones!"</string>
   <string name="view_more_sticker">View more stickers</string>
   <string name="wait_net">Waiting for network</string>
   <string name="wait_sdcard">Waiting for SD card…</string>
-  <string name="wait_wifi">Waiting for Wi-Fi</string>
+  <string name="wait_wifi">Waiting for WLAN</string>
   <string name="waiting">Waiting</string>
   <string name="wangpan_root_path">My drive</string>
   <string name="wechat_btn_str">WeChat</string>
@@ -763,7 +763,7 @@ and never miss the cool new ones!"</string>
   <string name="wechat_video">Video at %s</string>
   <string name="weixin_not_installed">"WeChat isn't installed"</string>
   <string name="weixin_sticker_tag_str">Stickers</string>
-  <string name="wifi_state">Wi-Fi network</string>
+  <string name="wifi_state">WLAN network</string>
   <string name="wxcircle_platform">Moments</string>
   <string name="xiaomi_account">Mi Account</string>
   <string name="xiaomi_btn_str">Mi</string>
