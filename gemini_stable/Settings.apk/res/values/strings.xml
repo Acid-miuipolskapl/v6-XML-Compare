@@ -288,6 +288,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
+  <string name="attempt_other_network">Attempt other network</string>
   <string name="audio_list_loading">Loading…</string>
   <string name="audio_profile_settings_title">Audio profiles</string>
   <string name="audio_record_proc_title">Noise cancellation</string>
@@ -2132,7 +2133,7 @@ Select your operating system:"</string>
   <string name="no_default_apps">No default Apps.</string>
   <string name="no_device_admins">No available device administrators</string>
   <string name="no_internet_access_remember">Don’t ask again for this network</string>
-  <string name="no_internet_access_text">This network has no Internet access. Stay connected?</string>
+  <string name="no_internet_access_text">This WLAN %1$s has no Internet access. Stay connected?</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">No networks detected</string>
@@ -3490,6 +3491,7 @@ Your saved fingerprints will also be removed from this device and you won't be a
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
+  <string name="use_this_wlan">Use this WLAN</string>
   <string name="user_account_title">Account for content</string>
   <string name="user_add_max_count">You can add up to %1$d users</string>
   <string name="user_add_on_lockscreen_menu">Add users when device is locked</string>
@@ -3829,6 +3831,8 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn WLAN on</string>
   <string name="wifi_empty_list_wifi_on">Searching for WLAN networks…</string>
   <string name="wifi_enable">WLAN</string>
+  <string name="wifi_enable_data_and_wifi_roam">Enable data and WLAN roam</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Switch to data connection when both WLAN and data is connecting and the WLAN can not access the internet.</string>
   <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>

@@ -280,6 +280,9 @@ Tap the Sync settings button to view more options."</string>
   <string name="micloud_notif_title_sync_with_off">Sync with Mi Cloud</string>
   <string name="micloud_other_product_price">Compare prices</string>
   <string name="micloud_proceed">Continue</string>
+  <string name="micloud_request_permission_confirm">Got it</string>
+  <string name="micloud_request_permission_content">Mi Cloud needs permissions to sync data. Allow Mi Cloud to access Calendar, Contacts, Mi Account, SIM card status, call history, and messages.</string>
+  <string name="micloud_request_permission_title">Mi Cloud needs permissions</string>
   <string name="micloud_sec_dspt">and share things with friends.</string>
   <string name="micloud_setting_antispam_summary">Exceptions and blocked phone numbers</string>
   <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
