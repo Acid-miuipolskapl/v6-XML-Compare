@@ -8,7 +8,6 @@
   <string name="back_up_task_unfinished">Not finished backing up</string>
   <string name="backing_up_to_micloud">Backing up…</string>
   <string name="backup_fail">"Couldn't back up​"</string>
-  <string name="backup_finished_notification_content">Backed up Home screen apps, system settings, etc.</string>
   <string name="backup_size">Size: %s</string>
   <string name="backup_success">Backed up successfully</string>
   <string name="backup_to_cloud">Back up app</string>
@@ -55,8 +54,6 @@ Note: Data for apps you've installed won't be backed up to Mi Cloud."</string>
   <string name="cloud_backup_detail_state">Mi Cloud backup</string>
   <string name="cloud_backup_detail_state_summary">Apps, Home screen and system settings</string>
   <string name="cloud_backup_detail_time">, back up time:%1$s</string>
-  <string name="cloud_backup_have_data">Found backup in Mi Cloud</string>
-  <string name="cloud_backup_select_recover">Choose backup from Mi Cloud</string>
   <string name="cloud_restore_from_other_device">"Stop restoring from %s and delete this backup? You can't reverse this action."</string>
   <string name="cloud_restore_task">Restoring…</string>
   <string name="cloud_task_in_process">"Stop %s and delete this backup? You can't reverse this action."</string>

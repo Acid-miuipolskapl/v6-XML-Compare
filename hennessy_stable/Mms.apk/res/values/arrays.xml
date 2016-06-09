@@ -88,6 +88,14 @@
         <item>vnd.android.cursor.item/note</item>
         <item>vnd.android.cursor.item/relation</item>
     </string-array>
+    <string-array name="entries_date_type">
+        <item>Received</item>
+        <item>Sent</item>
+    </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Received</item>
+        <item>Sent</item>
+    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
         <item>Mi Message</item>

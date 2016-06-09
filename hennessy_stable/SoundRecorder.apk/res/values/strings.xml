@@ -82,6 +82,9 @@
   <string name="status_bar_back">Tap to return to Recorder</string>
   <string name="status_bar_recording">Recording…</string>
   <string name="status_bar_recording_pause">Recorder paused</string>
+  <string name="sync_only_in_wifi">Only use WLAN to sync</string>
+  <string name="sync_only_in_wifi_summary">Recorder will not use mobile data to download or upload recordings</string>
+  <string name="sync_records">Sync with Mi Cloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">%1$s can record for about %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Explorer app isn't installed"</string>

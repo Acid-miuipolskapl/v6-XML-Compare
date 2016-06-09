@@ -176,20 +176,4 @@
         <item quantity="few">Backed up %1$d WeChat videos.</item>
         <item quantity="many">Backed up %1$d WeChat videos.</item>
     </plurals>
-    <plurals name="remote_video_update">
-        <item quantity="other">Found %1$s new videos</item>
-        <item quantity="zero">Found %1$s new videos</item>
-        <item quantity="one">Found %1$s new video</item>
-        <item quantity="two">Found %1$s new videos</item>
-        <item quantity="few">Found %1$s new videos</item>
-        <item quantity="many">Found %1$s new videos</item>
-    </plurals>
-    <plurals name="video_ad_download_tip">
-        <item quantity="other"> Downloads</item>
-        <item quantity="zero"> Downloads</item>
-        <item quantity="one"> Download</item>
-        <item quantity="two"> Downloads</item>
-        <item quantity="few"> Downloads</item>
-        <item quantity="many"> Downloads</item>
-    </plurals>
 </resources>

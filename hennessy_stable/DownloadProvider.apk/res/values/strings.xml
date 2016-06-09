@@ -73,8 +73,4 @@
 
 Touch %s to start this download the next time you're connected to a WLAN network."</string>
   <string name="wifi_required_title">Download too large for operator network</string>
-  <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
-  <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
-  <string name="xl_speedup_notify_button_experience">Try for free</string>
-  <string name="xl_speedup_notify_button_member">Become a member</string>
 </resources>

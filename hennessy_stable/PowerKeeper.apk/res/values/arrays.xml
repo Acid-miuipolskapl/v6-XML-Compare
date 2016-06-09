@@ -164,10 +164,6 @@
         <item>too much right now</item>
         <item>too much in these day</item>
     </string-array>
-    <string-array name="invisible_app_groups">
-        <item>selected</item>
-        <item>unselected</item>
-    </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">
         <item>com.chaozh.iReaderFree</item>
