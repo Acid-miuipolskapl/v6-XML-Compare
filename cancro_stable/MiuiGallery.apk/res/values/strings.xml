@@ -1015,6 +1015,7 @@ device"</string>
   <string name="rotate">Rotate</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Drag photo to rotate</string>
+  <string name="runtime_permission_ungranted">Gallery exit because of ungranted permission</string>
   <string name="same_name_album_exist_and_toast">"An album with the same name already exists. Created '%s' instead."</string>
   <string name="same_name_album_exists_alert">Photos will be added to an existing album with the same name.</string>
   <string name="saturation">Saturation</string>

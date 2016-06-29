@@ -8,11 +8,17 @@
 
 .field public static final IS_A10:Z
 
+.field public static final IS_A12:Z
+
 .field public static final IS_A4:Z
 
 .field public static final IS_A7:Z
 
+.field public static final IS_A8:Z
+
 .field public static final IS_A9:Z
+
+.field public static final IS_B7:Z
 
 .field public static final IS_CM:Z
 
@@ -323,6 +329,26 @@
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
 
+    const-string v0, "natrium"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
+
+    const-string v0, "lithium"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
     const-string v0, "scorpio"
 
     sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
@@ -332,6 +358,16 @@
     move-result v0
 
     sput-boolean v0, Lcom/android/camera/Device;->IS_A4:Z
+
+    const-string v0, "land"
+
+    sget-object v1, Lmiui/os/Build;->DEVICE:Ljava/lang/String;
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    sput-boolean v0, Lcom/android/camera/Device;->IS_A12:Z
 
     const-string v0, "libra"
 
@@ -504,6 +540,14 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -630,6 +674,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-eqz v0, :cond_1
 
@@ -812,6 +864,24 @@
     move-result v0
 
     return v0
+.end method
+
+.method public static isPanoUsePreviewFrame()Z
+    .locals 1
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method public static isQcomPlatform()Z
@@ -1050,6 +1120,14 @@
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
 
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
+
     if-eqz v0, :cond_1
 
     :cond_0
@@ -1208,6 +1286,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A7:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-eqz v0, :cond_1
 
@@ -1513,6 +1599,14 @@
 
     if-nez v0, :cond_0
 
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
+
+    if-nez v0, :cond_0
+
     const/4 v0, 0x1
 
     :goto_0
@@ -1566,6 +1660,14 @@
     if-nez v0, :cond_0
 
     sget-boolean v0, Lcom/android/camera/Device;->IS_A10:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_A8:Z
+
+    if-nez v0, :cond_0
+
+    sget-boolean v0, Lcom/android/camera/Device;->IS_B7:Z
 
     if-eqz v0, :cond_1
 
