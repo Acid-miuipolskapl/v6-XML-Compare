@@ -925,6 +925,11 @@
         <item>C298</item>
         <item>C299</item>
     </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>无</item>
+        <item>稍后再响</item>
+        <item>关闭</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarm in less than 1 minute</item>
         <item>Alarm in %1$s</item>
@@ -944,6 +949,7 @@
         <item>Once</item>
         <item>Daily</item>
         <item>Work days</item>
+        <item>Off days</item>
         <item>Mon to Fri</item>
         <item>Custom</item>
     </string-array>
@@ -959,22 +965,23 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
     <integer-array name="alarm_repeat_type_no_workdays_values">
         <item>0</item>
         <item>1</item>
-        <item>3</item>
         <item>4</item>
+        <item>5</item>
     </integer-array>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>Alarm will go off in less than 1 minute.</item>
+        <item>Alarm will go off in %1$s.</item>
+        <item>Alarm will go off in %2$s.</item>
+        <item>Alarm will go off in %1$s and %2$s.</item>
+        <item>Alarm will go off in %3$s.</item>
+        <item>Alarm will go off in %1$s and %3$s.</item>
+        <item>Alarm will go off in %2$s and %3$s.</item>
+        <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 minute</item>
