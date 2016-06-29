@@ -1048,6 +1048,7 @@
         <item>com.miui.yellowpage</item>
         <item>com.miui</item>
         <item>com.android.htmlviewer</item>
+        <item>com.google.android.packageinstaller</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -1437,19 +1438,17 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
+        <item>30000</item>
         <item>60000</item>
         <item>120000</item>
         <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Immediately</item>
+        <item>30 seconds</item>
         <item>1 minute</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Hide system animations</item>
@@ -1518,6 +1517,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ht</item>
         <item>hn</item>
         <item>hk</item>
+        <item>hu</item>
         <item>in</item>
         <item>id</item>
         <item>ir</item>
@@ -1580,6 +1580,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>th</item>
         <item>tn</item>
         <item>tr</item>
+        <item>tm</item>
         <item>tt</item>
         <item>ug</item>
         <item>ua</item>
@@ -1594,8 +1595,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>zw</item>
     </string-array>
     <string-array name="broadcast_locales">
+        <item>AE</item>
         <item>AG</item>
         <item>AR</item>
+        <item>BH</item>
         <item>BO</item>
         <item>BS</item>
         <item>BB</item>
@@ -1604,13 +1607,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>CL</item>
         <item>CO</item>
         <item>EC</item>
+        <item>EG</item>
         <item>GF</item>
         <item>GD</item>
         <item>GY</item>
         <item>IN</item>
         <item>IL</item>
+        <item>IR</item>
+        <item>JO</item>
+        <item>KW</item>
+        <item>OM</item>
         <item>PY</item>
         <item>PE</item>
+        <item>QA</item>
+        <item>SA</item>
         <item>SR</item>
         <item>KN</item>
         <item>LC</item>
