@@ -392,11 +392,12 @@ Contact cards are turned off"</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
   <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
-  <string name="export_to_sdcard">Export to storage</string>
+  <string name="export_to_sdcard">Export to SD card</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
   <string name="export_to_sim_title">Exporting…</string>
+  <string name="export_to_storage">Export to storage</string>
   <string name="export_vcard_description">Export vCard to SD card</string>
   <string name="exporting_contact_failed_message">"The contact data wasn't exported.
 Reason: \"%s\""</string>
@@ -458,6 +459,12 @@ Reason: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">Merge duplicate contacts</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_service_unavailiable">Service unavailable</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
@@ -688,6 +695,7 @@ Reason: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
@@ -888,6 +896,7 @@ To add a contact to your list of favorites:
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
+  <string name="preference_key_trash_bin_title">Browse backed up contacts which were deleted recently</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>
@@ -1067,6 +1076,10 @@ To add a contact to your list of favorites:
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
+  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_sd_card">SD card</string>
+  <string name="storage_sd_card_description">SD card</string>
+  <string name="storage_usb_description">USB storage</string>
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Import done</string>
   <string name="summary_kind_title">Summary</string>
