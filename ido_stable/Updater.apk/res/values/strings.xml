@@ -154,7 +154,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
   <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
   <string name="recovery_power_not_enough_msg">Connect charger to update if less than 30% of battery is left</string>
-  <string name="recovery_power_not_enough_msg_plugged">Battery must be above 15% before device can update</string>
+  <string name="recovery_power_not_enough_msg_plugged">Battery must be above 30% before device can update</string>
   <string name="recovery_power_not_enough_title">Low battery</string>
   <string name="repeat">Retry</string>
   <string name="root_acquired">Allow root access</string>

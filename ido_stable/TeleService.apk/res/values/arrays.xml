@@ -17,17 +17,14 @@
     <string-array name="sip_call_options_entries">
         <item>@string/sip_call_options_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
     </string-array>
     <string-array name="sip_call_options_wifi_only_entries">
         <item>@string/sip_call_options_wifi_only_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
     </string-array>
     <string-array name="sip_call_options_values">
         <item>@string/sip_always</item>
         <item>@string/sip_address_only</item>
-        <item>@string/sip_ask_me_each_time</item>
     </string-array>
     <string-array name="sip_send_keepalive_options">
         <item>@string/sip_system_decide</item>
@@ -102,10 +99,10 @@
         <item>2</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
-        <item>TTY Full</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
+        <item>@string/APKTOOL_DUMMY_0596</item>
+        <item>@string/APKTOOL_DUMMY_0594</item>
+        <item>@string/APKTOOL_DUMMY_0595</item>
+        <item>@string/APKTOOL_DUMMY_0597</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -114,8 +111,8 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Normal</item>
-        <item>Long</item>
+        <item>@string/dtmf_tone_entries_normal</item>
+        <item>@string/dtmf_tone_entries_long</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
@@ -376,4 +373,43 @@
         <item>3</item>
         <item>4</item>
     </string-array>
+    <integer-array name="network_mode_3g_cm">
+        <item>16</item>
+        <item>1</item>
+        <item>13</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cm">
+        <item>17</item>
+        <item>16</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_3g_cu">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cu">
+        <item>9</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_gsm">
+        <item>20</item>
+        <item>18</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="network_mode_3g_cdma">
+        <item>7</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="network_mode_4g_cdma">
+        <item>10</item>
+        <item>8</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="network_mode_all_lte">
+        <item>10</item>
+        <item>8</item>
+        <item>20</item>
+    </integer-array>
 </resources>
