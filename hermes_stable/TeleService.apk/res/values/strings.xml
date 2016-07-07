@@ -134,6 +134,7 @@
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
   <string name="call_record_auto_whitelist_summary">%d numbers</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 number</string>
+  <string name="call_record_loading_content">Loading…</string>
   <string name="call_record_off_summary">Off</string>
   <string name="call_record_on_summary">Calls will be recorded automatically</string>
   <string name="call_record_setting">Call recording</string>
@@ -149,6 +150,7 @@
   <string name="call_remove_exception_numbers_confirm">%d numbers will be deleted.</string>
   <string name="call_settings">Call Settings</string>
   <string name="call_settings_category">Calls</string>
+  <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
   <string name="call_settings_title_font_family">sans-serif-light</string>
   <string name="call_waiting_summary">During a call, notify me of other incoming calls</string>
   <string name="call_waiting_title">Call waiting</string>
@@ -162,6 +164,7 @@
   <string name="calling_via_template">Calling via %s</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
   <string name="can_not_call_self">"Can't dial own number"</string>
+  <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
   <string name="cancel">Cancel</string>
   <string name="card_title_call_ended">Call ended</string>
   <string name="card_title_conf_call">Conference call</string>
@@ -193,6 +196,8 @@
   <string name="cb_menu_language">Language</string>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
   <string name="cdma_activate_device">Activate device</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
+  <string name="cdma_alert_title">UIM card must be default</string>
   <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
   <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
   <string name="cdma_display_precise_call_state_title">Display call status</string>
@@ -232,6 +237,7 @@
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
   <string name="common_problem_message">Learn more in %1$s, or call our customer service at 400-100-5678</string>
   <string name="common_setting">General settings</string>
+  <string name="config_default_data_sim">Settings</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Confirm new PIN2</string>
   <string name="confirmPinLabel">Confirm new PIN</string>
@@ -453,6 +459,8 @@ Switch to the new provider anyway?"</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="get_use_history_failed">"Couldn't get history"</string>
   <string name="goPrivate">go private</string>
+  <string name="go_to_virtual_sim_title">Virtual SIM</string>
+  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network Mode</string>
   <string name="gsm_umts_network_preferences_title">Network Mode</string>
   <string name="gsm_umts_network_preferneces_summary">Not implemented yet!</string>
@@ -590,7 +598,7 @@ Top up and start talking"</string>
 • Call any phone in the world, there are no carrier restrictions.
 • Top up and start calling, there are no complicated settings."</string>
   <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
-  <string name="livetalk_white_list_number_title">Make regular call</string>
+  <string name="livetalk_white_list_number_title">White list of without use Top-up package</string>
   <string name="load_networks_progress">Searching…</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_order">Just a sec…</string>
@@ -921,12 +929,12 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pstn_connection_service_label">Built-in SIM cards</string>
   <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_blocked">PUK2 is permanently blocked.</string>
-  <string name="puk2_label">Input PUK2 code</string>
+  <string name="puk2_label">Enter PUK2 code</string>
   <string name="puk2_requested">Password incorrect, SIM is locked. PUK2 requested.</string>
-  <string name="puk_label">Input PUK code</string>
+  <string name="puk_label">Enter PUK code</string>
   <string name="puk_length_indicate">(8 digits)</string>
   <string name="puk_lock_warning">"
-Your SIM card will be erased after another failed attempt."</string>
+Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
   <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
   <string name="purchase_description_summary">"- Call any phone in the world, there are no carrier restrictions.
@@ -993,6 +1001,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
   <string name="roaming_enable">Connect to data services when roaming</string>
+  <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
+  <string name="roaming_notification_title">Looks like roaming is activated</string>
   <string name="roaming_reenable_message">"You've lost data connectivity because you left your home network with data roaming turned off."</string>
   <string name="roaming_warning">Allow data roaming? You may incur significant roaming charges!</string>
   <string name="save">Save</string>
@@ -1102,6 +1112,8 @@ Your SIM card will be erased after another failed attempt."</string>
   <string name="telocation_contacts_countrycode">Default country code</string>
   <string name="telocation_contacts_countrycode_hint">Enter country code</string>
   <string name="telocation_contacts_countrycode_summary">Default country code for contacts is %s</string>
+  <string name="telocation_country_code_enabled_message">Add country codes to make dialing in roaming more convenient.</string>
+  <string name="telocation_country_code_enabled_title">Add country codes when dialing</string>
   <string name="telocation_countrycode_alert_message">Enter phone number without country code</string>
   <string name="telocation_countrycode_alert_message_warning">The country code you entered may be incorrect.</string>
   <string name="telocation_countrycode_alert_message_wrong">The country code you entered is incorrect.</string>
