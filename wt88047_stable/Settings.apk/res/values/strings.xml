@@ -7,7 +7,7 @@ Advertising identifier is a permanent ID unique to your device. Vendors use it t
 If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
   <string name="about_settings">About phone</string>
   <string name="about_settings_summary">View legal info, status, software version</string>
-  <string name="ac_enable_summary">Password will be required to open the app</string>
+  <string name="ac_enable_summary">Set a password for individual apps</string>
   <string name="ac_enable_title">App Lock</string>
   <string name="ac_privacy_mode_sum">Require a password to turn Guest mode off</string>
   <string name="ac_privacy_mode_title">Password</string>
@@ -147,7 +147,7 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
   <string name="android_beam_off_summary">NFC content sharing is off</string>
   <string name="android_beam_on_summary">NFC content sharing is on</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Make sure the two devices are touching, and then touch the content you want to beam.</string>
+  <string name="android_beam_tips">Make sure the two devices are touching, and then tap the content you want to beam.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="anti_spam">Blocklist</string>
@@ -973,6 +973,7 @@ This setting affects all users on this phone."</string>
   <string name="device_admin_title">Device administration</string>
   <string name="device_admin_warning">Activating this administrator will allow the app %1$s to perform the following operations:</string>
   <string name="device_cpu">CPU</string>
+  <string name="device_cpu10_info">Deca-core</string>
   <string name="device_cpu2_info">Dual-core</string>
   <string name="device_cpu4_info">Quad-core</string>
   <string name="device_cpu6_info">Hexa-core</string>
@@ -1396,7 +1397,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="home_key">Home</string>
   <string name="home_settings">Home</string>
   <string name="home_work_profile_not_supported">"Doesn't support work profiles"</string>
-  <string name="ime_security_warning">%1$sThis keyboard can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="ime_security_warning">%1$s can record everything you type, including passwords, credit card numbers, and other personal data.</string>
+  <string name="imei_information_summary">IMEI relative information</string>
+  <string name="imei_information_title">IMEI information</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
@@ -1609,6 +1612,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lock_screen_secure_after_timeout_title">Password required</string>
   <string name="lock_screen_unlock_show">Skip swipe screen</string>
   <string name="lock_screen_unlock_show_summary">Go directly to Home screen or password input from wake</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Tap to change</string>
   <string name="lock_settings">Lock screen &amp; password</string>
   <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
@@ -1904,7 +1908,7 @@ Select your operating system:"</string>
   <string name="music_hifi_volume">Hi-Fi volume</string>
   <string name="music_mi_effect_summary">Use Mi Sound Enhancer when using speakers</string>
   <string name="music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="music_title_dolby_control">Dolby digital plus</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="musicfx_title">Music effects</string>
   <string name="mvno_match_data">MVNO value</string>
   <string name="mvno_type">MVNO type</string>
@@ -2711,6 +2715,7 @@ Attempts Remaining :"</string>
   <string name="skip_lock_screen_confirm_msg">Notifications, music player controls, Camera, and Mi Home will be disabled on lock screen.</string>
   <string name="skip_step">Skip</string>
   <string name="slot_name">SIM %d</string>
+  <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">IMEI info</string>
   <string name="small_font">Small</string>
   <string name="smallwindow_smartcover_title">Transparent front cover</string>
@@ -2920,6 +2925,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
+  <string name="touch_assistant">Shortcut menu</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
@@ -3218,8 +3224,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="vibrate_input_devices_summary">Redirect vibrator to game controller when connected.</string>
   <string name="vibrate_on_touch_title">Vibrate on touch</string>
   <string name="vibrate_when_ringing_title">Also vibrate for calls</string>
-  <string name="virtual_sim_category_title">Virtual SIM</string>
+  <string name="virtual_sim_category_title">Mi Roaming</string>
   <string name="virtual_sim_description">Reliable international roaming service</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">No SIM card is required to connect to a data network</string>
+  <string name="virtual_sim_global_title">Data traffic service</string>
   <string name="virtual_sim_search_title">Virtual SIM</string>
   <string name="virtual_sim_title">Roaming data network</string>
   <string name="virus_scan">Virus scan</string>
@@ -3245,7 +3254,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated on %s</string>
   <string name="virus_scanner_provider">Powered by %s</string>
-  <string name="virus_scanner_scan">Touch to scan</string>
+  <string name="virus_scanner_scan">Tap to scan</string>
   <string name="virus_scanner_scanning">Scanning…</string>
   <string name="virus_scanner_select_Cancel">Cancel</string>
   <string name="virus_scanner_select_OK">OK</string>
