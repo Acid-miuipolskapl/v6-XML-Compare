@@ -2,6 +2,11 @@
 <resources>
   <string name="app_name">Search</string>
   <string name="apps_search_activity"/>
+  <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Clear history</string>
   <string name="clear_shortcuts">Clear shortcuts</string>
@@ -11,6 +16,7 @@
 
 To clear your Browser history, use the Browser's settings."</string>
   <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
+  <string name="connect_and_retry">Connect to the internet and try again</string>
   <string name="corpus_description_apps">Installed applications</string>
   <string name="corpus_description_web">Bookmarks</string>
   <string name="corpus_hint_apps">Search apps</string>
@@ -41,6 +47,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="loading">Just a sec…</string>
   <string name="menu_help">Help</string>
   <string name="menu_settings">Search settings</string>
+  <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>
   <string name="remove_from_history">Do you want to remove this item from the search history?</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
@@ -50,6 +57,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>
+  <string name="search_suggestion">Tips</string>
   <string name="search_widget">Search</string>
   <string name="send_secret_code">Send code</string>
   <string name="show_more">Show more</string>
@@ -57,6 +65,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Try saying "</string>
+  <string name="web_search_results">Web search results</string>
   <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
   <string name="xiaomi_hot_query">http://global.search.xiaomi.net/global/v3.1/hotquery</string>
   <string name="xiaomi_search_label">Results</string>

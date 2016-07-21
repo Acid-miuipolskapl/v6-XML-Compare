@@ -41,7 +41,7 @@
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="back_view_description">Tap to go back</string>
+  <string name="back_view_description">Go back</string>
   <string name="batch_delete">Delete batch</string>
   <string name="blacklist">Block</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
@@ -125,7 +125,7 @@
   <string name="callrecordview_menu_show_sim">%s calls</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_title">Call history display</string>
-  <string name="calls_voip_prompt">VOIP</string>
+  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Discard your changes?</string>
   <string name="cancel_confirmation_dialog_title">Cancel</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
@@ -346,7 +346,7 @@ Contact cards are turned off"</string>
   <string name="dialer_empty_text_loading">Just a sec…</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="dialer_empty_text_no_search_result">No contacts found</string>
-  <string name="dialer_menu_description">Tap to open dialer menu</string>
+  <string name="dialer_menu_description">Show dialer</string>
   <string name="dialer_returnToInCallScreen">Return to call in progress</string>
   <string name="dialer_useDtmfDialpad">Use touch tone keypad</string>
   <string name="dialog_import">Import contacts</string>
@@ -392,11 +392,12 @@ Contact cards are turned off"</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Contacts exported</string>
   <string name="export_sim_contact_finish_msg">%1$d transferred | %2$d duplicated | %3$d remaining</string>
-  <string name="export_to_sdcard">Export to storage</string>
+  <string name="export_to_sdcard">Export to SD card</string>
   <string name="export_to_sim">Export to SIM card</string>
   <string name="export_to_sim1">Export to SIM card 1</string>
   <string name="export_to_sim2">Export to SIM card 2</string>
   <string name="export_to_sim_title">Exporting…</string>
+  <string name="export_to_storage">Export to storage</string>
   <string name="export_vcard_description">"Export vCard to phone's internal storage"</string>
   <string name="exporting_contact_failed_message">"The contact data wasn't exported.
 Reason: \"%s\""</string>
@@ -458,10 +459,16 @@ Reason: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">Merge duplicate contacts</string>
+  <string name="hybrid_check_network">Network settings</string>
+  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_locating_fail">"Couldn't find your location"</string>
+  <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
+  <string name="hybrid_service_unavailiable">Service unavailable</string>
+  <string name="hybrid_try_again">Try again</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI : "</string>
   <string name="imei_invalid">Invalid IMEI</string>
   <string name="import_all_sim_entries_miui">Import all contacts</string>
   <string name="import_all_vcard_string">Import all vCard files</string>
@@ -486,6 +493,7 @@ Reason: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Mi Account</string>
   <string name="import_to_xiaomi_account_title">Import to Mi Account</string>
   <string name="import_vcard_description">"Import contacts from your phone's internal storage"</string>
+  <string name="import_vcard_dialog_message">Import vCard?</string>
   <string name="import_weibo_dialog_title">Import Weibo contacts</string>
   <string name="import_weibo_error_no_matched_contacts">No matching contacts</string>
   <string name="import_weibo_error_no_network">"Can't connect to the network. Check your data connection and try again."</string>
@@ -575,7 +583,7 @@ Reason: \"%s\""</string>
   <string name="map_home">View home address</string>
   <string name="map_other">View address</string>
   <string name="map_work">View work address</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID : "</string>
   <string name="meid_invalid">Invalid MEID</string>
   <string name="menu_accounts">Accounts</string>
   <string name="menu_addStar">Favorite</string>
@@ -608,7 +616,8 @@ Reason: \"%s\""</string>
   <string name="menu_help">Help</string>
   <string name="menu_import_export">Import/export</string>
   <string name="menu_joinAggregate">Merge</string>
-  <string name="menu_newContact">New contact</string>
+  <string name="menu_newContact">Create a new contact</string>
+  <string name="menu_newContactButton">Add</string>
   <string name="menu_new_contact_action_bar">New</string>
   <string name="menu_new_favorite_action_bar">Add to favorites</string>
   <string name="menu_new_group_action_bar">New</string>
@@ -681,11 +690,13 @@ Reason: \"%s\""</string>
   <string name="miprofile_request_notification_title_name">%1$s wants to exchange contact cards</string>
   <string name="miprofile_save_alertdialog_message">Your card will be sent to this contact automatically.</string>
   <string name="miprofile_save_alertdialog_title">Contact card received</string>
-  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people. Your contacts won't be able to see your profile video."</string>
+  <string name="miprofile_switch_off_alertdialog_message">"You won't be able to exchange contact cards with other people."</string>
   <string name="miprofile_switch_on_alertdialog_message">Exchange contact cards to view updated profile photo.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Turn on</string>
   <string name="miprofile_switch_on_alertdialog_title">Profile photo update</string>
   <string name="missing_name">(No name)</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
+  <string name="mobile_equipment_identification">Mobile Equipment Identification</string>
   <string name="more_call_logs">View detailed call history at i.mi.com</string>
   <string name="move_and_resize">Move and resize</string>
   <string name="multi_number_menu_call">Call</string>
@@ -795,7 +806,7 @@ To add a contact to your list of favorites:
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No storage was found.</string>
   <string name="no_voip_contacts">No Mi Voice contacts</string>
-  <string name="non_phone_add_to_contacts">Add to contacts</string>
+  <string name="non_phone_add_to_contacts">Add to an existing contact</string>
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
   <string name="none_paired">No devices are currently paired</string>
@@ -885,6 +896,7 @@ To add a contact to your list of favorites:
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Import/Export contacts</string>
+  <string name="preference_key_trash_bin_title">Browse backed up contacts which were deleted recently</string>
   <string name="preference_others">Other</string>
   <string name="preference_phone">Phone</string>
   <string name="preference_phone_more_title">Call settings</string>
@@ -929,7 +941,7 @@ To add a contact to your list of favorites:
   <string name="rebuild_t9_index_dialog_message">Rebuilding…</string>
   <string name="recent">Recent</string>
   <string name="recentCallsIconLabel">Call log</string>
-  <string name="recentCalls_addToContact">Add to contacts</string>
+  <string name="recentCalls_addToContact">Add to an existing contact</string>
   <string name="recentCalls_callNumber">Call %s</string>
   <string name="recentCalls_deleteAll">Clear call log</string>
   <string name="recentCalls_editNumberBeforeCall">Edit number before call</string>
@@ -1001,8 +1013,6 @@ To add a contact to your list of favorites:
   <string name="sim_capacity_content" formatted="false">%d total | %d used</string>
   <string name="sim_card_no_free_space_message">Not enough space</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
   <string name="sim_contact_existing">Contact already exists</string>
   <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">An error occurred</string>
@@ -1066,6 +1076,10 @@ To add a contact to your list of favorites:
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
+  <string name="storage_internal_description">Internal storage</string>
+  <string name="storage_sd_card">SD card</string>
+  <string name="storage_sd_card_description">SD card</string>
+  <string name="storage_usb_description">USB storage</string>
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Import done</string>
   <string name="summary_kind_title">Summary</string>
@@ -1094,6 +1108,7 @@ To add a contact to your list of favorites:
   <string name="type_mx_msg">Mi Message</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_voicemail">Voicemail</string>
+  <string name="unable_get_device_id">Unable to get IMEI</string>
   <string name="unknow_phone_number_call_failed">"Can't call unknown number"</string>
   <string name="unknow_phone_number_mms_failed">"Can't send message to unknown number"</string>
   <string name="unknown">Unknown</string>
@@ -1137,14 +1152,14 @@ Choose one of the following options:"</string>
   <string name="voicemail_status_configure_voicemail">Set up your voicemail.</string>
   <string name="voicemail_status_messages_waiting">"Can't connect to voicemail server. New voicemails are waiting."</string>
   <string name="voicemail_status_voicemail_not_available">"Can't connect to voicemail server."</string>
-  <string name="voip_audio_description">Tap to send voice message</string>
+  <string name="voip_audio_description">VoIP call</string>
   <string name="voip_contact_label">Mi Voice</string>
   <string name="voip_contacts_entry">Mi Voice</string>
   <string name="voip_loading_contact">Just a sec…</string>
   <string name="voip_name">Mi Voice</string>
   <string name="voip_recommend_msg">Tap to use Mi Voice</string>
   <string name="voip_shortcut_name">Mi Voice</string>
-  <string name="voip_video_description">Tap to send video message</string>
+  <string name="voip_video_description">VoIP video call</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
