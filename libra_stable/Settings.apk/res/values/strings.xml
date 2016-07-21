@@ -2923,7 +2923,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="toast_need_login">Sign in to your Mi Account</string>
   <string name="total_size">%s total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_assistant">Shortcut menu</string>
+  <string name="touch_assistant">Quick ball</string>
   <string name="touch_sensitive_summary">Make screen extra responsive to pressure</string>
   <string name="touch_sensitive_title">Glove mode</string>
   <string name="touch_sensitive_turn_off_cancel">Cancel</string>
